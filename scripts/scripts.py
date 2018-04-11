@@ -399,7 +399,7 @@ class CDLI_query_functions(CDLI, common_functions):
       path = self.FILTERED_QUERY_PATH
     self.makedirs_query_filtered(path)
     self.dump_query_filtered(path)
-    #self.copy_atf_filtered(path)
+    self.copy_atf_filtered(path)
     self.atf2conll_filtered(path)
 
   def makedirs_query_filtered(self, path):
@@ -620,16 +620,27 @@ class split_data_functions(CDLI, common_functions):
     
 # ---/ Parallel corpus functions /---------------------------------------------
 #
-class parallel_functions(CDLI, common_functions):
+class translated_corpus_functions(CDLI, common_functions):
   '''
-  Functions to get parallel corpus data from filtered query.
+  Functions to get translated corpus data from filtered query.
   '''
-  def __init__(self, entries_lst):
-    pass
-    self.query_data = self.load_json(
-      self.QUERY_PATH+'/query_variables.json')
+  def __init__(self, filename):
+    self.filename = filename
+    q = self.load_json('%s/%s' %(self.FILTERED_QUERY_PATH, filename))
+    tr_lst = [e for e in q['entries'] if 'translated' in e.keys()]
+    self.entries_lst = [e for e in tr_lst if e['translated']==True]
 
-
+  def dump_translated(self):
+    '''
+    Dumps JSON data.
+    '''
+    json_data = {'entries': self.entries_lst,
+                 'source_query': '%s/%s' %(self.FILTERED_QUERY_PATH,
+                                           self.filename)}
+    filename = '%s/corpus_translated_%s.json' \
+               %(self.FILTERED_QUERY_PATH, time.strftime("%Y%m%d-%H%M%S"))
+    self.dump(json.dumps(json_data), filename)    
+    
 # ---/ Github repo query /-----------------------------------------------------
 #
 class github_repo_list(common_functions):
@@ -727,6 +738,9 @@ if __name__ == "__main__":
   
   '''copy gold CoNLL'''
 #  sf.copy_gold_conll()
+  '''find and dump translated '''
+  tr = translated_corpus_functions('corpus_20180410-215511.json')
+  tr.dump_translated()
 
 
 
