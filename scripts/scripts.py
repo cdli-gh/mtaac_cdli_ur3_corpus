@@ -537,29 +537,98 @@ class CDLI_query_split_functions(CDLI, common_functions):
 
 # ---/ Split functions /-------------------------------------------------------
 #
-class split_functions(CDLI, common_functions):
+class split_data_functions(CDLI, common_functions):
 
   def __init__(self, filename):
+    self.filename = filename
     self.parts_lst = self.load_json('%s/%s'
                                     %(self.FILTERED_QUERY_PATH, filename))
+    self.train_entries_lst = self.parts_lst[0]['entries']
+    self.test_entries_lst = self.parts_lst[1]['entries']
+    self.develop_entries_lst = self.parts_lst[2]['entries']
+    self.github_list = [g.split('.')[0] for g in github_repo_list().file_lst
+                        if g[0]=='P' and '.conll' in g]
 
   def copy_gold_conll(self):
     '''
     Copies gold CoNLL files (for filtered entries) to new destination.
     '''
-    g_entries_lst = [e for e in self.parts_lst
-                     if e['name']=='test'][0]['entries']
     path = '%s/conll_gold' %(self.FILTERED_QUERY_PATH)
     if not os.path.exists(path):
       os.makedirs(path)
-    github_list = [g.split('.')[0] for g in github_repo_list().file_lst
-                   if g[0]=='P' and '.conll' in g]
-    for entry in g_entries_lst:
-      if entry['CDLI no.'] not in github_list:
+    for entry in self.test_entries_lst:
+      if entry['CDLI no.'] not in self.github_list:
         scr = '%s/conll/%s.conll' %(self.FILTERED_QUERY_PATH,
                                     entry['CDLI no.'])
         dest = '%s/%s.conll' %(path, entry['CDLI no.'])
         shutil.copyfile(scr, dest)
+
+  def redefine_unchangable(self, unchangable):
+    '''
+    Corrects split data with a list of new unchangable ids and these
+    in Github gold corpus repo.
+    '''
+    print('redefining unchangable entries')
+    unchangable = list(set(unchangable+self.github_list))
+    train_ids_lst = [e['CDLI no.'] for e in self.train_entries_lst]
+    test_ids_lst = [e['CDLI no.'] for e in self.test_entries_lst]
+    develop_ids_lst = [e['CDLI no.'] for e in self.develop_entries_lst]
+    for u in unchangable:
+      if u in train_ids_lst:
+        self.redefine_entry(u, 'train', unchangable)
+      elif u in develop_ids_lst:
+        self.redefine_entry(u, 'develop', unchangable)
+    self.update_parts_lst()
+    self.dump_redefined()
+
+  def redefine_entry(self, ID, group, unchangable):
+    '''
+    Subfunction of self.redefine_unchangable().
+    Changes self.parts_lst.
+    Place entry from train / devel and replace it with
+    one from test, but not in unchangable.
+    '''
+    print('move %s from %s to test' %(ID, group))
+    d = {'train': self.train_entries_lst,
+         'develop': self.develop_entries_lst}
+    entry = [e for e in d[group] if e['CDLI no.']==ID][0]
+    self.test_entries_lst.append(entry)
+    d[group].remove(entry)
+    for e in self.test_entries_lst:
+      if e['CDLI no.'] not in unchangable:
+        print('move %s from test to %s' %(e['CDLI no.'], group))
+        d[group].append(e)
+        self.test_entries_lst.remove(e)
+        break
+    self.train_entries_lst = d['train']
+    self.develop_entries_lst = d['develop']
+
+  def update_parts_lst(self):
+    '''
+    Updates changes in self.parts_lst.
+    '''
+    self.parts_lst[0]['entries'] = self.train_entries_lst
+    self.parts_lst[1]['entries'] = self.test_entries_lst
+    self.parts_lst[2]['entries'] = self.develop_entries_lst
+
+  def dump_redefined(self):
+    '''
+    Dumps updated self.parts_lst.
+    '''
+    path = '%s/%s.redef' %(self.FILTERED_QUERY_PATH, self.filename)
+    self.dump(json.dumps(self.parts_lst), path)
+    
+# ---/ Parallel corpus functions /---------------------------------------------
+#
+class parallel_functions(CDLI, common_functions):
+  '''
+  Functions to get parallel corpus data from filtered query.
+  '''
+  def __init__(self, entries_lst):
+    pass
+    self.query_data = self.load_json(
+      self.QUERY_PATH+'/query_variables.json')
+
 
 # ---/ Github repo query /-----------------------------------------------------
 #
@@ -569,6 +638,8 @@ class github_repo_list(common_functions):
   without downloading the repo itself.
   Serves for filtering a predefined Gold Corpus,
   but can be adjusted for further Github usage.
+  ! WARNING: Will not work correctly with directories
+  of < 1000 files !
   '''
   GITHUB_URL = "https://github.com"
   ORG = 'cdli-gh'
@@ -633,20 +704,29 @@ UNCHANGABLE = [
 # ---/ Main /------------------------------------------------------------------
 #
 if __name__ == "__main__":
+  pass
   '''primary query: '''
 ##  pq = CDLI_query_primary()
 ##  pq.query(CDLI_QUERY_DICT)
 
   '''filter: '''
 ##  qf = CDLI_query_functions()
+  
   '''save filtered data:'''
 ##  qf.save_filtered()
 
-  '''split: '''  
-##  qs = CDLI_query_split_functions(qf.entries_lst)
+  '''split: '''
+##  qs = CDLI_query_split_functions(qf.entries_lst, unchangable=UNCHANGABLE)
 ##  qs.dump_split(qf.FILTERED_QUERY_PATH)
 
+  '''redefine unchagable
+  (when unchangable=UNCHANGABLE omitted in CDLI_query_split_functions())
+  '''
+#  sf = split_data_functions('corpus_split_20180410-224554.json')
+#  sf.redefine_unchangable(UNCHANGABLE)
+  
   '''copy gold CoNLL'''
-##  sf = split_functions('corpus_split_20180410-224554.json')
-##  sf.copy_gold_conll()
+#  sf.copy_gold_conll()
+
+
 
