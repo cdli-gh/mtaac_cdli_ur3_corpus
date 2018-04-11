@@ -1,0 +1,63 @@
+&P112505 = YNER 08, 13
+#atf: lang sux
+@tablet
+@obverse
+1. 1(gesz2) 1(u) sze gur 1(asz) 5(ban2) gur-ta
+#tr.en: 70 gur barley, 1 gur 5 ban2 each,
+2. 1(gesz2) 5(u) gur 1(asz) 4(ban2) gur-ta
+#tr.en: 110 gur, 1 gur 4 ban2 each,
+3. ku3-bi 2(disz) 1/2(disz) ma-na 7(disz) gin2 9(disz) 1/2(disz) sze
+#tr.en: its silver: 2 1/2 mana 7 shekels 9 1/2 grains,
+# calculation: (70 ÷ 350/300) + (110 ÷ 340/300) ≈ 157 10.6/180 (text has 157 9.5/180)
+4. mu {d}szu-{d}suen lugal
+#tr.en: year: “Šu-Suen is king;”
+5. 1(gesz2) 1(u) gur
+#tr.en: 70 gur barley,
+6. ku3-bi 1(disz) ma-na 1(u) gin2
+#tr.en: its silver: 1 mana 10 shekels,
+# calculation: 70 ÷ 300/300 = 70
+7. mu ma2 dara3-ab-zu-{d}en-ki ba-ab-du8
+#tr.en: year: “The barge Dara-abzu-of-Enki was calked;”
+8. 2(gesz2)# 1(u)# 4(asz)# gur
+#tr.en: 134 gur,
+9. ku3-bi 2(disz) 1/2(disz) <ma-na> 7(disz) 1/2(disz) <gin2>
+#tr.en: its silver: 2 1/2 (mana) 7 1/2 (shekels),
+# calculation: 134 ÷ 255/300 ≈ 157 116.5/180 (text has 157 90/180)
+# ma of ma-na on tablet, partially erased
+10. mu si-ma-num2{ki} ba-hul
+#tr.en: year: “Simanum was destroyed;”
+$ blank space
+11. sze ku3-sze3 sa10-a
+#tr.en: barley for silver exchanged;
+@bottom
+1. ($ blank space $) 6(disz) 5(u) 7(disz@v) 2(u) 1(u) 5(disz)
+#tr.en: 6.57;20 0;0,15
+# calculation: 157 9.5/180 + 70 + 157 90/180 + 32 155/180 [rev. 1] = 417 74.5/180 (text has 6.57;20 15 = 417 1/3 + 15 = 417 (60 + 15 =)75/180)
+@reverse
+1. 1/2(disz) ma-na 2(disz) 5/6(disz) gin2 5(disz) sze ku3-babbar
+#tr.en: 1/2 mana 2 5/6 shekels 5 grains silver,
+2. la2-ia3 su-ga ugula kikken2 sa2-du11 ensi2-ka
+#tr.en: replaced deficit, forman of the mill, regular offering of the governor;
+$ blank space
+3. szunigin# 6(disz)# 5/6(disz)# ma-na 7(disz) 1/2(disz) gin2 1(u) 5(disz) sze
+#tr.en: total: 6 5/6 mana 7 1/2 shekels 15 grains,
+# error 1/2 for 0;20 of sexagesimal notation bottom of obverse
+4. sza3#-[bi]-ta
+#tr.en: therefrom:
+5. 1(u) 4(disz) 2/3(disz) gin2 sa10-am3 x x x zabar uruda szu-nir-ra x
+#tr.en: 14 shekels, exchange middle for ... bronze, copper, standards, ...,
+6. 4(disz) 1/2(disz) ma-na ku3-babbar
+#tr.en: 4 1/2 mana silver,
+7. kiszib3# ensi2#-ka
+#tr.en: under seal of the governor,
+8. la2-ia3 2(disz) ma-na 1(u) 3(disz) gin2 ku3-babbar x
+#tr.en: the deficit: 2 mana 13 shekels silver,
+# calculation: 417 105/180 - (14 120/180 + 270) = 132 165/180 (text has 133, potentially with la2 1(u) 5(disz) squeezed in below)
+9. nig2-ka9-ak ku3 ensi2-ka
+#tr.en: account of silver of the governor,
+10. giri3 lu2-kal-la
+#tr.en: via Lukalla;
+11. mu {d}szu-{d}suen lugal-ta
+#tr.en: from year: “Šu-Suen is king”
+12. mu us2-sa bad3 mar-tu ba-du3-sze3
+#tr.en: to year after: “Amorite Wall was erected.”

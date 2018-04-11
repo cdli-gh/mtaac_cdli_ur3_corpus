@@ -1,0 +1,37 @@
+#new_text=P380523
+# ID	FORM	SEGM	XPOSTAG	HEAD	DEPREL	MISC
+o.1.1	1(u)
+o.1.2	la2
+o.1.3	1(disz@t)
+o.1.4	kusz
+o.1.5	gu4
+o.1.6	hul
+o.2.1	2(u)
+o.2.2	kusz
+o.2.3	amar
+o.3.1	3(u)
+o.3.2	2(disz)
+o.3.3	kusz
+o.3.4	amar
+o.3.5	hul
+o.4.1	kusz
+o.4.2	dub-sag
+o.5.1	3(u)
+o.5.2	kusz
+o.5.3	gu4
+o.6.1	1(disz)
+o.6.2	kusz
+o.6.3	gu4
+o.6.4	hul
+o.6.5	tuku
+o.6.6	hul
+r.1.1	3(disz)
+r.1.2	kusz
+r.1.3	ur
+r.1.4	gu4
+r.2.1	6(disz)
+r.2.2	kusz
+r.2.3	amar
+r.2.4	gu4
+r.3.1	kusz
+r.3.2	egir

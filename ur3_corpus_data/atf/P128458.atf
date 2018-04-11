@@ -1,0 +1,143 @@
+&P128458 = RTC 305
+#atf: lang sux
+@tablet
+@obverse
+@column 1
+1. 1(gesz'u) 2(gesz2) 2(u) 7(asz) 2(barig) 3(disz) 2/3(disz) sila3 duh gur lugal
+#tr.en: 747 gur 2 barig 3 2/3 sila3 bran, royal (measure),
+2. 2(szar2) 9(gesz2) 6(disz) 5/6(disz) geme2 u4 1(disz)-sze3
+#tr.en: 7746 5/6 workdays, female laborers,
+3. 3(u) gu2 2(u) 6(disz) ma-na {gesz}ma-nu
+#tr.en: 30 talents 26 mana willow,
+4. 3(szar2) 4(gesz'u) 2(u) sa gi
+#tr.en: 13,220 bundles of reed,
+5. si-i3-tum
+#tr.en: the remainder;
+6. iti a2-ki-ti
+#tr.en: month: “Akitu,”
+7. mu si-mu-ru-um{ki} lu-lu-bu-um{ki} a-ra2 1(u) la2 1(disz)-kam-asz ba-hul-a
+#tr.en: of the year: “Simurrum, Lullubum for the 9th time were destroyed;”
+8. 3(gesz'u) sze gur
+#tr.en: 1800 gur barley,
+9. 4(u) gig gur
+#tr.en: 40 gur wheat,
+10. sza3-gal gu4 udu masz ansze
+#tr.en: fodder of oxen, sheep, goats and equids;
+11. 1(asz) 3(barig) gur sze-ba mar-tu-ne
+#tr.en: 1 gur 3 barig barley rations of the Martu,
+12. iti sze-sag11-ku5
+#tr.en: month: “Harvest;”
+13. 3(gesz'u) sze gur
+#tr.en: 1800 gur barley,
+14. 4(u) gig gur
+#tr.en: 40 gur wheat,
+15. sza3-gal gu4 udu masz ansze
+#tr.en: fodder of oxen, sheep, goats and equids;
+16. [1(asz)] 3(barig)# gur sze-ba mar-tu-ne
+#tr.en: 1 gur 3 barig barley rations of the Martu,
+17. [iti] diri# sze-sag11-ku5
+#tr.en: month extra: “Harvest;”
+@column 2
+1. x [...] da x [...]
+#tr.en: ...
+2. sze x [...]
+#tr.en: ...
+3. nig2-sa10 gu4 udu [x] x-a-ka
+#tr.en: exchange good for oxen, sheep, ...;
+4. 3(gesz2) 3(u) 1(asz) 4(barig) 3(ban2) 3(disz) sila3 gur sze kasz ninda
+#tr.en: 211 gur 4 barig 3 ban2 3 sila3 barley, beer, bread;
+5. 1(szar2) 1(gesz'u) 2(gesz2) 3(u) 1(disz) sa gi
+#tr.en: 4351 bundles of reed;
+6. 1(u) 2(asz) 2/3(asz) gu2 {gesz}ma-nu
+#tr.en: 12 2/3 talents, willow;
+7. na-ap-ta2-num2 nu-gu7-a u3 u4-de3 gid2-da u4 1(disz)-kam
+#tr.en: Nabdanum not fed and to the day stretched, one workday;
+8. 1(gesz'u) 7(gesz2) 2(u) 9(asz) 1(barig) duh gur
+#tr.en: 1049 gur 1 barig bran,
+9. duh-bi bala-ka
+#tr.en: its bran of the bala:
+10. iti sze-sag11-ku5 u3 iti diri sze-sag11-ku5
+#tr.en: month: “Harvest,” and month extra: “Harvest;”
+$ blank space
+11. szunigin 1(asz) guru7 3(gesz2) 3(u) 5(asz) 3(ban2) 3(disz) sila3 sze gur {d}szul-gi-ra
+#tr.en: total: 1 silo 205 gur 3 ban2 3 sila3 barley, Šulgi (measure),
+# calculation: 30.00 + 1;3,0 + 30.00 + 1;3,0 + 3.31;4,3,3 = 1.03.35;0,3,3
+12. szunigin 1(gesz2) 2(u) gig gur
+#tr.en: total: 80 gur wheat,
+# calculation: 40;0,0 + 40;0,0 = 80;0,0
+13. sze-bi 1(asz) guru7 6(gesz2) 1(u) 5(asz) 3(ban2) 3(disz) sila3 gur
+#tr.en: its barley: 1 silo 375 gur 3 ban2 3 sila3;
+# calculation: 1.03.35;0,3,3 + (80;0,0 × 2 gur barley per gur wheat =) 160;0,0 = 1.06.15;0,3,3
+14. szunigin 2(gesz'u) 9(gesz2) 5(u) 6(asz) 3(barig) 3(disz) 2/3(disz) sila3 duh gur
+#tr.en: total: 1796 gur 3 barig 3 2/3 sila3 bran;
+# calculation: 12.27;2,0,3 2/3 + 17.29;1,0 = 29.56;3,0,3 2/3
+@reverse
+@column 1
+1. szunigin 2(szar2) 9(gesz2) 6(disz) 5/6(disz) geme2 u4 1(disz)-sze3
+#tr.en: total: 7746 5/6 workdays, female laborers;
+2. szunigin 4(u) 3(asz) gu2 6(disz) ma-na {gesz}ma-nu
+#tr.en: total: 43 talents 6 mana willow;
+# calculation: 30.26 + 12.40 = 43.06
+3. szunigin 4(szar2) 5(gesz'u) 2(gesz2) 5(u)# 1(disz)# sa gi
+#tr.en: total: 17,571 bundles of reed;
+# calculation: 3.40.20 + 1.12.31 = 4.52.51
+4. sag-nig2-gur11-ra-kam
+#tr.en: is the debits;
+5. sza3-bi-ta
+#tr.en: therefrom:
+6. 4(gesz'u) 5(gesz2) 5(u) 1(barig) 1(ban2) 6(disz) 2/3(disz) sila3 sze gur
+#tr.en: 2750 gur 1 barig 1 ban2 6 2/3 sila3 barley,
+7. diri nig2-ka9-ak
+#tr.en: surplus of the (previous) account,
+8. iti a2-ki-ti
+#tr.en: month: Akitu,
+9. mu si-mu-ru-um{ki} lu-lu-bu-um{ki} a-ra2 1(u) la2 1(disz)-kam-asz ba-hul
+#tr.en: year: “Simurrum, Lullubum for the 9th time were destroyed;”
+10. 3(asz) 3(barig) 5(ban2) 5(disz) sila3 gig gur
+#tr.en: 3 gur 3 barig 5 ban2 5 sila3 wheat,
+11. e2-kiszib3-ba-ka ba-an-kux(KWU147)
+#tr.en: into the sealed house brought,
+12. giri3 lu2-{d}utu ugula kikken
+#tr.en: via Lu-Utu, foreman of the mill;
+13. 4(gesz2) 1(u) 2(asz) 2(ban2) duh gur
+#tr.en: 252 gur 2 ban2 bran,
+14. {d}szul-gi-a-a-mu
+#tr.en: Šulgi-ayamu;
+$ blank space
+15. x [...]
+#tr.en: ...
+$ rest broken
+@column 2
+1. [n] duh gur
+#tr.en: n gur ... bran,
+2. [mu]-kux(DU)
+#tr.en: delivery;
+3. la2-ia3 2(gesz'u) 1(u) 7(asz) 1(barig) 2(ban2) 6(disz) 1/3(disz) sila3 sze gur
+#tr.en: deficit: 1217 gur 1 barig 2 ban2 6 1/3 sila3 barley;
+# calculation: 1.06.15;0,3,3 - (45.50;1;1;6 2/3 + (3;3,5,5 × 2 =) 7;2,5) = 20.17;1,2,6 1/3
+4. 2(gesz'u) 5(gesz2) 5(u) 4(asz) 2(barig) 4(ban2) 3(disz) 2/3(disz) duh gur
+#tr.en: 1254 gur 2 barig 4 ban2 3 2/3 sila3 bran;
+# calculation: 29.56;3,0,3 2/3 - 4.12;0,2 = 25.44;2,4,3 2/3
+5. 2(szar2) 9(gesz2) 6(disz) 5/6(disz) geme2 u4 1(disz)-sze3
+#tr.en: 7746 5/6 workdays, female laborers;
+6. 4(u) 3(asz) gu2 6(disz) ma-na {gesz}ma-nu
+#tr.en: 43 talents 6 mana willow;
+7. 2(szar2) 5(gesz'u) 2(gesz2) 5(u) 1(disz) sa gi
+#tr.en: 9371 bundles of reed;
+8. la2-ia3-am3
+#tr.en: are the deficit;
+$ blank space
+9. nig2-ka9-ak
+#tr.en: account of
+10. bala ur-{d}lamma ensi2 gir2-su{ki}
+#tr.en: the bala of Ur-Lamma, governor of Girsu;
+11. iti sze-sag11-ku5-ta
+#tr.en: month: “Harvest,”
+12. iti diri sze-sag11-ku5-sze3
+#tr.en: month extra: “Harvest;”
+13. iti 2(disz)-kam
+#tr.en: (a period) of two months;
+14. bala [...]
+#tr.en: bala ...
+15. mu [si-mu-ru-um{ki}] lu-[lu-bu-um{ki}] a-ra2 1(u) la2 [1(disz)-kam-asz ba-hul]
+#tr.en: year: “Simurrum, Lullubum for the 9th time were destroyed.”

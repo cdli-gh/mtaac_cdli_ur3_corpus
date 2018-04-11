@@ -1,0 +1,37 @@
+#new_text=P212216
+# ID	FORM	SEGM	XPOSTAG	HEAD	DEPREL	MISC
+o.1.1	la2-ia3
+o.1.2	1(u)
+o.1.3	6(disz)
+o.1.4	szah2-gesz-gi
+o.2.1	2(u)
+o.2.2	4(disz)
+o.2.3	szah2-iri
+o.3.1	1(disz)
+o.3.2	u5{muszen}
+o.4.1	5(u)
+o.4.2	7(disz)
+o.4.3	uz-tur
+o.5.1	1(u)
+o.5.2	3(disz)
+o.5.3	uz{muszen}
+o.6.1	5(u)
+o.6.2	6(disz)
+o.6.3	illat{muszen}
+o.7.1	5(gesz2)
+o.7.2	3(u)
+o.7.3	2(disz)
+o.7.4	tu-gur4{muszen}
+r.1.1	la2-ia3
+r.1.2	a2-bi2-la-tum
+r.2.1	iti
+r.2.2	sze-sag11-ku5
+r.2.3	nig2-ka9-bi
+r.2.4	ba-a-ak
+r.3.mu.1	si-mu-ru-um{ki}
+r.3.mu.2	lu-lu-bu
+r.3.mu.3	a-ra2
+r.3.mu.4	1(u)
+r.3.mu.5	la2
+r.3.mu.6	1(disz@t)-kam-asz
+r.3.mu.7	ba-hul

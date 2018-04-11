@@ -1,0 +1,262 @@
+&P131741 = TCL 05, 5670
+#atf: lang sux
+@tablet
+@obverse
+@column 1
+1. 3(gesz2) 1(u) 3(asz) 2(ban2) 5(disz) sila3 sze gur lugal
+#tr.en: 193 gur, 2 ban 5 sila barley (measured according to the) royal (standard),
+#tr.fr: 193 gur, 2 ban 5 sila d’orge (selon la mesure) royale,
+2. 3(u) 8(asz) ziz2 gur
+#tr.en: 38 gur emmer
+#tr.fr: 38 gur d’amidonnier,
+3. 3(u) 3(asz) 4(ban2) gig gur
+#tr.en: 33 gur 4 ban wheat
+#tr.fr: 33 gur 4 ban de blé,
+4. ki ARAD2-ta
+#tr.en: from ARAD.
+#tr.fr: provenant de ARAD.
+5. 3(asz) 4(barig) 1(ban2) 5(disz) sila3 sze gur
+#tr.en: 3 gur, 4 barig 1 ban 5 sila barley,
+#tr.fr: 3 gur, 4 barig 1 ban 5 sila d’orge,
+6. 1(asz) 3(barig) 4(ban2) 5(disz) sila3 imgaga3 gur
+#tr.en: 1 gur, 3 barig 4 ban 5 sila spelt (?),
+#tr.fr: 1 gur, 3 barig 4 ban 5 sila d’épeautre (?),
+7. 1(barig) 4(ban2) ziz2
+#tr.en: 1 barig, 4 ban emmer
+#tr.fr: 1 barig, 4 ban d’amidonnier
+8. ki lugal-uszurx(|LAL2.TUG2|)-ta
+#tr.en: from Lugal-ušur.
+#tr.fr: provenant de Lugal-ušur.
+9. 3(asz) sze gur
+#tr.en: 3 gur barley
+#tr.fr: 3 gur d’orge,
+10. la2-ia3 su-ga bi2-da
+#tr.en: restored deficit of Bida.
+#tr.fr: déficit restitué de Bida.
+11. 1(barig) 4(ban2) 4(disz) sila3 imgaga3
+#tr.en: 1 barig, 4 ban 4 sila spelt
+#tr.fr: 1 barig, 4 ban 4 sila d’épeautre
+12. ki nin-me-lam2-ta
+#tr.en: from Nin-melam.
+#tr.fr: provenant de Nin-melam.
+$ blank space
+13. szunigin sze-bi 5(gesz2) 8(asz) 3(barig) 3(ban2) 8(disz) sila3 gur
+#tr.en: Together, the equivalent barley: 308 gur, 3 barig 3 ban 8 sila.
+#tr.fr: Total de son équivalent en orge: 308 gur, 3 barig 3 ban 8 sila.
+# calculation: 3.13;0,2,5 + 38;0,0 + (33;0,4 × 2 =) 1.06;1,2 + 3;4,1,5 + (1;3,4,5 × 2 =) 3;2,3 + 0;1,4 + 3;0,0 + 0;3,2 = 5.08;3,3,8
+14. 3(u) 6(disz) geme2 3(ban2)
+#tr.en: 36 female laborers, (each of whom received) 3 ban (per month),
+#tr.fr: 36 travailleuses à 3 ban (de ration mensuelle chacune),
+15. iti sze-kar-ra-gal2-la
+#tr.en: from month “Barley brought to the harbor” (month 3 of the Umma calender)
+#tr.fr: depuis le mois “Orge disponible au port” (mois 3 du calendrier d’Umma)
+16. mu ha-ar-szi{ki} ki-masz{ki} ba-hul
+#tr.en: of the year “Harši and Kimaš were destroyed” (Šulgi 48)
+#tr.fr: de l’année “Harši et Kimaš ont été détruits” (Šulgi 48)
+17. u4 2(u) 3(disz) zal-la-ta
+#tr.en: the completed day 23,
+#tr.fr: le 23 écoulé,
+18. iti sig4-{gesz}i3-szub-ba-ga2-ra
+#tr.en: until month “Bricks cast in moulds” (month 2)
+#tr.fr: jusqu’au mois “briques formatées dans les moules” (mois 2)
+19. mu us2-sa ha-ar-szi ki-masz{ki} ba-hul
+#tr.en: of the year following “Harši and Kimaš were destroyed” (Amar-Suen 1),
+#tr.fr: de l’année qui suit “Harši et Kimaš ont été détruits” (Amar-Suen 1),
+@column 2
+1. u4 7(disz) zal-la-sze3
+#tr.en: the completed day 7,
+#tr.fr: le 7 écoulé;
+2. a2-bi u4 3(szar2) 8(gesz2) 2(u) 4(disz) geme2 u4 1(disz)-sze3
+#tr.en: its labor: 11,304 female laborer days.
+#tr.fr: force de travail correspondante: 11,304 journées de travailleuses.
+# calculation: 36 × 314 = 11,304
+3. 3(u) 1(disz) 1(u) gin2 geme2 u4 1(disz)-sze3
+#tr.en: 31 10 shekels (=1/6) female laborer days,
+#tr.fr: 31 journées et 10 sicles (=1/6) de travailleuses,
+# calculation: 187 (rev. ii 4) ÷ 6 = 31 1/6
+4. a2 u4-du8-a geme2 ba-usz2-a
+#tr.en: labor of the “free” days of the deceased female laborer.
+#tr.fr: force de travail (correspondant aux) jours “libres” de la travailleuse décédée.
+5. sag-nig2-gur11-ra-kam
+#tr.en: It is the debit.
+#tr.fr: C’est le débit.
+6. sza3-bi-ta
+#tr.en: Therefrom:
+#tr.fr: Là-dessus:
+7. 3(gesz'u) 1(gesz2) 2(u) 4(disz) a2 u4-du8-a geme2
+#tr.en: 1,884 (days), labor of the “free” days of the female laborers.
+#tr.fr: 1,884 (jours de) travail (correspondant aux) jours “libres” des travailleuses.
+# calculation: 11,304 ÷ 6 = 1884
+8. 3(gesz2) 5(asz) 2(barig) 4(ban2) la2 1/2(disz) sila3 dabin gur
+#tr.en: 185 gur, 2 barig 4 ban minus 1/2 sila dabin flour.
+#tr.fr: 185 gur, 2 barig 4 ban moins 1/2 sila de farine-dabin.
+9. 1(u) 8(asz) 3(barig) 1(ban2) 4(disz) sila3 zi3 sig15 gur
+#tr.en: 18 gur, 3 barig 1 ban 4 sila sig-flour,
+#tr.fr: 18 gur, 3 barig 1 ban 4 sila de farine-sig,
+10. 3(u) 5(asz) 4(barig) 1(ban2) 5(disz) sila3 zi3 gazx(KUM) gur
+#tr.en: 35 gur, 4 barig 1 ban 5 sila “pounded” flour,
+#tr.fr: 35 gur, 4 barig 1 ban 5 sila de farine pilonnée,
+11. 4(barig) 1(ban2) dabin bi2-gu7 zi3 e2-a si-ga
+#tr.en: 4 barig, 1 ban dabin flour, loss (?), flour “filled” into the house,
+#tr.fr: 4 barig, 1 ban de farine-dabin, perdue (?): farine qui s’est dispersée dans la maison;
+12. a2-bi u4 2(szar2) 2(u) 6(disz)-kam
+#tr.en: its labor: 7,226 days.
+#tr.fr: la force de travail correspondante est de 7,226 journées.
+13. 2(asz) 1(barig) 4(ban2) 1(disz) 1/2(disz) sila3 esza gur
+#tr.en: 2 gur, 1 barig 4 ban 1 1/2 sila eša flour,
+#tr.fr: 2 gur, 1 barig 4 ban 1 1/2 sila de farine-eša,
+14. 4(ban2) 4(disz) sila3 ninda ar3-ra saga
+#tr.en: 4 ban 4 sila fine, ground bread (?),
+#tr.fr: 4 ban 4 sila raffinés de pain en miettes (?);
+15. a2-bi u4 3(u) 7(disz) 1/3(disz)-kam
+#tr.en: its labor: 37 1/3 days.
+#tr.fr: la force de travail correspondante est de 37 1/3 journées.
+16. kiszib3 lu2-dingir-ra
+#tr.en: sealed tablet of Lu-dingira.
+#tr.fr: tablette scellée de Lu-dingira.
+17. 2(u) 2(disz) 1/2(disz) sar kin sahar
+#tr.en: 22 1/2 (volume-)sar soil,
+#tr.fr: (un volume de) 22 1/2 sar: travail de la terre,
+18. al-e 1(u) gin2-ta
+#tr.en: per (female) digger 10 (volume-)shekels (per day),
+#tr.fr: par terrassière: (volume de) 10 sicles (par jour);
+19. a2 geme2-bi u4 4(gesz2) 3(u)-kam
+#tr.en: labor of the female laborers: 270 days,
+#tr.fr: la force de travail correspondante est de 270 journées de travailleuses;
+# calculation: 22 1/2 ÷ 10/60 (sar per day) = 135; 135 × 2 = 270 (?)
+20. kiszib3 ur-{d}nam2-nun-ka
+#tr.en: sealed tablet of Ur-Namnunka.
+#tr.fr: tablette scellée de Ur-Namnunka.
+@reverse
+@column 1
+1. 4(gesz2) la2 2(disz) a2 geme2 sze zi-ga
+#tr.en: 238 (female laborer days as) labor of the female laborers who winnowed barley,
+#tr.fr: 238 (journées de travail), force de travail des travailleuses qui ont vanné l’orge;
+2. kiszib3-bi 3(disz)-am3
+#tr.en: the sealed tablets are 3,
+#tr.fr: (le nombre de) tablettes scellées correspondant est de 3;
+3. kiszib3 ARAD2
+#tr.en: sealed tablets of ARAD.
+#tr.fr: tablette scellée de ARAD.
+4. 3(u) geme2 u4 1(disz)-sze3
+#tr.en: 30 female laborer days
+#tr.fr: 30 journées de travailleuses,
+5. zi3 ma2-a si-ga
+#tr.en: flour loaded onto the barge,
+#tr.fr: ayant chargé la farine sur la barge;
+6. kiszib3 szesz-a-ni
+#tr.en: sealed tablet of Šešani.
+#tr.fr: tablette scellée de Šešani.
+7. 2(u) la2 1(disz) geme2 in-u ga6-ga2
+#tr.en: 19 female laborer (days), straw carried
+#tr.fr: 19 (journées de) travailleuses, ayant transporté la paille
+8. e2 {d}szul-gi-ra-sze3
+#tr.en: to the temple of Šulgi,
+#tr.fr: jusqu’au temple de Šulgi;
+9. kiszib3 a-kal-la
+#tr.en: sealed tablet of Akalla.
+#tr.fr: tablette scellée de Akalla.
+10. 4(disz) geme2 u4 4(u) 7(disz)-sze3
+#tr.en: 4 female laborers, (each) 47 female laborer days,
+#tr.fr: 4 travailleuses pour 47 jours (de travail chacune),
+11. a2-bi u4 3(gesz2) 8(disz)-kam
+#tr.en: its labor: 188 days,
+#tr.fr: la force de travail correspondante est de 188 journées;
+12. kiszib3 {d}szara2-za-me
+#tr.en: sealed tablet of Šara-zame.
+#tr.fr: tablette scellée de Šara-zame.
+13. 2(u) 7(disz) geme2 u4 7(disz)-sze3 bala-sze3 gen-na
+#tr.en: 27 female laborers in 7 days went to the bala (service),
+#tr.fr: 27 travailleuses pour 7 jours, qui sont allées pour le (service du) bala;
+14. 2(u) 7(disz) geme2 u4 3(disz)-sze3 bala-ta gur-ra
+#tr.en: 27 female laborers in 3 days returned from the bala (service),
+#tr.fr: 27 travailleuses pour 3 jours, qui sont revenues du (service du) bala;
+15. a2-bi u4 4(gesz2) 3(u)-kam
+#tr.en: its labor: 270 days.
+#tr.fr: la force de travail correspondante est de 270 journées.
+16. 1(gesz2) 3(u) 6(disz) geme2 u4 1(disz)-sze3
+#tr.en: 96 female laborer days
+#tr.fr: 96 journées de travailleuses
+17. e2-usz-bar tusz-a
+#tr.en: at the weaving-mill,
+#tr.fr: installées à l’atelier de tissage;
+18. kiszib3 a-du
+#tr.en: sealed tablet of Adu.
+#tr.fr: tablette scellée de Adu.
+19. 3(u) geme2 u4 1(disz)-sze3
+#tr.en: 30 female laborer days
+#tr.fr: 30 journées de travailleuses
+20. dabin-na {gi}ma-an-sim gi4-a
+#tr.en: sieved dabin flour,
+#tr.fr: ayant tamisé la farine-dabin;
+21. kiszib3 ur-zu
+#tr.en: sealed tablet of Ur-zu.
+#tr.fr: tablette scellée de Ur-zu.
+22. 4(gesz2) geme2 u4 1(disz)-sze3 geme2 ar-<za>-na
+#tr.en: 240 female laborer days, female laborers of the arzana (flour),
+#tr.fr: 240 journées de travailleuses, travailleuses de la farine-arzana;
+23. kiszib3 lugal-nig2-lagar-e
+#tr.en: sealed tablet of Lugal-nig-lagare.
+#tr.fr: tablette scellée de Lugal-nig-lagare.
+24. usz2 nin-he2-gal2
+#tr.en: Dead: Nin-hegal,
+#tr.fr: Décédée: Nin-hegal;
+@column 2
+1. iti e2-iti-6(disz)
+#tr.en: from the month “House sixth month” (month 8)
+#tr.fr: depuis le mois “Maison du 6e mois” (mois 8 du calendrier d’Umma)
+# some text moved to next line
+2. mu ha-ar-szi ki-masz{ki} ba-hul-ta
+#tr.en: of the year “Harši and Kimaš were destroyed” (Šulgi 48),
+#tr.fr: de l’année “Harši et Kimaš ont été détruits” (Šulgi 48),
+# some text moved to next line
+3. iti sig4-{gesz}i3-szub-ba-ga2-ra
+#tr.en: until month “bricks cast in moulds”
+#tr.fr: jusqu’au mois “briques formatées dans les moules” (mois 2 du calendrier d’Umma)
+4. mu us2-sa ha-ar-szi ki-masz{ki} ba-hul u4 7(disz) zal-la-sze3
+#tr.en: of the year following “Harši and Kimaš were destroyed” (Amar-Suen 1), the completed day 7,
+#tr.fr: de l’année qui a suivi “Harši et Kimaš ont été détruits” (Amar-Suen 1), le 7 écoulé;
+5. a2-bi u4 3(gesz2) 7(disz)-kam
+#tr.en: its labor: 187 days.
+#tr.fr: la force de travail correspondante est de 187 journées.
+# calculation: (6 × 30 =) 180 + 7 = 187
+$ blank space
+6. szunigin 3(gesz2) 6(asz) 1(barig) 5(ban2) la2 1/2(disz) sila3 dabin gur
+#tr.en: Total: 186 gur, 1 barig 5 ban minus 1/2 sila dabin flour,
+#tr.fr: Total: 186 gur, 1 barig 5 ban moins 1/2 sila de farine-dabin,
+7. szunigin 5(u) 4(asz) 2(barig) 3(ban2) la2 1(disz) sila3 zi3 sig15 gur
+#tr.en: total: 54 gur, 2 barig 3 ban minus 1 sila sig-flour,
+#tr.fr: total: 54 gur, 2 barig 3 ban moins 1 sila de farine-sig,
+8. szunigin 2(asz) 1(barig) 4(ban2) 1(disz) 1/2(disz) sila3 esza gur
+#tr.en: total: 2 gur 1 barig 4 ban 1 1/2 sila eša flour,
+#tr.fr: total: 2 gur 1 barig 4 ban 1 1/2 sila de farine-eša,
+9. szunigin 4(ban2) 4(disz) sila3 ninda ar3-ra saga
+#tr.en: total: 4 ban 4 sila fine, ground bread (?),
+#tr.fr: total: 4 ban 4 sila raffinés de pain en miettes (?),
+10. szunigin sze-bi 5(gesz2) 1(barig) 1(ban2) 6(disz) 1/2(disz) sila3 gur
+#tr.en: total, its barley: 300 gur, 1 barig 1 ban 6 1/2 sila,
+#tr.fr: total de leur équivalent en orge: 300 gur, 1 barig 1 ban 6 1/2 sila;
+11. szunigin 2(szar2) 5(gesz'u) 8(gesz2) 3(u) 5(disz) geme2 u4 1(disz)-sze3
+#tr.en: total: 10,715 female laborer days
+#tr.fr: total: 10,715 journées de travailleuses;
+12. zi-ga-am3
+#tr.en: booked out.
+#tr.fr: c’est dépensé.
+13. la2-ia3 8(asz) 2(barig) 2(ban2) 1(disz) 1/2(disz) sila3 gur
+#tr.en: Deficit: 8 gur, 2 barig 2 ban 1 1/2 sila (barley),
+#tr.fr: Déficit: 8 gur, 2 barig 2 ban 1 1/2 sila d’orge;
+14. la2-ia3 1(gesz'u) 2(u) 1(u) gin2 geme2 u4 1(disz)-sze3
+#tr.en: deficit: 620 10/60 female laborer days,
+#tr.fr: Déficit: 620 journées et 1/6 de travailleuses:
+15. la2-ia3-am3
+#tr.en: are the deficit.
+#tr.fr: c’est le déficit.
+16. nig2-ka9-ak ur-{d}szara2 ugula kikken-na
+#tr.en: Account of Ur-Šara, foreman of milling,
+#tr.fr: Bilan comptable de Ur-Šara, responsable du moulin;
+17. iti sig4-{gesz}i3-szub-ba-ga2-ra
+#tr.en: in the month “bricks cast in moulds” (month 2 of the Umma calendar)
+#tr.fr: mois “briques formatées dans les moules” (mois 2 du calendrier d’Umma)
+18. mu us2-sa ha-ar-szi ki-masz{ki} ba-hul
+#tr.en: of the year following “Harši and Kimaš were destroyed” (Amar-Suen 1).
+#tr.fr: de l’année qui a suivi “Harši et Kimaš ont été détruits” (Amar-Suen 1).

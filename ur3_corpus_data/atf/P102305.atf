@@ -1,0 +1,75 @@
+&P102305 = ASJ 09, 251 28
+#atf: lang sux
+@tablet
+@obverse
+1. 5(u) 3(barig) 3(ban2) 4(disz) [sila3 sze gur]
+#tr.en: 50 [gur] 3 barig 3 ban2 4 [sila3 barley].
+2. 3(asz) 1(barig) 3(ban2) gur sza3-gal [amar]
+#tr.en: 3 gur 1 barig 3 ban2, fodder [of the calves],
+3. ki ka-guru7-ta#
+#tr.en: from the grain depot manager;
+4. 4(barig) 1(ban2) duh du sze-bi [5(ban2)]
+#tr.en: 4 barig 1 ban2 regular bran, its barley: [5 ban2]
+5. ki usz-mu#-[ta]
+#tr.en: from Ušmu;
+$ blank space
+6. szunigin 5(u) 4(asz) 5(ban2) 4(disz)# [sila3 gur]
+#tr.en: together: 54 [gur] 5 ban2 4 [sila3].
+7. sza3-bi#-[ta]
+#tr.en: Therefrom:
+8. 1(bur3) 2(esze3) 1(iku) GAN2 1(u) 2(disz)#-[ta]
+#tr.en: 1 bur3 2 eše3 1 iku surface at 12 (furrows per running ninda) [each],
+9. 1(bur3) 4(iku) GAN2 1(u) 1(disz)#-[ta]
+#tr.en: 1 bur3 4 iku surface at 11 [each],
+10. 1(bur'u) 3(bur3) 2(esze3) 4(iku) 1/2(iku) 1/4(iku) GAN2 1(u)-ta#
+#tr.en: 13 bur3 2 eše3 4 3/4 iku surface at 10 [each],
+11. 3(bur3) GAN2 1(u) la2 1(disz@t)#-ta#
+#tr.en: 3 bur3 surface at 9 [each],
+12. sze-numun-bi 2(u)# 3(ban2)# [2(disz)] 1/2(disz)# sila3 gur
+#tr.en: their seed grain: 20 gur 3 ban2 [2] 1/2 sila3,
+# calculation: ((1 13/18) × 12 × 30) + ((1 4/18) × 11 × 30) + ((13 16.75/18) × 10 × 30) + ((3 × 9) × 30) = 6012.5 = 20;0,1,2 1/2 [text has 20;0,3,2 1/2 = 6032.5s]
+13. mur-gu4 5/6(disz)-bi 1(u) 6(asz) 3(barig) 4(ban2)# 7(disz) sila3 5(disz) gin2 [gur?]
+#tr.en: their fodder at 5/6 (that of seed grain): 16 [gur?] 3 barig 4 ban2 7 sila3 5 shekels,
+# calculation: 6032.5s × 5/6 = 5027.083s = 16;3,4,7 5/60 (exact)
+14. gu4-e uru4-a
+#tr.en: oxen (seed) plowing;
+15. 4(iku) GAN2 1(u) 2(disz)-ta
+#tr.en: 4 iku field at 12 (furrows per running ninda) each,
+16. sze-numun-bi 1(barig) 2(ban2)
+#tr.en: their seed grain: 1 barig 2 ban2,
+# calculation: 4/18 × 12 × 30 = 80 (exact)
+17. {gesz}gaba-tab-e uru4-a
+#tr.en: gabatab plowing;
+18. a-sza3 da-umma{ki}
+#tr.en: field of Da-Umma.
+@reverse
+1. 5(bur3) 1(esze3) 4(iku)# GAN2 1(u)# 2(disz)#-ta
+#tr.en: 5 bur3 1 eše3 4 iku surface at 12 (furrows per running ninda) each,
+2. sze-numun-bi 6(asz)# 3(barig)# 2(ban2) gur
+#tr.en: their seed grain: 6 gur 3 barig 2 ban2,
+# calculation: (5 10/18) × 12 × 30 = 2000s = 6;3,2 (exact)
+3. mur-gu4 5/6(disz)-bi 5(asz) 2(barig) 4(ban2)# 6(disz) 2/3(disz) sila3 gur
+#tr.en: their fodder at 5/6 (that of seed grain): 5 gur 2 barig 4 ban2 6 2/3 sila3,
+# calculation: 2000s × 5/6 = 1666.67s = 5;2,4,6 2/3 (exact)
+4. a-sza3 a-pi4-sal4{ki}
+#tr.en: field of Apisal.
+5. 1(asz) 4(barig) 1(ban2) sze gur ugu2 i7-pa-e3 ba-a-gar
+#tr.en: 1 gur 4 barig 1 ban2 barley, set to the debit section of of Ipa’e(’s account).
+$ blank space
+6. szunigin 5(u) 1(asz) 5(ban2) 6(disz) sila3 1(u) 5(disz) gin2 sze gur
+#tr.en: Together: 51 gur 5 ban2 6 sila3 15 shekels barley
+7. zi-ga-am3
+#tr.en: booked out,
+8. la2-ia3 2(asz) 4(barig) 5(ban2) 8(disz) 2/3(disz) sila3 5(disz) gin2 sze gur
+#tr.en: deficit: 2 gur 4 barig 5 ban2 8 2/3 sila3 5 shekels barley,
+$ blank space
+9. nig2-ka9-ak sze-numun mur-gu4
+#tr.en: account of the seed grain and fodder
+10. ur-mes nu-banda3-gu4#
+#tr.en: of Urmes, the oxen manager.
+11. a de2-a
+#tr.en: Water pouring.
+# some text moved to next line
+12. mu si-ma-[num2{ki}] ba#-[hul]
+#tr.en: Year: “Simanum was destroyed.”
+$ blank space

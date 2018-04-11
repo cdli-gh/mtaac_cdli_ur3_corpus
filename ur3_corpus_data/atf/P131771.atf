@@ -1,0 +1,182 @@
+&P131771 = TCL 05, 6057
+#atf: lang sux
+@tablet
+@obverse
+@column 1
+1. 2(gesz2) udu niga 1(disz) sila3-ta
+#tr.en: 120 sheep, grain-fed, at 1 sila3 each,
+2. sze-bi 6(asz) gur
+#tr.en: its barley: 6 gur,
+# calculation: 120 sheep × 15 days × 1 sila3 per day = 6;0,0
+3. u4 1(u) 5(disz)-sze3
+#tr.en: for 15 days,
+4. iti min3-esz3
+#tr.en: month: “mineš;”
+5. 2(gesz2) udu niga 1(disz) sila3-ta
+#tr.en: 120 sheep, grain-fed, at 1 sila3 each,
+6. u4 1(u) 5(disz)-sze3
+#tr.en: for 15 days,
+7. sze-bi 6(asz) gur
+#tr.en: its barley: 6 gur,
+# calculation: 120 sheep × 15 days × 1 sila3 per day = 6;0,0
+8. 2(gesz2) udu niga 1(disz) 1/2(disz) sila3-ta
+#tr.en: 120 sheep, grain-fed, at 1 1/2 sila3 each,
+9. u4 1(u) 5(disz)-sze3
+#tr.en: for 15 days,
+10. sze-bi 9(asz) gur
+#tr.en: its barley: 9 gur,
+# calculation: 120 sheep × 15 days × 1 1/2 sila3 per day = 9;0,0
+11. iti e2-iti-6(disz)
+#tr.en: month: “House month 6;”
+12. 2(gesz2) udu niga 1(disz) 1/2(disz) sila3-ta
+#tr.en: 120 sheep, grain-fed, at 1 1/2 sila3 each,
+13. sze-bi 1(u) 8(asz) gur
+#tr.en: its barley: 18 gur,
+# calculation: 120 sheep × 30 days × 1 1/2 sila3 per day = 18;0,0
+14. 1(gesz2) 3(u) udu niga 1(disz) sila3-ta
+#tr.en: 90 sheep, grain-fed, at 1 sila3 each,
+15. sze-bi 9(asz) gur
+#tr.en: its barley: 9 gur,
+# calculation: 90 sheep × 30 days × 1 sila3 per day = 9;0,0
+16. iti {d}li9-si4
+#tr.en: month: “Lisi;”
+17. 2(gesz2) 3(u) udu niga 1(disz) 1/2(disz) sila3-ta
+#tr.en: 150 sheep, grain-fed, at 1 1/2 sila3 each,
+18. sze-bi 2(u) 2(asz) 2(barig) 3(ban2)!
+#tr.en: its barley: 22 gur 2 barig 3 ban2,
+# calculation: 120 sheep × 30 days × 1 1/2 sila3 per day = 22;2,3
+@column 2
+1. 1(gesz2) udu niga 1(disz) sila3-ta
+#tr.en: 60 sheep, grain-fed, at 1 sila3 each,
+2. sze-bi 6(asz) gur
+#tr.en: its barley: 6 gur,
+# calculation: 60 sheep × 30 days × 1 sila3 per day = 6;0,0
+3. iti <ezem>-{d}szul-gi
+#tr.en: month: “Šulgi;”
+4. 2(gesz2) 3(u) udu niga 1(disz) 1/2(disz) sila3-ta
+#tr.en: 150 sheep, grain-fed, at 1 1/2 sila3 each,
+5. sze-bi 2(u) 2(asz) 2(barig) 3(ban2) gur
+#tr.en: its barley: 22 gur 2 barig 3 ban2,
+# calculation: 120 sheep × 30 days × 1 1/2 sila3 per day = 22;2,3
+6. 1(gesz2) udu niga 1(disz) sila3-ta
+#tr.en: 60 sheep, grain-fed, at 1 sila3 each,
+7. sze-bi 6(asz) gur
+#tr.en: its barley: 6 gur,
+# calculation: 60 sheep × 30 days × 1 sila3 per day = 6;0,0
+8. iti pa4-u2-e
+#tr.en: month: “pa’u’e;”
+9. 2(gesz2) 3(u) udu niga 1(disz) 1/2(disz) sila3-ta
+#tr.en: 150 sheep, grain-fed, at 1 1/2 sila3 each,
+10. sze-bi 2(u) 2(asz) 2(barig) 3(ban2) gur
+#tr.en: its barley: 22 gur 2 barig 3 ban2,
+# calculation: 120 sheep × 30 days × 1 1/2 sila3 per day = 22;2,3
+11. 1(gesz2) udu niga 1(disz) sila3-ta
+#tr.en: 60 sheep, grain-fed, at 1 sila3 each,
+12. sze-bi 6(asz) gur
+#tr.en: its barley: 6 gur,
+# calculation: 60 sheep × 30 days × 1 sila3 per day = 6;0,0
+13. iti {d}dumu-zi
+#tr.en: month: “Dumuzi;”
+# some text moved to next line
+14. mu bad3 ba-du3
+#tr.en: year: “mineš;”
+15. 2(gesz2) 3(u) udu niga 1(disz) 1/2(disz) sila3-ta
+#tr.en: 150 sheep, grain-fed, at 1 1/2 sila3 each,
+16. sze-bi 2(u) 2(asz) 2(barig) 3(ban2) gur#
+#tr.en: its barley: 22 gur 2 barig 3 ban2,
+# calculation: 120 sheep × 30 days × 1 1/2 sila3 per day = 22;2,3
+17. 1(gesz2) udu niga 1(disz) sila3-ta
+#tr.en: 60 sheep, grain-fed, at 1 sila3 each,
+18. sze-bi 6(asz) gur
+#tr.en: its barley: 6 gur,
+# calculation: 60 sheep × 30 days × 1 sila3 per day = 6;0,0
+19. iti sze-sag-ku5
+#tr.en: month: “Harvest;”
+@reverse
+@column 1
+1. 2(gesz2) 3(u) udu niga 1(disz) 1/2(disz) sila3-ta
+#tr.en: 150 sheep, grain-fed, at 1 1/2 sila3 each,
+2. sze-bi 2(u) 2(asz) 2(barig) 3(ban2) gur
+#tr.en: its barley: 22 gur 2 barig 3 ban2,
+# calculation: 120 sheep × 30 days × 1 1/2 sila3 per day = 22;2,3
+3. 1(gesz2) udu niga 1(disz) sila3-ta
+#tr.en: 60 sheep, grain-fed, at 1 sila3 each,
+4. sze-bi 6(asz) gur
+#tr.en: its barley: 6 gur,
+# calculation: 60 sheep × 30 days × 1 sila3 per day = 6;0,0
+5. iti sig4-{gesz}i3-szub-ga2-ra
+#tr.en: month: “Bricks in the moulds set;”
+6. 2(gesz2) 3(u) udu niga 1(disz) 1/2(disz) sila3-ta
+#tr.en: 150 sheep, grain-fed, at 1 1/2 sila3 each,
+7. sze-bi 2(u) 2(asz) 2(barig) 3(ban2) gur
+#tr.en: its barley: 22 gur 2 barig 3 ban2,
+# calculation: 120 sheep × 30 days × 1 1/2 sila3 per day = 22;2,3
+8. 1(gesz2) udu niga 1(disz) sila3-ta
+#tr.en: 60 sheep, grain-fed, at 1 sila3 each,
+9. sze-bi 6(asz) gur
+#tr.en: its barley: 6 gur,
+# calculation: 60 sheep × 30 days × 1 sila3 per day = 6;0,0
+10. iti sze-kar-ra-gal2-la
+#tr.en: month: “Barley at the dock;”
+11. 2(gesz2) 3(u) udu niga 1(disz) 1/2(disz) sila3-ta
+#tr.en: 150 sheep, grain-fed, at 1 1/2 sila3 each,
+12. sze-bi 2(u) 2(asz) 2(barig) 3(ban2) gur
+#tr.en: its barley: 22 gur 2 barig 3 ban2,
+# calculation: 120 sheep × 30 days × 1 1/2 sila3 per day = 22;2,3
+13. 1(gesz2) udu niga 1(disz) sila3-ta
+#tr.en: 60 sheep, grain-fed, at 1 sila3 each,
+14. sze-bi 6(asz) gur
+#tr.en: its barley: 6 gur,
+# calculation: 60 sheep × 30 days × 1 sila3 per day = 6;0,0
+15. iti nesag
+#tr.en: month: “First fruits;”
+16. 2(gesz2) 3(u) udu niga 1(disz) 1/2(disz) sila3-ta
+#tr.en: 150 sheep, grain-fed, at 1 1/2 sila3 each,
+17. sze-bi 2(u) 2(asz) 2(barig) 3(ban2) gur
+#tr.en: its barley: 22 gur 2 barig 3 ban2,
+# calculation: 120 sheep × 30 days × 1 1/2 sila3 per day = 22;2,3
+18. 1(gesz2) udu niga 1(disz) sila3-ta
+#tr.en: 60 sheep, grain-fed, at 1 sila3 each,
+19. sze-bi 6(asz) gur
+#tr.en: its barley: 6 gur,
+# calculation: 60 sheep × 30 days × 1 sila3 per day = 6;0,0
+20. iti dal
+#tr.en: month: “Flight;”
+21. 2(gesz2) 3(u) udu niga 1(disz) 1/2(disz) sila3-ta
+#tr.en: 150 sheep, grain-fed, at 1 1/2 sila3 each,
+22. sze-bi 5(asz) 3(barig) 7(disz) 1/2(disz) sila3 <<sila3>> gur
+#tr.en: its barley: 5 gur 3 barig 7 1/2 sila3,
+# calculation: 150 sheep × 7 1/2 (!) days × 1 1/2 sila3 per day = 5;3,0,7 1/2
+@column 2
+1. 1(gesz2) udu niga 1(disz) sila3-ta
+#tr.en: 60 sheep, grain-fed, at 1 sila3 each,
+2. sze-bi 1(asz) 2(barig) 3(ban2) gur
+#tr.en: its barley: 1 gur 2 barig 3 ban2,
+# calculation: 60 sheep × 7 1/2 (!) days × 1 sila3 per day = 1;2,3
+3. iti szu-numun
+#tr.en: month: “Sowing;”
+$ blank space
+4. mu us2-sa bad3 ba-du3
+#tr.en: year after: “The wall was erected;”
+$ blank space
+5. szunigin 4(gesz2) 4(u) 3(asz) 3(ban2) 7(disz) 1/2(disz) sila3 gur
+#tr.en: total: 283 gur 3 ban2 7 1/2 sila3,
+# calculation:
+6. sza3-gal udu niga
+#tr.en: fodder of the sheep, grain-fed,
+7. giri3 ur-{d}nisaba
+#tr.en: via Ur-Nisaba,
+8. udu niga bala-a
+#tr.en: sheep, grain-fed, of the bala;
+9. giri3#? nam-sza3-tam?
+#tr.en: via the official office (?);
+$ blank space
+10. iti min3-esz3
+#tr.en: from the month: “mineš,”
+11. mu bad3 ba-du3-ta
+#tr.en: year: “The wall was erected,”
+12. iti szu-numun
+#tr.en: to the month: “Sowing,”
+# some text moved to next line
+13. mu us2-sa bad3 ba-du3-sze3
+#tr.en: year after: “The wall was erected.”

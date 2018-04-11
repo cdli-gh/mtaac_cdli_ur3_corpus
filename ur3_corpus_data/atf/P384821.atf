@@ -1,0 +1,83 @@
+&P384821 = CDLJ 2009/2, §3.3
+#atf: lang sux
+@tablet
+@obverse
+$ beginning broken
+1'. [...] x x [...]
+#tr.en: ...
+2'. [2(bur3) 1(esze3) 3(iku) GAN2 gesz a-ra2] 3(disz) 1(esze3) GAN2-ta
+#tr.en: 2 bur3, 1 eše3 3 iku field, harrowing, 3 (times), at 1 eše3 field (a day),
+3'. [a2 erin2-na]-bi# u4 4(u) 5(disz)
+#tr.en: its troop labor: 45 days;
+# calculation: 45 × 3 × 2 ÷ 6 = 45
+# ploughmen always 3 erin2, seeding ploughs always 4 erin2:
+# d = (a ÷ b/3) + (a ÷ c/3 x 3/2/1) = (a/b x 3) + ((a/c x 3) x 3/2/1)
+# if plough type1 . plough type2, then:
+# d = 2(a ÷ b/3) + (a ÷ c/3 x 3/2/1) etc.
+4'. [1(bur3) GAN2 gesz a]-ra2# 3(disz) 1(esze3) GAN2-ta
+#tr.en: 1 bur3 field, harrowing, 3 (times), at 1 eše3 field (a day),
+5'. [a2] erin2#-[na-bi] u4# 1(u) 8(disz)
+#tr.en: its troop labor: 18 days;
+# calculation: 18 × 3 × 2 ÷ 6 = 18
+6'. [1(esze3) 3(iku)] GAN2 [gesz a]-ra2# 4(disz) 1(esze3) GAN2-ta
+#tr.en: 1 eše3, 3 iku field, harrowing, 4 (times), at 1 eše3 field (a day),
+7'. a2# erin2-na#-bi# u4 1(u) 2(disz)
+#tr.en: its troop labor: 12 days;
+# calculation: 9 × 4 × 2 ÷ 6 = 12
+8'. a2 gesz-ur3-ra
+#tr.en: work of harrowing;
+9'. 4(gesz2) sar gi zex(SIG7)-a 2(u) sar-ta
+#tr.en: 240 sar, reeds uprooted, at 20 sar (a day),
+10'. a2-bi u4 1(u) 2(disz)
+#tr.en: its labor: 12 days;
+# calculation: 240 ÷ 20 = 12
+11'. 4(u) 5(disz) sar gi zex(SIG7)-a 1(u) 5(disz) sar-ta
+#tr.en: 45 sar, reeds uprooted, at 15 sar (a day)
+12'. a2-bi u4# 3(disz)
+#tr.en: its labor: 3 days;
+# calculation: 45 ÷ 15 = 3
+13'. a2 lu2 hun-ga2
+#tr.en: labor of hired men;
+14'. 8(gesz2) 4(u) sar gi ku5-ra2 2(u) sar-ta
+#tr.en: 520 sar, reeds cut, at 20 sar (a day),
+15'. a2-bi u4 2(u) 6(disz)
+#tr.en: its labor: 26 days;
+# calculation: 520 ÷ 20 = 26
+16'. 3(gesz2) 1(u) 2(disz) sar al 4(disz) sar-ta
+#tr.en: 192 sar, hoeing, at 4 sar (a day),
+@reverse
+1. a2-bi# u4 4(u) 8(disz)
+#tr.en: its labor: 48 days;
+# calculation: 192 ÷ 4 = 48
+2. [1(gesz2) 6(disz)] sar# al 3(disz) sar-ta
+#tr.en: 66 sar, hoeing, at 3 sar (a day),
+3. [a2-bi] u4# 2(u) 2(disz)
+#tr.en: its labor: 22 days;
+# calculation: 66 ÷ 3 = 22
+4. [2(gesz2) 3(u) sar] x 5(disz) sar-ta
+#tr.en: 150 sar, ..., at 5 sar (a day),
+5. a2#-[bi] u4# 3(u)
+#tr.en: its labor: 30 days;
+# calculation: 150 ÷ 5 = 30
+6. giri3# [...]-la? nu-banda3-gu4
+#tr.en: via ..., oxen manager;
+$ blank space
+7. [a-sza3-ge] kin ak
+#tr.en: field work done,
+8. [a-sza3 la2]-tur
+#tr.en: field “Latur;”
+9. [ugula ur?]-{gesz#?}gigir# nu#-[banda3]-gu4
+#tr.en: foreman: Ur-gigir, oxen manager;
+10. [kiszib3] lugal-[nesag-e]
+#tr.en: under seal of Lugal-emaḫe;
+11. [iti] dal
+#tr.en: month: “Flight,”
+12. [mu ...]{ki} ba-[hul]
+#tr.en: year: “... was destroyed.”
+@seal 1
+1. [lugal]-e2#-mah#-e
+#tr.en: Lugal-emaḫe,
+2. dub-sar
+#tr.en: scribe,
+3. [dumu] lugal#-ku3-ga-[ni]
+#tr.en: son of Lugal-kugani.

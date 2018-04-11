@@ -1,0 +1,28 @@
+&P315509 = PPAC 5, 0020
+#atf: lang sux
+@tablet
+@obverse
+@column 1
+1. [... gid2 n kusz3 dagal n kusz3] bur3
+2. [a-sza3 ...] 1(u) sar
+# calculation: x/12 × y/12 × z = [n] 10 sar{vol}
+3. [...] gid2# 1(disz) 1/2(disz) kusz3 [dagal] 2(disz) kusz3 bur3
+4. [a-sza3 ...] sar 2(disz) 1/2(disz) gin2
+# calculation: x/12 × 1.5/12 × 2 = [n] 2.5/60 sar{vol}
+5. [...] gid2 2/3(disz) kusz3 dagal# 1(disz) 1/2(disz) kusz3 bur3
+6. [a-sza3 ...] gin2
+# calculation: x/12 × .67/12 × 1.5 = [n] n/60 sar{vol}
+$ rest broken
+@column 2
+1. [...]
+2. a-sza3 1/3(disz) sar 5(disz) gin2
+# calculation: x/12 × y/12 × z = 25/60 sar{vol}
+3. gurusz-bi 1(u) 5(disz) gin2
+4. 2(disz) gurusz 1(u) ninda gid2 1(disz) 1/2(disz) kusz3 dagal 2(disz) kusz3 bur3-ta
+5. a-sza3 1(disz) 2/3(disz) sar-ta
+# calculation: 10 × 1.5/12 × 2 = 2.5 sar{vol} [text 1.67]
+6. 3(disz) 1/2(disz) ninda gid2 1(disz) kusz3 dagal 2(disz) kusz3 bur3
+7. a-sza3 1/2(disz) sar 5(disz) gin2
+# calculation: 3.5 × 1/12 × 2 = 35/60 sar{vol}
+8. gurusz-bi 1/3(disz) la2 1(disz@t) gin2
+$ rest broken

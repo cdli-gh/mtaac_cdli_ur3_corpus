@@ -1,0 +1,107 @@
+&P102435 = ASJ 11, 142 app
+#atf: lang sux
+@tablet
+@obverse
+1. [5(u)] 2(asz)# 3(barig)# 3(ban2) 5(disz) [sila3 sze gur]
+#tr.en: 52 gur 3 barig 3 ban2 5 sila3 barley,
+2. [3(asz)] ziz2 [gur]
+#tr.en: 3 gur emmer,
+3. [1(barig)] 1(ban2)# 2(disz) sila3 [gig]
+#tr.en: [1 barig] 1 ban2 2 sila3 wheat,
+4. sze#-numun mur-[gu4]
+#tr.en: seed grain and fodder,
+5. 1(asz) 2(barig) gur sza3-gal amar#
+#tr.en: 1 gur 2 barig, fodder of the calves,
+6. 4(asz) 3(barig) 3(ban2) gur sza3-gal gu4 HI#-[da]
+#tr.en: 4 gur 3 barig 3 ban2, fodder of the ...-oxen,
+7. ki ka-guru7-ta#
+#tr.en: from the grain depot manager;
+8. 4(barig) 1(ban2) duh du sze-bi 5(ban2)
+#tr.en: 4 barig 1 ban2 regular bran, its barley: 5 ban2,
+9. ki usz-mu-ta
+#tr.en: from Ušmu;
+10. 4(barig) 2(disz) 1/2(disz) sila3 sze ki lugal-nesag-[e]-ta#
+#tr.en: 4 barig 2 1/2 sila3 barley from Lugal-nesage,
+11. 2(barig) 3(ban2) ki lugal-e2-mah-e-ta
+#tr.en: 2 barig 3 ban2 from Lugal-emaḫe,
+12. 1(asz) 4(barig) 1(ban2) gur ki ur-mes-ta
+#tr.en: 1 gur 4 barig 1 ban2 from Ur-mes,
+13. 2(barig) 8(disz) 1/3(disz) sila3 ki ku3-ga-ni-ta
+#tr.en: 2 barig 8 1/3 sila3 from Kugani,
+14. 2(asz) 4(ban2) 3(disz) sila3 1(u) 1(disz) 2/3(disz) gin2 gur
+#tr.en: 2 gur 4 ban2 3 sila3 11 2/3 shekels barley from Lugal-nesage,
+15. ki ur-{gesz}gigir dumu a-si-lu-ta
+#tr.en: from Ur-gigir, son of Asilu;
+16. szunigin 1(gesz2) 4(asz) 3(barig) 2(ban2) 9(disz) sila3 1(disz) 2/3(disz) gin2 sze gur
+#tr.en: together: 64 gur 3 barig 2 ban2 9 sila3 1 2/3 shekels barley,
+17. szunigin 3(asz) ziz2 gur
+#tr.en: together: 3 gur emmer;
+18. szunigin 1(barig) 1(ban2) 2(disz) sila3 gig
+#tr.en: together: 1 barig 1 ban2 2 sila3 wheat;
+19. sza3-bi-ta
+#tr.en: therefrom:
+20. 1(esze3) 2(iku) GAN2 1(u) 2(disz)-ta
+#tr.en: 1 eše3 2 iku surface at 12 (furrows per running ninda) each,
+21. 1(bur'u) 2(bur3) 2(esze3) 1/2(iku) 1/4(iku) GAN2 1(u)-ta
+#tr.en: 12 bur3 2 eše3 3/4 iku surface at 10 each,
+22. 2(bur3) 1/2(iku) GAN2 1(u) la2 1/2(disz)-ta
+#tr.en: 2 bur3 1/2 iku surface at 9 1/2 each,
+23. 9(bur3) 2(iku) GAN2 1(u) la2 1(disz)-ta
+#tr.en: 9 bur3 2 iku surface at 9 each,
+24. 2(bur3) 3(iku) GAN2 a-sza3 bala-a 1(u)-ta
+#tr.en: 2 bur3 3 iku surface, bala field, at 10 each,
+@reverse
+1. sze-numun-bi 2(u) 3(asz) 3(barig) 5(ban2) 8(disz) 1/3(disz) 5(disz) gin2 gur
+#tr.en: their seed grain: 23 gur 3 barig 5 ban2 8 1/3 sila3 5 shekels;
+2. ziz2-numun-bi 3(asz) gur
+#tr.en: their seed emmer: 3 gur;
+# for mur-gu4 to work, this must be halved
+3. gig-numun-bi 1(barig) 1(ban2) 2(disz) sila3
+#tr.en: their seed wheat: 1 barig 1 ban2 2 sila3;
+# calculation: ((8/18) × 12 × 30) + ((12 12.75/18) × 10 × 30) + ((2 0.5/18) × 9.5 × 30) + ((9 2/18 × 9) × 30) + ((2 3/18 × 10) × 30) = 7660.4167s = 25;2.4.25/60 = 23;3.5.8 25/60 + 1/2! × 3;0.0 + 0;1.1.2 (exact, when ziz2 is halved)
+4. mur-gu4 5/6(disz)-bi 2(u) 1(asz) 1(barig) 2(ban2) 3(disz) 2/3(disz) sila3 5/6(disz) gin2 gur
+#tr.en: their fodder at 5/6 (that of seed grain): 21 gur 1 barig 2 ban2 3 2/3 sila3 5/6 shekel;
+# calculation: 7660.4167s × 5/6 = 6383.68s = 21;1.2.3 40.83/60 (exact)
+5. gu4-e uru4-a
+#tr.en: oxen of (seed) plowing;
+6. 1(esze3) 2(iku) GAN2 1(u) 2(disz)-ta sze-numun-bi 2(barig) 4(ban2)
+#tr.en: 1 eše3 2 iku field at 12 (furrows per running ninda) each, their seed grain: 1 barig 2 ban2;
+# calculation: 4/18 × 12 × 30 = 80 (exact)
+7. {gesz}gaba-tab-e uru4-a
+#tr.en: gabatab plowing;
+8. a-sza3 da-umma{ki}
+#tr.en: field of Da-Umma;
+9. 5(bur3) 2(iku) GAN2 1(u) 2(disz)-ta
+#tr.en: 5 bur3 2 iku field at 12 (furrows per running ninda) each,
+10. 3(bur3) 1(esze3) 3(iku) GAN2 1(u) 1(disz) 1/2(disz)-ta
+#tr.en: 3 bur3 1 eše3 3 iku field at 11 1/2 each,
+11. sze-numun-bi 1(u) 4(ban2) 7(disz) 1/2(disz) sila3 gur
+#tr.en: their seed grain: 10 gur 4 ban2 7 1/5 sila3;
+# calculation: 5 2/18 × 12 × 30 + 3 9/19 × 11.5 × 30 = 3047.5 = 10;0.4.7 1/2 (exact)
+12. mur-gu4 5/6(disz)-bi 8(asz) 2(barig) 1(ban2) 9(disz) 1/2(disz) sila3 5(disz) gin2 gur
+#tr.en: their fodder at 5/6 (that of seed grain): 8 gur 2 barig 1 ban2 9 1/2 sila3 5 shekels;
+# calculation: 3047.5s × 5/6 = 2539.583s = 8;2.1.9 35/60 (exact)
+13. a-sza3 a-pi4-sal4{ki}
+#tr.en: field of Apisal;
+14. 1(asz) 2(barig) gur sza3-gal amar
+#tr.en: 1 gur 2 barig fodder of the calves;
+15. szunigin 1(gesz2) 5(asz) 3(barig) 9(disz) sila3 1(u) 5/6(disz) gin2 gur
+#tr.en: together: 65 gur 3 barig 9 sila3 10 5/6 shekels (barley),
+16. szunigin# 3(asz)# ziz2 gur
+#tr.en: together: 3 gur emmer,
+17. szunigin# [1(barig) 1(ban2)] 2(disz)# sila3 gig
+#tr.en: together: 1 barig 1 ban2 2 sila3 wheat,
+18. [zi]-ga#-am3
+#tr.en: booked out;
+19. [diri 4(barig) 4(ban2)] 5/6(disz)#! sila3 8(disz) 1/3(disz) gin2
+#tr.en: surplus: 4 barig 4 ban2 5/6 sila3 8 1/3 shekels,
+# calculation with emendation: 65;3,0,9 10.83/60 - 64;3,2,9 12/60 = 0.4,4,0 58.83/60
+20. [nig2-ka9-ak] sze#-numun mur-gu4#
+#tr.en: account of the seed grain and fodder
+21. [i7-pa]-e3# dumu lugal-uszurx(|LAL2.TUG2|)#
+#tr.en: of Ipa’e, son of Lugal-ušur;
+22. [a de2-a]
+#tr.en: water pouring;
+# some text moved to next line
+23. [mu si-ma-num2{ki} ba-hul?]
+#tr.en: year: “Simanum was destroyed.” (?)

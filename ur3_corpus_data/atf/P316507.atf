@@ -1,0 +1,64 @@
+&P316507 = PPAC 5, 0250
+#atf: lang sux
+@tablet
+@obverse
+@column 1
+1. 1(barig) sze lugal
+2. bi2-du11-i3-sa6 nu-dab5-ba
+3. ugula bi2-du11-i3-sa6
+4. 3(ban2) lugal-[...]
+5. ugula usz-gi-na
+6. 1(barig) sze ur-{d}ba-ba6 dumu i-di3-a
+7. 3(ban2) ur-{d}sza-u18-sza
+8. ugula ur-{d}ba-ba6 dumu i-di3-a
+9. 4(ban2) ($ blank space $) nu-dab5-ba
+# expect personal name
+10. ugula ur-{d}szul-pa-e3 dumu ur-{d}da-mu
+11. 1(barig) ur-mes
+12. ugula ur-{d}ba-ba6 dumu na-silim
+13. 4(ban2) ur-mes
+14. [4(ban2)] al-la-mu
+15. dumu lugal-a-ma-ru
+@column 2
+1. szunigin 3(disz) gurusz 1(barig)-ta
+2. szunigin 3(disz) gurusz 4(ban2)-ta
+3. szunigin 2(disz) gurusz 3(ban2)-ta
+4. sze-bi 1(asz) 1(barig) gur
+5. bur2-ta
+6. giri3 ur-mes dumu {d}ba-ba6-GIR2@g?-gal
+7. 1(barig) ur-{d}da-mu
+8. 1(barig) lu2-e2-gu-la
+9. ugula a-a-kal-la
+10. 1(barig) ur-{d}ba-ba6 e2-sukkal
+11. ugula ur-mes
+12. 4(ban2) lu2-{d}na-ru2-a
+13. 4(ban2) ad-da-na-birx(GIR3)
+14. ugula ba-sa6-ga
+15. 4(ban2) lu2-{d}nin-szubur
+16. 3(ban2) ur-{d}[...]
+17. ugula lu2-{d}nin-szubur
+18. 1(barig) szu-[|BAD3.AN|]{ki}
+@reverse
+@column 1
+1. ugula szu-|BAD3.AN|{ki}
+2. 4(ban2) {d}szul-pa-e3-szesz
+3. ugula nam-iri-na
+4. 4(ban2) lu2-{d}suen
+5. ugula lu2-{d}ba-ba6
+6. 1(barig) e2-gurum2-e
+7. ugula lugal-ur2-ra-ni
+8. 4(ban2) lu2-ti-i3-zu
+9. ugula ur-{d}asar
+10. 4(ban2) nam-zi-tar-ra
+11. ugula nig2-sza3-ge
+12. szunigin 6(disz) gurusz 1(barig)-ta
+13. szunigin 6(disz) gurusz 4(ban2)-ta
+14. szunigin 1(disz) gurusz 3(ban2)
+15. sze-bi 2(asz) 3(ban2) gur
+16. sze-ba dah-hu
+@column 2
+1. giri3 lugal-an-na-tum2
+2. iti ezem-{d}szul-gi-ta
+$ blank space
+3. sze-ba-e dah-hu e2 szim
+4. mu ha-ar-szi{ki} ki-masz{ki} ba-hul
