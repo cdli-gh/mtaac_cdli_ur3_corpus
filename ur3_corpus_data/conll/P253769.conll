@@ -110,7 +110,7 @@ o.col2.14.3	lu5-lu5-x
 o.col2.15.1	usz2
 o.col2.15.2	lu2-gaz-zi-da
 o.col2.16.1	usz2
-o.col2.16.2	lugal-amar-x
+o.col2.16.2	lugal-amar-ku3
 o.col2.17.1	1(disz)
 o.col2.17.2	lugal-dub-la2
 o.col2.18.1	dumu-ni-me
@@ -138,7 +138,7 @@ r.col1.1.3	x
 r.col1.2.1	1(asz@c)
 r.col1.2.2	GAN2
 r.col1.2.3	ARAD2-hul3-la
-r.col1.2.4	x
+r.col1.2.4	engar
 r.col1.3.1	1(asz@c)
 r.col1.3.2	GAN2
 r.col1.3.3	ug3
@@ -161,7 +161,7 @@ r.col1.8.4	lugal-nesag-e
 r.col1.9.1	1(asz@c)
 r.col1.9.2	GAN2
 r.col1.9.3	ug3
-r.col1.9.4	a-ba-nam-DU
+r.col1.9.4	a-ba-nam-tum2
 r.col1.10.1	ARAD2-hul3-la
 r.col1.10.2	i3-dab5
 r.col1.11.1	1(asz@c)
@@ -198,7 +198,8 @@ r.col1.19.1	ur-{gesz}gigir
 r.col1.19.2	i3-dab5
 r.col2.1.1	gurum2
 r.col2.1.2	ak
-r.col2.1.3	gu4-{gesz}apin
+r.col2.1.3	gu4
+r.col2.1.4	{gesz}apin
 r.col2.2.1	ugula
 r.col2.2.2	lugal-{d}isztaran
 r.col2.3.1	ur-{d}li9-si4

@@ -4,8 +4,7 @@ o.col01.1.1	1(asz)
 o.col01.1.2	1(barig)
 o.col01.1.3	4(disz)
 o.col01.1.4	ug3
-o.col01.1.5	a-ab-ba
-o.col01.1.6	muhaldim
+o.col01.1.5	a-ab-ba-mu
 o.col01.2.1	1(disz)
 o.col01.2.2	1(ban2)
 o.col01.2.3	5(disz)
@@ -115,7 +114,7 @@ o.col02.9.2	3(ban2)
 o.col02.9.3	tug2
 o.col02.9.4	e2-ki-bi
 o.col02.9.5	dumu
-o.col02.9.6	ba-hu-UD
+o.col02.9.6	zu-hu-ut
 o.col02.10.1	1(asz)
 o.col02.10.2	3(ban2)
 o.col02.10.3	tug2
@@ -133,7 +132,7 @@ o.col02.12.6	AN-gu-gu-um
 o.col02.13.1	1(asz)
 o.col02.13.2	3(ban2)
 o.col02.13.3	tug2
-o.col02.13.4	lugal-{d}nin-ur3-ra
+o.col02.13.4	lugal-{d}nin-ur4-ra
 r.col1.1.1	dumu
 r.col1.1.2	ur-apin-du7
 r.col1.2.1	GAM
@@ -153,7 +152,7 @@ r.col1.5.2	1(ban2)
 r.col1.5.3	5(disz)
 r.col1.5.4	1(disz)
 r.col1.5.5	1/2(disz)
-r.col1.5.6	lugal-ezen
+r.col1.5.6	lugal-ezem
 r.col1.6.1	dumu-ni-me
 r.col1.7.1	1(asz)
 r.col1.7.2	2(ban2)
@@ -223,8 +222,7 @@ r.col2.8.2	tur-tur
 r.col2.9.1	giri3-se3-ga
 r.col2.9.2	e2-masz-me
 r.col2.10.1	ugula
-r.col2.10.2	a-ba-ba
-r.col2.10.3	muhaldim
+r.col2.10.2	a-ba-ba-mu
 r.col2.11.1	iti
 r.col2.11.2	dal
 r.col2.12.1	mu

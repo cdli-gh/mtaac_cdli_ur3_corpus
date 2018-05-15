@@ -351,11 +351,10 @@ r.col3'.7'.2	1(u)
 r.col3'.7'.3	3(disz)
 r.col3'.7'.4	8(disz)
 r.col3'.7'.5	gin2
-r.col3'.8'.1	igi
-r.col3'.8'.2	6(disz)-gal2
-r.col3'.8'.3	gurusz
-r.col3'.8'.4	u4
-r.col3'.8'.5	1(disz)-sze3
+r.col3'.8'.1	igi-6(disz)-gal2
+r.col3'.8'.2	gurusz
+r.col3'.8'.3	u4
+r.col3'.8'.4	1(disz)-sze3
 r.col3'.9'.1	1(u)
 r.col3'.9'.2	1(disz)
 r.col3'.9'.3	gurusz

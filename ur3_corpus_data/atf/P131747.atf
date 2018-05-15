@@ -61,7 +61,7 @@ $ blank space
 21. 2(gesz2) 2(u) 4(disz) gurusz u4 1(disz)-sze3
 22. sze gurx(|SZE.KIN|)-a
 23. 1(gesz2) 3(u) gurusz u4 1(disz)-sze3
-@bottom2
+@bottom 2
 1. 1(gesz'u) 2(gesz2) 5(u) 2(disz)
 @column 3
 1. zar tab-ba szu [ur2-ra]
@@ -95,7 +95,7 @@ $ blank space
 29. a-da gub-ba gu2 i7 idigna
 30. a2-bi u4 4(gesz2) 1(u) 5(disz)
 $ blank space
-@bottom3
+@bottom 3
 1. 2(gesz'u) 1(gesz2) 3(u) 7(disz)
 @column 4
 $ blank space
@@ -116,7 +116,7 @@ $ blank space
 15. a2 erin2-na-bi u4 1(gesz2) 5(u) 1/2(disz)
 16. 1(bur3) 1(esze3) [...] a-ra2 [...]-ta
 17. a2-[erin2-na-bi u4 2(szar2) 4(gesz2) 4(disz)]
-@bottom4
+@bottom 4
 1. 1(gesz'u)#? [x]
 @column 5
 1. 1(esze3)# tug2-gurx(|SZE.KIN|) 1/2(iku) 1/4(iku) GAN2 gesz a-ra2 [2(disz)] 5(iku) GAN2-ta
@@ -143,7 +143,7 @@ $ blank space
 21. a2 erin2-na-bi u4 4(u) 3(disz) 1(u) 2(disz) gin2
 22. 2(bur3) 2(esze3) 2(iku) 1/2(iku) GAN2 gesz a-ra2 2(disz) 5(iku) GAN2-ta
 23. a2 erin2-na-bi u4 1(gesz2) 1/2(disz) 6(disz) gin2
-@bottom5
+@bottom 5
 1. 9(gesz2) 5(disz) 6(disz) gin2
 @column 6
 1. [...]
@@ -176,7 +176,7 @@ $ blank space
 26. 1(gesz'u) 2(gesz2) sar {u2}kiszi17 ku5-a 2(u) sar-ta
 27. a2-bi u4 3(u) 6(disz)
 28. 1(gesz'u) 7(gesz2) 3(u) sar {u2#}kiszi17 zex(SIG7)-a 3(u) sar-ta
-@bottom6
+@bottom 6
 1. 2(gesz'u) 7(gesz2) 3(u) 2/3(disz)
 @reverse
 @column 1
@@ -209,7 +209,7 @@ $ blank space
 26. a2-bi u4 5(u) 5(disz)
 27. 1(szar2) 1(gesz'u) 3(u) sar {u2}kiszi17 [x sar-ta]
 28. [a2-bi u4]
-@bottom1
+@bottom 1
 1. [n]
 @column 2
 1. 3(gesz'u) 6(gesz2) 4(u) sar {u2}kiszi17 ku5-a 2(u) sar-ta
@@ -242,7 +242,7 @@ $ blank space
 28. 2(gesz'u) sar {u2}kiszi17 ku5-a 2(u) sar-ta
 29. a2#-bi u4 1(gesz2)
 30. [...] gurusz [u4 1(disz)]-sze3#
-@bottom2
+@bottom 2
 1. [n]
 @column 3
 1. [ab-sin2-ta] la-[ag ri]-ri-ga
@@ -271,7 +271,7 @@ $ blank space
 22. kab2-ku5 igi-anzu{muszen}-babbar2 ka si-ga
 23. kiszib3 i7-pa-e3
 24. [...]
-@bottom3
+@bottom 3
 1. [n]
 @column 4
 1. 1(gesz2) 2(u) 5(disz) gurusz u4# 1(disz)-sze3
@@ -298,7 +298,7 @@ $ blank space
 # left out of published copy
 22. kiszib3 a-du-mu [...]
 23. [...]-sze3 [...]
-@bottom4
+@bottom 4
 1. 5(gesz2) 4(u) [n]
 @column 5
 1. a-e3-a a-sza3 na-ra-am-{d}suen gub-ba
@@ -317,7 +317,7 @@ $ blank space
 13. bala-sze3 gen-na bala-a [gub]-ba u3 bala-ta gur-ra
 14. giri3# ur-{d}nun-gal
 $ blank space
-@bottom5
+@bottom 5
 1. 9(gesz2)# 4(u)# 2(disz)#?
 @column 6
 1. diri 2(gesz2) 4(u) 5(disz) hun-ga2
@@ -342,7 +342,7 @@ $ blank space
 19. iti ezem-{d}szul-gi-ta
 20. iti {d}dumu-zi-sze3
 $ blank space
-@bottom6
+@bottom 6
 1. 2(gesz'u) 6(gesz2) 3(u) 6(disz)
 @column 7
 $ blank space

@@ -12,6 +12,8 @@ import math
 import click
 import time
 
+from scripts_translated import atf_parser
+
 # Dependencies:
 # lxml
 # click
@@ -217,8 +219,10 @@ class CDLI_query_primary(CDLI, common_functions):
           %(ID[1:])
     html = self.get_html(url)
     if html!=None:
+      for br in html.xpath("*//del/br"):
+        br.tail = "\n" + br.tail if br.tail else "\n"
       for tag in html.xpath("//div[@class='revcontent']"):
-        atf_txt = self.cut_ATF(tag.text_content())
+        atf_txt = self.cut_ATF(tag.text_content()).replace("\n\n", "\n")
         ATF_lst.append(atf_txt)
     return ATF_lst
 
@@ -449,30 +453,202 @@ class CDLI_query_functions(CDLI, common_functions):
 # ---/ Query split /-----------------------------------------------------------
 #
 class CDLI_query_split_functions(CDLI, common_functions):
+
   '''
-  Functions to divide a query into sections (80%, 10%, 10%).
+  Functions to define types in query and divide a query into
+  sections (80%, 10%, 10%), proportion with regard to type.
   Shares the common format for `self.entries_lst`.
+  Arguments: filename with path.
   '''
+  
   entries_lst = []
   UNCHANGABLE = []
+  typs_lst = ['raw', 'trs', 'ann', 'trs-ann']
 
-  def __init__(self, entries_lst, unchangable=[]):
-    self.entries_lst = entries_lst
+  def __init__(self):
+    pass
+
+  def split_and_dump_query(self, filename, unchangable=[], predefined=True):
+    '''
+    Function to make and dump split, copy conll files for annotation,
+    and export translated data.
+    ''' 
+    self.predefined = predefined
+    q = self.load_json('%s/%s' %(self.FILTERED_QUERY_PATH,
+                                 filename))
+    self.entries_lst = self.list_random_order(q['entries'])
     if unchangable is not None:
       self.UNCHANGABLE+=unchangable
-    self.githup_update_gold_unchangable()
-    self.random_plus_corpus_split()
+    self.githup_update_annotated_unchangable()
+    self.define_types()
+    self.configure_types_and_split_all()
+    self.dump_split(self.FILTERED_QUERY_PATH)
+    self.copy_conll_to_annotate(self.FILTERED_QUERY_PATH)
+    self.export_translated_data(self.FILTERED_QUERY_PATH)
+
+  def update_data_from_atf(self, filename):
+    '''
+    Updates data from new ATF and old split (filename):
+    1. Create new CoNLL files
+    2. Copy CoNLL files for annotation
+    3. Process translated parallel data
+    See https://github.com/cdli-gh/mtaac_cdli_ur3_corpus/issues/2
+    '''
+    self.parts_lst = self.load_json('%s/%s' %(self.FILTERED_QUERY_PATH,
+                                          filename))
+    self.entries_lst_from_parts()
+    self.atf2conll(self.FILTERED_QUERY_PATH)
+    self.copy_conll_to_annotate(self.FILTERED_QUERY_PATH)
+    self.export_translated_data(self.FILTERED_QUERY_PATH)
+
+  def entries_lst_from_parts(self):
+    self.entries_lst = []
+    for p in self.parts_lst:
+      self.entries_lst+=p['entries']
     
-  def githup_update_gold_unchangable(self):
+  def update_translated(self, filename):
+    '''
+    Function to load split and export translated data.
+    ''' 
+    self.parts_lst = self.load_json('%s/%s' %(self.FILTERED_QUERY_PATH,
+                                              filename))
+    self.export_translated_data(self.FILTERED_QUERY_PATH)
+
+  def atf2conll(self, path):
+    '''
+    Converts ATF to CoNLL with atf2conll,
+    then moves 'output' to corpus and renames it to 'conll'.
+    '''
+    s = subprocesses()
+    command = ['atf2conll', '-i', '%s/atf' %path]
+    s.run(command)
+    shutil.move('%s/atf/output' %path,
+                '%s/conll' %path)
+    
+  def define_types(self):
+    '''
+    Define type of entries in `self.entries_lst`. Options:
+    'raw' - raw
+    'trs' - translated
+    'ann' - annotated
+    'trs-ann' - translated and annotated
+    '''
+    for e in self.entries_lst:
+      e['type']='raw'
+      if 'translated' in e.keys():
+        if e['translated']==True:
+          e['type']='trs'
+        del e['translated']
+      if e['CDLI no.'] in self.UNCHANGABLE:
+        if e['type']=='trs':
+          e['type']='trs-ann'
+        else:
+          e['type']='ann'
+
+  def configure_types_and_split_all(self):
+    '''
+    Workflow:
+    1. split list to types
+    2. calculate or/and define proportion for each type in corpus
+    3. split each type list separately to corpus proportions
+    4. merge corpus parts in different type lists.
+    '''
+    print('entries total init:', len(self.entries_lst))
+    self.set_translated_annotated()
+    self.set_raw_annotated()
+    self.parts_lst = []
+    for t in self.typs_lst:
+      t_lst = self.list_entries_by_params(self.entries_lst, {'type': t})
+      ss = self.standard_split(t_lst)
+      if not len(self.parts_lst):
+        self.parts_lst = ss
+      else:
+        for i in range(0,3):
+          self.parts_lst[i]['entries']+=ss[i]['entries']
+    self.print_report()
+
+  def print_report(self):
+    '''
+    Print report for split evaluatuion.
+    '''
+    print('entries total:', len(self.entries_lst))
+    for p in self.parts_lst:
+      print('corpus part:', p['name'])
+      print('entries:', len(p['entries']))
+      for t in self.typs_lst:
+        t_lst = self.list_entries_by_params(p['entries'], {'type': t})
+        p_all = self.percent_of(t_lst, self.entries_lst)
+        p_part = self.percent_of(t_lst, p['entries'])
+        print('\ttype:', t,
+              'percent in corpus: %s%%' %p_all,
+              'percent in part: %s%%' %p_part,
+              'entries: %s' %len(t_lst)
+              )
+        
+  def set_translated_annotated(self):
+    '''
+    Define translated-annotated - random 20% of translated (incl. predefined).
+    '''
+    trs_ann = self.list_entries_by_params(self.entries_lst,
+                                          {'type': 'trs-ann'})
+    trs = self.list_entries_by_params(self.entries_lst,
+                                      {'type': 'trs'})
+    d = self.percent_of(trs_ann, trs+trs_ann)
+    n = int(self.percent_count(trs+trs_ann, 20-d))
+    trs_ann_fill = self.percent_of(range(0,n-1), trs)
+    parts_lst = [{'name': 'trs', 'percent': 100-trs_ann_fill},
+                 {'name': 'trs-ann', 'percent': trs_ann_fill,
+                  'entries': trs_ann}]
+    rest = self.list_entries_by_params(self.entries_lst,
+                                          {'type': 'raw'})
+    rest+=self.list_entries_by_params(self.entries_lst,
+                                          {'type': 'ann'})
+    self.split_and_update_types(parts_lst, trs, rest)
+
+  def set_raw_annotated(self):
+    '''
+    Define annotated - random 5% of all texts (incl. predefined).
+    The texts are randomly taken from the raw group.
+    '''
+    ann = self.list_entries_by_params(self.entries_lst,
+                                          {'type': 'ann'})
+    trs_ann = self.list_entries_by_params(self.entries_lst,
+                                          {'type': 'trs-ann'})
+    raw = self.list_entries_by_params(self.entries_lst,
+                                      {'type': 'raw'})
+    d = self.percent_of(ann+trs_ann, self.entries_lst)
+    n = int(self.percent_count(self.entries_lst, int(5-d)))
+    ann_raw_fill = self.percent_of(range(0,n-1), raw)
+    parts_lst = [{'name': 'raw', 'percent': 100-ann_raw_fill},
+                 {'name': 'ann', 'percent': ann_raw_fill,
+                  'entries': ann}]
+    rest = self.list_entries_by_params(self.entries_lst,
+                                          {'type': 'trs'})
+    rest+=trs_ann
+    self.split_and_update_types(parts_lst, raw, rest)
+    
+  def split_and_update_types(self, parts_lst, source_lst, rest_lst):
+    '''
+    Shortcut to split and update type param. in entries according
+    to given `p['name']`.
+    '''
+    parts_lst = self.items_split(parts_lst, source_lst)
+    for p in parts_lst:
+      for e in p['entries']:
+        e['type'] = p['name']
+      rest_lst+=p['entries']
+    self.entries_lst = rest_lst
+        
+  def githup_update_annotated_unchangable(self):
     '''
     Updates `self.UNCHANGABLE` with a list of CDLI numbers
     already in Gold Corpus repository.
     '''
-    github_list = [g.split('.')[0] for g in github_repo_list().file_lst
-                   if g[0]=='P' and '.conll' in g]
-    self.UNCHANGABLE = list(set(self.UNCHANGABLE+github_list))
+    self.github_list = [g.split('.')[0] for g in github_repo_list().file_lst
+                        if g[0]=='P' and '.conll' in g]
+    self.UNCHANGABLE = list(set(self.UNCHANGABLE+self.github_list))
 
-  def random_plus_corpus_split(self):
+  def standard_split(self, source_lst):
     '''
     Random division to train, test (gold), and develop subcorpora.
     Returns a list of dictionaries with the following format:
@@ -480,166 +656,297 @@ class CDLI_query_split_functions(CDLI, common_functions):
     - percent: percent of the corpus (int),
     - entries: list of entries in the `self.entries_lst` format,
     - items: quantity of randomly defined entries,
-    - pre (optional): quantity of predefined entries,
-    - and some others.
     '''
-    entries_gold = [e for e in self.entries_lst
-                    if e['CDLI no.'] \
-                    in self.UNCHANGABLE]
-    entries_lst = [e for e in self.entries_lst
-                   if e not in entries_gold]
-    entries_lst = sample(entries_lst, len(entries_lst))
     parts_lst = [{'name': 'train', 'percent': 80},
-               {'name': 'test', 'percent': 10, 'pre': len(entries_gold)},
-               {'name': 'develop', 'percent': 10}]
-    parts_lst = self.percentage_to_items(parts_lst)
+                 {'name': 'test', 'percent': 10},
+                 {'name': 'develop', 'percent': 10}]
+    return self.items_split(parts_lst, source_lst)
+
+  def items_split(self, parts_lst, source_lst):
+    '''
+    Splits the corpus according to the percentage given in `parts_lst`.
+    Recieves `parts_lst` as a list of dicts and `source_lst` in the format
+    of `self.entries_lst`, returns `parts_lst` populated with entries.
+    ! Prepopulated entries, when taken into account, have to be
+    added to `el['entries']` separately, before or after this function.
+    '''
+    parts_lst = self.percentage_to_items(parts_lst, source_lst)
     prev = 0
     for el in parts_lst:
-      el['entries'] = entries_lst[prev:prev+el['items']]
+      if 'entries' not in el.keys():
+        el['entries']=[]
+      el['entries']+=source_lst[prev:prev+el['items']]
       prev+=el['items']
-      if el['name']=='test':
-        el['entries']+=entries_gold
-    self.parts_lst = parts_lst
-
-  def percentage_to_items(self, parts_lst):
-    '''
-    Subfunction of `self.random_plus_corpus_split()`.
-    Updates `parts_lst` to include the number of entries
-    that matches given percent.
-    Note that the `pre` argument's value is deducted from  
-    entries in order to leave space for the predefined Gold
-    entries.
-    '''
-    whole = len(self.entries_lst)
-    ints = 0
-    for el in parts_lst:
-      (el['int'], el['dec']) = math.modf((el['percent']*whole)/100.0)
-      ints+=el['int']
-    for el in sorted(parts_lst, key=lambda x: -x['int']):
-      if ints > 0:
-        el['items'] = int(el['dec']+1)
-        ints-=1
-      else:
-        el['items'] = int(el['dec'])
-      if 'pre' in el.keys():
-        el['items']-=el['pre']
     return parts_lst
 
-  def dump_split(self, path):
+  def percentage_to_items(self, parts_lst, source_lst):
+    '''
+    Updates `parts_lst` to include the number of entries
+    that matches given percent.
+    Note that the `pre_count` argument's value is deducted from  
+    entries in order to leave space for the predefined 
+    entries.
+    '''
+    p_all = 0
+    prc_lst = sorted([self._dec(self.percent_count(source_lst,
+                                                   e['percent']))[1]
+                      for e in parts_lst], key=lambda x: -x)
+    for e in parts_lst:
+      p = self.percent_count(source_lst, e['percent'])
+      e['items'] = int(p)
+      if prc_lst[0]!=0.0:
+        e['items'] = int(self._dec(p)[0])
+        if self._dec(p)[1]==prc_lst[0]:
+          e['items']+=1
+      p_all+=e['items']
+    return parts_lst
+
+  def copy_conll_to_annotate(self, path):
+    '''
+    Copies CoNLL files for annotation (filtered) to new destination.
+    '''
+    dest_path = '%s/conll_to_annotate' %(path)
+    self.github_list = [g.split('.')[0] for g in github_repo_list().file_lst
+                        if g[0]=='P' and '.conll' in g]
+    entries_lst = self.list_entries_by_params(self.entries_lst,
+                                              {'type': 'ann'})
+    entries_lst+=self.list_entries_by_params(self.entries_lst,
+                                             {'type': 'trs-ann'})
+    entries_lst = [e for e in entries_lst if e['CDLI no.']
+                   not in self.github_list]
+    self.copy_conll_files(path, dest_path, entries_lst)
+
+  def export_translated_data(self, path):
+    '''
+    Dumps translated corpus split and copies translated CoNLL
+    files to new directory.
+    '''
+    trs_entries_lst = []
+    dest_path = '%s/conll_translated' %path
+    trs_parts_lst = []
+    for p in self.parts_lst:
+      p_trs = p
+      p_trs['entries'] = self.list_entries_by_params(p['entries'],
+                                                     {'type': 'trs'})
+      p_trs['entries']+=self.list_entries_by_params(p['entries'],
+                                                    {'type': 'trs-ann'})
+      p_trs['items'] = len(p_trs['entries'])
+      trs_parts_lst.append(p_trs)
+      trs_entries_lst+=p_trs['entries']
+    self.dump_split(path,
+                    data=trs_parts_lst,
+                    prefix='corpus_split_translated')
+    self.copy_conll_files(path, dest_path, trs_entries_lst)
+    self.process_parallel(path, trs_parts_lst)
+
+  def process_parallel(self, path, trs_parts_lst):
+    '''
+    Processes and exports parallel data.
+    '''
+    output_path = '%s/atf' %(path)
+    for p in trs_parts_lst:
+      prefix = p['name']
+      dest_path = '%s/translated_parallel_data' %(path)
+      filenames = [e['CDLI no.']+'.atf' for e in p['entries']]
+      a = atf_parser(output_path, filenames, dest_path, prefix)
+
+  def _dec(self, i):
+    '''
+    Returns a tuple with dec and int.
+    '''
+    return math.modf(i)[::-1]
+
+  def percent_count(self, whole_lst, percent):
+    '''
+    Recieves a list and a percent of items.
+    Returns the number of items corr. to the precent of the list. 
+    '''
+    return (percent*len(whole_lst))/100.0
+
+  def percent_of(self, section_lst, whole_lst):
+    '''
+    Recieves two lists and compares first length as percent of second.
+    Returns the percent of section.
+    '''
+    section = len(section_lst)
+    whole = len(whole_lst)
+    percent = whole/100.0
+    return section/percent
+  
+  def list_random_order(self, lst):
+    '''
+    Recieves a list and returns it sorted in random order.
+    '''
+    return sample(lst, len(lst))
+
+  def list_entries_by_ids(self, entries_lst, ids_lst):
+    '''
+    Recieves a list of entries and a list of CDLI nos.
+    Returns a list of entries matching nos.
+    '''
+    return [e for e in entries_lst if e['CDLI no.'] in ids_lst]
+
+  def list_entries_by_params(self, entries_lst, param_dict):
+    '''
+    Recieves a list of entries and a dict. of params.
+    Returns a list of entries matching params.
+    '''
+    return [e for e in entries_lst if self.match_params(e, param_dict)==True]
+
+  def match_params(self, target_dict, param_dict):
+    for k in param_dict.keys():
+      if target_dict[k]!=param_dict[k]:
+        return False
+    return True
+
+  def copy_conll_files(self, path, dest_path, entries_lst):
+    '''
+    Copies CoNLL files in list to new destination. Missing files IDs
+    are saved in `no_conll.json`.
+    '''
+    if not os.path.exists(dest_path):
+      os.makedirs(dest_path)
+    not_copied_lst = []
+    for e in entries_lst:
+      scr = '%s/conll/%s.conll' %(path,
+                                  e['CDLI no.'])
+      dest = '%s/%s.conll' %(dest_path, e['CDLI no.'])
+      try:
+        shutil.copyfile(scr, dest)
+      except FileNotFoundError:
+        not_copied_lst.append(e['CDLI no.'])
+    if not_copied_lst!=[]:
+      self.dump(json.dumps(not_copied_lst), '%s/no_conll.json' %dest_path) 
+
+  def dump_split(self, path, data=[], prefix=''):
     '''
     Dumps JSON data.
     '''
-    json_data = self.parts_lst
-    #! include query and filter data
-    filename = '%s/corpus_split_%s.json' \
-               %(path, time.strftime("%Y%m%d-%H%M%S"))
+    json_data = data
+    if data==[]:
+      json_data = self.parts_lst
+    if not len(prefix):
+      prefix = 'corpus_split'
+    filename = '%s/%s_%s.json' \
+               %(path, prefix, time.strftime("%Y%m%d-%H%M%S"))
     self.dump(json.dumps(json_data), filename)
 
 # ---/ Split functions /-------------------------------------------------------
 #
-class split_data_functions(CDLI, common_functions):
-
-  def __init__(self, filename):
-    self.filename = filename
-    self.parts_lst = self.load_json('%s/%s'
-                                    %(self.FILTERED_QUERY_PATH, filename))
-    self.train_entries_lst = self.parts_lst[0]['entries']
-    self.test_entries_lst = self.parts_lst[1]['entries']
-    self.develop_entries_lst = self.parts_lst[2]['entries']
-    self.github_list = [g.split('.')[0] for g in github_repo_list().file_lst
-                        if g[0]=='P' and '.conll' in g]
-
-  def copy_gold_conll(self):
-    '''
-    Copies gold CoNLL files (for filtered entries) to new destination.
-    '''
-    path = '%s/conll_gold' %(self.FILTERED_QUERY_PATH)
-    if not os.path.exists(path):
-      os.makedirs(path)
-    for entry in self.test_entries_lst:
-      if entry['CDLI no.'] not in self.github_list:
-        scr = '%s/conll/%s.conll' %(self.FILTERED_QUERY_PATH,
-                                    entry['CDLI no.'])
-        dest = '%s/%s.conll' %(path, entry['CDLI no.'])
-        shutil.copyfile(scr, dest)
-
-  def redefine_unchangable(self, unchangable):
-    '''
-    Corrects split data with a list of new unchangable ids and these
-    in Github gold corpus repo.
-    '''
-    print('redefining unchangable entries')
-    unchangable = list(set(unchangable+self.github_list))
-    train_ids_lst = [e['CDLI no.'] for e in self.train_entries_lst]
-    test_ids_lst = [e['CDLI no.'] for e in self.test_entries_lst]
-    develop_ids_lst = [e['CDLI no.'] for e in self.develop_entries_lst]
-    for u in unchangable:
-      if u in train_ids_lst:
-        self.redefine_entry(u, 'train', unchangable)
-      elif u in develop_ids_lst:
-        self.redefine_entry(u, 'develop', unchangable)
-    self.update_parts_lst()
-    self.dump_redefined()
-
-  def redefine_entry(self, ID, group, unchangable):
-    '''
-    Subfunction of self.redefine_unchangable().
-    Changes self.parts_lst.
-    Place entry from train / devel and replace it with
-    one from test, but not in unchangable.
-    '''
-    print('move %s from %s to test' %(ID, group))
-    d = {'train': self.train_entries_lst,
-         'develop': self.develop_entries_lst}
-    entry = [e for e in d[group] if e['CDLI no.']==ID][0]
-    self.test_entries_lst.append(entry)
-    d[group].remove(entry)
-    for e in self.test_entries_lst:
-      if e['CDLI no.'] not in unchangable:
-        print('move %s from test to %s' %(e['CDLI no.'], group))
-        d[group].append(e)
-        self.test_entries_lst.remove(e)
-        break
-    self.train_entries_lst = d['train']
-    self.develop_entries_lst = d['develop']
-
-  def update_parts_lst(self):
-    '''
-    Updates changes in self.parts_lst.
-    '''
-    self.parts_lst[0]['entries'] = self.train_entries_lst
-    self.parts_lst[1]['entries'] = self.test_entries_lst
-    self.parts_lst[2]['entries'] = self.develop_entries_lst
-
-  def dump_redefined(self):
-    '''
-    Dumps updated self.parts_lst.
-    '''
-    path = '%s/%s.redef' %(self.FILTERED_QUERY_PATH, self.filename)
-    self.dump(json.dumps(self.parts_lst), path)
+##class split_data_functions(CDLI, common_functions):
+##  '''
+##  Functions to manipulate the JSON split format.
+##  '''
+##  def __init__(self, filename):
+##    self.filename = filename
+##    self.parts_lst = self.load_json('%s/%s'
+##                                    %(self.FILTERED_QUERY_PATH, filename))
+##    self.train_entries_lst = self.parts_lst[0]['entries']
+##    self.test_entries_lst = self.parts_lst[1]['entries']
+##    self.develop_entries_lst = self.parts_lst[2]['entries']
+##    self.github_list = [g.split('.')[0] for g in github_repo_list().file_lst
+##                        if g[0]=='P' and '.conll' in g]
+##
+##  def copy_gold_conll(self):
+##    '''
+##    Copies gold CoNLL files (for filtered entries) to new destination.
+##    '''
+##    path = '%s/conll_gold' %(self.FILTERED_QUERY_PATH)
+##    if not os.path.exists(path):
+##      os.makedirs(path)
+##    for entry in self.test_entries_lst:
+##      if entry['CDLI no.'] not in self.github_list:
+##        scr = '%s/conll/%s.conll' %(self.FILTERED_QUERY_PATH,
+##                                    entry['CDLI no.'])
+##        dest = '%s/%s.conll' %(path, entry['CDLI no.'])
+##        shutil.copyfile(scr, dest)
+##
+##  def redefine_unchangable(self, unchangable):
+##    '''
+##    Corrects split data with a list of new unchangable ids and these
+##    in Github gold corpus repo.
+##    '''
+##    print('redefining unchangable entries')
+##    unchangable = list(set(unchangable+self.github_list))
+##    train_ids_lst = [e['CDLI no.'] for e in self.train_entries_lst]
+##    test_ids_lst = [e['CDLI no.'] for e in self.test_entries_lst]
+##    develop_ids_lst = [e['CDLI no.'] for e in self.develop_entries_lst]
+##    for u in unchangable:
+##      if u in train_ids_lst:
+##        self.redefine_entry(u, 'train', unchangable)
+##      elif u in develop_ids_lst:
+##        self.redefine_entry(u, 'develop', unchangable)
+##    self.update_parts_lst()
+##    self.dump_redefined()
+##
+##  def redefine_entry(self, ID, group, unchangable):
+##    '''
+##    Subfunction of self.redefine_unchangable().
+##    Changes self.parts_lst.
+##    Place entry from train / devel and replace it with
+##    one from test, but not in unchangable.
+##    '''
+##    print('move %s from %s to test' %(ID, group))
+##    d = {'train': self.train_entries_lst,
+##         'develop': self.develop_entries_lst}
+##    entry = [e for e in d[group] if e['CDLI no.']==ID][0]
+##    self.test_entries_lst.append(entry)
+##    d[group].remove(entry)
+##    for e in self.test_entries_lst:
+##      if e['CDLI no.'] not in unchangable:
+##        print('move %s from test to %s' %(e['CDLI no.'], group))
+##        d[group].append(e)
+##        self.test_entries_lst.remove(e)
+##        break
+##    self.train_entries_lst = d['train']
+##    self.develop_entries_lst = d['develop']
+##
+##  def update_parts_lst(self):
+##    '''
+##    Updates changes in self.parts_lst.
+##    '''
+##    self.parts_lst[0]['entries'] = self.train_entries_lst
+##    self.parts_lst[1]['entries'] = self.test_entries_lst
+##    self.parts_lst[2]['entries'] = self.develop_entries_lst
+##
+##  def dump_redefined(self):
+##    '''
+##    Dumps updated self.parts_lst.
+##    '''
+##    path = '%s/%s.redef' %(self.FILTERED_QUERY_PATH, self.filename)
+##    self.dump(json.dumps(self.parts_lst), path)
     
 # ---/ Parallel corpus functions /---------------------------------------------
 #
-class translated_corpus_functions(CDLI, common_functions):
-  '''
-  Functions to get translated corpus data from filtered query.
-  '''
-  def __init__(self, filename):
-    self.filename = filename
-    q = self.load_json('%s/%s' %(self.FILTERED_QUERY_PATH, filename))
-    tr_lst = [e for e in q['entries'] if 'translated' in e.keys()]
-    self.entries_lst = [e for e in tr_lst if e['translated']==True]
-
-  def dump_translated(self):
-    '''
-    Dumps JSON data.
-    '''
-    json_data = {'entries': self.entries_lst,
-                 'source_query': '%s/%s' %(self.FILTERED_QUERY_PATH,
-                                           self.filename)}
-    filename = '%s/corpus_translated_%s.json' \
-               %(self.FILTERED_QUERY_PATH, time.strftime("%Y%m%d-%H%M%S"))
-    self.dump(json.dumps(json_data), filename)    
+##class translated_corpus_functions(CDLI, common_functions):
+##  '''
+##  Functions to get translated corpus data from filtered query.
+##  '''
+##  def __init__(self, filename):
+##    self.filename = filename
+##    q = self.load_json('%s/%s' %(self.FILTERED_QUERY_PATH, filename))
+##    tr_lst = [e for e in q['entries'] if 'translated' in e.keys()]
+##    self.entries_lst = [e for e in tr_lst if e['translated']==True]
+##
+##  def dump_translated(self):
+##    '''
+##    Dumps JSON data.
+##    '''
+##    json_data = {'entries': self.entries_lst,
+##                 'source_query': '%s/%s' %(self.FILTERED_QUERY_PATH,
+##                                           self.filename)}
+##    filename = '%s/corpus_translated_%s.json' \
+##               %(self.FILTERED_QUERY_PATH, time.strftime("%Y%m%d-%H%M%S"))
+##    self.dump(json.dumps(json_data), filename)
+##
+##  def split_and_dump(self):
+##    qs = CDLI_query_split_functions(
+##      entries_lst=self.entries_lst,
+##      predefined=False)
+##    qs.dump_split(self.FILTERED_QUERY_PATH, prefix='corpus_translated_split')
+##
+##  def process_translated(self):
+##    pass
     
 # ---/ Github repo query /-----------------------------------------------------
 #
@@ -712,35 +1019,107 @@ UNCHANGABLE = [
   "P248881"
   ]
 
+class subprocesses(common_functions):
+
+  def __init__(self):
+    self.subprocesses_list = []
+    self.pending_lst = []
+    self.max = 4
+    
+  def run(self, cmd, cwd=''):
+    print('\nrun %s' %(' '.join(cmd)))
+    if not cwd:
+      cwd = os.getcwd()
+    print(r'%s' %(cwd))
+    p = subprocess.Popen(cmd,
+                         cwd=r'%s' %(cwd),
+                         stdout=subprocess.PIPE,
+                         stderr=subprocess.STDOUT)
+    output = self.trace_console(p)
+    self.dump(output, 'atf2conll.log')
+      
+  def trace_console(self, p):
+    output = ""
+    try:
+      for line in iter(p.stdout.readline, b''):
+        output += line.rstrip().decode('utf-8')+'\n'
+    except ValueError:
+      print('subprocess stopped.')
+    return output
+
 # ---/ Main /------------------------------------------------------------------
 #
 if __name__ == "__main__":
   pass
+
+#---/ Older Functions, might be outdated /-------------------------------------
+#
   '''primary query: '''
 ##  pq = CDLI_query_primary()
 ##  pq.query(CDLI_QUERY_DICT)
 
-  '''filter: '''
+  '''Filter: '''
 ##  qf = CDLI_query_functions()
   
-  '''save filtered data:'''
+  '''Save filtered data:'''
 ##  qf.save_filtered()
 
-  '''split: '''
+  '''Split: '''
 ##  qs = CDLI_query_split_functions(qf.entries_lst, unchangable=UNCHANGABLE)
 ##  qs.dump_split(qf.FILTERED_QUERY_PATH)
 
-  '''redefine unchagable
+  '''Redefine unchagable
   (when unchangable=UNCHANGABLE omitted in CDLI_query_split_functions())
   '''
 #  sf = split_data_functions('corpus_split_20180410-224554.json')
 #  sf.redefine_unchangable(UNCHANGABLE)
   
-  '''copy gold CoNLL'''
+  '''Copy gold CoNLL'''
 #  sf.copy_gold_conll()
-  '''find and dump translated '''
-  tr = translated_corpus_functions('corpus_20180410-215511.json')
-  tr.dump_translated()
+
+  '''Find and dump translated '''
+##  tr = translated_corpus_functions('corpus_20180410-215511.json')
+##  tr.dump_translated()
+
+  '''ATF 2 CoNLL with logging'''
+##  sps = subprocesses()
+##  command = ['atf2conll', '-i', '../ur3_corpus_data/atf']
+##  sps.run(command)
+  
+  '''Find error messages in log'''
+##  with codecs.open('atf2conll.log', 'r', 'utf-8') as f:
+##    errors_str = ''
+##    for l in f.readlines():
+##      if 'error' in l.lower():
+##        errors_str+=l
+##  with codecs.open('atf2conll_errors.log', 'w', 'utf-8') as f:
+##      f.write(errors_str)
+
+  '''Split and dump translated'''
+##  tr = translated_corpus_functions('corpus_20180410-215511.json')
+##  tr.split_and_dump()
+
+
+#---/ Updated Functions /------------------------------------------------------
+#
+  '''Split: '''
+##  qs = CDLI_query_split_functions()
+##  qs.split_and_dump_query('corpus_20180410-215511.json', unchangable=UNCHANGABLE)
+
+  '''Update translated: '''
+##  qs = CDLI_query_split_functions()
+##  qs.update_translated('corpus_split_20180418-225438.json')
+
+  '''Update from new ATF, old split: '''
+  '''See https://github.com/cdli-gh/mtaac_cdli_ur3_corpus/issues/2'''
+  qs = CDLI_query_split_functions()
+  qs.update_data_from_atf('corpus_split_20180418-225438.json')
+
+  
+
+    
+
+  
 
 
 

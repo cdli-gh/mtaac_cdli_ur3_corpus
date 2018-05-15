@@ -6,17 +6,17 @@ $ broken
 @column 2
 $ beginning broken
 1'. [...] ug3#?-IL2#? u4# 1(disz)-sze3
-2'. [...]-{d}x-x-ta
-3'. [...] x x x dumu [...] u4 1(disz)-sze3
-4'. [...]-dingir-ta
+2'. [ki] x-{d}x-x-ta
+3'. [...] x x x tur-[tur ...] u4 1(disz)-sze3
+4'. [ki ...]-dingir-ta
 $ blank space
-5'. [szunigin] 2(szar2)# 5(gesz'u) 3(u) [...] gurusz# u4# 1(disz)#-sze3
-6'. [szunigin ...] 7(disz)# ug3-IL2 tur-tur u4 1(disz)-sze3
+5'. [szunigin] 2(szar2)# 5(gesz'u) 3(u) [n+3(disz)] gurusz# u4# 1(disz)#-sze3
+6'. [szunigin 5(gesz2) 1(u)] 8(disz)#? 1/2(disz)#? ug3-IL2 tur-tur u4 1(disz)-sze3
 $ blank space
 7'. sag#-nig2-gur11-ra-kam
 8'. sza3#-bi-ta
 9'. 8(gesz2)# 1(u) 5(disz) gurusz u4 1(disz)-sze3
-10'. [x] x ur4-a zar3 tab-ba
+10'. [sze] gurx(|SZE.KIN|)-a zar3 tab-ba
 11'. [x] 4(u) gurusz u4 1(disz)-sze3
 12'. ki#-su7 i3-se3 ki-su7 {gesz}asal2-du3-a u3 [...]-lugal gub-ba
 13'. [x] 4(u)# 4(disz) gurusz u4 1(disz)-sze3
@@ -27,7 +27,7 @@ $ blank space
 @column 3
 1. ki-su7 {d}amar-{d}suen-{d}szara2-ki-ag2 gub-ba
 2. 2(gesz2)# 5(u) 5(disz) gurusz u4 1(disz)-sze3
-3. [...] gub-ba
+3. ki#-[su7] x-BI gub-ba
 4. 1(gesz2) 3(u) 6(disz) gurusz# u4# 1(disz)-sze3
 5. ki-su7 du6-gesz-i3-ka# gub-ba
 6. 3(u) 5(disz) gurusz u4 1(disz)-sze3
@@ -38,13 +38,13 @@ $ blank space
 11. 1(gesz2) 1(u) 2(disz)# gurusz# u4# 1(disz)#-[sze3]
 12. [x] apin#? du x x sza3#? {d#}szara2#
 $ blank space
-13. sza3 x-[x]
+13. sza3 buru14
 @bottom
 1. 7(gesz2) 4(u) 8(disz)
 @column 4
 1. 4(bur3) 1(esze3) GAN2 tug2-gurx(|SZE.KIN|) 1/2(iku) 1/4(iku) GAN2-ta gesz a-ra2 3(disz@t) 4(iku) 1/2(iku) GAN2-ta
-2. a2 erin2-na-bi u4 7(gesz2) 4(u) 9(disz)
-3. 1(bur3) [5(iku) 1/4(iku) GAN2] gesz a-ra2# [3(asz@c)] 4(iku)# [1/2(iku) GAN2-ta]
+2. a2 erin2-na-bi u4 7(gesz2) 4(u) 8(disz)
+3. 1(bur3) [5(iku) 1/4(iku) GAN2] gesz a-ra2# [3(disz@t)] 4(iku)# [1/2(iku) GAN2-ta]
 4. a2 erin2-na-bi u4 4(u) 6(disz) 1/2(disz)
 5. GAN2-gu4
 6. 4(iku) 1/2(iku) GAN2 gesz a-ra2 3(disz@t) 4(iku) 1/2(iku) GAN2-ta
@@ -58,8 +58,8 @@ $ blank space
 14. 2(bur3) 1(esze3) GAN2 gesz a-ra2 2(disz@t) 4(iku) 1/2(iku) GAN2-ta
 15. a2 erin2-na-bi u4 5(u) 6(disz)
 16. GAN2-gu4
-17. 2(esze3) GAN2 gesz a-ra2 2(disz@t)? 4(iku) 1/2(iku) GAN2-ta
-18. a2 erin2-na-bi [1(u)? 6(disz)?]
+17. 2(esze3) GAN2 gesz a-ra2 3(disz@t) 4(iku) 1/2(iku) GAN2-ta
+18. a2 erin2-na-bi [2(u) 4(disz)]
 19. szuku [engar]
 $ rest broken
 @column 5
@@ -68,7 +68,7 @@ $ rest broken
 3. 1(bur3) 4(iku) 1/2(iku) 1/4(iku) GAN2 gesz a-ra2 3(disz@t) 4(iku) 1/2(iku) GAN2-ta
 4. a2# erin2#-na#-[bi u4 4(u) 5(disz) 1/2(disz)]
 5. GAN2-gu4
-6. 2(esze3) 2(iku) GAN2 gesz a-ra 3(disz@t) 4(iku) 1/2(iku) GAN2-ta
+6. 2(esze3) 2(iku) GAN2 gesz a-ra2 3(disz@t) 4(iku) 1/2(iku) GAN2-ta
 7. a2 erin2-na-bi u4 2(u) 8(disz)
 8. szuku engar
 9. a-sza3 sza-ra-hu-um-ma
@@ -81,7 +81,7 @@ $ rest broken
 16. a2 erin2-na#-[bi u4 5(u) 4(disz)]
 17. a-sza3 muru13#
 18. 2(bur3) x [...] 4(iku) 1/2(iku) [...]
-19. a2-[erin2-na-bi u4 x]
+19. a2 [erin2-na-bi u4 x]
 20. a#-sza3# [...]
 $ rest broken
 @reverse
@@ -93,7 +93,7 @@ $ beginning broken
 4'. a2 6(disz) x [...]
 $ blank space
 5'. a2 lu2 hun-ga2
-6'. 5(gesz'u) 3(gesz2) sar u2 x ku5-a 1(u) 5(disz) sar-ta
+6'. 5(gesz'u) 3(gesz2) sar {u2}kiszi17 ku5-a 1(u) 5(disz) sar-ta
 7'. a2#-bi u4 3(gesz2) 3(u) 2(disz)
 8'. [...] 4(u) sar u2# [...] ku5-a# 1(u) [...]
 9'. a2-bi u4# [...]
@@ -144,7 +144,7 @@ $ blank space
 1. 9(gesz2)# n(u) n(disz) 1/3(disz) gurusz
 2. 2(gesz2) 2(u) 1(disz) ug3#?
 @column 3
-1. 1(gesz'u) 5(gesz2) sar u2 gil#? zex(SIG7)-a 1(u) sar-ta
+1. 1(gesz'u) 5(gesz2) sar {u2}erinx(KWU896)#? zex(SIG7)-a 1(u) sar-ta
 2. a2-bi u4 1(gesz2) 3(u)
 3. 1(gesz'u) 5(gesz2) sar gi zex(SIG7)-a 1(u) 5(disz) sar-ta
 4. [a2]-bi# u4# 1(gesz2)
@@ -205,6 +205,6 @@ $ blank space
 5'. [szunigin] 2(szar2) 3(gesz'u) 4(gesz2) 4(u) [n(disz)] 2/3(disz) gurusz u4 1(disz)-sze3
 6'. [szunigin] 5(gesz2)# 1(u)# 8(disz) 1/2(disz) ug3-IL2 tur-tur u4 1(disz)-sze3
 7'. [zi]-ga-am3
-8'. [...] 1(gesz'u) 3(gesz2) n(u) n(disz) gurusz# u4# 1(disz)#-sze3
+8'. [la2-ia3] 1(gesz'u) 3(gesz2) 5(u)# 2(disz)# 1/3(disz) gurusz# u4# 1(disz)#-sze3
 $ blank space
 $ rest broken

@@ -3,23 +3,41 @@
 @tablet
 @obverse
 1a1a. 2(u) 5(disz)
+#tr.en: 25,
 1a1b. 2(u)
-# calculation: 25 × 20 (ninda) = 500 sar = 5 iku
+#tr.en: 20,
+# (calculation: 25 × 20 (ninda) = 500 sar = 5 iku)
 1a2a. 1(gesz2) 4(u)
+#tr.en: 100,
 1a2b. 2(u)
+#tr.en: 20,
 1a2c. 1(bur3) 2(iku)
+#tr.en: 1 bur3 2 iku,
 # calculation : 100 × 20 (ninda) = 2000 sar = 20 iku
 1b1a1. 1(gesz2) 4(u)
+#tr.en: 100,
 1b1a2. 3(gesz2)
+#tr.en: 180,
 1b1b1. 1(gesz2) 4(u)
+#tr.en: 100,
 1b1b2. 1(gesz2) 2(u) 5(disz)
+#tr.en: 85,
 1b1c. 8(bur3) 4(iku) 1/2(iku) 1/4(iku)
+#tr.en: 8 bur3 4 3/4 iku,
 # calculation: ((100(+25) + 180) ÷ 2) × ((100(+20) + 85) ÷ 2) (ninda) = 15631.25 (- 500 [1a1] =) 15131.25 = sar ≈ 8 bur3 7 1/4 iku (text: 8b 4 3/4i)
 @reverse
-1. 2(u) 5(disz) ninda sag [...] 3(disz) [...]
-2. 4(disz) gurusz-bi? [...]
-3. 2(u) ninda# sag x
-4. 1(gesz2) 4(u) us2 x
+1.a. 2(u) 5(disz) ninda sag [x?]
+#tr.en: 25 ninda, the head ...,
+1.b. [n] 3(disz) us2#? [x?]
+#tr.en: n + 3 (ninda), the side(?) ...,
+2. 4(disz) gurusz-bi? [x?]
+#tr.en: 4 its workmen(?) ...,
+3. 2(u) ninda# sag
+#tr.en: 20 ninda, the head,
+4. 1(gesz2) 4(u) us2
+#tr.en: 100 (ninda), the side ...,
 5. 1(disz) gurusz
+#tr.en: 1 workman(?);
 6. a-sza3 du3-igi-iri-u-ta
+#tr.en: the field Du’igi’iri’uta.
 $ blank space

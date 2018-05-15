@@ -129,9 +129,8 @@ o.col4.5'.5	3(ban2)-ta
 o.col4.6'.1	1(disz)
 o.col4.6'.2	gurusz
 o.col4.6'.3	a2
-o.col4.6'.4	igi
-o.col4.6'.5	4(disz)-gal2
-o.col4.6'.6	3(ban2)-ta
+o.col4.6'.4	igi-4(disz)-gal2
+o.col4.6'.5	3(ban2)-ta
 o.col4.7'.1	ug3-IL2-me
 o.col4.8'.1	6(disz)
 o.col4.8'.2	geme2
@@ -207,9 +206,8 @@ o.col5.7'.5	3(ban2)-ta
 o.col5.8'.1	4(disz)
 o.col5.8'.2	gurusz
 o.col5.8'.3	a2
-o.col5.8'.4	igi
-o.col5.8'.5	4(disz)-gal2
-o.col5.8'.6	3(ban2)-ta
+o.col5.8'.4	igi-4(disz)-gal2
+o.col5.8'.5	3(ban2)-ta
 o.col5.9'.1	4(disz)
 o.col5.9'.2	dumu
 o.col5.9'.3	2(ban2)-ta
@@ -414,8 +412,7 @@ r.col4.5.2	5(u)
 r.col4.5.3	6(disz)
 r.col4.5.4	gurusz
 r.col4.5.5	a2
-r.col4.5.6	igi
-r.col4.5.7	4(disz)-gal2
+r.col4.5.6	igi-4(disz)-gal2
 r.col4.6.1	szunigin
 r.col4.6.2	2(u)
 r.col4.6.3	3(disz)

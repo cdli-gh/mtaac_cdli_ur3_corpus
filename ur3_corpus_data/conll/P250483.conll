@@ -3,7 +3,7 @@
 o.1.1	1(u)
 o.1.2	3(disz)
 o.1.3	szar
-o.1.4	{gi}kid2
+o.1.4	{gi}kid
 o.1.5	mah
 o.2.1	5(gesz2)
 o.2.2	{gi}gil
@@ -13,7 +13,9 @@ o.3.2	{gi}gil
 o.3.3	x
 o.4.1	a2
 o.4.2	ad-kup4-sze3
-o.4.3	ga2-ra
+o.4.3	GA2
+o.4.4	KID
+o.4.5	TUM
 o.5.1	2(gesz'u)
 o.5.2	2(gesz2)
 o.5.3	3(u)
@@ -22,11 +24,12 @@ o.5.5	{gesz}ur3
 o.5.6	hi-a
 o.6.1	a2
 o.6.2	gudu4-sze3
-o.6.3	ga2
-o.6.4	e2-tum
-o.6.5	har
-o.6.6	u4
-o.6.7	2(disz)-kam
+o.6.3	GA2
+o.6.4	KID
+o.6.5	TUM
+o.6.6	HAR
+o.6.7	u4
+o.6.8	2(disz)-kam
 o.7.1	e2
 o.7.2	{d}alim
 r.1.1	ki
