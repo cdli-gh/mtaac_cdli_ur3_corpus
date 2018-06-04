@@ -17,7 +17,7 @@ mu usa cusuen lugal urimake bad martu muriqtidnim mudu$xxx
 4 u$NUMB ewes ,
 5 ud$NUMB nanny goats ,
 emuhaldim$the kitchen ,
-u 2 5kam$on the NUMBth day .
+u 2 5kam$on the ordNUMB day .
 ziga$Booked out
 ki urkununa$from  Ur-kununa .
 iti akiti$Month “ Akitu ” ,
@@ -95,7 +95,7 @@ en nanna$en-priestess of Nanna .
 2 udu $NUMB sheep ,
 1 sila $NUMB lamb
 bauc $slaughtered ,
-u 1kam $NUMBth day ;
+u 1kam $ordNUMB day ;
 ki belilita $from Bēlī-ilī
 culgirimu $did Šulgi-irimu
 cu bati $receive ;
@@ -214,14 +214,14 @@ dumu urenuna$son of Ur-Enunna .
 1 guruc hunga ma gid$NUMB male laborers , hirelings , for barge punting ,
 a cagalbi 7 silata$the labor , its fodder : NUMB sila3 each ,
 6 12 uce$for NUMB days ,
-cebi 1 2 3 2 sila gur$its barley : NUMB gur NUMB barig NUMB banNUMB NUMB silaNUMB ,
+cebi 1 2 3 2 sila gur$its barley : NUMB gur NUMB barig NUMB ban2 NUMB sila3 ,
 a lu hungakam$labor of the hirelings ;
 1 ma 3 gur$NUMB barge of NUMB gur ,
 abi 6 silata$its labor : NUMB sila3 per ,
 1 malah hunga$NUMB barge captain , hireling ,
 a cagalni 7 silata$his labor fodder : NUMB sila2 per ,
 u 7ce$for NUMB days ,
-cebi 1 3 5 sila$its barley : NUMB barig NUMB ban2 NUMB silaNUMB ,
+cebi 1 3 5 sila$its barley : NUMB barig NUMB ban2 NUMB sila3 ,
 ugula nindam$foreman : Nindam ,
 ce aca nigin$barley of the field of Nina ,
 giri namah$via Nammaḫ ;
@@ -251,7 +251,7 @@ ca unuga$in Uruk ;
 1 udu niga inanna$NUMB sheep , barley-fed , for Inanna ,
 1 udu niga ningal$NUMB sheep , barley-fed , for Ningal ,
 ca tur gal$in the large sheepfold ;
-ziga u 4kam$“ booked-outs , ” NUMBth day ;
+ziga u 4kam$“ booked-outs , ” ordNUMB day ;
 ki ahuwerta$from Ahu-wer
 bazi$booked out ;
 iti mackugu$month : “ Gazelle feast , ”
@@ -297,7 +297,7 @@ bala guba$in bala stationed ,
 iti ezemdumuzi$month : “ Festival-of-Dumuzi ; ”
 1 engar u 3ce$NUMB ploughmen for NUMB days ,
 7 dumudaba u 3ce$NUMB dumu-daba-laborers for NUMB days ,
-3 ugIL 13 u 3ce$NUMB porters , 1/NUMB , for NUMB0 days ,
+3 ugIL 13 u 3ce$NUMB porters , NUMB , for NUMB days ,
 1 2 7 erin u 3ce$NUMB labor-troops for NUMB days ,
 nubanda urgecbare$the overseer : Ur-Gešbare ;
 3 3 erin u 3ce$NUMB labor-troops for NUMB days ,
@@ -312,9 +312,9 @@ ki urkisalta$from Ur-kisal ;
 1 1 la 1 erin u 1ce$NUMB minus NUMB labor-troop workdays ,
 ki urlamma dumu urnigta$from Ur-Lamma , son of Ur-nig ;
 iti ezemculgi$month : “ Festival of Šulgi ; ”
-1 4 erin 1 2ta u 2ce$from NUMB labor-troops at NUMB barig NUMB banNUMB each , for NUMB0 days ,
+1 4 erin 1 2ta u 2ce$from NUMB labor-troops at NUMB barig NUMB ban2 each , for NUMB days ,
 erin hunga bala tuca$hired labor-troops having sat out of bala ;
-cebi 1 7 2 gur$its barley : NUMB gur NUMB banNUMB ,
+cebi 1 7 2 gur$its barley : NUMB gur NUMB ban2 ,
 nubanda urgecbare$the overseer : Ur-Gešbare ;
 5 erin u 3ce$NUMB labor-troops for NUMB days
 bala guba$in bala stationed ;
@@ -324,11 +324,11 @@ cebi 4 4 gur$its barley : NUMB gur NUMB barig ,
 nubanda luningirsu$the overseer : Lu-Ningirsu ;
 1 5 dumu baBAD u 3ce bala gub$NUMB dumu-baBAD laborers , for NUMB days , in bala stationed ,
 e ninmarme$they are of the household Ninmar ;
-3 3 erin 1 2ta u 2ce$NUMB labor-troops  NUMB banNUMB each , for NUMB0 days ,
+3 3 erin 1 2ta u 2ce$NUMB labor-troops  NUMB ban2 each , for NUMB days ,
 5 erin 1ta u 2ce$NUMB labor-troops  NUMB barig each , for NUMB days ,
 6 erin 3ta u 2ce$NUMB labor-troops NUMB ban2 each , for NUMB days ,
-4 erin 2ta u 2ce$NUMB labor-troops  NUMB banNUMB each , for NUMB0 days ,
-cebi 1 3 2 gur$its barley : NUMB gur NUMB barig NUMB banNUMB ;
+4 erin 2ta u 2ce$NUMB labor-troops  NUMB ban2 each , for NUMB days ,
+cebi 1 3 2 gur$its barley : NUMB gur NUMB barig NUMB ban2 ;
 erin hunga bala tuca$labor-troops hired having sat out of bala ,
 nubanda ahua$the overseer : Aḫua ;
 cebi ki ureninnuta$its barley from Ur-Eninnu ;
@@ -341,14 +341,14 @@ im ensita$from the tablet of the governor ;
 ki urnanceta$from Ur-Nanše ;
 1 1 erin u 3ce$NUMB labor-troops for NUMB days ,
 ki lugirizalta$from Lu-Girizal ;
-3 erin u 3ce$NUMB labor-troops for NUMB0 days ,
+3 erin u 3ce$NUMB labor-troops for NUMB days ,
 ki urkisalta$from Ur-kisal ;
 2 erin u 3ce$NUMB labor-troops for NUMB days ,
 ki urlamma dumu urnigta$from Ur-Lamma , son of Ur-nig ;
 nubanda luningirsu$the overseer : Lu-Ningirsu ,
 bala guba$in bala stationed ,
 iti ezembaba$tonth : “ Festival-of-Baba ; ”
-1 5 erin 2ta u 2ce$NUMB labor-troops  NUMB banNUMB each for NUMB0 days ,
+1 5 erin 2ta u 2ce$NUMB labor-troops  NUMB ban2 each for NUMB days ,
 cebi 1 gur$its barley NUMB gur ,
 ki ureninnuta$from Ur-Eninnu ;
 erin ki urnanceta$labor-troops from Ur-Nanše ;
@@ -358,7 +358,7 @@ ki lugirizalta$from Lu-Girizal ;
 3 guruc u 2ce$NUMB laborers for NUMB days ,
 bala tuca ce cu nutia$having sat out of bala , barley not received ,
 ki urkisalta$from Ur-kisal ;
-2 erin u 2ce$NUMB worker troop NUMB0 days ,
+2 erin u 2ce$NUMB worker troop NUMB days ,
 bala tuca ce cu nutia$having sat out of bala , barley not received ,
 ki X$from …
 2 1 erin u nce$NUMB labor-troops for NUMB day ,
@@ -380,10 +380,10 @@ bala guba$in bala stationed ;
 iti mucudu$month : “ mušudu ; ”
 3 6 erin u 3ce$NUMB labor-troops for NUMB days ,
 bala guba$in bala stationed ;
-1 6 erin 2 1 silata u 2ce$NUMB labor-troops  NUMB banNUMB NUMB sila each for NUMB0 days ,
+1 6 erin 2 1 silata u 2ce$NUMB labor-troops  NUMB ban2 NUMB sila each for NUMB days ,
 nubanda luningirsu$the overseer : Lu-Ningirsu ;
 2 5 erin 1 5 silata u 2ce$NUMB labor-troops  NUMB ban2 NUMB sila each for NUMB days ,
-cebi 2 1 5 gur$its barley : NUMB gur NUMB barig NUMB banNUMB ,
+cebi 2 1 5 gur$its barley : NUMB gur NUMB barig NUMB ban2 ,
 ki ureninnuta$from Ur-Eninnu ;
 bala tuca ce cu nutia$having sat out of bala ;
 4 la 1 erin u 3ce$NUMB minus NUMB labor-troops for NUMB days .
@@ -403,7 +403,7 @@ X$… ,
 e X$household of … ,
 ki X$from Ur-… ,
 iti amarasi$month : “ Amarasi ; ”
-2 1 3 GAN$NUMB burNUMB NUMB ešeNUMB NUMB iku field ,
+2 1 3 GAN$NUMB bur3 NUMB eše3 NUMB iku field ,
 gala X$singer … ;
 2 GAN X$NUMB bur3 field … ,
 damgar X$merchant …
@@ -413,7 +413,7 @@ abi X$its labor : …
 ki cabra X$from the household manager … ;
 cunigin 1 engar u 3ce$total : NUMB ploughmen for NUMB days ;
 cunigin 7 dumudaba u 3ce$total : NUMB dumudaba-laborers for NUMB days ;
-cunigin 3 ugIL u 3ce$total : NUMB porters for NUMB0 days ;
+cunigin 3 ugIL u 3ce$total : NUMB porters for NUMB days ;
 cunigin 1 5 dumu baBAD u 3ce$total NUMB agricultural laborers for NUMB days ;
 cunigin 6 2 erin$total : NUMB labor-troops , in bala stationed ;
 bala guba$in bala stationed ;
@@ -505,14 +505,14 @@ pisanduba$Basket-of-tablets
 nigkak$accounts
 abagina$of Abbagina
 igal$are here ;
-mu cacuru ara 2kam bahul$year : “ Šašru for the NUMBnd time was destroyed . ”
+mu cacuru ara 2kam bahul$year : “ Šašru for the ordNUMB time was destroyed . ”
 pisanduba$Basket-of-tablets
 kicib daba$xxx
 lugalkuzu$xxx
 u luduga$xxx
 mu harci kimac bahul$xxx
 2 gu niga$NUMB oxen , grain-fed ,
-u 2 la 1kam$NUMBth day ;
+u 2 la 1kam$ordNUMB day ;
 ki abasagata$from Abbasaga
 ahuwer$Aḫu-wer
 idab$accepted ;
@@ -569,7 +569,7 @@ ursuana$Ur-Su’ana ,
 dubsar$the scribe ,
 dumu lugecbare$son  Lu-Gešbare .
 1 gu niga$NUMB ox , grain-fed ,
-u 1kam$NUMBth day ,
+u 1kam$ordNUMB day ,
 ki abasagata$from Abbasaga
 ahuwer$Aḫu-wer
 idab$accepted ;
@@ -610,7 +610,7 @@ mu e cara baduta$from the year : “ The house of Šara was erected ”
 mu simurum bahulce$to the year : “ Simururm was destroyed , ”
 igal$are here .
 1 sila$NUMB lamb ,
-u 3 la 1kam$NUMBth day ,
+u 3 la 1kam$ordNUMB day ,
 ki abasagata$from Abba-saga ,
 nalu$Nalu
 idab$accepted .
@@ -674,23 +674,23 @@ cuera$Šū-Erra ,
 dubsar$scribe ,
 dumu unabcen$son of Unabšen ,
 ARADzu$is your servant .
-5 sila kac saga 5 sila ninda gal 5 gin cum 3 gin i 2 gin naga $NUMB silaNUMB fine beer , NUMB silaNUMB “ large bread ” , NUMB shekels onions , NUMB shekels oil , NUMB shekels alkali-plant ,
+5 sila kac saga 5 sila ninda gal 5 gin cum 3 gin i 2 gin naga $NUMB sila3 fine beer , NUMB sila3 “ large bread ” , NUMB shekels onions , NUMB shekels oil , NUMB shekels alkali-plant ,
 ahuwer $for Aḫu-Wer ;
-5 sila kac saga 2 sila ninda gal 5 gin cum 3 gin i 2 gin naga $NUMB silaNUMB fine beer , NUMB silaNUMB “ large bread ” , NUMB shekels onions , NUMB shekels oil , NUMB shekels alkali-plant ,
+5 sila kac saga 2 sila ninda gal 5 gin cum 3 gin i 2 gin naga $NUMB sila3 fine beer , NUMB sila3 “ large bread ” , NUMB shekels onions , NUMB shekels oil , NUMB shekels alkali-plant ,
 ahucuni $for Aḫušuni ;
-5 sila kac saga 5 sila ninda 5 gin cum 3 gin i 2 gin naga $NUMB silaNUMB fine beer , NUMB silaNUMB bread , NUMB shekels onions , NUMB shekels oil , NUMB shekels alkali-plant ,
+5 sila kac saga 5 sila ninda 5 gin cum 3 gin i 2 gin naga $NUMB sila3 fine beer , NUMB sila3 bread , NUMB shekels onions , NUMB shekels oil , NUMB shekels alkali-plant ,
 lugalanisa $for Lugalanisa ;
-3 sila kac 2 sila ninda 5 gin cum 3 gin i 2 gin naga $NUMB silaNUMB beer , NUMB silaNUMB bread , NUMB shekels onions , NUMB shekels oil , NUMB shekels alkali-plant ,
+3 sila kac 2 sila ninda 5 gin cum 3 gin i 2 gin naga $NUMB sila3 beer , NUMB sila3 bread , NUMB shekels onions , NUMB shekels oil , NUMB shekels alkali-plant ,
 X $for Nanna-…
-3 sila 2 sila ninda 5 gin cum 3 gin i 2 gin naga $NUMB) silaNUMB beer , NUMB silaNUMB bread , NUMB shekels onions , NUMB shekels oil , NUMB shekels alkali-plant ,
+3 sila 2 sila ninda 5 gin cum 3 gin i 2 gin naga $3) sila3 beer , NUMB sila3 bread , NUMB shekels onions , NUMB shekels oil , NUMB shekels alkali-plant ,
 babaisa $for Baba-isa ;
-3 sila kac 2 sila ninda 5 gin cum 3 gin i 2 gin naga $NUMB silaNUMB beer , NUMB silaNUMB bread , NUMB shekels onions , NUMB shekels oil , NUMB shekels alkali-plant ,
+3 sila kac 2 sila ninda 5 gin cum 3 gin i 2 gin naga $NUMB sila3 beer , NUMB sila3 bread , NUMB shekels onions , NUMB shekels oil , NUMB shekels alkali-plant ,
 alamu $for Allamu ;
 cunigin 1 5 sila kac saga cunigin 7 sila ninda gal $total : NUMB ban2 NUMB sila3 fine beer ; total : NUMB sila3 “ large bread ; ”
 cunigin 1 la 1 sila kac du cunigin 1 1  ninda $total : NUMB ban2 less NUMB sila3 common beer ; total : NUMB ban2 NUMB sila3 bread ;
 cunigin 12 sila cum cunigin 1 8 gin i cunigin 1 2 gin naga $total : NUMB sila3 onions ; total : NUMB shekels oil ; total : NUMB shekels alkali-plant ;
 iti minec $month : “ mineš , ”
-u 6kam $NUMBth day ,
+u 6kam $ordNUMB day ,
 mu cusuen lugale naruamah enlil ninlilra munedu $year : “ Šū-Suen , the king , the great stele for Enlil and Ninlil , erected . ”
 pisanduba$Basket-of-tablets
 nigkak tug zi$xxx
@@ -814,7 +814,7 @@ cabita$Therefrom
 cunigin 3 8 guruc guba$Total : NUMB workers on hand ;
 4 irita nubanda igizubara$NUMB out of town , supervisor : Igizubara ;
 3 irita laia 2 nubanda urgigir$NUMB out of town , deficit ; NUMB , supervisor : Ur-gigir ;
-u 3 la 1kam$NUMBth day ,
+u 3 la 1kam$ordNUMB day ,
 iti ezemlisi$month : “ Festival of Lisi ” .
 pisanduba$Basket-of-tablets
 a gecgara$xxx
@@ -859,11 +859,11 @@ abi 2 8 4 8 geme u 1ce$its labor : NUMB , NUMB female laborer days ,
 ki dingirata$from Dingira .
 2 3 13 a udua geme bauca$NUMB , labor of the “ free ” days of the deceased female laborers .
 3 geme u 4 8ce$NUMB female laborers , each NUMB days ,
-abi 2 2 4$its labor : 144
+abi 2 2 4$its labor : NUMB
 cunigin 3 1 3 2 7 13 geme u 1ce$Total : NUMB , NUMB female laborer days .
 sagnigurakam$is the debit .
 cabita$Therefrom
-3 1 5 4 a udua geme$NUMB , 9NUMB4  labor of the “ free ” days of the female laborers .
+3 1 5 4 a udua geme$NUMB , NUMB  labor of the “ free ” days of the female laborers .
 3 4 2 5 dabin gur$NUMB gur , NUMB barig NUMB ban dabin flour ,
 1 7 2 1 5 sila zi sig gur$NUMB gur , NUMB barig NUMB ban NUMB sila sig-flour ,
 1 6 3 1 zi gaz gur$NUMB gur , NUMB barig NUMB ban “ pounded ” flour ,
@@ -909,20 +909,20 @@ iti dumuzita u 2 X zalta$from month “ Dumuzi ” , day NUMB on ,
 abi 1 2 2$its labor : NUMB ,
 mu harci bahulta$in the year “ Harši was destroyed ”
 iti sigicubagara$until month “ Bricks cast in moulds ”
-u 8 zalac$the completed day 8
+u 8 zalac$the completed day NUMB
 mu usa harci kimac bahulce$of the year following “ Harši and Kimaš were destroyed ” ,
 5 3 4 geme arzana u 1ce$NUMB days of the arzana female laborers .
 kicib lugalniglagare$sealed tablet of Lugal-nig-lagare .
 cunigin 1 9 1 3 6 sila zigu cagina gur$Total : NUMB gur , NUMB barig NUMB ban NUMB sila šagina pea flour ,
-ce balabi 1 4 3 9 12 sila 6 gin gur$the bala barley involved : NUMB gur , NUMB barig NUMB ban 9NUMB/2 sila NUMB shekels ,
+ce balabi 1 4 3 9 12 sila 6 gin gur$the bala barley involved : NUMB gur , NUMB barig NUMB ban NUMB sila NUMB shekels ,
 cunigin 3 5 3 5 8 sila dabin gur$total : NUMB gur , NUMB barig NUMB ban NUMB sila dabin flour ,
 cunigin 3 4 2 5 sila zi sig gur$total : NUMB gur , NUMB ban NUMB sila sig-flour ,
 cunigin 3 1 ninda ara zigi duhum$total : NUMB barig NUMB ban ground zigiduhhum ninda ,
 ce balabi 3 1$the bala barley involved : NUMB barig NUMB ban ,
-cebi 4 3 6 2 2 3 12 sila 6 gin gur$the barley involved : NUMB gur , NUMB barig NUMB ban 3 1/NUMB sila NUMB shekels ,
-cunigin 3 1 3 3 1 12 geme u 1ce$total : NUMB , 6NUMB 1/2 female laborer days ,
+cebi 4 3 6 2 2 3 12 sila 6 gin gur$the barley involved : NUMB gur , NUMB barig NUMB ban NUMB sila NUMB shekels ,
+cunigin 3 1 3 3 1 12 geme u 1ce$total : NUMB , NUMB female laborer days ,
 zigam$booked out .
-laia 1 1 3 1 13 sila 4 gin ce gur$Deficit : NUMB gur , NUMB barig NUMB ban NUMB NUMB/NUMB sila NUMB shekels barley ,
+laia 1 1 3 1 13 sila 4 gin ce gur$Deficit : NUMB gur , NUMB barig NUMB ban NUMB sila NUMB shekels barley ,
 diri 4 1 gin geme u 1ce$surplus : NUMB shekels  female laborer days .
 nigkak lusaizu$Account of Lu-sa-izu ,
 iti sigicubagara$month : “ Bricks cast in moulds ” ,
@@ -980,7 +980,7 @@ mu en nanna mace ipa$year : “ The en priestess of Nanna by omens was chosen . 
 bamu$did Ba’amu ,
 dumu gudea$son of Gude’a .
 2 udu$NUMB sheep ,
-u 8kam$NUMBth day ,
+u 8kam$ordNUMB day ,
 ki abasagata$from Abbasaga
 tahcatal$Taḫšatal
 idab$took ;
@@ -1063,7 +1063,7 @@ dumu urculpae$son of Ur-Sulpa’e ,
 sukkalmah$sukkalmaḫ ,
 ARADzu$is your servant .
 1 dusunita$NUMB jack ,
-u 1 5kam$NUMBth day ;
+u 1 5kam$ordNUMB day ;
 ki abasagata$from Abbasaga
 cuera$Šū-Erra
 idab$accepted ;
@@ -1098,10 +1098,10 @@ bazi$booked .
 ca urima$In Ur .
 iti akiti$Month “ Akitu , ”
 mu bitumrabium ki iabru madabi u huhnuri bahul$year : “ Bitum-rabi'um , I'abru with its territories , and Huhnuri were destroyed . ”
-X mana$NUMB maNUMBa
+X mana$NUMB mana
 2 udu$NUMB sheep ,
 cugid$šugid ,
-u 1 3kam$the NUMBth day ,
+u 1 3kam$the ordNUMB day ,
 ki abasagata$from Abbasaga ,
 duga$Duga
 idab$accepted ;
@@ -1111,7 +1111,7 @@ mu en eridu bahun$year : “ The en-priestess of Eridu was hired ; ”
 3 sila ga$NUMB suckling lambs ,
 1 kir ga$NUMB suckling ewe lamb ,
 utuda$newborns ;
-u 1 1kam$NUMBth day ;
+u 1 1kam$ordNUMB day ;
 culgiamu idab$Šulgi-ayamu accepted ;
 iti ezemculgi$month : “ Festival of Šulgi , ”
 mu amarsuen lugale urbilum muhul$year : “ King Amar-Sin Urbilum destroyed ; ”
@@ -1157,7 +1157,7 @@ nanceGIRgal mackim$Nanše-GIRgal was the requisitioner ;
 2 mac cugid e muhaldimce$NUMB goats  provisions for the kitchen ;
 1 dusumunus bauc mu urace$NUMB female equid , slaughtered , for the dogs ,
 dingirbani sipa urake cu bati$Ilībani , dog herder , received ;
-ziga u 2 8kam$withdrawn ; it is on the NUMBth day .
+ziga u 2 8kam$withdrawn ; it is on the ordNUMB day .
 iti ezemculgi$Month : “ Festival of Šulgi . ”
 mu kimac hurti bahul$Year : “ Kimash and Hurti were destroyed . ”
 1 5 udu$NUMB sheep
@@ -1166,7 +1166,7 @@ cugid$of the šu-gid ;
 3 macgal$NUMB adult billygoats ,
 bauc$slaughtered ,
 emuhaldimce$for the kitchen .
-u 1 3kam$NUMBth day .
+u 1 3kam$ordNUMB day .
 ki intaeata$out of Inta’ea
 bazi$booked .
 iti ezemana$Month : “ Festival of An ”
@@ -1217,7 +1217,7 @@ lugaltarsi $Lugaltarsi ,
 ensi $ruler
 unu $of Uruk .
 13 gin kubabbar$NUMB shekel silver ,
-cebi 2 2$its barley : NUMB barig NUMB banNUMB ;
+cebi 2 2$its barley : NUMB barig NUMB ban2 ;
 ki ceckalata$from Šeškalla
 ala$did Alla
 cu bati$receive ;
@@ -1253,7 +1253,7 @@ ARADzu$is your servant .
 4 guruc a 12$NUMB male laborers , NUMB labor ,
 mu 6ce$for NUMB years ,
 cukume$they being fishermen ;
-mu usa ara 3kam simurum bahulta$from year following : “ For the NUMBrd time Simurrum was destroyed , ”
+mu usa ara 3kam simurum bahulta$from year following : “ For the ordNUMB time Simurrum was destroyed , ”
 mu usa bad baduce$to the year following : “ The wall was erected ; ”
 4 mana kubabbar$NUMB mana silver ,
 ku namenku$silver of the fisheries-tithe ;
@@ -1307,19 +1307,19 @@ a munaru $dedicated it .
 muku dukra$delivery of Dukra ,
 akala mackim$Ayakala was enforcer ;
 1$NUMB ,
-u 1kam$NUMBst day ;
+u 1kam$ordNUMB day ;
 1 udu 1 mac$NUMB sheep , NUMB billy goat ,
 en inanna$for the high-priest of Inanna ,
 muku dukra$delivery of Dukra ,
 akala mackim$Ayakala was enforcer ;
 1$NUMB ,
-u 2kam$NUMBnd day ;
+u 2kam$ordNUMB day ;
 1 sila enlil$NUMB lamb for Enlil ,
 1 sila ninlil$NUMB lamb for Ninlil ,
 ca muku nuida$from the delivery of Nu-ida ,
 ARADmu mackim$ARADmu was enforcer ;
 2$NUMB ,
-u 3kam$NUMBrd day ;
+u 3kam$ordNUMB day ;
 1 gu$NUMB ox ,
 2 udu$NUMB sheep ;
 lugalkuzu$for Lugal-kuzu ;
@@ -1328,7 +1328,7 @@ ca muku erin abibana$from the delivery of the troops of Abibana ;
 muku dukra$delivery of Dukra ;
 ARADmu mackim$ARADmu was enforcer ;
 2 2$NUMB ,
-u 4kam$NUMBth day ;
+u 4kam$ordNUMB day ;
 1 gu$NUMB ox ,
 1 udu niga raci lu zidanum$NUMB grain-fed sheep for Raši , man of Zidanum ,
 1 udu niga garadadu cimacgi$NUMB grain-fed sheep for Garadadu , the Šimaškian ,
@@ -1337,13 +1337,13 @@ u 4kam$NUMBth day ;
 muku nannakiag cabra$delivery of Nanna-kiag , chief household manager ;
 lugalinimgina sukkal mackim$Lugal-inimgina , messenger , was enforcer ;
 4$NUMB ,
-u 8kam$NUMBth day ;
+u 8kam$ordNUMB day ;
 3 X X$NUMB … for … ;
 4 udu ninhursag$NUMB sheep for Ninḫursag ;
 ca muku kacdea ecdarilcu$from the delivery of “ beer-pouring ” by Ešdar-ilšu ;
 mactur sagi mackim$Maštur , cupbearer , was enforcer ;
 7$NUMB ,
-u 9kam$NUMBth day ;
+u 9kam$ordNUMB day ;
 1 sila enlil$NUMB lamb for Enlil ,
 1 sila ninlil$NUMB lamb for Ninlil ;
 muku watarum sanga$delivery of Watarum , chief household manager ;
@@ -1354,7 +1354,7 @@ belili mackim$Belī-ilī was enforcer ;
 muku cusuen$delivery of Šu-Suen ;
 akala mackim$Ayakala was enforcer ;
 5$NUMB ,
-u 1kam$NUMBth day ;
+u 1kam$ordNUMB day ;
 1 sila ninhursag$NUMB lamb for Ninḫursag ;
 1 sila culpae$NUMB lamb for Šulpa'e ;
 muku ecdardingircu$delivery of Ešdar-ilšu ;
@@ -1363,31 +1363,31 @@ mactur sagi mackim$Maštur , cupbearer , was enforcer ;
 muku lunanna sagi$delivery of Lu-Nanna , cupbearer ;
 urbaba mackim$Ur-Baba was enforcer ;
 4$NUMB ,
-u 1 1kam$NUMBth day ;
+u 1 1kam$ordNUMB day ;
 1 sila nusku$NUMB lamb for Nusku ;
 1 sila ninurta$NUMB lamb for Ninurta ;
 muku ensi nibru$delivery of the governor of Nippur ;
 mactur sagi mackim$Maštur , cupbearer , was enforcer ;
  2$NUMB ,
-u 1 2kam$NUMBth day ;
+u 1 2kam$ordNUMB day ;
 1 amar az euzga$NUMB bear cub for the uzga-house ;
 muku cusuen$delivery of Šu-Suen ;
 akala mackim$Ayakala was enforcer ;
 1$NUMB ,
-u 1 3kam$NUMBth day ;
+u 1 3kam$ordNUMB day ;
 1 acgar niga$NUMB grain-fed female kid ,
 1 sila$NUMB lamb ,
 euzga$for the uzga-house ;
 muku ARADmu$delivery of ARADmu ;
 urbaba mackim$Ur-Baba was enforcer ;
 2$NUMB ,
-u 1 5kam$NUMBth day ;
+u 1 5kam$ordNUMB day ;
 2 6 macda$NUMB gazelles ,
 emuhaldim$for the kitchen ;
 muku urengaldudu$delivery of Ur-Engaldudu ;
 giri tahcatal ragaba$via Taḫšatal , the rider ;
 2 6$NUMB ,
-u 1 7kam$NUMBth day ;
+u 1 7kam$ordNUMB day ;
 1 amar az muku cusuen$NUMB bear cub , delivery of Šu-Suen ,
 1 sila muku s,elucdagan$NUMB lamb , delivery of Ṣelluš-Dagan ,
 1 sila muku dingirDImat sagi$NUMB lamb , delivery of Il-DImat , cupbearer ,
@@ -1395,7 +1395,7 @@ u 1 7kam$NUMBth day ;
 euzga$for the uzga-house ;
 urbaba mackim$Ur-Baba was enforcer ;
 4$NUMB ,
-u 2kam$NUMBth day ;
+u 2kam$ordNUMB day ;
 2 sila muku watarum sanga$NUMB lambs , delivery of Watarum , chief household manager ,
 1 sila muku s,elucdagan$NUMB lamb , delivery of Ṣelluš-Dagan ,
 1 sila muku zenana$NUMB lamb , delivery of Zenana ,
@@ -1405,7 +1405,7 @@ u 2kam$NUMBth day ;
 muku beliarik$delivery of Belī-arik ;
 ARADmu mackim$ARADmu was enforcer ;
 1$NUMB ,
-u 2 7kam$NUMBth day ;
+u 2 7kam$ordNUMB day ;
 cunigin 4 udu niga$total : NUMB grain-fed sheep ,
 cunigin 1 acgar niga$total : NUMB grain-fed female kid ,
 cunigin 1 4 sila$total : NUMB lambs ,
@@ -1439,7 +1439,7 @@ mu enmahgalana en nanna bahun$year : “ Enmaḫgalana , high-priestess of Nanna
 3 4 4 8 sila gur$NUMB gur NUMB barig NUMB sila3 ,
 kicib urenuna$under seal of Ur-Enunna ;
 5 1 5 gur kicib gutar$NUMB gur NUMB barig NUMB ban2 , under seal of Gutar
-2 7 2 2 8 sila ce gur$NUMB gur NUMB barig NUMB banNUMB NUMB sila3 barley ,
+2 7 2 2 8 sila ce gur$NUMB gur NUMB barig NUMB ban2 NUMB sila3 barley ,
 1 1 gig$NUMB  NUMB ban2 wheat ,
 kicib lugalrani$under seal of Lugalrani ;
 n 2 1 gur kicib urdamu$… NUMB gur NUMB barig , under seal of Ur-Damu ;
@@ -1448,7 +1448,7 @@ n 2 1 gur kicib urdamu$… NUMB gur NUMB barig , under seal of Ur-Damu ;
 1 4 kicib urgudena dumu ursuen$NUMB gur NUMB barig , under seal of Ur-Gudena , son of Ur-Suen ;
 1 gur iri bura$NUMB gur  the city of Bura ,
 kicib lunanna dumu lugalane nubanda$under seal of Lu-Nanna , son of Lugal-ane , nubanda ;
-4 2 2 gur$NUMB gur NUMB barig NUMB banNUMB ,
+4 2 2 gur$NUMB gur NUMB barig NUMB ban2 ,
 kicib kugani dumu gudea$under seal of Kugani , son of Gudea ;
 2 kicib dada$NUMB barig , under seal of Dada ;
 2 kicib lugirizal dumu lugalgue$NUMB barig , under seal of Lu-KA-ni the son of Lugal-gue ;
@@ -1457,14 +1457,14 @@ kicib urnungal$under seal of Ur-Nungal ;
 4 3 5 9 sila gur$NUMB gur NUMB sila3 ,
 kicib lugalkuzu sukkal$under seal of Lugal-kuzu the messenger ;
 5 gur kicib nannaisa dumu urhendursagka$NUMB , under seal of Nanna-isa the son of Ur-Ḫendursag ;
-cunigin 9 5 6 2 5 2 sila ce gur$total : NUMB gur NUMB barig NUMB banNUMB NUMB sila3 barley ;
+cunigin 9 5 6 2 5 2 sila ce gur$total : NUMB gur NUMB barig NUMB ban2 NUMB sila3 barley ;
 cunigin 1 1 gig$total : NUMB barig NUMB ban2 wheat ;
 ce ura kua gala X$barley with interest , cut , available , …
 1 1 5 sila ce$NUMB barig , NUMB ban2 , NUMB sila3 of barley ,
 sadu iti diri$regular offerings of month : “ Extra , ”
 mu simanum bahul$year : “ Simanum was destroyed ; ”
-2 4 1 X 4 12 sila ce$NUMB gur , NUMB ban2 , 4 NUMB/2 sila3 of barley ,
-sadu iti 1 3kam$regular offerings of NUMBth month ,
+2 4 1 X 4 12 sila ce$NUMB gur , NUMB ban2 , NUMB sila3 of barley ,
+sadu iti 1 3kam$regular offerings of ordNUMB month ,
 mu bad martu badu$year : “ The Amorite wall was erected ; ”
 sadu cara u sadu culgi$regular offerings for Šara and regular offerings for Šulgi ,
 ki gududuta$from Gududu ,
@@ -1492,26 +1492,26 @@ kubi 12 mana 5 23 gin 1 5 ce$its silver : NUMB mana , NUMB shekels , NUMB grains
 2 2 gin suhe$NUMB shekels of suḫe ,
 kubi 13 gin 6 ce X$its silver : NUMB shekel , NUMB grains
 kicib luenlila$under seal of Lu-Enlila ;
-3 6 23 sila 5 12 ce igec$NUMB ban2 6 2/NUMB silaNUMB NUMB grains of plant oil ,
+3 6 23 sila 5 12 ce igec$NUMB ban2 NUMB sila3 NUMB grains of plant oil ,
 kubi 3 23 gin 1 12 ce$its silver : NUMB shekels , NUMB grains ;
-2 esir EA$NUMB banNUMB of EA-bitumen ,
+2 esir EA$NUMB ban2 of EA-bitumen ,
 kubi 2 4 ce$its silver : NUMB grains
-2 naga sie$NUMB banNUMB of “ horned ” alkali-plant
+2 naga sie$NUMB ban2 of “ horned ” alkali-plant
 kicib X$under seal of Ur-…
-1 naga sie kubi 1 2 ce$NUMB barig “ horned ” alkali-plant , their silver : NUMB2 grains ,
+1 naga sie kubi 1 2 ce$NUMB barig “ horned ” alkali-plant , their silver : NUMB grains ,
 gigir culpaece$for the chariot of Šulpa'e ,
 kicib X$under seal of Lugal-… ;
-2 naga sie$NUMB banNUMB of “ horned ” alkali-plant
+2 naga sie$NUMB ban2 of “ horned ” alkali-plant
 kubi 3 ce$its silver : NUMB grains ;
 kicib akala acgab$under seal of Akalla , the leatherworker ;
 5 4 1 gu esir had$NUMB talents of dried bitumen
 kubi 12 mana 1 gin$its silver : NUMB mana , NUMB shekel
-4 2 3 sila esir EA$NUMB  NUMB silaNUMB EA-bitumen ,
+4 2 3 sila esir EA$NUMB  NUMB sila3 EA-bitumen ,
 kubi 8 23 gin 2 4 ce$its silver : NUMB shekels , NUMB grains
 kicib adumu$under seal of Adumu ;
-2 gectin had$NUMB banNUMB of raisins ,
+2 gectin had$NUMB ban2 of raisins ,
 kubi 13 gin$its silver : NUMB shekel ;
-2 CIM hia$NUMB banNUMB of mixed SZIM ,
+2 CIM hia$NUMB ban2 of mixed SZIM ,
 kubi igi4gal$its silver : NUMB ,
 ugu lunincubur bagar$in the debit account of Lu-Ninšubur set ;
 56 mana 3 12 gin 1 12 ce kubabbar$NUMB mana , NUMB shekels , NUMB grains silver ,
@@ -1532,7 +1532,7 @@ nigkak urdumuzida$account concerning Ur-Dumuzida ;
 iti dumuzi$month : “ Dumuzi , ”
 mu en eridu bahun$year : “ The high-priest of Eridu was installed . ”
 3 udu niga$NUMB rams , grain-fed ,
-u 2 3kam$NUMBrd day ;
+u 2 3kam$ordNUMB day ;
 ki abasagata$from Abbasaga
 nalu$Nalu
 idab$accepted ;
@@ -1592,7 +1592,7 @@ siki apisal$wool  Apisal ,
 ekiciba dazagula$the warehouse Da-zagula ,
 4 gu 1 la 1 mana siki ge$NUMB talents NUMB mana black wool ,
 ekiciba atiesag$the warehouse Ati-Esag ,
-1 3 la 5$NUMB less 50
+1 3 la 5$NUMB less NUMB
 ki ureta$from Ur-e’e ;
 4 7 gu 4 6 56 mana siki$NUMB talents NUMB mana wool ,
 ekiciba atiesag$the warehouse Ati-Esag ,
@@ -1737,7 +1737,7 @@ mu amarsuen lugale urbilum muhul$year : “ Amar-Suen , the king , Urbilum destr
 1 sila ga audu hursag$NUMB suckling lamb of a hybrid mouflon ,
 3 macda$NUMB gazelles ,
 1 amar macda$NUMB gazelle fawn ,
-bauc u 1 6kam$slaughtered , the NUMBth day
+bauc u 1 6kam$slaughtered , the ordNUMB day
 ki ludingirata$from Lu-dingira
 urnigar$Ur-nigar
 cu bati$received ;
@@ -1753,7 +1753,7 @@ X$…
 X X$…
 X mackim$… , responsible official ;
 unuga$of Uruk ,
-u 2 6kam$the NUMBth day ,
+u 2 6kam$the ordNUMB day ,
 ki dugata bazi$from Duga booked out ;
 giri urbaba dubsar$via Ur-Baba , the scribe ;
 iti ezemana$month : “ Festival of An , ”
@@ -1806,8 +1806,8 @@ iti dumuzi$month “ Dumuzi ; ”
 cunigin 1 3 2 la 3 geme 3$total : NUMB less NUMB female laborers , NUMB ban2 ,
 cunigin 1 2 4 geme a 12 3$total : NUMB female laborers , half-labor , NUMB ban2 ,
 iti 1 2kam$of NUMB months ;
-geme 3 igi 1 2galbi 1 6 13 5 gin$female laborers , NUMB ban2 , their NUMBth : 66 1/NUMB , NUMB shekels ;
-geme a 12 3 igi 1 2galbi 7$female laborers , half-labor , their NUMBth : NUMB ;
+geme 3 igi 1 2galbi 1 6 13 5 gin$female laborers , NUMB ban2 , their ordNUMB : NUMB , NUMB shekels ;
+geme a 12 3 igi 1 2galbi 7$female laborers , half-labor , their ordNUMB : NUMB ;
 sagnigura a geme X ugula ucbar X 1 3 X X$debits of the labor of female laborers … foreman of weaving … NUMB … ;
 iti cesagkuta$from month “ Harvest ; ”
 iti dumuzice$to month “ Dumuzi ; ”
@@ -1890,12 +1890,12 @@ eani$his temple
 munadu$he built for him .
 1 2 7 1 mun gur lugal$NUMB gur NUMB barig salt ,
 bari 6 sila imtur$the barig reduced by NUMB sila3 ,
-sag sagabi 8 3 2 8 sila gur$its struck head : NUMB gur NUMB barig NUMB banNUMB NUMB silaNUMB ;
+sag sagabi 8 3 2 8 sila gur$its struck head : NUMB gur NUMB barig NUMB ban2 NUMB sila3 ;
 6 1 gazi gur$NUMB gur NUMB ban2 sumac ,
-bariga 2 imtur$the barig reduced by NUMB banNUMB ,
+bariga 2 imtur$the barig reduced by NUMB ban2 ,
 sag sagabi 2 3 13 sila gur$its struck head : NUMB gur NUMB sila3 ;
-1 3 3 sila X$NUMB barig NUMB ban2 NUMB silaNUMB x-plant ,
-sag sagabi 3 9 12 sila$its struck head : NUMB ban2 NUMB silaNUMB ;
+1 3 3 sila X$NUMB barig NUMB ban2 NUMB sila3 x-plant ,
+sag sagabi 3 9 12 sila$its struck head : NUMB ban2 NUMB sila3 ;
 nigala$goods on hand ,
 ki kana$from Ka-ana ,
 giri ARADdani$via ARADdani ;
@@ -1910,7 +1910,7 @@ laia 1 4 la 2 geme u 1ce$Deficit : NUMB less NUMB workdays , female laborers ,
 situm nigkak$remainder of the account ,
 geme arua u geme tukule daba$dedicated female laborers and female laborers by the weapon seized ;
 iti cunumun$from month : Harvest ,
-mu karhar ara 3kamac bahulta$year : “ Karḫar for the NUMBrd time was destroyed , ”
+mu karhar ara 3kamac bahulta$year : “ Karḫar for the ordNUMB time was destroyed , ”
 iti ezemculgi$to month : “ Festival of Šulgi , ”
 mu ancan bahulce$year : “ Anšan was destroyed ; ”
 urningeczida dumu urbaba susudam$to Ur-Ningešzida , son of Ur-Baba , it is to be repaid .
