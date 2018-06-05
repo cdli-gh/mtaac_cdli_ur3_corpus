@@ -1,4 +1,4 @@
-5 ce gur lugal
+NUMB ce gur lugal
 cagal udu
 ki lukalata
 kicib lumelam
@@ -13,11 +13,11 @@ ca girsu
 u ca nigin
 igal
 mu usa cusuen lugal urimake bad martu muriqtidnim mudu
-6 udu
-4 u
-5 ud
+NUMB udu
+NUMB u
+NUMB ud
 emuhaldim
-u 2 5kam
+u NUMBkam
 ziga
 ki urkununa
 iti akiti
@@ -33,14 +33,14 @@ munadu
 luduga
 lugalkugani
 lugirizal
-2 bibia
+NUMB bibia
 cecpada
 ikala
-2 lugalgigire
+NUMB lugalgigire
 X
-2 dumu urictaran
+NUMB dumu urictaran
 lugalitida
-1 3
+NUMB
 e cara
 lugalcunire
 lusuen
@@ -50,7 +50,7 @@ ceckala
 lugalhegal
 emah
 dingiram
-2 dumu urgigir
+NUMB dumu urgigir
 e culgira
 lucara
 gigiga
@@ -63,45 +63,45 @@ ekas anzagar
 adudu
 ekas umma
 ekas umma
-cunigin 2 7 cuku
+cunigin NUMB cuku
 cuku sadu dingirenece
-1 3 dabin gur lugal
-a 1 guruc 5 silata
-gurucbi 1 3 6 u 1ce
+NUMB dabin gur lugal
+a NUMB guruc NUMB silata
+gurucbi NUMB u NUMBce
 a lu hunga
 ki ursagata
 cuecdar
 cu bati
 iti ezemekigal
 mu cacru bahul
-13 mana kubabbar
+NUMB mana kubabbar
 laia suga nukirikene
 ki carakamta
 gududu
 cu bati
 mu cusuen lugal urimake mada zabcali muhul
-2 3 ab 
-4 gu 
-2 3 2 u 
-1 4 5 udu 
-4 sila ga 
+NUMB ab 
+NUMB gu 
+NUMB u 
+NUMB udu 
+NUMB sila ga 
 X euduniga 
 sadu X 
 iti kisikininazu 
 mu kimac u hurti bahul 
-2 7 gu 2 2 2 1 udu 
+NUMB gu NUMB udu 
 enmahgalana
 en nanna
-2 udu 
-1 sila 
+NUMB udu 
+NUMB sila 
 bauc 
-u 1kam 
+u NUMBkam 
 ki belilita 
 culgirimu 
 cu bati 
 iti ubigu 
 mu usa simanum bahul 
-3 
+NUMB 
 pisanduba
 kiri gida
 ce X gida
@@ -126,7 +126,7 @@ ca eduru
 ga:ec
 igal
 mu
-2 dusu 
+NUMB dusu 
 kunzida apisalce 
 geme ucbare dusu 
 X X ibil 
@@ -141,7 +141,7 @@ dubgida
 sipa gukkal
 en eriduta
 e cara ummaka baduce
-mu 1 1kam
+mu NUMBkam
 igal
 pisanduba
 gurum
@@ -157,8 +157,8 @@ zusika
 KA kecra
 igal
 mu unugalana
-1 kac
-1 ninda
+NUMB kac
+NUMB ninda
 lu simackume
 u simackumce baereca
 giri saga lu kingia lugal
@@ -182,7 +182,7 @@ ca anzagar
 giri adu
 ca apisal
 giri kugani
-iti 1 2kam
+iti NUMBkam
 igal
 mu ma enkika babdu
 pisanduba
@@ -202,8 +202,8 @@ im etum
 sa kuc
 cu urlisi ensi
 igal
-2 kid
-kilabi 23
+NUMB kid
+kilabi NUMB
 ki urculpaeta
 kicib lugalniglagare
 iti cunumun
@@ -211,22 +211,22 @@ mu en eridu bahun
 lugalsiNEe
 dubsar
 dumu urenuna
-1 guruc hunga ma gid
-a cagalbi 7 silata
-6 12 uce
-cebi 1 2 3 2 sila gur
+NUMB guruc hunga ma gid
+a cagalbi NUMB silata
+NUMB uce
+cebi NUMB sila gur
 a lu hungakam
-1 ma 3 gur
-abi 6 silata
-1 malah hunga
-a cagalni 7 silata
-u 7ce
-cebi 1 3 5 sila
+NUMB ma NUMB gur
+abi NUMB silata
+NUMB malah hunga
+a cagalni NUMB silata
+u NUMBce
+cebi NUMB sila
 ugula nindam
 ce aca nigin
 giri namah
 iti ezembaba
-cagal 1 4 7 sila
+cagal NUMB sila
 nanna
 lugalani
 urnamma
@@ -241,17 +241,17 @@ namti
 meskigal 
 ensi 
 adab 
-2 udu niga gula
-1 udu niga an
-1 udu niga inanna
-1 udu niga ninhursag
+NUMB udu niga gula
+NUMB udu niga an
+NUMB udu niga inanna
+NUMB udu niga ninhursag
 ca unuga
-1 udu niga utu larsa
-1 udu niga nannana
-1 udu niga inanna
-1 udu niga ningal
+NUMB udu niga utu larsa
+NUMB udu niga nannana
+NUMB udu niga inanna
+NUMB udu niga ningal
 ca tur gal
-ziga u 4kam
+ziga u NUMBkam
 ki ahuwerta
 bazi
 iti mackugu
@@ -264,7 +264,7 @@ kicib naramili
 ki nasa
 iti akitita
 iti ezemninazuce
-iti 1 2kam
+iti NUMBkam
 mu urbilum bahul
 pisanduba
 sagnigura mani
@@ -274,9 +274,9 @@ mu usa urbilum bahul
 pisanduba
 sagnigura gi
 cecani
-mu 6kam
+mu NUMBkam
 igal
-mu usa ara 3kam simurum bahulta
+mu usa ara NUMBkam simurum bahulta
 mu usa bad baduce
 pisanduba
 ab etura
@@ -291,205 +291,205 @@ X
 mari 
 zinuba 
 X 
-1 2 guruc u 3ce
+NUMB guruc u NUMBce
 nubanda ursaga dumu lugaligi
 bala guba
 iti ezemdumuzi
-1 engar u 3ce
-7 dumudaba u 3ce
-3 ugIL 13 u 3ce
-1 2 7 erin u 3ce
+NUMB engar u NUMBce
+NUMB dumudaba u NUMBce
+NUMB ugIL NUMB u NUMBce
+NUMB erin u NUMBce
 nubanda urgecbare
-3 3 erin u 3ce
+NUMB erin u NUMBce
 nubanda ahua
 bala guba
-1 2 erin 1ta u 2ce
-ce 2 2 gur lugal
+NUMB erin NUMBta u NUMBce
+ce NUMB gur lugal
 ki ureninnuta
 nubanda ursaga dumu lugaligi
-1 4 erin u 1ce
+NUMB erin u NUMBce
 ki urkisalta
-1 1 la 1 erin u 1ce
+NUMB la NUMB erin u NUMBce
 ki urlamma dumu urnigta
 iti ezemculgi
-1 4 erin 1 2ta u 2ce
+NUMB erin NUMBta u NUMBce
 erin hunga bala tuca
-cebi 1 7 2 gur
+cebi NUMB gur
 nubanda urgecbare
-5 erin u 3ce
+NUMB erin u NUMBce
 bala guba
-2 4 erin 1ta u 2ce
+NUMB erin NUMBta u NUMBce
 erin hunga bala tuca
-cebi 4 4 gur
+cebi NUMB gur
 nubanda luningirsu
-1 5 dumu baBAD u 3ce bala gub
+NUMB dumu baBAD u NUMBce bala gub
 e ninmarme
-3 3 erin 1 2ta u 2ce
-5 erin 1ta u 2ce
-6 erin 3ta u 2ce
-4 erin 2ta u 2ce
-cebi 1 3 2 gur
+NUMB erin NUMBta u NUMBce
+NUMB erin NUMBta u NUMBce
+NUMB erin NUMBta u NUMBce
+NUMB erin NUMBta u NUMBce
+cebi NUMB gur
 erin hunga bala tuca
 nubanda ahua
 cebi ki ureninnuta
-1 6 erin u 2ce
+NUMB erin u NUMBce
 bala tuca ce cu nuti
 ugula urbaba dumu lunimgir
-1 engar u 3ce
+NUMB engar u NUMBce
 im ensita
-1 5 erin u 3ce
+NUMB erin u NUMBce
 ki urnanceta
-1 1 erin u 3ce
+NUMB erin u NUMBce
 ki lugirizalta
-3 erin u 3ce
+NUMB erin u NUMBce
 ki urkisalta
-2 erin u 3ce
+NUMB erin u NUMBce
 ki urlamma dumu urnigta
 nubanda luningirsu
 bala guba
 iti ezembaba
-1 5 erin 2ta u 2ce
-cebi 1 gur
+NUMB erin NUMBta u NUMBce
+cebi NUMB gur
 ki ureninnuta
 erin ki urnanceta
-3 erin u 2ce
+NUMB erin u NUMBce
 bala tuca ce cu nuti
 ki lugirizalta
-3 guruc u 2ce
+NUMB guruc u NUMBce
 bala tuca ce cu nutia
 ki urkisalta
-2 erin u 2ce
+NUMB erin u NUMBce
 bala tuca ce cu nutia
 ki X
-2 1 erin u nce
+NUMB erin u nce
 bala tuca ce cu nutia
-1 3 erin u 2ce
+NUMB erin u NUMBce
 bala tuca ce cu nutia
 nubanda luningirsu
-1 4 erin u 3ce
+NUMB erin u NUMBce
 bala guba
-1 engar u 3ce
+NUMB engar u NUMBce
 nubanda urgecbare
-1 5 dumu baBAD u 3ce
+NUMB dumu baBAD u NUMBce
 e ninmar
-5 la 2 erin u 3ce
+NUMB la NUMB erin u NUMBce
 nubanda ahua
-1 6 erin u 3ce
+NUMB erin u NUMBce
 ugula urbaba dumu lunimgir
 bala guba
 iti mucudu
-3 6 erin u 3ce
+NUMB erin u NUMBce
 bala guba
-1 6 erin 2 1 silata u 2ce
+NUMB erin NUMB silata u NUMBce
 nubanda luningirsu
-2 5 erin 1 5 silata u 2ce
-cebi 2 1 5 gur
+NUMB erin NUMB silata u NUMBce
+cebi NUMB gur
 ki ureninnuta
 bala tuca ce cu nutia
-4 la 1 erin u 3ce
+NUMB la NUMB erin u NUMBce
 bala tuca ce cu nutia
 nubanda urgecbare
-2 engarbur u 3ce
-8 ugIL igi4gal u 3ce
+NUMB engarbur u NUMBce
+NUMB ugIL igiNUMBgal u NUMBce
 e dumuzime
 im ensita
-4 1 3 erin u 1ce
+NUMB erin u NUMBce
 nubanda urutu
-3 4 1 23 erin u 1ce
+NUMB erin u NUMBce
 nubanda nabasa
-1 2 erin u 1ce
+NUMB erin u NUMBce
 nubanda urtur dumu X
 X
 e X
 ki X
 iti amarasi
-2 1 3 GAN
+NUMB GAN
 gala X
-2 GAN X
+NUMB GAN X
 damgar X
-1 1 4 GAN
+NUMB GAN
 X
 abi X
 ki cabra X
-cunigin 1 engar u 3ce
-cunigin 7 dumudaba u 3ce
-cunigin 3 ugIL u 3ce
-cunigin 1 5 dumu baBAD u 3ce
-cunigin 6 2 erin
+cunigin NUMB engar u NUMBce
+cunigin NUMB dumudaba u NUMBce
+cunigin NUMB ugIL u NUMBce
+cunigin NUMB dumu baBAD u NUMBce
+cunigin NUMB erin
 bala guba
-cunigin 3 2 4 X
-cebi 3 8 1 1 sila gur
+cunigin NUMB X
+cebi NUMB sila gur
 ki ursukkalta
 erin hunga X
-cunigin 3 4 X
-cunigin 2 X
+cunigin NUMB X
+cunigin NUMB X
 erin ce cu nutia
-cunigin 6 GAN X
+cunigin NUMB GAN X
 abi X
 ki ugula X
 cunigin X
 X X
 iti X
-6 1 X
+NUMB X
 bala tuca
 irita nue
-8 2 X
+NUMB X
 itita zala
 bala tuca
-3 erin X
+NUMB erin X
 itita zala
 bala tuca
 iti amarasi
 nubanda X
-2 engarbur X
-8 ugIL igi 4gal u 3ce
+NUMB engarbur X
+NUMB ugIL igi NUMBgal u NUMBce
 irita nue
 e dumuzi
-1 nubanda BI gec X
+NUMB nubanda BI gec X
 irita nue
 e X
 n X
-cunigin 3 4 12 ninda gid X
-guruce 12 nindata
-abi 7 2 1 guruc u 1ce
+cunigin NUMB ninda gid X
+guruce NUMB nindata
+abi NUMB guruc u NUMBce
 aca ninture ambar sura
-cunigin 9 2 GAN urua
-guruce 2 la 2 sarta
-abi 1 5 1 1 u 1ce
+cunigin NUMB GAN urua
+guruce NUMB la NUMB sarta
+abi NUMB u NUMBce
 aca namsanga urua
-cunigin 3 3 3 ninda gid gi ze
-guruc 1e 12 nindata
-abi 7 6 u 1ce
-cunigin 2 guruc u 1ce
+cunigin NUMB ninda gid gi ze
+guruc NUMBe NUMB nindata
+abi NUMB u NUMBce
+cunigin NUMB guruc u NUMBce
 im dua
 aca ninegubade
 ki ursaga dumu urgula
-cunigin 1 5 dumu baBAD u 1ce
-cunigin 3 3 dumudaba u 1ce
-cunigin 1 3 ugIL 13 u 1ce
-cunigin 4 ugIL igi4gal u 1ce
-cunigin 1 4 8 guruc u 1ce
+cunigin NUMB dumu baBAD u NUMBce
+cunigin NUMB dumudaba u NUMBce
+cunigin NUMB ugIL NUMB u NUMBce
+cunigin NUMB ugIL igiNUMBgal u NUMBce
+cunigin NUMB guruc u NUMBce
 a gula
-cunigin 1 3 u 1ce tura
+cunigin NUMB u NUMBce tura
 ziga
-cunigin 5 3 guruc u 3ce
+cunigin NUMB guruc u NUMBce
 irita nue
-cunigin 2 8 3 8 guruc u 1ce
+cunigin NUMB guruc u NUMBce
 itita zala
-cuniginguruc u 1ce
+cuniginguruc u NUMBce
 a gula
 bala guba
-cunigin 8 guruc u 2ce
+cunigin NUMB guruc u NUMBce
 irita nue
-cunigin 2 8 3 4 guruc u 1ce
+cunigin NUMB guruc u NUMBce
 itita zala
-cuniginguruc u 1ce
+cuniginguruc u NUMBce
 a gula
-cebi 3 7 1 3 gur
-cunigin 4 4 guruc u 3ce
-cunigin 1 6 guruc u 2ce
+cebi NUMB gur
+cunigin NUMB guruc u NUMBce
+cunigin NUMB guruc u NUMBce
 irita nue
-cunigin 8 4 guruc u 1ce
+cunigin NUMB guruc u NUMBce
 itita zala
 ce cu nutia
 nigkak
@@ -505,27 +505,27 @@ pisanduba
 nigkak
 abagina
 igal
-mu cacuru ara 2kam bahul
+mu cacuru ara NUMBkam bahul
 pisanduba
 kicib daba
 lugalkuzu
 u luduga
 mu harci kimac bahul
-2 gu niga
-u 2 la 1kam
+NUMB gu niga
+u NUMB la NUMBkam
 ki abasagata
 ahuwer
 idab
 iti kisikininazu
 mu huhnuri bahul
-2 gu
-laia 5 ce gur lugal
+NUMB gu
+laia NUMB ce gur lugal
 situm nigkak
 abanisege
 susudam
 iti cesagku
 mu amarsuen lugal
-laia 5 ce gur lugal
+laia NUMB ce gur lugal
 situm nigkak
 abaisege
 susudam
@@ -549,8 +549,8 @@ lugal an ubda limmuba
 culgili
 dubsar
 ARADzu
-2 1 ce gur
-2 ziz
+NUMB ce gur
+NUMB ziz
 ce daba
 aca babatursu
 giri lugalnigince
@@ -558,8 +558,8 @@ ursuana
 cu bati
 ca girsu
 musa narua
-2 1 ce gur lugal
-2 ziz
+NUMB ce gur lugal
+NUMB ziz
 ce daba aca babatursu
 giri lugalnigince
 kicib ursuana
@@ -568,14 +568,14 @@ mu usa cusuen lugal urimake naruamah enlil ninlilra munedu
 ursuana
 dubsar
 dumu lugecbare
-1 gu niga
-u 1kam
+NUMB gu niga
+u NUMBkam
 ki abasagata
 ahuwer
 idab
 iti ezemana
 mu enmahgalana en nanna bahun
-1
+NUMB
 pisanduba
 ziga
 u kurucdae ibdab
@@ -609,31 +609,31 @@ takba gu udu
 mu e cara baduta
 mu simurum bahulce
 igal
-1 sila
-u 3 la 1kam
+NUMB sila
+u NUMB la NUMBkam
 ki abasagata
 nalu
 idab
 iti macdagu
 mu cacru bahul
-1
-1 guruc u 4ce
+NUMB
+NUMB guruc u NUMBce
 kar ummata
 irisarigce
 ma gida
-u 1ce ce ma siga
+u NUMBce ce ma siga
 irisarigta
-u 2ce kunzida
+u NUMBce kunzida
 kiri gectince ma diriga
-u 8ce eduru uriruata
+u NUMBce eduru uriruata
 kunzida i amarsuenitumce ce gaga
 kunzida i amarsuenitumata
-u 2ce irisarigce ma gida u
+u NUMBce irisarigce ma gida u
 ma bala ak
-u 2ce irisarigta ka damimamace ma gida
-u 2ce ummace ma diriga
-u 1ce ma bala
-u 1ce ce bala
+u NUMBce irisarigta ka damimamace ma gida
+u NUMBce ummace ma diriga
+u NUMBce ma bala
+u NUMBce ce bala
 ugula ipae
 kicib adumu
 iti dumuzi
@@ -674,23 +674,23 @@ cuera
 dubsar
 dumu unabcen
 ARADzu
-5 sila kac saga 5 sila ninda gal 5 gin cum 3 gin i 2 gin naga 
+NUMB sila kac saga NUMB sila ninda gal NUMB gin cum NUMB gin i NUMB gin naga 
 ahuwer 
-5 sila kac saga 2 sila ninda gal 5 gin cum 3 gin i 2 gin naga 
+NUMB sila kac saga NUMB sila ninda gal NUMB gin cum NUMB gin i NUMB gin naga 
 ahucuni 
-5 sila kac saga 5 sila ninda 5 gin cum 3 gin i 2 gin naga 
+NUMB sila kac saga NUMB sila ninda NUMB gin cum NUMB gin i NUMB gin naga 
 lugalanisa 
-3 sila kac 2 sila ninda 5 gin cum 3 gin i 2 gin naga 
+NUMB sila kac NUMB sila ninda NUMB gin cum NUMB gin i NUMB gin naga 
 X 
-3 sila 2 sila ninda 5 gin cum 3 gin i 2 gin naga 
+NUMB sila NUMB sila ninda NUMB gin cum NUMB gin i NUMB gin naga 
 babaisa 
-3 sila kac 2 sila ninda 5 gin cum 3 gin i 2 gin naga 
+NUMB sila kac NUMB sila ninda NUMB gin cum NUMB gin i NUMB gin naga 
 alamu 
-cunigin 1 5 sila kac saga cunigin 7 sila ninda gal 
-cunigin 1 la 1 sila kac du cunigin 1 1  ninda 
-cunigin 12 sila cum cunigin 1 8 gin i cunigin 1 2 gin naga 
+cunigin NUMB sila kac saga cunigin NUMB sila ninda gal 
+cunigin NUMB la NUMB sila kac du cunigin NUMB  ninda 
+cunigin NUMB sila cum cunigin NUMB gin i cunigin NUMB gin naga 
 iti minec 
-u 6kam 
+u NUMBkam 
 mu cusuen lugale naruamah enlil ninlilra munedu 
 pisanduba
 nigkak tug zi
@@ -698,12 +698,12 @@ u a geme ucbar lu azlag
 e nindingir baba
 ugula luinimnigsaga
 igal
-iti GANmac u 1 5kam
+iti GANmac u NUMBkam
 mu cacurum bahul
 iti ezemdumuzi
 mu cusuen lugal urimake bad martu muriqtidnim muduce
-iti 1 3 1 u 1 5kam
-iti diri 2am caba igal
+iti NUMB u NUMBkam
+iti diri NUMBam caba igal
 pisanduba
 dub mutumdingir cabra
 ca imlikcusuen u ca babila
@@ -729,10 +729,10 @@ pisanduba
 nigkak
 urningeczida simug
 igal
-2 gu niga sagu
-4 gu niga
-ecec eu7
-iti u 5 bazal
+NUMB gu niga sagu
+NUMB gu niga
+ecec euNUMB
+iti u NUMB bazal
 ki ahunita
 nasa idab
 iti sesdagu
@@ -755,7 +755,7 @@ giri ARADmu esabdu
 u dub gidabi
 igal
 mu enmahgalana bahun
-2 ud
+NUMB ud
 nigka sukkalmah
 giri ceckala cabra
 ziga
@@ -764,57 +764,57 @@ pisanduba
 nigkak
 sipaene
 igal
-1 3 7 guruc nubanda urgigir
-1 la 2 nubanda igizubara
-3 6 nubanda urnigar
-6 nubanda lubaba
-cunigin 3 1 7 guruc
+NUMB guruc nubanda urgigir
+NUMB la NUMB nubanda igizubara
+NUMB nubanda urnigar
+NUMB nubanda lubaba
+cunigin NUMB guruc
 cabita
-3 lugalrausa
-1 euzga
-5 egugaz
-5 duhIL
-5 gu gir
-5 gu gir ma lugal
-5 gu gir murgu gur
-3 sipa sisi
-2 la 2 emuhaldim ki urnigar
-2 la 2 emuhaldim ki urnance
-5 elunga ki lugalanatum
-2 elunga ki urmes
-1 e urnamma
-1 gu tul sagdana
-1 ziIL ki urbaba
-1 ziIL ki namah
-1 ziIL ki lugalinimgi
-2 imIL
-2 ganunda tuca
-1 dubsar geckinti
-1 dubsar i zulum
-1 dubsar inbulbul
-1 dubsar arzana
-1 dubsar zi nigara imgaga
-1 dubsar ku nisi
-1 urninazu
-1 ursaga durun
-1 ki namah
-1 urbaba gabata
-1 ka egal
-2 mala gi unuce
-5 ma manu
-1 ma gila
-1 e ensi
-3 giIL ca nibru
-3 ma isin
-7 |ZI&ZI|ce kisuen
-2 la 3 imdua
-1 tu ala
-1 tu luea
-1 gudu meslamtaea
-cunigin 3 8 guruc guba
-4 irita nubanda igizubara
-3 irita laia 2 nubanda urgigir
-u 3 la 1kam
+NUMB lugalrausa
+NUMB euzga
+NUMB egugaz
+NUMB duhIL
+NUMB gu gir
+NUMB gu gir ma lugal
+NUMB gu gir murgu gur
+NUMB sipa sisi
+NUMB la NUMB emuhaldim ki urnigar
+NUMB la NUMB emuhaldim ki urnance
+NUMB elunga ki lugalanatum
+NUMB elunga ki urmes
+NUMB e urnamma
+NUMB gu tul sagdana
+NUMB ziIL ki urbaba
+NUMB ziIL ki namah
+NUMB ziIL ki lugalinimgi
+NUMB imIL
+NUMB ganunda tuca
+NUMB dubsar geckinti
+NUMB dubsar i zulum
+NUMB dubsar inbulbul
+NUMB dubsar arzana
+NUMB dubsar zi nigara imgaga
+NUMB dubsar ku nisi
+NUMB urninazu
+NUMB ursaga durun
+NUMB ki namah
+NUMB urbaba gabata
+NUMB ka egal
+NUMB mala gi unuce
+NUMB ma manu
+NUMB ma gila
+NUMB e ensi
+NUMB giIL ca nibru
+NUMB ma isin
+NUMB |ZI&ZI|ce kisuen
+NUMB la NUMB imdua
+NUMB tu ala
+NUMB tu luea
+NUMB gudu meslamtaea
+cunigin NUMB guruc guba
+NUMB irita nubanda igizubara
+NUMB irita laia NUMB nubanda urgigir
+u NUMB la NUMBkam
 iti ezemlisi
 pisanduba
 a gecgara
@@ -833,71 +833,71 @@ guedina
 u mucbiana
 gabari ensi
 mu en inanna mace ipa
-3 3 6 3 5 5 sila ce gur lugal
-3 5 ziz gur
-1 6 gig gur
+NUMB sila ce gur lugal
+NUMB ziz gur
+NUMB gig gur
 ki ARADta
-3 ce gur
+NUMB ce gur
 laiata suga
 ki bida kurucdata
-cunigin cebi 4 4 6 3 5 5 sila gur
-3 6 geme 3
+cunigin cebi NUMB sila gur
+NUMB geme NUMB
 iti cekaragala
 mu harcita
-u 2 3 zalata
-iti dumuzita u 2 zalac
-abi u 2 4 1 2 u 1ce
+u NUMB zalata
+iti dumuzita u NUMB zalac
+abi u NUMB u NUMBce
 ki ururbartabta
-3 6 geme 3
+NUMB geme NUMB
 iti dumuzi
 mu harci
-u 2 zalata
+u NUMB zalata
 iti sigicubgara
 mu usa harci
-u 8 zalace
-abi 2 8 4 8 geme u 1ce
+u NUMB zalace
+abi NUMB geme u NUMBce
 ki dingirata
-2 3 13 a udua geme bauca
-3 geme u 4 8ce
-abi 2 2 4
-cunigin 3 1 3 2 7 13 geme u 1ce
+NUMB a udua geme bauca
+NUMB geme u NUMBce
+abi NUMB
+cunigin NUMB geme u NUMBce
 sagnigurakam
 cabita
-3 1 5 4 a udua geme
-3 4 2 5 dabin gur
-1 7 2 1 5 sila zi sig gur
-1 6 3 1 zi gaz gur
-abi u 1 4 9 2 la 12
-1 1 3 6 sila zigu saga gur
-abi u 4 9 12
-3 1 ninda ara saga zigi duhuma
-abi u 9 12
-1 8 zigu cagina gur
-abi u 1 1 1 5
+NUMB a udua geme
+NUMB dabin gur
+NUMB sila zi sig gur
+NUMB zi gaz gur
+abi u NUMB la NUMB
+NUMB sila zigu saga gur
+abi u NUMB
+NUMB ninda ara saga zigi duhuma
+abi u NUMB
+NUMB zigu cagina gur
+abi u NUMB
 basag cagina
-1 1 8 sila dabin gur
+NUMB sila dabin gur
 biguce ea siga
 kicib ludingira
-abi 3 7
-2 2 12 car sahar
-ale 1 ginta
-a gemebi u 4 3
+abi NUMB
+NUMB car sahar
+ale NUMB ginta
+a gemebi u NUMB
 kicib urnamnunka
-3 5 2 a geme ce ziga
-kicibi 3am
+NUMB a geme ce ziga
+kicibi NUMBam
 kicib ARAD
-2 4 geme u 1ce zi ma siga
+NUMB geme u NUMBce zi ma siga
 kicib lucara dumu ala
-2 la 1 geme u 1ce
+NUMB la NUMB geme u NUMBce
 inu gaga e culgirace
 kicib akala nubanda
-4 3 6 geme a geme ga guba
+NUMB geme a geme ga guba
 kicib adumu
-3 4 2 a geme balace nugena ra a tuku
+NUMB a geme balace nugena ra a tuku
 kicib adu
-2 5 geme u 7ce balace gena
-u 3ce balata gura
-abi u 4 1
+NUMB geme u NUMBce balace gena
+u NUMBce balata gura
+abi u NUMB
 uc X
 iti nesagta
 uc gemeninura
@@ -905,25 +905,25 @@ uc luzi dumu dingirbani
 uc ninlamma geme adalal
 iti ezemculgita
 uc meurbartab
-iti dumuzita u 2 X zalta
-abi 1 2 2
+iti dumuzita u NUMB X zalta
+abi NUMB
 mu harci bahulta
 iti sigicubagara
-u 8 zalac
+u NUMB zalac
 mu usa harci kimac bahulce
-5 3 4 geme arzana u 1ce
+NUMB geme arzana u NUMBce
 kicib lugalniglagare
-cunigin 1 9 1 3 6 sila zigu cagina gur
-ce balabi 1 4 3 9 12 sila 6 gin gur
-cunigin 3 5 3 5 8 sila dabin gur
-cunigin 3 4 2 5 sila zi sig gur
-cunigin 3 1 ninda ara zigi duhum
-ce balabi 3 1
-cebi 4 3 6 2 2 3 12 sila 6 gin gur
-cunigin 3 1 3 3 1 12 geme u 1ce
+cunigin NUMB sila zigu cagina gur
+ce balabi NUMB sila NUMB gin gur
+cunigin NUMB sila dabin gur
+cunigin NUMB sila zi sig gur
+cunigin NUMB ninda ara zigi duhum
+ce balabi NUMB
+cebi NUMB sila NUMB gin gur
+cunigin NUMB geme u NUMBce
 zigam
-laia 1 1 3 1 13 sila 4 gin ce gur
-diri 4 1 gin geme u 1ce
+laia NUMB sila NUMB gin ce gur
+diri NUMB gin geme u NUMBce
 nigkak lusaizu
 iti sigicubagara
 mu usa harci bahul
@@ -959,8 +959,8 @@ eana
 kibe munagi
 bad galbi
 munadu
-2 gin kubabbar
-cebi 2 2 gur
+NUMB gin kubabbar
+cebi NUMB gur
 buru amabi gigi susuda
 bamu
 mu lugalbi inpa
@@ -969,8 +969,8 @@ bamu
 cu bati
 iti megigal
 mu en nanna mace ipa
-2 gin kubabbar
-cebi 2 2 gur
+NUMB gin kubabbar
+cebi NUMB gur
 buru amabi gigi susuda
 mu lugalbi inpa
 ki nannaigita
@@ -979,8 +979,8 @@ iti megigal
 mu en nanna mace ipa
 bamu
 dumu gudea
-2 udu
-u 8kam
+NUMB udu
+u NUMBkam
 ki abasagata
 tahcatal
 idab
@@ -991,7 +991,7 @@ dub gida
 ce nigala
 igal
 mu e cara umma badu
-2 ce gur lugal 
+NUMB ce gur lugal 
 laia suga 
 ki magure 
 lubaba 
@@ -1034,7 +1034,7 @@ gargara
 tug i caze
 u gabari
 kicib ceckala
-1 gec gal mu sara BAD
+NUMB gec gal mu sara BAD
 lugaligidu
 igal
 pisanduba
@@ -1062,32 +1062,32 @@ sukkalmah
 dumu urculpae
 sukkalmah
 ARADzu
-1 dusunita
-u 1 5kam
+NUMB dusunita
+u NUMBkam
 ki abasagata
 cuera
 idab
 iti ubigu
 mu enunugal inanna unuga bahun
-1
-1 2 ce gur idub 1kam
-1 ce gur idub 2kam
-1 9 3 3 ce gur idub 3kam
-2 1 4 3 ce gur idub 4kam
-1 ziz gur idub 5kam
-4 1 4 gig gur idub 6kam
-3 1 3 ce gur 1 ziz gur 4 1 4 gig gur
+NUMB
+NUMB ce gur idub NUMBkam
+NUMB ce gur idub NUMBkam
+NUMB ce gur idub NUMBkam
+NUMB ce gur idub NUMBkam
+NUMB ziz gur idub NUMBkam
+NUMB gig gur idub NUMBkam
+NUMB ce gur NUMB ziz gur NUMB gig gur
 ceGANbi
-3 6 1 ce gur
+NUMB ce gur
 pisandubaka gala
-1 7 3 4 5 sila ce gur
-3 4 ziz gur
+NUMB sila ce gur
+NUMB ziz gur
 ki ubartumta
-3 ce gurta i gu
+NUMB ce gurta i gu
 sila gala
-cunigin 4 2 2 4 5 sila ce gur
-cunigin 2 5 ziz gur
-cunigin 4 1 4 gig gur
+cunigin NUMB sila ce gur
+cunigin NUMB ziz gur
+cunigin NUMB gig gur
 n mana kubabbar
 X nanna
 n mana kubabbar
@@ -1099,25 +1099,25 @@ ca urima
 iti akiti
 mu bitumrabium ki iabru madabi u huhnuri bahul
 X mana
-2 udu
+NUMB udu
 cugid
-u 1 3kam
+u NUMBkam
 ki abasagata
 duga
 idab
 iti ezemah
 mu en eridu bahun
-2
-3 sila ga
-1 kir ga
+NUMB
+NUMB sila ga
+NUMB kir ga
 utuda
-u 1 1kam
+u NUMBkam
 culgiamu idab
 iti ezemculgi
 mu amarsuen lugale urbilum muhul
-4
+NUMB
 pisanduba
-mu 2 ceba
+mu NUMB ceba
 gu i nigindu
 igal
 mu harci bahul
@@ -1136,49 +1136,49 @@ sipa unu culgi
 u sagapin e ninhursag
 igal
 mu harci bahul
-1 macgal niga cimacgi
-1 acgar niga enlil
-1 macgal niga cimacgi
+NUMB macgal niga cimacgi
+NUMB acgar niga enlil
+NUMB macgal niga cimacgi
 ninlil
 zabardab mackim
-1 mac niga muku s,elucdagan
-1 udu alum niga 1 ud mac nua
+NUMB mac niga muku s,elucdagan
+NUMB udu alum niga NUMB ud mac nua
 muku ursuen dumulugal
-1 acgar niga muku utuGIRgal
+NUMB acgar niga muku utuGIRgal
 euzga
 dani mackim
-1 sila enlil
-1 sila ninlil
+NUMB sila enlil
+NUMB sila ninlil
 muku cecdada sanga
-1 sila utu
+NUMB sila utu
 muku ensi curuppak
 nanceGIRgal mackim
-1 gu 1 ab 3 udu
-2 mac cugid e muhaldimce
-1 dusumunus bauc mu urace
+NUMB gu NUMB ab NUMB udu
+NUMB mac cugid e muhaldimce
+NUMB dusumunus bauc mu urace
 dingirbani sipa urake cu bati
-ziga u 2 8kam
+ziga u NUMBkam
 iti ezemculgi
 mu kimac hurti bahul
-1 5 udu
+NUMB udu
 cugid
-2 6 udu
-3 macgal
+NUMB udu
+NUMB macgal
 bauc
 emuhaldimce
-u 1 3kam
+u NUMBkam
 ki intaeata
 bazi
 iti ezemana
 mu huhnuri bahul
-4 4 udu
-4 5 guruc u 1ce
+NUMB udu
+NUMB guruc u NUMBce
 X gaga
-n 1 5 guruc ninda gaga
-n 7 guruc inbulbul gaga
-n 1 guruc mungazi gaga
-n 2 1 guruc ma gi dua
-1 1 guruc ma zida ana i kuta
+n NUMB guruc ninda gaga
+n NUMB guruc inbulbul gaga
+n NUMB guruc mungazi gaga
+n NUMB guruc ma gi dua
+NUMB guruc ma zida ana i kuta
 ka ida gurucginduce gida u ma bala ak
 ummata gu X niguna bala gaga
 X
@@ -1211,13 +1211,13 @@ sipa unu
 u erin diri lu didli
 zah ugula nutuku
 igal
-mu simurum lulubu ara 1 la 1kamac bahul
-X 2 sila
+mu simurum lulubu ara NUMB la NUMBkamac bahul
+X NUMB sila
 lugaltarsi 
 ensi 
 unu 
-13 gin kubabbar
-cebi 2 2
+NUMB gin kubabbar
+cebi NUMB
 ki ceckalata
 ala
 cu bati
@@ -1250,22 +1250,22 @@ lugal an ubda limmuba
 babati
 dubsar
 ARADzu
-4 guruc a 12
-mu 6ce
+NUMB guruc a NUMB
+mu NUMBce
 cukume
-mu usa ara 3kam simurum bahulta
+mu usa ara NUMBkam simurum bahulta
 mu usa bad baduce
-4 mana kubabbar
+NUMB mana kubabbar
 ku namenku
 kicib umani
-1 eca
-1 dabin
+NUMB eca
+NUMB dabin
 aba ce sege
 e enlilka
 ki lugalturta
 bazi
 iti NENEgar
-u 1 4 bazal
+u NUMB bazal
 mu cusuen lugal urimake e cara ummaka mudu
 cusuen
 lugal kalga
@@ -1286,11 +1286,11 @@ nabasa simug
 u urcugalama
 igal
 mu usa cusuen lugal urimake bad martu muriqtidnim mudu
-3 mana 1 12 gin 1 5 ce kubabbar
-4 23 mana CIM ninebtum
+NUMB mana NUMB gin NUMB ce kubabbar
+NUMB mana CIM ninebtum
 situm
 mu usa bad mada badu
-2 ce lugal
+NUMB ce lugal
 situm
 mu en nanna
 kicib ursaga nubanda susudam
@@ -1303,168 +1303,168 @@ bilgamesra
 urnumucda 
 agaus 
 a munaru 
-1 sila euzga
+NUMB sila euzga
 muku dukra
 akala mackim
-1
-u 1kam
-1 udu 1 mac
+NUMB
+u NUMBkam
+NUMB udu NUMB mac
 en inanna
 muku dukra
 akala mackim
-1
-u 2kam
-1 sila enlil
-1 sila ninlil
+NUMB
+u NUMBkam
+NUMB sila enlil
+NUMB sila ninlil
 ca muku nuida
 ARADmu mackim
-2
-u 3kam
-1 gu
-2 udu
+NUMB
+u NUMBkam
+NUMB gu
+NUMB udu
 lugalkuzu
 ca muku erin abibana
-1 sila euzga
+NUMB sila euzga
 muku dukra
 ARADmu mackim
-2 2
-u 4kam
-1 gu
-1 udu niga raci lu zidanum
-1 udu niga garadadu cimacgi
-1 udu niga aridubuk lu cacru
-1 udu niga X lu curudhum
+NUMB
+u NUMBkam
+NUMB gu
+NUMB udu niga raci lu zidanum
+NUMB udu niga garadadu cimacgi
+NUMB udu niga aridubuk lu cacru
+NUMB udu niga X lu curudhum
 muku nannakiag cabra
 lugalinimgina sukkal mackim
-4
-u 8kam
-3 X X
-4 udu ninhursag
+NUMB
+u NUMBkam
+NUMB X X
+NUMB udu ninhursag
 ca muku kacdea ecdarilcu
 mactur sagi mackim
-7
-u 9kam
-1 sila enlil
-1 sila ninlil
+NUMB
+u NUMBkam
+NUMB sila enlil
+NUMB sila ninlil
 muku watarum sanga
 mactur sagi mackim
-1 udu niga dada gala
+NUMB udu niga dada gala
 belili mackim
-2 amar az euzga
+NUMB amar az euzga
 muku cusuen
 akala mackim
-5
-u 1kam
-1 sila ninhursag
-1 sila culpae
+NUMB
+u NUMBkam
+NUMB sila ninhursag
+NUMB sila culpae
 muku ecdardingircu
 mactur sagi mackim
-2 mac euzga
+NUMB mac euzga
 muku lunanna sagi
 urbaba mackim
-4
-u 1 1kam
-1 sila nusku
-1 sila ninurta
+NUMB
+u NUMBkam
+NUMB sila nusku
+NUMB sila ninurta
 muku ensi nibru
 mactur sagi mackim
- 2
-u 1 2kam
-1 amar az euzga
+ NUMB
+u NUMBkam
+NUMB amar az euzga
 muku cusuen
 akala mackim
-1
-u 1 3kam
-1 acgar niga
-1 sila
+NUMB
+u NUMBkam
+NUMB acgar niga
+NUMB sila
 euzga
 muku ARADmu
 urbaba mackim
-2
-u 1 5kam
-2 6 macda
+NUMB
+u NUMBkam
+NUMB macda
 emuhaldim
 muku urengaldudu
 giri tahcatal ragaba
-2 6
-u 1 7kam
-1 amar az muku cusuen
-1 sila muku s,elucdagan
-1 sila muku dingirDImat sagi
-1 sila muku lugalmagure
+NUMB
+u NUMBkam
+NUMB amar az muku cusuen
+NUMB sila muku s,elucdagan
+NUMB sila muku dingirDImat sagi
+NUMB sila muku lugalmagure
 euzga
 urbaba mackim
-4
-u 2kam
-2 sila muku watarum sanga
-1 sila muku s,elucdagan
-1 sila muku zenana
-1 sila muku adatum
-2 udu niga muku beliarik
-1 sila meictaran
+NUMB
+u NUMBkam
+NUMB sila muku watarum sanga
+NUMB sila muku s,elucdagan
+NUMB sila muku zenana
+NUMB sila muku adatum
+NUMB udu niga muku beliarik
+NUMB sila meictaran
 muku beliarik
 ARADmu mackim
-1
-u 2 7kam
-cunigin 4 udu niga
-cunigin 1 acgar niga
-cunigin 1 4 sila
-cunigin 2 mac
-cunigin 2 6 macda
-cunigin 5 amar az
+NUMB
+u NUMBkam
+cunigin NUMB udu niga
+cunigin NUMB acgar niga
+cunigin NUMB sila
+cunigin NUMB mac
+cunigin NUMB macda
+cunigin NUMB amar az
 ziga lugal
-cunigin 1 macgal
+cunigin NUMB macgal
 guza culgi
-cunigin 3 gu
-cunigin 5 udu niga
-cunigin 4 1 udu
-cunigin 1 la 1 sila
+cunigin NUMB gu
+cunigin NUMB udu niga
+cunigin NUMB udu
+cunigin NUMB la NUMB sila
 nigba lugal
 X X
-niginba 3 gu
-niginba 1 1 3 udu
-niginba 3 mac
-niginba 1 ud
-niginba 3 6 macda
-niginba 5 az
-niginba 3 gu
-niginba 1 1 7 udu mac hia
-niginba 2 6 macda
-niginba 5 az
-1 5 1
+niginba NUMB gu
+niginba NUMB udu
+niginba NUMB mac
+niginba NUMB ud
+niginba NUMB macda
+niginba NUMB az
+niginba NUMB gu
+niginba NUMB udu mac hia
+niginba NUMB macda
+niginba NUMB az
+NUMB
 ki abasagata bazi
 iti ezemana
 mu enmahgalana en nanna bahun
-8 gur kicib X
-3 4 4 8 sila gur
+NUMB gur kicib X
+NUMB sila gur
 kicib urenuna
-5 1 5 gur kicib gutar
-2 7 2 2 8 sila ce gur
-1 1 gig
+NUMB gur kicib gutar
+NUMB sila ce gur
+NUMB gig
 kicib lugalrani
-n 2 1 gur kicib urdamu
-4 kicib tirgu
-2 lugalgigire
-1 4 kicib urgudena dumu ursuen
-1 gur iri bura
+n NUMB gur kicib urdamu
+NUMB kicib tirgu
+NUMB lugalgigire
+NUMB kicib urgudena dumu ursuen
+NUMB gur iri bura
 kicib lunanna dumu lugalane nubanda
-4 2 2 gur
+NUMB gur
 kicib kugani dumu gudea
-2 kicib dada
-2 kicib lugirizal dumu lugalgue
-2 8 gur sadu zabala sagbi gida
+NUMB kicib dada
+NUMB kicib lugirizal dumu lugalgue
+NUMB gur sadu zabala sagbi gida
 kicib urnungal
-4 3 5 9 sila gur
+NUMB sila gur
 kicib lugalkuzu sukkal
-5 gur kicib nannaisa dumu urhendursagka
-cunigin 9 5 6 2 5 2 sila ce gur
-cunigin 1 1 gig
+NUMB gur kicib nannaisa dumu urhendursagka
+cunigin NUMB sila ce gur
+cunigin NUMB gig
 ce ura kua gala X
-1 1 5 sila ce
+NUMB sila ce
 sadu iti diri
 mu simanum bahul
-2 4 1 X 4 12 sila ce
-sadu iti 1 3kam
+NUMB X NUMB sila ce
+sadu iti NUMBkam
 mu bad martu badu
 sadu cara u sadu culgi
 ki gududuta
@@ -1475,70 +1475,70 @@ X
 atu dubsar
 dumu nigarkidu
 galagal
-3 12 mana kubabbar
+NUMB mana kubabbar
 sam kuhuca
 ki ensikata
 giri urculpae kudim
-1 1 2 zulum gur
-kubi 1 mana
+NUMB zulum gur
+kubi NUMB mana
 ki urculpaeta
-3 ce gur
-kubi 23 mana
-cunigin 5 mana 1 gin kubabbar
+NUMB ce gur
+kubi NUMB mana
+cunigin NUMB mana NUMB gin kubabbar
 sagnigurakam
 cabita
-1 gu 5 mana uruda
-kubi 12 mana 5 23 gin 1 5 ce
-2 2 gin suhe
-kubi 13 gin 6 ce X
+NUMB gu NUMB mana uruda
+kubi NUMB mana NUMB gin NUMB ce
+NUMB gin suhe
+kubi NUMB gin NUMB ce X
 kicib luenlila
-3 6 23 sila 5 12 ce igec
-kubi 3 23 gin 1 12 ce
-2 esir EA
-kubi 2 4 ce
-2 naga sie
+NUMB sila NUMB ce igec
+kubi NUMB gin NUMB ce
+NUMB esir EA
+kubi NUMB ce
+NUMB naga sie
 kicib X
-1 naga sie kubi 1 2 ce
+NUMB naga sie kubi NUMB ce
 gigir culpaece
 kicib X
-2 naga sie
-kubi 3 ce
+NUMB naga sie
+kubi NUMB ce
 kicib akala acgab
-5 4 1 gu esir had
-kubi 12 mana 1 gin
-4 2 3 sila esir EA
-kubi 8 23 gin 2 4 ce
+NUMB gu esir had
+kubi NUMB mana NUMB gin
+NUMB sila esir EA
+kubi NUMB gin NUMB ce
 kicib adumu
-2 gectin had
-kubi 13 gin
-2 CIM hia
-kubi igi4gal
+NUMB gectin had
+kubi NUMB gin
+NUMB CIM hia
+kubi igiNUMBgal
 ugu lunincubur bagar
-56 mana 3 12 gin 1 12 ce kubabbar
+NUMB mana NUMB gin NUMB ce kubabbar
 diri nigkak
-4 mana nagga
-kubi 1 2 gin
+NUMB mana nagga
+kubi NUMB gin
 gagal ensikace
 kicib lukala
-12 mana kubabbar
+NUMB mana kubabbar
 ku sam kuhuca ca nibru
-12 mana 6 gin kubabbar
+NUMB mana NUMB gin kubabbar
 igikar nin
 urculpae kudim cu bati
-cunigin 3 12 mana 1 56 gin ce kubabbar
+cunigin NUMB mana NUMB gin ce kubabbar
 zigam
-laia 1 12 mana 8 gin igi6gal
+laia NUMB mana NUMB gin igiNUMBgal
 nigkak urdumuzida
 iti dumuzi
 mu en eridu bahun
-3 udu niga
-u 2 3kam
+NUMB udu niga
+u NUMBkam
 ki abasagata
 nalu
 idab
 iti macdagu
 mu huhnuri bahul
-3
+NUMB
 pisanduba
 dub gida
 lugalsaga dubsar zida
@@ -1557,7 +1557,7 @@ igal
 pisanduba
 kicib daba
 a geme
-ugula kikken 4ba
+ugula kikken NUMBba
 igal
 mu cacurum muhul
 pisanduba
@@ -1580,28 +1580,28 @@ catamene
 X cuku zi X halha
 mu ibisuen lugal
 igal
-1 tug niglam saga 
+NUMB tug niglam saga 
  dug kurkudu 
 culgiamu 
 iti lisi 
 mu usa cusuen lugal
-1 3 5 gu 3 5 13 mana siki sumun
+NUMB gu NUMB mana siki sumun
 ekiciba atidazagula
-3 3 gu 1 4 56 mana siki
+NUMB gu NUMB mana siki
 siki apisal
 ekiciba dazagula
-4 gu 1 la 1 mana siki ge
+NUMB gu NUMB la NUMB mana siki ge
 ekiciba atiesag
-1 3 la 5
+NUMB la NUMB
 ki ureta
-4 7 gu 4 6 56 mana siki
+NUMB gu NUMB mana siki
 ekiciba atiesag
 ki kasta
 ekiciba ensika
-2 7 56 mana sikigi
-2 23 mana siki mug
+NUMB mana sikigi
+NUMB mana siki mug
 ki urcara
-2 6 56 mana sikigi
+NUMB mana sikigi
 ki lukala
 pisanduba
 dub gida
@@ -1628,27 +1628,27 @@ mucbiana
 gudena
 igal
 mu amarsuen lugal
-1 2 la 1 gu niga
-7 ab niga
-5 1 gu
-6 4 7 ab
-1 kunganita
-n 2 dusunita
+NUMB la NUMB gu niga
+NUMB ab niga
+NUMB gu
+NUMB ab
+NUMB kunganita
+n NUMB dusunita
 cucuma
 ki nasa
-iti ezemana u 3 bazal
+iti ezemana u NUMB bazal
 mu harci u kimac bahul
-2 gu niga
+NUMB gu niga
 nanna
 a u tena
 lugal kura
-iti u 1 bazal
+iti u NUMB bazal
 ki urcugalamata
 bazi
 ca urima
 iti ezemculgi
 mu en eridu bahun
-2 gu
+NUMB gu
 mubal
 i X
 X
@@ -1707,108 +1707,108 @@ X X X
 mu cacrum bahul
 pisanduba
 girisega ka egal
-u ima iti 4kam balabi 2am
-guruc 6am a buru mu 2kam
-kubi 1 12 gin
-guruc 1 2am a entena
-kubi 2 gin
+u ima iti NUMBkam balabi NUMBam
+guruc NUMBam a buru mu NUMBkam
+kubi NUMB gin
+guruc NUMBam a entena
+kubi NUMB gin
 X ibsusu
 X gemeninmuga mubim
 X adalal mubim
 X
 X
-X u 4kam
-kubi n 13 gin
+X u NUMBkam
+kubi n NUMB gin
 X susudam
 X imta X
-X 7 X
+X NUMB X
 luninumucdakara
 inalae
-iti cunumunta u 1am barazal
-1 dati dumu lugalsa
-1 mea hazanum
-1 inimadingir damgar
-1 urnumucda
+iti cunumunta u NUMBam barazal
+NUMB dati dumu lugalsa
+NUMB mea hazanum
+NUMB inimadingir damgar
+NUMB urnumucda
 lu kiba gubame
 di tila dumu umma
 mu amarsuen lugale urbilum muhul
-1 mac adara
-4 ud dara
-1 sila ga audu hursag
-3 macda
-1 amar macda
-bauc u 1 6kam
+NUMB mac adara
+NUMB ud dara
+NUMB sila ga audu hursag
+NUMB macda
+NUMB amar macda
+bauc u NUMBkam
 ki ludingirata
 urnigar
 cu bati
 iti macdagu
 mu usa kimac u hurti bahul
-2 udu
+NUMB udu
 liptum cu bati
-2 5 udu
-1 u
+NUMB udu
+NUMB u
 n macgal
 X X
 X
 X X
 X mackim
 unuga
-u 2 6kam
+u NUMBkam
 ki dugata bazi
 giri urbaba dubsar
 iti ezemana
 mu en eridu bahun
-2 3 1 udu
-1 udunita kura bauc
+NUMB udu
+NUMB udunita kura bauc
 ki uruta
 kicib lukala
 iti dal
-mu cacrum ara 2kam bahul
+mu cacrum ara NUMBkam bahul
 lukala
 dubsar
 dumu ure cuc
-1 7 geme 3
-7 geme a 12 3
+NUMB geme NUMB
+NUMB geme a NUMB
 iti cesagku
-1 7 geme 3
-7 geme a 12 3
+NUMB geme NUMB
+NUMB geme a NUMB
 iti sigucubagara
-1 7 geme 3
-7 geme a 12 3
+NUMB geme NUMB
+NUMB geme a NUMB
 iti cekaragala
-1 7 geme 3
-7 geme a 12 3
+NUMB geme NUMB
+NUMB geme a NUMB
 iti nesag
-1 7 geme 3
-7 geme a 12 3
+NUMB geme NUMB
+NUMB geme a NUMB
 iti dal
-1 7 geme 3
-7 geme a 12 3
+NUMB geme NUMB
+NUMB geme a NUMB
 iti cunumuna
-1 6 geme 3
-7 geme a 12 3
+NUMB geme NUMB
+NUMB geme a NUMB
 iti minec
-1 6 geme 3
-7 geme a 12 3
-iti eiti6
-1 6 geme 3
-7 geme a 12 3
+NUMB geme NUMB
+NUMB geme a NUMB
+iti eitiNUMB
+NUMB geme NUMB
+NUMB geme a NUMB
 iti lisi
-1 6 geme 3
-7 geme a 12 3
+NUMB geme NUMB
+NUMB geme a NUMB
 iti ezemculgi
-1 6 geme 3
-7 geme a 12 3
+NUMB geme NUMB
+NUMB geme a NUMB
 iti paue
-1 5 geme 3
-7 geme a 12 3
+NUMB geme NUMB
+NUMB geme a NUMB
 iti dumuzi
-cunigin 1 3 2 la 3 geme 3
-cunigin 1 2 4 geme a 12 3
-iti 1 2kam
-geme 3 igi 1 2galbi 1 6 13 5 gin
-geme a 12 3 igi 1 2galbi 7
-sagnigura a geme X ugula ucbar X 1 3 X X
+cunigin NUMB la NUMB geme NUMB
+cunigin NUMB geme a NUMB
+iti NUMBkam
+geme NUMB igi NUMBgalbi NUMB gin
+geme a NUMB igi NUMBgalbi NUMB
+sagnigura a geme X ugula ucbar X NUMB X X
 iti cesagkuta
 iti dumuzice
 mu ibisuen lugal
@@ -1839,27 +1839,27 @@ urmeme
 dumu nigkala
 candana enlila
 ARADzu
-n 1 7 u 1 kir
-2 1 udunita 1 sila ga
-1 3 ud
-1 macnita
-1 acgar du
+n NUMB u NUMB kir
+NUMB udunita NUMB sila ga
+NUMB ud
+NUMB macnita
+NUMB acgar du
 muku
 gubam
-1 udunita
-7 acgar
+NUMB udunita
+NUMB acgar
 kicib caramutum
-8 u 6 udunita
-3 ud
+NUMB u NUMB udunita
+NUMB ud
 kicib giricaraidab
-2 4 u 3 kir ur
-7 udunita 6 sila ur
-3 ud
+NUMB u NUMB kir ur
+NUMB udunita NUMB sila ur
+NUMB ud
 ririga kicib namcatam giricaraidab
-cunigin 1 3 5 u 1 3 kir
-cunigin 2 8 udunita 1 sila
-cunigin 1 6 ud 8 acgar
-cunigin 1 macnita
+cunigin NUMB u NUMB kir
+cunigin NUMB udunita NUMB sila
+cunigin NUMB ud NUMB acgar
+cunigin NUMB macnita
 mu nanna karzida ea banku
 pisanduba
 kicib gabari lu nigdab e NE
@@ -1888,14 +1888,14 @@ lugal urima
 lugal kiengi kiurike
 eani
 munadu
-1 2 7 1 mun gur lugal
-bari 6 sila imtur
-sag sagabi 8 3 2 8 sila gur
-6 1 gazi gur
-bariga 2 imtur
-sag sagabi 2 3 13 sila gur
-1 3 3 sila X
-sag sagabi 3 9 12 sila
+NUMB mun gur lugal
+bari NUMB sila imtur
+sag sagabi NUMB sila gur
+NUMB gazi gur
+bariga NUMB imtur
+sag sagabi NUMB sila gur
+NUMB sila X
+sag sagabi NUMB sila
 nigala
 ki kana
 giri ARADdani
@@ -1906,11 +1906,11 @@ situm
 lu nigdab ugnimkene
 igal
 mu harci
-laia 1 4 la 2 geme u 1ce
+laia NUMB la NUMB geme u NUMBce
 situm nigkak
 geme arua u geme tukule daba
 iti cunumun
-mu karhar ara 3kamac bahulta
+mu karhar ara NUMBkamac bahulta
 iti ezemculgi
 mu ancan bahulce
 urningeczida dumu urbaba susudam
