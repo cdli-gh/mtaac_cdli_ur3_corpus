@@ -152,10 +152,6 @@ o.col3.8.3	1(disz)
 o.col3.8.4	geme2
 o.col3.9.1	sza3-bi-ta
 o.col3.10.1	la2-ia3
-o.col3.10.2	($
-o.col3.10.3	blank
-o.col3.10.4	space
-o.col3.10.5	$)
 o.col3.11.1	la2-ia3
 o.col3.11.2	1(disz)
 o.col3.11.3	i7-a-bi-du10
@@ -552,12 +548,8 @@ o.col7.21.3	lu2-{d}igi-ma-sze3
 o.col7.22.1	dumu
 o.col7.22.2	nin-ku3-ga-ni
 o.col7.23.1	la2-ia3-am3
-o.col7.24.1	($
-o.col7.24.2	blank
-o.col7.24.3	space
-o.col7.24.4	$)
-o.col7.24.5	5(u)
-o.col7.24.6	8(disz)
+o.col7.24.1	5(u)
+o.col7.24.2	8(disz)
 o.col7.25.1	e2
 o.col7.25.2	kikken2
 o.col7.25.3	...

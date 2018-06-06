@@ -519,11 +519,16 @@ class CDLI_query_split_functions(CDLI, common_functions):
     Converts ATF to CoNLL with atf2conll,
     then moves 'output' to corpus and renames it to 'conll'.
     '''
+    path = os.path.abspath(path)
+    command_path = os.path.join(path, "atf")
+    source_path = os.path.join(command_path, "output")
+    dest_path = os.path.join(path, "conll")
     s = subprocesses()
-    command = ['atf2conll', '-i', '%s/atf' %path]
+    command = ['atf2conll', '-i', command_path]
     s.run(command)
-    shutil.move('%s/atf/output' %path,
-                '%s/conll' %path)
+    if os.path.exists(dest_path):
+      shutil.rmtree(dest_path, ignore_errors=True)
+    shutil.move(source_path, dest_path)
     
   def define_types(self):
     '''
@@ -1036,6 +1041,8 @@ class subprocesses(common_functions):
                          stdout=subprocess.PIPE,
                          stderr=subprocess.STDOUT)
     output = self.trace_console(p)
+    if output==None:
+      return None
     self.dump(output, 'atf2conll.log')
       
   def trace_console(self, p):
@@ -1045,6 +1052,7 @@ class subprocesses(common_functions):
         output += line.rstrip().decode('utf-8')+'\n'
     except ValueError:
       print('subprocess stopped.')
+      return None
     return output
 
 # ---/ Main /------------------------------------------------------------------

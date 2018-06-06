@@ -45,13 +45,9 @@ o.col1.12.1	1(u)
 o.col1.12.2	2(disz)
 o.col1.12.3	HAR
 o.col1.12.4	{gesz}pesz3
-o.col1.13.1	($
-o.col1.13.2	blank
-o.col1.13.3	space
-o.col1.13.4	$)
-o.col1.13.5	HAR
-o.col1.13.6	{gesz}sze-du10
-o.col1.13.7	gid2
+o.col1.13.1	HAR
+o.col1.13.2	{gesz}sze-du10
+o.col1.13.3	gid2
 o.col1.14.1	2(u)
 o.col1.14.2	la2
 o.col1.14.3	2(disz)

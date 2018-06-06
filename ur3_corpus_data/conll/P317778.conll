@@ -473,13 +473,9 @@ r.col2.16.9	gin2
 r.col2.17.1	siki
 r.col2.17.2	udu
 r.col2.17.3	{d}szul-gi-si2-im-ti
-r.col2.18.1	($
-r.col2.18.2	blank
-r.col2.18.3	space
-r.col2.18.4	$)
-r.col2.18.5	1(gesz2)
-r.col2.18.6	1(u)
-r.col2.18.7	6(disz)
+r.col2.18.1	1(gesz2)
+r.col2.18.2	1(u)
+r.col2.18.3	6(disz)
 l.col2.1.1	szunigin
 l.col2.1.2	5(gesz2)
 l.col2.1.3	4(disz)
@@ -498,7 +494,3 @@ l.col2.2.10	1(u)
 l.col2.2.11	1(disz)
 l.col2.2.12	gin2
 l.col2.3.1	ki
-l.col2.3.2	($
-l.col2.3.3	blank
-l.col2.3.4	space
-l.col2.3.5	$)
