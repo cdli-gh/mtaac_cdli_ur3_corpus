@@ -5,27 +5,41 @@ import json
 import re
 from pathlib import Path
 
+class Object(object):
+  pass
+
 def is_int(char):
   try:
     int(char)
     return True
   except ValueError:
-    return False  
+    return False
+
+PLACEHOLDERS = ['NUMB']
 
 #---/ATF parser/---------------------------------------------------------------
 #
 class atf_parser:
   
   re_brc = re.compile(r'(\(.+\))')
-  punct_lst = [':', ';', '?', '.', ',', '”', '“']
+  re_translit_comment = re.compile(r'(( |-|)\(\$.+\$\)( |-|))')
   
-  def __init__(self, path, filenames, dest_path, prefix):
+  def __init__(self, path='', filenames='', dest_path='', prefix=''):
+    all_vars = True
+    for v in [path, filenames, dest_path, prefix]:
+      if len(v)==0:
+        all_vars = False
+        break
+    if all_vars==True:
+      self.parse(path, filenames, dest_path, prefix) 
+ 
+  def parse(self, path, filenames, dest_path, prefix):
     self.data = []
     self.texts = []
     if not os.path.exists(dest_path):
       os.makedirs(dest_path)
     self.load_collection(path, filenames)
-    self.parse_data()
+    self.parse_all_data()
     self.export_csv(dest_path, prefix)
     self.export_for_giza(dest_path, prefix)
 
@@ -34,28 +48,36 @@ class atf_parser:
       with codecs.open(path+'/'+f, 'r', 'utf-8') as f:
         self.data+=f.readlines()
 
-  def parse_data(self):
+  def parse_all_data(self):
     for line in self.data:
-      line = line.strip('\n')
-      if line:
-        if '&P' in line and ' = ' in line:
-          if 'CDLI' in locals():
-            self.texts.append({'CDLI': CDLI,
-                               'PUB': PUB,
-                               'lines_lst': lines_lst})
-          CDLI, PUB = line.strip('&').split(' = ', 1)
-          lines_lst = []
-        elif '#tr.en' in line:
-          translation = line.replace('#tr.en', '').strip(' :')
-          lines_lst.append({'no': line_no,
-                            'translit': translit,
-                            'translation': translation,
-                            'normalization': self.normalize(translit)
-                            })
-        elif is_int(line[0]) and '. ' in line:
-          line_no, translit = line.split('. ', 1)
-        else:
-          pass
+      self.parse_line(line)
+
+  def parse_line(self, line):
+    if not hasattr(self, 'O'):
+      self.O = Object()
+    line = line.strip('\n')
+    if line:
+      if '&P' in line and ' = ' in line:
+        if hasattr(self.O, 'CDLI'):
+          self.texts.append({'CDLI': self.O.CDLI,
+                             'PUB': self.O.PUB,
+                             'lines_lst': self.O.lines_lst})
+        self.O.lines_lst = []
+        self.O.CDLI, self.O.PUB = line.strip('&').split(' = ', 1)
+      elif '#tr.en' in line:
+        tlat_str = line.replace('#tr.en', '').strip(' :')
+        tlat_obj = translation(tlat_str)
+        self.O.translation = tlat_obj.processed_str
+        self.O.lines_lst.append({'no': self.O.line_no,
+                               'translit': self.O.translit,
+                               'translation': self.O.translation,
+                               'normalization': \
+                                 self.normalize_tltr(self.O.translit)
+                               })
+      elif is_int(line[0]) and '. ' in line:
+        self.O.line_no, self.O.translit = line.split('. ', 1)
+      else:
+        pass
         # the parser is designed to extract only certain, relevant data.
         # extend here to retrieve other information.
 
@@ -63,8 +85,7 @@ class atf_parser:
     data_str = ''
     for txt in self.texts:
       for l in txt['lines_lst']:
-        data_str+='%s$%s\n' %(l['normalization'],
-                              self.process_trs(l['translation']))
+        data_str+='%s$%s\n' %(l['normalization'], l['translation'])
     self.dump(data_str, path+'/sum_eng_%s.csv' %prefix)
 
   def export_for_giza(self, path, prefix):
@@ -73,34 +94,59 @@ class atf_parser:
     for txt in self.texts:
       for l in txt['lines_lst']:
         data_str_normalization+='%s\n' %l['normalization']
-        data_str_translation+='%s\n' %self.process_trs(l['translation'])
+        data_str_translation+='%s\n' %l['translation']
     self.dump(data_str_normalization, path+'/sumerian_'+prefix)
     self.dump(data_str_translation, path+'/english_'+prefix)
 
-  def normalize(self, translit):
+  def normalize_tltr(self, translit):
     n_lst = []
     if '($' in translit:
-      re_translit_comment = re.compile(r'(( |-|)\(\$.+\$\)( |-|))')
-      translit = re_translit_comment.sub('', translit)
+      #IMPORTANT! this removes comments:
+      translit = self.re_translit_comment.sub('', translit)
     for token in translit.split(' '):
       t = transliteration(token)
-      if t.defective:
-        n = 'X'
-      else:
-        n = t.normalization
-      n_lst.append(n)
+      n = t.normalization
+      if n!=None:
+        if self.prev_same_placeholder_check(n, n_lst)==False:
+          n_lst.append(n)
+        else:
+          n_lst = n_lst[:-1]+[n]
     return ' '.join(n_lst)
+
+  def prev_same_placeholder_check(self, n, n_lst):
+    if n_lst==[]:
+      return False
+    for p in PLACEHOLDERS:
+      if p in n and p==n_lst[-1]:
+        return True
+    return False
+
+  def normalize_trsl(self, tra_str):
+    tra = translation(tra_str)
+    return trt.processed_str
 
   def dump(self, data, filename):
     with codecs.open(filename, 'w', 'utf-8') as dump:
       dump.write(data)
 
-  def process_trs(self, line):
+#---/Translation normalizer/---------------------------------------------------
+#
+class translation:
+
+  re_brc = re.compile(r'(\(.+\))')
+  punct_lst = [':', ';', '?', '.', ',', '”', '“']
+
+  def __init__(self, tra_str):
+    self.trt_str = tra_str
+    self.processed_str = self.process()
+
+  def process(self):
     '''
-    Functions to process translated. 
+    Functions to process translated text for MT. 
     '''
+    line = self.trt_str
     line = self.add_punct_spaces(line)
-    line = self.escape_numbers(line)
+    line = self.escape_numbers_eng(line)
     return line
   
   def add_punct_spaces(self, line):
@@ -126,131 +172,157 @@ class atf_parser:
       i+=1
     return line.strip(' ')
 
-  def escape_numbers(self, line):
+  def escape_numbers_eng(self, line):
     '''
     Replace numbers in translation or sequences of numbers with NUMB.
     '''
-    replace_lst = []
+    new_line = ""
+    new_line_lst = []
     for t in line.split(' '):
       t_clean = t.replace("/", "").replace("…", "")
       if is_int(t_clean)==True or t in ['Ø', 'n', '+', 'n+']:
-        replace_lst.append(t)
+        new_line_lst = self.add_numb_eng(new_line_lst, t)
       elif t[-2:] in ['th', 'st', 'rd', 'nd'] and is_int(t[:-2])==True:
-        line = line.replace(t, "NUMB"+t[-2:])
-        (line, replace_lst) = self.replace_numb(line, replace_lst)
+        new_line_lst.append("ordNUMB")
       else:
-        (line, replace_lst) = self.replace_numb(line, replace_lst)
-    return line
+        new_line_lst.append(t)
+    return " ".join(new_line_lst)
 
-  def replace_numb(self, line, replace_lst):
+  def add_numb_eng(self, new_line_lst, t):
     '''
-    Subfunction of `self.escape_numbers()`.
+    Subfunction of `self.escape_numbers_eng()`.
     '''
-    if len(replace_lst):
-      line = line.replace(" ".join(replace_lst), "NUMB")
-      replace_lst = []
-    return (line, replace_lst)  
+    if new_line_lst==[]:
+      return ["NUMB"]
+    elif new_line_lst[-1]!='NUMB':
+      new_line_lst.append("NUMB")
+    return new_line_lst
 
 #---/ATF normalizer/-----------------------------------------------------------
 #
 class transliteration:
 
+  re_extra_sign = re.compile(r'(( |-|)<<.+>>( |-|))')
+  re_extra = re.compile('(\[|\]|\{\?\}|\{\!\}|\\\|/|<|>)')
+    
+  re_x_index = re.compile(r'(?P<a>[\w])x')
+  re_x_sign = re.compile(r'(ₓ\(.+\))')
+  re_brc = re.compile(r'(\(.+\))')
+  re_source = re.compile(r'(?P<a>.+)(?P<b>\(source:)(?P<c>[^)]+)(?P<d>\))')
+  re_index = re.compile(r'(?P<sign>[^\d]+)(?P<index>\d+)')
+  re_brc_div = re.compile(r'(?P<a>\([^\)]+)(?P<b>-+)(?P<c>[^\(]+\))')
+
+  vow_lst = ['a', 'A', 'e', 'E', 'i', 'I', 'u', 'U']
+  re_last_vow = re.compile(r'(%s)' %('|'.join(vow_lst)))
+  re_times = re.compile(r'(?P<a>[\w])x(?P<b>[\w])')
+
   def __init__(self, translit):
-    self.defective = False
     self.raw_translit = translit
+    translit = self.preporcess_translit(translit)
+    self.check_defective(translit, 'pre')
+    if self.defective==True:
+      self.normalization = 'X'
+      return None
+    self.sign_list = self.get_sign_lst(translit)
+    self.check_defective(translit, 'post')
+    if self.defective==True:
+      self.normalization = 'X'
+      return None
+    self.get_unicode_index_all()
+    self.set_normalizations()
+    
+  def preporcess_translit(self, translit):
     translit = translit.strip(' ')
     translit = translit.replace('source: ', 'source:')
-    if ' ' in translit:
-      self.defective = True
-      return None
-    for expt in ['_', '...', 'line', '(X', 'X)', '.X',
-                 ' X', 'Xbr','-X', 'ṭ', 'ṣ', 'missing']:
-      if expt in translit or expt.lower() in translit.lower():
-        self.defective = True
-        return None
     if '<<' in translit:
-      re_extra_sign = re.compile(r'(( |-|)<<.+>>( |-|))')
-      translit = re_extra_sign.sub('', translit)
-    if translit.lower()!=translit:
-      # ! PROBLEMATIC: TOO MANY SIGNS IGNORED
-      # ! CHANGE THIS
-##      self.defective = True
-##      return None
-      pass
-    extra = re.compile('(\[|\]|\{\?\}|\{\!\}|\\\|/|<|>)')
-    translit = extra.sub('', translit)
+      translit = self.re_extra_sign.sub('', translit)
+    translit = self.re_extra.sub('', translit)
     translit = self.standardize_translit(translit)
     translit = self.remove_determinatives(translit)
     self.base_translit = translit
-    self.sign_list = self.parse_signs(translit)
-    for el in self.sign_list:
-      if 'x' in el['value'].lower() and '×' not in el['value'].lower():
-        self.defective = True
-        return None
-      if '(' in el['value']:
-        pass
-        print([self.raw_translit, self.base_translit, el['value'], self.sign_list])
-    i=0
-    while i < len(self.sign_list):
-      self.sign_list[i] = self.get_unicode_index(self.sign_list[i])
-      i+=1
-    self.set_normalizations()
+    return translit
 
-  def parse_signs(self, translit):
-    signs_lst = []
-    re_x_index = re.compile(r'(?P<a>[\w])x')
-    re_x_sign = re.compile(r'(ₓ\(.+\))')
-    re_brc = re.compile(r'(\(.+\))')
-    re_source = re.compile(r'(?P<a>.+)(?P<b>\(source:)(?P<c>[^)]+)(?P<d>\))')
-    re_index = re.compile(r'(?P<sign>[^\d]+)(?P<index>\d+)')
-    re_brc_div = re.compile(r'(?P<a>\([^\)]+)(?P<b>-+)(?P<c>[^\(]+\))')
-    if re_brc_div.search(translit):
-      translit = re_brc_div.sub(lambda m: m.group().replace('-',"="),
-                                translit)    
-    for sign in list(filter(lambda x: x!='', translit.split('-'))):
-      index = ''
-      emendation = ''
-      value_of = ''
-      if re_x_index.search(sign):
-        sign = re_x_index.sub('\g<a>ₓ', sign)
-      if 'ₓ(' in sign.lower():
-        index='x'
-        value_of = re_x_sign.search(sign).group().strip('ₓ()').replace('=',"-")
-        sign = re_x_sign.sub('', sign)
-      if re_brc.search(sign):
-        if sign[0]=='(' and sign[-1]==')':
-          sign = sign.strip('()')
-        else:
-          value_of = re_brc.search(sign).group().strip('()').replace('=',"-")
-          sign = re_brc.sub('', sign)
-      if 'x' in sign.lower() and len(sign)>1:
+  def check_defective(self, translit, step):
+    self.defective = False
+    if step=="pre":
+      if ' ' in translit:
+        self.defective = True
+      for expt in ['_', '...', 'line', '(X', 'X)', '.X',
+                   ' X', 'Xbr','-X', 'ṭ', 'ṣ', 'missing']:
+        if expt in translit or expt.lower() in translit.lower():
+          self.defective = True
+      if translit.lower()!=translit:
         pass
-      if re_source.search(sign):
-        emendation = re_source.sub(r'\g<c>', sign).replace('=',"-")
-        sign = re_source.sub(r'\g<a>', sign)
-      if re_index.search(sign):
-        i = 0
-        for x in re_index.finditer(sign):
-          if i==0:
-            index = x.groupdict()['index']
-            sign = x.groupdict()['sign']
-          else:
-            pass
-            #print(self.raw_translit, sign, i, x.groupdict()['sign'], x.groupdict()['index'])
-          i+=1
-      signs_lst.append({'value': sign,
-                        'index': index,
-                        'emendation': emendation,
-                        'value_of': value_of
-                        })
+        # ! PROBLEMATIC: TOO MANY SIGNS IGNORED
+        # ! CHANGE THIS
+  ##      self.defective = True
+    elif step=="post":
+      for el in self.sign_list:
+        if 'x' in el['value'].lower() and '×' not in el['value'].lower():
+          self.defective = True
+        if '(' in el['value']:
+          pass
+          print([self.raw_translit, self.base_translit, el['value'],
+                 self.sign_list])
+
+  def get_sign_lst(self, translit):
+    signs_lst = []
+    if self.re_brc_div.search(translit):
+      translit = self.re_brc_div.sub(lambda m: m.group().replace('-',"="),
+                                translit)    
+    for sign_str in list(filter(lambda x: x!='', translit.split('-'))):
+      signs_lst.append(self.parse_sign(sign_str))
     return signs_lst
 
-  def set_normalizations(self):
-    norm_flat_lst = [s['value'] for s in self.sign_list]
-    norm_unicode_lst = [s['u_sign'] for s in self.sign_list]
-    i = 0
+  def parse_sign(self, sign):
+    index = ''
+    emendation = ''
+    value_of = ''
+    if self.re_x_index.search(sign):
+      sign = self.re_x_index.sub('\g<a>ₓ', sign)
+    if 'ₓ(' in sign.lower():
+      index='x'
+      value_of = self.re_x_sign.search(sign).group().strip('ₓ()')\
+                 .replace('=',"-")
+      sign = self.re_x_sign.sub('', sign)
+    if self.re_brc.search(sign):
+      if sign[0]=='(' and sign[-1]==')':
+        sign = sign.strip('()')
+      else:
+        value_of = self.re_brc.search(sign).group().strip('()')\
+                   .replace('=',"-")
+        sign = self.re_brc.sub('', sign)
+    if 'x' in sign.lower() and len(sign)>1:
+      pass
+    if self.re_source.search(sign):
+      emendation = self.re_source.sub(r'\g<c>', sign).replace('=',"-")
+      sign = self.re_source.sub(r'\g<a>', sign)
+    if self.re_index.search(sign):
+      i = 0
+      for x in self.re_index.finditer(sign):
+        if i==0:
+          index = x.groupdict()['index']
+          sign = x.groupdict()['sign']
+        else:
+          pass
+          # CHECK FOR POSSIBLE ERRORS
+          #print(self.raw_translit, sign, i, x.groupdict()['sign'], x.groupdict()['index'])
+        i+=1
+    return {'value': sign,
+            'index': index,
+            'emendation': emendation,
+            'value_of': value_of}
+
+  def set_normalizations(self, placeholders=True):
+    s_lst = self.sign_list
+    norm_flat_lst = [s['value'] for s in s_lst]
+    norm_unicode_lst = [s['u_sign'] for s in s_lst]
+    if placeholders==True:
+      s_lst = self.get_placeholders_lst()
+      norm_flat_lst = [s for s in s_lst]
     self.normalization = ''
     self.normalization_u = ''
+    i = 0
     while i < len(norm_flat_lst):
       if self.normalization:
         if self.normalization[-1]==norm_flat_lst[i][0]:
@@ -263,6 +335,33 @@ class transliteration:
         self.normalization+=norm_flat_lst[i]
         self.normalization_u+=norm_unicode_lst[i]
       i+=1
+
+  def get_placeholders_lst(self):
+    """
+    Returns a list of rule-based placeholders or values.
+    IMPORTANT: ´PLACEHOLDERS´ should contain a full list of possible values.
+    """
+    placeholders_lst = []
+    for s in self.sign_list:
+      if is_int(s['value'][0])==True:
+        placeholders_lst = self.append_if_not_as_last('NUMB',
+                                                      placeholders_lst)
+      # ADD HERE RULES FOR PN, DN etc.
+      # E.g.:
+      # if (s[value], s['index']) in [('lugal', ''), ('lu', '2')]
+      # ADD determinatives handling to class!!!
+      #  for now they are just deleted
+      # NOTE also that PNs can come with cases, e.g. PN-ta 
+      else:
+        placeholders_lst.append(s['value'])
+    return placeholders_lst
+
+  def append_if_not_as_last(self, el, lst):
+    if lst==[]:
+      return [el]
+    if lst[-1]!=el:
+      lst.append(el)
+    return lst
   
   def standardize_translit(self, translit):
     std_dict = {'š':'c', 'ŋ':'j', '₀':'0', '₁':'1', '₂':'2',
@@ -272,36 +371,39 @@ class transliteration:
                 '!':'', '?': ''}
     for key in std_dict.keys():
       translit = translit.replace(key, std_dict[key])
-    times = re.compile(r'(?P<a>[\w])x(?P<b>[\w])')
-    if times.search(translit):
-      translit = times.sub('\g<a>×\g<b>', translit)
+    if self.re_times.search(translit):
+      translit = self.re_times.sub('\g<a>×\g<b>', translit)
     return translit
 
+  def get_unicode_index_all(self):
+    i = 0
+    while i < len(self.sign_list):
+      self.sign_list[i] = self.get_unicode_index(self.sign_list[i])
+      i+=1
+
   def get_unicode_index(self, sign_dict):
-    vow_lst = ['a', 'A', 'e', 'E', 'i', 'I', 'u', 'U']
-    re_last_vow = re.compile(r'(%s)' %('|'.join(vow_lst)))
+
     sign_dict['u_sign'] = sign_dict['value']
     if sign_dict['index'] not in ['', 'x']:
       val = sign_dict['value']
       try:
-        v = re_last_vow.findall(val)[-1]
+        v = self.re_last_vow.findall(val)[-1]
       except:
         print(val, self.raw_translit)
-      esc = chr((vow_lst.index(v)+1)*1000+int(sign_dict['index']))
+      esc = chr((self.vow_lst.index(v)+1)*1000+int(sign_dict['index']))
       i = val.rfind(v)
       u_sign = '%s%s%s' %(val[:i], esc, val[i+1:])
       sign_dict['u_sign']=u_sign
     return sign_dict    
 
-  def revert_unicode_index(self, u_sign):
-    vow_lst = ['a', 'A', 'e', 'E', 'i', 'I', 'u', 'U']    
-    i =0
+  def revert_unicode_index(self, u_sign): 
+    i = 0
     while i < len(u_sign):
       n = ord(u_sign[i])
       if n > 1000:
         vow_i = int(str(n)[0])-1
         index = int(str(n)[2:])
-        return {'value': u_sign[:i]+vow_lst[vow_i]+u_sign[i+1:],
+        return {'value': u_sign[:i]+self.vow_lst[vow_i]+u_sign[i+1:],
                 'index': index}
       i+=1
 
@@ -310,6 +412,9 @@ class transliteration:
     return det.sub('', translit)
 
 #---/CoNLL file functions/-----------------------------------------------------
+#---! NOT IN USE !-------------------------------------------------------------
+#---! MIGHT BE OUTDATED !------------------------------------------------------
+# Check esp. if normalization & placeholders work
 #
 class conll_file:
   '''
@@ -318,9 +423,6 @@ class conll_file:
   def __init__(self, path):
     self.tokens_lst = []
     self.info_dict = {}
-##    self.corpus = 'Secondary'
-##    if 'ORACC Sumerian' in str(path):
-##      self.corpus = 'Primary'
     with codecs.open(str(path.resolve()), 'r', 'utf-8') as f:
       self.data = f.read()
     self.parse()
@@ -396,6 +498,9 @@ class conll_file:
     return True
 
 #---/CoNLL corpus functions/---------------------------------------------------
+#---! NOT IN USE !-------------------------------------------------------------
+#---! MIGHT BE OUTDATED !------------------------------------------------------
+# Check esp. if normalization & placeholders work
 #
 class conll_collection:
   '''
@@ -406,7 +511,6 @@ class conll_collection:
     self.collect_files(conll_path)
     self.make_tokens_dict()
     self.tokens_dict = self.load_tokens_dict()
-    self.export_data()
 
   def collect_files(self, path):
     '''
@@ -420,67 +524,7 @@ class conll_collection:
         self.conll_lst.append(c)
         if 'legend' in c.info_dict.keys():
           self.legends.append(c.info_dict['legend'])
-
-  def export_data(self):
-    pass
-        
-
-##  def export_data(self):
-##    self.export_training_data()
-##    self.export_testing_data()
-##    self.export_training_data(True)
-##    self.export_testing_data(True)
-##    
-##  def export_training_data(self, primary_only=''):
-##    csv_norm_dump = ''
-##    csv_norm_u_dump = ''
-##    primary_prefix=''
-##    if primary_only==True:
-##      primary_prefix='_primary'
-##    for k in self.tokens_dict.keys():
-##      if self.tokens_dict[k]['EX_CLASS']=='train':
-##        if (primary_only==True and self.tokens_dict[k]['CORPUS']=='Primary') or \
-##           primary_only in [False, '']:
-##          csv_norm_dump+='\t'.join([self.tokens_dict[k]['WORD'][0],
-##                                    self.tokens_dict[k]['BASE'][0],
-##                                    self.tokens_dict[k]['POS']+'\n'])
-##          csv_norm_u_dump+='\t'.join([self.tokens_dict[k]['WORD'][1],
-##                                    self.tokens_dict[k]['BASE'][1],
-##                                    self.tokens_dict[k]['POS']+'\n'])
-##    self.dump(csv_norm_dump, 'training_data%s_norm' %(primary_prefix))
-##    self.dump(csv_norm_u_dump, 'training_data%s_norm_u' %(primary_prefix))
-##
-##  def export_testing_data(self, primary_only=''):
-##    csv_norm_dump = ''
-##    csv_norm_u_dump = ''
-##    csv_norm_test_dump = ''
-##    csv_norm_u_test_dump = ''
-##    csv_norm_stem_dump = ''
-##    csv_norm_stem_u_dump = ''
-##    primary_prefix=''
-##    if primary_only==True:
-##      primary_prefix='_primary'
-##    for k in self.tokens_dict.keys():
-##      if self.tokens_dict[k]['EX_CLASS']=='test':
-##        if (primary_only==True and self.tokens_dict[k]['CORPUS']=='Primary') or \
-##           primary_only in [False, '']:
-##          csv_norm_dump+='\t'.join([self.tokens_dict[k]['WORD'][0],
-##                                    self.tokens_dict[k]['BASE'][0],
-##                                    self.tokens_dict[k]['POS']+'\n'])
-##          csv_norm_u_dump+='\t'.join([self.tokens_dict[k]['WORD'][1],
-##                                      self.tokens_dict[k]['BASE'][1],
-##                                      self.tokens_dict[k]['POS']+'\n'])
-##          csv_norm_test_dump+=self.tokens_dict[k]['WORD'][0]+'\n'
-##          csv_norm_u_test_dump+=self.tokens_dict[k]['WORD'][1]+'\n'
-##          csv_norm_stem_dump+=self.tokens_dict[k]['BASE'][0]+'\n'
-##          csv_norm_stem_u_dump+=self.tokens_dict[k]['BASE'][1]+'\n'
-##    self.dump(csv_norm_dump, 'testing_full_data%s_norm' %(primary_prefix))
-##    self.dump(csv_norm_u_dump, 'testing_full_data%s_norm_u' %(primary_prefix))
-##    self.dump(csv_norm_test_dump, 'testing_data%s_norm' %(primary_prefix))
-##    self.dump(csv_norm_u_test_dump, 'testing_data%s_norm_u'%(primary_prefix))
-##    self.dump(csv_norm_stem_dump, 'testing_stem_data%s_norm' %(primary_prefix))
-##    self.dump(csv_norm_stem_u_dump, 'testing_stem_data%s_norm_u'%(primary_prefix))
-
+          
   def make_tokens_dict(self):
     self.tokens_dict = {}
     exx_counter = 0
@@ -510,14 +554,21 @@ class conll_collection:
     with codecs.open(filename, 'w', 'utf-8') as dump:
       dump.write(data)
 
-if __name__ == "__main__":
-  pass
+##if __name__ == "__main__":
+##  pass
 ##  path = Path(
 ##    os.path.join('cdli_atf_20170816_UrIII_admin_translated_public.txt'))
 ##  a = atf_parser(path)
-
-
-
+##
+##lst = ["16 labor-troops (at) 2 ban2 1 sila each for 20 days 1st time,",
+##       "",
+##       "",]
+##
+##a = atf_parser()
+##for l in lst:
+##  print(l+' >>>')
+##  l = a.escape_numbers(l)
+##  print(l)
 
 
 
