@@ -1,0 +1,23 @@
+#new_text=P209610
+# ID	FORM	SEGM	XPOSTAG	HEAD	DEPREL	MISC
+o.1.1	tu-ra	tur[young][-a]	V
+o.1.2	lu2-{d}er3-ra	_	PN
+o.2.1	iti	iti[month]	N
+o.2.2	{d}li9-si4-ta	_	MN
+o.3.1	iti	iti[month]	N
+o.3.2	pa5-u2-e-sze3	_	MN
+r.1.1	ugula	ugula[overseer][-ø]	N
+r.1.2	lu2-du10-ga	Luduga[1]	PN
+r.2.1	kiszib3	kiszib[seal]	N
+r.2.2	kas4	kas[runner][-ra]	N
+r.3.1	mu	mu[year]	N
+r.3.2	us2-sa	us[follow]-a	V
+r.3.3	{d}szu-{d}suen	Szusuen[1]	RN
+r.3.4	lugal-e	lugal[king]-e	N
+r.3.5	bad3	bad[wall]	N
+r.3.6	mar-tu	Martu[1][-ø]	EN
+r.3.7	ba-du3	ba-du[build][-ø]	V
+s1.1.1	en-kas4	_	PN
+s1.2.1	dub-sar	dubsar[scribe]	N
+s1.3.1	dumu	dumu[child]	N
+s1.3.2	ur-{d}isztaran	Urisztaran[1]	PN

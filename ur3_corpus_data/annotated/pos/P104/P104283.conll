@@ -1,0 +1,26 @@
+#new_text=P104283
+# ID	FORM	SEGM	XPOSTAG	HEAD	DEPREL	MISC
+o.1.1	7(disz)	7(disz)[one][-sze]	NU
+o.1.2	udu	udu[sheep]	N
+o.2.1	ki	ki[place]	N
+o.2.2	ka5-a-mu-ta	_	PN
+o.3.1	du11-ga	dug[irrigate]-a	V
+o.3.2	i3-dab5	i[-n]-dab[seize][-ø]	V
+o.4.1	giri3	giri[foot]	N
+o.4.2	an-na-bi2-du11	_	PN
+r.1.1	iti	iti[month]	N
+r.1.2	ezem-{d}szul-gi	Ezemszulgir[1][-'a]	MN
+r.2.1	mu	mu[year]	N
+r.2.2	{d}szu-{d}suen	Szusuen[1]	RN
+r.2.3	lugal	lugal[king]	N
+r.2.4	uri5{ki}-ma-ke4	Urim[1]-ak-e	SN
+r.2.5	ma2-gur8-mah	magurmah[great_barge][-ø]	N
+r.2.6	{d}en-lil2	Enlil[1]	DN
+r.2.7	{d}nin-lil2-ra	Ninlil[1]-ra	DN
+r.2.8	mu-ne-dim2	mu-nnee[-a][-n]-dim[create][-ø]	V
+s1.1.1	du11-ga	dug[irrigate]-a	V
+s1.1.2	dub-sar	dubsar[scribe]	N
+s1.2.1	dumu	dumu[child]	N
+s1.2.2	lu2-{d}nin-gir2-su	Luningirsu[1]	PN
+s1.3.1	sipa	sipa[shepherd]	N
+s1.3.2	na-gab2-tum	nakabtum[stockyard][-ak][-ak]	N

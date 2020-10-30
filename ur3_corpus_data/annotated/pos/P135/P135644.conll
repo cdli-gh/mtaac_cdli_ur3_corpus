@@ -1,0 +1,24 @@
+#new_text=P135644
+# ID	FORM	SEGM	XPOSTAG	HEAD	DEPREL	MISC
+r.1.1	ki	ki[place]	N
+r.1.2	ur-{d}nin-pirig	_	PN
+r.2.1	dumu	dumu[child]	N
+r.2.2	ur-sa6-ga-ta	_	PN
+r.3.1	6(disz)	6(disz)[one][-sze]	NU
+r.3.2	giri3-{d}ba-ba6-i3-dab5	Giribaba’idab[1]	PN
+r.4.1	geme2-{d}utu	_	PN
+r.4.2	mu	mu[year]	N
+r.4.3	erin2	erin[people]	N
+r.4.4	e2	e[house]	N
+r.4.5	szabra-sze3	szabra[chief_administrator][-ak]-sze	N
+r.5.1	ki	ki[place]	N
+r.5.2	ur-tur-tur	_	PN
+r.5.3	nu-banda3-ta	_	N
+r.6.1	sag	sag[head]	N
+r.6.2	munus	munus[woman]	N
+r.6.3	ku3-ta	_	N
+r.6.4	du8-a	du[spread][-a][-ø]	V
+r.7.1	mu	mu[year]	N
+r.7.2	us2-sa-a	_	V
+r.7.3	mu	mu[year]	N
+r.7.4	us2-sa-a-bi	us[follow]-a-bi	V

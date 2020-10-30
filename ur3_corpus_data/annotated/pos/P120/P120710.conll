@@ -1,0 +1,21 @@
+#new_text=P120710
+# ID	FORM	SEGM	XPOSTAG	HEAD	DEPREL	MISC
+o.1.1	1(asz)	1(asz)[one]	NU
+o.1.2	1(barig)	1(bariga)[unit]	NU
+o.1.3	3(ban2)	3(ban)[unit]	NU
+o.1.4	zi3	zid[flour]	N
+o.1.5	sig15	sig[flour_type]	V
+o.2.1	ki	ki[place]	N
+o.2.2	im-ti-dam-ta	_	PN
+o.3.1	kiszib3	kiszib[seal]	N
+o.3.2	a2-na-mu	Anamu[1][-ra]	PN
+r.1.1	iti	iti[month]	N
+r.1.2	sze-sag11-ku5	Szesagku[1][-'a]	MN
+r.2.1	mu	mu[year]	N
+r.2.2	ma2-dara3	_	DN
+r.2.3	ba-ab-du8	ba-b-du[caulk][-ø]	V
+s1.1.1	a2-na-mu	Anamu[1][-ra]	PN
+s1.2.1	muhaldim	_	N
+s1.2.2	lugal	lugal[king]	N
+s1.3.1	dumu	dumu[child]	N
+s1.3.2	lu2-{d}nin-x-zu	_	PN

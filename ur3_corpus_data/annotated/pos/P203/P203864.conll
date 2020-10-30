@@ -1,0 +1,17 @@
+#new_text=P203864
+# ID	FORM	SEGM	XPOSTAG	HEAD	DEPREL	MISC
+o.1.1	pisan-dub-ba	bisagdubak[filing_basket]	N
+o.2.1	dub	dub[tablet]	N
+o.2.2	gid2-da	gid[lengthen]-a[-ø]	V
+o.3.1	ur-{d}nansze	Urnansze[1]	PN
+o.4.1	dumu	dumu[child]	N
+o.4.2	lu2-du10-ga	Luduga[1]	PN
+o.5.1	u3	u[and]	CNJ
+o.5.2	lu2-gi-na	Lugina[1][-ak][-ak]	PN
+o.5.3	dumu	dumu[child]	N
+o.5.4	ur-{d}nin-tu	Urnintu[1][-ak]	PN
+r.1.1	i3-gal2	i[-ni]-gal[be][-ø]	V
+r.2.1	mu	mu[year]	N
+r.2.2	ha-ar-szi{ki}	Harszi[1]	SN
+r.2.3	ki-masz{ki}	Kimasz[1]	SN
+r.2.4	ba-hul	ba-hulu[destroy][-ø]	V

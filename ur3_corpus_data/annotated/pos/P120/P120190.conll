@@ -1,0 +1,12 @@
+#new_text=P120190
+# ID	FORM	SEGM	XPOSTAG	HEAD	DEPREL	MISC
+r.1.1	szu	szu[hand][-e]	N
+r.1.2	ba-ti	ba[-n]-teg[accept][-ø]	V
+r.2.1	gur	gur[unit]	N
+r.2.2	zabar-ta	_	N
+r.3.1	iti	iti[month]	N
+r.3.2	ezem-{d}szul-gi	Ezemszulgir[1][-'a]	MN
+r.4.1	mu	mu[year]	N
+r.4.2	us2-sa	us[follow]-a	V
+r.4.3	ki-masz{ki}	Kimasz[1]	SN
+r.4.4	ba-hul	ba-hulu[destroy][-ø]	V

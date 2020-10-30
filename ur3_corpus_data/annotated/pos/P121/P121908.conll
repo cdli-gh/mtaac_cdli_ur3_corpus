@@ -1,0 +1,22 @@
+#new_text=P121908
+# ID	FORM	SEGM	XPOSTAG	HEAD	DEPREL	MISC
+o.1.1	7(disz)	7(disz)[one][-sze]	NU
+o.1.2	szer7-um	_	N
+o.2.1	us2-bi	_	V
+o.2.2	ninda-ta	nindan[unit]-ta	N
+o.3.1	su7	_	N
+o.3.2	kusz3	kusz[unit]	N
+o.3.3	4(disz)-ta	_	NU
+o.4.1	ma2	ma[ship]	N
+o.4.2	ninda-sze3	_	N
+r.1.1	ki	ki[place]	N
+r.1.2	a-gu-ta	Agu[1][-ak]-ta	PN
+r.2.1	kiszib3	kiszib[seal]	N
+r.2.2	lu2-e2	_	PN
+r.3.1	mu	mu[year]	N
+r.3.2	us2-sa	us[follow]-a	V
+r.3.3	bad3	bad[wall]	N
+r.3.4	mar-tu	Martu[1][-ø]	EN
+r.3.5	ba-du3	ba-du[build][-ø]	V
+r.3.6	mu	mu[year]	N
+r.3.7	us2-sa-a-bi	us[follow]-a-bi	V

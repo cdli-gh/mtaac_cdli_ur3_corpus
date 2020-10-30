@@ -1,0 +1,20 @@
+#new_text=P142527
+# ID	FORM	SEGM	XPOSTAG	HEAD	DEPREL	MISC
+o.1.1	...	_[_]	PN
+o.2'.1	szu-{d}en-lil2	Szu'enlil[1][-ra]	PN
+o.2'.2	aga3-us2-gal	aga'usgal[head_soldier][-ra]	N
+o.3'.1	1(disz)	1(disz)[one]	NU
+o.3'.2	sila3	sila[unit]	N
+o.3'.3	i3-gesz	igesz[oil]	V
+o.3'.4	sza3-iri	Sza'iri[1][-ra]	PN
+o.4'.1	1(disz)	1(disz)[one]	NU
+o.4'.2	sila3	sila[unit]	N
+o.4'.3	i3-gesz	igesz[oil]	V
+o.4'.4	kaskal-sze3	kaskal[journey]-sze	N
+o.5'.1	elam	Elam[1][-ak]	EN
+o.5'.2	an-sza-an{ki}-me	_	GN
+o.6'.1	giri3	giri[foot]	N
+o.6'.2	szu-{d}en-lil2	Szu'enlil[1][-ra]	PN
+o.6'.3	aga3-us2-gal	aga'usgal[head_soldier][-ra]	N
+o.7'.1	ki-masz{ki}-sze3	_	SN
+o.7'.2	du-ni	du[go][-ed]-ani[-'a]	V

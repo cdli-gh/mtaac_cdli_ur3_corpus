@@ -1,0 +1,9 @@
+#new_text=P120235
+# ID	FORM	SEGM	XPOSTAG	HEAD	DEPREL	MISC
+r.1.1	iti	iti[month]	N
+r.1.2	szu-numun	Szunumun[1][-'a]	MN
+r.2.1	mu	mu[year]	N
+r.2.2	en-mah-gal-an-na	Enmahgalana[1]	PN
+r.2.3	en	en[priest]	N
+r.2.4	{d}nanna	Nanna[1][-ak]	DN
+r.2.5	ba-hun-ga2	ba-hug[hire][-ø]	V

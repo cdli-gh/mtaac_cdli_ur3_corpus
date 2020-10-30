@@ -1,0 +1,23 @@
+#new_text=P340720
+# ID	FORM	SEGM	XPOSTAG	HEAD	DEPREL	MISC
+o.1.1	1(disz)	1(disz)[one]	NU
+o.1.2	{gi}gur	gur[measuring_vessel]	N
+o.2.1	a-bala-e	_	DET
+o.3.1	gu2	gun[unit]	N
+o.3.2	tul2	tul[ditch][-ø]	V
+o.3.3	nag	_	V
+o.3.4	lugal-sze3	lugal[king][-ak]-sze	N
+o.4.1	ki	ki[place]	N
+o.4.2	u2-li-li2-isz	_	PN
+o.5.1	ki	ki[place]	N
+o.5.2	a-gu-ta	Agu[1][-ak]-ta	PN
+r.1.1	iti	iti[month]	N
+r.1.2	a2-ki-ti	Akiti[1][-'a]	N
+r.2.1	mu	mu[year]	N
+r.2.2	si-ma-num2{ki}	Simanum[1][-ø]	GN
+r.2.3	ba-hul	ba-hulu[destroy][-ø]	V
+s1.1.1	ur-{d}nun-gal	Urnungal[1][-ak]	PN
+s1.2.1	dub-sar	dubsar[scribe]	N
+s1.3.1	dumu	dumu[child]	N
+s1.3.2	ur-{d}szara2	Urszara[1]	PN
+s1.4.1	sza13-dub-ba-ka	bisagdubak[archivist][-ak]	N

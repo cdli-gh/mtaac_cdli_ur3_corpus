@@ -1,0 +1,19 @@
+#new_text=P112455
+# ID	FORM	SEGM	XPOSTAG	HEAD	DEPREL	MISC
+o.1.1	pisan-dub-ba	bisagdubak[filing_basket]	N
+o.2.1	gar-gar-a	_	PN
+o.3.1	tug2	tug[textile]	N
+o.3.2	i3	i[oil]	N
+o.3.3	sza3-ze2	_	PN
+r.1.1	u3	u[and]	CNJ
+r.1.2	gaba-ri	gabari[copy]	N
+r.2.1	kiszib3	kiszib[seal]	N
+r.2.2	szesz-kal-la	Szeszkala[1][-ra]	PN
+r.3.1	1(disz)	1(disz)[one]	NU
+r.3.2	gesz	gesz[tree]	N
+r.3.3	gal	gal[big][-ø]	V
+r.3.4	mu	mu[year]	N
+r.3.5	sar-ra	_	V
+r.3.6	BAD	_	PN
+r.4.1	lugal-igi-du8	_	PN
+r.5.1	i3-gal2	i[-ni]-gal[be][-ø]	V

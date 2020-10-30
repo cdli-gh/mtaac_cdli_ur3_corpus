@@ -1,0 +1,24 @@
+#new_text=P109746
+# ID	FORM	SEGM	XPOSTAG	HEAD	DEPREL	MISC
+o.1.1	1(disz)	1(disz)[one]	NU
+o.1.2	udu	udu[sheep]	N
+o.1.3	a-lum	aslum[sheep_type]	N
+o.1.4	niga	niga[fattened][-ø]	V
+o.2.1	1(disz)	1(disz)[one]	NU
+o.2.2	masz2-gal	maszgal[billy_goat]	N
+o.2.3	babbar	_	AJ
+o.3.1	ba-usz2	ba-ug[die][-esz]	V
+o.3.2	u4	ud[day]	N
+o.3.3	1(u)	1(u)[ten]	NU
+o.3.4	7(disz)-kam	7(disz)[one]-ak-am[-'a]	NU
+o.4.1	ki	ki[place]	N
+o.4.2	u2-ta2-mi-szar-ra-am-ta	_	PN
+r.1.1	{d}szul-gi-iri-mu	Szulgi'irimu[1][-e]	PN
+r.2.1	szu	szu[hand][-e]	N
+r.2.2	ba-ti	ba[-n]-teg[accept][-ø]	V
+r.3.1	iti	iti[month]	N
+r.3.2	sze-sag11-ku5	Szesagku[1][-'a]	MN
+r.4.1	mu	mu[year]	N
+r.4.2	hu-uh2-nu-ri{ki}	Huhnuri[1][-ø]	GN
+r.4.3	ba-hul	ba-hulu[destroy][-ø]	V
+l.1.1	2(disz)	2(disz)[one]	NU

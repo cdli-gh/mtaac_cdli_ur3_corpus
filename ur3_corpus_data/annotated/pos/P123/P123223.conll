@@ -1,0 +1,27 @@
+#new_text=P123223
+# ID	FORM	SEGM	XPOSTAG	HEAD	DEPREL	MISC
+o.1.1	geme2-{d}gesztin-an-ka	_	PN
+o.2.1	geme2	geme[female_worker]	N
+o.2.2	szesz-kal-la	Szeszkala[1][-ra]	PN
+o.3.1	4(disz)	4(disz)[one]	NU
+o.3.2	gin2	gig[unit]	N
+o.3.3	ku3-babbar-sze3	_	N
+o.4.1	lu2-{d}szara2	Luszara[1][-ak]	PN
+o.4.2	dam-gar3	damgar[merchant][-ak]	N
+o.5.1	in-szi-sa10	i-nn-szi[-n]-sa[pay_for][-ø][-a]	V
+o.6.1	ur-da-da	_	PN
+o.7.1	dumu	dumu[child]	N
+o.7.2	lu2-me-lam2	_	PN
+r.1.1	a-da-ga	Adaga[1]	PN
+r.2.1	dumu	dumu[child]	N
+r.2.2	a-ab-ba-mu	Ayabbamu[1][-ra]	PN
+r.3.1	dingir-ra-am3	_	PN
+r.4.1	dumu	dumu[child]	N
+r.4.2	lugal-pa-e3	Lugalpa’e[1]	PN
+r.5.1	ur-am3-ma	Uramma[1][-ak]	PN
+r.5.2	dam-gar3	damgar[merchant][-ak]	N
+r.6.1	lu2-inim-ma-bi-me	lu'inimak[witness]-bi[-ø]-mesz	N
+r.7.1	mu	mu[year]	N
+r.7.2	e2	e[house]	N
+r.7.3	puzur4-isz-{d}da-gan	Puzuriszdagan[1][-ø]	SN
+r.7.4	ba-du3	ba-du[build][-ø]	V

@@ -1,0 +1,22 @@
+#new_text=P129732
+# ID	FORM	SEGM	XPOSTAG	HEAD	DEPREL	MISC
+o.1.1	pisan-dub-ba	bisagdubak[filing_basket]	N
+o.2.1	e2-tum	bitum[administrative_term]	PN
+o.3.1	sag-nig2-gur11-ra	sagnigGArak[available_assets]	N
+o.4.1	u3	u[and]	CNJ
+o.4.2	zi-ga	zig[expend]-a	V
+o.5.1	ki	ki[place]	N
+o.5.2	lu2-dingir-ra	Ludingira[1][-ra]	PN
+o.5.3	dumu	dumu[child]	N
+o.5.4	inim-{d}szara2-ta	_	PN
+r.1.1	iti	iti[month]	N
+r.1.2	a2-ki-ti-ta	_	MN
+r.2.1	iti	iti[month]	N
+r.2.2	ezem-an-na-sze3	_	MN
+r.3.1	iti	iti[month]	N
+r.3.2	5(disz)-kam	5(disz)[one]-ak-am[-ak][-ø]	NU
+r.4.1	mu	mu[year]	N
+r.4.2	ha-ar-szi{ki}	Harszi[1]	SN
+r.4.3	u3	u[and]	CNJ
+r.4.4	ki-masz{ki}	Kimasz[1]	SN
+r.4.5	ba-hul	ba-hulu[destroy][-ø]	V

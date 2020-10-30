@@ -1,0 +1,18 @@
+#new_text=P117495
+# ID	FORM	SEGM	XPOSTAG	HEAD	DEPREL	MISC
+o.1.1	7(disz)	7(disz)[one][-sze]	NU
+o.1.2	{uruda}gur10	_	N
+o.2.1	ki	ki[place]	N
+o.2.2	lu2-he2-gal2-ta	_	PN
+o.3.1	4(disz)	4(disz)[one]	NU
+o.3.2	ki	ki[place]	N
+o.3.3	szesz-kal-la	Szeszkala[1][-ra]	PN
+o.3.4	gu-za-la2-ta	_	N
+o.4.1	2(disz)	2(disz)[one]	NU
+o.4.2	ki	ki[place]	N
+o.4.3	szesz-kal-la	Szeszkala[1][-ra]	PN
+o.4.4	dumu	dumu[child]	N
+o.4.5	na-silim-ta	Nasilim[1][-ak][-ak]-ta	PN
+r.1.1	mu-kux(DU)	mukur[delivery][-ø]	N
+r.2.1	iti	iti[month]	N
+r.2.2	ezem-{d}me-ki-gal2	Ezemmekigal[1]-['a]	MN

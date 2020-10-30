@@ -1,0 +1,17 @@
+#new_text=P104940
+# ID	FORM	SEGM	XPOSTAG	HEAD	DEPREL	MISC
+o.1.1	3(u)	3(u)[ten]	NU
+o.1.2	8(disz)	8(disz)[one]	NU
+o.1.3	udu	udu[sheep]	N
+o.2.1	7(disz)	7(disz)[one][-sze]	NU
+o.2.2	masz2	masz[goat]	N
+o.3.1	si-i3-tum	situm[balance]	N
+o.3.2	nig2-ka9-ak	nigSZID[account]	N
+o.4.1	ur-{d}nansze	Urnansze[1]	PN
+o.4.2	dumu	dumu[child]	N
+o.4.3	ur-li-ke4	_	PN
+r.1.1	su-su-dam	sug-sug[repay]-ed[-ø]-am	PN
+r.2.1	mu	mu[year]	N
+r.2.2	en-unu6-gal	Enunugal[1]	PN
+r.2.3	{d}inanna	Inanna[1][-ak]	DN
+r.2.4	ba-hun	ba-hug[hire][-ø]	V

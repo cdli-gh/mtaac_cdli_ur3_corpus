@@ -1,0 +1,24 @@
+#new_text=P142563
+# ID	FORM	SEGM	XPOSTAG	HEAD	DEPREL	MISC
+o.1'.1	...	_[_]	PN
+o.2'.1	...-x-de3-esz	_	V
+r.1'.1	...	_[_]	PN
+r.1'.2	x-{d}ba-ba6-ke4	_	DN
+r.2'.1	mu	mu[year]	N
+r.2'.2	lugal	lugal[king]	N
+r.2'.3	tukum-bi	tukumbi[if]	CNJ
+r.2'.4	u4-da-ta	_	N
+r.3'.1	ur-{d}sza-u18-sza	_	PN
+r.3'.2	u3	u[and]	CNJ
+r.3'.3	dumu-mu-ne	_	N
+r.3'.4	ha-ba-zah3-de3-esz	_	V
+r.4'.1	x	_[_]	N
+r.4'.2	geme2	geme[female_worker]	N
+r.4'.3	x	_[_]	N
+r.4'.4	...	_[_]	PN
+r.4'.5	NE	ne[unknown]	MN
+r.4'.6	x	_[_]	N
+r.4'.7	...	_[_]	PN
+r.4'.8	x	_[_]	N
+r.4'.9	...	_[_]	PN
+r.4'.10	x	_[_]	N

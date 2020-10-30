@@ -1,0 +1,15 @@
+#new_text=P227066
+# ID	FORM	SEGM	XPOSTAG	HEAD	DEPREL	MISC
+a.col1.1'.1	...-DI	_	PN
+a.col1.2'.1	...-gar	_	PN
+a.col1.3'.1	...	_[_]	PN
+a.col1.3'.2	x	_[_]	N
+a.col2.1'.1	...	_[_]	PN
+a.col2.1'.2	x	_[_]	N
+a.col2.2'.1	1(disz)	1(disz)[one]	NU
+a.col2.2'.2	sila3	sila[unit]	N
+a.col2.2'.3	kasz	kasz[beer]	N
+a.col2.2'.4	...	_[_]	PN
+a.col2.3'.1	U	_	 
+a.col2.3'.2	x	_[_]	N
+a.col2.3'.3	...	_[_]	PN

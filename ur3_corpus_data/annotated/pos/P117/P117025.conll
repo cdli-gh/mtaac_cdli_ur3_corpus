@@ -1,0 +1,23 @@
+#new_text=P117025
+# ID	FORM	SEGM	XPOSTAG	HEAD	DEPREL	MISC
+o.1.1	8(disz)	8(disz)[one]	NU
+o.1.2	{uruda}ha-bu3-da	habuda[hoe]	N
+o.2.1	ki-la2-bi	kila[weight]-bi[-ø]	N
+o.2.2	2/3(disz)	2/3(disz)[one]	NU
+o.2.3	ma-na	mana[unit]	N
+o.3.1	1(u)	1(u)[ten]	NU
+o.3.2	2(disz)	2(disz)[one]	NU
+o.3.3	{uruda}gurx(|SZE.KIN|)	_	N
+o.4.1	ki-la2-bi	kila[weight]-bi[-ø]	N
+o.4.2	...	_[_]	PN
+o.4.3	3(disz)	3(disz)[one]	NU
+o.4.4	gin2	gig[unit]	N
+o.5.1	ki	ki[place]	N
+o.5.2	na-ba-sa2-ta	_	PN
+r.1.1	x	_[_]	N
+r.1.2	...	_[_]	PN
+r.2.1	iti	iti[month]	N
+r.2.2	diri	diri[intercalary_month]	N
+r.3.1	mu	mu[year]	N
+r.3.2	ki-masz{ki}	Kimasz[1]	SN
+r.3.3	ba-hul	ba-hulu[destroy][-ø]	V

@@ -1,0 +1,17 @@
+#new_text=P218181
+# ID	FORM	SEGM	XPOSTAG	HEAD	DEPREL	MISC
+o.1.1	4(u)	4(u)[ten]	NU
+o.1.2	u8	u[ewe]	N
+o.2.1	ki	ki[place]	N
+o.2.2	ab-ba-sa6-ga-ta	Abbasaga[1][-ak]-ta	PN
+o.3.1	szu-{d}da-gan	_	PN
+o.3.2	i3-dab5	i[-n]-dab[seize][-ø]	V
+o.4.1	giri3	giri[foot]	N
+o.4.2	{d}nansze-kam	_	PN
+r.1.1	iti	iti[month]	N
+r.1.2	NE-NE-gar	_	PN
+r.2.1	mu	mu[year]	N
+r.2.2	en-mah-gal-an-na	Enmahgalana[1]	PN
+r.2.3	en	en[priest]	N
+r.2.4	{d}nanna	Nanna[1][-ak]	DN
+r.2.5	ba-hun	ba-hug[hire][-ø]	V

@@ -1,0 +1,19 @@
+#new_text=P103521
+# ID	FORM	SEGM	XPOSTAG	HEAD	DEPREL	MISC
+o.1.1	2(u)	2(u)[ten]	NU
+o.1.2	sila4	sila[lamb]	N
+o.2.1	5(disz)	5(disz)[one]	NU
+o.2.2	masz2	masz[goat]	N
+o.3.1	u4	ud[day]	N
+o.3.2	1(disz)-kam	1(disz)[one]-ak-am	NU
+o.4.1	ki	ki[place]	N
+o.4.2	ab-ba-sa6-ga-ta	Abbasaga[1][-ak]-ta	PN
+r.1.1	in-ta-e3-a	Inta'e'a[1][-e]	PN
+r.2.1	sza3	szag[heart]	N
+r.2.2	uri5{ki}-ma	Urim[1]-ak	SN
+r.3.1	iti	iti[month]	N
+r.3.2	ezem-{d}...	_	MN
+r.4.1	mu	mu[year]	N
+r.4.2	en-unu6-gal	Enunugal[1]	PN
+r.4.3	{d}inanna	Inanna[1][-ak]	DN
+r.4.4	ba-hun	ba-hug[hire][-ø]	V

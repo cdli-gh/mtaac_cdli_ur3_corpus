@@ -1,0 +1,23 @@
+#new_text=P133613
+# ID	FORM	SEGM	XPOSTAG	HEAD	DEPREL	MISC
+o.1.1	7(disz)	7(disz)[one][-sze]	NU
+o.1.2	...	_[_]	PN
+o.2.1	ri-ri-ga	deg[collect]-a	V
+o.3.1	lu2-{d}na-ru2-a	_	PN
+o.3.2	sipa	sipa[shepherd]	N
+o.3.3	a-ru-a	_	GN
+o.4.1	e2	e[house]	N
+o.4.2	{d}nin-mar{ki}-ka	_	PN
+o.5.1	nam-erim2-bi	_	N
+o.5.2	i3-ku5	_	PN
+r.1.1	giri3	giri[foot]	N
+r.1.2	lu2-{d}nin-gir2-su	Luningirsu[1]	PN
+r.2.1	szabra-e2	_	PN
+r.3.1	giri3	giri[foot]	N
+r.3.2	ba-zi	ba-zig[expend][-ø]	PN
+r.4.1	u3	u[and]	CNJ
+r.4.2	lu2-ba-gara2	Lubagara[1][-ak]	PN
+r.5.1	mu	mu[year]	N
+r.5.2	en	en[priest]	N
+r.5.3	eridu{ki}	Eridug[1][-ak][-ø]	SN
+r.5.4	ba-a-hun	ba-hug[hire][-ø]	V

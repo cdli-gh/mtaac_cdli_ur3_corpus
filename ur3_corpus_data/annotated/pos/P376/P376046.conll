@@ -1,0 +1,20 @@
+#new_text=P376046
+# ID	FORM	SEGM	XPOSTAG	HEAD	DEPREL	MISC
+o.1.1	...	_[_]	PN
+o.1.2	dur3	_	N
+o.2.1	{d}szu-{d}suen	Szusuen[1]	RN
+o.3.1	...	_[_]	PN
+o.3.2	eme3-mah2	ememah[mature_donkey]	N
+o.4.1	...	_[_]	PN
+o.4.2	dur3	_	N
+o.5.1	lu2	lu[person]	N
+o.5.2	bu3-bu3	_	PN
+o.6.1	...	_[_]	PN
+o.6.2	gu2	gun[unit]	N
+o.6.3	iri	iri[city]	N
+o.7.1	ki	ki[place]	N
+o.7.2	za-la-a	_	N
+r.1.1	ka	kag[mouth]	N
+r.1.2	szu-du8-a	_	N
+r.2.1	{d}ne3-eri11-gal	_	DN
+r.2.2	gar-sza-{ki}-ka	_	SN

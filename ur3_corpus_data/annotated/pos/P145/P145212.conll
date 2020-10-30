@@ -1,0 +1,26 @@
+#new_text=P145212
+# ID	FORM	SEGM	XPOSTAG	HEAD	DEPREL	MISC
+o.1.1	1(disz)	1(disz)[one]	NU
+o.1.2	masz2	masz[goat]	N
+o.2.1	a-bu-um-dingir	_	PN
+o.2.2	ra2-gaba	ragaba[rider]	N
+o.3.1	1(disz)	1(disz)[one]	NU
+o.3.2	sila4	sila[lamb]	N
+o.3.3	mu-ni-mah	_	PN
+o.4.1	1(disz)	1(disz)[one]	NU
+o.4.2	sila4	sila[lamb]	N
+o.4.3	nu-ur2-{d}suen	_	PN
+o.5.1	mu-kux(DU)	mukur[delivery][-ø]	N
+o.6.1	da-a-a	_	PN
+r.1.1	nu-ur2-i3-li2	Nurili[1]	PN
+r.2.1	i3-dab5	i[-n]-dab[seize][-ø]	V
+r.3.1	iti	iti[month]	N
+r.3.2	ezem-{d}szul-gi	Ezemszulgir[1][-'a]	MN
+r.4.1	u4	ud[day]	N
+r.4.2	6(disz)-kam	6(disz)[one]-ak-am	NU
+r.5.1	mu	mu[year]	N
+r.5.2	dumu-munus	dumumunus[daughter]	N
+r.5.3	lugal	lugal[king]	N
+r.5.4	ensi2	ensik[ruler]	N
+r.5.5	za-ab-sza-li{ki}-ke4	_	SN
+r.5.6	ba-an-tuku	_	V

@@ -1,0 +1,23 @@
+#new_text=P123692
+# ID	FORM	SEGM	XPOSTAG	HEAD	DEPREL	MISC
+o.1.1	1(disz)	1(disz)[one]	NU
+o.1.2	szeg9-bar-nita2	_	PN
+o.2.1	1(disz)	1(disz)[one]	NU
+o.2.2	szeg9-bar-munus	_	N
+o.3.1	mu-kux(DU)	mukur[delivery][-ø]	N
+o.3.2	lugal	lugal[king]	N
+o.4.1	ki	ki[place]	N
+o.4.2	na-ra-am-i3-li2-ta	_	PN
+o.5.1	se-lu-usz-{d}da-gan	_	PN
+r.1.1	i3-dab5	i[-n]-dab[seize][-ø]	V
+r.2.1	iti	iti[month]	N
+r.2.2	szu-esz5-sza	Szu'eszsza[1][-'a]	MN
+r.3.1	mu	mu[year]	N
+r.3.2	ha-ar-szi{ki}	Harszi[1]	SN
+r.3.3	ki-masz{ki}	Kimasz[1]	SN
+r.3.4	hu-ur5-ti{ki}	Hurti[1][-ø]	GN
+r.3.5	u3	u[and]	CNJ
+r.3.6	ma-da-bi	mada[land]-bi[[-ø]	N
+r.3.7	u4	ud[day]	N
+r.3.8	asz-a	_	NU
+r.3.9	ba-hul	ba-hulu[destroy][-ø]	V

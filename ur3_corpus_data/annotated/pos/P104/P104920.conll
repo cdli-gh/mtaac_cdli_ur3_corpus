@@ -1,0 +1,23 @@
+#new_text=P104920
+# ID	FORM	SEGM	XPOSTAG	HEAD	DEPREL	MISC
+o.1.1	1(gesz2)	1(gesz)[sixty]	NU
+o.1.2	1(u)	1(u)[ten]	NU
+o.1.3	6(asz)	6(asz)[one]	NU
+o.1.4	4(barig)	4(bariga)[unit]	NU
+o.1.5	sze	sze[barley]	N
+o.1.6	gur	gur[unit]	N
+o.1.7	lugal	lugal[king]	N
+o.2.1	zi3	zid[flour]	N
+o.2.2	KA-sze3	KA[flour type]-sze	N
+o.3.1	ki	ki[place]	N
+o.3.2	gu3-de2-a-ta	_	PN
+o.4.1	na-ba-sa6	Nabasa[1][-ak]	PN
+r.1.1	szu	szu[hand][-e]	N
+r.1.2	ba-ti	ba[-n]-teg[accept][-ø]	V
+r.2.1	giri3	giri[foot]	N
+r.2.2	al-la	Alla[1]	PN
+r.3.1	i3-dub	idub[granary]	N
+r.3.2	e2-nam-du-du	_	PN
+r.4.1	mu	mu[year]	N
+r.4.2	si-ma-num2{ki}	Simanum[1][-ø]	GN
+r.4.3	ba-hul	ba-hulu[destroy][-ø]	V

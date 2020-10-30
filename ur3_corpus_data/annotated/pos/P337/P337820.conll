@@ -1,0 +1,13 @@
+#new_text=P337820
+# ID	FORM	SEGM	XPOSTAG	HEAD	DEPREL	MISC
+r.1'.1	iti	iti[month]	N
+r.1'.2	masz-da3-gu7	Maszdagu[1][-'a]	MN
+r.2'.1	mu	mu[year]	N
+r.2'.2	us2-sa	us[follow]-a	V
+r.2'.3	si-ma-num2	Simanum[1][-ø]	PN
+r.2'.4	...	_[_]	PN
+s1.1.1	x-na-ab-da	_	PN
+s1.2.1	dumu	dumu[child]	N
+s1.2.2	gu-za-ni	Guzani[1][-e]	PN
+s1.3.1	x	_[_]	N
+s1.3.2	...	_[_]	PN

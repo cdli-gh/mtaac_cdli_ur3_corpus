@@ -1,0 +1,18 @@
+#new_text=P126725
+# ID	FORM	SEGM	XPOSTAG	HEAD	DEPREL	MISC
+o.1.1	1(disz)	1(disz)[one]	NU
+o.1.2	masz2	masz[goat]	N
+o.2.1	szu-esz18-dar	Szu'eszdar[1][-ak]	PN
+o.3.1	1(disz)	1(disz)[one]	NU
+o.3.2	masz2	masz[goat]	N
+o.4.1	gur11-ra-a	_	V
+r.1.1	mu-kux(DU)	mukur[delivery][-ø]	N
+r.1.2	{d}szul-gi-si2-im-ti	_	PN
+r.2.1	{d}szul-gi-i3-li2	Szulgirili[1][-ak][-ra]	PN
+r.3.1	i3-dab5	i[-n]-dab[seize][-ø]	V
+r.4.1	iti	iti[month]	N
+r.4.2	ezem-{d}szul-gi	Ezemszulgir[1][-'a]	MN
+r.5.1	mu	mu[year]	N
+r.5.2	us2-sa	us[follow]-a	V
+r.5.3	ki-masz{ki}	Kimasz[1]	SN
+r.5.4	ba-hul	ba-hulu[destroy][-ø]	V

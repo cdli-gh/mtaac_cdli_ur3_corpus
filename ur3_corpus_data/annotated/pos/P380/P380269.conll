@@ -1,0 +1,26 @@
+#new_text=P380269
+# ID	FORM	SEGM	XPOSTAG	HEAD	DEPREL	MISC
+o.1.1	1(gesz2)	1(gesz)[sixty]	NU
+o.1.2	4(u)	4(u)[ten]	NU
+o.1.3	5(asz)	5(asz)[one]	NU
+o.1.4	1(barig)	1(bariga)[unit]	NU
+o.1.5	4(ban2)	4(ban)[unit]	NU
+o.1.6	sze	sze[barley]	N
+o.1.7	gur	gur[unit]	N
+o.2.1	sze	sze[barley]	N
+o.2.2	zi3	zid[flour]	N
+o.2.3	KA	ka[mouth]	N
+o.3.1	e2	e[house]	N
+o.3.2	{d}nin-gir2-su	Ningirsu[1][-ak][-ak]	DN
+o.4.1	ki	ki[place]	N
+o.4.2	{d}lamma-iri-na-ta	_	PN
+r.1.1	ur-{d}ba-ba6	Urbaba[1]	PN
+r.2.1	szu	szu[hand][-e]	N
+r.2.2	ba-ti	ba[-n]-teg[accept][-ø]	V
+r.3.1	iti	iti[month]	N
+r.3.2	sze-sag11-ku5	Szesagku[1][-'a]	MN
+r.4.1	mu	mu[year]	N
+r.4.2	en	en[priest]	N
+r.4.3	{d}inanna	Inanna[1][-ak]	DN
+r.4.4	masz-e	masz[goat]-e	N
+r.4.5	i3-pa3	i-pad[find][-ø]	V

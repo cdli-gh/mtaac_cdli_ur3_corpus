@@ -1,0 +1,27 @@
+#new_text=P103207
+# ID	FORM	SEGM	XPOSTAG	HEAD	DEPREL	MISC
+o.1.1	1(disz)	1(disz)[one]	NU
+o.1.2	gu4	gud[ox]	N
+o.2.1	u4	ud[day]	N
+o.2.2	3(disz)-kam	3(disz)[one]-ak-am	NU
+o.3.1	1(disz)	1(disz)[one]	NU
+o.3.2	ab2	ab[cow][-ø]	N
+o.4.1	u4	ud[day]	N
+o.4.2	2(u)	2(u)[ten]	NU
+o.4.3	5(disz)-kam	5(disz)[one]-ak-am[-ak][-ø]	NU
+o.5.1	szu-gid2	szugid[animal_designation][-ø]	N
+o.5.2	e2-muhaldim	emuhaldim[kitchen][-sze]	N
+o.6.1	ki	ki[place]	N
+o.6.2	lugal-me-lam2-ta	_	PN
+r.1.1	ba-zi	ba-zig[expend][-ø]	PN
+r.2.1	iti	iti[month]	N
+r.2.2	ezem-{d}me-ki-gal2	Ezemmekigal[1]-['a]	MN
+r.3.1	mu	mu[year]	N
+r.3.2	{d}szu-{d}suen	Szusuen[1]	RN
+r.3.3	lugal	lugal[king]	N
+r.3.4	uri5{ki}-ma-ke4	Urim[1]-ak-e	SN
+r.3.5	ma-da	mada[land][-ak][-ø]	N
+r.3.6	za-ab-sza-li{ki}	Zabszali[1][-ak][-ø]	GN
+r.3.7	mu-hul	mu[-n]-hulu[destroy][-ø]	V
+l.1.1	2(disz)	2(disz)[one]	NU
+l.1.2	gu4	gud[ox]	N

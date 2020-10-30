@@ -1,0 +1,24 @@
+#new_text=P204400
+# ID	FORM	SEGM	XPOSTAG	HEAD	DEPREL	MISC
+o.1.1	9(disz)	9(disz)[one]	NU
+o.1.2	1/2(disz)	1/2(disz)[one]	NU
+o.1.3	gin2	gig[unit]	N
+o.1.4	7(disz)	7(disz)[one][-sze]	NU
+o.1.5	sze	sze[barley]	N
+o.1.6	ku3-babbar	kugbabbar[silver]	N
+o.2.1	la2-ia3	la'u[arrears]	N
+o.2.2	su-ga	sug[repay]-a	V
+o.3.1	ki	ki[place]	N
+o.3.2	ur-{d}ba-ba6	Urbaba[1]	PN
+o.3.3	dumu	dumu[child]	N
+o.3.4	lu2-eb-ta	_	PN
+r.1.1	e2-gal-la	egal[palace]-'a	N
+r.1.2	ba-an-ku4	ba-n-kur[enter][-ø]	V
+r.2.1	giri3	giri[foot]	N
+r.2.2	lugal-ki-gal-la	Lugalkigala[1][-ak][-ta]	PN
+r.3.1	iti	iti[month]	N
+r.3.2	szu-numun	Szunumun[1][-'a]	MN
+r.4.1	mu	mu[year]	N
+r.4.2	amar-{d}suen	_	RN
+r.4.3	ur-bi2-lum{ki}	Urbilum[1][-ø]	GN
+r.4.4	mu-hul	mu[-n]-hulu[destroy][-ø]	V

@@ -1,0 +1,23 @@
+#new_text=P138054
+# ID	FORM	SEGM	XPOSTAG	HEAD	DEPREL	MISC
+o.1.1	...	_[_]	PN
+o.2.1	6(disz)	6(disz)[one][-sze]	NU
+o.2.2	tug2	tug[textile]	N
+o.2.3	nig2-lam2	niglam[ceremonial_garment][-ak]	N
+o.2.4	4(disz)-kam	4(disz)[one]-ak-am[-'a]	NU
+o.2.5	us2	us[follow][-ø]	V
+o.3.1	la2-ia3-am3	_	V
+o.4.1	{d}suen-dan	_	PN
+o.4.2	dub-sar	dubsar[scribe]	N
+o.5.1	in-da-gal2	i-n-da-gal[be][-ø]	V
+r.1.1	iti	iti[month]	N
+r.1.2	ezem-mah-ta	_	MN
+r.2.1	iti	iti[month]	N
+r.2.2	diri	diri[intercalary_month]	N
+r.2.3	ezem-{d}me-ki-gal2-sze3	Ezemmekigal[1]-sze	MN
+r.3.1	iti	iti[month]	N
+r.3.2	4(disz)-kam	4(disz)[one]-ak-am[-'a]	NU
+r.4.1	mu	mu[year]	N
+r.4.2	x	_[_]	N
+r.4.3	x	_[_]	N
+r.4.4	x	_[_]	N

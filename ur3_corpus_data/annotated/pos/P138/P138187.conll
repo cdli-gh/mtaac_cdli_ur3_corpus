@@ -1,0 +1,22 @@
+#new_text=P138187
+# ID	FORM	SEGM	XPOSTAG	HEAD	DEPREL	MISC
+o.1.1	1/2(disz)	1/2(disz)[one]	NU
+o.1.2	...	_[_]	PN
+o.2.1	sze-ba	szeba[ration]	N
+o.2.2	a-x	_	PN
+o.3.1	geme2	geme[female_worker]	N
+o.3.2	kikken2	_	N
+o.3.3	x	_[_]	N
+o.4.1	mu	mu[year]	N
+o.4.2	i3-gesz-sze3	_	V
+o.5.1	guru7-a	guru[store]-'a	N
+o.5.2	x	_[_]	N
+o.5.3	x	_[_]	N
+o.5.4	NI	_	PN
+o.5.5	AN	_[_]	PN
+o.5.6	x	_[_]	N
+o.5.7	x	_[_]	N
+r.1.1	iti	iti[month]	N
+r.1.2	ezem-{d}...	_	MN
+r.2.1	mu	mu[year]	N
+r.2.2	...	_[_]	PN

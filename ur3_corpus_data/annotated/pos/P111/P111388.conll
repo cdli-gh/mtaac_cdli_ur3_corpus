@@ -1,0 +1,18 @@
+#new_text=P111388
+# ID	FORM	SEGM	XPOSTAG	HEAD	DEPREL	MISC
+o.1.1	{d}utu-ba-e3	_	PN
+o.1.2	dumu	dumu[child]	N
+o.1.3	ba-zi-ra	_	PN
+o.2.1	in-szi-sa10	i-nn-szi[-n]-sa[pay_for][-ø][-a]	V
+o.3.1	mu-u3-gi4-gi4-da	_	V
+r.1.1	{d}utu-ba-e3-e	_	DN
+r.2.1	mu	mu[year]	N
+r.2.2	lugal-bi	_	N
+r.2.3	in-pa3	i-n-pad[name][-ø]	V
+r.3.1	...-kal	_	PN
+r.3.2	dumu	dumu[child]	N
+r.3.3	lu2-...	_[1][-ra]	PN
+r.3.4	maszkim	maszkim[administrator]	N
+l.1.1	...	_[_]	PN
+l.1.2	ki-ba	ki[place]-bi-'a	PN
+l.1.3	gub-ba	gub[assigned]-a[-ak][-ø]	V

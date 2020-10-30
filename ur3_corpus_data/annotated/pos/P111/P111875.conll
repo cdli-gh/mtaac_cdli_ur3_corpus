@@ -1,0 +1,25 @@
+#new_text=P111875
+# ID	FORM	SEGM	XPOSTAG	HEAD	DEPREL	MISC
+o.1.1	1(disz)	1(disz)[one]	NU
+o.1.2	{gi}kid	kid[mat]	N
+o.2.1	ki-la2-bi	kila[weight]-bi[-ø]	N
+o.2.2	1(u)	1(u)[ten]	NU
+o.2.3	2(disz)	2(disz)[one]	NU
+o.2.4	gin2	gig[unit]	N
+o.3.1	ma2	ma[ship]	N
+o.3.2	ninda-ka	_	N
+o.3.3	ba-a-dul9	_	V
+o.4.1	ki	ki[place]	N
+o.4.2	a-gu-ta	Agu[1][-ak]-ta	PN
+r.1.1	kiszib3	kiszib[seal]	N
+r.1.2	ARAD2-{d}szara2	Aradszara[1][-ak]	PN
+r.2.1	iti	iti[month]	N
+r.2.2	dal	Dal[1][-'a]	MN
+r.3.1	mu	mu[year]	N
+r.3.2	us2-sa	us[follow]-a	V
+r.3.3	si-ma-num2{ki}	Simanum[1][-ø]	GN
+s1.1.1	ARAD2-{d}szara2	Aradszara[1][-ak]	PN
+s1.2.1	dub-sar	dubsar[scribe]	N
+s1.3.1	dumu	dumu[child]	N
+s1.3.2	bi2-du11	_	V
+s1.3.3	muhaldim	_	N

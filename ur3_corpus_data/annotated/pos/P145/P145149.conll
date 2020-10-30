@@ -1,0 +1,17 @@
+#new_text=P145149
+# ID	FORM	SEGM	XPOSTAG	HEAD	DEPREL	MISC
+o.1.1	2(u)	2(u)[ten]	NU
+o.1.2	i3-gesz	igesz[oil]	V
+o.2.1	gur	gur[unit]	N
+o.2.2	sila3	sila[unit]	N
+o.2.3	gesz2-da	_	N
+o.3.1	mu	mu[year]	N
+o.3.2	i3-li2-an-dul3-sze3	_	SN
+o.4.1	szu-ku-bu-um	Szukubum[1]	PN
+r.1.1	szu	szu[hand][-e]	N
+r.1.2	ba-an-ti	ba-n-teg[accept][-ø]	V
+r.2.1	iti	iti[month]	N
+r.2.2	ki-siki-{d}nin-a-zu	Kisikininazu[1][-'a]	MN
+r.3.1	mu	mu[year]	N
+r.3.2	{d}i-bi2-{d}suen	Ibbisuen[1]	RN
+r.3.3	lugal	lugal[king]	N

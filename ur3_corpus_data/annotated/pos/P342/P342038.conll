@@ -1,0 +1,20 @@
+#new_text=P342038
+# ID	FORM	SEGM	XPOSTAG	HEAD	DEPREL	MISC
+o.1.1	1(disz)	1(disz)[one]	NU
+o.1.2	masz2	masz[goat]	N
+o.2.1	u4	ud[day]	N
+o.2.2	x-x	_[_]	PN
+o.2.3	ri-a	_	V
+o.3.1	a-sza3	aszag[field]	N
+o.3.2	gu2-edin-na	Gu'edina[1][-ak][-'a]	SN
+o.4.1	ki	ki[place]	N
+o.4.2	lugal-du10-ga-ta	_	PN
+r.1.1	kiszib3	kiszib[seal]	N
+r.1.2	nam-sza3-tam	namszatam[administration]	N
+r.2.1	i7-pa-e3	Ipa'e[1][-ø]	PN
+r.3.1	mu	mu[year]	N
+r.3.2	...	_[_]	PN
+s1.1.1	i7-pa-e3	Ipa'e[1][-ø]	PN
+s1.2.1	dub-sar	dubsar[scribe]	N
+s1.3.1	dumu	dumu[child]	N
+s1.3.2	ur-...	_[1][-ak]	PN

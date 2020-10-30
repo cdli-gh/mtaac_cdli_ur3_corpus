@@ -1,0 +1,20 @@
+#new_text=P123765
+# ID	FORM	SEGM	XPOSTAG	HEAD	DEPREL	MISC
+o.1.1	2(disz)	2(disz)[one]	NU
+o.1.2	masz2-gal	maszgal[billy_goat]	N
+o.2.1	mu13-mu13-sze3	_	N
+o.3.1	na-ra-am-i3-li2	Naramili[1]	PN
+o.3.2	maszkim	maszkim[administrator]	N
+o.4.1	iti	iti[month]	N
+o.4.2	u4	ud[day]	N
+o.4.3	2(u)	2(u)[ten]	NU
+o.4.4	3(disz)	3(disz)[one]	NU
+o.4.5	ba-zal	ba-zal[pass][-ø][-a][-'a]	V
+o.5.1	ki	ki[place]	N
+o.5.2	a-hu-ni-ta	Ahuni[1][-ak]-ta	PN
+r.1.1	ba-zi	ba-zig[expend][-ø]	PN
+r.2.1	iti	iti[month]	N
+r.2.2	ezem-{d}szul-gi	Ezemszulgir[1][-'a]	MN
+r.3.1	mu	mu[year]	N
+r.3.2	{d}amar-{d}suen	Amarsuen[1]	RN
+r.3.3	lugal	lugal[king]	N

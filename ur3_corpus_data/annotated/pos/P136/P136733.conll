@@ -1,0 +1,35 @@
+#new_text=P136733
+# ID	FORM	SEGM	XPOSTAG	HEAD	DEPREL	MISC
+o.1.1	1(disz)	1(disz)[one]	NU
+o.1.2	sila4	sila[lamb]	N
+o.2.1	2(disz)	2(disz)[one]	NU
+o.2.2	sag-kesz2	sagkesz[state of goods]	N
+o.2.3	ku6	kud[fish]	N
+o.2.4	x	_[_]	N
+o.3.1	2(disz)	2(disz)[one]	NU
+o.3.2	giri3-lam	girlam[basket_type]	N
+o.3.3	{gesz}|UR2x(A.NA)|	_	N
+o.3.4	5(disz)	5(disz)[one]	NU
+o.3.5	sila3-ta	sila[unit]-ta	N
+o.4.1	2(u)	2(u)[ten]	NU
+o.4.2	8(asz)	8(asz)[one]	NU
+o.4.3	gu2	gun[unit]	N
+o.4.4	sar	sar[unit]	N
+o.4.5	hi-a	hi[mix]-a[-ø]	V
+o.5.1	masz2-da-re-a	_	PN
+r.1.1	ki	ki[place]	N
+r.1.2	lugal-sze3	lugal[king][-ak]-sze	N
+r.2.1	iti	iti[month]	N
+r.2.2	ezem-{d}me-ki-gal2	Ezemmekigal[1]-['a]	MN
+r.2.3	u4	ud[day]	N
+r.2.4	2(u)	2(u)[ten]	NU
+r.2.5	8(disz)-kam	8(disz)[one]-ak-am	NU
+r.3.1	mu	mu[year]	N
+r.3.2	us2-sa	us[follow]-a	V
+r.3.3	{d}i-bi2-{d}suen	Ibbisuen[1]	RN
+r.3.4	lugal	lugal[king]	N
+r.3.5	uri5{ki}-ma-ke4	Urim[1]-ak-e	SN
+r.3.6	nibru{ki}	Nibru[1][-'a]	SN
+r.3.7	uri5{ki}-ma	Urim[1]-ak	SN
+r.3.8	bad3-gal-bi	badgal[great_wall]-bi[-ø]	N
+r.3.9	mu-du3	mu[-n]-du[build][-ø]	V

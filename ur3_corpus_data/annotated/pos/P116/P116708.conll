@@ -1,0 +1,26 @@
+#new_text=P116708
+# ID	FORM	SEGM	XPOSTAG	HEAD	DEPREL	MISC
+o.1.1	2(asz)	2(asz)[one]	NU
+o.1.2	sze	sze[barley]	N
+o.1.3	gur	gur[unit]	N
+o.1.4	lugal	lugal[king]	N
+o.2.1	i3-dub	idub[granary]	N
+o.2.2	tir-ba-bil2-la	_	N
+o.3.1	ur-en-gal-du-du-ta	_	PN
+o.4.1	ki	ki[place]	N
+o.4.2	ba-zi-ta	_	PN
+r.1.1	mu	mu[year]	N
+r.1.2	lugal-za3-ge-si	Lugalzagesi[1]	PN
+r.2.1	en-u2-szim	_	PN
+r.3.1	szu	szu[hand][-e]	N
+r.3.2	ba-ti	ba[-n]-teg[accept][-ø]	V
+r.4.1	sza3-gal	szaggal[food]	N
+r.4.2	sza3-gu4-sze3	_	PN
+r.5.1	iti	iti[month]	N
+r.5.2	diri	diri[intercalary_month]	N
+r.5.3	sze-sag11-ku5	Szesagku[1][-'a]	MN
+r.6.1	mu	mu[year]	N
+r.6.2	en	en[priest]	N
+r.6.3	{d}nanna	Nanna[1][-ak]	DN
+r.6.4	kar-zi-da	Karzida[1][-ak][-ak][-ø]	SN
+r.6.5	ba-hun	ba-hug[hire][-ø]	V

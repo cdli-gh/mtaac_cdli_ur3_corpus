@@ -1,0 +1,22 @@
+#new_text=P208664
+# ID	FORM	SEGM	XPOSTAG	HEAD	DEPREL	MISC
+o.1.1	5(disz)	5(disz)[one]	NU
+o.1.2	gurusz	gurusz[male]	N
+o.2.1	u4	ud[day]	N
+o.2.2	1(disz)-sze3	1(disz)[one]-sze	NU
+o.3.1	ugula	ugula[overseer][-ø]	N
+o.3.2	lu2-kal-la	Lukala[1][-ra]	PN
+o.4.1	gi	gi[reed][-ø]	N
+o.4.2	ze2-a	ze[cut]-a	V
+o.4.3	a-sza3	aszag[field]	N
+o.4.4	lugal	lugal[king]	N
+o.5.1	ki	ki[place]	N
+o.5.2	nig2-lagar-e	Niglagare[1]	N
+o.5.3	gub-ba	gub[assigned]-a[-ak][-ø]	V
+r.1.1	iti	iti[month]	N
+r.1.2	e2-iti-6(disz)	E'iti6[1][-'a]	NU
+r.2.1	mu	mu[year]	N
+r.2.2	{d}nanna	Nanna[1][-ak]	DN
+r.2.3	kar-zi-da	Karzida[1][-ak][-ak][-ø]	SN
+r.2.4	e2-na	_	TN
+r.2.5	ba-ku4	_	V

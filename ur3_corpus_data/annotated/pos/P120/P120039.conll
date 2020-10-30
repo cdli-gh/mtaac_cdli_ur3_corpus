@@ -1,0 +1,26 @@
+#new_text=P120039
+# ID	FORM	SEGM	XPOSTAG	HEAD	DEPREL	MISC
+o.1.1	x	_[_]	N
+o.1.2	{gi}gil	_	N
+o.2.1	gid2-bi	gid[length]-bi[-ø]	N
+o.2.2	2(disz)	2(disz)[one]	NU
+o.2.3	1/2(disz)	1/2(disz)[one]	NU
+o.2.4	ninda-ta	nindan[unit]-ta	N
+o.3.1	gesz-kin-ti-sze3	_	N
+o.4.1	ki	ki[place]	N
+o.4.2	a-gu-ta	Agu[1][-ak]-ta	PN
+o.5.1	kiszib3	kiszib[seal]	N
+o.5.2	lugal-nir	Lugalnir[1][-ak][-ta]	PN
+r.1.1	iti	iti[month]	N
+r.1.2	e2-iti-6(disz)	E'iti6[1][-'a]	NU
+r.2.1	mu	mu[year]	N
+r.2.2	{d}szu-{d}suen	Szusuen[1]	RN
+r.2.3	lugal-e	lugal[king]-e	N
+r.2.4	ma-da	mada[land][-ak][-ø]	N
+r.2.5	za-ab-sza-li{ki}	Zabszali[1][-ak][-ø]	GN
+r.2.6	mu-hul	mu[-n]-hulu[destroy][-ø]	V
+s1.1.1	lugal-nir	Lugalnir[1][-ak][-ta]	PN
+s1.2.1	dub-sar	dubsar[scribe]	N
+s1.3.1	dumu	dumu[child]	N
+s1.3.2	ur-{d}szara2	Urszara[1]	PN
+s1.4.1	sza13-dub-ba-ka	bisagdubak[archivist][-ak]	N

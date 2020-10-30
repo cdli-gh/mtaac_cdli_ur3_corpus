@@ -1,0 +1,188 @@
+#new_text=P453272
+# ID	FORM	SEGM	XPOSTAG	HEAD	DEPREL	MISC
+o.col1.1.1	en	en[priest]	N
+o.col1.1.2	...	_[_]	PN
+o.col1.2.1	ki-sag	_	N
+o.col1.3.1	ki-an	_	PN
+o.col1.4.1	SZE	_	 
+o.col1.4.2	A	_	 
+o.col1.5.1	za-gin3	_	PN
+o.col1.5.2	duru5	_	V
+o.col1.6.1	SAL	_	 
+o.col1.7.1	UR-UR	_	PN
+o.col1.8.1	SZE	_	 
+o.col1.8.2	A	_	 
+o.col1.8.3	hi	hi[mix][-ø]	V
+o.col1.9.1	bad	_	V
+o.col1.9.2	ambar	_	FN
+o.col1.10.1	...	_[_]	PN
+o.col1.10.2	sila3	sila[unit]	N
+o.col1.11.1	IGI	_	 
+o.col1.11.2	A	_	 
+o.col1.11.3	IM	_	 
+o.col1.12.1	HI	_	 
+o.col1.12.2	SAR	_	 
+o.col1.12.3	x	_[_]	N
+o.col1.12.4	x	_[_]	N
+o.col1.12.5	x	_[_]	N
+o.col1.13.1	KI	_	 
+o.col1.13.2	UD	_	PN
+o.col1.13.3	IM	_	 
+o.col1.14.1	...	_[_]	PN
+o.col1.14.2	x	_[_]	N
+o.col1.14.3	IM	_	 
+o.col1.15.1	...	_[_]	PN
+o.col1.15.2	x	_[_]	N
+o.col1.15.3	IM	_	 
+o.col2.1.1	...	_[_]	PN
+o.col2.2.1	...	_[_]	PN
+o.col2.3.1	absin3	_	N
+o.col2.3.2	gu4	gud[ox]	N
+o.col2.3.3	ak	ak[excavate][-a][-ak]	V
+o.col2.4a.1	gesz	gesz[tree]	N
+o.col2.4a.2	bal	_	V
+o.col2.4a.3	igi	igi[eye][-ø]	N
+o.col2.4b.1	a-ra2	ara[times]	N
+o.col2.5.1	im	im[clay][-ø]	N
+o.col2.5.2	u5	_	N
+o.col2.6.1	im	im[clay][-ø]	N
+o.col2.6.2	mir	_	V
+o.col2.7.1	an-na	An[1][-ak][-ak][sze]	PN
+o.col2.7.2	gi4	gi[repay][-ø]	V
+o.col2.7.3	mu-TUG2	_	V
+o.col2.8.1	MI	_	 
+o.col2.8.2	pirig	_	N
+o.col2.8.3	gal	gal[big][-ø]	V
+o.col2.9.1	MI	_	 
+o.col2.9.2	pirig	_	N
+o.col2.9.3	ban3-da	_	AJ
+o.col2.10.1	MI	_	 
+o.col2.10.2	pirig	_	N
+o.col2.10.3	szu	szu[hand][-e]	N
+o.col2.10.4	du7	_	V
+o.col2.11.1	MI	_	 
+o.col2.11.2	pirig	_	N
+o.col2.11.3	szu	szu[hand][-e]	N
+o.col2.11.4	nu-du7	_	V
+o.col2.12.1	MI	_	 
+o.col2.12.2	pirig	_	N
+o.col2.12.3	an-ki	_	DN
+o.col2.13.1	AD	_	 
+o.col2.13.2	IM	_	 
+o.col2.14.1	{d}nin-du6-tab	_	PN
+o.col3.1.1	...-x-din-na	_	PN
+o.col3.2.1	da-BAD	_	PN
+o.col3.3.1	szu-nam	_	PN
+o.col3.4.1	szu-nam	_	PN
+o.col3.5.1	siki	siki[wool][-'a]	N
+o.col3.5.2	ud5	uzud[goat]	N
+o.col3.6.1	szu	szu[hand][-e]	N
+o.col3.6.2	kad4	_	V
+o.col3.7.1	|SZE&SZE|	_	PN
+o.col3.7.2	igi-a	_	PN
+o.col3.8.1	HI	_	 
+o.col3.8.2	SAR	_	 
+o.col3.8.3	igi-a	_	PN
+o.col3.9.1	SAR	_	 
+o.col3.9.2	HI	_	 
+o.col3.9.3	igi-a	_	PN
+o.col3.11.1	kun	_	WN
+o.col3.11.2	...	_[_]	PN
+o.col3.12a.1	szur2	_	N
+o.col3.12a.2	lu2	lu[person]	N
+o.col3.12a.3	...	_[_]	PN
+o.col3.12b.1	maszkim-...	_	PN
+o.col3.13.1	gu4	gud[ox]	N
+o.col3.13.2	en	en[priest]	N
+o.col4.1.1	muszen	_	N
+o.col4.1.2	...	_[_]	PN
+o.col4.1.3	AN	_[_]	PN
+o.col4.2.1	...	_[_]	PN
+o.col4.3.1	x-...-li-li{muszen}	_	 
+o.col4.4.1	dur	_	N
+o.col4.4.2	...-x	_[_]	WN
+o.col4.5a.1	TAR{muszen}	_	N
+o.col4.5b.1	...	_[_]	PN
+o.col4.6.1	addir	_	N
+o.col4.6.2	...	_[_]	PN
+o.col4.6.3	mu-ak	_	V
+o.col4.7.1	SAR	_	 
+o.col4.7.2	...	_[_]	PN
+o.col4.8.1	hi{sar}	_	N
+o.col4.8.2	...	_[_]	PN
+o.col4.9.1	gi	gi[reed][-ø]	N
+o.col4.9.2	ASZ	_	PN
+o.col4.9.3	DU3	_	 
+o.col4.9.4	...	_[_]	PN
+o.col4.10.1	gi	gi[reed][-ø]	N
+o.col4.10.2	szu	szu[hand][-e]	N
+o.col4.10.3	...	_[_]	PN
+o.col5.1-2.1	muszen-ne2	_	N
+o.col5.1-2.2	an	An[1][-ra]	N
+o.col5.1-2.3	mu-szub-szub	_	V
+o.col5.3a.1	dilmun	_	GN
+o.col5.3b.1	eme	_	N
+o.col5.3b.2	ur2	_	N
+o.col5.4.1	su	_	N
+o.col5.4.2	an-gun3	_	V
+o.col5.5a.1	lu{sar}	_	N
+o.col5.5b.1	aga3	aga[tiara]	N
+o.col5.5b.2	ku5	ku[fish]	N
+o.col5.6a.1	{u2}li-ku	_	PN
+o.col5.6b.1	mul	_	N
+o.col5.6b.2	szu-sze3	_	PN
+o.col5.6b.3	la2	la[hang][-ø]	V
+o.col5.7.1	nagar{sar}	_	N
+o.col5.8a.1	{d}inanna-sze3	Inanna[1][-ak]-sze	DN
+o.col5.8b.1	gesz	gesz[tree]	N
+o.col5.8b.2	igi	igi[eye][-ø]	N
+o.col5.8b.3	la2	la[hang][-ø]	V
+o.col5.8b.4	DU	gin[quality_designation][-ø]	PN
+o.col5.9.1	...-x{sar}	_	PN
+o.col6.1.1	kur	kur[east]	N
+o.col6.1.2	szum2	szum[garlic]	N
+o.col6.2.1	|SAGxHA|{sar}	_	PN
+o.col6.3.1	teme2{sar}	_	N
+o.col6.4.1	ga-rasz{sar}	_	N
+o.col6.5.1	{u2}ama-masz-um{sar}	_	N
+o.col6.6.1	ama	_	N
+o.col6.6.2	tur{sar}	_	V
+o.col6.7.1	babbar-hi{sar}	_	PN
+o.col6.9.1	szakir{sar}	_	N
+o.col6.10.1	gesz-ur2{sar}	_	N
+o.col6.11.1	...	_[_]	PN
+o.col6.12.1	...	_[_]	PN
+o.col6.13.1	...{sar}	_	N
+o.col6.14.1	...{sar}	_	N
+o.col7.1.1	|KAxESZ2|-sar	_	PN
+o.col7.2.1	|GA2xKU|-sar	_	PN
+o.col7.3.1	gir-gi4-lu2{sar}	_	N
+o.col7.4.1	gi-IGI{sar}	_	N
+o.col7.5.1	gi-mun{sar}	_	N
+o.col7.6.1	gi-ir{sar}	_	N
+o.col7.7.1	u3-gun3{sar}	_	N
+o.col7.8.1	a-li-u2{sar}	_	PN
+o.col7.9.1	a-NI{sar}	_	N
+o.col7.10.1	u2-ga{sar}	_	N
+o.col7.11.1	sze{sar}	_	N
+o.col7.12.1	SAG{sar}	_	N
+o.col7.13.1	ASZ-|GI4&GI4|{sar}	_	N
+o.col7.14.1	SAG@g{sar}	_	N
+o.col7.15.1	|ZU&ZU.SZE|{sar}	_	N
+o.col7.16.1	|ZU&ZU.SZE.SAR|{sar}	_	N
+r.col1.1.1	lu2-sa6-ga	_	PN
+r.col1.2.1	dub-sar	dubsar[scribe]	N
+r.col1.3.1	dumu	dumu[child]	N
+r.col1.3.2	hu-ba6-ba6-ke4	_	PN
+r.col1.4.1	in-sar	_	PN
+r.col1.5.1	iti	iti[month]	N
+r.col1.5.2	udru{duru5}	_	N
+r.col1.6.1	...-sze3	_	PN
+r.col1.7.1	mu	mu[year]	N
+r.col1.7.2	en-unu6-gal-an-na	_	PN
+r.col1.7.3	en	en[priest]	N
+r.col1.7.4	{d}inanna	Inanna[1][-ak]	DN
+r.col1.7.5	ba-hun	ba-hug[hire][-ø]	V
+l.col1.1.1	lu2-sa6-ga	_	PN
+l.col1.2.1	dumu	dumu[child]	N
+l.col1.2.2	hu-wa3-wa3	_	PN

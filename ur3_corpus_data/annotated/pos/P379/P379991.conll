@@ -1,0 +1,22 @@
+#new_text=P379991
+# ID	FORM	SEGM	XPOSTAG	HEAD	DEPREL	MISC
+o.1.1	4(barig)	4(bariga)[unit]	NU
+o.1.2	dabin	dabin[semolina]	N
+o.2.1	sa2-du11	sadug[offerings]	N
+o.2.2	lu2	lu[person]	N
+o.2.3	{gesz}tir	_	N
+o.3.1	ki	ki[place]	N
+o.3.2	ur-{d}nansze	Urnansze[1]	PN
+o.3.3	dumu	dumu[child]	N
+o.3.4	lu2-gi-na-ta	Lugina[1][-ak]-ta	PN
+o.4.1	kiszib3	kiszib[seal]	N
+o.4.2	na-ba-sa6	Nabasa[1][-ak]	PN
+r.1.1	giri3	giri[foot]	N
+r.1.2	lugal-mudra5	Lugalmudra[1]	PN
+r.2.1	iti	iti[month]	N
+r.2.2	szu-numun	Szunumun[1][-'a]	MN
+r.3.1	mu	mu[year]	N
+r.3.2	{d}i-bi2-{d}suen	Ibbisuen[1]	RN
+r.3.3	lugal	lugal[king]	N
+s1.1.1	na-ba-sa6	Nabasa[1][-ak]	PN
+s1.2.1	...	_[_]	PN

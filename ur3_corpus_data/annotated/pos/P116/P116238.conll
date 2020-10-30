@@ -1,0 +1,26 @@
+#new_text=P116238
+# ID	FORM	SEGM	XPOSTAG	HEAD	DEPREL	MISC
+o.1.1	pisan-dub-ba	bisagdubak[filing_basket]	N
+o.2.1	la2-ia3	la'u[arrears]	N
+o.2.2	sipa	sipa[shepherd]	N
+o.2.3	unu3	_	GN
+o.2.4	sipa	sipa[shepherd]	N
+o.2.5	udu	udu[sheep]	N
+o.2.6	gukkal	gukkal[fat-tailed_sheep]	N
+o.3.1	gir2-su{ki}-ta	Girsu[1][-ak][-ak]-ta	SN
+o.4.1	gu2-ab-ba{ki}-sze3	_	SN
+o.5.1	nig2-ka9-ak	nigSZID[account]	N
+o.5.2	si-i3-tum	situm[balance]	N
+o.5.3	nig2-e3-a	_	PN
+r.1.1	sipa	sipa[shepherd]	N
+r.1.2	unu3-de3	_	V
+r.2.1	giri3	giri[foot]	N
+r.2.2	ARAD2-mu	Aradmu[1]	PN
+r.2.3	es3-sa2-ab-du	_	N
+r.3.1	u3	u[and]	CNJ
+r.3.2	dub	dub[tablet]	N
+r.3.3	gid2-da-bi	_	V
+r.4.1	i3-gal2	i[-ni]-gal[be][-ø]	V
+r.5.1	mu	mu[year]	N
+r.5.2	en-mah-gal-an-na	Enmahgalana[1]	PN
+r.5.3	ba-hun	ba-hug[hire][-ø]	V

@@ -1,0 +1,20 @@
+#new_text=P340819
+# ID	FORM	SEGM	XPOSTAG	HEAD	DEPREL	MISC
+o.1.1	2(barig)	2(bariga)[unit]	NU
+o.1.2	3(ban2)	3(ban)[unit]	NU
+o.1.3	kasz	kasz[beer]	N
+o.1.4	du	gin[quality_designation][-ø]	V
+o.2.1	ki	ki[place]	N
+o.2.2	nin-me-lam2-ta	_	PN
+o.3.1	mar-sa-asz	marsa[military_depot]-sze	PN
+o.4.1	kiszib3	kiszib[seal]	N
+o.4.2	lu2-sa6-i3-zu	Lusa'izu[1]	PN
+o.5.1	iti	iti[month]	N
+o.5.2	sze-sag11-ku5	Szesagku[1][-'a]	MN
+r.1.1	mu	mu[year]	N
+r.1.2	en-mah-gal-an-na	Enmahgalana[1]	PN
+r.1.3	ba-hun	ba-hug[hire][-ø]	V
+s1.1.1	lu2-sa6-i3-zu	Lusa'izu[1]	PN
+s1.2.1	dub-sar	dubsar[scribe]	N
+s1.3.1	dumu	dumu[child]	N
+s1.3.2	a-kal-la	Akala[1]	PN

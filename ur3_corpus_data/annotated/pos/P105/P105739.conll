@@ -1,0 +1,20 @@
+#new_text=P105739
+# ID	FORM	SEGM	XPOSTAG	HEAD	DEPREL	MISC
+s1.1.1	a2-zi-da	Azida[1][-ra]	PN
+s1.2.1	dub-sar	dubsar[scribe]	N
+s1.3.1	dumu	dumu[child]	N
+s1.3.2	szesz-szesz	Szeszszesz[1][-ak]	PN
+s2.1.1	{d}szul-gi	Szulgir[1]	RN
+s2.2.1	nita	nita[male]	N
+s2.2.2	kal-ga	kalag[strong]-a	V
+s2.3.1	lugal	lugal[king]	N
+s2.3.2	uri5{ki9}-ma	_	GN
+s2.4.1	lugal	lugal[king]	N
+s2.4.2	an	An[1][-ra]	N
+s2.4.3	ub-da	_	N
+s2.4.4	limmu2-ba	limmu[four]-bi-ak[-ø]	V
+s2.5.1	da-da	Dada[1][-ak]	PN
+s2.5.2	dub-sar	dubsar[scribe]	N
+s2.6.1	dumu	dumu[child]	N
+s2.6.2	ur-{d}dumu-zi-da	Urdumuzida[1][-e]	PN
+s2.7.1	ARAD2-zu	arad[slave]-zu[-ø]	PN

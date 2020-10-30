@@ -1,0 +1,17 @@
+#new_text=P209961
+# ID	FORM	SEGM	XPOSTAG	HEAD	DEPREL	MISC
+o.1.1	2(u)	2(u)[ten]	NU
+o.1.2	6(disz)	6(disz)[one][-sze]	NU
+o.1.3	{gesz}e2-da	_	PN
+o.2.1	ki	ki[place]	N
+o.2.2	ha-ma-ti-ta	_	PN
+o.3.1	kiszib3	kiszib[seal]	N
+o.3.2	{d}szara2-kam	Szarakam[1]	PN
+r.1.1	mu	mu[year]	N
+r.1.2	us2-sa	us[follow]-a	V
+r.1.3	si-ma-num2{ki}	Simanum[1][-ø]	GN
+r.1.4	ba-hul	ba-hulu[destroy][-ø]	V
+s1.1.1	{d}szara2-kam	Szarakam[1]	PN
+s1.2.1	dub-sar	dubsar[scribe]	N
+s1.3.1	dumu	dumu[child]	N
+s1.3.2	lugal-{gesz}kiri6	Lugalkiri[1]	PN

@@ -1,0 +1,37 @@
+#new_text=P138566
+# ID	FORM	SEGM	XPOSTAG	HEAD	DEPREL	MISC
+o.1'.1	...	_[_]	PN
+o.1'.2	x	_[_]	N
+o.1'.3	...	_[_]	PN
+o.1'.4	a2-suh-ta-bi	_	PN
+o.2'.1	...-x	_[_]	WN
+o.2'.2	ku3-sig17	kugsig[gold]	N
+o.3'.1	...	_[_]	PN
+o.3'.2	a2-suh-ta-bi	_	PN
+o.4'.1	...-GI	_	 
+o.4'.2	NI-x	_	PN
+o.4'.3	...	_[_]	PN
+o.4'.4	x	_[_]	N
+o.4'.5	ta	ta[unknown]	N
+o.4'.6	si	_[_]	N
+o.4'.7	x	_[_]	N
+o.5'.1	ki-la2-bi	kila[weight]-bi[-ø]	N
+o.5'.2	1(disz)	1(disz)[one]	NU
+o.5'.3	5/6(disz)	5/6(disz)[one]	NU
+o.5'.4	ma-na	mana[unit]	N
+o.5'.5	7(disz)	7(disz)[one][-sze]	NU
+o.5'.6	gin2	gig[unit]	N
+r.1.1	ba-zi-ir	_	PN
+r.2.1	za-gaba	_	N
+r.2.2	{d}nin-gal-ta	_	DN
+r.3.1	lu2-kal-la	Lukala[1][-ra]	PN
+r.3.2	ku3-dim2	kugdim[smith]	N
+r.4.1	szu	szu[hand][-e]	N
+r.4.2	ba-an-ti	ba-n-teg[accept][-ø]	V
+r.5.1	giri3	giri[foot]	N
+r.5.2	igi-an-na-ke4-zu	_	PN
+r.6.1	...	_[_]	PN
+r.6.2	nam-zi-tar-ra	_	PN
+r.6.3	...	_[_]	PN
+r.6.4	x	_[_]	N
+r.6.5	...	_[_]	PN

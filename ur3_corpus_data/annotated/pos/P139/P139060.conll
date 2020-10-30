@@ -1,0 +1,15 @@
+#new_text=P139060
+# ID	FORM	SEGM	XPOSTAG	HEAD	DEPREL	MISC
+o.1'.1	1(ban2)	1(ban)[unit]	NU
+o.1'.2	zu2-lum	zulum[date]	N
+o.2'.1	1(ban2)	1(ban)[unit]	NU
+o.2'.2	ga-ar3	ga'ar[cheese]	N
+o.2'.3	x	_[_]	N
+o.3'.1	4(disz)	4(disz)[one]	NU
+o.3'.2	sila3	sila[unit]	N
+o.3'.3	{gesz}haszhur	_	N
+r.1.1	ki	ki[place]	N
+r.1.2	hu-wa-wa-ta	_	PN
+r.2.1	{d}utu-bar-ra	Utubara[1][-e]	PN
+r.3.1	szu	szu[hand][-e]	N
+r.3.2	ba-ti	ba[-n]-teg[accept][-ø]	V

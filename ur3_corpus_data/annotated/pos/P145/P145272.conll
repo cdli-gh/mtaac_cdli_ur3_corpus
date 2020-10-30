@@ -1,0 +1,12 @@
+#new_text=P145272
+# ID	FORM	SEGM	XPOSTAG	HEAD	DEPREL	MISC
+o.1.1	1(ban2)	1(ban)[unit]	NU
+o.1.2	{d}szara2-GIR2@g-gal	_	DN
+o.2.1	dumu	dumu[child]	N
+o.2.2	a-a-ki-lu5	_	PN
+o.3.1	geme2	geme[female_worker]	N
+o.3.2	e2-bappir2	_	TN
+r.1.1	zi-zi	_	V
+r.1.2	ga2-ga2	gar-gar[place][-ed]	V
+r.2.1	iti	iti[month]	N
+r.2.2	szu-numun	Szunumun[1][-'a]	MN

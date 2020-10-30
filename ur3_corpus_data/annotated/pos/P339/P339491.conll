@@ -1,0 +1,17 @@
+#new_text=P339491
+# ID	FORM	SEGM	XPOSTAG	HEAD	DEPREL	MISC
+o.1.1	pisan-dub-ba	bisagdubak[filing_basket]	N
+o.2.1	kiszib3	kiszib[seal]	N
+o.2.2	dab-ba	dab[seize]-a	V
+o.2.3	a2	a[time]	N
+o.2.4	erin2-na	erin[people]	N
+o.3.1	ur-{d}nin-su	_	PN
+o.3.2	nu-banda3-gu4	nubandagu[ox_overseer][-ak][-ak][-ak]	N
+o.4.1	iti	iti[month]	N
+o.4.2	1(u)	1(u)[ten]	NU
+o.4.3	2(disz)-kam	2(disz)[one]-ak-am	NU
+r.1.1	i3-gal2	i[-ni]-gal[be][-ø]	V
+r.2.1	mu	mu[year]	N
+r.2.2	bad3	bad[wall]	N
+r.2.3	mar-tu	Martu[1][-ø]	EN
+r.2.4	ba-du3	ba-du[build][-ø]	V

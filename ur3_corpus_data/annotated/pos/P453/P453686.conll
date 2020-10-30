@@ -1,0 +1,19 @@
+#new_text=P453686
+# ID	FORM	SEGM	XPOSTAG	HEAD	DEPREL	MISC
+o.1'.1	e2	e[house]	N
+o.1'.2	szu-szum2-ma	szuszuma[consignment][-ak]	N
+o.2'.1	ur-{d}dumu-zi	Urdumuzi[1][-e]	PN
+o.3'.1	dub-sar	dubsar[scribe]	N
+o.3'.2	mun-gazi	_	N
+o.4'.1	iti	iti[month]	N
+o.4'.2	gi-sig-ga	_	N
+o.5'.1	u4	ud[day]	N
+o.5'.2	3(u)	3(u)[ten]	NU
+o.5'.3	ba-zal	ba-zal[pass][-ø][-a][-'a]	V
+o.6'.1	mu	mu[year]	N
+o.6'.2	en	en[priest]	N
+o.6'.3	kar-zi-da	Karzida[1][-ak][-ak][-ø]	SN
+s1.1.1	ur-{d}dumu-zi	Urdumuzi[1][-e]	PN
+s1.2.1	dub-sar	dubsar[scribe]	N
+s1.3.1	dumu	dumu[child]	N
+s1.3.2	zu-zu	_	PN

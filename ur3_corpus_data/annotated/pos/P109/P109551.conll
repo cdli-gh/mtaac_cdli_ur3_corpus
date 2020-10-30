@@ -1,0 +1,21 @@
+#new_text=P109551
+# ID	FORM	SEGM	XPOSTAG	HEAD	DEPREL	MISC
+o.1.1	1(disz)	1(disz)[one]	NU
+o.1.2	ud5	uzud[goat]	N
+o.2.1	ba-usz2	ba-ug[die][-esz]	V
+o.3.1	u4	ud[day]	N
+o.3.2	1(u)	1(u)[ten]	NU
+o.3.3	4(disz)-kam	4(disz)[one]-ak-am[-'a]	NU
+o.4.1	sza3	szag[heart]	N
+o.4.2	tum-ma-al{ki}	_	SN
+r.1.1	ki	ki[place]	N
+r.1.2	en-dingir-mu-ta	Endingirmu[1][-ak]-ta	PN
+r.2.1	ur-nigar{gar}	Urnigar[1]	PN
+r.3.1	szu	szu[hand][-e]	N
+r.3.2	ba-ti	ba[-n]-teg[accept][-ø]	V
+r.4.1	iti	iti[month]	N
+r.4.2	ezem-an-na	Ezemanna[1][-'a]	MN
+r.5.1	mu	mu[year]	N
+r.5.2	us2-sa	us[follow]-a	V
+r.5.3	ki-masz{ki}	Kimasz[1]	SN
+r.5.4	ba-hul	ba-hulu[destroy][-ø]	V

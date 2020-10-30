@@ -1,0 +1,26 @@
+#new_text=P200891
+# ID	FORM	SEGM	XPOSTAG	HEAD	DEPREL	MISC
+o.1.1	1(asz)	1(asz)[one]	NU
+o.1.2	2(barig)	2(bariga)[unit]	NU
+o.1.3	4(ban2)	4(ban)[unit]	NU
+o.1.4	5(disz)	5(disz)[one]	NU
+o.1.5	sila3	sila[unit]	N
+o.1.6	sze	sze[barley]	N
+o.1.7	gur	gur[unit]	N
+o.1.8	lugal	lugal[king]	N
+o.2.1	e2-kikken-ta	_	TN
+o.3.1	sa2-du11	sadug[offerings]	N
+o.3.2	{d}nin-ildu-ma	_	DN
+o.4.1	ki	ki[place]	N
+o.4.2	ARAD2-ta	Arad[1][-ak]-ta	PN
+r.1.1	ku3-zu	_	N
+r.1.2	muhaldim	_	N
+r.2.1	szu	szu[hand][-e]	N
+r.2.2	ba-ti	ba[-n]-teg[accept][-ø]	V
+r.3.1	iti	iti[month]	N
+r.3.2	nesag	Nesag[1][-'a]	N
+r.4.1	mu	mu[year]	N
+r.4.2	us2-sa	us[follow]-a	V
+r.4.3	USZ	_	PN
+r.4.4	puzur4-da-gan	Puzurdagan[1][-ø]	SN
+r.4.5	ba-du3	ba-du[build][-ø]	V

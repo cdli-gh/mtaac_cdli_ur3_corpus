@@ -1,0 +1,25 @@
+#new_text=P453704
+# ID	FORM	SEGM	XPOSTAG	HEAD	DEPREL	MISC
+o.1.1	3(u)	3(u)[ten]	NU
+o.1.2	gurusz	gurusz[male]	N
+o.1.3	3(barig)	3(bariga)[unit]	NU
+o.1.4	sze-ta	sze[barley]-ta	N
+o.2.1	sze-bi	sze[barley]-bi[-ø]	N
+o.2.2	1(u)	1(u)[ten]	NU
+o.2.3	8(asz)	8(asz)[one]	NU
+o.2.4	gur	gur[unit]	N
+o.3.1	a2	a[time]	N
+o.3.2	sahar	sahar[earth][-ø]	N
+o.3.3	zi	_	N
+o.3.4	i7	id[river]	N
+o.3.5	na-bi2-{d}szul-gi{ki}	_	WN
+o.4.1	ki	ki[place]	N
+o.4.2	dingir-ba-ni	_	PN
+o.4.3	ka-guru7-ta	Kaguru[1][-ak]-ta	PN
+r.1.1	bu3-bu3-e	_	PN
+r.1.2	nu-banda3	nubanda[overseer][-ø]	N
+r.2.1	szu	szu[hand][-e]	N
+r.2.2	ba-ti	ba[-n]-teg[accept][-ø]	V
+r.3.1	mu	mu[year]	N
+r.3.2	{d}szu-{d}suen	Szusuen[1]	RN
+r.3.3	lugal	lugal[king]	N

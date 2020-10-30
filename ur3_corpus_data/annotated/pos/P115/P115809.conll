@@ -1,0 +1,22 @@
+#new_text=P115809
+# ID	FORM	SEGM	XPOSTAG	HEAD	DEPREL	MISC
+o.1.1	1(barig)	1(bariga)[unit]	NU
+o.1.2	zu2-lum	zulum[date]	N
+o.2.1	e2-kiszib3-ba	ekiszibak[storeroom]-ak	PN
+o.2.2	{d}nin-e2-gal-ta	_	DN
+o.3.1	ki	ki[place]	N
+o.3.2	lu2-{d}nin-szubur-ta	Luninszubur[1][-ak]-ta	PN
+r.1.1	mu	mu[year]	N
+r.1.2	a-kal-la-sze3	_	PN
+r.2.1	ur-mes	Urmes[1]	PN
+r.2.2	dumu	dumu[child]	N
+r.2.3	ugu2-ba-du6-ke4	_	PN
+r.3.1	szu	szu[hand][-e]	N
+r.3.2	ba-ti	ba[-n]-teg[accept][-ø]	V
+r.4.1	iti	iti[month]	N
+r.4.2	sig4-{gesz}i3-szub-ba-gar	Sigiszubbagar[1][-'a]	MN
+r.5.1	mu	mu[year]	N
+r.5.2	us2-sa	us[follow]-a	V
+r.5.3	gu-za	guza[chair][-ø]	N
+r.5.4	{d}en-lil2-la2	Enlil[1][-ak][-ø]	DN
+r.5.5	ba-dim2	ba-dim[create][-ø]	V

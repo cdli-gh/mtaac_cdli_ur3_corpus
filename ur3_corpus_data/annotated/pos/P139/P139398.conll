@@ -1,0 +1,17 @@
+#new_text=P139398
+# ID	FORM	SEGM	XPOSTAG	HEAD	DEPREL	MISC
+o.1.x.1	...-ma	_	PN
+o.2.x.1	...-ni	_	PN
+o.3.x.1	...-ti	_[_]	PN
+o.4.x.1	...-ta	_[_]-ta	PN
+o.5.x.1	...	_[_]	PN
+o.5.x.2	du	gin[quality_designation][-ø]	V
+o.6.x.1	...-ma	_	PN
+r.1.x.1	...	_[_]	PN
+r.1.x.2	1/2(disz)	1/2(disz)[one]	NU
+r.1.x.3	ma-na	mana[unit]	N
+r.2.x.1	...	_[_]	PN
+r.2.x.2	ma-na	mana[unit]	N
+r.3.x.1	szu	szu[hand][-e]	N
+r.3.x.2	ba-an-ti	ba-n-teg[accept][-ø]	V
+r.4.x.1	...-ta	_[_]-ta	PN

@@ -1,0 +1,26 @@
+#new_text=P113812
+# ID	FORM	SEGM	XPOSTAG	HEAD	DEPREL	MISC
+o.1.1	7(gesz2)	7(gesz)[sixty]	NU
+o.1.2	1(u)	1(u)[ten]	NU
+o.1.3	gurusz	gurusz[male]	N
+o.1.4	u4	ud[day]	N
+o.1.5	1(disz)-sze3	1(disz)[one]-sze	NU
+o.2.1	zar3	zar[sheaf]	N
+o.2.2	tab-ba	tab[grasp]-a	V
+o.2.3	szu	szu[hand][-e]	N
+o.2.4	ur3-ra	ur[level_off]-a	V
+o.3.1	mar	mar[wagon]	N
+o.3.2	da	da[unknown]	N
+o.3.3	ri-a	_	V
+o.4.1	ugula	ugula[overseer][-ø]	N
+o.4.2	lu2-{d}da-mu	Ludamu[1][-ra]	PN
+r.1.1	kiszib3	kiszib[seal]	N
+r.1.2	lu2-gi-na	Lugina[1][-ak][-ak]	PN
+r.2.1	mu	mu[year]	N
+r.2.2	ma2	ma[ship]	N
+r.2.3	{d}en-ki	Enki[1][-ak][-ø]	DN
+r.2.4	ba-ab-du8	ba-b-du[caulk][-ø]	V
+s1.1.1	lu2-gi-na	Lugina[1][-ak][-ak]	PN
+s1.2.1	dub-sar	dubsar[scribe]	N
+s1.3.1	dumu	dumu[child]	N
+s1.3.2	sza3-ku3-ge	Szakuge[1][-e]	PN

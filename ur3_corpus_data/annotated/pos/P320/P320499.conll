@@ -1,0 +1,13 @@
+#new_text=P320499
+# ID	FORM	SEGM	XPOSTAG	HEAD	DEPREL	MISC
+r.col1'.1'.1	mu-kux(DU)	mukur[delivery][-ø]	N
+r.col1'.1'.2	lugal	lugal[king]	N
+r.col1'.2'.1	na-sa6	Nasa[1][-e]	PN
+r.col1'.2'.2	i3-dab5	i[-n]-dab[seize][-ø]	V
+r.col1'.3'.1	iti	iti[month]	N
+r.col1'.3'.2	a2-ki-ti	Akiti[1][-'a]	N
+r.col1'.4'.1	mu	mu[year]	N
+r.col1'.4'.2	ha-ar-szi{ki}	Harszi[1]	SN
+r.col1'.4'.3	u3	u[and]	CNJ
+r.col1'.4'.4	ki-masz{ki}	Kimasz[1]	SN
+r.col1'.4'.5	ba-hul	ba-hulu[destroy][-ø]	V

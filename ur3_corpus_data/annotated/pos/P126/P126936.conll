@@ -1,0 +1,27 @@
+#new_text=P126936
+# ID	FORM	SEGM	XPOSTAG	HEAD	DEPREL	MISC
+o.1.1	{gesz}gigir	gigir[chariot][-sze]	N
+o.1.2	sumun	sumun[old][-ø]	N
+o.2.1	{d}szul-gi-ra	Szulgir[1]-ak	DN
+o.2.2	ba	ba[animal][-ak]	N
+o.2.3	tug2	tug[textile]	N
+o.3.1	szu	szu[hand][-e]	N
+o.3.2	du11-du11-ga	dug-dug[transform]-a	V
+o.4.1	a2-bi	a[labor]-bi	N
+o.4.2	kusz-bi	_	N
+o.4.3	siki-bi	siki[wool]-bi[-ø]	N
+o.5.1	a-kal-la	Akala[1]	PN
+o.6.1	zi-zi-dam	_	V
+r.1.1	ki	ki[place]	N
+r.1.2	a-kal-la-ta	Akala[1][-ak]-ta	PN
+r.2.1	kiszib3	kiszib[seal]	N
+r.2.2	lu2-kal-la	Lukala[1][-ra]	PN
+r.3.1	mu	mu[year]	N
+r.3.2	en	en[priest]	N
+r.3.3	ga-esz{ki}	Ga'esz[1][-ak][-ø]	SN
+r.3.4	ba-hun	ba-hug[hire][-ø]	V
+s1.1.1	lu2-kal-la	Lukala[1][-ra]	PN
+s1.2.1	dub-sar	dubsar[scribe]	N
+s1.3.1	dumu	dumu[child]	N
+s1.3.2	ur-e11-e	Ure'e[1][-ak]	PN
+s1.3.3	szusz3	kusz[cattle_manager][-ak]	N

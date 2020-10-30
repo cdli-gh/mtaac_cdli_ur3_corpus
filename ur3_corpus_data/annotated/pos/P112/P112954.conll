@@ -1,0 +1,12 @@
+#new_text=P112954
+# ID	FORM	SEGM	XPOSTAG	HEAD	DEPREL	MISC
+o.1.1	...	_[_]	PN
+o.1.2	gur	gur[unit]	N
+o.2.1	tur	Tur[1]	V
+o.2.2	{sze3}szer7-da	_	N
+o.3.1	iti	iti[month]	N
+o.3.2	la-hu-um	_	MN
+o.4.1	mu	mu[year]	N
+o.4.2	ma2-dara3-abzu	Madara'abzu[1]	ON
+o.4.3	{d}en-ki-ka	Enkik[1][-ak]	DN
+o.4.4	ba-dim2	ba-dim[create][-ø]	V

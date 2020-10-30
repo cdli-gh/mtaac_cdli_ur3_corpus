@@ -1,0 +1,25 @@
+#new_text=P454149
+# ID	FORM	SEGM	XPOSTAG	HEAD	DEPREL	MISC
+o.1.1	2(u)	2(u)[ten]	NU
+o.1.2	sze	sze[barley]	N
+o.1.3	gur	gur[unit]	N
+o.2.1	sze-ba	szeba[ration]	N
+o.2.2	erin2	erin[people]	N
+o.2.3	ki	ki[place]	N
+o.2.4	en-nu-ga2	_	N
+o.3.1	a-wa-al{ki}	_	PN
+o.4.1	ki-is-mar{ki}	_	SN
+o.5.1	masz-kan2-lugal{ki}	_	SN
+o.6.1	u3	u[and]	CNJ
+o.6.2	szu-ur2-bu{ki}	_	PN
+r.1.1	ki	ki[place]	N
+r.1.2	ur-mes-ensi2-ta	_	PN
+r.2.1	ba-zi	ba-zig[expend][-ø]	PN
+r.3.1	kiszib3	kiszib[seal]	N
+r.3.2	ri-im-kak-ka3	_	PN
+r.4.1	mu	mu[year]	N
+r.4.2	{d}i-bi2-{d}suen	Ibbisuen[1]	RN
+r.4.3	lugal	lugal[king]	N
+r.4.4	uri5{ki}-ma-ke4	Urim[1]-ak-e	SN
+r.4.5	si-mu-ru-um{ki}	Simurrum[1]	SN
+r.4.6	mu-hul	mu[-n]-hulu[destroy][-ø]	V

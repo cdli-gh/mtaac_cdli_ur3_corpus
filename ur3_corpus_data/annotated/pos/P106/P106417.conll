@@ -1,0 +1,21 @@
+#new_text=P106417
+# ID	FORM	SEGM	XPOSTAG	HEAD	DEPREL	MISC
+o.1.1	5(u)	5(u)[ten]	NU
+o.1.2	7(disz)	7(disz)[one][-sze]	NU
+o.1.3	u8	u[ewe]	N
+o.2.1	3(disz)	3(disz)[one]	NU
+o.2.2	ud5	uzud[goat]	N
+o.3.1	mu-kux(DU)	mukur[delivery][-ø]	N
+o.3.2	lugal	lugal[king]	N
+o.4.1	ki	ki[place]	N
+o.4.2	na-ra-am-i3-li2-ta	_	PN
+o.5.1	min-{d}nin-lil2	_	PN
+o.6.1	i3-dab5	i[-n]-dab[seize][-ø]	V
+r.1.1	giri3	giri[foot]	N
+r.1.2	er3-ra-ba-ni	Erabani[1]	PN
+r.1.3	ra2-gaba	ragaba[rider]	N
+r.2.1	iti	iti[month]	N
+r.2.2	a2-ki-ti	Akiti[1][-'a]	N
+r.3.1	mu	mu[year]	N
+r.3.2	ur-bi2-lum{ki}	Urbilum[1][-ø]	GN
+r.3.3	ba-hul	ba-hulu[destroy][-ø]	V

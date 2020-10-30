@@ -1,0 +1,25 @@
+#new_text=P324500
+# ID	FORM	SEGM	XPOSTAG	HEAD	DEPREL	MISC
+o.1.1	n	_(_)[_]	NU
+o.1.2	udu	udu[sheep]	N
+o.2.1	sa2-du11	sadug[offerings]	N
+o.2.2	{d}nin-{d}su4-an-na	_	PN
+o.2.3	a-hu-a	Ahuya[1]	PN
+o.3.1	1(u)	1(u)[ten]	NU
+o.3.2	2(disz)	2(disz)[one]	NU
+o.3.3	udu	udu[sheep]	N
+o.4.1	sa2-du11	sadug[offerings]	N
+o.4.2	ki-a-nag	ki'anag[place_of_libations]	N
+o.4.3	na-we-er-dingir	_	PN
+o.5.1	ki	ki[place]	N
+o.5.2	{d}iszkur-illat-ta	Iszkurillat[1][-ak]-ta	PN
+r.1.1	ba-zi	ba-zig[expend][-ø]	PN
+r.2.1	iti	iti[month]	N
+r.2.2	1(u)	1(u)[ten]	NU
+r.2.3	2(disz)-kam	2(disz)[one]-ak-am	NU
+r.3.1	mu	mu[year]	N
+r.3.2	en	en[priest]	N
+r.3.3	{d}inanna	Inanna[1][-ak]	DN
+r.3.4	unu{ki}-ga	Unug[1]-ak[-ak][-ø]	SN
+r.3.5	masz2-e	masz[goat]-e	N
+r.3.6	i3-pa3	i-pad[find][-ø]	V

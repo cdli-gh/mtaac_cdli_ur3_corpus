@@ -1,0 +1,21 @@
+#new_text=P129769
+# ID	FORM	SEGM	XPOSTAG	HEAD	DEPREL	MISC
+o.1.1	1(disz)	1(disz)[one]	NU
+o.1.2	gu4	gud[ox]	N
+o.2.1	ki	ki[place]	N
+o.2.2	{d}szul-gi	Szulgir[1]	RN
+o.3.1	KA-GIN2	_	PN
+o.3.2	{d}nanna	Nanna[1][-ak]	DN
+o.4.1	ki	ki[place]	N
+o.4.2	ur-mes-ta	Urmes[1][-ak]-ta	PN
+o.5.1	mu-kux(DU)	mukur[delivery][-ø]	N
+r.1.1	{d}en-lil2-la2	Enlil[1][-ak][-ø]	DN
+r.2.1	i3-dab5	i[-n]-dab[seize][-ø]	V
+r.3.1	iti	iti[month]	N
+r.3.2	u5-bi2-gu7	Ubigu[1][-'a]	MN
+r.4.1	mu	mu[year]	N
+r.4.2	x	_[_]	N
+r.4.3	x	_[_]	N
+r.4.4	x	_[_]	N
+r.4.5	x	_[_]	N
+r.4.6	...	_[_]	PN

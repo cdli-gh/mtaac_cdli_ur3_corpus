@@ -1,0 +1,25 @@
+#new_text=P121139
+# ID	FORM	SEGM	XPOSTAG	HEAD	DEPREL	MISC
+o.1.1	1(disz)	1(disz)[one]	NU
+o.1.2	udu	udu[sheep]	N
+o.2.1	ka2	kan[gate]	N
+o.2.2	{d}inanna	Inanna[1][-ak]	DN
+o.3.1	1(disz)	1(disz)[one]	NU
+o.3.2	masz2	masz[goat]	N
+o.4.1	{d}na-na-a	Nanaya[1][-ra]	DN
+o.5.1	sza3	szag[heart]	N
+o.5.2	unu{ki}-ga	Unug[1]-ak[-ak][-ø]	SN
+r.1.1	1(disz)	1(disz)[one]	NU
+r.1.2	udu	udu[sheep]	N
+r.2.1	isz-me-er3-ra	_	PN
+r.3.1	1(disz)	1(disz)[one]	NU
+r.3.2	sila4	sila[lamb]	N
+r.3.3	ba-usz2	ba-ug[die][-esz]	V
+r.4.1	ki	ki[place]	N
+r.4.2	lugal-ur2-ra-ni-ta	_	PN
+r.5.1	ba-zi	ba-zig[expend][-ø]	PN
+r.6.1	iti	iti[month]	N
+r.6.2	NE-NE-gar	_	PN
+r.7.1	mu	mu[year]	N
+r.7.2	{d}i-bi2-{d}suen	Ibbisuen[1]	RN
+r.7.3	lugal	lugal[king]	N

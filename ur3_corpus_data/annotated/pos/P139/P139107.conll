@@ -1,0 +1,27 @@
+#new_text=P139107
+# ID	FORM	SEGM	XPOSTAG	HEAD	DEPREL	MISC
+o.1.1	1(asz)	1(asz)[one]	NU
+o.1.2	n	_(_)[_]	NU
+o.1.3	sze	sze[barley]	N
+o.1.4	gur	gur[unit]	N
+o.2.1	1(gesz2)	1(gesz)[sixty]	NU
+o.2.2	4(u)	4(u)[ten]	NU
+o.2.3	szu-i3-li2	Szu'ili[1]	PN
+o.2.4	dumu	dumu[child]	N
+o.2.5	x	_[_]	N
+o.3.1	...	_[_]	PN
+o.3.2	lu2-ti-ni-mu-zu-ta	_	PN
+o.4.1	...	_[_]	PN
+o.4.2	{d}nanna-ki-ag2-ta	_	PN
+r.1'.1	mu-kux(DU)	mukur[delivery][-ø]	N
+r.2'.1	x-szu-ur2-ta	_	PN
+r.2'.2	DU	gin[quality_designation][-ø]	PN
+r.3'.1	ur-ku3-nun-na	Urkununa[1][-e]	PN
+r.4'.1	szu	szu[hand][-e]	N
+r.4'.2	ba-an-ti	ba-n-teg[accept][-ø]	V
+r.5'.1	iti	iti[month]	N
+r.5'.2	ezem-{d}nin-a-zu	Ezemninazu[1][-'a]	MN
+r.6'.1	mu	mu[year]	N
+r.6'.2	...	_[_]	PN
+r.6'.3	x	_[_]	N
+r.6'.4	...	_[_]	PN

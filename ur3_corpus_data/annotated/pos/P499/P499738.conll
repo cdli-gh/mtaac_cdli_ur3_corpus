@@ -1,0 +1,22 @@
+#new_text=P499738
+# ID	FORM	SEGM	XPOSTAG	HEAD	DEPREL	MISC
+o.1.1	2(u)	2(u)[ten]	NU
+o.1.2	gur10{uruda}	_	PN
+o.2.1	ki	ki[place]	N
+o.2.2	ARAD2-mu-ta	_	PN
+o.3.1	ur-sag-ub-ba	_	PN
+o.4.1	u3	u[and]	CNJ
+o.4.2	la-qi3-ip	_	PN
+r.1.1	szu	szu[hand][-e]	N
+r.1.2	ba-ti-esz	_	V
+r.2.1	iti	iti[month]	N
+r.2.2	bara2-za3-gar	_	MN
+r.2.3	u4	ud[day]	N
+r.2.4	6(disz)	6(disz)[one][-sze]	NU
+r.2.5	ba-zal	ba-zal[pass][-ø][-a][-'a]	V
+r.3.1	mu	mu[year]	N
+r.3.2	si-mu-ru-um{ki}	Simurrum[1]	SN
+r.3.3	ba-hul	ba-hulu[destroy][-ø]	V
+s1.1.1	ur-sag-ub	_	PN
+s1.2.1	dumu	dumu[child]	N
+s1.2.2	lu2-{d}utu	Lu'utu[1]	PN

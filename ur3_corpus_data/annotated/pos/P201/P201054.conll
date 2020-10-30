@@ -1,0 +1,22 @@
+#new_text=P201054
+# ID	FORM	SEGM	XPOSTAG	HEAD	DEPREL	MISC
+o.1.1	...	_[_]	PN
+o.2.1	...	_[_]	PN
+o.3.1	sze-bi	sze[barley]-bi[-ø]	N
+o.3.2	4(asz)	4(asz)[one]	NU
+o.3.3	4(barig)	4(bariga)[unit]	NU
+o.3.4	gur	gur[unit]	N
+o.4.1	...	_[_]	PN
+o.5.1	...	_[_]	PN
+r.1.1	ki	ki[place]	N
+r.1.2	lugal-ma2-gur8-re-ta	_	PN
+r.2.1	szesz-kal-la	Szeszkala[1][-ra]	PN
+r.3.1	szu	szu[hand][-e]	N
+r.3.2	ba-ti	ba[-n]-teg[accept][-ø]	V
+r.4.1	iti	iti[month]	N
+r.4.2	szu-numun	Szunumun[1][-'a]	MN
+r.5.1	mu	mu[year]	N
+r.5.2	si-mu-ru-um{ki}	Simurrum[1]	SN
+r.6.1	a-ra2	ara[times]	N
+r.6.2	3(disz)-kam	3(disz)[one]-ak-am	NU
+r.6.3	ba-hul	ba-hulu[destroy][-ø]	V

@@ -1,0 +1,22 @@
+#new_text=P141023
+# ID	FORM	SEGM	XPOSTAG	HEAD	DEPREL	MISC
+o.1.1	1(gesz2)	1(gesz)[sixty]	NU
+o.1.2	4(u)	4(u)[ten]	NU
+o.1.3	5(disz)	5(disz)[one]	NU
+o.1.4	sa	sa[bundle]	N
+o.2.1	ki	ki[place]	N
+o.2.2	lu2-dingir-ra	Ludingira[1][-ra]	PN
+o.3.1	szesz-kal-la	Szeszkala[1][-ra]	PN
+o.4.1	szu	szu[hand][-e]	N
+o.4.2	ba-ti	ba[-n]-teg[accept][-ø]	V
+r.1.1	iti	iti[month]	N
+r.1.2	diri	diri[intercalary_month]	N
+r.2.1	mu	mu[year]	N
+r.2.2	amar-{d}suen	_	RN
+r.2.3	lugal-e	lugal[king]-e	N
+r.2.4	ur-bi2-lum	_	GN
+r.2.5	mu-hul	mu[-n]-hulu[destroy][-ø]	V
+s1.1.1	szesz-kal-la	Szeszkala[1][-ra]	PN
+s1.2.1	dub-sar	dubsar[scribe]	N
+s1.3.1	dumu	dumu[child]	N
+s1.3.2	ugu2-du6	Ugudu[1][-ak]	PN

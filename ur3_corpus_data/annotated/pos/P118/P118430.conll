@@ -1,0 +1,11 @@
+#new_text=P118430
+# ID	FORM	SEGM	XPOSTAG	HEAD	DEPREL	MISC
+o.1.1	iti	iti[month]	N
+o.1.2	udru{duru5}	_	N
+o.2.1	u4	ud[day]	N
+o.2.2	2(u)	2(u)[ten]	NU
+o.2.3	6(disz)	6(disz)[one][-sze]	NU
+o.2.4	ba-zal	ba-zal[pass][-ø][-a][-'a]	V
+o.3.1	ur-tum-al	_	PN
+r.1.1	e2	e[house]	N
+r.1.2	ba-e-du	_	V

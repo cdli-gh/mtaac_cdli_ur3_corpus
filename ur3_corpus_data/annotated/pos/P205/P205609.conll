@@ -1,0 +1,33 @@
+#new_text=P205609
+# ID	FORM	SEGM	XPOSTAG	HEAD	DEPREL	MISC
+o.1.1	1(disz)	1(disz)[one]	NU
+o.1.2	sila3	sila[unit]	N
+o.1.3	i3-gesz	igesz[oil]	V
+o.1.4	du10-ga	dug[good]-a	V
+o.2.1	iti	iti[month]	N
+o.2.2	munu4-gu7	Munugu[1][-'a]	MN
+o.3.1	1(disz)	1(disz)[one]	NU
+o.3.2	sila3	sila[unit]	N
+o.3.3		_	_
+o.3.4	amar-a-a-si	Amarayasi[1][-'a]	MN
+o.4.1	1(disz)	1(disz)[one]	NU
+o.4.2	sila3	sila[unit]	N
+o.4.3	iti	iti[month]	N
+o.4.4	sze-il2-la	Sze'ila[1][-'a]	MN
+o.5.1	i3	i[oil]	N
+o.5.2	ezem-ma	_	N
+o.5.3	{d}dumu-zi	Dumuzi[1][-'a]	MN
+o.5.4	ki-nu-nir{ki}	Kinunir[1][-ak][-'a]	GN
+r.1.1	szi-ni-ta2-a	_	PN
+r.1.2	lu2	lu[person]	N
+r.1.3	hu-bu7{bu}	_	V
+r.2.1	szu	szu[hand][-e]	N
+r.2.2	ba-ti	ba[-n]-teg[accept][-ø]	V
+r.3.1	ugu2	ugu[capital]	N
+r.3.2	nam-zi-tar-ra	_	PN
+r.3.3	ga2-ga2-dam	gar-gar[place]-ed-am	V
+r.4.1	mu	mu[year]	N
+r.4.2	{d}szu-{d}suen	Szusuen[1]	RN
+r.4.3	lugal	lugal[king]	N
+r.4.4	na-ru2-a-mah	naruamah[magnificent_stele][-ø]	PN
+r.4.5	mu-du3	mu[-n]-du[build][-ø]	V

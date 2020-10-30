@@ -1,0 +1,22 @@
+#new_text=P104112
+# ID	FORM	SEGM	XPOSTAG	HEAD	DEPREL	MISC
+o.1.1	1(disz)	1(disz)[one]	NU
+o.1.2	szeg9-bar-munus	_	N
+o.2.1	1(disz)	1(disz)[one]	NU
+o.2.2	amar	amar[calf][-ak]	N
+o.2.3	szeg9-bar-munus	_	N
+o.3.1	1(disz)	1(disz)[one]	NU
+o.3.2	amar	amar[calf][-ak]	N
+o.3.3	szeg9-bar-munus	_	N
+o.4.1	ki	ki[place]	N
+o.4.2	na-ra-am-i3-li2-ta	_	PN
+o.5.1	zu2-ga-li	_	PN
+r.1.1	szu	szu[hand][-e]	N
+r.1.2	ba-an-ti	ba-n-teg[accept][-ø]	V
+r.2.1	iti	iti[month]	N
+r.2.2	ezem-mah	Ezemmah[1][-'a]	MN
+r.3.1	mu	mu[year]	N
+r.3.2	us2-sa	us[follow]-a	V
+r.3.3	bad3	bad[wall]	N
+r.3.4	ma-da	mada[land][-ak][-ø]	N
+r.3.5	ba-du3	ba-du[build][-ø]	V

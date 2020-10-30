@@ -1,0 +1,25 @@
+#new_text=P142688
+# ID	FORM	SEGM	XPOSTAG	HEAD	DEPREL	MISC
+o.1.1	lugal-{gesz}gigir-re	Lugalgigire[1][-ra]	PN
+o.2.1	iti	iti[month]	N
+o.2.2	sig4-{gesz}i3-szub-ga2-ra-ta	_	MN
+o.3.1	1(u)	1(u)[ten]	NU
+o.3.2	3(disz)	3(disz)[one]	NU
+o.3.3	u4-am3	_	PN
+o.4.1	ba-ra-zal	_	V
+r.1.1	umma{ki}-a	_	SN
+r.1.2	mu-kux(DU)	mukur[delivery][-ø]	N
+r.2.1	unu{ki}-sze3	_	SN
+r.2.2	ma2-da-sze3	_	N
+r.2.3	ib2-szi-u3	_	V
+r.3.1	ugula	ugula[overseer][-ø]	N
+r.3.2	lu2-{d}nin-ur4-ra	Luninura[1][-ak]	PN
+r.4.1	mu	mu[year]	N
+r.4.2	us2-sa	us[follow]-a	V
+r.4.3	ki-masz{ki}	Kimasz[1]	SN
+r.4.4	u3	u[and]	CNJ
+r.4.5	hu-ur5-ti{ki}	Hurti[1][-ø]	GN
+s1.1.1	...	_[_]	PN
+s1.2.1	dub-sar	dubsar[scribe]	N
+s1.3.1	dumu	dumu[child]	N
+s1.3.2	lugal-...	_[1][-ra]	PN

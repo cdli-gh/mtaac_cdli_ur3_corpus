@@ -1,0 +1,22 @@
+#new_text=P123599
+# ID	FORM	SEGM	XPOSTAG	HEAD	DEPREL	MISC
+o.1.1	1(disz)	1(disz)[one]	NU
+o.1.2	sila4	sila[lamb]	N
+o.2.1	ARAD2-mu	Aradmu[1]	PN
+o.3.1	mu-kux(DU)	mukur[delivery][-ø]	N
+r.1.1	iti	iti[month]	N
+r.1.2	u5-bi2-gu7	Ubigu[1][-'a]	MN
+r.2.1	mu	mu[year]	N
+r.2.2	si-mu-ru	_	GN
+r.2.3	...	_[_]	PN
+r.2.4	u3	u[and]	CNJ
+r.2.5	lu-lu-bu	Lulubu[1][-ø]	SN
+r.2.6	...	_[_]	PN
+r.2.7	a-ra2	ara[times]	N
+r.2.8	1(u)	1(u)[ten]	NU
+r.2.9	la2	la[hang][-ø]	V
+r.2.10	1(disz)	1(disz)[one]	NU
+r.2.11	...	_[_]	PN
+r.2.12	ba-hul	ba-hulu[destroy][-ø]	V
+l.1.1	u4	ud[day]	N
+l.1.2	3(disz)-kam	3(disz)[one]-ak-am	NU

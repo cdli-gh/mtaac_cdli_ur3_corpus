@@ -1,0 +1,26 @@
+#new_text=P111909
+# ID	FORM	SEGM	XPOSTAG	HEAD	DEPREL	MISC
+o.1.1	2(disz)	2(disz)[one]	NU
+o.1.2	gu4	gud[ox]	N
+o.2.1	szu-gid2	szugid[animal_designation][-ø]	N
+o.3.1	sza3	szag[heart]	N
+o.3.2	masz2-da-re-a	_	PN
+o.3.3	kaskal-ta	_	N
+o.3.4	er-ra	_	PN
+o.4.1	giri3	giri[foot]	N
+o.4.2	ur-mes	Urmes[1]	PN
+o.4.3	aga3-us2	aga'us[soldier]	N
+o.4.4	lu2	lu[person]	N
+o.4.5	hu-ba-a	_	PN
+r.1.1	mu-kux(DU)	mukur[delivery][-ø]	N
+r.2.1	be-li2-a-zu	Beli’azu[1][-e]	PN
+r.3.1	i3-dab5	i[-n]-dab[seize][-ø]	V
+r.4.1	iti	iti[month]	N
+r.4.2	szu-esz5-sza	Szu'eszsza[1][-'a]	MN
+r.5.1	mu	mu[year]	N
+r.5.2	ha-ar-szi	Harszi[1][-ø]	PN
+r.5.3	u3	u[and]	CNJ
+r.5.4	ki-masz{ki}	Kimasz[1]	SN
+r.5.5	ba-hul	ba-hulu[destroy][-ø]	V
+l.1.1	2(disz)	2(disz)[one]	NU
+l.1.2	gu4	gud[ox]	N

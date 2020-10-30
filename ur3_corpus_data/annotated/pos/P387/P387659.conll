@@ -1,0 +1,26 @@
+#new_text=P387659
+# ID	FORM	SEGM	XPOSTAG	HEAD	DEPREL	MISC
+o.1.1	3(disz)	3(disz)[one]	NU
+o.1.2	{gi}gil	_	N
+o.1.3	dagal	dagal[wide][-ø]	V
+o.1.4	lam	_	V
+o.1.5	x	_[_]	N
+o.1.6	x	_[_]	N
+o.2.1	1(u)	1(u)[ten]	NU
+o.2.2	{gi}gil	_	N
+o.3.1	gid2-bi	gid[length]-bi[-ø]	N
+o.3.2	4(disz)	4(disz)[one]	NU
+o.3.3	1/2(disz)	1/2(disz)[one]	NU
+o.3.4	ninda-ta	nindan[unit]-ta	N
+o.4.1	mar-sa-asz	marsa[military_depot]-sze	PN
+r.1.1	ki	ki[place]	N
+r.1.2	ur-{d}szul-pa-e3-ta	Urszulpa'e[1][-ak]-ta	PN
+r.2.1	kiszib3	kiszib[seal]	N
+r.2.2	nig2-lagar-e	Niglagare[1]	N
+r.3.1	iti	iti[month]	N
+r.3.2	sze-sag-ku5	Szesagku[1][-'a]	MN
+r.4.1	mu	mu[year]	N
+r.4.2	us2-sa	us[follow]-a	V
+r.4.3	gu-za	guza[chair][-ø]	N
+r.4.4	{d}en-lil2-la2	Enlil[1][-ak][-ø]	DN
+r.4.5	ba-dim2	ba-dim[create][-ø]	V

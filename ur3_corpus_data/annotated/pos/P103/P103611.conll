@@ -1,0 +1,16 @@
+#new_text=P103611
+# ID	FORM	SEGM	XPOSTAG	HEAD	DEPREL	MISC
+o.1.1	1(disz)	1(disz)[one]	NU
+o.1.2	udu-nita2	udunita[ram]	N
+o.2.1	e2	e[house]	N
+o.2.2	{d}nin-szubur-sze3	_	DN
+o.3.1	1(disz)	1(disz)[one]	NU
+o.3.2	udu-nita2	udunita[ram]	N
+o.4.1	e2	e[house]	N
+o.4.2	{d}nin-e11-e	_	DN
+r.1.1	iti	iti[month]	N
+r.1.2	nesag	Nesag[1][-'a]	N
+r.2.1	mu	mu[year]	N
+r.2.2	us2-sa	us[follow]-a	V
+r.2.3	{d}szu-{d}suen	Szusuen[1]	RN
+r.2.4	lugal	lugal[king]	N

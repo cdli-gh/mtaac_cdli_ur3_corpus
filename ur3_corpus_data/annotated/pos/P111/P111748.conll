@@ -1,0 +1,22 @@
+#new_text=P111748
+# ID	FORM	SEGM	XPOSTAG	HEAD	DEPREL	MISC
+o.1.1	x	_[_]	N
+o.1.2	{gi}hal	hal[basket]	N
+o.2.1	szum2-sikil	_	V
+o.2.2	ba-an-gar	_	V
+o.3.1	nibru{ki}	Nibru[1][-'a]	SN
+o.3.2	ki	ki[place]	N
+o.3.3	lugal-sze3	lugal[king][-ak]-sze	N
+o.4.1	zi-gum2	_	PN
+o.4.2	ib2-de6	_	V
+r.1.1	giri3	giri[foot]	N
+r.1.2	lu2-{d}nanna	Lunanna[1]	PN
+r.2.1	u3	u[and]	CNJ
+r.2.2	giri3	giri[foot]	N
+r.2.3	ur-{d}ig-alim	Urigalim[1]	FN
+r.2.4	dumu-ni	dumu[child]-ani	N
+r.3.1	mu	mu[year]	N
+r.3.2	en	en[priest]	N
+r.3.3	{d}nanna	Nanna[1][-ak]	DN
+r.3.4	kar-zi-da	Karzida[1][-ak][-ak][-ø]	SN
+r.3.5	ba-hun	ba-hug[hire][-ø]	V

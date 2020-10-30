@@ -1,0 +1,13 @@
+#new_text=P380033
+# ID	FORM	SEGM	XPOSTAG	HEAD	DEPREL	MISC
+o.1'.1	lu2-{d}igi-ma-sze3	Lu'igimasze[1]	PN
+r.1.1	szu	szu[hand][-e]	N
+r.1.2	ba-ti	ba[-n]-teg[accept][-ø]	V
+r.2.1	giri3	giri[foot]	N
+r.2.2	lu2-gu-la	Lugula[1][-ak][-ra]	PN
+r.2.3	gu-za-la2	guzala[throne_bearer]	N
+r.3.1	iti	iti[month]	N
+r.3.2	munu4-gu7	Munugu[1][-'a]	MN
+r.4.1	mu	mu[year]	N
+r.4.2	sza-asz-ru-um{ki}	Szaszrum[1][-ø]	GN
+r.4.3	ba-hul	ba-hulu[destroy][-ø]	V

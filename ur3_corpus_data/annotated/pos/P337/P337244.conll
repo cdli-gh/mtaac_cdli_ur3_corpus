@@ -1,0 +1,26 @@
+#new_text=P337244
+# ID	FORM	SEGM	XPOSTAG	HEAD	DEPREL	MISC
+o.1.1	1(gesz2)	1(gesz)[sixty]	NU
+o.1.2	1(u)	1(u)[ten]	NU
+o.1.3	8(asz)	8(asz)[one]	NU
+o.1.4	1(barig)	1(bariga)[unit]	NU
+o.1.5	5(ban2)	5(ban)[unit]	NU
+o.1.6	sze	sze[barley]	N
+o.1.7	gur	gur[unit]	N
+o.2.1	a-sza3	aszag[field]	N
+o.2.2	a-pi4-sal4{ki}	Apisal[1][-ak]	GN
+o.3.1	4(u)	4(u)[ten]	NU
+o.3.2	3(asz)	3(asz)[one]	NU
+o.3.3	2(barig)	2(bariga)[unit]	NU
+o.3.4	gur	gur[unit]	N
+o.4.1	a-sza3	aszag[field]	N
+o.4.2	gu2-edin-na	Gu'edina[1][-ak][-'a]	SN
+o.4.3	u3	u[and]	CNJ
+o.4.4	musz-bi-an-na	Muszbi'anna[1][-ak]	FN
+o.5.1	sze	sze[barley]	N
+o.5.2	szuku-ra	szukur[ration]-ak	N
+o.5.3	ensi2-ka	ensik[ruler]-ak	N
+r.1.1	mu	mu[year]	N
+r.1.2	bad3	bad[wall]	N
+r.1.3	mar-tu	Martu[1][-ø]	EN
+r.1.4	ba-du3	ba-du[build][-ø]	V

@@ -1,0 +1,11 @@
+#new_text=P206260
+# ID	FORM	SEGM	XPOSTAG	HEAD	DEPREL	MISC
+o.1.1	pisan-dub-ba	bisagdubak[filing_basket]	N
+o.2.1	sa2-du11	sadug[offerings]	N
+o.2.2	kesz2-ra2	keszed[bind]-a	V
+o.3.1	e2	e[house]	N
+o.3.2	nin-dingir	_	PN
+o.3.3	{d}ba-ba6	_	DN
+o.4.1	kiszib3	kiszib[seal]	N
+o.4.2	inim-{d}ba-ba6	_	PN
+o.4.3	szabra	szabra[chief_administrator][-ak]	N

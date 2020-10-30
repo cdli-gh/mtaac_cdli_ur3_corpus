@@ -1,0 +1,23 @@
+#new_text=P133384
+# ID	FORM	SEGM	XPOSTAG	HEAD	DEPREL	MISC
+o.1.1	3(u)	3(u)[ten]	NU
+o.1.2	5(asz)	5(asz)[one]	NU
+o.1.3	sze	sze[barley]	N
+o.1.4	gur	gur[unit]	N
+o.2.1	sze	sze[barley]	N
+o.2.2	ur5-ra	urra[loan]	N
+o.2.3	su-su	sug-sug[repay][-ed]	V
+o.3.1	ki	ki[place]	N
+o.3.2	lugal-dur2-du10-ta	_	PN
+o.4.1	kiszib3	kiszib[seal]	N
+o.4.2	ur-{d}ba-ba6	Urbaba[1]	PN
+r.1.1	mu	mu[year]	N
+r.1.2	en	en[priest]	N
+r.1.3	{d}inanna	Inanna[1][-ak]	DN
+r.1.4	unu{ki}	Unug[1][-ak][-ak][-ø]	SN
+r.1.5	masz2-e	masz[goat]-e	N
+r.1.6	i3-pa3	i-pad[find][-ø]	V
+s1.1.1	ur-{d}ba-ba6	Urbaba[1]	PN
+s1.2.1	dub-sar	dubsar[scribe]	N
+s1.3.1	dumu	dumu[child]	N
+s1.3.2	ug3-IL2	uggaga[porter]	N

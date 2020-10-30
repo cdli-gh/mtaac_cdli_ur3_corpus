@@ -1,0 +1,19 @@
+#new_text=P290397
+# ID	FORM	SEGM	XPOSTAG	HEAD	DEPREL	MISC
+o.1.1	1(barig)	1(bariga)[unit]	NU
+o.1.2	1(ban2)	1(ban)[unit]	NU
+o.1.3	kasz	kasz[beer]	N
+o.1.4	saga	saga[good][-ø]	V
+o.1.5	szar3	szar[cloth_designation][-ø]	V
+o.2.1	3(barig)	3(bariga)[unit]	NU
+o.2.2	3(ban2)	3(ban)[unit]	NU
+o.2.3	kasz	kasz[beer]	N
+o.2.4	du	gin[quality_designation][-ø]	V
+o.3.1	ki	ki[place]	N
+o.3.2	da-da-a-ta	_	PN
+o.4.1	{d}nin-e2-gal-igi-du	_	PN
+o.5.1	szu	szu[hand][-e]	N
+o.5.2	ba-ti	ba[-n]-teg[accept][-ø]	V
+r.1.1	sza3	szag[heart]	N
+r.1.2	dub-ba	[dub-ba]	N
+r.1.3	{d}nin-e2-gal-igi-du	_	PN

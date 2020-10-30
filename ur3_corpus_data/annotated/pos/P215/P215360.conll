@@ -1,0 +1,15 @@
+#new_text=P215360
+# ID	FORM	SEGM	XPOSTAG	HEAD	DEPREL	MISC
+o.col1.1'.1	...	_[_]	PN
+o.col1.1'.2	gi-ME	_	PN
+o.col1.2'.1	x	_[_]	N
+o.col1.2'.2	hub2	_	V
+o.col1.3'.1	sa12-rig7	_	N
+o.col1.4'.1	ummeda	_	N
+o.col1.5'.1	szaganx(AMA){gan}	_	N
+o.col2.1'.1	kisz	_	N
+o.col2.1'.2	...	_[_]	PN
+o.col2.2'.1	lu2	lu[person]	N
+o.col2.2'.2	...	_[_]	PN
+o.col2.3'.1	lu	_	V
+o.col2.3'.2	...	_[_]	PN

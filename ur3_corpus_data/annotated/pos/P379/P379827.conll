@@ -1,0 +1,19 @@
+#new_text=P379827
+# ID	FORM	SEGM	XPOSTAG	HEAD	DEPREL	MISC
+o.1.1	szim	_	N
+o.1.2	i3	i[oil]	N
+o.2.1	8(disz)	8(disz)[one]	NU
+o.2.2	dug	dug[pot]	N
+o.2.3	tu7	tu[soup]	N
+o.3.1	szim	_	N
+o.3.2	i3	i[oil]	N
+o.3.3	za3-ga	_	N
+o.3.4	{d}nin-gir2-su-sze3	_	DN
+o.4.1	ki	ki[place]	N
+o.4.2	a-gi4-ta	_	PN
+r.1.1	ur-{d}sag-ku5	_	PN
+r.2.1	szu	szu[hand][-e]	N
+r.2.2	ba-ti	ba[-n]-teg[accept][-ø]	V
+r.3.1	mu	mu[year]	N
+r.3.2	{d}amar-{d}suen	Amarsuen[1]	RN
+r.3.3	lugal	lugal[king]	N

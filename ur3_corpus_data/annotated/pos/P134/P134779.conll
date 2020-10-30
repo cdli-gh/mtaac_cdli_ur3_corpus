@@ -1,0 +1,25 @@
+#new_text=P134779
+# ID	FORM	SEGM	XPOSTAG	HEAD	DEPREL	MISC
+o.1.1	5(u)	5(u)[ten]	NU
+o.1.2	2(disz)	2(disz)[one]	NU
+o.1.3	udu	udu[sheep]	N
+o.2.1	ki	ki[place]	N
+o.2.2	sipa-e-ne-ta	_	PN
+o.3.1	1(disz)	1(disz)[one]	NU
+o.3.2	u8	u[ewe]	N
+o.3.3	ki	ki[place]	N
+o.3.4	|KAxX|-ta	_	PN
+o.4.1	1(disz)	1(disz)[one]	NU
+o.4.2	sila4	sila[lamb]	N
+o.4.3	ur-{d}nin-mah	_	PN
+o.5.1	1(disz)	1(disz)[one]	NU
+o.5.2	udu	udu[sheep]	N
+o.5.3	sza-ab-lu-a	_	V
+o.6.1	8(disz)	8(disz)[one]	NU
+o.6.2	udu	udu[sheep]	N
+o.6.3	isz-me-dingir	_	PN
+r.1.1	1(gesz2)	1(gesz)[sixty]	NU
+r.1.2	3(disz)	3(disz)[one]	NU
+r.2.1	ugu2	ugu[capital]	N
+r.2.2	sa3-si2-ka	_	PN
+r.2.3	ga2-ga2-dam	gar-gar[place]-ed-am	V

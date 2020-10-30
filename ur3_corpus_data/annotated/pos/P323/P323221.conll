@@ -1,0 +1,20 @@
+#new_text=P323221
+# ID	FORM	SEGM	XPOSTAG	HEAD	DEPREL	MISC
+o.col1.1'.1	...-x	_[_]	WN
+o.col1.2'.1	n	_(_)[_]	NU
+o.col1.2'.2	gurusz	gurusz[male]	N
+o.col1.2'.3	szitim	_	N
+o.col1.2'.4	um-mi-a	_	PN
+o.col1.3'.1	n	_(_)[_]	NU
+o.col1.3'.2	gurusz	gurusz[male]	N
+o.col1.3'.3	szitim	_	N
+o.col1.4'.1	n	_(_)[_]	NU
+o.col1.4'.2	gurusz	gurusz[male]	N
+o.col1.4'.3	szu	szu[hand][-e]	N
+o.col1.4'.4	dim4	_	N
+o.col1.4'.5	DU	gin[quality_designation][-ø]	PN
+o.col2.1'.1	...	_[_]	PN
+o.col2.2'.1	...	_[_]	PN
+o.col2.2'.2	de6-a	de[bring]-a	V
+o.col2.3'.1	...	_[_]	PN
+o.col2.4'.1	...	_[_]	PN

@@ -1,0 +1,23 @@
+#new_text=P138177
+# ID	FORM	SEGM	XPOSTAG	HEAD	DEPREL	MISC
+o.col1'.1'.1	x	_[_]	N
+o.col1'.1'.2	ur-{d}...	_[1][-ra]	PN
+o.col1'.2'.1	a2	a[time]	N
+o.col1'.2'.2	usz-bar	uszbar[weaver][-ak]	N
+o.col1'.2'.3	x	_[_]	N
+o.col1'.2'.4	x	_[_]	N
+o.col1'.3'.1	ur-{d}isztaran	Urisztaran[1]	PN
+o.col1'.3'.2	szusz3	kusz[cattle_manager][-ak]	N
+o.col1'.4'.1	usz2	usz[dead][-ø]	N
+o.col1'.4'.2	MASZ	_	NU
+o.col1'.4'.3	dumu-nita2	_	N
+o.col1'.4'.4	du8-da	_	V
+o.col1'.4'.5	ti	_	N
+o.col1'.4'.6	...	_[_]	PN
+o.col1'.5'.1	tusz-a	tusz[dewell]-a	V
+o.col1'.5'.2	geme2	geme[female_worker]	N
+o.col1'.5'.3	kikken2	_	N
+o.col1'.5'.4	na-gab2-tum	nakabtum[stockyard][-ak][-ak]	N
+o.col1'.6'.1	egir-bi	egir[back]-bi[-ø]	N
+o.col1'.6'.2	NIG2	nig[unknown]	N
+o.col1'.6'.3	...	_[_]	PN

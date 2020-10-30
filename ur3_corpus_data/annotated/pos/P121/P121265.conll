@@ -1,0 +1,20 @@
+#new_text=P121265
+# ID	FORM	SEGM	XPOSTAG	HEAD	DEPREL	MISC
+o.1.1	1(disz)	1(disz)[one]	NU
+o.1.2	er-szum	_	PN
+o.2.1	1(disz)	1(disz)[one]	NU
+o.2.2	puzur4-zu	_	PN
+o.3.1	1(disz)	1(disz)[one]	NU
+o.3.2	i-hi-lum	_	PN
+o.4.1	1(disz)	1(disz)[one]	NU
+o.4.2	e-la-ni	_	V
+o.5.1	1(disz)	1(disz)[one]	NU
+o.5.2	szu-hu-bu-ur	_	PN
+o.6.1	1(disz)	1(disz)[one]	NU
+o.6.2	en-ne-nu-um	_	PN
+r.1.1	dumu	dumu[child]	N
+r.1.2	se-lu-lu	_	PN
+r.2.1	1(disz)	1(disz)[one]	NU
+r.2.2	esz18-dar-la-ba	_	PN
+r.3.1	dumu	dumu[child]	N
+r.3.2	puzur4-a-szur6	_	PN

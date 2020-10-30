@@ -1,0 +1,23 @@
+#new_text=P103854
+# ID	FORM	SEGM	XPOSTAG	HEAD	DEPREL	MISC
+o.1.1	...	_[_]	PN
+o.2.1	n	_(_)[_]	NU
+o.2.2	1(disz)	1(disz)[one]	NU
+o.2.3	gu4	gud[ox]	N
+o.2.4	mu	mu[year]	N
+o.2.5	2(disz)	2(disz)[one]	NU
+o.3.1	mu	mu[year]	N
+o.3.2	bala-a-sze3	bala[tax]-ak-sze	N
+o.4.1	ki	ki[place]	N
+o.4.2	na-we-er-dingir-ta	_	PN
+r.1.1	in-ta-e3-a	Inta'e'a[1][-e]	PN
+r.1.2	i3-dab5	i[-n]-dab[seize][-ø]	V
+r.2.1	iti	iti[month]	N
+r.2.2	a2-ki-ti	Akiti[1][-'a]	N
+r.3.1	mu	mu[year]	N
+r.3.2	{d}szu-{d}suen	Szusuen[1]	RN
+r.3.3	lugal	lugal[king]	N
+r.3.4	uri5{ki}-ma-ke4	Urim[1]-ak-e	SN
+r.3.5	bad3	bad[wall]	N
+r.3.6	mar-tu	Martu[1][-ø]	EN
+r.3.7	mu-du3	mu[-n]-du[build][-ø]	V

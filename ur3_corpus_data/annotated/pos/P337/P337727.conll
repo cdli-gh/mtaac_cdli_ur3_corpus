@@ -1,0 +1,25 @@
+#new_text=P337727
+# ID	FORM	SEGM	XPOSTAG	HEAD	DEPREL	MISC
+o.1.1	...	_[_]	PN
+o.2.1	...	_[_]	PN
+o.3.1	...	_[_]	PN
+o.3.2	niga	niga[fattened][-ø]	V
+o.4.1	...	_[_]	PN
+o.4.2	inanna	_	DN
+o.5.1	...-ga-sze3	_	 
+r.1.1	da-a-a	_	PN
+r.1.2	szabra	szabra[chief_administrator][-ak]	N
+r.1.3	i3-dab5	i[-n]-dab[seize][-ø]	V
+r.2.1	ki	ki[place]	N
+r.2.2	ur-ku3-nun-na-ta	Urkununa[1][-ak]-ta	PN
+r.3.1	ba-zi	ba-zig[expend][-ø]	PN
+r.4.1	iti	iti[month]	N
+r.4.2	a2-ki-ti	Akiti[1][-'a]	N
+r.5.1	mu	mu[year]	N
+r.5.2	{d}szu-{d}suen	Szusuen[1]	RN
+r.5.3	lugal	lugal[king]	N
+r.5.4	uri5{ki}-ma-ke4	Urim[1]-ak-e	SN
+r.5.5	ma2-gur8-mah	magurmah[great_barge][-ø]	N
+r.5.6	{d}en-lil2	Enlil[1]	DN
+r.5.7	{d}nin-lil2-ra	Ninlil[1]-ra	DN
+r.5.8	mu-ne-dim2	mu-nnee[-a][-n]-dim[create][-ø]	V

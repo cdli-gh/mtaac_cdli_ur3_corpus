@@ -1,0 +1,11 @@
+#new_text=P137553
+# ID	FORM	SEGM	XPOSTAG	HEAD	DEPREL	MISC
+o.1.1	2(disz)	2(disz)[one]	NU
+o.1.2	udu	udu[sheep]	N
+o.2.1	1(disz)	1(disz)[one]	NU
+o.2.2	masz2	masz[goat]	N
+o.3.1	iszib	iszib[priest]	N
+o.3.2	{d}nin-gubalag	Ningubalag[1][-ra]	DN
+o.4.1	mu-kux(DU)	mukur[delivery][-ø]	N
+r.1.1	iti	iti[month]	N
+r.1.2	me-ki-gal2	_	MN

@@ -1,0 +1,24 @@
+#new_text=P137239
+# ID	FORM	SEGM	XPOSTAG	HEAD	DEPREL	MISC
+o.1.1	1(ban2)	1(ban)[unit]	NU
+o.1.2	zi3-gu	zidgu[flour_type]	N
+o.2.1	2(ban2)	2(ban)[unit]	NU
+o.2.2	dabin	dabin[semolina]	N
+o.3.1	lu2	lu[person]	N
+o.3.2	kin-gi4-a	kiggia[messenger]	N
+o.3.3	lugal	lugal[king]	N
+o.4.1	e2	e[house]	N
+o.4.2	hur-sag-ga2	_	V
+o.5.1	kin	kig[work]	N
+o.5.2	engur-ra-ke4	_	N
+o.6.1	ib2-tuku-a	_	V
+r.1.1	giri3-al-ba-ni-a-du11	_	N
+r.1.2	szitim	_	N
+r.2.1	ki	ki[place]	N
+r.2.2	ur-ge6-par4-ra-ka-ta	_	PN
+r.3.1	ba-zi	ba-zig[expend][-ø]	PN
+r.4.1	iti	iti[month]	N
+r.4.2	a2-ki-ti	Akiti[1][-'a]	N
+r.5.1	mu	mu[year]	N
+r.5.2	{d}amar-{d}suen	Amarsuen[1]	RN
+r.5.3	lugal	lugal[king]	N

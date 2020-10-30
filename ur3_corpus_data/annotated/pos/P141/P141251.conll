@@ -1,0 +1,22 @@
+#new_text=P141251
+# ID	FORM	SEGM	XPOSTAG	HEAD	DEPREL	MISC
+o.1.1	1/2(disz)	1/2(disz)[one]	NU
+o.1.2	ma-na	mana[unit]	N
+o.2.1	gin2	gig[unit]	N
+o.2.2	1(u)	1(u)[ten]	NU
+o.2.3	8(disz)	8(disz)[one]	NU
+o.2.4	sze	sze[barley]	N
+o.2.5	uruda	urud[copper][-ak]	N
+o.3.1	nig2-ka9-ak	nigSZID[account]	N
+o.4.1	ki	ki[place]	N
+o.4.2	...-{d}suen-ta	_	PN
+r.1.1	lugal-sza3-la2	_	N
+r.2.1	su-su-dam	sug-sug[repay]-ed[-ø]-am	PN
+r.3.1	nig2-dim2-ma-bi	_	N
+r.3.2	ib2-ta-zi	_	V
+r.4.1	sza3	szag[heart]	N
+r.5.1	iti	iti[month]	N
+r.5.2	ezem-{d}szul-gi	Ezemszulgir[1][-'a]	MN
+r.6.1	mu	mu[year]	N
+r.6.2	{d}i-bi2-{d}suen	Ibbisuen[1]	RN
+r.6.3	lugal-sze3	lugal[king][-ak]-sze	N

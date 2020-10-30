@@ -1,0 +1,21 @@
+#new_text=P210505
+# ID	FORM	SEGM	XPOSTAG	HEAD	DEPREL	MISC
+o.1.1	1(disz)	1(disz)[one]	NU
+o.1.2	gukkal	gukkal[fat-tailed_sheep]	N
+o.2.1	1(disz)	1(disz)[one]	NU
+o.2.2	ud5	uzud[goat]	N
+o.3.1	ba-usz2	ba-ug[die][-esz]	V
+o.4.1	u4	ud[day]	N
+o.4.2	5(disz)-kam	5(disz)[one]-ak-am[-ak][-ø]	NU
+r.1.1	sza3	szag[heart]	N
+r.1.2	tum-ma-al	Tummal[1][-ak][-'a]	SN
+r.2.1	ki	ki[place]	N
+r.2.2	en-dingir-mu-ta	Endingirmu[1][-ak]-ta	PN
+r.3.1	ur-nigar{gar}	Urnigar[1]	PN
+r.4.1	szu	szu[hand][-e]	N
+r.4.2	ba-ti	ba[-n]-teg[accept][-ø]	V
+r.5.1	iti	iti[month]	N
+r.5.2	ezem-{d}szul-gi	Ezemszulgir[1][-'a]	MN
+r.6.1	mu	mu[year]	N
+r.6.2	{d}amar-{d}suen	Amarsuen[1]	RN
+r.6.3	lugal	lugal[king]	N

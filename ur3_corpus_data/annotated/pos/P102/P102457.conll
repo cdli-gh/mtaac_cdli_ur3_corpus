@@ -1,0 +1,24 @@
+#new_text=P102457
+# ID	FORM	SEGM	XPOSTAG	HEAD	DEPREL	MISC
+o.1.1	1(disz)	1(disz)[one]	NU
+o.1.2	masz2	masz[goat]	N
+o.2.1	ga	ga[milk]	N
+o.2.2	gu7	_	V
+o.3.1	giri3	giri[foot]	N
+o.3.2	en-bara2	_	PN
+o.3.3	sagi	sagi[cup_bearer][-ø]	N
+o.4.1	2(disz)	2(disz)[one]	NU
+o.4.2	udu	udu[sheep]	N
+o.4.3	diri	diri[intercalary_month]	N
+o.4.4	e2-gal	egal[palace][-ak][-'a]	N
+o.5.1	la-ba-an-ku4	_	V
+r.1.1	giri3	giri[foot]	N
+r.1.2	{d}nin-gir2-su-ka-i3-sa6	_	PN
+r.2.1	zi-ga	zig[expend]-a	V
+r.3.1	iti	iti[month]	N
+r.3.2	sze-sag11-ku5	Szesagku[1][-'a]	MN
+r.4.1	mu	mu[year]	N
+r.4.2	us2-sa	us[follow]-a	V
+r.4.3	e2	e[house]	N
+r.4.4	puzur4-isz-{d}da-gan	Puzuriszdagan[1][-ø]	SN
+r.4.5	ba-du3	ba-du[build][-ø]	V

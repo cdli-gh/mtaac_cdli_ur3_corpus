@@ -1,0 +1,23 @@
+#new_text=P218231
+# ID	FORM	SEGM	XPOSTAG	HEAD	DEPREL	MISC
+o.1.1	6(disz)	6(disz)[one][-sze]	NU
+o.1.2	udu-gal	_	N
+o.2.1	nig2-dab5	nigdab[requisitions]	N
+o.2.2	sa2-du11	sadug[offerings]	N
+o.3.1	4(disz)	4(disz)[one]	NU
+o.3.2	masz2	masz[goat]	N
+o.3.3	sa2-du11	sadug[offerings]	N
+o.4.1	ki	ki[place]	N
+o.4.2	lu2-dingir-ra-ta	Ludingira[1][-ak]-ta	PN
+r.1.1	udu	udu[sheep]	N
+r.1.2	szuku-ra	szukur[ration]-ak	N
+r.2.1	lugal-nam2-mah	_	PN
+r.2.2	i3-dab5	i[-n]-dab[seize][-ø]	V
+r.3.1	iti	iti[month]	N
+r.3.2	munu4-gu7-ta	_	MN
+r.3.3	iti	iti[month]	N
+r.3.4	ezem-{d}szul-gi-sze3	Ezemszulgir[1]-sze	MN
+r.4.1	mu	mu[year]	N
+r.4.2	e2	e[house]	N
+r.4.3	{d}szara2	Szara[1][-ak]	DN
+r.4.4	ba-du3	ba-du[build][-ø]	V

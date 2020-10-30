@@ -1,0 +1,21 @@
+#new_text=P458443
+# ID	FORM	SEGM	XPOSTAG	HEAD	DEPREL	MISC
+a.col1.1.1	{d}tiszpak	_	PN
+a.col1.2.1	lugal	lugal[king]	N
+a.col1.2.2	da-num2	_	PN
+a.col1.3.1	lugal	lugal[king]	N
+a.col1.3.2	ma-at	_	PN
+a.col1.3.3	wa-ri-im	_	PN
+a.col1.4.1	lugal	lugal[king]	N
+a.col1.5.1	ki-ib-ra-at	_	PN
+a.col1.6.1	ar-ba-im	_	PN
+a.col1.7.1	{d}szu-i3-li2-a	_	PN
+a.col1.8.1	ugula-szu	_	PN
+a.col2.1.1	na-ra-am	_	N
+a.col2.2.1	{d}be-la-at-te-ra-ba-an	_	PN
+a.col2.3.1	{d}be-la-at-suh-ner	Belatsuhner[1]	DN
+a.col2.4.1	{d}iszkur	_	DN
+a.col2.5.1	u3	u[and]	CNJ
+a.col2.5.2	{d}...	_[1][-'a]	MN
+a.col2.6.1	i-...	_	PN
+a.col2.7.1	mu-usz-te-mi-qum	_	PN

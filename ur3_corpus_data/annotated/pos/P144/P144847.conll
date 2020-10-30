@@ -1,0 +1,24 @@
+#new_text=P144847
+# ID	FORM	SEGM	XPOSTAG	HEAD	DEPREL	MISC
+o.1.1	sze-ba	szeba[ration]	N
+o.1.2	a2-du	_	AJ
+o.2.1	u3	u[and]	CNJ
+o.2.2	dumu-ne-ne	_	N
+o.3.1	iti	iti[month]	N
+o.3.2	dal-ta	_	N
+o.3.3	sze	sze[barley]	N
+o.3.4	nu-ba-da	_	V
+o.4.1	la2-ia3	la'u[arrears]	N
+o.4.2	su-ga	sug[repay]-a	V
+o.4.3	gu4-sze3	_	N
+r.1.1	a2-du	_	AJ
+r.2.1	u3	u[and]	CNJ
+r.2.2	{d}en-lil2-la2-i3-sa6-ke4	_	DN
+r.3.1	bi2-in-du11	b-i-n-dug[speak][-ø]	PN
+r.4.1	mu	mu[year]	N
+r.4.2	us2-sa	us[follow]-a	V
+r.4.3	bad3	bad[wall]	N
+r.4.4	mar-tu	Martu[1][-ø]	EN
+r.4.5	ba-du3-a	ba-du[build][-ø]	V
+r.4.6	mu	mu[year]	N
+r.4.7	us2-sa-bi	us[follow]-a-bi	V

@@ -1,0 +1,19 @@
+#new_text=P120745
+# ID	FORM	SEGM	XPOSTAG	HEAD	DEPREL	MISC
+o.1.1	1(disz)	1(disz)[one]	NU
+o.1.2	ba-za-num2	_	PN
+o.2.1	dumu	dumu[child]	N
+o.2.2	mi-ni	_	PN
+o.3.1	1(disz)	1(disz)[one]	NU
+o.3.2	a-da-lal3	Adalal[1][-ra]	N
+o.4.1	dumu	dumu[child]	N
+o.4.2	musz-igi-ni-x	_	PN
+r.1.1	lu2	lu[person]	N
+r.1.2	iri-ak-zi2-me	_	N
+r.2.1	a-la-a	_	PN
+r.2.2	sukkal	sukkal[secretary][-ak][-ra]	N
+r.3.1	he2-gi-in	_	PN
+r.4.1	im	im[clay][-ø]	N
+r.4.2	lu2	lu[person]	N
+r.4.3	|BAD3.AN|{ki}-ka	_	PN
+r.5.1	dah-e-dam	_	PN

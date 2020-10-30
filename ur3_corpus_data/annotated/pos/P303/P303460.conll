@@ -1,0 +1,22 @@
+#new_text=P303460
+# ID	FORM	SEGM	XPOSTAG	HEAD	DEPREL	MISC
+o.1.1	ku3-sig17	kugsig[gold]	N
+o.1.2	zi-ga	zig[expend]-a	V
+o.2.1	{kusz}suhub2	suhub[boots]	N
+o.2.2	e-sir2	_	N
+o.3.1	mu	mu[year]	N
+o.3.2	ma2	ma[ship]	N
+o.3.3	{d}en-ki	Enki[1][-ak][-ø]	DN
+o.3.4	ba-ab-du8	ba-b-du[caulk][-ø]	V
+s1.col1.1.1	{d}szu-{d}suen	Szusuen[1]	RN
+s1.col1.2.1	lugal	lugal[king]	N
+s1.col1.2.2	kal-ga	kalag[strong]-a	V
+s1.col1.3.1	lugal	lugal[king]	N
+s1.col1.3.2	uri5{ki}-ma	Urim[1]-ak	SN
+s1.col1.4.1	lugal	lugal[king]	N
+s1.col1.4.2	an	An[1][-ra]	N
+s1.col1.4.3	ub-da	_	N
+s1.col1.4.4	limmu2-ba	limmu[four]-bi-ak[-ø]	V
+s1.col2.1.1	lugal-ku3-ga-ni	Lugalkugani[1][-ak]	PN
+s1.col2.2.1	dub-sar	dubsar[scribe]	N
+s1.col2.3.1	ARAD2-zu	arad[slave]-zu[-ø]	PN

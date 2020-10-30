@@ -1,0 +1,14 @@
+#new_text=P226475
+# ID	FORM	SEGM	XPOSTAG	HEAD	DEPREL	MISC
+o.col1.1.1	{d}inanna	Inanna[1][-ak]	DN
+o.col1.2.1	nin-a-ni	nin[lady]-ani[-ra]	PN
+o.col1.3.1	ur-{d}namma	Urnamma[1]	RN
+o.col1.4.1	nita	nita[male]	N
+o.col1.4.2	kal-ga	kalag[strong]-a	V
+o.col2.1.1	lugal	lugal[king]	N
+o.col2.1.2	uri5{ki}-ma	Urim[1]-ak	SN
+o.col2.2.1	lugal	lugal[king]	N
+o.col2.2.2	ki-en-gi	ki'engi[1]	GN
+o.col2.2.3	ki-uri-ke4	_	GN
+o.col2.3.1	e2-a-ni	_	TN
+o.col2.4.1	mu-na-du3	mu-nn-a[-n]-du[build][-ø]	V

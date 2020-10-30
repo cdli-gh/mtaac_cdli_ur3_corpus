@@ -1,0 +1,27 @@
+#new_text=P145769
+# ID	FORM	SEGM	XPOSTAG	HEAD	DEPREL	MISC
+o.1.1	szesz-sa6-ga-ra	_	PN
+o.2.1	u3-na-a-du11	u-nn-a-e-dug[speak][-ø]	N
+o.3.1	1(bur3)	1(bur)[unit]	NU
+o.3.2	2(esze3)	2(esze)[unit]	NU
+o.3.3	GAN2	gana[field]	N
+o.3.4	gurx(|SZE.KIN|)-a	gur[reap]-a	V
+o.4.1	amar-szuba2-ra	_	PN
+o.5.1	mu-mu-sze3	_	N
+r.1.1	szu	szu[hand][-e]	N
+r.1.2	he2-na-a-bar-re	_	V
+r.2.1	ki-ga2	_	N
+r.2.2	kin-gi4-a	kiggia[messenger]	N
+r.2.3	ib-gi4-gi4	_	PN
+s1.col1.1.1	{d}szu-{d}suen	Szusuen[1]	RN
+s1.col1.2.1	lugal	lugal[king]	N
+s1.col1.2.2	kal-ga	kalag[strong]-a	V
+s1.col1.3.1	lugal	lugal[king]	N
+s1.col1.3.2	uri5{ki}-ma	Urim[1]-ak	SN
+s1.col1.4.1	lugal	lugal[king]	N
+s1.col1.4.2	an	An[1][-ra]	N
+s1.col1.4.3	ub-da	_	N
+s1.col1.4.4	limmu2-ba	limmu[four]-bi-ak[-ø]	V
+s1.col2.1.1	i3-li2-mi-di3	_	PN
+s1.col2.2.1	sal-hu-ba	_	V
+s1.col2.3.1	ARAD2-zu	arad[slave]-zu[-ø]	PN

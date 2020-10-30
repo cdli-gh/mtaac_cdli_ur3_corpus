@@ -1,0 +1,16 @@
+#new_text=P218223
+# ID	FORM	SEGM	XPOSTAG	HEAD	DEPREL	MISC
+o.1.1	1(disz)	1(disz)[one]	NU
+o.1.2	lu2-{d}nin-szubur	Luninszubur[1][-ra]	PN
+o.2.1	dumu	dumu[child]	N
+o.2.2	he2-sa6	Hesa[1]	PN
+o.3.1	im-e	_	N
+o.3.2	tak4-a-ta	_	V
+o.4.1	ur-ba-gara2	Urbagara[1]	PN
+o.4.2	dumu	dumu[child]	N
+o.4.3	ur-{d}nunuz-kad4{muszen}	_	PN
+o.4.4	i3-dab5	i[-n]-dab[seize][-ø]	V
+r.1.1	szesz-tab-ba-sze3	_	N
+r.2.1	mu	mu[year]	N
+r.2.2	ma2-gur8-mah	magurmah[great_barge][-ø]	N
+r.2.3	ba-dim2	ba-dim[create][-ø]	V

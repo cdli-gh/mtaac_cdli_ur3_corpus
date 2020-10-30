@@ -1,0 +1,23 @@
+#new_text=P107275
+# ID	FORM	SEGM	XPOSTAG	HEAD	DEPREL	MISC
+a.1.1	kuruszda-e	_	N
+a.1.2	ib2-dab5	_	V
+a.2.1	u4	ud[day]	N
+a.2.2	3(u)-kam	3(u)[ten]-ak-am	NU
+a.3.1	iti	iti[month]	N
+a.3.2	a2-ki-ti	Akiti[1][-'a]	N
+a.4.1	mu	mu[year]	N
+a.4.2	{d}gu-za	guza[chair]	PN
+a.4.3	ba-dim2	ba-dim[create][-ø]	V
+s1.col1.1.1	{d}szul-gi	Szulgir[1]	RN
+s1.col1.2.1	nita	nita[male]	N
+s1.col1.2.2	kal-ga	kalag[strong]-a	V
+s1.col1.3.1	lugal	lugal[king]	N
+s1.col1.3.2	uri5{ki}-ma	Urim[1]-ak	SN
+s1.col1.4.1	{d}szara2-kam	Szarakam[1]	PN
+s1.col2.1.1	dub-sar	dubsar[scribe]	N
+s1.col2.2.1	dumu	dumu[child]	N
+s1.col2.2.2	inim-{d}szara2	Inimszara[1][-ak][-ra]	PN
+s1.col2.3.1	sa12-du5	sagDUN[land_recorder][-ak]	N
+s1.col2.3.2	lugal-ka	_	DN
+s1.col2.4.1	ARAD2-zu	arad[slave]-zu[-ø]	PN

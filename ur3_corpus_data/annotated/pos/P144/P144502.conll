@@ -1,0 +1,25 @@
+#new_text=P144502
+# ID	FORM	SEGM	XPOSTAG	HEAD	DEPREL	MISC
+o.1.1	5(u)	5(u)[ten]	NU
+o.1.2	gurusz	gurusz[male]	N
+o.1.3	u4	ud[day]	N
+o.1.4	1(disz)-sze3	1(disz)[one]-sze	NU
+o.2.1	in-u	innu[straw]	N
+o.2.2	du3-a	du[build]-a	V
+o.2.3	u3	u[and]	CNJ
+o.2.4	im	im[clay][-ø]	N
+o.2.5	ur3-ra	ur[level_off]-a	V
+o.2.6	ki-su7	kisur[threshing_floor]	N
+o.2.7	nin10-nu-du3-a	_	FN
+o.3.1	ugula	ugula[overseer][-ø]	N
+o.3.2	ARAD2	arad[slave]	N
+r.1.1	kiszib3	kiszib[seal]	N
+r.1.2	lugal-he2-gal2	Lugalhegal[1]	PN
+r.2.1	mu	mu[year]	N
+r.2.2	ma2	ma[ship]	N
+r.2.3	{d}en-ki	Enki[1][-ak][-ø]	DN
+r.2.4	ba-ab-du8	ba-b-du[caulk][-ø]	V
+s1.1.1	lugal-he2-gal2	Lugalhegal[1]	PN
+s1.2.1	dub-sar	dubsar[scribe]	N
+s1.3.1	dumu	dumu[child]	N
+s1.3.2	ma-an-szum2	Manszum[1][-ak]	PN

@@ -1,0 +1,24 @@
+#new_text=P212010
+# ID	FORM	SEGM	XPOSTAG	HEAD	DEPREL	MISC
+eo.1.1	3(u)	3(u)[ten]	NU
+eo.1.2	3(asz)	3(asz)[one]	NU
+eo.1.3	2(barig)	2(bariga)[unit]	NU
+eo.1.4	3(ban2)	3(ban)[unit]	NU
+eo.1.5	sze	sze[barley]	N
+eo.1.6	gur	gur[unit]	N
+eo.1.7	sze	sze[barley]	N
+eo.1.8	apin-la2	apinla[tenancy]	N
+eo.2.1	a-sza3	aszag[field]	N
+eo.2.2	na-ra-am-i3-li2	Naramili[1]	PN
+eo.3.1	kiszib3	kiszib[seal]	N
+eo.3.2	i-di3-er3-ra	_	PN
+eo.4.1	mu	mu[year]	N
+eo.4.2	a-ra2	ara[times]	N
+eo.4.3	2(disz)-kam-asz	_	NU
+eo.4.4	kar2-har{ki}	_	GN
+eo.4.5	ba-hul	ba-hulu[destroy][-ø]	V
+s1.1.1	la-ni	Lani[1]	PN
+s1.1.2	sukkal-mah	_	PN
+s1.2.1	i-di3-er3-ra	_	PN
+s1.3.1	dub-sar	dubsar[scribe]	N
+s1.3.2	ARAD2-zu	arad[slave]-zu[-ø]	PN

@@ -1,0 +1,16 @@
+#new_text=P378726
+# ID	FORM	SEGM	XPOSTAG	HEAD	DEPREL	MISC
+o.1.1	1(disz)	1(disz)[one]	NU
+o.1.2	sila4-nita2	_	N
+o.2.1	ki	ki[place]	N
+o.2.2	ensi2-ta	ensik[ruler][-ak]-ta	N
+o.3.1	mu-kux(DU)	mukur[delivery][-ø]	N
+o.4.1	ki	ki[place]	N
+o.4.2	nin-dingir	_	PN
+r.1.1	sag-nig2-gur11-ra-kam	sagnigGArak[available_assets][-ø]-am	N
+r.2.1	iti	iti[month]	N
+r.2.2	amar-a-a-si	Amarayasi[1][-'a]	MN
+r.3.1	mu	mu[year]	N
+r.3.2	en	en[priest]	N
+r.3.3	eridu{ki}	Eridug[1][-ak][-ø]	SN
+r.3.4	ba-a-hun	ba-hug[hire][-ø]	V

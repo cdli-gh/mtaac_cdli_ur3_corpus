@@ -1,0 +1,15 @@
+#new_text=P119744
+# ID	FORM	SEGM	XPOSTAG	HEAD	DEPREL	MISC
+o.1.1	...	_[_]	PN
+r.1'.1	...	_[_]	PN
+r.2'.1	...	_[_]	PN
+r.2'.2	x	_[_]	N
+r.2'.3	1(u)	1(u)[ten]	NU
+r.2'.4	8(disz)	8(disz)[one]	NU
+r.2'.5	...	_[_]	PN
+r.3'.1	...	_[_]	PN
+r.3'.2	iti	iti[month]	N
+r.3'.3	szu-esz5-sza	Szu'eszsza[1][-'a]	MN
+r.4.1	mu	mu[year]	N
+r.4.2	si-mu-ru-um{ki}	Simurrum[1]	SN
+r.4.3	...	_[_]	PN

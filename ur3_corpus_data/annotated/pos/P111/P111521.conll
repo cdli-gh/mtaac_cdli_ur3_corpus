@@ -1,0 +1,22 @@
+#new_text=P111521
+# ID	FORM	SEGM	XPOSTAG	HEAD	DEPREL	MISC
+o.1.1	pisan-dub-ba	bisagdubak[filing_basket]	N
+o.2.1	zi3	zid[flour]	N
+o.2.2	KA	ka[mouth]	N
+o.2.3	iri-a	_	N
+o.2.4	gar-ra	_	V
+o.3.1	1(bur3)	1(bur)[unit]	NU
+o.3.2	GAN2	gana[field]	N
+o.3.3	1(ban2)	1(ban)[unit]	NU
+o.4.1	u3	u[and]	CNJ
+o.4.2	zi3	zid[flour]	N
+o.4.3	KA	ka[mouth]	N
+o.4.4	lu2-ta	_	N
+o.5.1	i3-gal2	i[-ni]-gal[be][-ø]	V
+r.1.1	bala	bala[turn][-'a]	N
+r.1.2	dub-sag	_	N
+r.2.1	mu	mu[year]	N
+r.2.2	en	en[priest]	N
+r.2.3	{d}inanna	Inanna[1][-ak]	DN
+r.2.4	masz2-e	masz[goat]-e	N
+r.2.5	i3-pa3	i-pad[find][-ø]	V

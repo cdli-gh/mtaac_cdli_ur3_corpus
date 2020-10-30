@@ -1,0 +1,15 @@
+#new_text=P123656
+# ID	FORM	SEGM	XPOSTAG	HEAD	DEPREL	MISC
+o.1.1	1(disz)	1(disz)[one]	NU
+o.1.2	masz2	masz[goat]	N
+o.2.1	dingir-ba-ni	_	PN
+o.2.2	szabra	szabra[chief_administrator][-ak]	N
+o.3.1	mu-kux(DU)	mukur[delivery][-ø]	N
+o.4.1	be-li2-du10	Belidu[1]	PN
+o.4.2	i3-dab5	i[-n]-dab[seize][-ø]	V
+r.1.1	iti	iti[month]	N
+r.1.2	ki-siki-{d}nin-a-zu	Kisikininazu[1][-'a]	MN
+r.2.1	mu	mu[year]	N
+r.2.2	us2-sa	us[follow]-a	V
+r.2.3	an-sza-an{ki}	Anszan[1][-ø]	GN
+r.2.4	ba-hul	ba-hulu[destroy][-ø]	V

@@ -1,0 +1,17 @@
+#new_text=P333696
+# ID	FORM	SEGM	XPOSTAG	HEAD	DEPREL	MISC
+o.1.1	2(u)	2(u)[ten]	NU
+o.1.2	sze	sze[barley]	N
+o.1.3	gur	gur[unit]	N
+o.2.1	ki	ki[place]	N
+o.2.2	{d}szul-gi-me-szar	_	PN
+o.2.3	szabra-ta	_	N
+o.3.1	dingir-a-su2	_	PN
+o.4.1	szu	szu[hand][-e]	N
+o.4.2	ba-ti	ba[-n]-teg[accept][-ø]	V
+r.1.1	giri3	giri[foot]	N
+r.1.2	ur-lugal	Urlugal[1]	PN
+r.1.3	nu-banda3	nubanda[overseer][-ø]	N
+r.2.1	mu	mu[year]	N
+r.2.2	si-mu-ru-um{ki}	Simurrum[1]	SN
+r.2.3	ba-hul	ba-hulu[destroy][-ø]	V

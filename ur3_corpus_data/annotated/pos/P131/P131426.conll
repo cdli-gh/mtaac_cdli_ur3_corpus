@@ -1,0 +1,25 @@
+#new_text=P131426
+# ID	FORM	SEGM	XPOSTAG	HEAD	DEPREL	MISC
+eo.1.1	1(gesz2)	1(gesz)[sixty]	NU
+eo.1.2	sze	sze[barley]	N
+eo.1.3	gur	gur[unit]	N
+eo.1.4	lugal	lugal[king]	N
+eo.2.1	i3-dub	idub[granary]	N
+eo.2.2	a-sza3	aszag[field]	N
+eo.2.3	gi-dah-ha-ta	_	FN
+eo.3.1	ki	ki[place]	N
+eo.3.2	ba-zi-ta	_	PN
+eo.4.1	kiszib3	kiszib[seal]	N
+eo.4.2	lu2-{d}nin-szubur	Luninszubur[1][-ra]	PN
+eo.5.1	dumu	dumu[child]	N
+eo.5.2	ur-bad3-tibirx(KU)-ra	Urbadtibira[-e]	PN
+er.1.1	iti	iti[month]	N
+er.1.2	mu-szu-du7	Muszudu[1][-'a]	MN
+er.2.1	mu	mu[year]	N
+er.2.2	ki-masz{ki}	Kimasz[1]	SN
+er.2.3	ba-hul	ba-hulu[destroy][-ø]	V
+s1.1.1	lu2-{d}nin-szubur	Luninszubur[1][-ra]	PN
+s1.2.1	dumu	dumu[child]	N
+s1.2.2	ur-bad3-tibirx(KU)-ra	Urbadtibira[-e]	PN
+s1.3.1	lu2	lu[person]	N
+s1.3.2	na-gab2-tum	nakabtum[stockyard][-ak][-ak]	N

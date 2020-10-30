@@ -1,0 +1,27 @@
+#new_text=P337689
+# ID	FORM	SEGM	XPOSTAG	HEAD	DEPREL	MISC
+o.1.1	...	_[_]	PN
+o.2.1	...	_[_]	PN
+o.3.1	x	_[_]	N
+o.3.2	x	_[_]	N
+o.3.3	x	_[_]	N
+o.4.1	...	_[_]	PN
+o.4.2	sza3-ku3-ge	Szakuge[1][-e]	PN
+o.5.1	...	_[_]	PN
+o.5.2	a2	a[time]	N
+o.5.3	ma2	ma[ship]	N
+o.5.4	e	eg[levee]	N
+r.1.1	x	_[_]	N
+r.1.2	x	_[_]	N
+r.1.3	...	_[_]	PN
+r.2.1	x	_[_]	N
+r.2.2	e-x	_	PN
+r.2.3	x	_[_]	N
+r.3.1	...	_[_]	PN
+r.3.2	x	_[_]	N
+r.3.3	tug2	tug[textile]	N
+r.3.4	mul	_	N
+r.4.1	...	_[_]	PN
+r.4.2	x	_[_]	N
+r.4.3	x	_[_]	N
+r.5.1	...	_[_]	PN

@@ -1,0 +1,12 @@
+#new_text=P337678
+# ID	FORM	SEGM	XPOSTAG	HEAD	DEPREL	MISC
+o.1.1	1(disz)	1(disz)[one]	NU
+o.1.2	szesz-kal-la	Szeszkala[1][-ra]	PN
+o.2.1	iti	iti[month]	N
+o.2.2	3(disz)-sze3	3(disz)[one]-sze	NU
+o.3.1	en-nu-ga2-ti-sze3	_	PN
+o.3.2	x	_[_]	N
+o.3.3	x	_[_]	N
+o.3.4	...	_[_]	PN
+r.1'.1	ugula	ugula[overseer][-ø]	N
+r.1'.2	da-du-mu	Dadumu[1][-ak]	PN

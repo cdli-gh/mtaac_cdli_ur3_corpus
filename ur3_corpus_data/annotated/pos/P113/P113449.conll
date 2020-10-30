@@ -1,0 +1,22 @@
+#new_text=P113449
+# ID	FORM	SEGM	XPOSTAG	HEAD	DEPREL	MISC
+o.1.1	2(u)	2(u)[ten]	NU
+o.1.2	masz2	masz[goat]	N
+o.2.1	ki	ki[place]	N
+o.2.2	u2-du-lu-ta	_	PN
+o.3.1	lu2-giri17-zal	Lugirizal[1][-ra]	PN
+o.3.2	kuruszda	kuruszda[animal_fattener][-ø]	N
+o.4.1	sa2-du11	sadug[offerings]	N
+o.4.2	{d}nin-mar{ki}-ka	_	PN
+r.1.1	i3-dab5	i[-n]-dab[seize][-ø]	V
+r.2.1	iti	iti[month]	N
+r.2.2	munu4-gu7	Munugu[1][-'a]	MN
+r.3.1	mu	mu[year]	N
+r.3.2	{d}szu-{d}suen	Szusuen[1]	RN
+r.3.3	lugal	lugal[king]	N
+er.1'.1	i3-dab5	i[-n]-dab[seize][-ø]	V
+er.2'.1	iti	iti[month]	N
+er.2'.2	munu4-gu7	Munugu[1][-'a]	MN
+er.3'.1	mu	mu[year]	N
+er.3'.2	{d}szu-{d}suen	Szusuen[1]	RN
+er.3'.3	lugal	lugal[king]	N

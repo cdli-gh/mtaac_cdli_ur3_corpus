@@ -1,0 +1,20 @@
+#new_text=P104931
+# ID	FORM	SEGM	XPOSTAG	HEAD	DEPREL	MISC
+o.1.1	...	_[_]	PN
+o.1.2	udu	udu[sheep]	N
+o.2.1	1(u)	1(u)[ten]	NU
+o.2.2	4(disz)	4(disz)[one]	NU
+o.2.3	masz2	masz[goat]	N
+o.3.1	ki	ki[place]	N
+o.3.2	nin-dingir-ra-sze3	_	N
+o.4.1	igi-dingir-sze3	_	PN
+o.4.2	ra2-gaba	ragaba[rider]	N
+o.4.3	i3-dab5	i[-n]-dab[seize][-ø]	V
+r.1.1	udu-ta	udu[sheep]-ta	N
+r.1.2	nigin2-na	_	V
+r.2.1	iti	iti[month]	N
+r.2.2	mu-szu-du7	Muszudu[1][-'a]	MN
+r.3.1	mu	mu[year]	N
+r.3.2	ki-masz{ki}	Kimasz[1]	SN
+r.3.3	hu-ur5-ti{ki}	Hurti[1][-ø]	GN
+r.3.4	ba-hul	ba-hulu[destroy][-ø]	V

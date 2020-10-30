@@ -1,0 +1,27 @@
+#new_text=P141135
+# ID	FORM	SEGM	XPOSTAG	HEAD	DEPREL	MISC
+o.1.1	1(ban2)	1(ban)[unit]	NU
+o.1.2	i3-gesz	igesz[oil]	V
+o.2.1	ninda	ninda[bread]	N
+o.2.2	gesz-asz	_	N
+o.2.3	kas4	kas[runner][-ra]	N
+o.2.4	e2	e[house]	N
+o.2.5	gal5-la2	_	N
+o.2.6	kux(DU)-ra-ke4	_	V
+o.2.7	ak	ak[excavate][-a][-ak]	V
+o.3.1	sza3	szag[heart]	N
+o.3.2	bala-a	bala[tax][-ak]-'a	N
+o.4.1	ki	ki[place]	N
+o.4.2	ur-{d}szul-pa-e3-ta	Urszulpa'e[1][-ak]-ta	PN
+r.1.1	kiszib3	kiszib[seal]	N
+r.1.2	nam-sza3-tam	namszatam[administration]	N
+r.2.1	lu2-kal-la	Lukala[1][-ra]	PN
+r.3.1	mu	mu[year]	N
+r.3.2	ma2	ma[ship]	N
+r.3.3	{d}en-ki	Enki[1][-ak][-ø]	DN
+r.3.4	ba-ab-du8	ba-b-du[caulk][-ø]	V
+s1.1.1	lu2-kal-la	Lukala[1][-ra]	PN
+s1.2.1	dub-sar	dubsar[scribe]	N
+s1.3.1	dumu	dumu[child]	N
+s1.3.2	ur-e11-e	Ure'e[1][-ak]	PN
+s1.3.3	szusz3	kusz[cattle_manager][-ak]	N

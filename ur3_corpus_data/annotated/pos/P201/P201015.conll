@@ -1,0 +1,23 @@
+#new_text=P201015
+# ID	FORM	SEGM	XPOSTAG	HEAD	DEPREL	MISC
+o.2.1	1(u)	1(u)[ten]	NU
+o.2.2	udu	udu[sheep]	N
+o.2.3	niga	niga[fattened][-ø]	V
+o.3.1	5(disz)	5(disz)[one]	NU
+o.3.2	sila4	sila[lamb]	N
+o.3.3	niga	niga[fattened][-ø]	V
+o.4.1	1(disz)	1(disz)[one]	NU
+o.4.2	sila4	sila[lamb]	N
+o.4.3	ga	ga[milk]	N
+o.5.1	ki	ki[place]	N
+o.5.2	en-dingir-mu-ta	Endingirmu[1][-ak]-ta	PN
+r.1.1	5(disz)	5(disz)[one]	NU
+r.1.2	szu-ma-ma	Szumama[1][-e]	PN
+r.2.1	i3-dab5	i[-n]-dab[seize][-ø]	V
+r.3.1	iti	iti[month]	N
+r.3.2	szu-esz-sza	Szu'eszsza[1][-'a]	MN
+r.4.1	mu	mu[year]	N
+r.4.2	hu-uh2-nu-ri{ki}	Huhnuri[1][-ø]	GN
+r.4.3	ba-hul	ba-hulu[destroy][-ø]	V
+l.1.1	1(u)	1(u)[ten]	NU
+l.1.2	6(disz)	6(disz)[one][-sze]	NU

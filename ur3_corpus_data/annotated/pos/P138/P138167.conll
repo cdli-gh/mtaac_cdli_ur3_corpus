@@ -1,0 +1,37 @@
+#new_text=P138167
+# ID	FORM	SEGM	XPOSTAG	HEAD	DEPREL	MISC
+o.1.1	...	_[_]	PN
+o.2.1	gurusz	gurusz[male]	N
+o.2.2	1(disz)	1(disz)[one]	NU
+o.2.3	x	_[_]	N
+o.2.4	x	_[_]	N
+o.3.1	...	_[_]	PN
+o.3.2	7(asz)	7(asz)[one]	NU
+o.3.3	gur	gur[unit]	N
+o.4.1	x	_[_]	N
+o.4.2	gar-ra	_	V
+o.4.3	szuku	szukur[prebend_land]	N
+o.4.4	ARAD2-ba	_	PN
+o.5.1	x	_[_]	N
+o.5.2	sze-ba	szeba[ration]	N
+o.5.3	a	a[water][-ø]	N
+o.5.4	kaskal	kaskal[journey][-sze]	N
+o.5.5	ab	abba[elder]	N
+o.5.6	x	_[_]	N
+o.6.1	x	_[_]	N
+o.6.2	e-ra-ne	_	V
+o.6.3	x	_[_]	N
+o.7.1	...	_[_]	PN
+r.1.1	...	_[_]	PN
+r.2.1	x-x	_[_]	PN
+r.2.2	e-ra-x	_	 
+r.2.3	x	_[_]	N
+r.3.1	x	_[_]	N
+r.3.2	lu2-du10-ga	Luduga[1]	PN
+r.3.3	mu-sza	_	PN
+r.4.1	x	_[_]	N
+r.4.2	ki	ki[place]	N
+r.5.1	mu	mu[year]	N
+r.5.2	us2-sa	us[follow]-a	V
+r.5.3	bad3-gal	badgal[great_wall][-ø]	N
+r.5.4	ba-du3	ba-du[build][-ø]	V

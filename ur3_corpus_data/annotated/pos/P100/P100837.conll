@@ -1,0 +1,19 @@
+#new_text=P100837
+# ID	FORM	SEGM	XPOSTAG	HEAD	DEPREL	MISC
+o.1.1	...	_[_]	PN
+o.2.1	...	_[_]	PN
+o.3.1	ki	ki[place]	N
+o.3.2	lugal-szu-nir	_	PN
+o.4.1	ma-an-zi-zi	_	PN
+o.5.1	u3	u[and]	CNJ
+o.5.2	ur-{d}suen-ta	_	PN
+o.6.1	gu-du-du	Gududu[1]	PN
+r.1.1	szu	szu[hand][-e]	N
+r.1.2	ba-ti	ba[-n]-teg[accept][-ø]	V
+r.2.1	iti	iti[month]	N
+r.2.2	ezem-{d}...	_	MN
+r.3.1	mu	mu[year]	N
+r.3.2	{d}szu-{d}suen	Szusuen[1]	RN
+r.3.3	ma-da	mada[land][-ak][-ø]	N
+r.3.4	za-ab-sza-li{ki}	Zabszali[1][-ak][-ø]	GN
+r.3.5	ba-hul	ba-hulu[destroy][-ø]	V

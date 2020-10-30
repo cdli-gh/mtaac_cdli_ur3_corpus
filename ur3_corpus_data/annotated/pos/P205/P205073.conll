@@ -1,0 +1,14 @@
+#new_text=P205073
+# ID	FORM	SEGM	XPOSTAG	HEAD	DEPREL	MISC
+o.1.1	...	_[_]	PN
+o.1.2	{gi}gur-dub	gurdub[basket_type]	N
+o.2.1	{d}szul-pa-e3	_	FN
+o.3.1	ba-zi-ge	_	PN
+o.4.1	szu	szu[hand][-e]	N
+o.4.2	ba-ti	ba[-n]-teg[accept][-ø]	V
+r.1.1	iti	iti[month]	N
+r.1.2	ezem-{d}li9-si4	_	MN
+r.2.1	mu	mu[year]	N
+r.2.2	en	en[priest]	N
+r.2.3	eridu{ki}	Eridug[1][-ak][-ø]	SN
+r.2.4	ba-a-hun	ba-hug[hire][-ø]	V

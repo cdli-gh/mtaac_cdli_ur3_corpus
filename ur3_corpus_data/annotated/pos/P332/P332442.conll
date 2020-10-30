@@ -1,0 +1,18 @@
+#new_text=P332442
+# ID	FORM	SEGM	XPOSTAG	HEAD	DEPREL	MISC
+o.1.1	4(asz)	4(asz)[one]	NU
+o.1.2	...	_[_]	PN
+o.2.1	4(barig)	4(bariga)[unit]	NU
+o.2.2	zi3	zid[flour]	N
+o.2.3	masz2	masz[goat]	N
+o.2.4	...	_[_]	PN
+o.3.1	ki	ki[place]	N
+o.3.2	a-ab-ba-a-ta	_	V
+o.4.1	lu2-giri17-zal	Lugirizal[1][-ra]	PN
+r.1.1	szu	szu[hand][-e]	N
+r.1.2	ba-ti	ba[-n]-teg[accept][-ø]	V
+r.2.1	iti	iti[month]	N
+r.2.2	hur-szu-bi-um	_	MN
+r.3.1	mu	mu[year]	N
+r.3.2	ma2-gur8-mah	magurmah[great_barge][-ø]	N
+r.3.3	mu-ne-du3	mu-nnee[-a][-n]-du[build][-ø]	V

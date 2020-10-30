@@ -1,0 +1,26 @@
+#new_text=P105700
+# ID	FORM	SEGM	XPOSTAG	HEAD	DEPREL	MISC
+o.1.1	...-ba	_	PN
+o.2.1	...-x-u-sza	_	PN
+o.3.1	x	_[_]	N
+o.3.2	a-hu-a	Ahuya[1]	PN
+o.4.1	x	_[_]	N
+o.4.2	u2-sza-ak-gesztin-siki	_	N
+o.5.1	x	_[_]	N
+o.5.2	dingir-lu-sa6	_	PN
+o.6.1	x	_[_]	N
+o.6.2	{d}inanna	Inanna[1][-ak]	DN
+o.7.1	x	_[_]	N
+o.7.2	a-hu-a	Ahuya[1]	PN
+r.1.1	u2-sza-ak-gesztin-siki	_	N
+r.2.1	...	_[_]	PN
+r.2.2	sze	sze[barley]	N
+r.2.3	gur	gur[unit]	N
+r.3.1	...	_[_]	PN
+r.3.2	da-mu	_	PN
+r.4.1	iti	iti[month]	N
+r.4.2	du6-ku3	_	PN
+r.5.1	mu	mu[year]	N
+r.5.2	e2	e[house]	N
+r.5.3	{d}szara2	Szara[1][-ak]	DN
+r.5.4	ba-du3	ba-du[build][-ø]	V

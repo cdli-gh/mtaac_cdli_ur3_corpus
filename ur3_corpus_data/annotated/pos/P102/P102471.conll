@@ -1,0 +1,14 @@
+#new_text=P102471
+# ID	FORM	SEGM	XPOSTAG	HEAD	DEPREL	MISC
+o.1.1	...	_[_]	PN
+o.2.1	x-bi	_	DN
+o.3.1	ninda	ninda[bread]	N
+o.3.2	gur	gur[unit]	N
+o.4.1	kasz-de2-a	kaszdea[banquet][-sze]	N
+o.5.1	AN	_[_]	PN
+o.5.2	x	_[_]	N
+r.1.1	ki	ki[place]	N
+r.1.2	x-gi-bu-um	_	PN
+r.2.1	x-x-ti	_	PN
+r.3.1	isz-x-tam	_	PN
+r.4.1	...	_[_]	PN

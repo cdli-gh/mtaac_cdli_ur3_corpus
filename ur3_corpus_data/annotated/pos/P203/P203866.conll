@@ -1,0 +1,22 @@
+#new_text=P203866
+# ID	FORM	SEGM	XPOSTAG	HEAD	DEPREL	MISC
+o.1.1	pisan-dub-ba	bisagdubak[filing_basket]	N
+o.2.1	gurum2-ak	gurum[inspection]-ak	N
+o.3.1	sipa	sipa[shepherd]	N
+o.3.2	unu3	_	GN
+o.4.1	ki-nu-nir{ki}	Kinunir[1][-ak][-'a]	GN
+o.5.1	nigin6{ki}	_	SN
+o.6.1	gu2-ab-ba{ki}	Gu'abba[1][-ak][-'a]	GN
+r.1.1	sipa	sipa[shepherd]	N
+r.1.2	szaganx(AMA){gan}	_	N
+r.2.1	sipa	sipa[shepherd]	N
+r.2.2	unu3	_	GN
+r.2.3	{d}szul-gi	Szulgir[1]	RN
+r.3.1	u3	u[and]	CNJ
+r.3.2	sag-apin	_	N
+r.3.3	e2	e[house]	N
+r.3.4	{d}nin-hur-sag	Ninhursagak[1][-ra]	DN
+r.4.1	i3-gal2	i[-ni]-gal[be][-ø]	V
+r.5.1	mu	mu[year]	N
+r.5.2	ha-ar-szi{ki}	Harszi[1]	SN
+r.5.3	ba-hul	ba-hulu[destroy][-ø]	V

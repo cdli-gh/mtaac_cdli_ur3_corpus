@@ -1,0 +1,30 @@
+#new_text=P140557
+# ID	FORM	SEGM	XPOSTAG	HEAD	DEPREL	MISC
+o.1.1	1(disz)	1(disz)[one]	NU
+o.1.2	{gesz}hu-um	_	N
+o.2.1	kusz	kusz[leather]	N
+o.2.2	gu4	gud[ox]	N
+o.2.3	babbar2-bi	_	AJ
+o.2.4	2(disz)	2(disz)[one]	NU
+o.3.1	5(disz)	5(disz)[one]	NU
+o.3.2	gurusz	gurusz[male]	N
+o.3.3	u4	ud[day]	N
+o.3.4	1(disz)-sze3	1(disz)[one]-sze	NU
+o.4.1	{gesz}hu-um	_	N
+o.4.2	ma2	ma[ship]	N
+o.5.1	lu2	lu[person]	N
+o.5.2	ur3-ra	ur[level_off]-a	V
+o.5.3	GIN2-ka	_	 
+r.1.1	HI-la2-a	_	PN
+r.2.1	ki	ki[place]	N
+r.2.2	a-kal-la-ta	Akala[1][-ak]-ta	PN
+r.3.1	kiszib3	kiszib[seal]	N
+r.3.2	lu2-kal-la	Lukala[1][-ra]	PN
+r.4.1	mu	mu[year]	N
+r.4.2	hu-uh2-nu-ri{ki}	Huhnuri[1][-ø]	GN
+r.4.3	ba-hul	ba-hulu[destroy][-ø]	V
+s1.1.1	lu2-kal-la	Lukala[1][-ra]	PN
+s1.2.1	dub-sar	dubsar[scribe]	N
+s1.3.1	dumu	dumu[child]	N
+s1.3.2	ur-e11-e	Ure'e[1][-ak]	PN
+s1.3.3	szusz3	kusz[cattle_manager][-ak]	N

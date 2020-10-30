@@ -1,0 +1,22 @@
+#new_text=P329425
+# ID	FORM	SEGM	XPOSTAG	HEAD	DEPREL	MISC
+o.1.1	1(disz)	1(disz)[one]	NU
+o.1.2	udu	udu[sheep]	N
+o.2.1	9(disz)	9(disz)[one]	NU
+o.2.2	u8	u[ewe]	N
+o.3.1	4(disz)	4(disz)[one]	NU
+o.3.2	sila4	sila[lamb]	N
+o.3.3	2(disz)	2(disz)[one]	NU
+o.3.4	masz2	masz[goat]	N
+o.4.1	ki	ki[place]	N
+o.4.2	{d}iszkur-illat-ta	Iszkurillat[1][-ak]-ta	PN
+o.5.1	i3-li2-bi-la-ni	_	PN
+r.1.1	i3-dab5	i[-n]-dab[seize][-ø]	V
+r.2.1	iti	iti[month]	N
+r.2.2	ezem-{d}nin-a-zu	Ezemninazu[1][-'a]	MN
+r.3.1	mu	mu[year]	N
+r.3.2	ma2-gur8-mah	magurmah[great_barge][-ø]	N
+r.3.3	ba-du3	ba-du[build][-ø]	V
+s1.1.1	i3-li2-bi-la-ni	_	PN
+s1.2.1	ARAD2	arad[slave]	N
+s1.2.2	szu-kab-ta	_	PN

@@ -1,0 +1,23 @@
+#new_text=P132125
+# ID	FORM	SEGM	XPOSTAG	HEAD	DEPREL	MISC
+o.1.1	1(disz)	1(disz)[one]	NU
+o.1.2	udu	udu[sheep]	N
+o.2.1	1(disz)	1(disz)[one]	NU
+o.2.2	sila4	sila[lamb]	N
+o.2.3	ga	ga[milk]	N
+o.2.4	nu-ur4	_	V
+o.3.1	1(disz)	1(disz)[one]	NU
+o.3.2	gukkal	gukkal[fat-tailed_sheep]	N
+o.3.3	ga	ga[milk]	N
+o.3.4	nu-ur4	_	V
+o.4.1	u4	ud[day]	N
+o.4.2	2(u)-kam	2(u)[ten]-ak-am	NU
+o.5.1	ki	ki[place]	N
+o.5.2	ab-ba-{d}en-lil2-ta	_	PN
+r.1.1	tab-sza-a-tal	_	PN
+r.1.2	i3-dab5	i[-n]-dab[seize][-ø]	V
+r.2.1	iti	iti[month]	N
+r.2.2	ezem-...	_	MN
+r.3.1	mu	mu[year]	N
+r.3.2	sza-asz-ru{ki}	Szaszru[1][-ø]	SN
+r.3.3	ba-hul	ba-hulu[destroy][-ø]	V

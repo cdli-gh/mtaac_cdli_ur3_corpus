@@ -1,0 +1,20 @@
+#new_text=P101410
+# ID	FORM	SEGM	XPOSTAG	HEAD	DEPREL	MISC
+o.1.1	2(asz)	2(asz)[one]	NU
+o.1.2	...	_[_]	PN
+o.2.1	ki	ki[place]	N
+o.2.2	na-ra-am-i3-li2-ta	_	PN
+o.3.1	ur-mes	Urmes[1]	PN
+o.4.1	szu	szu[hand][-e]	N
+o.4.2	ba-ti	ba[-n]-teg[accept][-ø]	V
+r.1.1	giri3	giri[foot]	N
+r.1.2	it-ra-ak-i3-li2	_	PN
+r.2.1	iti	iti[month]	N
+r.2.2	ezem-{d}...	_	MN
+r.3.1	mu	mu[year]	N
+r.3.2	{d}nanna	Nanna[1][-ak]	DN
+r.3.3	kar-zi-da	Karzida[1][-ak][-ak][-ø]	SN
+r.3.4	a-ra2	ara[times]	N
+r.3.5	2(disz)-kam	2(disz)[one]-ak-am	NU
+r.3.6	e2-a-na	Eana[1][-'a]	TN
+r.3.7	ba-ku4	_	V

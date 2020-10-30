@@ -1,0 +1,18 @@
+#new_text=P120434
+# ID	FORM	SEGM	XPOSTAG	HEAD	DEPREL	MISC
+o.1.1	1(disz)	1(disz)[one]	NU
+o.1.2	ur-dun	Urdun[1]	PN
+o.2.1	1(disz)	1(disz)[one]	NU
+o.2.2	a-a-kal-la	Ayakala[1]	PN
+o.3.1	1(disz)	1(disz)[one]	NU
+o.3.2	lugal-ezem	Lugalezem[1]	PN
+o.4.1	1(disz)	1(disz)[one]	NU
+o.4.2	gu-da-ti	_	PN
+o.5.1	1(disz)	1(disz)[one]	NU
+o.5.2	e2-mah-ki-bi	_	PN
+o.6.1	1(disz)	1(disz)[one]	NU
+o.6.2	ab-ba-sila-na	_	PN
+r.1.1	lu2	lu[person]	N
+r.1.2	al-dab5-ba	_	V
+r.2.1	lu2	lu[person]	N
+r.2.2	lu2-mah-me	_	N

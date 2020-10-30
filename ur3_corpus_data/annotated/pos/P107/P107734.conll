@@ -1,0 +1,26 @@
+#new_text=P107734
+# ID	FORM	SEGM	XPOSTAG	HEAD	DEPREL	MISC
+o.1.1	1(disz)	1(disz)[one]	NU
+o.1.2	sila4	sila[lamb]	N
+o.2.1	en	en[priest]	N
+o.2.2	{d}inanna	Inanna[1][-ak]	DN
+o.3.1	e2-muhaldim	emuhaldim[kitchen][-sze]	N
+o.4.1	ki-a-nag	ki'anag[place_of_libations]	N
+o.4.2	{d}szul-gi-ra	Szulgir[1]-ak	DN
+r.1.1	na-ra-am-i3-li2	Naramili[1]	PN
+r.1.2	maszkim	maszkim[administrator]	N
+r.2.1	iti	iti[month]	N
+r.2.2	u4	ud[day]	N
+r.2.3	2(u)	2(u)[ten]	NU
+r.2.4	4(disz)	4(disz)[one]	NU
+r.2.5	ba-zal	ba-zal[pass][-ø][-a][-'a]	V
+r.3.1	ki	ki[place]	N
+r.3.2	na-lu5-ta	Nalu[1][-ak]-ta	PN
+r.4.1	ba-zi	ba-zig[expend][-ø]	PN
+r.5.1	sza3	szag[heart]	N
+r.5.2	uri5{ki}-ma	Urim[1]-ak	SN
+r.6.1	iti	iti[month]	N
+r.6.2	u5-bi2-gu7	Ubigu[1][-'a]	MN
+r.7.1	mu	mu[year]	N
+r.7.2	{d}amar-{d}suen	Amarsuen[1]	RN
+r.7.3	lugal	lugal[king]	N

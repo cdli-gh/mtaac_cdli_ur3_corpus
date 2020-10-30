@@ -1,0 +1,19 @@
+#new_text=P133578
+# ID	FORM	SEGM	XPOSTAG	HEAD	DEPREL	MISC
+o.1.1	1(gesz'u)	1(gesz'u)[six_hundred]	NU
+o.1.2	sze-gesz-i3	szegeszi[sesame_seed]	PN
+o.2.1	gur	gur[unit]	N
+o.2.2	lugal	lugal[king]	N
+o.3.1	la2-ia3	la'u[arrears]	N
+o.3.2	su-ga	sug[repay]-a	V
+o.4.1	ki	ki[place]	N
+o.4.2	lu2-{d}na-ru2-ta	_	PN
+o.5.1	ur-ab-ba	Urabba[1][-ak]	PN
+r.1.1	szu	szu[hand][-e]	N
+r.1.2	ba-ti	ba[-n]-teg[accept][-ø]	V
+r.2.1	giri3	giri[foot]	N
+r.2.2	lu2-{d}nin-szubur	Luninszubur[1][-ra]	PN
+r.2.3	gu-za-la2	guzala[throne_bearer]	N
+r.3.1	mu	mu[year]	N
+r.3.2	si-ma-num2{ki}	Simanum[1][-ø]	GN
+r.3.3	ba-hul	ba-hulu[destroy][-ø]	V

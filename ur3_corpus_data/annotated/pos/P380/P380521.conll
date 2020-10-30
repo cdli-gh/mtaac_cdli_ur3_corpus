@@ -1,0 +1,15 @@
+#new_text=P380521
+# ID	FORM	SEGM	XPOSTAG	HEAD	DEPREL	MISC
+o.1.1	1(disz)	1(disz)[one]	NU
+o.1.2	...	_[_]	PN
+o.2.1	1(disz)	1(disz)[one]	NU
+o.2.2	ur-{d}lamma	Urlamma[1]	PN
+o.3.1	1(disz)	1(disz)[one]	NU
+o.3.2	{d}iszkur-ba-ni	Iszkurbani[1][-ra]	PN
+o.4.1	1(disz)	1(disz)[one]	NU
+o.4.2	ur-{d}hendur-sag	Urhendursag[1]	PN
+o.5.1	1(disz)	1(disz)[one]	NU
+o.5.2	ur2-ra-ni	Urani[1][-e]	PN
+r.1.1	he2-dab5-me	hedab[worker][-ø]-mesz	N
+r.2.1	ugula	ugula[overseer][-ø]	N
+r.2.2	nig2-{d}ba-ba6	Nigbaba[1][-e]	PN

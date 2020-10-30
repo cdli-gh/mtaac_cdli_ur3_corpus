@@ -1,0 +1,12 @@
+#new_text=P274326
+# ID	FORM	SEGM	XPOSTAG	HEAD	DEPREL	MISC
+r.1.1	...	_[_]	PN
+r.2.1	iti	iti[month]	N
+r.2.2	mu-szu-du8	_	MN
+r.3.1	mu	mu[year]	N
+r.3.2	si-ma-num2{ki}	Simanum[1][-ø]	GN
+r.3.3	ba-hul	ba-hulu[destroy][-ø]	V
+s1.1.1	ma-an-szum2-na	_	PN
+s1.2.1	dub-sar	dubsar[scribe]	N
+s1.3.1	dumu	dumu[child]	N
+s1.3.2	lu2-giri17-zal	Lugirizal[1][-ra]	PN

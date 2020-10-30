@@ -1,0 +1,17 @@
+#new_text=P204453
+# ID	FORM	SEGM	XPOSTAG	HEAD	DEPREL	MISC
+o.1.1	pisan-dub-ba	bisagdubak[filing_basket]	N
+o.2.1	gurum2-ak	gurum[inspection]-ak	N
+o.2.2	kiszib3-ba	kiszib[seal]-a	V
+o.3.1	e2	e[house]	N
+o.3.2	{d}ig-alim	_	DN
+o.4.1	e2	e[house]	N
+o.4.2	{d}amar-{d}suen	Amarsuen[1]	RN
+o.5.1	e2	e[house]	N
+o.5.2	{d}ga2-tum3-du10	_	DN
+r.1.1	e2	e[house]	N
+r.1.2	{d}nin-gesz-zi-da	Ningeszzida[1][-ak]	DN
+r.2.1	mu	mu[year]	N
+r.2.2	{gesz}gu-za	guza[chair]	N
+r.2.3	{d}en-lil2-la2	Enlil[1][-ak][-ø]	DN
+r.2.4	ba-dim2	ba-dim[create][-ø]	V

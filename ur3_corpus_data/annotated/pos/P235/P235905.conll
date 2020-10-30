@@ -1,0 +1,20 @@
+#new_text=P235905
+# ID	FORM	SEGM	XPOSTAG	HEAD	DEPREL	MISC
+o.1.1	1(disz)	1(disz)[one]	NU
+o.1.2	masz2	masz[goat]	N
+o.2.1	ur-{d}en-lil2-la2	Urenlilak[1][-ak][-'a]	PN
+o.3.1	1(disz)	1(disz)[one]	NU
+o.3.2	sila4	sila[lamb]	N
+o.4.1	dingir-su-ra-bi2	_	PN
+o.5.1	u4	ud[day]	N
+o.5.2	1(u)	1(u)[ten]	NU
+o.5.3	4(disz)-kam	4(disz)[one]-ak-am[-'a]	NU
+o.6.1	mu-kux(DU)	mukur[delivery][-ø]	N
+r.1.1	ab-ba-sa6-ga	Abbasaga[1][-e]	PN
+r.2.1	i3-dab5	i[-n]-dab[seize][-ø]	V
+r.3.1	iti	iti[month]	N
+r.3.2	a2-ki-ti	Akiti[1][-'a]	N
+r.4.1	mu	mu[year]	N
+r.4.2	en-unu6-gal	Enunugal[1]	PN
+r.4.3	{d}inanna	Inanna[1][-ak]	DN
+r.4.4	ba-hun	ba-hug[hire][-ø]	V

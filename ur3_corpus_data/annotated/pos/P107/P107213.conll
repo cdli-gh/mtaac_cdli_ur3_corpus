@@ -1,0 +1,22 @@
+#new_text=P107213
+# ID	FORM	SEGM	XPOSTAG	HEAD	DEPREL	MISC
+o.1.1	6(disz)	6(disz)[one][-sze]	NU
+o.1.2	giri3-lam	girlam[basket_type]	N
+o.2.1	2(disz)	2(disz)[one]	NU
+o.2.2	pa	pa[branch]	N
+o.2.3	geszimmar	gesznimbar[date_palm][-ak]	N
+o.3.1	ki	ki[place]	N
+o.3.2	ur-ab-ba-ta	Uraba[1][-ak]-ta	PN
+o.4.1	nig2-gu3-de2-sze3	_	N
+r.1.1	kiszib3	kiszib[seal]	N
+r.1.2	lu2-{d}nin-gir2-su	Luningirsu[1]	PN
+r.2.1	dumu	dumu[child]	N
+r.2.2	ba-zi	ba-zig[expend][-ø]	PN
+r.3.1	mu	mu[year]	N
+r.3.2	en-unu6-gal	Enunugal[1]	PN
+r.3.3	{d}inanna	Inanna[1][-ak]	DN
+r.3.4	ba-hun	ba-hug[hire][-ø]	V
+s1.1.1	lu2-{d}nin-gir2-su	Luningirsu[1]	PN
+s1.2.1	dub-sar	dubsar[scribe]	N
+s1.3.1	dumu	dumu[child]	N
+s1.3.2	ba-zi	ba-zig[expend][-ø]	PN

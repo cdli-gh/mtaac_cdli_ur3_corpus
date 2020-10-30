@@ -1,0 +1,24 @@
+#new_text=P145361
+# ID	FORM	SEGM	XPOSTAG	HEAD	DEPREL	MISC
+o.1.1	2(gesz2)	2(gesz)[sixty]	NU
+o.1.2	3(u)	3(u)[ten]	NU
+o.2.1	bar-ta	bar[outside]-ta	N
+o.2.2	gal2-la	gal[be]-a[-ø]	V
+o.3.1	6(gesz2)	6(gesz)[sixty]	NU
+o.3.2	3(u)	3(u)[ten]	NU
+o.3.3	5(disz)	5(disz)[one]	NU
+o.3.4	sze	sze[barley]	N
+o.4.1	lu2-gi-na	Lugina[1][-ak][-ak]	PN
+o.4.2	nu-banda3-gu4	nubandagu[ox_overseer][-ak][-ak][-ak]	N
+o.5.1	6(gesz2)	6(gesz)[sixty]	NU
+o.5.2	4(u)	4(u)[ten]	NU
+o.5.3	sze	sze[barley]	N
+o.6.1	da-a-gi4	Dayagi[1][-ak]	PN
+o.6.2	nu-banda3-gu4	nubandagu[ox_overseer][-ak][-ak][-ak]	N
+o.7.1	6(gesz2)	6(gesz)[sixty]	NU
+o.7.2	3(u)	3(u)[ten]	NU
+o.7.3	sze	sze[barley]	N
+r.1.1	da-du-mu	Dadumu[1][-ak]	PN
+r.2.1	4(gesz2)	4(gesz)[sixty]	NU
+r.2.2	sze	sze[barley]	N
+r.2.3	lugal-{gesz}gigir-re	Lugalgigire[1][-ra]	PN

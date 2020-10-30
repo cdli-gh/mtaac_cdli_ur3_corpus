@@ -1,0 +1,17 @@
+#new_text=P105326
+# ID	FORM	SEGM	XPOSTAG	HEAD	DEPREL	MISC
+o.1.1	6(disz)	6(disz)[one][-sze]	NU
+o.1.2	{uruda}ha-bu3-da	habuda[hoe]	N
+o.2.1	1(u)	1(u)[ten]	NU
+o.2.2	{uruda}gur10	_	N
+o.3.1	ki	ki[place]	N
+o.3.2	lu2-{d}inanna-ta	Lu'inanna[1][-ak]-ta	PN
+o.4.1	lu2-banda3{da}	Lubanda[1]	PN
+o.5.1	szu	szu[hand][-e]	N
+o.5.2	ba-ti	ba[-n]-teg[accept][-ø]	V
+r.1.1	iti	iti[month]	N
+r.1.2	szu-numun	Szunumun[1][-'a]	MN
+r.2.1	mu	mu[year]	N
+r.2.2	us2-sa	us[follow]-a	V
+r.2.3	an-sza-an{ki}	Anszan[1][-ø]	GN
+r.2.4	ba-hul	ba-hulu[destroy][-ø]	V

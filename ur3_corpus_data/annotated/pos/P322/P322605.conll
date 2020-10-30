@@ -1,0 +1,20 @@
+#new_text=P322605
+# ID	FORM	SEGM	XPOSTAG	HEAD	DEPREL	MISC
+o.1.1	1(barig)	1(bariga)[unit]	NU
+o.1.2	dabin	dabin[semolina]	N
+o.2.1	sza3-gal	szaggal[food]	N
+o.2.2	nam-ra-ak	_	N
+o.3.1	ki	ki[place]	N
+o.3.2	{d}ma-lik-ba-ni-ta	_	PN
+o.4.1	a-da-lal3	Adalal[1][-ra]	N
+r.1.1	szu	szu[hand][-e]	N
+r.1.2	ba-an-ti	ba-n-teg[accept][-ø]	V
+r.2.1	iti	iti[month]	N
+r.2.2	masz-da3-gu7	Maszdagu[1][-'a]	MN
+r.3.1	mu	mu[year]	N
+r.3.2	ma-da	mada[land][-ak][-ø]	N
+r.3.3	za-ab-sza-li{ki}	Zabszali[1][-ak][-ø]	GN
+r.3.4	mu-hul	mu[-n]-hulu[destroy][-ø]	V
+s1.1.1	a-da-lal3	Adalal[1][-ra]	N
+s1.2.1	ARAD2	arad[slave]	N
+s1.2.2	szu-{d}kab-ta2	_	PN

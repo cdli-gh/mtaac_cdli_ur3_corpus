@@ -1,0 +1,23 @@
+#new_text=P139461
+# ID	FORM	SEGM	XPOSTAG	HEAD	DEPREL	MISC
+o.1.x.1	ur-{d}...	_[1][-ra]	PN
+o.2.x.1	lugal-dumu-gi7	_	PN
+o.2.x.2	...	_[_]	PN
+o.2.x.3	dumu	dumu[child]	N
+o.2.x.4	la-ak-nu-...	_	PN
+o.3.x.1	...	_[_]	PN
+o.3.x.2	a-hu-ba-qar	_	PN
+r.1.x.1	...-isz-ti-gal	_	V
+r.2.x.1	...	_[_]	PN
+r.2.x.2	ba-a-ga-a	_	PN
+r.3.x.1	...	_[_]	PN
+r.3.x.2	2(disz)	2(disz)[one]	NU
+r.3.x.3	hu	_	V
+r.3.x.4	zi	_	N
+r.3.x.5	...	_[_]	PN
+r.4.x.1	...	_[_]	PN
+r.4.x.2	a	a[water][-ø]	N
+r.4.x.3	ASZ	_	PN
+r.4.x.4	...	_[_]	PN
+r.4.x.5	|PU3.SZA|-...	_	PN
+r.5.x.1	ARAD2-{d}...	_	PN

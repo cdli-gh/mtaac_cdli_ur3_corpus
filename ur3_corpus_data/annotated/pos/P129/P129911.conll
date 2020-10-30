@@ -1,0 +1,22 @@
+#new_text=P129911
+# ID	FORM	SEGM	XPOSTAG	HEAD	DEPREL	MISC
+o.1.1	1(disz)	1(disz)[one]	NU
+o.1.2	ur-sa6-ga	Ursaga[1][-ak]	PN
+o.2.1	tul2-ta-pa3-da	Tultapada[1]	PN
+o.2.2	lugal-am3	_	N
+o.3.1	1(asz)	1(asz)[one]	NU
+o.3.2	ur-{d}szul-pa-e3	Urszulpa'e[1]	PN
+o.3.3	dumu	dumu[child]	N
+o.3.4	ur-{gesz}gigir	Urgigir[1]	PN
+r.1.1	im-e	_	N
+r.1.2	tak4-a-me	_	V
+r.2.1	gu3-de2-a	Gude'a[1][-ra]	PN
+r.2.2	dumu	dumu[child]	N
+r.2.3	ur-{d}lamma	Urlamma[1]	PN
+r.2.4	i3-dab5	i[-n]-dab[seize][-ø]	V
+r.3.1	iti	iti[month]	N
+r.3.2	GAN2-masz	GANmasz[1][-'a]	MN
+r.4.1	mu	mu[year]	N
+r.4.2	us2-sa	us[follow]-a	V
+r.4.3	ma2-gur8-mah	magurmah[great_barge][-ø]	N
+r.4.4	ba-dim2	ba-dim[create][-ø]	V

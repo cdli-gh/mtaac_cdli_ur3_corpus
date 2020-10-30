@@ -1,0 +1,24 @@
+#new_text=P121684
+# ID	FORM	SEGM	XPOSTAG	HEAD	DEPREL	MISC
+o.1.1	...	_[_]	PN
+o.1.2	nu-ur2-{d}suen	_	PN
+o.2.1	...	_[_]	PN
+o.2.2	x	_[_]	N
+o.2.3	puzur4-{d}u3-gur	_	PN
+o.3.1	...	_[_]	PN
+o.3.2	szu-esz18-dar	Szu'eszdar[1][-ak]	PN
+o.4.1	...	_[_]	PN
+r.1'.1	...	_[_]	PN
+r.1'.2	{d}en-lil2-la2	Enlil[1][-ak][-ø]	DN
+r.2'.1	...	_[_]	PN
+r.2'.2	4(asz)	4(asz)[one]	NU
+r.2'.3	3(barig)	3(bariga)[unit]	NU
+r.2'.4	1(ban2)	1(ban)[unit]	NU
+r.2'.5	zu2-lum	zulum[date]	N
+r.2'.6	gur	gur[unit]	N
+r.3'.1	iti	iti[month]	N
+r.3'.2	ab-e3	_	MN
+r.4'.1	mu	mu[year]	N
+r.4'.2	bad3-gal	badgal[great_wall][-ø]	N
+r.4'.3	nibru{ki}	Nibru[1][-'a]	SN
+r.4'.4	ba-du3	ba-du[build][-ø]	V

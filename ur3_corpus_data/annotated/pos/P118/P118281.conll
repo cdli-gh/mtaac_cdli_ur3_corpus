@@ -1,0 +1,18 @@
+#new_text=P118281
+# ID	FORM	SEGM	XPOSTAG	HEAD	DEPREL	MISC
+r.1.1	3(bur3)	3(bur)[unit]	NU
+r.1.2	GAN2	gana[field]	N
+r.1.3	bar	bar[unknown]	N
+r.2.1	2(asz)	2(asz)[one]	NU
+r.2.2	2(ban2)	2(ban)[unit]	NU
+r.2.3	ki-zi	_	PN
+r.3.1	7(bur3)	_	NU
+r.3.2	1(esze3)	1(esze)[unit]	NU
+r.3.3	GAN2	gana[field]	N
+r.3.4	sza3-te	_	V
+r.4.1	szunigin	szunigin[total]	N
+r.4.2	1(bur'u)	1(bur'u)[unit]	NU
+r.4.3	4(iku)	4(iku)[unit]	NU
+r.4.4	GAN2	gana[field]	N
+r.5.1	a-sza3	aszag[field]	N
+r.5.2	gu4-suhub2	Gusuhub[1][-ak][-sze]	N

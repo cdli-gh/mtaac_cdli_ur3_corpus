@@ -1,0 +1,24 @@
+#new_text=P103924
+# ID	FORM	SEGM	XPOSTAG	HEAD	DEPREL	MISC
+o.1.1	...-mes	_	PN
+o.2.1	...	_[_]	PN
+o.2.2	lu2	lu[person]	N
+o.3.1	...	_[_]	PN
+o.3.2	tu	_	PN
+o.3.3	su	_	N
+o.4.1	...	_[_]	PN
+o.4.2	x-mes	_	DN
+o.4.3	lugal	lugal[king]	N
+o.5.1	ki	ki[place]	N
+o.5.2	zi-la-a-ta	_	PN
+o.6.1	puzur4-i3-li2	Puzurili[1][-ra]	PN
+r.1.1	szu	szu[hand][-e]	N
+r.1.2	ba-ti	ba[-n]-teg[accept][-ø]	V
+r.2.1	iti	iti[month]	N
+r.2.2	ki-siki-{d}nin-a-zu	Kisikininazu[1][-'a]	MN
+r.3.1	mu	mu[year]	N
+r.3.2	us2-sa	us[follow]-a	V
+r.3.3	puzur4-{d}da-gan	Puzurdagan[1][-ø]	SN
+r.3.4	ba-du3	ba-du[build][-ø]	V
+r.3.5	mu	mu[year]	N
+r.3.6	us2-sa-bi	us[follow]-a-bi	V

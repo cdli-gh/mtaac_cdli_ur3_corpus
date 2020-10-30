@@ -1,0 +1,15 @@
+#new_text=P127581
+# ID	FORM	SEGM	XPOSTAG	HEAD	DEPREL	MISC
+o.1.1	1(disz)	1(disz)[one]	NU
+o.1.2	szeg9-bar-nita2	_	PN
+o.2.1	ba-usz2	ba-ug[die][-esz]	V
+o.3.1	u4	ud[day]	N
+o.3.2	2(u)	2(u)[ten]	NU
+o.3.3	2(disz)-kam	2(disz)[one]-ak-am	NU
+o.4.1	ki	ki[place]	N
+o.4.2	en-dingir-mu-ta	Endingirmu[1][-ak]-ta	PN
+r.1.1	{d}szul-gi-iri-mu	Szulgi'irimu[1][-e]	PN
+r.2.1	szu	szu[hand][-e]	N
+r.2.2	ba-ti	ba[-n]-teg[accept][-ø]	V
+r.3.1	iti	iti[month]	N
+r.3.2	ezem-{d}szul-gi	Ezemszulgir[1][-'a]	MN

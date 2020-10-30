@@ -1,0 +1,23 @@
+#new_text=P131640
+# ID	FORM	SEGM	XPOSTAG	HEAD	DEPREL	MISC
+o.1.1	1(disz)	1(disz)[one]	NU
+o.1.2	lugal-dur2-du10	_	PN
+o.2.1	1(disz)	1(disz)[one]	NU
+o.2.2	4(disz)	4(disz)[one]	NU
+o.2.3	ur-{d}ig-alim	Urigalim[1]	FN
+o.3.1	1(disz)	1(disz)[one]	NU
+o.3.2	4(disz)	4(disz)[one]	NU
+o.3.3	lugal-dur2-du10	_	PN
+o.3.4	min	_	N
+o.4.1	1(disz)	1(disz)[one]	NU
+o.4.2	4(disz)	4(disz)[one]	NU
+o.4.3	al-la	Alla[1]	PN
+o.5.1	1(disz)	1(disz)[one]	NU
+o.5.2	lu2-{d}na-ru2-a	_	PN
+o.6.1	1(disz)	1(disz)[one]	NU
+o.6.2	ur-{d}dam-gal-nun	_	PN
+r.1.1	lu2	lu[person]	N
+r.1.2	na-gab2-tum-me	_	V
+r.2.1	giri3	giri[foot]	N
+r.2.2	lu2-sa6-ga	_	PN
+r.2.3	dub-sar	dubsar[scribe]	N

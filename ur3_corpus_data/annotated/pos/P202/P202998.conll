@@ -1,0 +1,15 @@
+#new_text=P202998
+# ID	FORM	SEGM	XPOSTAG	HEAD	DEPREL	MISC
+o.1.1	pisan-dub-ba	bisagdubak[filing_basket]	N
+o.2.1	si-i3-tum	situm[balance]	N
+o.3.1	lu2	lu[person]	N
+o.3.2	nig2-dab5-ke4-ne	_	N
+o.4.1	e2-hul-a	_	PN
+o.5.1	u3	u[and]	CNJ
+o.5.2	lu2-hu-bu	_	PN
+o.6.1	u3	u[and]	CNJ
+o.6.2	nig2-ka9	nigSZID[account]	N
+o.7.1	nigin-ba	_	N
+o.7.2	la2-ia3	la'u[arrears]	N
+o.8.1	i3-gal2	i[-ni]-gal[be][-ø]	V
+o.9.1	mu	mu[year]	N

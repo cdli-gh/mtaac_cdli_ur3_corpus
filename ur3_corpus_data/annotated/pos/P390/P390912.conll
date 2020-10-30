@@ -1,0 +1,18 @@
+#new_text=P390912
+# ID	FORM	SEGM	XPOSTAG	HEAD	DEPREL	MISC
+o.1.1	1(disz)	1(disz)[one]	NU
+o.1.2	masz2	masz[goat]	N
+o.2.1	ki	ki[place]	N
+o.2.2	lugal-ezem-ta	Lugalezem[1][-ak]-ta	PN
+o.3.1	szu-er3-ra	Szu'era[1][-e]	PN
+o.4.1	szu	szu[hand][-e]	N
+o.4.2	ba-ti	ba[-n]-teg[accept][-ø]	V
+r.1.1	iti	iti[month]	N
+r.1.2	a2-ki-ti	Akiti[1][-'a]	N
+r.2.1	mu	mu[year]	N
+r.2.2	{d}amar-{d}suen	Amarsuen[1]	RN
+r.2.3	lugal	lugal[king]	N
+s1.1.1	szu-er3-ra	Szu'era[1][-e]	PN
+s1.2.1	dub-sar	dubsar[scribe]	N
+s1.3.1	dumu	dumu[child]	N
+s1.3.2	...	_[_]	PN

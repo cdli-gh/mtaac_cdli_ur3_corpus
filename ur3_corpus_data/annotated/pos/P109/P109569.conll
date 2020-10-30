@@ -1,0 +1,22 @@
+#new_text=P109569
+# ID	FORM	SEGM	XPOSTAG	HEAD	DEPREL	MISC
+o.1.1	1(disz)	1(disz)[one]	NU
+o.1.2	masz2-gal	maszgal[billy_goat]	N
+o.2.1	1(disz)	1(disz)[one]	NU
+o.2.2	{munus}asz2-gar3	aszgar[female_kid]	PN
+o.2.3	ga	ga[milk]	N
+o.3.1	ba-usz2	ba-ug[die][-esz]	V
+o.3.2	u4	ud[day]	N
+o.3.3	5(disz)-kam	5(disz)[one]-ak-am[-ak][-ø]	NU
+o.4.1	sza3	szag[heart]	N
+o.4.2	tum-ma-al	Tummal[1][-ak][-'a]	SN
+r.1.1	ki	ki[place]	N
+r.1.2	en-dingir-mu-ta	Endingirmu[1][-ak]-ta	PN
+r.2.1	ur-nigar{gar}	Urnigar[1]	PN
+r.3.1	szu	szu[hand][-e]	N
+r.3.2	ba-ti	ba[-n]-teg[accept][-ø]	V
+r.4.1	iti	iti[month]	N
+r.4.2	ezem-me-ki-gal2	Ezemmekigal[1][-ø]	MN
+r.5.1	mu	mu[year]	N
+r.5.2	{d}amar-{d}suen	Amarsuen[1]	RN
+r.5.3	lugal	lugal[king]	N

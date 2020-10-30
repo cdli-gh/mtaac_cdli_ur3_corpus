@@ -1,0 +1,20 @@
+#new_text=P130610
+# ID	FORM	SEGM	XPOSTAG	HEAD	DEPREL	MISC
+o.1.1	usz2	usz[dead][-ø]	N
+o.1.2	lu2-iri	_	PN
+o.2.1	usz2	usz[dead][-ø]	N
+o.2.2	ur-{d}ma-ma	_	RN
+o.3.1	iti	iti[month]	N
+o.3.2	pa4-u2-e-ta	_	MN
+o.4.1	ugula	ugula[overseer][-ø]	N
+o.4.2	lugal-ku3-zu	Lugalkuzu[1]	PN
+r.1.1	kiszib3	kiszib[seal]	N
+r.1.2	da-da-ga	Dadaga[1][-ak]	PN
+r.2.1	mu	mu[year]	N
+r.2.2	si-ma-num2{ki}	Simanum[1][-ø]	GN
+r.2.3	ba-hul	ba-hulu[destroy][-ø]	V
+s1.1.1	da-da-ga	Dadaga[1][-ak]	PN
+s1.2.1	dub-sar	dubsar[scribe]	N
+s1.3.1	dumu	dumu[child]	N
+s1.3.2	ur-nigar{gar}	Urnigar[1]	PN
+s1.3.3	szusz3	kusz[cattle_manager][-ak]	N

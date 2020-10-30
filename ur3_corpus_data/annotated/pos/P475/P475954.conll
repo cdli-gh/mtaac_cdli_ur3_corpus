@@ -1,0 +1,5 @@
+#new_text=P475954
+# ID	FORM	SEGM	XPOSTAG	HEAD	DEPREL	MISC
+.1.1	nig2-mu	_	PN
+.2.1	dumu	dumu[child]	N
+.2.2	ab-ba	abba[father]	PN

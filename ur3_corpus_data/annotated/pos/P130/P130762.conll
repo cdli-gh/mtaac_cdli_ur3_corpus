@@ -1,0 +1,24 @@
+#new_text=P130762
+# ID	FORM	SEGM	XPOSTAG	HEAD	DEPREL	MISC
+o.1.1	5(u)	5(u)[ten]	NU
+o.1.2	la2	la[hang][-ø]	V
+o.1.3	1(disz)	1(disz)[one]	NU
+o.1.4	geme2	geme[female_worker]	N
+o.1.5	u4	ud[day]	N
+o.1.6	1(disz)-sze3	1(disz)[one]-sze	NU
+o.2.1	szah2	szah[pig][-ak]	N
+o.2.2	niga	niga[fattened][-ø]	V
+o.2.3	kasz-de2-a	kaszdea[banquet][-sze]	N
+o.2.4	gub-ba	gub[assigned]-a[-ak][-ø]	V
+o.3.1	ki	ki[place]	N
+o.3.2	szesz-saga-ta	_	PN
+o.4.1	kiszib3	kiszib[seal]	N
+o.4.2	sza3-ku3-ge	Szakuge[1][-e]	PN
+r.1.1	mu	mu[year]	N
+r.1.2	{d}amar-{d}suen	Amarsuen[1]	RN
+r.1.3	lugal	lugal[king]	N
+s1.1.1	sza3-ku3-ge	Szakuge[1][-e]	PN
+s1.2.1	dumu	dumu[child]	N
+s1.2.2	he2-sa6	Hesa[1]	PN
+s1.3.1	iszib	iszib[priest]	N
+s1.3.2	{d}hendur-sag	Hendursag[1]	PN

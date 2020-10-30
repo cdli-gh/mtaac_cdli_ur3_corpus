@@ -1,0 +1,23 @@
+#new_text=P120184
+# ID	FORM	SEGM	XPOSTAG	HEAD	DEPREL	MISC
+o.1.1	1(disz)	1(disz)[one]	NU
+o.1.2	na-ba-sa6	Nabasa[1][-ak]	PN
+o.1.3	bar-tab-ba	_	N
+o.2.1	1(disz)	1(disz)[one]	NU
+o.2.2	ur-dun	Urdun[1]	PN
+o.3.1	bar-tab	_	N
+o.4.1	2(disz)	2(disz)[one]	NU
+o.4.2	gurusz	gurusz[male]	N
+o.5.1	{d}nin-mar{ki}-ka	_	PN
+o.6.1	1(disz)	1(disz)[one]	NU
+o.6.2	lu2-gi-na	Lugina[1][-ak][-ak]	PN
+o.7.1	1(disz)	1(disz)[one]	NU
+o.7.2	ur-{d}szusz3-{d}ba-ba6	_	PN
+r.1.1	1(disz)	1(disz)[one]	NU
+r.1.2	bi2-du11-i3-sa6	_	PN
+r.2.1	bar-tab	_	N
+r.2.2	ur-dun	Urdun[1]	PN
+r.3.1	ur-{d}ig-alim	Urigalim[1]	FN
+r.4.1	ur-{d}lamma	Urlamma[1]	PN
+r.5.1	dumu	dumu[child]	N
+r.5.2	ur-dun	Urdun[1]	PN

@@ -1,0 +1,21 @@
+#new_text=P139610
+# ID	FORM	SEGM	XPOSTAG	HEAD	DEPREL	MISC
+o.1.1	3(disz)	3(disz)[one]	NU
+o.1.2	{gesz}eb	_	N
+o.2.1	2(disz)	2(disz)[one]	NU
+o.2.2	usan3	_	N
+o.3.1	ki	ki[place]	N
+o.3.2	a-kal-la-ta	Akala[1][-ak]-ta	PN
+o.4.1	da-du-mu	Dadumu[1][-ak]	PN
+o.4.2	nu-banda3-gu4	nubandagu[ox_overseer][-ak][-ak][-ak]	N
+o.5.1	szu	szu[hand][-e]	N
+o.5.2	ba-ti	ba[-n]-teg[accept][-ø]	V
+o.6.1	iti	iti[month]	N
+o.6.2	min-esz3	Minesz[1][-'a]	MN
+r.1.1	mu	mu[year]	N
+r.1.2	ur-bi2-lum{ki}	Urbilum[1][-ø]	GN
+r.1.3	ba-hul	ba-hulu[destroy][-ø]	V
+s1.1.1	da-du-mu	Dadumu[1][-ak]	PN
+s1.2.1	nu-banda3-gu4	nubandagu[ox_overseer][-ak][-ak][-ak]	N
+s1.3.1	dumu	dumu[child]	N
+s1.3.2	lugal-iri-na	_	PN

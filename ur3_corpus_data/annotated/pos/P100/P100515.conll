@@ -1,0 +1,25 @@
+#new_text=P100515
+# ID	FORM	SEGM	XPOSTAG	HEAD	DEPREL	MISC
+o.1.1	1(u)	1(u)[ten]	NU
+o.1.2	2(disz)	2(disz)[one]	NU
+o.1.3	gurusz	gurusz[male]	N
+o.1.4	u4	ud[day]	N
+o.1.5	2(disz)-sze3	2(disz)[one]-sze	NU
+o.2.1	e2	e[house]	N
+o.2.2	sukkal-mah-ta	_	N
+o.3.1	gi	gi[reed][-ø]	N
+o.3.2	szu-a	_	N
+o.3.3	bala-a	bala[tax][-ak]-'a	N
+o.4.1	sza3	szag[heart]	N
+o.4.2	nibru{ki}	Nibru[1][-'a]	SN
+o.5.1	kiszib3	kiszib[seal]	N
+o.5.2	szesz-kal-la	Szeszkala[1][-ra]	PN
+r.1.1	iti	iti[month]	N
+r.1.2	{d}dumu-zi	Dumuzi[1][-'a]	MN
+r.2.1	mu	mu[year]	N
+r.2.2	ur-bi2-lum{ki}	Urbilum[1][-ø]	GN
+r.2.3	mu-hul	mu[-n]-hulu[destroy][-ø]	V
+s1.1.1	szesz-kal-la	Szeszkala[1][-ra]	PN
+s1.2.1	dub-sar	dubsar[scribe]	N
+s1.3.1	dumu	dumu[child]	N
+s1.3.2	...	_[_]	PN

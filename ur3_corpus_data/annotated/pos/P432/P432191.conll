@@ -1,0 +1,17 @@
+#new_text=P432191
+# ID	FORM	SEGM	XPOSTAG	HEAD	DEPREL	MISC
+a.1.1	szul-gi	Szulgir[1]	RN
+a.2.1	da-num2	_	PN
+a.3.1	lugal	lugal[king]	N
+a.3.2	uri5{ki}	Urim[1][-ak]	SN
+a.4.1	u3	u[and]	CNJ
+a.4.2	lugal	lugal[king]	N
+a.5.1	ki-ib-ra-tim	_	N
+a.6.1	ar-ba-im	_	PN
+a.7.1	ba-dim2	ba-dim[create][-ø]	V
+a.8.1	e2	e[house]	N
+a.8.2	sikil	_	V
+a.9.1	e2	e[house]	N
+a.9.2	{d}tiszpak	_	PN
+a.10.1	in	_	N
+a.10.2	isz-nun{ki}	_	GN

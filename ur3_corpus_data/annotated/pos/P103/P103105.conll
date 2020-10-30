@@ -1,0 +1,18 @@
+#new_text=P103105
+# ID	FORM	SEGM	XPOSTAG	HEAD	DEPREL	MISC
+o.1.1	1(asz)	1(asz)[one]	NU
+o.1.2	zu2-lum	zulum[date]	N
+o.2.1	sze-bi	sze[barley]-bi[-ø]	N
+o.2.2	1(asz)	1(asz)[one]	NU
+o.2.3	5(ban2)	5(ban)[unit]	NU
+o.2.4	gur	gur[unit]	N
+o.3.1	ki	ki[place]	N
+o.3.2	ur4-sza3-ki-du10-ta	Urszakidu[1][-ak]-ta	PN
+o.4.1	lugal-me-a	Lugalme'a[1]	PN
+o.5.1	szu	szu[hand][-e]	N
+o.5.2	ba-ti	ba[-n]-teg[accept][-ø]	V
+r.1.1	iti	iti[month]	N
+r.1.2	{d}dumu-zi	Dumuzi[1][-'a]	MN
+r.2.1	mu	mu[year]	N
+r.2.2	hu-hu-nu-ri{ki}	Huhunuri[1][-ø]	GN
+r.2.3	ba-hul	ba-hulu[destroy][-ø]	V

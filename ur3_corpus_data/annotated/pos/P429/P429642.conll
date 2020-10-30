@@ -1,0 +1,35 @@
+#new_text=P429642
+# ID	FORM	SEGM	XPOSTAG	HEAD	DEPREL	MISC
+o.1.1	1(asz)	1(asz)[one]	NU
+o.1.2	udu	udu[sheep]	N
+o.2.1	2(barig)	2(bariga)[unit]	NU
+o.2.2	zi3-sig15	_	N
+o.3.1	2(barig)	2(bariga)[unit]	NU
+o.3.2	nig2-bar-ra	_	N
+o.3.3	imgaga3	_	N
+o.3.4	...	_[_]	PN
+o.4.1	2(barig)	2(bariga)[unit]	NU
+o.4.2	nig2-bar-ra	_	N
+o.4.3	sze	sze[barley]	N
+o.5.1	1(barig)	1(bariga)[unit]	NU
+o.5.2	ku6	kud[fish]	N
+o.5.3	x	_[_]	N
+o.6.1	1(asz)	1(asz)[one]	NU
+o.6.2	ku6	kud[fish]	N
+o.6.3	al-...	_	FN
+o.7.1	1(asz)	1(asz)[one]	NU
+o.7.2	ku6	kud[fish]	N
+o.7.3	x	_[_]	N
+r.1'.1	...	_[_]	PN
+r.1'.2	TUM	_	 
+r.2'.1	...	_[_]	PN
+r.2'.2	mu	mu[year]	N
+r.3'.1	iti	iti[month]	N
+r.3'.2	ku3-SZIM	_	MN
+r.4'.1	u4	ud[day]	N
+r.4'.2	1(u)	1(u)[ten]	NU
+r.4'.3	1(disz)	1(disz)[one]	NU
+r.4'.4	ba-zal	ba-zal[pass][-ø][-a][-'a]	V
+r.5'.1	mu	mu[year]	N
+r.5'.2	{d}i-bi2-{d}suen	Ibbisuen[1]	RN
+r.5'.3	...	_[_]	PN

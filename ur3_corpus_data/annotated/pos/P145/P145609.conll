@@ -1,0 +1,15 @@
+#new_text=P145609
+# ID	FORM	SEGM	XPOSTAG	HEAD	DEPREL	MISC
+o.1.1	en-i3-na-kal	_	PN
+o.2.1	dumu	dumu[child]	N
+o.2.2	lu2-nimgir	_	PN
+o.3.1	he2-dab5-ta	_	V
+o.4.1	gurum2	gurum[inspection]	N
+o.4.2	e2	e[house]	N
+o.4.3	{d}nin-sun2	Ninsun[1][-ra]	FN
+r.1.1	szu	szu[hand][-e]	N
+r.1.2	szum2-mu-dam	_	V
+r.2.1	ezem-mah-sze3	_	N
+r.3.1	uri5{ki}-ma-dam	_	PN
+r.4.1	mu	mu[year]	N
+r.4.2	sza-asz-ru{ki}	Szaszru[1][-ø]	SN

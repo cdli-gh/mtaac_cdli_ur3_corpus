@@ -1,0 +1,23 @@
+#new_text=P123524
+# ID	FORM	SEGM	XPOSTAG	HEAD	DEPREL	MISC
+o.1.1	7(disz)	7(disz)[one][-sze]	NU
+o.1.2	1/2(disz)	1/2(disz)[one]	NU
+o.1.3	ma-na	mana[unit]	N
+o.1.4	siki-gi	sikigi[wool_type]	N
+o.2.1	bar	bar[unknown]	N
+o.2.2	udu	udu[sheep]	N
+o.2.3	la2-ia3	la'u[arrears]	N
+o.2.4	su-ga	sug[repay]-a	V
+o.3.1	lu2-dingir-ra	Ludingira[1][-ra]	PN
+o.3.2	dumu	dumu[child]	N
+o.3.3	inim-{d}szara2	Inimszara[1][-ak][-ra]	PN
+o.4.1	e2-kiszib3-ba-sze3	ekiszibak[storeroom]-sze	TN
+o.5.1	ba-an-kux(KWU147)	_	V
+r.1.1	iti	iti[month]	N
+r.1.2	ezem-mah	Ezemmah[1][-'a]	MN
+r.2.1	mu	mu[year]	N
+r.2.2	us2-sa	us[follow]-a	V
+r.2.3	ki-masz{ki}	Kimasz[1]	SN
+r.2.4	u3	u[and]	CNJ
+r.2.5	hu-ur5-ti{ki}	Hurti[1][-ø]	GN
+r.2.6	ba-hul	ba-hulu[destroy][-ø]	V

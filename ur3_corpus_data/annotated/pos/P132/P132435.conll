@@ -1,0 +1,20 @@
+#new_text=P132435
+# ID	FORM	SEGM	XPOSTAG	HEAD	DEPREL	MISC
+o.1.1	x	_[_]	N
+o.1.2	gurusz	gurusz[male]	N
+o.2.1	lu2-mar-sa-me	_	PN
+o.3.1	bulug3	_	V
+o.3.2	naga3{ga2}	_	N
+o.4.1	{d}ba-ba6	_	DN
+o.4.2	e3-a	e[leave]-a	V
+o.5.1	dam	dam[spouse]	N
+o.5.2	sukkal-mah	_	PN
+r.1.1	giri3	giri[foot]	N
+r.1.2	szabra-e2	_	PN
+r.2.1	u3	u[and]	CNJ
+r.2.2	nam-zi-tar-ra	_	PN
+r.3.1	u4	ud[day]	N
+r.3.2	2(u)-kam	2(u)[ten]-ak-am	NU
+r.4.1	mu	mu[year]	N
+r.4.2	si-ma-num2{ki}	Simanum[1][-ø]	GN
+r.4.3	ba-hul	ba-hulu[destroy][-ø]	V

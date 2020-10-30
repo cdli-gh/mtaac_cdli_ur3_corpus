@@ -1,0 +1,25 @@
+#new_text=P128989
+# ID	FORM	SEGM	XPOSTAG	HEAD	DEPREL	MISC
+o.1.1	1(u)	1(u)[ten]	NU
+o.1.2	gurusz	gurusz[male]	N
+o.2.1	5(disz)	5(disz)[one]	NU
+o.2.2	a2	a[time]	N
+o.2.3	1/2(disz)	1/2(disz)[one]	NU
+o.3.1	u4	ud[day]	N
+o.3.2	6(disz)-sze3	6(disz)[one]-sze	NU
+o.4.1	gurx(|SZE.KIN|)-a	gur[reap]-a	V
+o.5.1	ugula	ugula[overseer][-ø]	N
+o.5.2	ukken-ne2	_	PN
+r.1.1	iti	iti[month]	N
+r.1.2	sze-kar-ra-gal2-la	Szekaragala[1][-'a]	MN
+r.2.1	mu	mu[year]	N
+r.2.2	us2-sa	us[follow]-a	V
+r.2.3	bad3	bad[wall]	N
+r.2.4	ba-du3	ba-du[build][-ø]	V
+r.2.5	mu	mu[year]	N
+r.2.6	us2-sa-bi	us[follow]-a-bi	V
+s1.1.1	lugal-e2-mah-e	Lugalemahe[1]	N
+s1.2.1	dub-sar	dubsar[scribe]	N
+s1.3.1	dumu	dumu[child]	N
+s1.3.2	inim-{d}szara2	Inimszara[1][-ak][-ra]	PN
+s1.4.1	sa12-du5-ka	_	PN

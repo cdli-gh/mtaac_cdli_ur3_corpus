@@ -1,0 +1,20 @@
+#new_text=P107416
+# ID	FORM	SEGM	XPOSTAG	HEAD	DEPREL	MISC
+o.1.1	kiszib3	kiszib[seal]	N
+o.1.2	du10-iri	_	PN
+o.2.1	2(gesz2)	2(gesz)[sixty]	NU
+o.2.2	sze	sze[barley]	N
+o.2.3	gur	gur[unit]	N
+o.2.4	sila3	sila[unit]	N
+o.2.5	1(gesz2)	1(gesz)[sixty]	NU
+o.2.6	2(u)-ta	_	NU
+o.3.1	ki	ki[place]	N
+o.3.2	da-a-ga-ta	_	PN
+r.1.1	mu	mu[year]	N
+r.1.2	ur-nigar{gar}-ka-sze3	_	PN
+r.2.1	du10-iri	_	PN
+r.2.2	szu	szu[hand][-e]	N
+r.2.3	ba-ti	ba[-n]-teg[accept][-ø]	V
+r.3.1	mu	mu[year]	N
+r.3.2	si-ma-num2	Simanum[1][-ø]	PN
+r.3.3	ba-hul-a	ba-hulu[destroy][-ø]-a	V

@@ -1,0 +1,26 @@
+#new_text=P111239
+# ID	FORM	SEGM	XPOSTAG	HEAD	DEPREL	MISC
+o.1.1	pisan-dub-ba	bisagdubak[filing_basket]	N
+o.2.1	sa2-du11	sadug[offerings]	N
+o.2.2	dingir-re-ne	_	PN
+o.3.1	{d}nansze	Nansze[1]	DN
+o.4.1	{d}szul-gi	Szulgir[1]	RN
+o.5.1	{d}nin-mar{ki}	_	DN
+o.5.2	munus-sa	_	N
+o.6.1	szu	szu[hand][-e]	N
+o.6.2	dul4-la	_	PN
+o.6.3	dingir-re-ne	_	PN
+o.6.4	sza3	szag[heart]	N
+o.6.5	gir2-su{ki}	Girsu[1][-ak]	SN
+r.1.1	...	_[_]	PN
+r.1.2	{d}nin-mar{ki}-asz	_	DN
+r.2.1	dam	dam[spouse]	N
+r.2.2	ur-{d}ba-ba6	Urbaba[1]	PN
+r.3.1	dam	dam[spouse]	N
+r.3.2	gu3-de2-a	Gude'a[1][-ra]	PN
+r.4.1	dam	dam[spouse]	N
+r.4.2	lu2-giri17-zal	Lugirizal[1][-ra]	PN
+r.5.1	i3-gal2	i[-ni]-gal[be][-ø]	V
+r.6.1	mu	mu[year]	N
+r.6.2	hu-uh2(UD)-nu-ri{ki}	_	NU
+r.6.3	ba-hul	ba-hulu[destroy][-ø]	V

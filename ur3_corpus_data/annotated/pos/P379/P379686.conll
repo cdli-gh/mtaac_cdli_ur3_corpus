@@ -1,0 +1,22 @@
+#new_text=P379686
+# ID	FORM	SEGM	XPOSTAG	HEAD	DEPREL	MISC
+o.1.1	1(disz)	1(disz)[one]	NU
+o.1.2	lu2-...	_[1][-ra]	PN
+o.2.1	sa2-du11	sadug[offerings]	N
+o.2.2	ensi2-sze3	_	N
+o.3.1	ki	ki[place]	N
+o.3.2	ur-sag-ku5	Ursagku[1][-ak]	PN
+o.4.1	kiszib3	kiszib[seal]	N
+o.4.2	{d}szara2-ba-zi-ge	Szarabazige[1][-ra]	PN
+r.1.1	iti	iti[month]	N
+r.1.2	nesag	Nesag[1][-'a]	N
+r.2.1	mu	mu[year]	N
+r.2.2	us2-sa	us[follow]-a	V
+r.2.3	ki-masz{ki}	Kimasz[1]	SN
+r.2.4	ba-hul	ba-hulu[destroy][-ø]	V
+s1.1.1	ur-{d}li9-si4	Urlisi[1]	PN
+s1.2.1	ensi2	ensik[ruler]	N
+s1.2.2	umma{ki}	Umma[1][-ak][-ø]	SN
+s1.3.1	{d}szara2-ba-zi-ge	Szarabazige[1][-ra]	PN
+s1.4.1	dub-sar	dubsar[scribe]	N
+s1.4.2	ARAD2-zu	arad[slave]-zu[-ø]	PN

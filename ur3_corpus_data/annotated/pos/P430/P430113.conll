@@ -1,0 +1,19 @@
+#new_text=P430113
+# ID	FORM	SEGM	XPOSTAG	HEAD	DEPREL	MISC
+a.col1.1.1	{d}szu-{d}suen	Szusuen[1]	RN
+a.col1.2.1	sag-us2	_	N
+a.col1.2.2	e2	e[house]	N
+a.col1.2.3	{d}en-lil2-la2-ka	Enlil[1]-ak-ak	DN
+a.col1.3.1	nibru{ki}-a	_	SN
+a.col1.3.2	{d}en-lil2-la2	Enlil[1][-ak][-ø]	DN
+a.col1.4.1	sza3-ga-na	Szagana[1]	N
+a.col1.5.1	mu	mu[year]	N
+a.col1.5.2	pa3-da	Pada[1]	PN
+a.col2.1.1	lugal	lugal[king]	N
+a.col2.1.2	kal-ga	kalag[strong]-a	V
+a.col2.2.1	lugal	lugal[king]	N
+a.col2.2.2	uri5{ki}-ma	Urim[1]-ak	SN
+a.col2.3.1	a-da-lal3	Adalal[1][-ra]	N
+a.col2.4.1	dumu	dumu[child]	N
+a.col2.4.2	nu-banda3	nubanda[overseer][-ø]	N
+a.col2.5.1	ARAD2-zu	arad[slave]-zu[-ø]	PN

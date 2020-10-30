@@ -1,0 +1,22 @@
+#new_text=P134058
+# ID	FORM	SEGM	XPOSTAG	HEAD	DEPREL	MISC
+o.1.1	2(disz)	2(disz)[one]	NU
+o.1.2	...	_[_]	PN
+o.2.1	2(disz)	2(disz)[one]	NU
+o.2.2	...	_[_]	PN
+o.3.1	1(disz)	1(disz)[one]	NU
+o.3.2	gesz	gesz[tree]	N
+o.3.3	dub	dub[tablet]	N
+o.3.4	...	_[_]	PN
+o.4.1	1(disz)	1(disz)[one]	NU
+o.4.2	ra	_	V
+o.4.3	sukkal	sukkal[secretary][-ak][-ra]	N
+o.4.4	nin	_	N
+o.4.5	...	_[_]	PN
+o.5.1	1(disz)	1(disz)[one]	NU
+o.5.2	gi	gi[reed][-ø]	N
+o.5.3	pisan	bisag[basket]	N
+o.5.4	sag-ga2	igisag[choose]-a	V
+o.6.1	1(disz)	1(disz)[one]	NU
+o.6.2	{gi}pisan	bisag[basket]	N
+o.6.3	gid2-da	gid[lengthen]-a[-ø]	V

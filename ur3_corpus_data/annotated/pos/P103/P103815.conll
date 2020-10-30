@@ -1,0 +1,27 @@
+#new_text=P103815
+# ID	FORM	SEGM	XPOSTAG	HEAD	DEPREL	MISC
+o.1.1	2(u)	2(u)[ten]	NU
+o.1.2	udu	udu[sheep]	N
+o.2.1	1(asz)	1(asz)[one]	NU
+o.2.2	gu2	gun[unit]	N
+o.2.3	2(u)	2(u)[ten]	NU
+o.2.4	ma-na	mana[unit]	N
+o.2.5	siki-gi	sikigi[wool_type]	N
+o.3.1	ki	ki[place]	N
+o.3.2	u3-zi-nu-ri-ta	_	PN
+o.4.1	be-li2-a-zu	Beli’azu[1][-e]	PN
+o.5.1	szu	szu[hand][-e]	N
+o.5.2	ba-ti	ba[-n]-teg[accept][-ø]	V
+r.1.1	iti	iti[month]	N
+r.1.2	ezem-{d}szu-{d}suen	_	MN
+r.2.1	giri3	giri[foot]	N
+r.2.2	la-la-a	_	PN
+r.2.3	nu-banda3	nubanda[overseer][-ø]	N
+r.3.1	mu	mu[year]	N
+r.3.2	{d}szu-{d}suen	Szusuen[1]	RN
+r.3.3	lugal	lugal[king]	N
+r.3.4	uri5{ki}-ma-ke4	Urim[1]-ak-e	SN
+r.3.5	{d}na-ru2-a-mah	_	DN
+r.3.6	{d}en-lil2	Enlil[1]	DN
+r.3.7	{d}nin-lil2-ra	Ninlil[1]-ra	DN
+r.3.8	mu-ne-du3	mu-nnee[-a][-n]-du[build][-ø]	V

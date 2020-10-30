@@ -1,0 +1,21 @@
+#new_text=P120196
+# ID	FORM	SEGM	XPOSTAG	HEAD	DEPREL	MISC
+o.1.1	1(gesz2)	1(gesz)[sixty]	NU
+o.1.2	udu	udu[sheep]	N
+o.2.1	7(disz)	7(disz)[one][-sze]	NU
+o.2.2	masz2	masz[goat]	N
+o.3.1	udu	udu[sheep]	N
+o.3.2	szuku-ra	szukur[ration]-ak	N
+o.4.1	e2	e[house]	N
+o.4.2	ba-gara2	_	PN
+r.1.1	ki	ki[place]	N
+r.1.2	nig2-u2-rum-ta	_	PN
+r.2.1	ba-a	ba[allot]-a	PN
+r.2.2	i3-dab5	i[-n]-dab[seize][-ø]	V
+r.3.1	iti	iti[month]	N
+r.3.2	szu-numun	Szunumun[1][-'a]	MN
+r.4.1	mu	mu[year]	N
+r.4.2	en-mah-gal-an-na	Enmahgalana[1]	PN
+r.4.3	en	en[priest]	N
+r.4.4	{d}nanna	Nanna[1][-ak]	DN
+r.4.5	ba-hun-ga2	ba-hug[hire][-ø]	V

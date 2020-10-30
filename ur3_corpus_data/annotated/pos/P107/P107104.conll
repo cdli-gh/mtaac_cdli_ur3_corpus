@@ -1,0 +1,27 @@
+#new_text=P107104
+# ID	FORM	SEGM	XPOSTAG	HEAD	DEPREL	MISC
+o.1.1	4(u)	4(u)[ten]	NU
+o.1.2	8(disz)	8(disz)[one]	NU
+o.1.3	1/3(disz)	1/3(disz)[one]	NU
+o.1.4	ma-na	mana[unit]	N
+o.1.5	siki	siki[wool][-'a]	N
+o.2.1	nig2-sa10	nigsam[price]	N
+o.2.2	gu4-ta	_	N
+o.2.3	gur-ra	gur[unit]-ak	V
+o.3.1	ki	ki[place]	N
+o.3.2	na-ba-sa6-ta	_	PN
+o.4.1	lu2-{d}nin-gir2-su	Luningirsu[1]	PN
+o.5.1	szu	szu[hand][-e]	N
+o.5.2	ba-ti	ba[-n]-teg[accept][-ø]	V
+r.1.1	giri3	giri[foot]	N
+r.1.2	nimgir-di-de3	Nimgirdide[1]	PN
+r.2.1	iti	iti[month]	N
+r.2.2	ezem-{d}dumu-zi	Ezemdumuzi[1][-'a]	MN
+r.3.1	mu	mu[year]	N
+r.3.2	gu-za	guza[chair][-ø]	N
+r.3.3	{d}en-lil2-la2	Enlil[1][-ak][-ø]	DN
+r.3.4	i3-dim2	_	V
+s1.1.1	lu2-{d}nin-gir2-su	Luningirsu[1]	PN
+s1.2.1	dub-sar	dubsar[scribe]	N
+s1.3.1	dumu	dumu[child]	N
+s1.3.2	...	_[_]	PN

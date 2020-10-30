@@ -1,0 +1,27 @@
+#new_text=P137165
+# ID	FORM	SEGM	XPOSTAG	HEAD	DEPREL	MISC
+o.1.1	7(disz)	7(disz)[one][-sze]	NU
+o.1.2	{gesz}e2-da	_	PN
+o.2.1	6(disz)	6(disz)[one][-sze]	NU
+o.2.2	{gesz}u3-suh5	usuh[tree]	N
+o.3.1	2(ban2)	2(ban)[unit]	NU
+o.3.2	esir2	esir[bitumen]	N
+o.3.3	E2-A	Ea[1]	ON
+o.4.1	gesz-kin-ti	geszkigti[workshop][-ak]	N
+o.4.2	gu-la-sze3	_	V
+o.5.1	mu	mu[year]	N
+o.5.2	bala	bala[turn][-'a]	N
+o.5.3	ensi2	ensik[ruler]	N
+o.5.4	adab{ki}	_	SN
+r.1.1	ba-zi	ba-zig[expend][-ø]	PN
+r.2.1	giri3	giri[foot]	N
+r.2.2	ur-{d}ba-ba6	Urbaba[1]	PN
+r.3.1	dub-sar	dubsar[scribe]	N
+r.3.2	tur-ka	_	V
+r.4.1	zi-de2-a	_	V
+r.4.2	...	_[_]	PN
+r.5.1	iti	iti[month]	N
+r.5.2	ezem-mah	Ezemmah[1][-'a]	MN
+r.6.1	mu	mu[year]	N
+r.6.2	sza-asz-ru{ki}	Szaszru[1][-ø]	SN
+r.6.3	ba-hul	ba-hulu[destroy][-ø]	V

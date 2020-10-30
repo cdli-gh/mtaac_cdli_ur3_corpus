@@ -1,0 +1,23 @@
+#new_text=P110925
+# ID	FORM	SEGM	XPOSTAG	HEAD	DEPREL	MISC
+o.1.1	1(disz)	1(disz)[one]	NU
+o.1.2	ur-{d}ga2-tum3-du10	_	PN
+o.2.1	ARAD2	arad[slave]	N
+o.2.2	nin-dingir	_	PN
+o.2.3	{d}ga2-tum3-du10	_	DN
+o.3.1	1(disz)	1(disz)[one]	NU
+o.3.2	lugal-ku3-ga-ni	Lugalkugani[1][-ak]	PN
+o.4.1	1(disz)	1(disz)[one]	NU
+o.4.2	ur-{d}hendur-sag	Urhendursag[1]	PN
+o.5.1	ARAD2	arad[slave]	N
+o.5.2	nin-dingir	_	PN
+o.5.3	{d}hendur-sag	Hendursag[1]	PN
+o.6.1	1(disz)	1(disz)[one]	NU
+o.6.2	lugal-zi-a	_	PN
+o.7.1	1(disz)	1(disz)[one]	NU
+o.7.2	lugal-me-lam2	Lugalmelam[1]	PN
+o.8.1	1(disz)	1(disz)[one]	NU
+o.8.2	da-da	Dada[1][-ak]	PN
+o.9.1	ARAD2	arad[slave]	N
+o.9.2	nin-dingir	_	PN
+o.9.3	{d}nin-dar-a	_	DN

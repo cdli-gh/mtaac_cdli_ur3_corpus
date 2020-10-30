@@ -1,0 +1,22 @@
+#new_text=P209802
+# ID	FORM	SEGM	XPOSTAG	HEAD	DEPREL	MISC
+o.1.1	a2-ma-ru	_	PN
+o.2.1	ki-sal4-mu	_	PN
+o.3.1	geme2-an-da-ba-ra-sze6	_	PN
+o.5.1	igi	igi[eye][-ø]	N
+o.5.2	ga-ti-la-sze3	_	V
+o.6.1	igi	igi[eye][-ø]	N
+o.6.2	{d}iszkur-ra-be-sze3	_	DN
+r.1.1	iti	iti[month]	N
+r.1.2	udru{duru5}	_	N
+r.2.1	mu	mu[year]	N
+r.2.2	e2	e[house]	N
+r.2.3	{d}szara2	Szara[1][-ak]	DN
+r.2.4	ba-du-ta	_	V
+r.3.1	iti	iti[month]	N
+r.3.2	udru{duru5}	_	N
+r.4.1	mu	mu[year]	N
+r.4.2	{d}i-bi2-{d}suen-sze3	_	RN
+s1.1.1	da-da	Dada[1][-ak]	PN
+s1.2.1	dumu	dumu[child]	N
+s1.2.2	ur-dun	Urdun[1]	PN

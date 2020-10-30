@@ -1,0 +1,20 @@
+#new_text=P467669
+# ID	FORM	SEGM	XPOSTAG	HEAD	DEPREL	MISC
+r.1.1	ARAD2-mu	Aradmu[1]	PN
+r.1.2	maszkim	maszkim[administrator]	N
+r.2.1	u4	ud[day]	N
+r.2.2	1(u)	1(u)[ten]	NU
+r.2.3	4(disz)-kam	4(disz)[one]-ak-am[-'a]	NU
+r.3.1	ki	ki[place]	N
+r.3.2	du11-ga-ta	_	PN
+r.3.3	ba-zi	ba-zig[expend][-ø]	PN
+r.4.1	giri3	giri[foot]	N
+r.4.2	{d}nanna-ma-ba	Nannamaba[1]	PN
+r.4.3	dub-sar	dubsar[scribe]	N
+r.5.1	iti	iti[month]	N
+r.5.2	a2-ki-ti	Akiti[1][-'a]	N
+r.6.1	mu	mu[year]	N
+r.6.2	en	en[priest]	N
+r.6.3	{d}nanna	Nanna[1][-ak]	DN
+r.6.4	kar-zi-da	Karzida[1][-ak][-ak][-ø]	SN
+r.6.5	ba-hun	ba-hug[hire][-ø]	V

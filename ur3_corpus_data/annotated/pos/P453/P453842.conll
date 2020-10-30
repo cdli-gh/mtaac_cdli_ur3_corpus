@@ -1,0 +1,14 @@
+#new_text=P453842
+# ID	FORM	SEGM	XPOSTAG	HEAD	DEPREL	MISC
+c.1.1	si-i3-tum	situm[balance]	N
+c.2.1	mu	mu[year]	N
+c.2.2	{d}szu-{d}suen	Szusuen[1]	RN
+c.2.3	lugal	lugal[king]	N
+c.2.4	uri5{ki}-ma-ke4	Urim[1]-ak-e	SN
+c.2.5	ma-da	mada[land][-ak][-ø]	N
+c.2.6	za-ab-sza-li{ki}	Zabszali[1][-ak][-ø]	GN
+c.2.7	mu-hul	mu[-n]-hulu[destroy][-ø]	V
+s1.1.1	ur-{d}suen	Ursuen[1]	PN
+s1.2.1	dub-sar	dubsar[scribe]	N
+s1.3.1	dumu	dumu[child]	N
+s1.3.2	gu3-de2-a	Gude'a[1][-ra]	PN

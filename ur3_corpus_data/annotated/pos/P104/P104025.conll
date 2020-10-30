@@ -1,0 +1,11 @@
+#new_text=P104025
+# ID	FORM	SEGM	XPOSTAG	HEAD	DEPREL	MISC
+o.1.1	pisan-dub-ba	bisagdubak[filing_basket]	N
+o.2.1	kiszib3	kiszib[seal]	N
+o.2.2	dabx(U8)-ba	dab[seize]-a	PN
+o.3.1	lugal-saga	_	PN
+o.3.2	ugula	ugula[overseer][-ø]	N
+o.3.3	usz-bar	uszbar[weaver][-ak]	N
+o.4.1	mu	mu[year]	N
+o.4.2	2(disz)-kam	2(disz)[one]-ak-am	NU
+r.1.1	i3-gal2	i[-ni]-gal[be][-ø]	V

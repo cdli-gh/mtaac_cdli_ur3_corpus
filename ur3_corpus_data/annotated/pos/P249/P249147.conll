@@ -1,0 +1,18 @@
+#new_text=P249147
+# ID	FORM	SEGM	XPOSTAG	HEAD	DEPREL	MISC
+o.1.1	1(barig)	1(bariga)[unit]	NU
+o.1.2	lugal-e2-mah-e	Lugalemahe[1]	N
+o.2.1	1(barig)	1(bariga)[unit]	NU
+o.2.2	lugal-e2-mah-e	Lugalemahe[1]	N
+o.2.3	2(disz)-kam	2(disz)[one]-ak-am	NU
+o.3.1	1(barig)	1(bariga)[unit]	NU
+o.3.2	da-a-gi4	Dayagi[1][-ak]	PN
+o.4.1	1(barig)	1(bariga)[unit]	NU
+o.4.2	i-szar-ru-um	_	PN
+r.1.1	lu2-bi-me-sze3	_	PN
+r.2.1	sza3	szag[heart]	N
+r.2.2	a-sza3	aszag[field]	N
+r.2.3	la2-mah	Lamah[1]	FN
+r.3.1	mu	mu[year]	N
+r.3.2	ma2-gur8-mah	magurmah[great_barge][-ø]	N
+r.3.3	ba-dim2	ba-dim[create][-ø]	V

@@ -1,0 +1,16 @@
+#new_text=P125454
+# ID	FORM	SEGM	XPOSTAG	HEAD	DEPREL	MISC
+o.1.1	4(disz)	4(disz)[one]	NU
+o.1.2	masz-da3	maszda[gazelle][-ø]	N
+o.2.1	mu-kux(DU)	mukur[delivery][-ø]	N
+o.2.2	lugal	lugal[king]	N
+o.3.1	ki	ki[place]	N
+o.3.2	na-sa6-ta	Nasa[1][-ak]-ta	PN
+o.4.1	lugal-ha-ma-ti	Lugalhamati[1]	FN
+r.1.1	i3-dab5	i[-n]-dab[seize][-ø]	V
+r.2.1	iti	iti[month]	N
+r.2.2	ezem-mah	Ezemmah[1][-'a]	MN
+r.3.1	mu	mu[year]	N
+r.3.2	ha-ar-szi{ki}	Harszi[1]	SN
+r.3.3	ki-masz{ki}	Kimasz[1]	SN
+r.3.4	ba-hul	ba-hulu[destroy][-ø]	V

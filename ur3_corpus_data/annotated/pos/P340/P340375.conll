@@ -1,0 +1,22 @@
+#new_text=P340375
+# ID	FORM	SEGM	XPOSTAG	HEAD	DEPREL	MISC
+o.1.1	2(disz)	2(disz)[one]	NU
+o.1.2	{gi}gur	gur[measuring_vessel]	N
+o.2.1	zi3-IL2	zidIL[flour_type]	N
+o.2.2	esir2	esir[bitumen]	N
+o.2.3	su-ba	su[body]-bi-'a	V
+o.3.1	ki	ki[place]	N
+o.3.2	a-gu-ta	Agu[1][-ak]-ta	PN
+o.4.1	kiszib3	kiszib[seal]	N
+o.4.2	ur4-sza3-ta-lu2	_	PN
+r.1.1	sza3	szag[heart]	N
+r.1.2	bala-a	bala[tax][-ak]-'a	N
+r.2.1	mu	mu[year]	N
+r.2.2	us2-sa	us[follow]-a	V
+r.2.3	ma2	ma[ship]	N
+r.2.4	{d}en-ki	Enki[1][-ak][-ø]	DN
+r.3.1	ba-ab-du8	ba-b-du[caulk][-ø]	V
+s1.1.1	ur4-sza3-ta-lu	_	PN
+s1.2.1	dumu	dumu[child]	N
+s1.2.2	ur-szu-ku3-ga	_	PN
+s1.2.3	gudu4	gudug[priest]	N

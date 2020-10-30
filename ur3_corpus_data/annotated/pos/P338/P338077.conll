@@ -1,0 +1,23 @@
+#new_text=P338077
+# ID	FORM	SEGM	XPOSTAG	HEAD	DEPREL	MISC
+o.1.1	1(disz)	1(disz)[one]	NU
+o.1.2	{gesz}ka-gal	_	N
+o.2.1	x	_[_]	N
+o.2.2	{gesz}asalx(|A.TU.NIR|)	_	N
+o.2.3	gesz-tuku	_	V
+o.3.1	ki	ki[place]	N
+o.3.2	ur-sukkal-tar-ta	_	PN
+o.4.1	kiszib3	kiszib[seal]	N
+o.4.2	a-gu	Agu[1][-ak]	PN
+r.1.1	bala-sze3	_	N
+r.2.1	iti	iti[month]	N
+r.2.2	e2-iti-6(disz)	E'iti6[1][-'a]	NU
+r.3.1	mu	mu[year]	N
+r.3.2	a-ra2	ara[times]	N
+r.3.3	2(disz)-kam	2(disz)[one]-ak-am	NU
+r.3.4	sza-asz-szu2-ru-um	_	GN
+r.3.5	ba-hul	ba-hulu[destroy][-ø]	V
+s1.1.1	a-gu	Agu[1][-ak]	PN
+s1.2.1	dub-sar	dubsar[scribe]	N
+s1.3.1	dumu	dumu[child]	N
+s1.3.2	lugal-e2-mah-e	Lugalemahe[1]	N

@@ -1,0 +1,25 @@
+#new_text=P100501
+# ID	FORM	SEGM	XPOSTAG	HEAD	DEPREL	MISC
+o.1.1	2(disz)	2(disz)[one]	NU
+o.1.2	gurusz	gurusz[male]	N
+o.2.1	u4	ud[day]	N
+o.2.2	1(gesz2)	1(gesz)[sixty]	NU
+o.2.3	3(u)-sze3	3(u)[ten]-sze	NU
+o.3.1	ma2-da-ga-asz	Madaga[1]-sze	N
+o.3.2	ma2	ma[ship]	N
+o.3.3	gid2-da	gid[lengthen]-a[-ø]	V
+o.4.1	1(disz)	1(disz)[one]	NU
+o.4.2	gurusz	gurusz[male]	N
+o.4.3	nagar	nagar[carpenter]	N
+o.5.1	u4	ud[day]	N
+o.5.2	2(u)	2(u)[ten]	NU
+o.5.3	5(disz)	5(disz)[one]	NU
+o.5.4	...-sze3	_	PN
+o.6.1	...	_[_]	PN
+r.1.1	ki	ki[place]	N
+r.1.2	lu2-...	_[1][-ra]	PN
+r.2.1	kiszib3	kiszib[seal]	N
+r.2.2	lugal-...	_[1][-ra]	PN
+r.3.1	mu	mu[year]	N
+r.3.2	ki-masz{ki}	Kimasz[1]	SN
+r.3.3	ba-hul	ba-hulu[destroy][-ø]	V

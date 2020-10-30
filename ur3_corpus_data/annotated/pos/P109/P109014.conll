@@ -1,0 +1,27 @@
+#new_text=P109014
+# ID	FORM	SEGM	XPOSTAG	HEAD	DEPREL	MISC
+o.1.1	1(disz)	1(disz)[one]	NU
+o.1.2	eme3	_	N
+o.2.1	1(disz)	1(disz)[one]	NU
+o.2.2	dur3-gesz	_	PN
+o.3.1	1(disz)	1(disz)[one]	NU
+o.3.2	eme3	_	N
+o.3.3	amar	amar[calf][-ak]	N
+o.3.4	ga	ga[milk]	N
+o.4.1	a-ru-a	_	GN
+o.4.2	apin	apin[plow]	N
+o.4.3	ensi2-sze3	_	N
+o.5.1	ki	ki[place]	N
+o.5.2	lu2-bala-sa6-ga-ta	_	PN
+o.6.1	ba-ad-da-ri2	Baddari[1][-ø]	PN
+o.6.2	i3-dab5	i[-n]-dab[seize][-ø]	V
+r.1.1	mu	mu[year]	N
+r.1.2	ba-ad-da-ri2	Baddari[1][-ø]	PN
+r.2.1	lu2-da-da	_	PN
+r.2.2	i3-dab5	i[-n]-dab[seize][-ø]	V
+r.3.1	iti	iti[month]	N
+r.3.2	munu4-gu7	Munugu[1][-'a]	MN
+r.4.1	mu	mu[year]	N
+r.4.2	en	en[priest]	N
+r.4.3	eridu{ki}	Eridug[1][-ak][-ø]	SN
+r.4.4	ba-hun	ba-hug[hire][-ø]	V

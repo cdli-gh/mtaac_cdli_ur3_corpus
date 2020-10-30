@@ -1,0 +1,20 @@
+#new_text=P140264
+# ID	FORM	SEGM	XPOSTAG	HEAD	DEPREL	MISC
+o.1.1	1(u)	1(u)[ten]	NU
+o.1.2	{gi}gur	gur[measuring_vessel]	N
+o.2.1	sze	sze[barley]	N
+o.2.2	i3-szum2-ma-kam	_	V
+o.2.3	IL2-de3	_	PN
+o.3.1	ki	ki[place]	N
+o.3.2	a-gu-ta	Agu[1][-ak]-ta	PN
+o.4.1	kiszib3	kiszib[seal]	N
+o.4.2	szesz-kal-la	Szeszkala[1][-ra]	PN
+r.1.1	iti	iti[month]	N
+r.1.2	e2-iti-6(disz)	E'iti6[1][-'a]	NU
+r.2.1	mu	mu[year]	N
+r.2.2	si-ma-num2{ki}	Simanum[1][-ø]	GN
+r.2.3	ba-hul	ba-hulu[destroy][-ø]	V
+s1.1.1	szesz-kal-la	Szeszkala[1][-ra]	PN
+s1.2.1	dub-sar	dubsar[scribe]	N
+s1.3.1	dumu	dumu[child]	N
+s1.3.2	tir-gu	_	PN

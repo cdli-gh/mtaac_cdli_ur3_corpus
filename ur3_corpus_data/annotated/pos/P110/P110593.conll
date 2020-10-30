@@ -1,0 +1,22 @@
+#new_text=P110593
+# ID	FORM	SEGM	XPOSTAG	HEAD	DEPREL	MISC
+o.1.1	4(disz)	4(disz)[one]	NU
+o.1.2	udu	udu[sheep]	N
+o.2.1	szuku	szukur[prebend_land]	N
+o.2.2	nunuz	_	N
+o.2.3	za-bu	_	PN
+o.2.4	x	_[_]	N
+o.3.1	sa2-du11	sadug[offerings]	N
+o.3.2	{d}dumu-zi	Dumuzi[1][-'a]	MN
+o.4.1	ki	ki[place]	N
+o.4.2	ur3-re-ba-du7-ta	_	PN
+o.5.1	lu2-nigin6{ki}-sze3-du	_	PN
+r.1.1	szu	szu[hand][-e]	N
+r.1.2	ba-ti	ba[-n]-teg[accept][-ø]	V
+r.2.1	iti	iti[month]	N
+r.2.2	GAN2-masz	GANmasz[1][-'a]	MN
+r.3.1	mu	mu[year]	N
+r.3.2	ma2-gur8-mah	magurmah[great_barge][-ø]	N
+r.3.3	{d}en-lil2	Enlil[1]	DN
+r.3.4	{d}nin-lil2-ra	Ninlil[1]-ra	DN
+r.3.5	mu-ne-du3	mu-nnee[-a][-n]-du[build][-ø]	V

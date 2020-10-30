@@ -1,0 +1,18 @@
+#new_text=P131964
+# ID	FORM	SEGM	XPOSTAG	HEAD	DEPREL	MISC
+o.1.1	1(disz)	1(disz)[one]	NU
+o.1.2	gu4	gud[ox]	N
+o.2.1	2(disz)	2(disz)[one]	NU
+o.2.2	ab2	ab[cow][-ø]	N
+o.3.1	szu-gid2	szugid[animal_designation][-ø]	N
+o.4.1	ki	ki[place]	N
+o.4.2	lugal-nir-gal2-ta	_	PN
+r.1.1	mu-kux(DU)	mukur[delivery][-ø]	N
+r.2.1	na-sa6	Nasa[1][-e]	PN
+r.3.1	i3-dab5	i[-n]-dab[seize][-ø]	V
+r.4.1	iti	iti[month]	N
+r.4.2	ezem-mah	Ezemmah[1][-'a]	MN
+r.5.1	mu	mu[year]	N
+r.5.2	us2-sa	us[follow]-a	V
+r.5.3	ki-masz{ki}	Kimasz[1]	SN
+r.5.4	ba-hul	ba-hulu[destroy][-ø]	V

@@ -1,0 +1,14 @@
+#new_text=P204486
+# ID	FORM	SEGM	XPOSTAG	HEAD	DEPREL	MISC
+o.1.1	1(barig)	1(bariga)[unit]	NU
+o.1.2	dabin	dabin[semolina]	N
+o.2.1	2(ban2)	2(ban)[unit]	NU
+o.2.2	zi3	zid[flour]	N
+o.2.3	sag	sag[head]	N
+o.2.4	ninda	ninda[bread]	N
+o.3.1	2(ban2)	2(ban)[unit]	NU
+o.3.2	zi3-gu	zidgu[flour_type]	N
+o.4.1	2(ban2)	2(ban)[unit]	NU
+o.4.2	zi3	zid[flour]	N
+o.4.3	za-tum	_	PN
+r.1.1	sa2-du11	sadug[offerings]	N

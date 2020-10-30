@@ -1,0 +1,19 @@
+#new_text=P125742
+# ID	FORM	SEGM	XPOSTAG	HEAD	DEPREL	MISC
+o.1.1	1(disz)	1(disz)[one]	NU
+o.1.2	udu	udu[sheep]	N
+o.2.1	ki	ki[place]	N
+o.2.2	du10-i3-li2-ta	_	PN
+o.3.1	ur-mes	Urmes[1]	PN
+o.3.2	i3-dab5	i[-n]-dab[seize][-ø]	V
+r.1.1	giri3	giri[foot]	N
+r.1.2	a-a-dingir	_	PN
+r.2.1	iti	iti[month]	N
+r.2.2	ezem-mah	Ezemmah[1][-'a]	MN
+r.3.1	mu	mu[year]	N
+r.3.2	si-ma-num2{ki}	Simanum[1][-ø]	GN
+r.3.3	ba-hul	ba-hulu[destroy][-ø]	V
+s1.1.1	ur-mes	Urmes[1]	PN
+s1.2.1	dumu	dumu[child]	N
+s1.2.2	la-na	Lana[1]	PN
+s1.2.3	kuruszda	kuruszda[animal_fattener][-ø]	N

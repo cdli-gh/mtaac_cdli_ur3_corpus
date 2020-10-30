@@ -1,0 +1,16 @@
+#new_text=P100105
+# ID	FORM	SEGM	XPOSTAG	HEAD	DEPREL	MISC
+o.1.1	1(ban2)	1(ban)[unit]	NU
+o.1.2	u2	u[grass]	N
+o.1.3	...	_[_]	PN
+o.2.1	1(disz)	1(disz)[one]	NU
+o.2.2	sila3	sila[unit]	N
+o.2.3	za3-hi-li	_	PN
+o.3.1	1(disz)	1(disz)[one]	NU
+o.3.2	sila3	sila[unit]	N
+o.3.3	sze-zi-tum	_	PN
+o.4.1	hu-da	_	PN
+o.5.1	szesz	szesz[brother]	N
+o.5.2	ur-{d}szul-pa-e3	Urszulpa'e[1]	PN
+o.6.1	lu2	lu[person]	N
+o.6.2	ur3	ur[roof]	N

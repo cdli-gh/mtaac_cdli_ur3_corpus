@@ -1,0 +1,27 @@
+#new_text=P123214
+# ID	FORM	SEGM	XPOSTAG	HEAD	DEPREL	MISC
+o.1.1	1(disz)	1(disz)[one]	NU
+o.1.2	sag-munus	_	N
+o.2.1	sag-ba	_	PN
+o.2.2	an-za-za-a	_	PN
+o.2.3	mu-ni-im	mu[name]-ani[-ø]-am	N
+o.3.1	ku3	kug[silver]	N
+o.3.2	2(disz)	2(disz)[one]	NU
+o.3.3	gin2	gig[unit]	N
+o.3.4	ku3-babbar2	_	N
+o.4.1	nin-du-du-sze3	_	PN
+o.5.1	lu2-{d}szara2-ke4	_	PN
+o.6.1	i3-szi-sa10	_	V
+o.7.1	1(disz)	1(disz)[one]	NU
+o.7.2	da-da	Dada[1][-ak]	PN
+r.1.1	1(disz)	1(disz)[one]	NU
+r.1.2	szu-gi4-tum	_	PN
+r.2.1	1(disz)	1(disz)[one]	NU
+r.2.2	na-ba-sa6	Nabasa[1][-ak]	PN
+r.3.1	1(disz)	1(disz)[one]	NU
+r.3.2	nigar{gar}-ki-du10	Nigarkidu[1][-ak][-ø]	PN
+r.4.1	1(disz)	1(disz)[one]	NU
+r.4.2	lugal-nesag-e	Lugalnesage[1][-e]	PN
+r.5.1	1(disz)	1(disz)[one]	NU
+r.5.2	szu-ma-am3	Szumam[1]	PN
+r.6.1	lu2-ki-inim-ma-me	_	PN

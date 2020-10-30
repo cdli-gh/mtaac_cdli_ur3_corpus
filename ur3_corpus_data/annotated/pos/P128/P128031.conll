@@ -1,0 +1,31 @@
+#new_text=P128031
+# ID	FORM	SEGM	XPOSTAG	HEAD	DEPREL	MISC
+o.1.1	1(disz)	1(disz)[one]	NU
+o.1.2	ur-li	Urli[1][-ra]	PN
+o.2.1	1(disz)	1(disz)[one]	NU
+o.2.2	ur-{d}szul-pa-e3	Urszulpa'e[1]	PN
+o.3.1	...	_[_]	PN
+o.3.2	1(disz)	1(disz)[one]	NU
+o.3.3	ma	_	N
+o.3.4	ku3	kug[silver]	N
+o.4.1	x	_[_]	N
+o.4.2	un	_	N
+o.4.3	sze	sze[barley]	N
+o.4.4	gi	gi[reed][-ø]	N
+o.4.5	3(u)	3(u)[ten]	NU
+o.5.1	lu2	lu[person]	N
+o.5.2	kin-gi4-a	kiggia[messenger]	N
+o.5.3	SU	_	 
+r.1.1	i-ri-ib	_	PN
+r.1.2	x	_[_]	N
+r.2.1	na	na[stone_weight]	V
+r.2.2	lu2-...	_[1][-ra]	PN
+r.3.1	...	_[_]	PN
+r.4.1	...	_[_]	PN
+r.5.1	1(disz)	1(disz)[one]	NU
+r.5.2	x	_[_]	N
+r.5.3	x	_[_]	N
+r.5.4	...	_[_]	PN
+r.6.1	1(disz)	1(disz)[one]	NU
+r.6.2	lugal-zi	_	PN
+r.6.3	...	_[_]	PN

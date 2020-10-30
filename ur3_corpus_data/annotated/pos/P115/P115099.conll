@@ -1,0 +1,24 @@
+#new_text=P115099
+# ID	FORM	SEGM	XPOSTAG	HEAD	DEPREL	MISC
+o.1.1	3(disz)	3(disz)[one]	NU
+o.1.2	sila3	sila[unit]	N
+o.1.3	kasz	kasz[beer]	N
+o.2.1	i3-di3-a	_	N
+o.3.1	3(disz)	3(disz)[one]	NU
+o.3.2	sila3	sila[unit]	N
+o.3.3	kasz	kasz[beer]	N
+o.4.1	puzur4-a	_	PN
+o.5.1	lu2	lu[person]	N
+o.5.2	za-ri2-iq	_	PN
+o.5.3	ensi2	ensik[ruler]	N
+r.1.1	szuszin{ki}-me	_	GN
+r.2.1	3(disz)	3(disz)[one]	NU
+r.2.2	sila3	sila[unit]	N
+r.2.3	kasz	kasz[beer]	N
+r.3.1	na-bi	_	PN
+r.3.2	lu2	lu[person]	N
+r.3.3	kas4	kas[runner][-ra]	N
+r.4.1	an-sza-an{ki}	Anszan[1][-ø]	GN
+r.4.2	gen-na	gen[go]-a	V
+r.5.1	iti	iti[month]	N
+r.5.2	ezem-{d}szul-gi	Ezemszulgir[1][-'a]	MN

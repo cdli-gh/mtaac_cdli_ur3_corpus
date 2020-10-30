@@ -1,0 +1,25 @@
+#new_text=P500196
+# ID	FORM	SEGM	XPOSTAG	HEAD	DEPREL	MISC
+o.1.1	2(u)	2(u)[ten]	NU
+o.1.2	uz-tur	_	PN
+o.2.1	2(u)	2(u)[ten]	NU
+o.2.2	udu	udu[sheep]	N
+o.2.3	a2-pi5-li2	_	PN
+o.3.1	1(u)	1(u)[ten]	NU
+o.3.2	uz-tur	_	PN
+o.4.1	dumu-munus	dumumunus[daughter]	N
+o.4.2	kur-giri3-ni-sze3	_	N
+r.1.1	iti-ta	_	N
+r.1.2	u4	ud[day]	N
+r.1.3	3(disz)	3(disz)[one]	NU
+r.1.4	ba-ra-zal	_	V
+r.2.1	mu-kux(DU)	mukur[delivery][-ø]	N
+r.2.2	{d}szul-gi-si2-im-ti	_	PN
+r.3.1	{d}szul-gi-i3-li2	Szulgirili[1][-ak][-ra]	PN
+r.3.2	i3-dab5	i[-n]-dab[seize][-ø]	V
+r.4.1	iti	iti[month]	N
+r.4.2	szu-esz-sza	Szu'eszsza[1][-'a]	MN
+r.5.1	mu	mu[year]	N
+r.5.2	us2-sa	us[follow]-a	V
+r.5.3	ki-masz{ki}	Kimasz[1]	SN
+r.5.4	ba-hul	ba-hulu[destroy][-ø]	V

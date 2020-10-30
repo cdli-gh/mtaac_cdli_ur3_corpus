@@ -1,0 +1,8 @@
+#new_text=P500112
+# ID	FORM	SEGM	XPOSTAG	HEAD	DEPREL	MISC
+s1.1.1	{d}en-lil2-la2-|AN.ZU|	_	PN
+s1.1.2	dub-sar	dubsar[scribe]	N
+s1.2.1	dumu	dumu[child]	N
+s1.2.2	lugal-geszkim-zi	_	PN
+s1.3.1	sangax(EGIR)	_	N
+s1.3.2	{d}en-lil2-la2	Enlil[1][-ak][-ø]	DN

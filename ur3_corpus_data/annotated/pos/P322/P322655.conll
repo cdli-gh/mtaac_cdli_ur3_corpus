@@ -1,0 +1,16 @@
+#new_text=P322655
+# ID	FORM	SEGM	XPOSTAG	HEAD	DEPREL	MISC
+o.1.1	...	_[_]	PN
+o.2.1	ki	ki[place]	N
+o.2.2	szu-{d}iszkur-ta	_	PN
+o.3.1	zi3	zid[flour]	N
+o.3.2	lu2	lu[person]	N
+o.3.3	lunga	lungak[brewer][-ak]	N
+o.3.4	(x)	_[_]	N
+o.4.1	gurum2	gurum[inspection]	N
+o.4.2	ak	ak[excavate][-a][-ak]	V
+r.1.1	...	_[_]	PN
+r.2.1	mu	mu[year]	N
+r.2.2	ma-da	mada[land][-ak][-ø]	N
+r.2.3	za-ab-sza-li{ki}	Zabszali[1][-ak][-ø]	GN
+r.2.4	mu-hul	mu[-n]-hulu[destroy][-ø]	V
