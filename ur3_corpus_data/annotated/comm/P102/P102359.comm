@@ -1,0 +1,76 @@
+<commodities>
+#P102359 = ASJ 09, 272 83
+#atf: lang sux
+#tr.en: 11 ox-hides, grain-fed,
+#tr.en: 429 sheep-hides,
+#tr.en: 2 lamb-hides,
+#tr.en: regular offerings of Šara of Umma;
+#tr.en: 1 ox-hide, grain-fed, 2 sheep-hides, grain-fed,
+#tr.en: 37 sheep-hides,
+#tr.en: regular offerings of Šara of KI.AN;
+#tr.en: 47 sheep-hides, grain-fed, 30 lamb-hides,
+#tr.en: royal sacrifice;
+#tr.en: 1 ox-hide, grain-fed,
+#tr.en: 58 sheep-hides, grain-fed,
+#tr.en: 32 sheep-hides,
+#tr.en: in the regular offerings ...;
+#tr.en: 12 billy goat-hides,
+#tr.en: regular offerings, additional, of Šulgi;
+#tr.en: 50 sheep-hides, 21 lamb-hides,
+#tr.en: for Ninura;
+#tr.en: 10 sheep-hides, 7 lamb-hides,
+#tr.en: (for) Ebgal;
+#tr.en: 1 sheep-hide, 8 lamb-hides,
+#tr.en: (for) Enlil;
+#tr.en: 1 sheep-hides (for) Nanše of Umma;
+#tr.en: 1 sheep-hide for Gula;
+#tr.en: 30 sheep-hides, 20 ...-hides,
+#tr.en: for Innana of Zabala, Nin-ilduma and Kusig-banda;
+#tr.en: 3 sheep-hides, for the governor of ...;
+#tr.en: 6 sheep-hides, 4 ...-hides,
+#tr.en: for E’e ...;
+#tr.en: 4 sheep-hides, 2 ...-hides,
+#tr.en: for Da-Lagaš;
+#tr.en:8 sheep-hides, 4 lamb-hides,
+#tr.en: for Enki and UŠkalimmu;
+#tr.en: 4 sheep-hides, 2 lamb-hides,
+#tr.en: for Dumuzi of double-city;
+#tr.en: regular offerings of the gods;
+#tr.en: year after: “The wall was erected.”
+<count><interpretation modern_unit="" modern_value="11" system="cardinal" unit="" value="11"/>1(u) 1(disz)</count> <com dist="1">kusz</com> gu4 niga 
+<count><interpretation modern_unit="" modern_value="449" system="cardinal" unit="" value="449"/>7(gesz2) 3(u) la2 1(disz)</count> <com dist="1">kusz</com> udu 
+<count><interpretation modern_unit="" modern_value="2" system="cardinal" unit="" value="2"/>2(disz)</count> kusz sila4 
+sa2-du11 {d}szara2 umma{ki} 
+<count><interpretation modern_unit="" modern_value="1" system="cardinal" unit="" value="1"/>1(disz)</count> <com dist="1">kusz</com> gu4 niga <count><interpretation modern_unit="" modern_value="2" system="cardinal" unit="" value="2"/>2(disz)</count> kusz udu niga 
+<count><interpretation modern_unit="" modern_value="37" system="cardinal" unit="" value="37"/>3(u) 7(disz)</count> <com dist="1">kusz</com> udu 
+sa2-du11 {d}szara2 |KI.AN|{ki} 
+<count><interpretation modern_unit="" modern_value="47" system="cardinal" unit="" value="47"/>4(u) 7(disz)</count> <com dist="1">kusz</com> udu niga <count><interpretation modern_unit="" modern_value="30" system="cardinal" unit="" value="30"/>3(u)</count> kusz sila4 
+nig2-{gesz}tag-ga lugal 
+<count><interpretation modern_unit="" modern_value="1" system="cardinal" unit="" value="1"/>1(disz)</count> <com dist="1">kusz</com> gu4 niga 
+<count><interpretation modern_unit="" modern_value="58" system="cardinal" unit="" value="58"/>1(gesz2) la2 2(disz)</count> <com dist="1">kusz</com> udu niga 
+<count><interpretation modern_unit="" modern_value="32" system="cardinal" unit="" value="32"/>3(u) 2(disz)</count> <com dist="1">kusz</com> udu 
+sza3 sa2-du11 (x) 
+<count><interpretation modern_unit="" modern_value="12" system="cardinal" unit="" value="12"/>1(u) 2(disz)</count> <com dist="1">kusz</com> masz2 
+sa2-du11 dah-ha {d}szul-gi 
+<count><interpretation modern_unit="" modern_value="50" system="cardinal" unit="" value="50"/>5(u)</count> <com dist="1">kusz</com> udu <count><interpretation modern_unit="" modern_value="21" system="cardinal" unit="" value="21"/>2(u) 1(disz)</count> kusz sila4 
+{d}nin-ur4-ra 
+<count><interpretation modern_unit="" modern_value="10" system="cardinal" unit="" value="10"/>1(u)</count> <com dist="1">kusz</com> udu <count><interpretation modern_unit="" modern_value="7" system="cardinal" unit="" value="7"/>7(disz)</count> kusz sila4 
+{d}eb-gal 
+<count><interpretation modern_unit="" modern_value="10" system="cardinal" unit="" value="10"/>1(u)</count> <com dist="1">kusz</com> udu <count><interpretation modern_unit="" modern_value="8" system="cardinal" unit="" value="8"/>8(disz)</count> kusz sila4 
+{d}en-lil2 
+<count><interpretation modern_unit="" modern_value="1" system="cardinal" unit="" value="1"/>1(disz)</count> <com dist="1">kusz</com> udu {d}nansze umma{ki} 
+<count><interpretation modern_unit="" modern_value="1" system="cardinal" unit="" value="1"/>1(disz)</count> <com dist="1">kusz</com> udu {d}gu-la (x) 
+<count><interpretation modern_unit="" modern_value="31" system="cardinal" unit="" value="31"/>3(u) 1(disz)</count> <com dist="1">kusz</com> udu <count><interpretation modern_unit="" modern_value="20" system="cardinal" unit="" value="20"/>2(u)</count> kusz x 
+{d}inanna zabala{ki} {d}nin-ildu3-ma <com dist="1">u3</com> {d}ku3-sig17-banda3{da} 
+<count><interpretation modern_unit="" modern_value="3" system="cardinal" unit="" value="3"/>3(disz)</count> <com dist="1">kusz</com> udu ensi2 x ... 
+<count><interpretation modern_unit="" modern_value="6" system="cardinal" unit="" value="6"/>6(disz)</count> <com dist="1">kusz</com> udu <count><interpretation modern_unit="" modern_value="4" system="cardinal" unit="" value="4"/>4(disz)</count> kusz ... 
+{d}e11-e x x 
+<count><interpretation modern_unit="" modern_value="4" system="cardinal" unit="" value="4"/>4(disz)</count> <com dist="1">kusz</com> udu <count><interpretation modern_unit="" modern_value="2" system="cardinal" unit="" value="2"/>2(disz)</count> kusz x 
+{d}da-lagasz{ki} 
+<count><interpretation modern_unit="" modern_value="8" system="cardinal" unit="" value="8"/>8(disz)</count> <com dist="1">kusz</com> udu <count><interpretation modern_unit="" modern_value="4" system="cardinal" unit="" value="4"/>4(disz)</count> kusz sila4 
+{d}en-ki u3 {d}USZ-ka-limmu5 
+<count><interpretation modern_unit="" modern_value="4" system="cardinal" unit="" value="4"/>4(disz)</count> <com dist="1">kusz</com> udu <count><interpretation modern_unit="" modern_value="2" system="cardinal" unit="" value="2"/>2(disz)</count> kusz sila4 
+{d}dumu-zi iri-min 
+sa2-du11 dingir-e-ne 
+mu us2-sa bad3 <com dist="1">ba-du3</com> 
+</commodities>

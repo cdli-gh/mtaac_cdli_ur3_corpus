@@ -1,0 +1,440 @@
+<commodities>
+#P123189 = OTR 254
+#atf: lang sux
+#tr.en: 12 laborers for 30 days,
+#tr.en: the overseer: Ur-Saga, son of Lugal-igi,
+#tr.en: in bala stationed,
+#tr.en: month: “Festival-of-Dumuzi;”
+#tr.en: 10 ploughmen for 30 days,
+#tr.en: 7 dumu-daba-laborers for 30 days,
+#tr.en: 3 porters, 1/3, for 30 days,
+#tr.en: 87 labor-troops for 30 days,
+#tr.en: the overseer: Ur-Gešbare;
+#tr.en: 33 labor-troops for 30 days,
+#tr.en: the overseer: Aḫua,
+#tr.en: in bala stationed;
+#tr.en: 12 labor-troops (at) 1 barig each for 20 days,
+#tr.en: the grain: 2 gur 2 barig (according to the) royal (measure),
+# calculation: 12 × 0;1,0 = 2;2,0
+#tr.en: from Ur-Eninnu,
+#tr.en: the overseer: Ur-Saga, son of Lugal-igi;
+#tr.en: 64 labor-troop workdays,
+#tr.en: from Ur-kisal;
+#tr.en: 70 minus 1 labor-troop workdays,
+#tr.en: from Ur-Lamma, son of Ur-nig;
+#tr.en: month: “Festival of Šulgi;”
+#tr.en: from 100 labor-troops at 1 barig 2 ban2 each, for 20 days,
+#tr.en: hired labor-troops having sat out of bala;
+#tr.en: its barley: 17 gur 2 ban2,
+# calculation: 64 × 0;1,2 = 17;0,2
+# as per photo CDLI; already noted Maekawa RA 70, 22
+#tr.en: the overseer: Ur-Gešbare;
+#tr.en: 5 labor-troops for 30 days
+#tr.en: in bala stationed;
+#tr.en: 24 labor-troops (at) 1 barig each, for 20 days
+#tr.en: hired labor-troops having sat out of bala;
+#tr.en: its barley: 4 gur 4 barig,
+# calculation: 24 × 0;1,0 = 4;4,0
+#tr.en: the overseer: Lu-Ningirsu;
+#tr.en: 15 dumu-baBAD laborers, for 30 days, in bala stationed,
+#tr.en: they are of the household Ninmar;
+#tr.en: 33 labor-troops (at) 2 ban2 each, for 20 days,
+#tr.en: 5 labor-troops (at) 1 barig each, for 20 days,
+#tr.en: 6 labor-troops(at) 3 ban2 each, for 20 days,
+#tr.en: 4 labor-troops (at) 2 ban2 each, for 20 days,
+#tr.en: its barley: 10 gur 3 barig 2 ban2;
+# calculation: 33 × 0;1,2 + 5 × 0;1,0 + 6 × 0;0,3 + 4 × 0;0,2 = 10;3,2
+# as per photo CDLI; already noted Maekawa RA 70, 22
+#tr.en: labor-troops hired having sat out of bala,
+#tr.en: the overseer: Aḫua;
+#tr.en: its barley from Ur-Eninnu;
+#tr.en: 16 labor-troops for 20 days,
+#tr.en: having sat out of bala, barley not received,
+#tr.en: the foreman: Ur-Baba, son of Lu-Nimgir;
+#tr.en: 10 ploughmen for 30 days,
+#tr.en: from the tablet of the governor;
+#tr.en: 15 labor-troops for 30 days,
+#tr.en: from Ur-Nanše;
+#tr.en: 11 labor-troops for 30 days,
+#tr.en: from Lu-Girizal;
+#tr.en: 3 labor-troops for 30 days,
+#tr.en: from Ur-kisal;
+#tr.en: 2 labor-troops for 30 days,
+#tr.en: from Ur-Lamma, son of Ur-nig;
+#tr.en: the overseer: Lu-Ningirsu,
+#tr.en: in bala stationed,
+#tr.en: tonth: “Festival-of-Baba;”
+#tr.en: 15 labor-troops (at) 2 ban2 each for 20 days,
+#tr.en: its barley 1 gur,
+# calculation: 15 × 0;0,2 = 1;0,0
+#tr.en: from Ur-Eninnu;
+#tr.en: labor-troops from Ur-Nanše;
+#tr.en: 3 labor-troops for 20 days,
+#tr.en: having sat out of bala, barley not received,
+#tr.en: from Lu-Girizal;
+#tr.en: 3 laborers for 20 days,
+#tr.en: having sat out of bala, barley not received,
+#tr.en: from Ur-kisal;
+#tr.en: 2 worker troop 20 days,
+#tr.en: having sat out of bala, barley not received,
+#tr.en: from [...]
+#tr.en: 21 labor-troops for n day(s),
+#tr.en: having sat out of bala, barley not received,
+#tr.en: 13 labor-troops for 20 days,
+#tr.en: having sat out of bala, barley not received,
+#tr.en: the overseer: Lu-Ningirsu;
+#tr.en: 64 labor-troops for 30 days,
+#tr.en: in bala stationed;
+#tr.en: 10 ploughmen for 30 days,
+#tr.en: the overseer: Ur-Gešbare;
+#tr.en: 15 dumu-baBAD laborers for 30 days,
+#tr.en: of the household of Ninmar;
+#tr.en: 50 minus 2 labor-troops for 30 days,
+#tr.en: the overseer: Aḫua;
+#tr.en: 16 labor-troops for 30 days,
+#tr.en: the foreman: Ur-Baba, son of lu-Nimgir,
+#tr.en: in bala stationed;
+#tr.en: month: “mušudu;”
+# sic, usually -du7
+#tr.en: 16 labor-troops for 30 days,
+#tr.en: in bala stationed;
+#tr.en: 16 labor-troops (at) 2 ban2 1 sila each for 20 days,
+#tr.en: the overseer: Lu-Ningirsu;
+#tr.en: 25 labor-troops (at) 1 ban2 5 sila each for 20 days,
+#tr.en: its barley: 2 gur 1 barig 5 ban2,
+# calculation: (16 × 0;0,2,1) + 25 × 0;0,1,5) = 2;1,5,1
+#tr.en: from Ur-Eninnu;
+#tr.en: having sat out of bala;
+# sic ?
+#tr.en: 40 minus 1 labor-troops for 30 days.
+#tr.en: having sat out of bala, barley not received,
+#tr.en: the overseer: Ur-Gešbare;
+#tr.en: 20 release-ploughmen for 30 days,
+#tr.en: 8 porters, 1/4, for 30 days,
+#tr.en: they are of the household of Dumuzi;
+#tr.en: from the tablet of the governor;
+#tr.en: 253 labor-troop workdays,
+#tr.en: the overseer: Ur-Utu;
+#tr.en: 221 2/3 labor-troop workdays,
+#tr.en: the overseer: Nabasa;
+#tr.en: 80 labor-troop workdays,
+#tr.en: the overseer: Ur-tur son of x-Ningirsu;
+#tr.en: ...,
+#tr.en: household of ...,
+#tr.en: from Ur-...,
+#tr.en: month: “Amarasi;”
+#tr.en: 2 bur3 1 eše3 3 iku field,
+#tr.en: singer ...;
+#tr.en: 2 bur3 field ...,
+#tr.en: merchant ...
+#tr.en: 1 bur3 1 eše3 4 iku field,
+#tr.en: Nar...,
+#tr.en: its labor: ...
+#tr.en: from the household manager ...;
+#tr.en: total: 10 ploughmen for 30 days;
+# obv. i 5
+#tr.en: total: 7 dumudaba-laborers for 30 days;
+# obv. i 6
+#tr.en: total: 3 porters for 30 days;
+# obv. i 7
+#tr.en: total 15 agricultural laborers for 30 days;
+# obv. ii 1
+#tr.en: total: 380 labor-troops, in bala stationed;
+# calculation: 12 + 87 + 33 + 12 + 14 + 69 + 100 + 5 + 33 + 5 + 6 + 4 = 380
+#tr.en: in bala stationed;
+#tr.en: total: 204 [x]
+# calculation: ?
+#tr.en: its barley 38 gur 1 barig 1 sila3;
+# calculation: 12 × 0;1,0 + 64 × 0;1,2 + 24 × 0;1,0 + 33 × 0;1,2 + 5 × 0;1,0 + 6 × 0;0,3 + 4 × 0;0,2 + 15 × 0;0,2 + 16 × 0;0,2,1 + 25 × 0;0,1,5 = 38;1,0,1
+#tr.en: from Ur-Sukkal,
+#tr.en: hired labor-troops ...;
+#tr.en: total: 34 [...]
+# calculation: ?
+#tr.en: total: 20 ...,
+# calculation: ?
+#tr.en: labor-troops, barley not received;
+#tr.en: total: 6 bur3 field ...,
+#tr.en: its labor: ...,
+#tr.en: from the foreman ...;
+#tr.en: total: ...
+#tr.en: ...,
+#tr.en: month: “...;”
+#tr.en: 370 ...
+#tr.en: having sat out the bala,
+#tr.en: out of the city not going;
+#tr.en: 500 ...;
+#tr.en: monthly passed,
+#tr.en: having sat out of bala;
+#tr.en: 3 labor-troops ...,
+#tr.en: monthly passed,
+#tr.en: having sat out of bala;
+#tr.en: month: “Amarasi,”
+#tr.en: the overseer: Lu2-...;
+#tr.en: 20 release-ploughmen ...;
+#tr.en: 8 porters, 1/4, for 30 days,
+#tr.en: out of the city not going;
+#tr.en: household of Dumuzi;
+#tr.en: 1 overseer ...
+#tr.en: out of the city not going;
+#tr.en: household of ...;
+#tr.en: n ...;
+#tr.en: total: 220 1/2 ninda length ...,
+#tr.en: per laborer 1/2 ninda each,
+#tr.en: its labor: 441 laborer workdays,
+# calculation: 220 1/2 ÷ 1/2 = 441
+#tr.en: field “Ninture” bordering the marsh;
+#tr.en: total: 9 bur3 2 iku field, ploughed,
+#tr.en: per laborer 20 minus 2 sar,
+#tr.en: its labor: 911 workdays,
+# calculation: 16400 ÷ 18 = 911.11
+#tr.en: field “household-managership,” cultivated;
+#tr.en: total: 213 ninda, length, reed-x,
+#tr.en: per laborer 1/2 ninda,
+#tr.en: its labor 426 workdays,
+# calculation: 213 ÷ 1/2 = 426
+#tr.en: total: 2 laborer workdays.
+# calculation: ?
+#tr.en: mudwall raised,
+#tr.en: field “Ninegubade,”
+#tr.en: from Ur-Saga, son of Ur-Gula;
+#tr.en: total: 900 dumu-baBAD workdays;
+# calculation: (ii 1, iii 11) 2 × (15 × 30) = 900
+#tr.en: total: 210 dumu-daba workdays;
+# calculation: (iv 18) 7 × 30 = 210
+#tr.en: total: 90 porter, 1/3, workdays;
+# calculation: (i 8) 3 × 30 = 90
+#tr.en: total: 240 porter, 1/4, workdays;
+# calculation: (v 17) 8 × 30 = 240
+#tr.en: total: 108 laborer workdays;
+# calculation: ?
+#tr.en: gulla-labor;
+#tr.en: Total: 63 workdays, sick,
+#tr.en: booked out;
+#tr.en: total: 53 laborers for 30 days,
+#tr.en: out of the city not going;
+#tr.en: total: 1718 laborer workdays,
+# calculation: ?
+#tr.en: monthly passed;
+#tr.en: Total: Ø laborers workdays,
+# calculation:
+#tr.en: gulla-labor,
+#tr.en: in bala stationed;
+#tr.en: total: 8 laborers for 20 days,
+#tr.en: out of the city not going;
+#tr.en: total 1714 laborers per 1 day,
+#tr.en: monthly passed;
+#tr.en: total: Ø laborer workdays,
+#tr.en: gulla-labor;
+#tr.en: its barley: 37 gur 1 barig 3 ban2;
+#tr.en: total: 44 laborers for 30 days,
+#tr.en: total: 16 laborers for 20 days,
+#tr.en: out of the city not going;
+#tr.en: total: 520 laborer workdays,
+#tr.en: monthly passed;
+#tr.en: barley not received;
+#tr.en: Account,
+#tr.en: place of Ur-nig.
+<count><interpretation modern_unit="" modern_value="12" system="cardinal" unit="" value="12"/>1(u) 2(disz)</count> <com dist="1">gurusz</com> u4 <count><interpretation modern_unit="" modern_value="30" system="cardinal" unit="" value="30"/>3(u)-sze3</count> 
+nu-banda3 ur-sa6-ga dumu lugal-igi 
+<com dist="1">bala</com> gub-ba 
+iti ezem-{d}dumu-zi 
+<count><interpretation modern_unit="" modern_value="10" system="cardinal" unit="" value="10"/>1(u)</count> engar u4 <count><interpretation modern_unit="" modern_value="30" system="cardinal" unit="" value="30"/>3(u)-sze3</count> 
+<count><interpretation modern_unit="" modern_value="7" system="cardinal" unit="" value="7"/>7(disz)</count> dumu-da-ba u4 <count><interpretation modern_unit="" modern_value="30" system="cardinal" unit="" value="30"/>3(u)-sze3</count> 
+<count><interpretation modern_unit="" modern_value="3" system="cardinal" unit="" value="3"/>3(disz)</count> ug3-IL2 <count><interpretation modern_unit="" modern_value="0.3333333333333333" system="cardinal" unit="" value="0.3333333333333333"/>1/3(disz)</count> u4 <count><interpretation modern_unit="" modern_value="30" system="cardinal" unit="" value="30"/>3(u)-sze3</count> 
+<count><interpretation modern_unit="" modern_value="87" system="cardinal" unit="" value="87"/>1(gesz2) 2(u) 7(disz)</count> <com dist="1">erin2</com> u4 <count><interpretation modern_unit="" modern_value="30" system="cardinal" unit="" value="30"/>3(u)-sze3</count> 
+nu-banda3 ur-{d}gesz-bar-e3 
+<count><interpretation modern_unit="" modern_value="33" system="cardinal" unit="" value="33"/>3(u) 3(disz)</count> <com dist="1">erin2</com> u4 <count><interpretation modern_unit="" modern_value="30" system="cardinal" unit="" value="30"/>3(u)-sze3</count> 
+nu-banda3 a-hu-a 
+<com dist="1">bala</com> gub-ba 
+<count><interpretation modern_unit="" modern_value="12" system="cardinal" unit="" value="12"/>1(u) 2(disz)</count> <com dist="1">erin2</com> <count><interpretation modern_unit="l" modern_value="60" system="dry capacity" unit="sila3" value="60"/>1(barig)-ta</count> u4 <count><interpretation modern_unit="" modern_value="20" system="cardinal" unit="" value="20"/>2(u)-sze3</count> 
+<com dist="1">sze</com> <count><interpretation modern_unit="l" modern_value="720" system="dry capacity" unit="sila3" value="720"/>2(asz) 2(barig) gur</count> lugal 
+<com dist="1">ki</com> ur-e2-ninnu-ta 
+nu-banda3 ur-sa6-ga dumu lugal-igi 
+<count><interpretation modern_unit="" modern_value="64" system="cardinal" unit="" value="64"/>1(gesz2) 4(disz)</count> <com dist="1">erin2</com> u4 <count><interpretation modern_unit="" modern_value="1" system="cardinal" unit="" value="1"/>1(disz)-sze3</count> 
+<com dist="1">ki</com> ur-kisal-ta 
+<count><interpretation modern_unit="" modern_value="69" system="cardinal" unit="" value="69"/>1(gesz2) 1(u) la2 1(disz)</count> <com dist="1">erin2</com> u4 <count><interpretation modern_unit="" modern_value="1" system="cardinal" unit="" value="1"/>1(disz)-sze3</count> 
+<com dist="1">ki</com> ur-{d}lamma dumu ur-nig2-ta 
+iti ezem-{d}szul-gi 
+<count><interpretation modern_unit="" modern_value="100" system="cardinal" unit="" value="100"/>1(gesz2) 4(u)</count> <com dist="1">erin2</com> <count><interpretation modern_unit="l" modern_value="80" system="dry capacity" unit="sila3" value="80"/>1(barig) 2(ban2)-ta</count> u4 <count><interpretation modern_unit="" modern_value="20" system="cardinal" unit="" value="20"/>2(u)-sze3</count> 
+<com dist="1">erin2</com> hun-ga2 bala tusz-a 
+sze-bi <count><interpretation modern_unit="l" modern_value="5120" system="dry capacity" unit="sila3" value="5120"/>1(u) 7(asz) 2(ban2) gur</count> 
+nu-banda3 ur-{d}gesz-bar-e3 
+<count><interpretation modern_unit="" modern_value="5" system="cardinal" unit="" value="5"/>5(disz)</count> <com dist="1">erin2</com> u4 <count><interpretation modern_unit="" modern_value="30" system="cardinal" unit="" value="30"/>3(u)-sze3</count> 
+<com dist="1">bala</com> gub-ba 
+<count><interpretation modern_unit="" modern_value="24" system="cardinal" unit="" value="24"/>2(u) 4(disz)</count> <com dist="1">erin2</com> <count><interpretation modern_unit="l" modern_value="60" system="dry capacity" unit="sila3" value="60"/>1(barig)-ta</count> u4 <count><interpretation modern_unit="" modern_value="20" system="cardinal" unit="" value="20"/>2(u)-sze3</count> 
+<com dist="1">erin2</com> hun-ga2 bala tusz-a 
+sze-bi <count><interpretation modern_unit="l" modern_value="1440" system="dry capacity" unit="sila3" value="1440"/>4(asz) 4(barig) gur</count> 
+nu-banda3 lu2-{d}nin-gir2-su 
+<count><interpretation modern_unit="" modern_value="15" system="cardinal" unit="" value="15"/>1(u) 5(disz)</count> dumu <com dist="1">ba-BAD</com> u4 <count><interpretation modern_unit="" modern_value="30" system="cardinal" unit="" value="30"/>3(u)-sze3</count> bala gub 
+e2 {d}nin-mar{ki}-me 
+<count><interpretation modern_unit="" modern_value="33" system="cardinal" unit="" value="33"/>3(u) 3(disz)</count> <com dist="1">erin2</com> <count><interpretation modern_unit="l" modern_value="80" system="dry capacity" unit="sila3" value="80"/>1(barig) 2(ban2)-ta</count> u4 <count><interpretation modern_unit="" modern_value="20" system="cardinal" unit="" value="20"/>2(u)-sze3</count> 
+<count><interpretation modern_unit="" modern_value="5" system="cardinal" unit="" value="5"/>5(disz)</count> <com dist="1">erin2</com> <count><interpretation modern_unit="l" modern_value="60" system="dry capacity" unit="sila3" value="60"/>1(barig)-ta</count> u4 <count><interpretation modern_unit="" modern_value="20" system="cardinal" unit="" value="20"/>2(u)-sze3</count> 
+<count><interpretation modern_unit="" modern_value="6" system="cardinal" unit="" value="6"/>6(disz)</count> <com dist="1">erin2</com> <count><interpretation modern_unit="l" modern_value="30" system="dry capacity" unit="sila3" value="30"/>3(ban2)-ta</count> u4 <count><interpretation modern_unit="" modern_value="20" system="cardinal" unit="" value="20"/>2(u)-sze3</count> 
+<count><interpretation modern_unit="" modern_value="4" system="cardinal" unit="" value="4"/>4(disz)</count> <com dist="1">erin2</com> <count><interpretation modern_unit="l" modern_value="20" system="dry capacity" unit="sila3" value="20"/>2(ban2)-ta</count> u4 <count><interpretation modern_unit="" modern_value="20" system="cardinal" unit="" value="20"/>2(u)-sze3</count> 
+<com dist="1">sze-bi</com> <count><interpretation modern_unit="l" modern_value="3200" system="dry capacity" unit="sila3" value="3200"/>1(u) 3(barig) 2(ban2) gur</count> 
+erin2 hun-ga2 bala tusz-a 
+nu-banda3 a-hu-a 
+<com dist="1">sze-bi</com> ki ur-e2-ninnu-ta 
+<count><interpretation modern_unit="" modern_value="16" system="cardinal" unit="" value="16"/>1(u) 6(disz)</count> <com dist="1">erin2</com> u4 <count><interpretation modern_unit="" modern_value="20" system="cardinal" unit="" value="20"/>2(u)-sze3</count> 
+<com dist="1">bala</com> tusz-a sze szu nu-ti 
+ugula ur-{d}ba-ba6 dumu lu2-nimgir 
+<count><interpretation modern_unit="" modern_value="10" system="cardinal" unit="" value="10"/>1(u)</count> engar u4 <count><interpretation modern_unit="" modern_value="30" system="cardinal" unit="" value="30"/>3(u)-sze3</count> 
+<com dist="1">im</com> ensi2-ta 
+<count><interpretation modern_unit="" modern_value="15" system="cardinal" unit="" value="15"/>1(u) 5(disz)</count> <com dist="1">erin2</com> u4 <count><interpretation modern_unit="" modern_value="30" system="cardinal" unit="" value="30"/>3(u)-sze3</count> 
+<com dist="1">ki</com> ur-{d}nansze-ta 
+<count><interpretation modern_unit="" modern_value="11" system="cardinal" unit="" value="11"/>1(u) 1(disz)</count> <com dist="1">erin2</com> u4 <count><interpretation modern_unit="" modern_value="30" system="cardinal" unit="" value="30"/>3(u)-sze3</count> 
+<com dist="1">ki</com> lu2-giri17-zal-ta 
+<count><interpretation modern_unit="" modern_value="3" system="cardinal" unit="" value="3"/>3(disz)</count> <com dist="1">erin2</com> u4 <count><interpretation modern_unit="" modern_value="30" system="cardinal" unit="" value="30"/>3(u)-sze3</count> 
+<com dist="1">ki</com> ur-kisal-ta 
+<count><interpretation modern_unit="" modern_value="2" system="cardinal" unit="" value="2"/>2(disz)</count> <com dist="1">erin2</com> u4 <count><interpretation modern_unit="" modern_value="30" system="cardinal" unit="" value="30"/>3(u)-sze3</count> 
+<com dist="1">ki</com> ur-{d}lamma dumu ur-nig2-ta 
+nu-banda3 lu2-{d}nin-gir2-su 
+bala gub-ba 
+iti ezem-{d}ba-ba6 
+<count><interpretation modern_unit="" modern_value="15" system="cardinal" unit="" value="15"/>1(u) 5(disz)</count> <com dist="1">erin2</com> <count><interpretation modern_unit="l" modern_value="20" system="dry capacity" unit="sila3" value="20"/>2(ban2)-ta</count> u4 <count><interpretation modern_unit="" modern_value="20" system="cardinal" unit="" value="20"/>2(u)-sze3</count> 
+<com dist="1">sze-bi</com> <count><interpretation modern_unit="l" modern_value="300" system="dry capacity" unit="sila3" value="300"/>1(asz) gur</count> 
+ki ur-e2-ninnu-ta 
+erin2 ki ur-{d}nansze-ta 
+<count><interpretation modern_unit="" modern_value="3" system="cardinal" unit="" value="3"/>3(disz)</count> <com dist="1">erin2</com> u4 <count><interpretation modern_unit="" modern_value="20" system="cardinal" unit="" value="20"/>2(u)-sze3</count> 
+<com dist="1">bala</com> tusz-a sze szu nu-ti 
+ki lu2-giri17-zal-ta 
+<count><interpretation modern_unit="" modern_value="3" system="cardinal" unit="" value="3"/>3(disz)</count> <com dist="1">gurusz</com> u4 <count><interpretation modern_unit="" modern_value="20" system="cardinal" unit="" value="20"/>2(u)-sze3</count> 
+<com dist="1">bala</com> tusz-a sze szu nu-ti-a 
+ki ur-kisal-ta 
+<count><interpretation modern_unit="" modern_value="2" system="cardinal" unit="" value="2"/>2(disz)</count> <com dist="1">erin2</com> u4 <count><interpretation modern_unit="" modern_value="20" system="cardinal" unit="" value="20"/>2(u)-sze3</count> 
+<com dist="1">bala</com> tusz-a sze szu nu-ti-a 
+ki ... 
+<count><interpretation modern_unit="" modern_value="21" system="cardinal" unit="" value="21"/>2(u) 1(disz)</count> <com dist="1">erin2</com> u4 n-sze3 
+bala tusz-a sze szu nu-ti-a 
+<count><interpretation modern_unit="" modern_value="13" system="cardinal" unit="" value="13"/>1(u) 3(disz)</count> <com dist="1">erin2</com> u4 <count><interpretation modern_unit="" modern_value="20" system="cardinal" unit="" value="20"/>2(u)-sze3</count> 
+<com dist="1">bala</com> tusz-a sze szu nu-ti-a 
+nu-banda3 lu2-{d}nin-gir2-su 
+<count><interpretation modern_unit="" modern_value="64" system="cardinal" unit="" value="64"/>1(gesz2) 4(disz)</count> <com dist="1">erin2</com> u4 <count><interpretation modern_unit="" modern_value="30" system="cardinal" unit="" value="30"/>3(u)-sze3</count> 
+<com dist="1">bala</com> gub-ba 
+<count><interpretation modern_unit="" modern_value="10" system="cardinal" unit="" value="10"/>1(u)</count> engar u4 <count><interpretation modern_unit="" modern_value="30" system="cardinal" unit="" value="30"/>3(u)-sze3</count> 
+nu-banda3 ur-{d}gesz-bar-e3 
+<count><interpretation modern_unit="" modern_value="15" system="cardinal" unit="" value="15"/>1(u) 5(disz)</count> dumu <com dist="1">ba-BAD</com> u4 <count><interpretation modern_unit="" modern_value="30" system="cardinal" unit="" value="30"/>3(u)-sze3</count> 
+e2 {d}nin-mar{ki} 
+<count><interpretation modern_unit="" modern_value="48" system="cardinal" unit="" value="48"/>5(u) la2 2(disz)</count> <com dist="1">erin2</com> u4 <count><interpretation modern_unit="" modern_value="30" system="cardinal" unit="" value="30"/>3(u)-sze3</count> 
+nu-banda3 a-hu-a 
+<count><interpretation modern_unit="" modern_value="16" system="cardinal" unit="" value="16"/>1(u) 6(disz)</count> <com dist="1">erin2</com> u4 <count><interpretation modern_unit="" modern_value="30" system="cardinal" unit="" value="30"/>3(u)-sze3</count> 
+ugula ur-{d}ba-ba6 dumu lu2-nimgir 
+<com dist="1">bala</com> gub-ba 
+iti mu-szu-du8 
+<count><interpretation modern_unit="" modern_value="36" system="cardinal" unit="" value="36"/>3(u) 6(disz)</count> <com dist="1">erin2</com> u4 <count><interpretation modern_unit="" modern_value="30" system="cardinal" unit="" value="30"/>3(u)-sze3</count> 
+<com dist="1">bala</com> gub-ba 
+<count><interpretation modern_unit="" modern_value="16" system="cardinal" unit="" value="16"/>1(u) 6(disz)</count> <com dist="1">erin2</com> <count><interpretation modern_unit="l" modern_value="21" system="dry capacity" unit="sila3" value="21"/>2(ban2) 1(disz)</count> sila3-ta u4 <count><interpretation modern_unit="" modern_value="20" system="cardinal" unit="" value="20"/>2(u)-sze3</count> 
+nu-banda3 lu2-{d}nin-gir2-su 
+<count><interpretation modern_unit="" modern_value="25" system="cardinal" unit="" value="25"/>2(u) 5(disz)</count> <com dist="1">erin2</com> <count><interpretation modern_unit="l" modern_value="15" system="dry capacity" unit="sila3" value="15"/>1(ban2) 5(disz)</count> sila3-ta u4 <count><interpretation modern_unit="" modern_value="20" system="cardinal" unit="" value="20"/>2(u)-sze3</count> 
+<com dist="1">sze-bi</com> <count><interpretation modern_unit="l" modern_value="710" system="dry capacity" unit="sila3" value="710"/>2(asz) 1(barig) 5(ban2) gur</count> 
+ki ur-e2-ninnu-ta 
+bala tusz-a sze szu nu-ti-a 
+<count><interpretation modern_unit="" modern_value="39" system="cardinal" unit="" value="39"/>4(u) la2 1(disz)</count> <com dist="1">erin2</com> u4 <count><interpretation modern_unit="" modern_value="30" system="cardinal" unit="" value="30"/>3(u)-sze3</count> 
+<com dist="1">bala</com> tusz-a sze szu nu-ti-a 
+nu-banda3 ur-{d}gesz-bar-e3 
+<count><interpretation modern_unit="" modern_value="20" system="cardinal" unit="" value="20"/>2(u)</count> engar-bur2 u4 <count><interpretation modern_unit="" modern_value="30" system="cardinal" unit="" value="30"/>3(u)-sze3</count> 
+<count><interpretation modern_unit="" modern_value="8" system="cardinal" unit="" value="8"/>8(disz)</count> ug3-IL2 <count><interpretation modern_unit="" modern_value="0.25" system="cardinal" unit="" value="0.25"/>igi-4(disz)-gal2</count> u4 <count><interpretation modern_unit="" modern_value="30" system="cardinal" unit="" value="30"/>3(u)-sze3</count> 
+e2 {d}dumu-zi-me 
+<com dist="1">im</com> ensi2-ta 
+<count><interpretation modern_unit="" modern_value="253" system="cardinal" unit="" value="253"/>4(gesz2) 1(u) 3(disz)</count> <com dist="1">erin2</com> u4 <count><interpretation modern_unit="" modern_value="1" system="cardinal" unit="" value="1"/>1(disz)-sze3</count> 
+nu-banda3 ur-{d}utu 
+<count><interpretation modern_unit="" modern_value="221.66666666666666" system="cardinal" unit="" value="221.66666666666666"/>3(gesz2) 4(u) 1(disz) 2/3(disz)</count> <com dist="1">erin2</com> u4 <count><interpretation modern_unit="" modern_value="1" system="cardinal" unit="" value="1"/>1(disz)-sze3</count> 
+nu-banda3 na-ba-sa6 
+<count><interpretation modern_unit="" modern_value="80" system="cardinal" unit="" value="80"/>1(gesz2) 2(u)</count> <com dist="1">erin2</com> u4 <count><interpretation modern_unit="" modern_value="1" system="cardinal" unit="" value="1"/>1(disz)-sze3</count> 
+nu-banda3 <com dist="1">ur-tur</com> dumu x-{d}nin-gir2-su 
+... 
+e2 {d}... 
+ki ur-{d}... 
+iti amar-a-a-si 
+<count><interpretation modern_unit="m^2" modern_value="162000.0" system="surface" unit="gin2" value="270000"/>2(bur3) 1(esze3) 3(iku) gan2</count> 
+gala ... 
+<count><interpretation modern_unit="m^2" modern_value="129600.0" system="surface" unit="gin2" value="216000"/>2(bur3) gan2</count> ... 
+dam-gar3 ... 
+<count><interpretation modern_unit="m^2" modern_value="100800.0" system="surface" unit="gin2" value="168000"/>1(bur3) 1(esze3) 4(iku) gan2</count> 
+nar-... 
+<com dist="1">a2-bi</com> ... 
+ki szabra ... 
+szunigin <count><interpretation modern_unit="" modern_value="10" system="cardinal" unit="" value="10"/>1(u)</count> engar u4 <count><interpretation modern_unit="" modern_value="30" system="cardinal" unit="" value="30"/>3(u)-sze3</count> 
+szunigin <count><interpretation modern_unit="" modern_value="7" system="cardinal" unit="" value="7"/>7(disz)</count> dumu-da-ba u4 <count><interpretation modern_unit="" modern_value="30" system="cardinal" unit="" value="30"/>3(u)-sze3</count> 
+szunigin <count><interpretation modern_unit="" modern_value="3" system="cardinal" unit="" value="3"/>3(disz)</count> ug3-IL2 u4 <count><interpretation modern_unit="" modern_value="30" system="cardinal" unit="" value="30"/>3(u)-sze3</count> 
+szunigin <count><interpretation modern_unit="" modern_value="15" system="cardinal" unit="" value="15"/>1(u) 5(disz)</count> dumu <com dist="1">ba-BAD</com> u4 <count><interpretation modern_unit="" modern_value="30" system="cardinal" unit="" value="30"/>3(u)-sze3</count> 
+szunigin <count><interpretation modern_unit="" modern_value="380" system="cardinal" unit="" value="380"/>6(gesz2) 2(u)</count> <com dist="1">erin2</com> 
+bala gub-ba 
+szunigin <count><interpretation modern_unit="" modern_value="none" system="unknown" unit="" value="none"/>3(gesz2) 2(u) 4(disz) x</count> 
+<com dist="1">sze-bi</com> <count><interpretation modern_unit="l" modern_value="11461" system="dry capacity" unit="sila3" value="11461"/>3(u) 8(asz) 1(barig) 1(disz) sila3 gur</count> 
+ki ur-sukkal-ta 
+erin2 hun-ga2 ... 
+szunigin <count><interpretation modern_unit="" modern_value="none" system="unknown" unit="" value="none"/>3(u) 4(disz) ...</count> 
+szunigin <count><interpretation modern_unit="" modern_value="none" system="unknown" unit="" value="none"/>2(u) ...</count> 
+<com dist="1">erin2</com> sze szu nu-ti-a 
+szunigin <count><interpretation modern_unit="m^2" modern_value="388800.0" system="surface" unit="gin2" value="648000"/>6(bur3) gan2</count> ... 
+<com dist="1">a2-bi</com> ... 
+ki ugula ... 
+szunigin ... 
+x ... 
+iti ... 
+<count><interpretation modern_unit="" modern_value="none" system="unknown" unit="" value="none"/>6(gesz2) 1(u) x</count> 
+<com dist="1">bala</com> tusz-a 
+iri-ta nu-e3 
+<count><interpretation modern_unit="" modern_value="none" system="unknown" unit="" value="none"/>8(gesz2) 2(u) ...</count> 
+iti-ta zal-la 
+<com dist="1">bala</com> tusz-a 
+<count><interpretation modern_unit="" modern_value="3" system="cardinal" unit="" value="3"/>3(disz)</count> <com dist="1">erin2</com> ... 
+iti-ta zal-la 
+bala tusz-a 
+iti amar-a-a-si 
+nu-banda3 lu2-... 
+<count><interpretation modern_unit="" modern_value="20" system="cardinal" unit="" value="20"/>2(u)</count> engar-bur2 ... 
+<count><interpretation modern_unit="" modern_value="8" system="cardinal" unit="" value="8"/>8(disz)</count> ug3-IL2 igi <count><interpretation modern_unit="" modern_value="4" system="cardinal" unit="" value="4"/>4(disz)-gal2</count> u4 <count><interpretation modern_unit="" modern_value="30" system="cardinal" unit="" value="30"/>3(u)-sze3</count> 
+iri-ta nu-e3 
+e2 {d}dumu-zi 
+<count><interpretation modern_unit="" modern_value="1" system="cardinal" unit="" value="1"/>1(disz)</count> nu-banda3 BI gesz x 
+iri-ta nu-e3 
+e2 {d}x-... 
+n ... 
+szunigin <count><interpretation modern_unit="m" modern_value="1323.0" system="length" unit="gi" value="441.0"/>3(gesz2) 4(u) 1/2(disz) ninda</count> <com dist="1">gid2</com> ... 
+gurusz-e <count><interpretation modern_unit="" modern_value="0.5" system="cardinal" unit="" value="0.5"/>1/2(disz)</count> ninda-ta 
+a2-bi <count><interpretation modern_unit="" modern_value="441" system="cardinal" unit="" value="441"/>7(gesz2) 2(u) 1(disz)</count> gurusz u4 <count><interpretation modern_unit="" modern_value="1" system="cardinal" unit="" value="1"/>1(disz)-sze3</count> 
+a-sza3 nin-tur3-e ambar <com dist="1">sur-ra</com> 
+szunigin <count><interpretation modern_unit="m^2" modern_value="590400.0" system="surface" unit="gin2" value="984000"/>9(bur3) 2(iku) gan2</count> <com dist="1">uru4-a</com> 
+gurusz-e <count><interpretation modern_unit="" modern_value="18" system="cardinal" unit="" value="18"/>2(u) la2 2(disz)</count> sar-ta 
+<com dist="1">a2-bi</com> <count><interpretation modern_unit="" modern_value="911" system="cardinal" unit="" value="911"/>1(geszu) 5(gesz2) 1(u) 1(disz)</count> u4 <count><interpretation modern_unit="" modern_value="1" system="cardinal" unit="" value="1"/>1(disz)-sze3</count> 
+a-sza3 nam-sanga <com dist="1">uru4-a</com> 
+szunigin <count><interpretation modern_unit="m" modern_value="1278" system="length" unit="gi" value="426"/>3(gesz2) 3(u) 3(disz) ninda</count> <com dist="1">gid2</com> gi ze2 
+gurusz <count><interpretation modern_unit="" modern_value="1.5" system="cardinal" unit="" value="1.5"/>1(disz)-e 1/2(disz)</count> ninda-ta 
+a2-bi <count><interpretation modern_unit="" modern_value="426" system="cardinal" unit="" value="426"/>7(gesz2) 6(disz)</count> u4 <count><interpretation modern_unit="" modern_value="1" system="cardinal" unit="" value="1"/>1(disz)-sze3</count> 
+szunigin <count><interpretation modern_unit="" modern_value="2" system="cardinal" unit="" value="2"/>2(disz)</count> <com dist="1">gurusz</com> u4 <count><interpretation modern_unit="" modern_value="1" system="cardinal" unit="" value="1"/>1(disz)-sze3</count> 
+<com dist="1">im</com> du8-a 
+a-sza3 nin-e-gu3-ba-de2 
+ki ur-sa6-ga dumu ur-gu-la 
+szunigin <count><interpretation modern_unit="" modern_value="900" system="cardinal" unit="" value="900"/>1(geszu) 5(gesz2)</count> dumu <com dist="1">ba-BAD</com> u4 <count><interpretation modern_unit="" modern_value="1" system="cardinal" unit="" value="1"/>1(disz)-sze3</count> 
+szunigin <count><interpretation modern_unit="" modern_value="210" system="cardinal" unit="" value="210"/>3(gesz2) 3(u)</count> dumu-da-ba u4 <count><interpretation modern_unit="" modern_value="1" system="cardinal" unit="" value="1"/>1(disz)-sze3</count> 
+szunigin <count><interpretation modern_unit="" modern_value="90" system="cardinal" unit="" value="90"/>1(gesz2) 3(u)</count> ug3-IL2 <count><interpretation modern_unit="" modern_value="0.3333333333333333" system="cardinal" unit="" value="0.3333333333333333"/>1/3(disz)</count> u4 <count><interpretation modern_unit="" modern_value="1" system="cardinal" unit="" value="1"/>1(disz)-sze3</count> 
+szunigin <count><interpretation modern_unit="" modern_value="240" system="cardinal" unit="" value="240"/>4(gesz2)</count> ug3-IL2 <count><interpretation modern_unit="" modern_value="0.25" system="cardinal" unit="" value="0.25"/>igi-4(disz)-gal2</count> u4 <count><interpretation modern_unit="" modern_value="1" system="cardinal" unit="" value="1"/>1(disz)-sze3</count> 
+szunigin <count><interpretation modern_unit="" modern_value="108" system="cardinal" unit="" value="108"/>1(gesz2) 4(u) 8(disz)</count> <com dist="1">gurusz</com> u4 <count><interpretation modern_unit="" modern_value="1" system="cardinal" unit="" value="1"/>1(disz)-sze3</count> 
+a2 gul-la 
+szunigin <count><interpretation modern_unit="" modern_value="63" system="cardinal" unit="" value="63"/>1(gesz2) 3(disz)</count> u4 <count><interpretation modern_unit="" modern_value="1" system="cardinal" unit="" value="1"/>1(disz)-sze3</count> tu-ra 
+zi-ga 
+szunigin <count><interpretation modern_unit="" modern_value="53" system="cardinal" unit="" value="53"/>5(u) 3(disz)</count> <com dist="1">gurusz</com> u4 <count><interpretation modern_unit="" modern_value="30" system="cardinal" unit="" value="30"/>3(u)-sze3</count> 
+iri-ta nu-e3 
+szunigin <count><interpretation modern_unit="" modern_value="1718" system="cardinal" unit="" value="1718"/>2(geszu) 8(gesz2) 3(u) 8(disz)</count> <com dist="1">gurusz</com> u4 <count><interpretation modern_unit="" modern_value="1" system="cardinal" unit="" value="1"/>1(disz)-sze3</count> 
+iti-ta zal-la 
+szunigin ($ blank space $) <com dist="1">gurusz</com> u4 <count><interpretation modern_unit="" modern_value="1" system="cardinal" unit="" value="1"/>1(disz)-sze3</count> 
+a2 gul-la 
+<com dist="1">bala</com> gub-ba 
+szunigin <count><interpretation modern_unit="" modern_value="8" system="cardinal" unit="" value="8"/>8(disz)</count> <com dist="1">gurusz</com> u4 <count><interpretation modern_unit="" modern_value="20" system="cardinal" unit="" value="20"/>2(u)-sze3</count> 
+iri-ta nu-e3 
+szunigin <count><interpretation modern_unit="" modern_value="1714" system="cardinal" unit="" value="1714"/>2(geszu) 8(gesz2) 3(u) 4(disz)</count> <com dist="1">gurusz</com> u4 <count><interpretation modern_unit="" modern_value="1" system="cardinal" unit="" value="1"/>1(disz)-sze3</count> 
+iti-ta zal-la 
+szunigin ($ blank space $) <com dist="1">gurusz</com> u4 <count><interpretation modern_unit="" modern_value="1" system="cardinal" unit="" value="1"/>1(disz)-sze3</count> 
+a2 gul-la 
+<com dist="1">sze-bi</com> <count><interpretation modern_unit="l" modern_value="11190" system="dry capacity" unit="sila3" value="11190"/>3(u) 7(asz) 1(barig) 3(ban2) gur</count> 
+szunigin <count><interpretation modern_unit="" modern_value="44" system="cardinal" unit="" value="44"/>4(u) 4(disz)</count> <com dist="1">gurusz</com> u4 <count><interpretation modern_unit="" modern_value="30" system="cardinal" unit="" value="30"/>3(u)-sze3</count> 
+szunigin <count><interpretation modern_unit="" modern_value="16" system="cardinal" unit="" value="16"/>1(u) 6(disz)</count> <com dist="1">gurusz</com> u4 <count><interpretation modern_unit="" modern_value="20" system="cardinal" unit="" value="20"/>2(u)-sze3</count> 
+iri-ta nu-e3 
+szunigin <count><interpretation modern_unit="" modern_value="520" system="cardinal" unit="" value="520"/>8(gesz2) 4(u)</count> <com dist="1">gurusz</com> u4 <count><interpretation modern_unit="" modern_value="1" system="cardinal" unit="" value="1"/>1(disz)-sze3</count> 
+iti-ta zal-la 
+<com dist="1">sze</com> szu nu-ti-a 
+nig2-ka9-ak 
+ki ur-nig2 
+</commodities>

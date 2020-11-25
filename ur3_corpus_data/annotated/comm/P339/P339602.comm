@@ -1,0 +1,15 @@
+<commodities>
+#P339602 = BPOA 1, 0946
+#atf: lang sux
+<count><interpretation modern_unit="l" modern_value="6" system="liquid capacity" unit="sila3" value="6"/><interpretation modern_unit="l" modern_value="6" system="dry capacity" unit="sila3" value="6"/>6(disz) sila3</count> gu2-gal ar3-a 
+<count><interpretation modern_unit="l" modern_value="6" system="liquid capacity" unit="sila3" value="6"/><interpretation modern_unit="l" modern_value="6" system="dry capacity" unit="sila3" value="6"/>6(disz) sila3</count> <com dist="1">gu2-tur</com> 
+<count><interpretation modern_unit="l" modern_value="5" system="liquid capacity" unit="sila3" value="5"/><interpretation modern_unit="l" modern_value="5" system="dry capacity" unit="sila3" value="5"/>5(disz) sila3</count> ar-za-na-saga 
+<count><interpretation modern_unit="l" modern_value="5" system="liquid capacity" unit="sila3" value="5"/><interpretation modern_unit="l" modern_value="5" system="dry capacity" unit="sila3" value="5"/>5(disz) sila3</count> <com dist="1">nig2-ar3-ra</com> saga 
+<count><interpretation modern_unit="l" modern_value="4" system="liquid capacity" unit="sila3" value="4"/><interpretation modern_unit="l" modern_value="4" system="dry capacity" unit="sila3" value="4"/>4(disz) sila3</count> <com dist="1">SZIM</com> gazx(KUM) 
+<count><interpretation modern_unit="l" modern_value="1" system="liquid capacity" unit="sila3" value="1"/><interpretation modern_unit="l" modern_value="1" system="dry capacity" unit="sila3" value="1"/>1(disz) sila3</count> <com dist="1">zi3</com> gazx(KUM) 
+<count><interpretation modern_unit="l" modern_value="1" system="liquid capacity" unit="sila3" value="1"/><interpretation modern_unit="l" modern_value="1" system="dry capacity" unit="sila3" value="1"/>1(disz) sila3</count> mun 
+<count><interpretation modern_unit="g" modern_value="60000.00000000001" system="weight" unit="gin2" value="7200"/>2(asz) gu2</count> gi dug udul2 diri kas4-sze3 
+giri3 szu-ma-ma 
+<com dist="1">u3</com> lu2-giri17-zal 
+u4 <count><interpretation modern_unit="" modern_value="1" system="cardinal" unit="" value="1"/>1(disz)-kam</count> 
+</commodities>

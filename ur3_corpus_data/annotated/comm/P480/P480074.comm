@@ -1,0 +1,58 @@
+<commodities>
+#P480074 = Akkadica 135/1, 092-094 10
+#atf: lang sux
+#tr.en: 4 ban2 barley flour,
+#tr.en: 7 sila3 AB-bread on the 1st day;
+#tr.en: 5 ban2 4 sila3 barley flour,
+#tr.en: 7 sila3 AB-bread on the 2nd day;
+#tr.en: 4 ban2 7 sila3 barley flour,
+#tr.en: 7 sila3 AB-bread on the 3rd day;
+#tr.en: 1 barig barley flour,
+#tr.en: 7 sila3 AB-bread on the 4th day;
+#tr.en: (subtotal:) 1 gur 76;
+#tr.en: 4 ban2 5 sila3 barley flour,
+#tr.en: 7 sila3 AB-bread on the 5th day;
+#tr.en: 5 ban2 barley flour,
+#tr.en: 7 sila3 AB-bread on the 6th day;
+#tr.en: 5 ban2 barley flour on the 7th day;
+#tr.en: 3 ban2 barley flour, the boatmen departed;
+#tr.en: under seal of the governor;
+#tr.en: month “Festival of Šulgi,”
+#tr.en: year: “Simanum was destroyed.”
+#tr.en: (total:) 1 gur 1 barig 1 ban2 6 sila3.
+#tr.en: Šū-Suen,
+#tr.en: strong king,
+#tr.en: king of Ur,
+#tr.en: king of the four regions:
+#tr.en: Ayakala,
+#tr.en: the governor
+#tr.en: of Umma,
+#tr.en: is your servant.
+<count><interpretation modern_unit="l" modern_value="40" system="dry capacity" unit="sila3" value="40"/>4(ban2)</count> <com dist="1">dabin</com> 
+<count><interpretation modern_unit="l" modern_value="7" system="liquid capacity" unit="sila3" value="7"/><interpretation modern_unit="l" modern_value="7" system="dry capacity" unit="sila3" value="7"/>7(disz) sila3</count> ninda AB u4 <count><interpretation modern_unit="" modern_value="1" system="cardinal" unit="" value="1"/>1(disz)-kam</count> 
+<count><interpretation modern_unit="l" modern_value="54" system="dry capacity" unit="sila3" value="54"/>5(ban2) 4(disz) sila3</count> <com dist="1">dabin</com> 
+<count><interpretation modern_unit="l" modern_value="7" system="liquid capacity" unit="sila3" value="7"/><interpretation modern_unit="l" modern_value="7" system="dry capacity" unit="sila3" value="7"/>7(disz) sila3</count> ninda AB u4 <count><interpretation modern_unit="" modern_value="2" system="cardinal" unit="" value="2"/>2(disz)-kam</count> 
+<count><interpretation modern_unit="l" modern_value="47" system="dry capacity" unit="sila3" value="47"/>4(ban2) 7(disz) sila3</count> <com dist="1">dabin</com> 
+<count><interpretation modern_unit="l" modern_value="7" system="liquid capacity" unit="sila3" value="7"/><interpretation modern_unit="l" modern_value="7" system="dry capacity" unit="sila3" value="7"/>7(disz) sila3</count> ninda AB u4 <count><interpretation modern_unit="" modern_value="3" system="cardinal" unit="" value="3"/>3(disz)-kam</count> 
+<count><interpretation modern_unit="l" modern_value="60" system="dry capacity" unit="sila3" value="60"/>1(barig)</count> <com dist="1">dabin</com> 
+<count><interpretation modern_unit="l" modern_value="7" system="liquid capacity" unit="sila3" value="7"/><interpretation modern_unit="l" modern_value="7" system="dry capacity" unit="sila3" value="7"/>7(disz) sila3</count> ninda AB u4 <count><interpretation modern_unit="" modern_value="4" system="cardinal" unit="" value="4"/>4(disz)-kam</count> 
+<count><interpretation modern_unit="" modern_value="77" system="cardinal" unit="" value="77"/>1(asz) 1(gesz2) 1(u) 6(disz)</count> 
+<count><interpretation modern_unit="l" modern_value="45" system="dry capacity" unit="sila3" value="45"/>4(ban2) 5(disz) sila3</count> <com dist="1">dabin</com> 
+<count><interpretation modern_unit="l" modern_value="7" system="liquid capacity" unit="sila3" value="7"/><interpretation modern_unit="l" modern_value="7" system="dry capacity" unit="sila3" value="7"/>7(disz) sila3</count> ninda AB u4 <count><interpretation modern_unit="" modern_value="5" system="cardinal" unit="" value="5"/>5(disz)-kam</count> 
+<count><interpretation modern_unit="l" modern_value="50" system="dry capacity" unit="sila3" value="50"/>5(ban2)</count> <com dist="1">dabin</com> 
+<count><interpretation modern_unit="l" modern_value="7" system="liquid capacity" unit="sila3" value="7"/><interpretation modern_unit="l" modern_value="7" system="dry capacity" unit="sila3" value="7"/>7(disz) sila3</count> ninda AB u4 <count><interpretation modern_unit="" modern_value="6" system="cardinal" unit="" value="6"/>6(disz)-kam</count> 
+<count><interpretation modern_unit="l" modern_value="50" system="dry capacity" unit="sila3" value="50"/>5(ban2)</count> <com dist="1">dabin</com> u4 <count><interpretation modern_unit="" modern_value="7" system="cardinal" unit="" value="7"/>7(disz)-kam</count> 
+<count><interpretation modern_unit="l" modern_value="30" system="dry capacity" unit="sila3" value="30"/>3(ban2)</count> <com dist="1">dabin</com> lu2-ma2 e3-a 
+kiszib3 ensi2-ka 
+iti ezem-{d}szul-gi 
+mu si-ma-num2{ki} mu-hul 
+<count><interpretation modern_unit="l" modern_value="376" system="dry capacity" unit="sila3" value="376"/>1(asz) 1(barig) 1(ban2) 6(disz) sila3</count> 
+{d}szu-{d}suen 
+lugal kal-ga 
+lugal uri5{ki}-ma 
+lugal <com dist="1">an</com> ub-da limmu2-ba 
+a-a-kal-la 
+ensi2 
+umma{ki} 
+ARAD2-zu 
+</commodities>

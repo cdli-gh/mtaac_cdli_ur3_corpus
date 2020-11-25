@@ -1,0 +1,20 @@
+<commodities>
+#P416146 = CDLN 2011/2
+#atf: lang sux
+#tr.en: 1 copper zir-pot,
+#tr.en: its weight: 6 1/2 minas 8 shekels,
+#tr.en: from Ikalla
+#tr.en: for garment distribution for the bala
+#tr.en: Ku-Ninura
+#tr.en: weighed out;
+#tr.en: month: “Lisi,”
+#tr.en: year: “The house of Šara was erected.”
+<count><interpretation modern_unit="" modern_value="1" system="cardinal" unit="" value="1"/>1(disz)</count> <com dist="1">{uruda}zi-ir</com> 
+ki-la2-bi <count><interpretation modern_unit="g" modern_value="3316.666666666667" system="weight" unit="gin2" value="398.0"/>6(disz) 1/2(disz) ma-na 8(disz) gin2</count> 
+<com dist="1">ki</com> i3-kal-la-ta 
+tug2-ba-a bala-a-sze3 
+ku3-{d}nin-ur4-ra 
+in-la2 
+iti {d}li9-si4 
+mu e2-{d}szara2 ba-du3 
+</commodities>

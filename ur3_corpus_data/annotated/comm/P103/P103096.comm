@@ -1,0 +1,13 @@
+<commodities>
+#P103096 = AUCT 1, 251
+#atf: lang sux
+<count><interpretation modern_unit="" modern_value="1" system="cardinal" unit="" value="1"/>1(disz)</count> <com dist="1">sze-lu2</com> 
+<count><interpretation modern_unit="l" modern_value="5" system="liquid capacity" unit="sila3" value="5"/><interpretation modern_unit="l" modern_value="5" system="dry capacity" unit="sila3" value="5"/>5(disz) sila3</count> za-ah-li 
+<count><interpretation modern_unit="l" modern_value="2" system="liquid capacity" unit="sila3" value="2"/><interpretation modern_unit="l" modern_value="2" system="dry capacity" unit="sila3" value="2"/>2(disz) sila3</count> lu-ub2 x 
+<count><interpretation modern_unit="l" modern_value="2" system="liquid capacity" unit="sila3" value="2"/><interpretation modern_unit="l" modern_value="2" system="dry capacity" unit="sila3" value="2"/>2(disz) sila3</count> <com dist="1">ku6</com> x 
+<count><interpretation modern_unit="l" modern_value="1" system="liquid capacity" unit="sila3" value="1"/><interpretation modern_unit="l" modern_value="1" system="dry capacity" unit="sila3" value="1"/>1(disz) sila3</count> nig2-nagar 
+<count><interpretation modern_unit="l" modern_value="5" system="liquid capacity" unit="sila3" value="5"/><interpretation modern_unit="l" modern_value="5" system="dry capacity" unit="sila3" value="5"/>5(disz) sila3</count> mun ARAD2 
+<count><interpretation modern_unit="l" modern_value="1" system="liquid capacity" unit="sila3" value="1"/><interpretation modern_unit="l" modern_value="1" system="dry capacity" unit="sila3" value="1"/>1(disz) sila3</count> <com dist="1">u2-gesz</com> sar 
+<count><interpretation modern_unit="" modern_value="none" system="unknown" unit="" value="none"/><interpretation modern_unit="" modern_value="none" system="unknown" unit="" value="none"/>5(disz) sila3 x</count> en 
+<count><interpretation modern_unit="l" modern_value="2" system="liquid capacity" unit="sila3" value="2"/><interpretation modern_unit="l" modern_value="2" system="dry capacity" unit="sila3" value="2"/>2(disz) sila3</count> ku-ku-tu-um 
+</commodities>

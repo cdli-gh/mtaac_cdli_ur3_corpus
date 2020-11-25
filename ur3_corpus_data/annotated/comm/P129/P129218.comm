@@ -1,0 +1,13 @@
+<commodities>
+#P129218 = SACT 2, 261
+#atf: lang sux
+# calculation: (120 x 1 1/2 x 30) + (65 x 1 x 30) + (10 x 1/3 x 30) = 24;4,1
+<count><interpretation modern_unit="" modern_value="2" system="cardinal" unit="" value="2"/>2(disz)</count> <com dist="1">udu</com> niga <count><interpretation modern_unit="" modern_value="1.5" system="cardinal" unit="" value="1.5"/>1(disz) 1/2(disz)</count> sila3-ta 
+<count><interpretation modern_unit="" modern_value="65" system="cardinal" unit="" value="65"/>1(gesz2) 5(disz)</count> <com dist="1">udu</com> niga <count><interpretation modern_unit="" modern_value="1" system="cardinal" unit="" value="1"/>1(disz)</count> sila3-ta 
+<count><interpretation modern_unit="" modern_value="10" system="cardinal" unit="" value="10"/>1(u)</count> <com dist="1">sila4</com> kin-gi4-a <count><interpretation modern_unit="" modern_value="0.3333333333333333" system="cardinal" unit="" value="0.3333333333333333"/>1/3(disz)</count> sila3-ta 
+iti <count><interpretation modern_unit="" modern_value="1" system="cardinal" unit="" value="1"/>1(disz)-sze3</count> 
+<com dist="1">sze-bi</com> <count><interpretation modern_unit="l" modern_value="7450" system="dry capacity" unit="sila3" value="7450"/>2(u) 4(asz) 4(barig) 1(ban2) gur</count> 
+giri3 igi-pesz2 
+iti e2-iti-6(disz) 
+mu en-unu6 {d}inanna ba-hun 
+</commodities>

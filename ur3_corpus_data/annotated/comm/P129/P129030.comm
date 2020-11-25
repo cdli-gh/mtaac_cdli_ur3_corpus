@@ -1,0 +1,25 @@
+<commodities>
+#P129030 = SACT 2, 073
+#atf: lang sux
+#tr.en: 11 laborers,
+#tr.en: foreman: Lu-dingira;
+#tr.en: 3 laborers, foreman: Lugal-girizal;
+#tr.en: 2 laborers, foreman: Lu-saga;
+#tr.en: 12 laborers, foreman: Lu-Daya;
+#tr.en: 11 laborers, foreman: Lugal-magure;
+#tr.en: 17 laborers, 3 laborers, sick,
+#tr.en: foreman: Lugal-mumag,
+#tr.en: 16 laborers, foreman: Ur-gigir;
+#tr.en: are stationed,
+# seal impression
+<count><interpretation modern_unit="" modern_value="11" system="cardinal" unit="" value="11"/>1(u) 1(disz)</count> <com dist="1">gurusz</com> 
+ugula lu2-dingir-ra 
+<count><interpretation modern_unit="" modern_value="3" system="cardinal" unit="" value="3"/>3(disz)</count> <com dist="1">gurusz</com> ugula lu2-giri17-zal 
+<count><interpretation modern_unit="" modern_value="2" system="cardinal" unit="" value="2"/>2(disz)</count> <com dist="1">gurusz</com> ugula lu2-saga 
+<count><interpretation modern_unit="" modern_value="12" system="cardinal" unit="" value="12"/>1(u) 2(disz)</count> <com dist="1">gurusz</com> lu2-{d}da-ia3 
+<count><interpretation modern_unit="" modern_value="11" system="cardinal" unit="" value="11"/>1(u) 1(disz)</count> <com dist="1">gurusz</com> ugula lugal-ma2-gur8-re 
+<count><interpretation modern_unit="" modern_value="17" system="cardinal" unit="" value="17"/>1(u) 7(disz)</count> <com dist="1">gurusz</com> <count><interpretation modern_unit="" modern_value="3" system="cardinal" unit="" value="3"/>3(disz)</count> gurusz tu-ra 
+ugula lugal-mu-ma-ag2 
+<count><interpretation modern_unit="" modern_value="16" system="cardinal" unit="" value="16"/>1(u) 6(disz)</count> <com dist="1">gurusz</com> ugula ur-{gesz}gigir 
+gub-ba-am3 
+</commodities>

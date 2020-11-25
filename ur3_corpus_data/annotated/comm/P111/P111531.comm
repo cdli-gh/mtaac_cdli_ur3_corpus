@@ -1,0 +1,30 @@
+<commodities>
+#P111531 = ITT 5, 06823
+#atf: lang sux
+#tr.en: 1 sheep, city gate, dais of Utu;
+#tr.en: 2 sheep, city gate of Baba;
+#tr.en: 2 sheep, city gate, palace;
+#tr.en: 2 sheep, city gate of Nanše;
+#tr.en: 1 sheep, House-of-Uruk;
+#tr.en: 1 sheep, cabin of the barge of Ningešzida;
+#tr.en: 1 sheep, Gudea;
+#tr.en: 1 sheep, Ur-Lamma, the governor;
+#tr.en: offering for milk-feeding;
+#tr.en: via Akalla, man of testimony;
+#tr.en: booked out of the place of Lugal-nammaḫ;
+#tr.en: month: “Festival of Dumuzi,” day 16,
+#tr.en: year: “Great-barge was fashioned.”
+<count><interpretation modern_unit="" modern_value="2" system="cardinal" unit="" value="2"/>2(disz)</count> <com dist="1">udu</com> abul bara2 {d}utu 
+<count><interpretation modern_unit="" modern_value="2" system="cardinal" unit="" value="2"/>2(disz)</count> <com dist="1">udu</com> abul {d}ba-ba6 
+<count><interpretation modern_unit="" modern_value="2" system="cardinal" unit="" value="2"/>2(disz)</count> <com dist="1">udu</com> abul e2-gal 
+<count><interpretation modern_unit="" modern_value="2" system="cardinal" unit="" value="2"/>2(disz)</count> <com dist="1">udu</com> abul {d}nansze 
+<count><interpretation modern_unit="" modern_value="1" system="cardinal" unit="" value="1"/>1(disz)</count> <com dist="1">udu</com> e2-unu{ki}-sze3 
+<count><interpretation modern_unit="" modern_value="1" system="cardinal" unit="" value="1"/>1(disz)</count> <com dist="1">udu</com> ga2 ma2-gur8-ra {d}nin-gesz-zi-da 
+<count><interpretation modern_unit="" modern_value="1" system="cardinal" unit="" value="1"/>1(disz)</count> <com dist="1">udu</com> {d}gu3-de2-a 
+<count><interpretation modern_unit="" modern_value="1" system="cardinal" unit="" value="1"/>1(disz)</count> <com dist="1">udu</com> ur-{d}lamma ensi2 
+siskur2 ga gu7-sze3 
+giri3 a-kal-la lu2-inim-ma 
+zi-ga ki lugal-nam2-mah 
+iti ezem-{d}dumu-zi u4 <count><interpretation modern_unit="" modern_value="10" system="cardinal" unit="" value="10"/>1(u)</count> <count><interpretation modern_unit="" modern_value="6" system="cardinal" unit="" value="6"/>6(disz)-kam</count> 
+mu ma2-gur8-mah ba-dim2 
+</commodities>

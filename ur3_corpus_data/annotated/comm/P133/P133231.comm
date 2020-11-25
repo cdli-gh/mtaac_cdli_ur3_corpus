@@ -1,0 +1,20 @@
+<commodities>
+#P133231 = TCTI 2, 04041
+#atf: lang sux
+# szah2 after i3 erased
+# partly erased
+# 2(disz) gin2 i3 erased before gesz
+<count><interpretation modern_unit="l" modern_value="5" system="liquid capacity" unit="sila3" value="5"/><interpretation modern_unit="l" modern_value="5" system="dry capacity" unit="sila3" value="5"/>5(disz) sila3</count> <com dist="1">kasz</com> 
+<count><interpretation modern_unit="l" modern_value="3" system="liquid capacity" unit="sila3" value="3"/><interpretation modern_unit="l" modern_value="3" system="dry capacity" unit="sila3" value="3"/>3(disz) sila3</count> ninda 
+<count><interpretation modern_unit="" modern_value="0.06666666666666667" system="cardinal" unit="" value="0.06666666666666667"/>4(disz) gin2</count> i3 
+<count><interpretation modern_unit="" modern_value="0.03333333333333333" system="cardinal" unit="" value="0.03333333333333333"/>2(disz) gin2</count> i3-gesz 
+dingir-dan 
+<count><interpretation modern_unit="l" modern_value="6" system="liquid capacity" unit="sila3" value="6"/><interpretation modern_unit="l" modern_value="6" system="dry capacity" unit="sila3" value="6"/>6(disz) sila3</count> <com dist="1">kasz</com> 
+<count><interpretation modern_unit="l" modern_value="6" system="liquid capacity" unit="sila3" value="6"/><interpretation modern_unit="l" modern_value="6" system="dry capacity" unit="sila3" value="6"/>6(disz) sila3</count> ninda 
+gesz 
+<count><interpretation modern_unit="" modern_value="0.03333333333333333" system="cardinal" unit="" value="0.03333333333333333"/>2(disz) gin2</count> i3-szah2 
+szesz-szesz 
+lu2 <com dist="1">{gesz}tukul-gu-la-me</com> 
+zi-ga 
+iti amar-a-a-si 
+</commodities>

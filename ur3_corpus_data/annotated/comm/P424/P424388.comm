@@ -1,0 +1,17 @@
+<commodities>
+#P424388 = WCMA 20.1.21
+#atf: lang sux
+#tr.en: 185 barley-fed sheep at 1 sila3 each,
+#tr.en: bala sheep,
+#tr.en: their barley: 18 gur 2 barig 3 ban2,
+# calculation: 185 x 30 x 1 = 5550 = 18;2,3
+#tr.en: via Lugalazida;
+#tr.en: month “Flight,”
+#tr.en: year: “Enunugal of Inanna was installed.”
+<count><interpretation modern_unit="" modern_value="185" system="cardinal" unit="" value="185"/>3(gesz2) 5(disz)</count> <com dist="1">udu</com> niga <count><interpretation modern_unit="" modern_value="1" system="cardinal" unit="" value="1"/>1(disz)</count> sila3-ta 
+<com dist="1">udu</com> bala-a 
+sze-bi <count><interpretation modern_unit="l" modern_value="5550" system="dry capacity" unit="sila3" value="5550"/>1(u) 8(asz) 2(barig) 3(ban2) gur</count> 
+giri3 lugal-a2-zi-da 
+iti <com dist="1">dal</com> 
+mu en-unu6-gal {d}inanna ba-hun 
+</commodities>

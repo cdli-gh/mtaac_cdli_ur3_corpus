@@ -1,0 +1,24 @@
+<commodities>
+#P416432 = CDLJ 2012/1 §4.31
+#atf: lang sux
+#tr.en: 79 oxen, barley-fed,
+#tr.en: 420 cows, barley-fed,
+#tr.en: 301 oxen,
+#tr.en: 407 cows,
+#tr.en: 60 male mules,
+#tr.en: n male equids,
+#tr.en: as consignment,
+#tr.en: from Nasa(’s account);
+#tr.en: month: “Festival of An,” day 30 elapsed;
+#tr.en: year: “Harši and Kimaš were destroyed.”
+<count><interpretation modern_unit="" modern_value="79" system="cardinal" unit="" value="79"/>1(gesz2) 2(u) la2 1(disz)</count> <com dist="1">gu4</com> niga 
+<count><interpretation modern_unit="" modern_value="420" system="cardinal" unit="" value="420"/>7(gesz2)</count> <com dist="1">ab2</com> niga 
+<count><interpretation modern_unit="" modern_value="301" system="cardinal" unit="" value="301"/>5(gesz2) 1(disz)</count> <com dist="1">gu4</com> 
+<count><interpretation modern_unit="" modern_value="407" system="cardinal" unit="" value="407"/>6(gesz2) 4(u) 7(disz)</count> ab2 
+<count><interpretation modern_unit="" modern_value="60" system="cardinal" unit="" value="60"/>1(gesz2)</count> {ansze}kunga2-nita2 
+n <count><interpretation modern_unit="" modern_value="2" system="cardinal" unit="" value="2"/>2(disz)</count> dusu2-nita2 
+<com dist="1">szu-szum2-ma</com> 
+ki na-sa6 
+iti ezem-an-na u4 <count><interpretation modern_unit="" modern_value="30" system="cardinal" unit="" value="30"/>3(u)</count> ba-zal 
+mu ha-ar-szi{ki} <com dist="1">u3</com> ki-masz{ki} ba-hul 
+</commodities>

@@ -1,0 +1,19 @@
+<commodities>
+#P318241 = Nisaba 22, 064
+#atf: lang sux
+# some text moved to next line
+<count><interpretation modern_unit="" modern_value="1" system="cardinal" unit="" value="1"/>1(asz)</count> <com dist="1">kasz</com> ninda gur lugal 
+<count><interpretation modern_unit="l" modern_value="1" system="liquid capacity" unit="sila3" value="1"/><interpretation modern_unit="l" modern_value="1" system="dry capacity" unit="sila3" value="1"/>1(disz) sila3</count> <com dist="1">i3-gesz</com> 
+{d}nanna-i3-gi sukkal 
+<count><interpretation modern_unit="l" modern_value="150" system="dry capacity" unit="sila3" value="150"/>2(barig) 3(ban2)</count> <com dist="1">kasz</com> ninda <count><interpretation modern_unit="l" modern_value="1" system="liquid capacity" unit="sila3" value="1"/><interpretation modern_unit="l" modern_value="1" system="dry capacity" unit="sila3" value="1"/>1(disz) sila3</count> i3 
+szu-i3-li2 
+<count><interpretation modern_unit="l" modern_value="150" system="dry capacity" unit="sila3" value="150"/>2(barig) 3(ban2)</count> <com dist="1">kasz</com> ninda <count><interpretation modern_unit="l" modern_value="1" system="liquid capacity" unit="sila3" value="1"/><interpretation modern_unit="l" modern_value="1" system="dry capacity" unit="sila3" value="1"/>1(disz) sila3</count> i3 
+{d}szul-gi-i3-li2 
+i7-da gub-ba-me 
+<count><interpretation modern_unit="l" modern_value="60" system="dry capacity" unit="sila3" value="60"/>1(barig)</count> <com dist="1">kasz</com> sipa muszen 
+<count>4(barig) sze</count> sza3-gal <com dist="1">ansze</com> zi-gum2 gir2-su{ki} 
+<count><interpretation modern_unit="l" modern_value="240" system="dry capacity" unit="sila3" value="240"/>4(barig)</count> sza3-gal <com dist="1">ansze</com> ki-sur-ra{ki} 
+<count><interpretation modern_unit="l" modern_value="240" system="dry capacity" unit="sila3" value="240"/>4(barig)</count> sza3-gal <com dist="1">ansze</com> kalam-sa6-ga{ki} 
+zi-ga 
+iti sze-il2-la 
+</commodities>

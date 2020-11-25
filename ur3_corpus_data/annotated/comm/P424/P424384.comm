@@ -1,0 +1,22 @@
+<commodities>
+#P424384 = WCMA 20.1.17
+#atf: lang sux
+#tr.en: 1 ban2 esza-grain
+#tr.en: 1 ban2 flour
+#tr.en: ...
+#tr.en: of the house of Enlil,
+#tr.en: from Lugaltur(’s account)
+#tr.en: has been booked out.
+#tr.en: Month “NENEgar,”
+#tr.en: 14 days passed;
+#tr.en: year: “Šu-Suen, king of Ur, erected the house of Šara of Umma.”
+<count><interpretation modern_unit="l" modern_value="10" system="dry capacity" unit="sila3" value="10"/>1(ban2)</count> <com dist="1">esza</com> 
+<count><interpretation modern_unit="l" modern_value="10" system="dry capacity" unit="sila3" value="10"/>1(ban2)</count> dabin 
+ab-ba sze se-ge4 
+e2 {d}en-lil2-ka 
+ki lugal-tur-ta 
+ba-zi 
+iti NE-NE-gar 
+u4 <count><interpretation modern_unit="" modern_value="14" system="cardinal" unit="" value="14"/>1(u) 4(disz)</count> ba-zal 
+mu {d}szu-{d}suen lugal uri5{ki}-ma-ke4 e2 {d}szara2 umma{ki}-ka <com dist="1">mu-du3</com> 
+</commodities>

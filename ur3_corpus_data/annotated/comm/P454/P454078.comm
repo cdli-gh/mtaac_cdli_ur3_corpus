@@ -1,0 +1,20 @@
+<commodities>
+#P454078 = Nisaba 15, 0846
+#atf: lang sux
+# calculation: (50 × 2) + (5 × 1) = 105; 105 × 30 = 3150
+# seal impression
+<count><interpretation modern_unit="" modern_value="50" system="cardinal" unit="" value="50"/>5(u)</count> <com dist="1">gurusz</com> <count><interpretation modern_unit="l" modern_value="2" system="liquid capacity" unit="sila3" value="2"/><interpretation modern_unit="l" modern_value="2" system="dry capacity" unit="sila3" value="2"/>2(disz) sila3</count> ninda 
+<count><interpretation modern_unit="" modern_value="5" system="cardinal" unit="" value="5"/>5(disz)</count> dumu-nita2 <count><interpretation modern_unit="l" modern_value="1" system="liquid capacity" unit="sila3" value="1"/><interpretation modern_unit="l" modern_value="1" system="dry capacity" unit="sila3" value="1"/>1(disz) sila3</count> <com dist="1">ninda</com> 
+ninda-bi <count><interpretation modern_unit="l" modern_value="105" system="dry capacity" unit="sila3" value="105"/>1(barig) 4(ban2) 5(disz) sila3</count> 
+u4 <count><interpretation modern_unit="" modern_value="1" system="cardinal" unit="" value="1"/>1(disz)-kam</count> u4 <count><interpretation modern_unit="" modern_value="30" system="cardinal" unit="" value="30"/>3(u)-sze3</count> 
+szunigin <count><interpretation modern_unit="l" modern_value="3150" system="dry capacity" unit="sila3" value="3150"/>1(u) 2(barig) 3(ban2)</count> <com dist="1">ninda</com> gur 
+... 
+... 
+... 
+giri3 sze-le2-pu-um 
+iti kir11-si-ak 
+mu en {d}inanna unu{ki} masz2-e i3-pa3 
+sze-le2-pu-um 
+dub-sar 
+dumu lugal-i3-zu 
+</commodities>

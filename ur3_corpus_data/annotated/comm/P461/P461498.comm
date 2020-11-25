@@ -1,0 +1,33 @@
+<commodities>
+#P461498 = DIA 19.024.04
+#atf: lang sux
+#tr.en: 3595 5/6 talents, fodder-reed,
+#tr.en: in Puzrish-Dagan;
+#tr.en: 1426 talents, fodder-reed,
+#tr.en: in Nippur;
+#tr.en: (total:) 5021 5/6 talents,
+# calculation: 3595 5/6 + 1426 = 5021 5/6
+#tr.en: fodder for the grain-fed sheep;
+#tr.en: labor of the troops from Girsu,
+#tr.en: with the sukkalmaḫ,
+#tr.en: delivery,
+#tr.en: Šulgi-ilī
+#tr.en: received;
+#tr.en: via Lu-girizal
+#tr.en: month: “Gazelle-feast,”
+#tr.en: year: “Ibbi-Suen is king.”
+<count><interpretation modern_unit="g" modern_value="107875000.00000001" system="weight" unit="gin2" value="12945000.0"/>5(geszu) 9(gesz2) 5(u) 5(asz) 5/6(asz) gu2</count> <com dist="1">gi-zi</com> 
+sza3 puzur4-isz-{d}da-gan 
+<count><interpretation modern_unit="g" modern_value="42780000.0" system="weight" unit="gin2" value="5133600"/>2(geszu) 3(gesz2) 4(u) 6(asz) gu2</count> <com dist="1">gi-zi</com> 
+sza3 nibru{ki} 
+($ blank space $) <count><interpretation modern_unit="g" modern_value="150655000.0" system="weight" unit="gin2" value="18078600.0"/>1(szar2) 2(geszu) 3(gesz2) 4(u) 1(asz) 5/6(asz) gu2</count> 
+sza3-gal <com dist="1">udu</com> niga-sze3 
+a2 erin2 gir2-su{ki} 
+ki sukkal-mah 
+mu-kux(DU) 
+{d}szul-gi-i3-li2 
+szu ba-ti 
+giri3 lu2-giri17-zal 
+iti masz-da3-gu7 
+mu {d}i-bi2-{d}suen lugal 
+</commodities>

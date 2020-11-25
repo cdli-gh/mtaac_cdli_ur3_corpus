@@ -1,0 +1,39 @@
+<commodities>
+#P127253 = Princeton 1, 564
+#atf: lang sux
+#tr.de: 70 Last ausgenommene Fische zu je 120 (Stück pro Last),
+#tr.de: 26 Last teichgezüchtete Fische zu je 90 (Stück pro Last),
+#tr.de: in den Palast eingebracht,
+#tr.de: von Ur-Utu,
+#tr.de: unter Siegel des ensi,
+#tr.de: in Ur.
+#tr.de: Monat: ‘ezemmah(-Fest)’ (9. Monat, Ur Kalender),
+#tr.de: (Zusammen?:) 9810 (Stück?)
+# calculation:  (70 x 120) + (26 x 90) = 10,740 (? if meaningful, 930 missing)
+#tr.de: Jahr: ‘En-unugal-Inanna wurde eingesetzt’ (AS 5).
+#tr.de: Amar-Suen,
+#tr.de: starker Mann,
+#tr.de: König von Ur,
+#tr.de: König der vier Gegenden:
+#tr.de: Ur-Lisi,
+#tr.de: ensi
+#tr.de: von Umma,
+#tr.de: Dein Diener.
+<count><interpretation modern_unit="g" modern_value="2100000.0" system="weight" unit="gin2" value="252000"/>1(gesz2) 1(u) gu2</count> <com dist="1">ku6</com> sza3-bar <count><interpretation modern_unit="" modern_value="120" system="cardinal" unit="" value="120"/>2(gesz2)-ta</count> 
+<count><interpretation modern_unit="g" modern_value="780000.0" system="weight" unit="gin2" value="93600"/>2(u) 6(asz) gu2</count> <com dist="1">ku6</com> kun-zi <count><interpretation modern_unit="" modern_value="90" system="cardinal" unit="" value="90"/>1(gesz2) 3(u)-ta</count> 
+e2-gal-la kux(KWU147)-ra 
+<com dist="1">ki</com> ur-{d}utu-ta 
+kiszib3 ensi2-ka 
+sza3 uri5{ki}-ma 
+iti ezem-mah 
+<count><interpretation modern_unit="" modern_value="9810" system="cardinal" unit="" value="9810"/>2(szar2) 4(geszu) 3(gesz2) 3(u)</count> 
+mu en-unu6-gal {d}inanna ba-hun 
+{d}amar-{d}suen 
+nita kal-ga 
+lugal uri5{ki}-ma 
+lugal <com dist="1">an</com> ub-da limmu2-ba 
+ur-{d}li9-si4 
+ensi2 
+umma{ki} 
+ARAD2-zu 
+</commodities>

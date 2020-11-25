@@ -1,0 +1,27 @@
+<commodities>
+#P388198 = IAA 20090326
+#atf: lang sux
+# some text moved to next line
+# some text moved to next line
+# some text moved to next line
+# some text moved to next line
+<count><interpretation modern_unit="l" modern_value="264" system="dry capacity" unit="sila3" value="264"/>4(barig) 2(ban2) 4(disz) sila3</count> <com dist="1">kasz</com> saga 
+<count><interpretation modern_unit="l" modern_value="298" system="dry capacity" unit="sila3" value="298"/>4(barig) 5(ban2) 8(disz) sila3</count> <com dist="1">kasz</com> du 
+<count><interpretation modern_unit="l" modern_value="199" system="dry capacity" unit="sila3" value="199"/>3(barig) 2(ban2) la2 1(disz) sila3</count> kasz esz3 
+kiszib3 <count><interpretation modern_unit="" modern_value="13" system="cardinal" unit="" value="13"/>1(u) 3(disz)</count> 
+iti nesag 
+<count><interpretation modern_unit="l" modern_value="7.5" system="liquid capacity" unit="sila3" value="7.5"/><interpretation modern_unit="l" modern_value="7.5" system="dry capacity" unit="sila3" value="7.5"/>1(asz) 6(disz) 1/2(disz) sila3</count> <com dist="1">kasz</com> saga gur 
+<count><interpretation modern_unit="l" modern_value="379" system="dry capacity" unit="sila3" value="379"/>1(asz) 1(barig) 2(ban2) la2 1(disz) sila3</count> <com dist="1">kasz</com> du gur 
+n kasz esz3 
+kiszib3 n 
+iti dal 
+n kasz saga 
+n kasz du 
+<count><interpretation modern_unit="l" modern_value="22" system="dry capacity" unit="sila3" value="22"/>2(ban2) 2(disz) sila3</count> kasz esz3 
+kiszib3 <count><interpretation modern_unit="" modern_value="12" system="cardinal" unit="" value="12"/>1(u) 2(disz)</count> 
+iti szu-numun 
+<count><interpretation modern_unit="l" modern_value="46" system="dry capacity" unit="sila3" value="46"/>4(ban2) 6(disz) sila3</count> <com dist="1">kasz</com> saga 
+<count><interpretation modern_unit="l" modern_value="420.1666666666667" system="dry capacity" unit="sila3" value="420.1666666666667"/>1(asz) 2(barig) 1(u) gin2</count> <com dist="1">kasz</com> gur 
+kiszib3 <count><interpretation modern_unit="" modern_value="16" system="cardinal" unit="" value="16"/>1(u) 6(disz)</count> 
+iti <com dist="1">min-esz3</com> 
+</commodities>

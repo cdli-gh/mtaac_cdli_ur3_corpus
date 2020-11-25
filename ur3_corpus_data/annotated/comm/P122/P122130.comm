@@ -1,0 +1,65 @@
+<commodities>
+#P122130 = Nik 2, 447
+#atf: lang sux
+#tr.de: 45 Kor Gerste (gemessen nach dem) königlichen (Maß),
+#tr.de: 1 KURKUdu-Krug voll Fett,
+#tr.de: das dazugehörige Silber(äquivalent): (nicht eingetragen).
+#tr.de: Aus dem Haus Akallas ...
+#tr.de: 3 KURKUdu-Krüge voll Fett,
+#tr.de: 1 Tafelkorb: Quittungen (?),
+#tr.de: 1 Korb von Tontafeln (des Typs) ‘auf das sila gesetzt’.
+#tr.de: hat die Frau des Ur-Abzu geöffnet.
+#tr.de: Aus dem Warenlager des Ur-silaluḫ
+#tr.de: haben Ur-Abzu und die Frau des Ur-Abzu
+#tr.de: den Bestand des Ur-silaluḫ
+#tr.de: in ihre Gewalt genommen (und) herausgetragen.
+#tr.de: Der Bote des ensi hat
+#tr.de: ans Warenhaus des Ur-silaluḫ
+#tr.de: das Siegel gelegt.
+#tr.de: (Daß) die Frau des Ur-Abzu es geöffnet hat,
+#tr.de: ist bezeugt worden.
+#tr.de: Vor dem ensi,
+#tr.de: vor Ur-kununa, dem Sohn von ARADdani,
+#tr.de: vor Akalla, dem nubanda,
+#tr.de: vor Lu-Nanna, dem Sohn von Inim-Šara,
+#tr.de: vor Sipa-kuge, dem Sohn von ARADḫula,
+#tr.de: vor Ur-gigir, dem nubanda,
+#tr.de: vor Inim-Inanna, dem Sohn von Gududu,
+#tr.de: vor Ur-Suen, dem Sohn von Gududu,
+#tr.de: vor Gudea, dem nubanda,
+#tr.de: vor Lu-Nanna, dem Aufseher der Tauschagenten,
+#tr.de: ist es bezeugt worden.
+#tr.de: Monat: ‘Pau’e’,
+# some text moved to next line
+#tr.de: Jahr: ‘Der silberne Thron Enlils wurde hergestellt’.
+<count><interpretation modern_unit="l" modern_value="0.004166666666666667" system="dry capacity" unit="sila3" value="0.004166666666666667"/>4(u) 5(asz) sze gur</count> lugal 
+<count><interpretation modern_unit="l" modern_value="30" system="liquid capacity" unit="sila3" value="30"/>1(disz) dug</count> <com dist="1">kur-ku-du3</com> i3 
+ku3-bi ($ blank space $) 
+e2 a-kal-la kur-ga2-ra-ta 
+<count><interpretation modern_unit="l" modern_value="90" system="liquid capacity" unit="sila3" value="90"/>3(disz) dug</count> <com dist="1">kur-ku-du3</com> i3 
+<count><interpretation modern_unit="" modern_value="1" system="cardinal" unit="" value="1"/>1(disz)</count> pisan kiszib3 <com dist="1">szu</com> 
+<count><interpretation modern_unit="" modern_value="1" system="cardinal" unit="" value="1"/>1(disz)</count> pisan <com dist="1">im</com> kiszib3 sila-a gal2-la 
+dam ur-ab-zu-ka-ke4 in-du8 
+e2 ganba ur-sila-luh-ka-ta 
+nig2-gur11 ur-sila-luh-ka 
+ur-ab-zu u3 dam ur-ab-zu-ka-ke4 
+a2 bi2-dar ba-an-de6 
+lu2 kin-gi4-a ensi2-ka-ke4 
+e2 ganba ur-sila-luh-ka-ka 
+kiszib3 mi-ni-ga2-ar 
+dam ur-ab-zu-ka-ke4 in-du8 
+ba-gi-in 
+igi ensi2-ka-sze3 
+igi ur-ku3-nun-na dumu ARAD2-da-ni-sze3 
+igi a-kal-la nu-banda3-sze3 
+igi lu2-{d}nanna dumu inim-{d}szara2-sze3 
+igi sipa-ku3-ge dumu ARAD2-hu-la-sze3 
+igi ur-{gesz}gigir nu-banda3-sze3 
+igi inim-{d}inanna dumu gu-du-du-sze3 
+igi ur-{d}suen dumu gu-du-du-sze3 
+igi gu3-de2-a nu-banda3-sze3 
+igi lu2-{d}nanna ugula dam-gar3-ne-sze3 
+ba-gi-in 
+iti pa4-u2-e 
+mu ku3 gu-za {d}en-lil2-la2 ba-dim2 
+</commodities>

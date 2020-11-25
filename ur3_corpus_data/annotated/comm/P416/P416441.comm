@@ -1,0 +1,42 @@
+<commodities>
+#P416441 = CDLJ 2012/1 §4.37
+#atf: lang sux
+#tr.en: 10 sheep, barley-fed,
+#tr.en: 1 barley-fed, fat-tailed sheep,
+#tr.en: 1 lamb, barley-fed,
+#tr.en: 1 buck, barley-fed, 2 female kids,
+#tr.en: 12 lambs,
+#tr.en: of Abī-simtī,
+#tr.en: delivery, Crescent Day,
+#tr.en: Rizi-ilum, responsible official;
+#tr.en: n sheep, barley-fed, of Lugal-magure,
+#tr.en: ..., responsible official;
+#tr.en: ... Enlil,
+#tr.en: ... Ninlil,
+#tr.en: ... Ninurta,
+#tr.en: ...-zi, responsible official;
+#tr.en: from the deliveries,
+#tr.en: the 26th day,
+#tr.en: from Abbasaga(’s account) booked out;
+#tr.en: month: “Grand Festival,”
+#tr.en: year: “Enunugal of Inanna was hired;”
+<count><interpretation modern_unit="" modern_value="10" system="cardinal" unit="" value="10"/>1(u)</count> <com dist="1">udu</com> niga 
+<count><interpretation modern_unit="" modern_value="1" system="cardinal" unit="" value="1"/>1(disz)</count> <com dist="1">gukkal</com> niga 
+<count><interpretation modern_unit="" modern_value="1" system="cardinal" unit="" value="1"/>1(disz)</count> <com dist="1">sila4</com> niga 
+<count><interpretation modern_unit="" modern_value="1" system="cardinal" unit="" value="1"/>1(disz)</count> <com dist="1">masz2-gal</com> niga <count><interpretation modern_unit="" modern_value="2" system="cardinal" unit="" value="2"/>2(disz)</count> {munus}asz2-gar3 
+<count><interpretation modern_unit="" modern_value="12" system="cardinal" unit="" value="12"/>1(u) 2(disz)</count> sila4 
+a-bi2-si2-im-ti 
+mu-kux(DU) u4-sakar 
+ri-zi-dingir maszkim 
+n <com dist="1">udu</com> niga lugal-ma2-gur8-re 
+... maszkim 
+... {d}en-lil2 
+... {d}nin-lil2 
+... {d}nin-urta 
+...-zi maszkim 
+sza3 mu-kux(DU)-ra-ta 
+u4 <count><interpretation modern_unit="" modern_value="20" system="cardinal" unit="" value="20"/>2(u)</count> <count><interpretation modern_unit="" modern_value="6" system="cardinal" unit="" value="6"/>6(disz)-kam</count> 
+<com dist="1">ki</com> ab-ba-sa6-ga-ta ba-zi 
+iti ezem-mah 
+mu en-unu6-gal {d}inanna ba-hun 
+</commodities>

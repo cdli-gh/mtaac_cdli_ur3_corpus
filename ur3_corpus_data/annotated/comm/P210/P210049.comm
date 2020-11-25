@@ -1,0 +1,47 @@
+<commodities>
+#P210049 = LB 2505
+#atf: lang sux
+<count><interpretation modern_unit="" modern_value="20" system="cardinal" unit="" value="20"/>2(u)</count> <com dist="1">tug2</com> nig2-lam2 szar3 <count><interpretation modern_unit="l" modern_value="240" system="dry capacity" unit="sila3" value="240"/>4(barig)-ta</count> 
+<count><interpretation modern_unit="" modern_value="12" system="cardinal" unit="" value="12"/>1(u) 2(disz)</count> <com dist="1">tug2</com> nig2-lam2 du <count><interpretation modern_unit="l" modern_value="180" system="dry capacity" unit="sila3" value="180"/>3(barig)-ta</count> 
+<count><interpretation modern_unit="" modern_value="74" system="cardinal" unit="" value="74"/>1(gesz2) 1(u) 4(disz)</count> <com dist="1">tug2</com> nig2-lam2 du tug2-du8 <count><interpretation modern_unit="l" modern_value="120" system="dry capacity" unit="sila3" value="120"/>2(barig)-ta</count> 
+<count><interpretation modern_unit="" modern_value="6" system="cardinal" unit="" value="6"/>6(disz)</count> <com dist="1">tug2</com> guz-za szar3 <count><interpretation modern_unit="l" modern_value="210" system="dry capacity" unit="sila3" value="210"/>3(barig) 3(ban2)-ta</count> 
+<count><interpretation modern_unit="" modern_value="18" system="cardinal" unit="" value="18"/>1(u) 8(disz)</count> <com dist="1">tug2</com> guz-za du <count><interpretation modern_unit="l" modern_value="160" system="dry capacity" unit="sila3" value="160"/>2(barig) 4(ban2)-ta</count> 
+<count><interpretation modern_unit="" modern_value="15" system="cardinal" unit="" value="15"/>1(u) 5(disz)</count> <com dist="1">tug2</com> nig2-dag tab-ba szar3 <count><interpretation modern_unit="l" modern_value="240" system="dry capacity" unit="sila3" value="240"/>4(barig)-ta</count> 
+<count><interpretation modern_unit="" modern_value="21" system="cardinal" unit="" value="21"/>2(u) 1(disz)</count> <com dist="1">tug2</com> nig2-dag tab-ba du <count><interpretation modern_unit="l" modern_value="180" system="dry capacity" unit="sila3" value="180"/>3(barig)-ta</count> 
+<count><interpretation modern_unit="" modern_value="3" system="cardinal" unit="" value="3"/>3(disz)</count> <com dist="1">tug2</com> bar-dul5 sipa szar3 <count><interpretation modern_unit="l" modern_value="480" system="dry capacity" unit="sila3" value="480"/>1(asz) 3(barig)-ta</count> 
+<count><interpretation modern_unit="" modern_value="2" system="cardinal" unit="" value="2"/>2(disz)</count> <com dist="1">tug2</com> bar-dul5 guz-za szar3 <count><interpretation modern_unit="l" modern_value="520" system="dry capacity" unit="sila3" value="520"/>1(asz) 3(barig) 4(ban2)-ta</count> 
+<count><interpretation modern_unit="" modern_value="4" system="cardinal" unit="" value="4"/>4(disz)</count> <com dist="1">tug2</com> a2-gu4-hu-ra szar3 <count><interpretation modern_unit="l" modern_value="880" system="dry capacity" unit="sila3" value="880"/>2(asz) 4(barig) 4(ban2)-ta</count> 
+<count><interpretation modern_unit="" modern_value="114" system="cardinal" unit="" value="114"/>1(gesz2) 5(u) 4(disz)</count> <com dist="1">{tug2}...</com> <count><interpretation modern_unit="l" modern_value="40" system="dry capacity" unit="sila3" value="40"/>4(ban2)-ta</count> 
+<count><interpretation modern_unit="" modern_value="494" system="cardinal" unit="" value="494"/>8(gesz2) 1(u) 4(disz)</count> <com dist="1">tug2</com> nig2-lam2 <count><interpretation modern_unit="" modern_value="3" system="cardinal" unit="" value="3"/>3(disz)-kam</count> us2 <count><interpretation modern_unit="l" modern_value="20" system="dry capacity" unit="sila3" value="20"/>2(ban2)-ta</count> 
+<count><interpretation modern_unit="" modern_value="26" system="cardinal" unit="" value="26"/>2(u) 6(disz)</count> <com dist="1">tug2</com> guz-za x <count><interpretation modern_unit="" modern_value="3" system="cardinal" unit="" value="3"/>3(disz)-kam</count> <com dist="1">us2</com> <count><interpretation modern_unit="l" modern_value="20" system="dry capacity" unit="sila3" value="20"/>2(ban2)-ta</count> 
+<count><interpretation modern_unit="" modern_value="238" system="cardinal" unit="" value="238"/>3(gesz2) 5(u) 8(disz)</count> <com dist="1">tug2</com> guz-za <count><interpretation modern_unit="" modern_value="3" system="cardinal" unit="" value="3"/>3(disz)-kam</count> us2 <count><interpretation modern_unit="l" modern_value="10" system="dry capacity" unit="sila3" value="10"/>1(ban2)-ta</count> 
+<count><interpretation modern_unit="" modern_value="1" system="cardinal" unit="" value="1"/>1(disz)</count> <com dist="1">tug2</com> gu2-DISZ <count><interpretation modern_unit="" modern_value="3" system="cardinal" unit="" value="3"/>3(disz)-kam</count> us2 <count><interpretation modern_unit="l" modern_value="20" system="dry capacity" unit="sila3" value="20"/>2(ban2)-ta</count> 
+<count><interpretation modern_unit="" modern_value="2" system="cardinal" unit="" value="2"/>2(disz)</count> <com dist="1">gada</com> sza3-gu igi szar3 <count><interpretation modern_unit="l" modern_value="2690" system="dry capacity" unit="sila3" value="2690"/>8(asz) 4(barig) 5(ban2)-ta</count> 
+<count><interpretation modern_unit="" modern_value="2" system="cardinal" unit="" value="2"/>2(disz)</count> <com dist="1">gada</com> sza3-gu lugal <count><interpretation modern_unit="l" modern_value="1420" system="dry capacity" unit="sila3" value="1420"/>4(asz) 3(barig) 4(ban2)-ta</count> 
+<count><interpretation modern_unit="" modern_value="7" system="cardinal" unit="" value="7"/>7(disz)</count> <com dist="1">gada</com> bar-tug2 szar3 <count><interpretation modern_unit="l" modern_value="1960" system="dry capacity" unit="sila3" value="1960"/>6(asz) 2(barig) 4(ban2)-ta</count> 
+<count><interpretation modern_unit="" modern_value="14" system="cardinal" unit="" value="14"/>1(u) 4(disz)</count> <com dist="1">gada</com> us2 <count><interpretation modern_unit="l" modern_value="480" system="dry capacity" unit="sila3" value="480"/>1(asz) 3(barig)-ta</count> 
+<count><interpretation modern_unit="" modern_value="93" system="cardinal" unit="" value="93"/>1(gesz2) 3(u) 3(disz)</count> <com dist="1">gada</com> a-ra <count><interpretation modern_unit="l" modern_value="90" system="dry capacity" unit="sila3" value="90"/>1(barig) 3(ban2)-ta</count> 
+... <com dist="1">gada</com> <count><interpretation modern_unit="" modern_value="3" system="cardinal" unit="" value="3"/>3(disz)-kam</count> us2 <count><interpretation modern_unit="l" modern_value="10" system="dry capacity" unit="sila3" value="10"/>1(ban2)-ta</count> 
+... <com dist="1">ga-ni</com> ... szar3 <count><interpretation modern_unit="l" modern_value="730" system="dry capacity" unit="sila3" value="730"/>2(asz) 2(barig) 1(ban2)-ta</count> 
+... x <com dist="1">szar3</com> ...-ta 
+...-kam us2 ...-ta 
+... x 
+... x 
+... x 
+... 
+<count><interpretation modern_unit="" modern_value="10" system="cardinal" unit="" value="10"/>1(u)</count> <com dist="1">gada</com> <count><interpretation modern_unit="" modern_value="3" system="cardinal" unit="" value="3"/>3(disz)-kam</count> us2 
+{d}ba-ba6 
+<count><interpretation modern_unit="" modern_value="7" system="cardinal" unit="" value="7"/>7(disz)</count> <com dist="1">gada</com> <count><interpretation modern_unit="" modern_value="3" system="cardinal" unit="" value="3"/>3(disz)-kam</count> us2 <count><interpretation modern_unit="l" modern_value="10" system="dry capacity" unit="sila3" value="10"/>1(ban2)</count> 
+tug2-si <com dist="1">du8-a</com> tug2 ur la {d}nin-gir2-su-ka 
+mu <count><interpretation modern_unit="" modern_value="3" system="cardinal" unit="" value="3"/>3(disz)-a</count> a-ra2 ... igi <count><interpretation modern_unit="" modern_value="none" system="unknown" unit="" value="none"/>3(disz)-gal2 ...</count> 
+<com dist="1">sze-bi</com> <count><interpretation modern_unit="" modern_value="none" system="unknown" unit="" value="none"/>5(gesz2) 3(u) ...</count> 
+iti <count><interpretation modern_unit="" modern_value="none" system="unknown" unit="" value="none"/>1(u) 2(disz) ...</count> 
+<count><interpretation modern_unit="" modern_value="none" system="unknown" unit="" value="none"/>4(barig) 4(ban2) 5(disz) sila3 ...</count> 
+<com dist="1">sze</com> x ... tug2 x ... 
+sza3 x ... 
+mu ... 
+ka ... 
+u3 lu2 ... 
+mu {d}x-{d}suen lugal ... 
+<count><interpretation modern_unit="" modern_value="7" system="cardinal" unit="" value="7"/>7(disz)</count> <com dist="1">tug2</com> nig2-lam2 tab-ba szar3 
+</commodities>

@@ -1,0 +1,37 @@
+<commodities>
+#P382205 = CDLJ 2008/2, §2.20
+#atf: lang sux
+#tr.en: 74 1/2 workdays,
+#tr.en: land parcel of Ur-gigir, the chief administrator;
+#tr.en: 94 workdays,
+#tr.en: land parcel of Ur-gigir, oxen manager;
+#tr.en: 147 workdays,
+#tr.en: land parcel of Lugal-gue;
+#tr.en: reed uprooted, reed cut and hirin-weed uprooted;
+#tr.en: field “A-geština;”
+#tr.en: foreman: Lu-giri-zal;
+#tr.en: under seal of Šeškalla, son of Dada;
+#tr.en: month “Flight,”
+# some text moved to next line
+#tr.en: month: month “Sowing;”
+#tr.en: year: “Enmaḫgalana of Nanna was installed.”
+#tr.en: Lugal-nig-lagare,
+#tr.en: scribe,
+#tr.en: son of Dada.
+<count><interpretation modern_unit="" modern_value="74.5" system="cardinal" unit="" value="74.5"/>1(gesz2) 1(u) 4(disz) 1/2(disz)</count> <com dist="1">gurusz</com> u4 <count><interpretation modern_unit="" modern_value="1" system="cardinal" unit="" value="1"/>1(disz)-sze3</count> 
+GAN2 <com dist="1">ur-{gesz}gigir</com> szabra 
+<count><interpretation modern_unit="" modern_value="94" system="cardinal" unit="" value="94"/>1(gesz2) 3(u) 4(disz)</count> <com dist="1">gurusz</com> u4 <count><interpretation modern_unit="" modern_value="1" system="cardinal" unit="" value="1"/>1(disz)-sze3</count> 
+GAN2 <com dist="1">ur-{gesz}gigir</com> nu-banda3-gu4 
+<count><interpretation modern_unit="" modern_value="147" system="cardinal" unit="" value="147"/>2(gesz2) 2(u) 7(disz)</count> <com dist="1">gurusz</com> u4 <count><interpretation modern_unit="" modern_value="1" system="cardinal" unit="" value="1"/>1(disz)-sze3</count> 
+GAN2 lugal-gu4-e 
+gi zex(SIG7)-a gi ku5-a u3 {u2}hirinx(KWU318)-na zex(SIG7)-a 
+a-sza3 <com dist="1">a-gesztin-na</com> 
+ugula lu2-giri17-zal 
+kiszib3 szesz-kal-la dumu da-da 
+iti dal 
+iti szu-numun 
+mu en-mah-gal-an-na {d}nanna ba-hun 
+lugal-nig2-lagar-e 
+dub-sar 
+dumu da-da 
+</commodities>

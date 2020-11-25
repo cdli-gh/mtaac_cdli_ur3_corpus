@@ -1,0 +1,36 @@
+<commodities>
+#P127555 = RA 009, 054 AM 14 (pl.7)
+#atf: lang sux
+#tr.en: 10 grass-fed rams,
+#tr.en: (from) Šarrum-bani, the captain;
+#tr.en: 72 grass-fed rams,
+#tr.en: 8 full-grown grass-fed he-goats,
+#tr.en: (from) the troops of Put-tulium,
+#tr.en: foreman: Ibni-Šulgi,
+#tr.en: via Addamu, royal messenger;
+#tr.en: tax of the territories,
+#tr.en: delivery,
+#tr.en: Intaea
+#tr.en: received;
+#tr.en: via Nanna-maba, the scribe;
+#tr.en: 25th day;
+#tr.en: month: “Piglet feast,”
+#tr.en: year: “Šu-Suen, the king of Ur, the territory of Zabšali destroyed;”
+#tr.en: (total:) 90 sheep.
+<count><interpretation modern_unit="" modern_value="10" system="cardinal" unit="" value="10"/>1(u)</count> <com dist="1">udu</com> u2 
+szar-ru-um-ba-ni nu-banda3 
+<count><interpretation modern_unit="" modern_value="72" system="cardinal" unit="" value="72"/>1(gesz2) 1(u) 2(disz)</count> <com dist="1">udu</com> u2 
+<count><interpretation modern_unit="" modern_value="8" system="cardinal" unit="" value="8"/>8(disz)</count> masz2-gal u2 
+erin2 pu-ut-tu-li-um{ki} 
+ugula ib-ni-{d}szul-gi 
+giri3 ad-da-mu lu2 kin-gi4-a lugal 
+gu2 ma-da 
+mu-kux(DU) 
+in-ta-e3-a 
+i3-dab5 
+giri3 {d}nanna-ma-ba dub-sar 
+u4 <count><interpretation modern_unit="" modern_value="20" system="cardinal" unit="" value="20"/>2(u)</count> <count><interpretation modern_unit="" modern_value="5" system="cardinal" unit="" value="5"/>5(disz)-kam</count> 
+iti ses-da-gu7 
+mu {d}szu-{d}suen lugal uri5{ki}-ma-ke4 ma-da za-ab-sza-li{ki} mu-hul 
+<count><interpretation modern_unit="" modern_value="90" system="cardinal" unit="" value="90"/>1(gesz2) 3(u)</count> <com dist="1">udu</com> 
+</commodities>

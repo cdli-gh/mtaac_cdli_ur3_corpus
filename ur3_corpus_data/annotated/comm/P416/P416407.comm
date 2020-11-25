@@ -1,0 +1,22 @@
+<commodities>
+#P416407 = CDLJ 2012/1 §5.01
+#atf: lang sux
+#tr.en: 1 gur 3 barig of dabin-flour, royal (measure),
+#tr.en: wage of 1 laborer at 5 sila3 (per day),
+#tr.en: its laborers: 96 workdays;
+#tr.en: wages of hirelings,
+#tr.en: from Ur-saga
+#tr.en: Šu-Ešdar
+#tr.en: received;
+#tr.en: month: “Festival of Mekigal,”
+#tr.en: year: “Šašru was destroyed.”
+<count><interpretation modern_unit="l" modern_value="480" system="dry capacity" unit="sila3" value="480"/>1(asz) 3(barig)</count> <com dist="1">dabin</com> gur lugal 
+a2 <count><interpretation modern_unit="" modern_value="1" system="cardinal" unit="" value="1"/>1(disz)</count> <com dist="1">gurusz</com> <count><interpretation modern_unit="" modern_value="5" system="cardinal" unit="" value="5"/>5(disz)</count> sila3-ta 
+<com dist="1">gurusz-bi</com> <count><interpretation modern_unit="" modern_value="96" system="cardinal" unit="" value="96"/>1(gesz2) 3(u) 6(disz)</count> u4 <count><interpretation modern_unit="" modern_value="1" system="cardinal" unit="" value="1"/>1(disz)-sze3</count> 
+a2 lu2 hun-ga 
+ki ur-sa6-ga-ta 
+szu-esz18-dar 
+<com dist="1">szu</com> ba-ti 
+iti ezem-me-ki-gal2 
+mu sza-asz-ru{ki} ba-hul 
+</commodities>

@@ -1,0 +1,16 @@
+<commodities>
+#P105068 = BBVO 11, 290, 6N-T519
+#atf: lang sux
+<count><interpretation modern_unit="" modern_value="11" system="cardinal" unit="" value="11"/>1(u) 1(disz)</count> gesz <count><interpretation modern_unit="l" modern_value="60" system="dry capacity" unit="sila3" value="60"/>1(barig)</count> 
+<count><interpretation modern_unit="l" modern_value="1550" system="dry capacity" unit="sila3" value="1550"/>5(disz) 5(ban2)</count> 
+<count><interpretation modern_unit="l" modern_value="345" system="dry capacity" unit="sila3" value="345"/>1(disz) 4(ban2) 5(disz) sila3</count> 
+<count><interpretation modern_unit="l" modern_value="640" system="dry capacity" unit="sila3" value="640"/>2(disz) 4(ban2)</count> 
+x <count><interpretation modern_unit="l" modern_value="35" system="dry capacity" unit="sila3" value="35"/>3(ban2) 5(disz) sila3</count> 
+x <count><interpretation modern_unit="l" modern_value="30" system="dry capacity" unit="sila3" value="30"/>3(ban2)</count> 
+x <count><interpretation modern_unit="l" modern_value="25" system="dry capacity" unit="sila3" value="25"/>2(ban2) 5(disz) sila3</count> 
+<count><interpretation modern_unit="l" modern_value="620" system="dry capacity" unit="sila3" value="620"/>2(disz) 2(ban2)</count> 
+<count><interpretation modern_unit="l" modern_value="615" system="dry capacity" unit="sila3" value="615"/>2(disz) 1(ban2) 5(disz) sila3</count> 
+<count><interpretation modern_unit="l" modern_value="610" system="dry capacity" unit="sila3" value="610"/>2(disz) 1(ban2)</count> 
+<count><interpretation modern_unit="" modern_value="none" system="unknown" unit="" value="none"/>1(disz) ...</count> 
+... x x x 
+</commodities>

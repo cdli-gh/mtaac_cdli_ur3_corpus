@@ -1,0 +1,100 @@
+<commodities>
+#P100023 = AAS 035
+#atf: lang sux
+#tr.en: 67 female laborers, 3 ban2 (monthly rations each),
+#tr.en: 7 female laborers, half-labor, 3 ban2 (monthly rations each),
+#tr.en: month “Harvest;”
+#tr.en: 67 female laborers, 3 ban2 (monthly rations each),
+#tr.en: 7 female laborers, half-labor, 3 ban2 (monthly rations each),
+#tr.en: month “Bricks in moulds set;”
+#tr.en: 67 female laborers, 3 ban2 (monthly rations each),
+#tr.en: 7 female laborers, half-labor, 3 ban2 (monthly rations each),
+#tr.en: month “Barley at the quay;”
+#tr.en: 67 female laborers, 3 ban2 (monthly rations each),
+#tr.en: 7 female laborers, half-labor, 3 ban2 (monthly rations each),
+#tr.en: month “First-fruits;”
+#tr.en: 67 female laborers, 3 ban2 (monthly rations each),
+#tr.en: 7 female laborers, half-labor, 3 ban2 (monthly rations each),
+#tr.en: month “Flight;”
+#tr.en: 67 female laborers, 3 ban2 (monthly rations each),
+#tr.en: 7 female laborers, half-labor, 3 ban2 (monthly rations each),
+#tr.en: month “Sowing;”
+#tr.en: 66 female laborers, 3 ban2 (monthly rations each),
+#tr.en: 7 female laborers, half-labor, 3 ban2 (monthly rations each),
+#tr.en: month “mineš;”
+#tr.en: 66 female laborers, 3 ban2 (monthly rations each),
+#tr.en: 7 female laborers, half-labor, 3 ban2 (monthly rations each),
+#tr.en: month “House of month 6;”
+#tr.en: 66 female laborers, 3 ban2 (monthly rations each),
+#tr.en: 7 female laborers, half-labor, 3 ban2 (monthly rations each),
+#tr.en: month “Lisi;”
+#tr.en: 66 female laborers, 3 ban2 (monthly rations each),
+#tr.en: 7 female laborers, half-labor, 3 ban2 (monthly rations each),
+#tr.en: month “Festival of Šulgi;”
+#tr.en: 66 female laborers, 3 ban2 (monthly rations each),
+#tr.en: 7 female laborers, half-labor, 3 ban2 (monthly rations each),
+#tr.en: month “pa’u’e;”
+#tr.en: 65 female laborers, 3 ban2 (monthly rations each),
+#tr.en: 7 female laborers, half-labor, 3 ban2 (monthly rations each),
+#tr.en: month “Dumuzi;”
+#tr.en: total: 800 less 3 female laborers, 3 ban2 (monthly rations each),
+# calculation: (67 × 6) + (66 × 5) + 65 = 797
+#tr.en: total: 84 female laborers, half-labor, 3 ban2 (monthly rations each),
+# calculation: 7 × 12 = 84
+#tr.en: (a period) of 12 months;
+#tr.en: female laborers, 3 ban2 (monthly rations each), their 12th: 66 1/3, 5 shekels;
+# calculation: 797 ÷ 12 = 66 25/60
+#tr.en: female laborers, half-labor, their 12th: 7;
+# calculation: 84 ÷ 12 = 7
+#tr.en: debits of the labor of female laborers ... foreman of weaving ... 90 ...;
+#tr.en: from month “Harvest;”
+# some text moved to next line
+#tr.en: to month “Dumuzi;”
+# some text moved to next line
+#tr.en: year: “Ibbi-Suen (is) king.”
+<count><interpretation modern_unit="" modern_value="67" system="cardinal" unit="" value="67"/>1(gesz2) 7(disz)</count> geme2 <count><interpretation modern_unit="l" modern_value="30" system="dry capacity" unit="sila3" value="30"/>3(ban2)</count> 
+<count><interpretation modern_unit="" modern_value="7" system="cardinal" unit="" value="7"/>7(disz)</count> geme2 a2 <count><interpretation modern_unit="l" modern_value="180.0" system="dry capacity" unit="sila3" value="180.0"/>1/2(disz) 3(ban2)</count> 
+iti sze-sag11-ku5 
+<count><interpretation modern_unit="" modern_value="67" system="cardinal" unit="" value="67"/>1(gesz2) 7(disz)</count> geme2 <count><interpretation modern_unit="l" modern_value="30" system="dry capacity" unit="sila3" value="30"/>3(ban2)</count> 
+<count><interpretation modern_unit="" modern_value="7" system="cardinal" unit="" value="7"/>7(disz)</count> geme2 a2 <count><interpretation modern_unit="l" modern_value="180.0" system="dry capacity" unit="sila3" value="180.0"/>1/2(disz) 3(ban2)</count> 
+iti sig4-u3-szub-ba-gar-ra 
+<count><interpretation modern_unit="" modern_value="67" system="cardinal" unit="" value="67"/>1(gesz2) 7(disz)</count> geme2 <count><interpretation modern_unit="l" modern_value="30" system="dry capacity" unit="sila3" value="30"/>3(ban2)</count> 
+<count><interpretation modern_unit="" modern_value="7" system="cardinal" unit="" value="7"/>7(disz)</count> geme2 a2 <count><interpretation modern_unit="l" modern_value="180.0" system="dry capacity" unit="sila3" value="180.0"/>1/2(disz) 3(ban2)</count> 
+iti sze-kar-ra-gal2-la 
+<count><interpretation modern_unit="" modern_value="67" system="cardinal" unit="" value="67"/>1(gesz2) 7(disz)</count> geme2 <count><interpretation modern_unit="l" modern_value="30" system="dry capacity" unit="sila3" value="30"/>3(ban2)</count> 
+<count><interpretation modern_unit="" modern_value="7" system="cardinal" unit="" value="7"/>7(disz)</count> geme2 a2 <count><interpretation modern_unit="l" modern_value="180.0" system="dry capacity" unit="sila3" value="180.0"/>1/2(disz) 3(ban2)</count> 
+iti nesag 
+<count><interpretation modern_unit="" modern_value="67" system="cardinal" unit="" value="67"/>1(gesz2) 7(disz)</count> geme2 <count><interpretation modern_unit="l" modern_value="30" system="dry capacity" unit="sila3" value="30"/>3(ban2)</count> 
+<count><interpretation modern_unit="" modern_value="7" system="cardinal" unit="" value="7"/>7(disz)</count> geme2 a2 <count><interpretation modern_unit="l" modern_value="180.0" system="dry capacity" unit="sila3" value="180.0"/>1/2(disz) 3(ban2)</count> 
+iti <com dist="1">dal</com> 
+<count><interpretation modern_unit="" modern_value="67" system="cardinal" unit="" value="67"/>1(gesz2) 7(disz)</count> geme2 <count><interpretation modern_unit="l" modern_value="30" system="dry capacity" unit="sila3" value="30"/>3(ban2)</count> 
+<count><interpretation modern_unit="" modern_value="7" system="cardinal" unit="" value="7"/>7(disz)</count> geme2 a2 <count><interpretation modern_unit="l" modern_value="180.0" system="dry capacity" unit="sila3" value="180.0"/>1/2(disz) 3(ban2)</count> 
+iti szu-numun-na 
+<count><interpretation modern_unit="" modern_value="66" system="cardinal" unit="" value="66"/>1(gesz2) 6(disz)</count> geme2 <count><interpretation modern_unit="l" modern_value="30" system="dry capacity" unit="sila3" value="30"/>3(ban2)</count> 
+<count><interpretation modern_unit="" modern_value="7" system="cardinal" unit="" value="7"/>7(disz)</count> geme2 a2 <count><interpretation modern_unit="l" modern_value="180.0" system="dry capacity" unit="sila3" value="180.0"/>1/2(disz) 3(ban2)</count> 
+iti <com dist="1">min-esz3</com> 
+<count><interpretation modern_unit="" modern_value="66" system="cardinal" unit="" value="66"/>1(gesz2) 6(disz)</count> geme2 <count><interpretation modern_unit="l" modern_value="30" system="dry capacity" unit="sila3" value="30"/>3(ban2)</count> 
+<count><interpretation modern_unit="" modern_value="7" system="cardinal" unit="" value="7"/>7(disz)</count> geme2 a2 <count><interpretation modern_unit="l" modern_value="180.0" system="dry capacity" unit="sila3" value="180.0"/>1/2(disz) 3(ban2)</count> 
+iti e2-iti-6(disz) 
+<count><interpretation modern_unit="" modern_value="66" system="cardinal" unit="" value="66"/>1(gesz2) 6(disz)</count> geme2 <count><interpretation modern_unit="l" modern_value="30" system="dry capacity" unit="sila3" value="30"/>3(ban2)</count> 
+<count><interpretation modern_unit="" modern_value="7" system="cardinal" unit="" value="7"/>7(disz)</count> geme2 a2 <count><interpretation modern_unit="l" modern_value="180.0" system="dry capacity" unit="sila3" value="180.0"/>1/2(disz) 3(ban2)</count> 
+iti {d}li9-si4 
+<count><interpretation modern_unit="" modern_value="66" system="cardinal" unit="" value="66"/>1(gesz2) 6(disz)</count> geme2 <count><interpretation modern_unit="l" modern_value="30" system="dry capacity" unit="sila3" value="30"/>3(ban2)</count> 
+<count><interpretation modern_unit="" modern_value="7" system="cardinal" unit="" value="7"/>7(disz)</count> geme2 a2 <count><interpretation modern_unit="l" modern_value="180.0" system="dry capacity" unit="sila3" value="180.0"/>1/2(disz) 3(ban2)</count> 
+iti ezem-{d}szul-gi 
+<count><interpretation modern_unit="" modern_value="66" system="cardinal" unit="" value="66"/>1(gesz2) 6(disz)</count> geme2 <count><interpretation modern_unit="l" modern_value="30" system="dry capacity" unit="sila3" value="30"/>3(ban2)</count> 
+<count><interpretation modern_unit="" modern_value="7" system="cardinal" unit="" value="7"/>7(disz)</count> geme2 a2 <count><interpretation modern_unit="l" modern_value="180.0" system="dry capacity" unit="sila3" value="180.0"/>1/2(disz) 3(ban2)</count> 
+iti pa4-u2-e 
+<count><interpretation modern_unit="" modern_value="65" system="cardinal" unit="" value="65"/>1(gesz2) 5(disz)</count> geme2 <count><interpretation modern_unit="l" modern_value="30" system="dry capacity" unit="sila3" value="30"/>3(ban2)</count> 
+<count><interpretation modern_unit="" modern_value="7" system="cardinal" unit="" value="7"/>7(disz)</count> geme2 a2 <count><interpretation modern_unit="l" modern_value="180.0" system="dry capacity" unit="sila3" value="180.0"/>1/2(disz) 3(ban2)</count> 
+iti {d}dumu-zi 
+szunigin <count><interpretation modern_unit="" modern_value="797" system="cardinal" unit="" value="797"/>1(geszu) 3(gesz2) 2(u) la2 3(disz)</count> geme2 <count><interpretation modern_unit="l" modern_value="30" system="dry capacity" unit="sila3" value="30"/>3(ban2)</count> 
+szunigin <count><interpretation modern_unit="" modern_value="84" system="cardinal" unit="" value="84"/>1(gesz2) 2(u) 4(disz)</count> geme2 a2 <count><interpretation modern_unit="l" modern_value="180.0" system="dry capacity" unit="sila3" value="180.0"/>1/2(disz) 3(ban2)</count> 
+iti <count><interpretation modern_unit="" modern_value="10" system="cardinal" unit="" value="10"/>1(u)</count> <count><interpretation modern_unit="" modern_value="2" system="cardinal" unit="" value="2"/>2(disz)-kam</count> 
+geme2 <count><interpretation modern_unit="l" modern_value="30" system="dry capacity" unit="sila3" value="30"/>3(ban2)</count> igi <count><interpretation modern_unit="" modern_value="78.41666666666667" system="cardinal" unit="" value="78.41666666666667"/>1(u) 2(disz)-gal2 1(gesz2) 6(disz) 1/3(disz) 5(disz) gin2</count> 
+geme2 a2 <count><interpretation modern_unit="l" modern_value="180.0" system="dry capacity" unit="sila3" value="180.0"/>1/2(disz) 3(ban2)</count> igi <count><interpretation modern_unit="" modern_value="19" system="cardinal" unit="" value="19"/>1(u) 2(disz)-gal2 7(disz)</count> 
+sag-nig2-gur11-ra a2 geme2 ... ugula <com dist="1">usz-bar</com> x <count><interpretation modern_unit="" modern_value="none" system="unknown" unit="" value="none"/>1(gesz2) 3(u) x x</count> 
+iti sze-sag11-ku5-ta 
+iti {d}dumu-zi-sze3 
+mu {d}i-bi-{d}suen lugal 
+</commodities>

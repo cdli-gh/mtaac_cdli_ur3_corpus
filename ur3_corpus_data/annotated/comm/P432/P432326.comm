@@ -1,0 +1,12 @@
+<commodities>
+#P432326 = RIME 3/2.01.06.1010
+#atf: lang sux
+#tr.en: one quart ... beer,
+#tr.en: ten ...
+...-DI 
+...-gar 
+... x 
+... x 
+<count><interpretation modern_unit="l" modern_value="1" system="liquid capacity" unit="sila3" value="1"/><interpretation modern_unit="l" modern_value="1" system="dry capacity" unit="sila3" value="1"/>1(disz) sila3</count> <com dist="1">kasz</com> ... 
+<count><interpretation modern_unit="" modern_value="none" system="unknown" unit="" value="none"/>1(u) x ...</count> 
+</commodities>

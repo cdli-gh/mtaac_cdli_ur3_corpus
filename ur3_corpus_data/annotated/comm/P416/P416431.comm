@@ -1,0 +1,46 @@
+<commodities>
+#P416431 = CDLJ 2012/1 §4.32
+#atf: lang sux
+#tr.en: 1 sheep ...
+#tr.en: for Enlil,
+#tr.en: xxx
+#tr.en: 1 ...,
+#tr.en: siskur-offering in the house;
+#tr.en: 2 ... for Silver Mound,
+#tr.en: 1 ... for Ninḫursag,
+#tr.en: 1 ... for Nusku,
+#tr.en: 1 ... for Ninurta,
+#tr.en: 1 ... for Inanna,
+#tr.en: 1 sheep, barley-fed, for Ninsun,
+#tr.en: 1 buck, barley-fed, for Lugalbanda,
+#tr.en: 1 buck for Šulgi,
+#tr.en: 1 buck for Nin-ti’uga,
+#tr.en: siskur-offering at night;
+#tr.en: Nanše-GIRgal, responsible official;
+#tr.en: of the month, day 21 elapsed;
+#tr.en: total: 8 sheep, barley-fed, (and) 6 bucks, barley-fed,;
+#tr.en: from Nalu(’s account) booked out;
+#tr.en: month: “Harvest,”
+#tr.en: year: “Ḫarši and Kimaš were destroyed.”
+<count><interpretation modern_unit="" modern_value="1" system="cardinal" unit="" value="1"/>1(disz)</count> <com dist="1">udu</com> ... 
+{d}en-lil2 
+<count><interpretation modern_unit="" modern_value="none" system="unknown" unit="" value="none"/>1(disz) ...</count> 
+{d}nin-lil2 
+siskur2 sza3 <com dist="1">e2-a</com> 
+<count><interpretation modern_unit="" modern_value="none" system="unknown" unit="" value="none"/>2(disz) ...</count> du6-ku3 
+<count><interpretation modern_unit="" modern_value="none" system="unknown" unit="" value="none"/>1(disz) ...</count> {d}nin-hur-sag 
+<count><interpretation modern_unit="" modern_value="none" system="unknown" unit="" value="none"/>1(disz) ...</count> {d}nusku 
+<count><interpretation modern_unit="" modern_value="none" system="unknown" unit="" value="none"/>1(disz) ...</count> {d}nin-urta 
+<count><interpretation modern_unit="" modern_value="none" system="unknown" unit="" value="none"/>1(disz) ...</count> {d}inanna 
+<count><interpretation modern_unit="" modern_value="1" system="cardinal" unit="" value="1"/>1(disz)</count> <com dist="1">udu</com> niga {d}nin-sun2 
+<count><interpretation modern_unit="" modern_value="1" system="cardinal" unit="" value="1"/>1(disz)</count> <com dist="1">masz2-gal</com> niga {d}lugal-banda3{da} 
+<count><interpretation modern_unit="" modern_value="1" system="cardinal" unit="" value="1"/>1(disz)</count> <com dist="1">masz2-gal</com> {d}szul-gi 
+<count><interpretation modern_unit="" modern_value="1" system="cardinal" unit="" value="1"/>1(disz)</count> <com dist="1">masz2-gal</com> {d}nin-ti2-ug5-ga 
+siskur2 ge6 
+{d}nansze-GIR2-gal maszkim 
+iti u4 <count><interpretation modern_unit="" modern_value="21" system="cardinal" unit="" value="21"/>2(u) 1(disz)</count> ba-zal 
+szunigin <count><interpretation modern_unit="" modern_value="8" system="cardinal" unit="" value="8"/>8(disz)</count> <com dist="1">udu</com> niga <count><interpretation modern_unit="" modern_value="6" system="cardinal" unit="" value="6"/>6(disz)</count> masz2-gal niga 
+ki na-lu5-ta ba-zi 
+iti sze-sag11-ku5 
+mu ha-ar-szi{ki} <com dist="1">u3</com> ki-masz{ki} ba-hul 
+</commodities>

@@ -1,0 +1,18 @@
+<commodities>
+#P128535 = RTC 382
+#atf: lang sux
+... 
+<count><interpretation modern_unit="" modern_value="1" system="cardinal" unit="" value="1"/>1(disz)</count> id-gur2 <com dist="1">i3</com> 
+{d}dam-gal-nun-ka-ni-sa6 lu2 {gesz}tukul 
+sa-bu-um{ki}-ta du-ni 
+<count><interpretation modern_unit="l" modern_value="10" system="dry capacity" unit="sila3" value="10"/>1(ban2)</count> <com dist="1">kasz</com> <count><interpretation modern_unit="l" modern_value="10" system="dry capacity" unit="sila3" value="10"/>1(ban2)</count> ninda 
+<count><interpretation modern_unit="" modern_value="0.16666666666666666" system="cardinal" unit="" value="0.16666666666666666"/>1(u) gin2</count> i3-gesz 
+elam hu-li2-bar-me 
+sa-bu-um{ki}-ta du-ni 
+u3-na-a-du11 sukkal-mah-ta 
+<count><interpretation modern_unit="l" modern_value="2" system="liquid capacity" unit="sila3" value="2"/><interpretation modern_unit="l" modern_value="2" system="dry capacity" unit="sila3" value="2"/>2(disz) sila3</count> <com dist="1">kasz</com> <count><interpretation modern_unit="l" modern_value="2" system="liquid capacity" unit="sila3" value="2"/><interpretation modern_unit="l" modern_value="2" system="dry capacity" unit="sila3" value="2"/>2(disz) sila3</count> ninda 
+<count><interpretation modern_unit="" modern_value="1" system="cardinal" unit="" value="1"/>1(disz)</count> id-gur2 <com dist="1">i3</com> sza3-iri 
+<count><interpretation modern_unit="l" modern_value="30" system="liquid capacity" unit="sila3" value="30"/>1(disz) dug</count> <com dist="1">dida</com> 
+<count><interpretation modern_unit="l" modern_value="5" system="liquid capacity" unit="sila3" value="5"/><interpretation modern_unit="l" modern_value="5" system="dry capacity" unit="sila3" value="5"/>5(disz) sila3</count> ninda kaskal-sze3 
+bu3-a lu2 <com dist="1">{gesz}tukul</com> 
+</commodities>

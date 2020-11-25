@@ -1,0 +1,15 @@
+<commodities>
+#P113903 = MVN 03, 343
+#atf: lang sux
+<count><interpretation modern_unit="l" modern_value="0.0004629629629629629" system="dry capacity" unit="sila3" value="0.0004629629629629629"/>5(asz) sze gur</count> a-ki-a-ni 
+<count><interpretation modern_unit="" modern_value="20" system="cardinal" unit="" value="20"/>2(u)</count> x-{d}nisaba 
+<count><interpretation modern_unit="l" modern_value="300" system="dry capacity" unit="sila3" value="300"/>1(asz) gur</count> x-mu-ti 
+<count><interpretation modern_unit="" modern_value="0.0009259259259259259" system="cardinal" unit="" value="0.0009259259259259259"/>1(u) sze</count> en-nam 
+<com dist="1">ku3-bi</com> <count><interpretation modern_unit="" modern_value="0.09444444444444444" system="cardinal" unit="" value="0.09444444444444444"/>5(disz) 2/3(disz) gin2</count> 
+<count><interpretation modern_unit="g" modern_value="60000.00000000001" system="weight" unit="gin2" value="7200"/>2(asz) gu2</count> <com dist="1">SZIM</com> saga 
+<count><interpretation modern_unit="g" modern_value="75000.0" system="weight" unit="gin2" value="9000"/>2(asz) gu2 3(u) ma-na</count> <com dist="1">SZIM</com> du 
+ku3-bi <count><interpretation modern_unit="" modern_value="0.35" system="cardinal" unit="" value="0.35"/>1(disz) gin2 igi-3(disz)-gal2</count> 
+<count>2/3(|ninda2x(sze.2(asz))|)</count> <com dist="1">ku3-babbar</com> sa10 BULUG3-sze3 
+<count><interpretation modern_unit="l" modern_value="2" system="liquid capacity" unit="sila3" value="2"/><interpretation modern_unit="l" modern_value="2" system="dry capacity" unit="sila3" value="2"/>2(disz) sila3</count> <com dist="1">i3-gesz</com> ku3-bi sze 
+{d}iszkur-ta-lu2 
+</commodities>

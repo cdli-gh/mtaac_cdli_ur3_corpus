@@ -1,0 +1,26 @@
+<commodities>
+#P416455 = CDLJ 2012/1 §4.04
+#atf: lang sux
+#tr.en: 3 sheep, barley-fed, 1 lamb,
+#tr.en: of Lamma-mu;
+#tr.en: 2 oxen, 16 sheep,
+#tr.en: 3 bucks, 1 goat,
+#tr.en: of Šarrum-bani the overseer;
+#tr.en: 1 lamb of the governor of Girsu;
+#tr.en: 2 lambs of the governor of Nippur;
+#tr.en: delivery;
+#tr.en: month: “Festival of An,”
+#tr.en: year: “The high-priestess of Nanna by means of extispicy was chosen.”
+#tr.en: 23rd day.
+<count><interpretation modern_unit="" modern_value="3" system="cardinal" unit="" value="3"/>3(disz)</count> <com dist="1">udu</com> niga <count><interpretation modern_unit="" modern_value="1" system="cardinal" unit="" value="1"/>1(disz)</count> sila4 
+{d}lamma-mu 
+<count><interpretation modern_unit="" modern_value="2" system="cardinal" unit="" value="2"/>2(disz)</count> <com dist="1">gu4</com> <count><interpretation modern_unit="" modern_value="16" system="cardinal" unit="" value="16"/>1(u) 6(disz)</count> udu 
+<count><interpretation modern_unit="" modern_value="3" system="cardinal" unit="" value="3"/>3(disz)</count> masz2-gal <count><interpretation modern_unit="" modern_value="1" system="cardinal" unit="" value="1"/>1(disz)</count> masz2 
+szar-ru-um-ba-ni nu-banda3 
+<count><interpretation modern_unit="" modern_value="1" system="cardinal" unit="" value="1"/>1(disz)</count> <com dist="1">sila4</com> ensi2 gir2-su{ki} 
+<count><interpretation modern_unit="" modern_value="2" system="cardinal" unit="" value="2"/>2(disz)</count> <com dist="1">sila4</com> ensi2 nibru{ki} 
+mu-kux(DU) 
+iti ezem-an-na 
+mu en {d}nanna masz2-e i3-pa3 
+u4 <count><interpretation modern_unit="" modern_value="20" system="cardinal" unit="" value="20"/>2(u)</count> <count><interpretation modern_unit="" modern_value="3" system="cardinal" unit="" value="3"/>3(disz)-kam</count> 
+</commodities>

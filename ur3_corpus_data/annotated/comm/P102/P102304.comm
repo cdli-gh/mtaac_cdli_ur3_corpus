@@ -1,0 +1,31 @@
+<commodities>
+#P102304 = ASJ 09, 250 29
+#atf: lang sux
+#tr.en: 370 bundles, fodder-reed,
+#tr.en: their bales at 5 bundles each,
+#tr.en: reeds of dumugi and fisheries laborers;
+#tr.en: 300 bundles, fodder-reed,
+#tr.en: their bales at 6 bundles each,
+#tr.en: from Ur-Enlil,
+#tr.en: under seal of Gurzaran,
+#tr.en: via Basaga,
+#tr.en: storehouse of A’abba;
+#tr.en: month: “Mineš,”
+# some text moved to next line
+#tr.en: year after: “Kimaš was destroyed.”
+#tr.en: Gurzaran
+#tr.en: son of Alla.
+<count><interpretation modern_unit="" modern_value="370" system="cardinal" unit="" value="370"/>6(gesz2) 1(u)</count> sa gi-zi 
+gu-nigin2-ba <count><interpretation modern_unit="" modern_value="5" system="cardinal" unit="" value="5"/>5(disz)</count> sa-ta 
+gi dumu-gi7 szu-ku6-ne 
+<count><interpretation modern_unit="" modern_value="300" system="cardinal" unit="" value="300"/>5(gesz2)</count> sa gi-zi 
+gu-nigin2-ba <count><interpretation modern_unit="" modern_value="6" system="cardinal" unit="" value="6"/>6(disz)</count> sa-ta 
+ki ur-{d}en-lil2-la2-ta 
+kiszib3 gur4-za-an 
+giri3 ba-saga 
+ga2-nun a-ab-ba 
+iti <com dist="1">min-esz3</com> 
+mu us2-sa ki-masz{ki} ba-hul 
+gur4-za-an 
+dumu al-la 
+</commodities>

@@ -1,0 +1,16 @@
+<commodities>
+#P131341 = SAT 1, 232
+#atf: lang sux
+# calculation: something wrong in l. 1; 7 x 30 x 12 = 2520, more than total that does not include ll. 3-4
+<count><interpretation modern_unit="" modern_value="7" system="cardinal" unit="" value="7"/>7(disz)</count> <com dist="1">gukkal</com> <count><interpretation modern_unit="l" modern_value="1" system="liquid capacity" unit="sila3" value="1"/><interpretation modern_unit="l" modern_value="1" system="dry capacity" unit="sila3" value="1"/>1(disz) sila3</count> sze-ta 
+iti <count><interpretation modern_unit="" modern_value="12" system="cardinal" unit="" value="12"/>1(u) 2(disz)-sze3</count> 
+... <count><interpretation modern_unit="l" modern_value="1" system="liquid capacity" unit="sila3" value="1"/><interpretation modern_unit="l" modern_value="1" system="dry capacity" unit="sila3" value="1"/>1(disz) sila3</count> <com dist="1">sze-ta</com> 
+iti n-sze3 
+sze-bi <count>7(asz) 4(barig) 3(ban2) sze gur</count> lugal 
+sza3-gal <com dist="1">gukkal</com> 
+ki lugal-lu2-sa6-sa6-ta 
+nig2-u2-rum szu ba-ti 
+inim na-ni-ta 
+iti mu-szu-du7 
+mu en {d}nanna kar-zi-da ba-hun 
+</commodities>

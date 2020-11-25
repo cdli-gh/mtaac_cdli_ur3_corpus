@@ -1,0 +1,49 @@
+<commodities>
+#P416424 = CDLJ 2012/1 §3.07
+#atf: lang sux
+#tr.en: 1 barig 3 ban2, barley ration, royal (measure):
+#tr.en: Ur-nigar,
+#tr.en: 1 barig 3 ban2: Hebu’e,
+#tr.en: 1 barig 3 ban2: Šarakam,
+#tr.en: 1 barig 3 ban2: Šu-ešdar,
+#tr.en: 1 barig 3 ban2: Lu-girizal,
+#tr.en: 1 barig 3 ban2: Eki,
+#tr.en: 1 barig 3 ban2: ...,
+#tr.en: 1 barig 3 ban2: Šagubi,
+#tr.en: 1 barig 3 ban2: Dingir-andul,
+#tr.en: 1 barig 3 ban2: Ur-Šulpa’e,
+#tr.en: 1 barig 3 ban2: Akalla, second(?),
+#tr.en: 1 barig 3 ban2: Luzimu,
+#tr.en: 1 barig 3 ban2: Akalla;
+#tr.en: total: 3 gur 4 barig 3 ban2 of barley,
+#tr.en: barley rations of the new year;
+#tr.en: foreman: Lu-Utu,
+#tr.en: from the field Kamari;
+#tr.en: part of the barley loan;
+#tr.en: under seal of Eki;
+#tr.en: month: “min-eš,”
+#tr.en: year: “Amar-Sin destroyed Urbilum.”
+# possibly no legend
+<count><interpretation modern_unit="l" modern_value="90" system="dry capacity" unit="sila3" value="90"/>1(barig) 3(ban2)</count> <com dist="1">sze-ba</com> gur lugal 
+ur-nigar{gar} 
+<count><interpretation modern_unit="l" modern_value="90" system="dry capacity" unit="sila3" value="90"/>1(barig) 3(ban2)</count> he2-eb-bu-e 
+<count><interpretation modern_unit="l" modern_value="90" system="dry capacity" unit="sila3" value="90"/>1(barig) 3(ban2)</count> {d}szara2-kam 
+<count><interpretation modern_unit="l" modern_value="90" system="dry capacity" unit="sila3" value="90"/>1(barig) 3(ban2)</count> szu-esz18-dar 
+<count><interpretation modern_unit="l" modern_value="90" system="dry capacity" unit="sila3" value="90"/>1(barig) 3(ban2)</count> lu2-giri17-zal 
+<count><interpretation modern_unit="l" modern_value="90" system="dry capacity" unit="sila3" value="90"/>1(barig) 3(ban2)</count> e2-ki 
+<count><interpretation modern_unit="" modern_value="none" system="unknown" unit="" value="none"/>1(barig) 3(ban2) ... x</count> 
+<count><interpretation modern_unit="l" modern_value="90" system="dry capacity" unit="sila3" value="90"/>1(barig) 3(ban2)</count> sza3-gu2-bi 
+<count><interpretation modern_unit="l" modern_value="90" system="dry capacity" unit="sila3" value="90"/>1(barig) 3(ban2)</count> dingir-an-dul3 
+<count><interpretation modern_unit="l" modern_value="90" system="dry capacity" unit="sila3" value="90"/>1(barig) 3(ban2)</count> ur-{d}szul-pa-e3 
+<count><interpretation modern_unit="l" modern_value="90" system="dry capacity" unit="sila3" value="90"/>1(barig) 3(ban2)</count> a-kal-la <com dist="1">min</com> 
+<count><interpretation modern_unit="l" modern_value="90" system="dry capacity" unit="sila3" value="90"/>1(barig) 3(ban2)</count> lu2-zi-mu 
+<count><interpretation modern_unit="l" modern_value="90" system="dry capacity" unit="sila3" value="90"/>1(barig) 3(ban2)</count> a-kal-la 
+szunigin <count>3(asz) 4(barig) 3(ban2) sze gur</count> 
+<com dist="1">sze-ba</com> za3-mu 
+ugula lu2-{d}utu 
+a-sza3 ka-ma-ri2{ki}-ta 
+sza3 sze ur5-ra-ka 
+kiszib3 e2-ki 
+iti min-esz3 
+mu {d}amar-{d}suen ur-bi2-lum{ki} mu-hul 
+</commodities>

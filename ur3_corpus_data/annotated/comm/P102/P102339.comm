@@ -1,0 +1,52 @@
+<commodities>
+#P102339 = ASJ 09, 263 63
+#atf: lang sux
+#tr.en: n nanny goats, šugid offerings,
+#tr.en: from ...-ba-a, the herdsman;
+#tr.en: 4 n sheep,
+#tr.en: from Lugal-melam;
+#tr.en: 3 ewes, from Namḫani;
+#tr.en: (total:) 33,
+#tr.en: from the herdsmen;
+#tr.en: 1 sheep, 3 ewes,
+#tr.en: 3 billy goats, 4 nanny goats,
+#tr.en: via ARADdam;
+#tr.en: (total:) 11,
+#tr.en: from Nur-Suen;
+#tr.en: (total:) 44,
+#tr.en: foreman: Ur-nigar, cattle manager;
+#tr.en: 6 nanny goats, 1 female kid,
+#tr.en: 1 billy goat, full-grown, 5 billy goats,
+#tr.en: from Lu-Baba;
+#tr.en: (total:) 13,
+#tr.en: foreman: Ipḫur, cattle manager;
+#tr.en: (total:) 57,
+#tr.en: šugid delivery,
+#tr.en: Duga accepted;
+#tr.en: month: “Great festival,”
+#tr.en: year: “Šu-Suen is king.”
+n ud5 szu-gid2 
+ki ...-ba-a na-gada-ta 
+<count><interpretation modern_unit="" modern_value="4" system="cardinal" unit="" value="4"/>4(disz)</count> n <com dist="1">udu</com> 
+ki lugal-me-lam2-ta 
+<count><interpretation modern_unit="" modern_value="3" system="cardinal" unit="" value="3"/>3(disz)</count> <com dist="1">u8</com> ki nam-ha-ni-ta 
+($ blank space $) <count><interpretation modern_unit="" modern_value="33" system="cardinal" unit="" value="33"/>3(u) 3(disz)</count> 
+ki sipa-e-ne-ta 
+<count><interpretation modern_unit="" modern_value="1" system="cardinal" unit="" value="1"/>1(disz)</count> <com dist="1">udu</com> <count><interpretation modern_unit="" modern_value="3" system="cardinal" unit="" value="3"/>3(disz)</count> u8 
+<count><interpretation modern_unit="" modern_value="3" system="cardinal" unit="" value="3"/>3(disz)</count> masz2 <count><interpretation modern_unit="" modern_value="4" system="cardinal" unit="" value="4"/>4(disz)</count> ud5 
+giri3 ARAD2-dam 
+($ blank space $) <count><interpretation modern_unit="" modern_value="none" system="unknown" unit="" value="none"/>1(u) 1(disz) x</count> 
+ki nu-ur2-{d}suen-ta 
+($ blank space $) <count><interpretation modern_unit="" modern_value="44" system="cardinal" unit="" value="44"/>4(u) 4(disz)</count> 
+ugula ur-nigar{gar} szusz3 
+<count><interpretation modern_unit="" modern_value="6" system="cardinal" unit="" value="6"/>6(disz)</count> <com dist="1">ud5</com> <count><interpretation modern_unit="" modern_value="1" system="cardinal" unit="" value="1"/>1(disz)</count> {munus}asz2-gar3 
+<count><interpretation modern_unit="" modern_value="1" system="cardinal" unit="" value="1"/>1(disz)</count> masz2-gal <count><interpretation modern_unit="" modern_value="5" system="cardinal" unit="" value="5"/>5(disz)</count> masz2 
+ki lu2-{d}ba-ba6-ta 
+($ blank space $) <count><interpretation modern_unit="" modern_value="13" system="cardinal" unit="" value="13"/>1(u) 3(disz)</count> 
+ugula ip-hur szusz3 
+($ blank space $) <count><interpretation modern_unit="" modern_value="57" system="cardinal" unit="" value="57"/>5(u) 7(disz)</count> 
+<com dist="1">szu-gid2</com> mu-kux(DU) 
+du11-ga i3-dab5 
+iti ezem-mah 
+mu {d}szu-{d}suen lugal 
+</commodities>

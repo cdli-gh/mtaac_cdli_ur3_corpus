@@ -1,0 +1,19 @@
+<commodities>
+#P424393 = WCMA 20.1.26
+#atf: lang sux
+#tr.en: 1 hazin tool,
+#tr.en: its weight: 1 mina 2 shekels—
+#tr.en: from Ursaga
+#tr.en: Lamu
+#tr.en: received;
+#tr.en: month: “Bricks placed in molds,”
+#tr.en: year: “Šulgi the king build the wall of the land.”
+# suggested reading Tohru Ozaki
+<count><interpretation modern_unit="" modern_value="1" system="cardinal" unit="" value="1"/>1(disz)</count> <com dist="1">{uruda}ha-zi-in</com> 
+ki-la2-bi <count><interpretation modern_unit="g" modern_value="516.6666666666667" system="weight" unit="gin2" value="62"/>1(disz) ma-na 2(disz) gin2</count> 
+<com dist="1">ki</com> ur-saga-ta 
+la-a-mu 
+szu ba-ti 
+iti sig4-u3-szub-ba-ga2-ra 
+mu {d}szul-gi lugal-e bad3 ma-da mu-du3-a 
+</commodities>

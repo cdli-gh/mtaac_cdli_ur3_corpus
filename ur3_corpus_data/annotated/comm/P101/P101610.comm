@@ -1,0 +1,30 @@
+<commodities>
+#P101610 = AnOr 07, 315
+#atf: lang sux
+x {uruda}gur10 <count><interpretation modern_unit="" modern_value="12" system="cardinal" unit="" value="12"/>1(u) 2(disz)</count> gin2-ta 
+kiszib3 ur-{d}gesztin-an-ka 
+<count><interpretation modern_unit="" modern_value="15" system="cardinal" unit="" value="15"/>1(u) 5(disz)</count> <com dist="1">{uruda}gur10</com> <count><interpretation modern_unit="" modern_value="12" system="cardinal" unit="" value="12"/>1(u) 2(disz)</count> gin2-ta 
+kiszib3 szesz-a-ni 
+<count><interpretation modern_unit="" modern_value="20" system="cardinal" unit="" value="20"/>2(u)</count> <com dist="1">{uruda}gur10</com> <count><interpretation modern_unit="" modern_value="12" system="cardinal" unit="" value="12"/>1(u) 2(disz)</count> gin2-ta 
+kiszib3 {d}szara2-... 
+<count><interpretation modern_unit="" modern_value="3" system="cardinal" unit="" value="3"/>3(disz)</count> <com dist="1">{uruda}gur10</com> <count><interpretation modern_unit="" modern_value="12" system="cardinal" unit="" value="12"/>1(u) 2(disz)</count> gin2-ta 
+x <com dist="1">{uruda}ha-bu3-da</com> <count><interpretation modern_unit="" modern_value="0.5" system="cardinal" unit="" value="0.5"/>1/2(disz)</count> ma-na-ta 
+kiszib3 a-tu 
+x <com dist="1">{uruda}gur10</com> <count><interpretation modern_unit="" modern_value="12" system="cardinal" unit="" value="12"/>1(u) 2(disz)</count> gin2-ta 
+kiszib3 {d}szara2-a-mu lu2 <com dist="1">gi-zi</com> 
+x {uruda}x ... <count><interpretation modern_unit="" modern_value="2" system="cardinal" unit="" value="2"/>2(disz)</count> gin2-ta 
+kiszib3 ... e2 ... 
+kiszib3 ... dumu lugal-nig2-lagar-e 
+x <com dist="1">{uruda}ha-bu3-da</com> <count><interpretation modern_unit="" modern_value="0.5" system="cardinal" unit="" value="0.5"/>1/2(disz)</count> ma-na-ta 
+kiszib3 a-ba-{d}nanna-gin7 
+x <com dist="1">{uruda}ha-bu3-da</com> <count><interpretation modern_unit="" modern_value="0.5" system="cardinal" unit="" value="0.5"/>1/2(disz)</count> ma-na-ta 
+kiszib3 lu2-dingir-ra dumu ha-ba-lu5-ge2 
+<count><interpretation modern_unit="" modern_value="8" system="cardinal" unit="" value="8"/>8(disz)</count> <com dist="1">{uruda}ha-bu3-da</com> <count><interpretation modern_unit="" modern_value="0.5" system="cardinal" unit="" value="0.5"/>1/2(disz)</count> ma-na-ta 
+kiszib3 lu2-{d}nin-szubur dumu lu2-he2-gal2 
+<count><interpretation modern_unit="" modern_value="1" system="cardinal" unit="" value="1"/>1(disz)</count> <com dist="1">a2-asz-gar</com> zabar <count><interpretation modern_unit="g" modern_value="1000.0000000000001" system="weight" unit="gin2" value="120"/>2(disz) ma-na</count> 
+kiszib3 ur-e2-masz 
+<count><interpretation modern_unit="" modern_value="1" system="cardinal" unit="" value="1"/>1(disz)</count> <com dist="1">a2-asz-gar</com> zabar <count><interpretation modern_unit="g" modern_value="1000.0000000000001" system="weight" unit="gin2" value="120"/>2(disz) ma-na</count> 
+<count><interpretation modern_unit="" modern_value="0.016666666666666666" system="cardinal" unit="" value="0.016666666666666666"/>1(disz) gin2</count> zabar <count><interpretation modern_unit="g" modern_value="500.00000000000006" system="weight" unit="gin2" value="60"/>1(disz) ma-na</count> 
+kiszib3 ur-{d}szara2 dumu szesz-kal-la 
+... <com dist="1">ha-zi-in</com> zabar ... {uruda}ha-bu3-da <count><interpretation modern_unit="" modern_value="none" system="unknown" unit="" value="none"/>1/2(disz) ma-na ...</count> 
+</commodities>

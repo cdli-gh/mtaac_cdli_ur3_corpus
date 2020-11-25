@@ -1,0 +1,64 @@
+<commodities>
+#P235702 = Fs Pettinato 044, 7
+#atf: lang sux
+#tr.en: ... grain-fed sheep, second quality,
+#tr.en: ... grain-fed sheep, 3rd quality,
+#tr.en: (for) ...
+#tr.en: 1 grain-fed sheep, 3rd quality,
+#tr.en: 1 grain-fed sheep, 4th quality,
+#tr.en: 1 grain-fed adult billygoat, 4th quality,
+#tr.en: (for) Enlil.
+#tr.en: 1 grain-fed nanny goat, ...,
+#tr.en: 1 grain-fed ..., fine, 2nd quality,
+#tr.en: 1 grain-fed ..., 3rd quality,
+#tr.en: 1 grain-fed sheep, 4th quality,
+#tr.en: (for) Enki
+#tr.en: ... grain-fed sheep, 4th quality,
+#tr.en: (for) Ninsun.
+#tr.en: 1 grain-fed sheep, 4th quality,
+#tr.en: (for) Inanna.
+#tr.en:
+#tr.en: ... the 19th day having passed,
+#tr.en: from ...(’s account)
+#tr.en: booked out.
+#tr.en: Month: “Great Festival” (9th month, Drehem calendar)
+#tr.en: Year: “Šu-Suen the king destroyed Simanum” (Šu-Suen 3)
+#tr.en: Šu-Suen,
+#tr.en: mighty king,
+#tr.en: king of Ur,
+#tr.en: king of the four corners:
+#tr.en: Ur-Šulpa'e
+#tr.en: the scribe,
+#tr.en: son of Ur-Haya,
+#tr.en: is your servant.
+... udu niga saga us2 
+... udu niga <count><interpretation modern_unit="" modern_value="3" system="cardinal" unit="" value="3"/>3(disz)-kam</count> us2 
+{d}x-a-x 
+<count><interpretation modern_unit="" modern_value="1" system="cardinal" unit="" value="1"/>1(disz)</count> <com dist="1">udu</com> niga <count><interpretation modern_unit="" modern_value="3" system="cardinal" unit="" value="3"/>3(disz)-kam</count> us2 
+<count><interpretation modern_unit="" modern_value="1" system="cardinal" unit="" value="1"/>1(disz)</count> udu niga <count><interpretation modern_unit="" modern_value="4" system="cardinal" unit="" value="4"/>4(disz)-kam</count> us2 
+<count><interpretation modern_unit="" modern_value="1" system="cardinal" unit="" value="1"/>1(disz)</count> masz2-gal niga <count><interpretation modern_unit="" modern_value="4" system="cardinal" unit="" value="4"/>4(disz)-kam</count> us2 
+{d}en-lil2 
+<count><interpretation modern_unit="" modern_value="1" system="cardinal" unit="" value="1"/>1(disz)</count> <com dist="1">ud5</com> niga szu-x-x 
+<count><interpretation modern_unit="" modern_value="none" system="unknown" unit="" value="none"/>1(disz) ...</count> niga saga <com dist="1">us2</com> 
+<count><interpretation modern_unit="" modern_value="none" system="unknown" unit="" value="none"/>1(disz) ...</count> niga <count><interpretation modern_unit="" modern_value="3" system="cardinal" unit="" value="3"/>3(disz)-kam</count> <com dist="1">us2</com> 
+<count><interpretation modern_unit="" modern_value="1" system="cardinal" unit="" value="1"/>1(disz)</count> udu niga <count><interpretation modern_unit="" modern_value="4" system="cardinal" unit="" value="4"/>4(disz)-kam</count> us2 
+{d}en-ki 
+... <com dist="1">udu</com> niga <count><interpretation modern_unit="" modern_value="4" system="cardinal" unit="" value="4"/>4(disz)-kam</count> us2 
+{d}nin-sun2 
+<count><interpretation modern_unit="" modern_value="1" system="cardinal" unit="" value="1"/>1(disz)</count> <com dist="1">udu</com> niga <count><interpretation modern_unit="" modern_value="4" system="cardinal" unit="" value="4"/>4(disz)-kam</count> us2 
+{d}inanna 
+x x x iti 
+u4 <count><interpretation modern_unit="" modern_value="19" system="cardinal" unit="" value="19"/>2(u) la2 1(disz)</count> ba-zal 
+ki ...-x-ta 
+ba-zi 
+iti ezem-mah 
+mu {d}szu-{d}suen <com dist="1">lugal-e</com> si-ma-num2{ki} mu-hul 
+{d}szu-{d}suen 
+lugal kal-ga 
+lugal uri5{ki}-ma 
+lugal an ub-da limmu2-ba 
+ur-{d}szul-pa-e3 
+dub-sar 
+dumu ur-{d}ha-ia3 
+ARAD2-zu 
+</commodities>

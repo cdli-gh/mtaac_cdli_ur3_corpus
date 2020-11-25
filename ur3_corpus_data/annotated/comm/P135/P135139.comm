@@ -1,0 +1,19 @@
+<commodities>
+#P135139 = TRU 375
+#atf: lang sux
+x <count><interpretation modern_unit="l" modern_value="240" system="dry capacity" unit="sila3" value="240"/>4(barig)</count> <com dist="1">gig</com> gur 
+a-ra2 <count><interpretation modern_unit="" modern_value="1" system="cardinal" unit="" value="1"/>1(disz)-kam</count> 
+x <count><interpretation modern_unit="l" modern_value="2220" system="dry capacity" unit="sila3" value="2220"/>7(asz) 2(barig)</count> <com dist="1">gig</com> gur 
+a-ra2 <count><interpretation modern_unit="" modern_value="2" system="cardinal" unit="" value="2"/>2(disz)-kam</count> 
+<count><interpretation modern_unit="" modern_value="71" system="cardinal" unit="" value="71"/>1(gesz2) 1(u) 1(disz)</count> <com dist="1">gig</com> a-ra2 <count><interpretation modern_unit="" modern_value="3" system="cardinal" unit="" value="3"/>3(disz)-kam</count> 
+<count><interpretation modern_unit="" modern_value="0.0898148148148148" system="cardinal" unit="" value="0.0898148148148148"/>1(geszu) 6(gesz2) 1(u) sze</count> ki bu-zu-ta 
+<count><interpretation modern_unit="l" modern_value="15000" system="dry capacity" unit="sila3" value="15000"/>5(u) gur sze</count> kur ba-ri2-ga gibil <count><interpretation modern_unit="" modern_value="60" system="cardinal" unit="" value="60"/>1(gesz2)-ta</count> 
+a-ra2 <count><interpretation modern_unit="" modern_value="1" system="cardinal" unit="" value="1"/>1(disz)-kam</count> 
+<count><interpretation modern_unit="l" modern_value="12000" system="dry capacity" unit="sila3" value="12000"/>4(u) gur sze</count> kur ba-ri2-ga <com dist="1">min-na-bi-ta</com> 
+a-ra2 <count><interpretation modern_unit="" modern_value="2" system="cardinal" unit="" value="2"/>2(disz)-kam</count> 
+<count><interpretation modern_unit="l" modern_value="36000" system="dry capacity" unit="sila3" value="36000"/>2(gesz2) gur</count> a-ra2 <count><interpretation modern_unit="" modern_value="3" system="cardinal" unit="" value="3"/>3(disz)-kam</count> 
+<count><interpretation modern_unit="l" modern_value="24000" system="dry capacity" unit="sila3" value="24000"/>1(gesz2) 2(u) gur</count> a-ra2 <count><interpretation modern_unit="" modern_value="4" system="cardinal" unit="" value="4"/>4(disz)-kam</count> 
+<count><interpretation modern_unit="l" modern_value="6000" system="dry capacity" unit="sila3" value="6000"/>2(u) gur</count> sze-numun-sze3 
+a-ra2 <count><interpretation modern_unit="" modern_value="5" system="cardinal" unit="" value="5"/>5(disz)-kam</count> 
+x <count>4(ban2) sze</count> kur a-ra2 <count><interpretation modern_unit="" modern_value="6" system="cardinal" unit="" value="6"/>6(disz)-kam</count> 
+</commodities>

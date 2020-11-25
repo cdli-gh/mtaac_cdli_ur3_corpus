@@ -1,0 +1,12 @@
+<commodities>
+#P112067 = JCS 28, 220 43
+#atf: lang sux
+<count><interpretation modern_unit="l" modern_value="31" system="dry capacity" unit="sila3" value="31"/>3(ban2) 1(disz) sila3</count> <com dist="1">dabin</com> 
+u4 <count><interpretation modern_unit="" modern_value="10" system="cardinal" unit="" value="10"/>1(u)</count> <count><interpretation modern_unit="" modern_value="7" system="cardinal" unit="" value="7"/>7(disz)-kam</count> 
+<count><interpretation modern_unit="l" modern_value="37" system="dry capacity" unit="sila3" value="37"/>3(ban2) 7(disz) sila3</count> <com dist="1">dabin</com> 
+u4 <count><interpretation modern_unit="" modern_value="10" system="cardinal" unit="" value="10"/>1(u)</count> <count><interpretation modern_unit="" modern_value="8" system="cardinal" unit="" value="8"/>8(disz)-kam</count> 
+<count><interpretation modern_unit="l" modern_value="8" system="liquid capacity" unit="sila3" value="8"/><interpretation modern_unit="l" modern_value="8" system="dry capacity" unit="sila3" value="8"/>8(disz) sila3</count> <com dist="1">dabin</com> 
+u4 <count><interpretation modern_unit="" modern_value="20" system="cardinal" unit="" value="20"/>2(u) la2</count> <count><interpretation modern_unit="" modern_value="1" system="cardinal" unit="" value="1"/>1(disz)-kam</count> 
+<com dist="1">ki</com> lu2-dingir-ra-ta 
+iti nesag 
+</commodities>

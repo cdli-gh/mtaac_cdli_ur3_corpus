@@ -1,0 +1,24 @@
+<commodities>
+#P143161 = ITT 3, 06605
+#atf: lang sux
+a2 geme2-bi ... <count><interpretation modern_unit="" modern_value="62" system="cardinal" unit="" value="62"/>1(gesz2) 2(disz)</count> 
+a2 lu2 azlag2-bi <count><interpretation modern_unit="" modern_value="90" system="cardinal" unit="" value="90"/>1(gesz2) 3(u)</count> 
+<com dist="1">naga-bi</com> <count><interpretation modern_unit="l" modern_value="10" system="dry capacity" unit="sila3" value="10"/>1(ban2)</count> 
+<count><interpretation modern_unit="" modern_value="1" system="cardinal" unit="" value="1"/>1(disz)</count> <com dist="1">tug2</com> bar-dul5 gada szar3 
+a2 geme2-bi <count><interpretation modern_unit="" modern_value="1080" system="cardinal" unit="" value="1080"/>1(geszu) 8(gesz2)</count> 
+a2 lu2 azlag2-bi <count><interpretation modern_unit="" modern_value="120" system="cardinal" unit="" value="120"/>2(gesz2)</count> 
+<com dist="1">naga-bi</com> <count><interpretation modern_unit="l" modern_value="10" system="dry capacity" unit="sila3" value="10"/>1(ban2)</count> 
+<count><interpretation modern_unit="" modern_value="1" system="cardinal" unit="" value="1"/>1(disz)</count> <com dist="1">tug2</com> ba-tab duh-hu-um szar3 
+a2 geme2-bi <count><interpretation modern_unit="" modern_value="480" system="cardinal" unit="" value="480"/>8(gesz2)</count> 
+a2 lu2 azlag2-bi ... <count><interpretation modern_unit="" modern_value="20" system="cardinal" unit="" value="20"/>2(u)</count> 
+a2 lu2 azlag2-bi x 
+<com dist="1">naga-bi</com> x 
+gu-bi x sa 
+<count><interpretation modern_unit="" modern_value="1" system="cardinal" unit="" value="1"/>1(disz)</count> tug2 nig2-lam2 ... 
+a2 <com dist="1">geme2-bi</com> x 
+a2 lu2 azlag2-bi x 
+i3-bi ... 
+naga-bi x 
+gu-bi x 
+<count><interpretation modern_unit="" modern_value="1" system="cardinal" unit="" value="1"/>1(disz)</count> <com dist="1">tug2</com> sza3-ga-du3 x 
+</commodities>

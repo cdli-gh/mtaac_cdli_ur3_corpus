@@ -1,0 +1,20 @@
+<commodities>
+#P337840 = OIM A05181 
+#atf: lang sux 
+szunigin <count><interpretation modern_unit="" modern_value="none" system="unknown" unit="" value="none"/>2(gesz2) x ...</count> szimaszgi 
+szunigin <count><interpretation modern_unit="" modern_value="120" system="cardinal" unit="" value="120"/>2(gesz2)</count> <com dist="1">{munus}asz2-gar3</com> niga 
+szunigin <count><interpretation modern_unit="" modern_value="218" system="cardinal" unit="" value="218"/>3(gesz2) 3(u) 8(disz)</count> <com dist="1">udu</com> 
+szunigin <count><interpretation modern_unit="" modern_value="71" system="cardinal" unit="" value="71"/>1(gesz2) 1(u) 1(disz)</count> <com dist="1">sila4</com> 
+szunigin <count><interpretation modern_unit="" modern_value="60" system="cardinal" unit="" value="60"/>1(gesz2)</count> <com dist="1">u8</com> 
+szunigin <count><interpretation modern_unit="" modern_value="120" system="cardinal" unit="" value="120"/>2(gesz2)</count> <com dist="1">masz2-gal</com> 
+szunigin <count><interpretation modern_unit="" modern_value="83" system="cardinal" unit="" value="83"/>1(gesz2) 2(u) 3(disz)</count> <com dist="1">masz2</com> 
+szunigin <count><interpretation modern_unit="" modern_value="40" system="cardinal" unit="" value="40"/>4(u)</count> <com dist="1">ud5</com> 
+szunigin <count><interpretation modern_unit="" modern_value="120" system="cardinal" unit="" value="120"/>2(gesz2)</count> <com dist="1">{munus}asz2-gar3</com> 
+szunigin <count><interpretation modern_unit="" modern_value="60" system="cardinal" unit="" value="60"/>1(gesz2)</count> <com dist="1">masz-da3</com> 
+szunigin <count><interpretation modern_unit="" modern_value="360" system="cardinal" unit="" value="360"/>6(gesz2)</count> <com dist="1">amar</com> masz-da3 
+... x 
+... u8 
+... masz2 
+... ud5 
+... masz-da3 
+</commodities>

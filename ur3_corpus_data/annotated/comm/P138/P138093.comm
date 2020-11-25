@@ -1,0 +1,33 @@
+<commodities>
+#P138093 = UET 3, 1767
+#atf: lang sux
+<count><interpretation modern_unit="" modern_value="none" system="unknown" unit="" value="none"/>6(asz) 4(barig) ...</count> 
+<count><interpretation modern_unit="l" modern_value="170" system="dry capacity" unit="sila3" value="170"/>2(barig) 5(ban2)</count> gesz ... 
+<count><interpretation modern_unit="" modern_value="none" system="unknown" unit="" value="none"/>4(geszu) 5(gesz2) 1/2(disz) ...</count> 
+<count><interpretation modern_unit="l" modern_value="610" system="dry capacity" unit="sila3" value="610"/>2(asz) 1(ban2)</count> gesz ... 
+<count><interpretation modern_unit="" modern_value="none" system="unknown" unit="" value="none"/>6(asz) 2(barig) 2(ban2) 5(disz) sila3 ...</count> 
+<count><interpretation modern_unit="" modern_value="none" system="unknown" unit="" value="none"/>2(gesz2) 3(asz) ...</count> 
+<count><interpretation modern_unit="" modern_value="none" system="unknown" unit="" value="none"/>3(disz) gin2 ...</count> 
+<count><interpretation modern_unit="" modern_value="none" system="unknown" unit="" value="none"/>1(gesz2) 1(u) 4(asz) ...</count> 
+<count>1(barig) 2(ban2) gin2</count> <com dist="1">sze-lu2</com> ... 
+<count><interpretation modern_unit="" modern_value="none" system="unknown" unit="" value="none"/>4(gesz2) 4(u) 2(asz) ...</count> 
+<count><interpretation modern_unit="" modern_value="none" system="unknown" unit="" value="none"/>1(disz) ...</count> 
+... sila3 <com dist="1">SZIM</com> szu2-szu2-ma gur 
+<count><interpretation modern_unit="l" modern_value="5" system="liquid capacity" unit="sila3" value="5"/><interpretation modern_unit="l" modern_value="5" system="dry capacity" unit="sila3" value="5"/>5(disz) sila3</count> <com dist="1">SZIM</com> sag-GAN 
+<count><interpretation modern_unit="l" modern_value="19876.5" system="dry capacity" unit="sila3" value="19876.5"/>1(gesz2) 6(asz) 1(barig) 1(ban2) 6(disz) 1/2(disz) sila3</count> gesz-li gur 
+<count><interpretation modern_unit="" modern_value="none" system="unknown" unit="" value="none"/>5(u) gu2 x ma-na</count> <com dist="1">{gesz}pu2</com> 
+<count><interpretation modern_unit="" modern_value="1" system="cardinal" unit="" value="1"/>1(asz)</count> al-la-ha-ru gur 
+<count><interpretation modern_unit="l" modern_value="23200" system="dry capacity" unit="sila3" value="23200"/>1(gesz2) 1(u) 7(asz) 1(barig) 4(ban2)</count> <com dist="1">im</com> ku3-sig17 gur 
+<count><interpretation modern_unit="" modern_value="1" system="cardinal" unit="" value="1"/>1(disz)</count> <com dist="1">{gesz}gu-za</com> szunigin gir4 
+ub KA kesz2-ra2 ku3-sig17 gar-ra 
+<count><interpretation modern_unit="" modern_value="2" system="cardinal" unit="" value="2"/>2(disz)</count> <com dist="1">gu-za</com> za3-bi gesz 
+... 
+... gar-ra 
+<count><interpretation modern_unit="" modern_value="82" system="cardinal" unit="" value="82"/>1(gesz2) 2(u) 2(disz)</count> <com dist="1">{gesz}gu-za</com> ezem x hi-a 
+<count><interpretation modern_unit="" modern_value="1" system="cardinal" unit="" value="1"/>1(disz)</count> {gesz}na2 ku3-sig17 gar-ra 
+<count><interpretation modern_unit="" modern_value="10" system="cardinal" unit="" value="10"/>1(u)</count> <com dist="1">{gesz}na2</com> ku3-babbar gar-ra 
+<count><interpretation modern_unit="" modern_value="50" system="cardinal" unit="" value="50"/>5(u)</count> <com dist="1">{gesz}na2</com> zabar gar-ra 
+<count><interpretation modern_unit="" modern_value="48" system="cardinal" unit="" value="48"/>4(u) 8(disz)</count> <com dist="1">{gesz}na2</com> uruda gar-ra 
+<count><interpretation modern_unit="" modern_value="1016" system="cardinal" unit="" value="1016"/>1(geszu) 6(gesz2) 5(u) 6(disz)</count> <com dist="1">{gesz}na2</com> hi-a 
+{gesz}na2 ... 
+</commodities>

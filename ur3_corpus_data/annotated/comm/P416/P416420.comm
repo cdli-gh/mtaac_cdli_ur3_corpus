@@ -1,0 +1,27 @@
+<commodities>
+#P416420 = CDLJ 2012/1 §4.33
+#atf: lang sux
+#tr.en: 2 oxen, 1 cow,
+#tr.en: 15 rams, 21 ewes,
+#tr.en: 1 lamb,
+#tr.en: 2 nanny goats,
+#tr.en: šugid for the Kitchen,
+#tr.en: 14th day,
+#tr.en: from Abbasaga(’s account)
+#tr.en: booked out;
+#tr.en: month: “Grand Festival,”
+#tr.en: year: “King Amar-Sin Urbilum destroyed;”
+#tr.en: (total:) 43.
+# sic, expecting 42, or a mistake in the entries above
+<count><interpretation modern_unit="" modern_value="2" system="cardinal" unit="" value="2"/>2(disz)</count> <com dist="1">gu4</com> <count><interpretation modern_unit="" modern_value="1" system="cardinal" unit="" value="1"/>1(disz)</count> ab2 
+<count><interpretation modern_unit="" modern_value="15" system="cardinal" unit="" value="15"/>1(u) 5(disz)</count> udu <count><interpretation modern_unit="" modern_value="21" system="cardinal" unit="" value="21"/>2(u) 1(disz)</count> u8 
+<count><interpretation modern_unit="" modern_value="1" system="cardinal" unit="" value="1"/>1(disz)</count> sila4 
+<count><interpretation modern_unit="" modern_value="2" system="cardinal" unit="" value="2"/>2(disz)</count> ud5 
+szu-gid2 e2-muhaldim-sze3 
+u4 <count><interpretation modern_unit="" modern_value="10" system="cardinal" unit="" value="10"/>1(u)</count> <count><interpretation modern_unit="" modern_value="4" system="cardinal" unit="" value="4"/>4(disz)-kam</count> 
+ki ab-ba-sa6-ga-ta 
+ba-zi 
+iti ezem-mah 
+mu {d}amar-{d}suen <com dist="1">lugal-e</com> ur-bi2-lum{ki} mu-hul 
+<count><interpretation modern_unit="" modern_value="43" system="cardinal" unit="" value="43"/>4(u) 3(disz)</count> 
+</commodities>

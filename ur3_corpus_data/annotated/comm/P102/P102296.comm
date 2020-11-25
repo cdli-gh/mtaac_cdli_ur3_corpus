@@ -1,0 +1,213 @@
+<commodities>
+#P102296 = ASJ 09, 242 19
+#atf: lang sux
+#tr.en: 10 male laborers: plowman, his sons;
+#tr.en: 6 porters: male laborers;
+#tr.en: 4 male laborers: dumugi;
+#tr.en: for 13 months,
+#tr.en: its labor: 7800 male laborer workdays,
+# caclulation: 20 × 13 × 30 = 7800
+#tr.en: from the month “Harvest”
+#tr.en: to the month “Extra;”
+#tr.en: 24 gur 1 barig 4 ban2 less 1 sila3 barley
+#tr.en: wage: 6 sila3 each (day),
+#tr.en: its labor: 1216 2/3 days;
+# caclulation: 7299 ÷ 6 = 1216.5
+#tr.en: 7 gur 1 barig 5 ban2 4 sila3 barley,
+#tr.en: wage: for 5 sila3 each (day),
+#tr.en: its labor: 442 5/6 days;
+# caclulation: 2214 ÷ 5 = 442.8
+#tr.en: via Lugal-kuzu:
+#tr.en: 2 gur 2 barig barley
+#tr.en: wage: 6 sila3 each (day).
+#tr.en: its labor: 120 days;
+# caclulation: 720 ÷ 6 = 120
+#tr.en: via Ur-abzu, son of Lugal-ušur:
+#tr.en: 9 gur barley,
+#tr.en: the wage: 6 sila3 each (day),
+#tr.en: its labor: 450 days;
+# caclulation: 2700 ÷ 6 = 450
+#tr.en: via Egal-esi
+#tr.en: from ARAD:
+#tr.en: 30 sar work for barley rations,
+#tr.en: its labor: 3 days.
+# caclulation: 30 ÷ (10 per day) = 3
+#tr.en: (total:) 10,209 1/2 male laborer workdays
+# caclulation: 7800 + 1216 2/3 + 442 5/6 + 120 + 450 + 180 = 2.50.09 1/2
+#tr.en: are the debit;
+#tr.en: therefrom:
+#tr.en: 360 male laborer workdays:
+#tr.en: barley harvested
+#tr.en: via Akalla;
+#tr.en: 216 male laborer workdays:
+#tr.en: sheaves piled up, leveled
+#tr.en: via E2-gal-e-si,
+#tr.en: at the field Muru:
+#tr.en: 404 male laborer workdays:
+#tr.en: barley harvested;
+#tr.en: 240 male laborer workdays:
+#tr.en: sheaves piled up,
+#tr.en: 400 male laborer workdays:
+#tr.en: at the threshing floor stationed
+#tr.en: via Da’agi,
+#tr.en: field of Amar-kiši:
+#tr.en: 300 male laborer workdays:
+#tr.en: sheaves piled up, at the threshing floor stationed,
+#tr.en: via Ur-Nungal;
+#tr.en: 480 male laborer workdays
+#tr.en: barley harvested, sheeves piled up, at the threshing floor stationed, field of Gudena,
+#tr.en: via Lugalkuzu,
+#tr.en: under seal of Egal-esi;
+#tr.en: of therefrom:
+#tr.en: 2 bur3 3 iku field area: deep plowed, at 3/4 iku field area each (day); ... at 1 iku field area each; harrowing, twice, 4 1/2 iku field area each;
+#tr.en: its labor: 316 workdays;
+# calculation: ((39 iku × 3 (erin2 crew)) ÷ 3/4) + ((39 iku × 3 ÷ 1)) + ((39 iku × 3 × 2) ÷ 4 1/2) = 156 + 117 + 52 = 316
+#tr.en: 6 bur3 1 eše3 field area: deep plowed, at 3/4 iku field area each (day); harrowing, twice(?), at 4 1/2 iku field area each;
+#tr.en: its labor: 640 workdays;
+# calculation: ((120 iku × 3 (erin2 crew)) ÷ 3/4) + ((120 iku × 3 x 2) ÷ 4 1/2) = 480 + 160 = 640
+#tr.en: 11 bur3 1 eše3 field area, harrowing, twice(?), at 4 1/2 iku field area each;
+#tr.en: labor of the worktroop: 272 workdays;
+# calculation: ((204 iku × 3 (erin2 crew) × 2) ÷ 4 1/2) = 272
+#tr.en: 15 bur3 2 eše3 3 1/2 iku field area, harrowing, once, at 4 1/2 iku field area each;
+#tr.en: labor of the worktroop: 190 1/3 workdays;
+# calculation: ((285.5 iku × 3 (erin2 crew) × 1) ÷ 4 1/2) = 190 1/3
+#tr.en: labor of harrowing and deep plowing;
+#tr.en: 31 bur3 1 eše3 3 1/2 iku field area ...,
+#tr.en: 4 bur3 3 iku field area, prebend, ...
+#tr.en: ploughed: at 2 iku field area each, ...
+#tr.en: labor of worktroop: 963 2/3 workdays;
+# calculation: ((567.5 + 75 iku) × 3 (erin2 crew)) ÷ 2 iku per day) = 963 3/4
+#tr.en: labor of seeding;
+#tr.en: 2035 sar ... hoeing at 5 sar each (day),
+#tr.en: its labor: 407 workdays;
+#tr.en: 96 sar ... hoeing, at n sar each,
+#tr.en: its labor: n workdays;
+#tr.en: ...
+#tr.en: its sealed documents: 2,
+#tr.en: under seal of Lugal-kuzu, the messenger;
+#tr.en: 5 male laborers, “following the ox;”
+#tr.en: 5 male laborers at the field residing;
+#tr.en: for 4 months,
+#tr.en: its labor: 1200 days,
+# calculation: (5 + 5) × 4 × 30 = 1200
+#tr.en: from month “Festival of Šulgi,”
+#tr.en: to month “Extra;”
+#tr.en: 1/2: Iri-bare,
+#tr.en: 1/2: Ur-suen,
+#tr.en: 1/2: Akala,
+#tr.en: 1/2: Nimgir-di-de3;
+#tr.en: for 4 months,
+#tr.en: its labor: 240 days;
+# calculation: (1/2 + 1/2 + 1/2 + 1/2 ) × 4 × 30 = 240
+#tr.en: labor, free days of dumugi of the oxen-drivers:
+#tr.en: 66 male laborer workdays,
+# calculation: 660 ÷ 10 = 66 (source?)
+#tr.en: labor, free days of porters of the oxen-drivers;
+#tr.en: 24 male laborer workdays,
+#tr.en: Nippur, barge of barley punted;
+#tr.en: under seal of Biduga;
+#tr.en: total: 10,179 5/6 male laborer workdays
+# calculation: obv. ii 3 - rev. iii 19', substantial number of entries broken
+#tr.en: booked out;
+#tr.en: deficit: 29 2/3 male laborer workdays;
+# calculation: 10,209 1/2 - 10,179 5/6 = 29 2/3
+#tr.en: account of labor of worktroops;
+#tr.en: Lugal-kuzu, oxen-manager;
+#tr.en: year after: “Kimaš was destroyed.”
+<count><interpretation modern_unit="" modern_value="10" system="cardinal" unit="" value="10"/>1(u)</count> <com dist="1">gurusz</com> engar dumu-ni 
+<count><interpretation modern_unit="" modern_value="6" system="cardinal" unit="" value="6"/>6(disz)</count> ug3 <com dist="1">gurusz</com> 
+<count><interpretation modern_unit="" modern_value="4" system="cardinal" unit="" value="4"/>4(disz)</count> gurusz dumu-gi7 
+iti <count><interpretation modern_unit="" modern_value="13" system="cardinal" unit="" value="13"/>1(u) 3(disz)-sze3</count> 
+<com dist="1">a2-bi</com> u4 <count><interpretation modern_unit="" modern_value="7800" system="cardinal" unit="" value="7800"/>2(szar2) 1(geszu)</count> gurusz u4 <count><interpretation modern_unit="" modern_value="1" system="cardinal" unit="" value="1"/>1(disz)-sze3</count> 
+iti sze-sag11-ku5-ta 
+iti diri-sze3 
+<count><interpretation modern_unit="l" modern_value="7299" system="dry capacity" unit="sila3" value="7299"/>2(u) 4(asz) 1(barig) 4(ban2) la2 1(disz) sila3 sze gur</count> 
+a2 <count><interpretation modern_unit="" modern_value="6" system="cardinal" unit="" value="6"/>6(disz)</count> sila3-ta 
+<com dist="1">a2-bi</com> <count><interpretation modern_unit="" modern_value="1216" system="cardinal" unit="" value="1216"/>2(geszu) 1(u) 6(disz)</count> <count><interpretation modern_unit="" modern_value="0.6666666666666666" system="cardinal" unit="" value="0.6666666666666666"/>2/3(disz)-kam</count> 
+<count><interpretation modern_unit="l" modern_value="2214" system="dry capacity" unit="sila3" value="2214"/>7(asz) 1(barig) 5(ban2) 4(disz) sila3 sze gur</count> 
+a2 <count><interpretation modern_unit="" modern_value="5" system="cardinal" unit="" value="5"/>5(disz)</count> sila3-ta 
+<com dist="1">a2-bi</com> u4 <count><interpretation modern_unit="" modern_value="442" system="cardinal" unit="" value="442"/>7(gesz2) 2(u) 2(disz)</count> <count><interpretation modern_unit="" modern_value="0.8333333333333334" system="cardinal" unit="" value="0.8333333333333334"/>5/6(disz)-kam</count> 
+giri3 lugal-ku3-zu 
+<count>2(asz) 2(barig) sze gur</count> 
+a2 <count><interpretation modern_unit="" modern_value="6" system="cardinal" unit="" value="6"/>6(disz)</count> sila3-ta 
+<com dist="1">a2-bi</com> u4 <count><interpretation modern_unit="" modern_value="120" system="cardinal" unit="" value="120"/>2(gesz2)-kam</count> 
+giri3 ur-ab-zu dumu lugal-uszurx(|LAL2.TUG2|) 
+<count><interpretation modern_unit="l" modern_value="0.0008333333333333333" system="dry capacity" unit="sila3" value="0.0008333333333333333"/>9(asz) sze gur</count> 
+a2 <count><interpretation modern_unit="" modern_value="6" system="cardinal" unit="" value="6"/>6(disz)</count> sila3-ta 
+<com dist="1">a2-bi</com> u4 <count><interpretation modern_unit="" modern_value="420" system="cardinal" unit="" value="420"/>7(gesz2)</count> <count><interpretation modern_unit="" modern_value="30" system="cardinal" unit="" value="30"/>3(u)-kam</count> 
+giri3 e2-gal-e-si 
+ki ARAD2-ta 
+<count><interpretation modern_unit="bricks" modern_value="259200" system="bricks" unit="gin2" value="21600"/><interpretation modern_unit="m^2" modern_value="1080.0" system="surface" unit="gin2" value="1800"/><interpretation modern_unit="l" modern_value="540000" system="volume" unit="gin2" value="1800"/>3(u) sar</count> kin szuku-ra 
+<com dist="1">a2-bi</com> u4 <count><interpretation modern_unit="" modern_value="3" system="cardinal" unit="" value="3"/>3(disz)-kam</count> 
+<count><interpretation modern_unit="" modern_value="10209.5" system="cardinal" unit="" value="10209.5"/>2(szar2) 5(geszu) 1(u) la2 1/2(disz)</count> <com dist="1">gurusz</com> u4 <count><interpretation modern_unit="" modern_value="1" system="cardinal" unit="" value="1"/>1(disz)-sze3</count> 
+sag-nig2-gur11-ra-kam 
+sza3-bi-ta 
+<count><interpretation modern_unit="" modern_value="360" system="cardinal" unit="" value="360"/>6(gesz2)</count> <com dist="1">gurusz</com> u4 <count><interpretation modern_unit="" modern_value="1" system="cardinal" unit="" value="1"/>1(disz)-sze3</count> 
+<com dist="1">sze</com> gurx(|SZE.KIN|)-a 
+giri3 a-kal-la 
+<count><interpretation modern_unit="" modern_value="216" system="cardinal" unit="" value="216"/>3(gesz2) 3(u) 6(disz)</count> <com dist="1">gurusz</com> u4 <count><interpretation modern_unit="" modern_value="1" system="cardinal" unit="" value="1"/>1(disz)-sze3</count> 
+<com dist="1">zar3</com> tab-ba szu ur3-ra 
+giri3 e2-gal-e-si 
+a-sza3 muru13 
+<count><interpretation modern_unit="" modern_value="404" system="cardinal" unit="" value="404"/>6(gesz2) 4(u) 4(disz)</count> <com dist="1">gurusz</com> u4 <count><interpretation modern_unit="" modern_value="1" system="cardinal" unit="" value="1"/>1(disz)-sze3</count> 
+<com dist="1">sze</com> gurx(|SZE.KIN|)-a 
+<count><interpretation modern_unit="" modern_value="240" system="cardinal" unit="" value="240"/>4(gesz2)</count> <com dist="1">gurusz</com> u4 <count><interpretation modern_unit="" modern_value="1" system="cardinal" unit="" value="1"/>1(disz)-sze3</count> 
+<com dist="1">zar3</com> tab-ba 
+<count><interpretation modern_unit="" modern_value="400" system="cardinal" unit="" value="400"/>6(gesz2) 4(u)</count> <com dist="1">gurusz</com> u4 <count><interpretation modern_unit="" modern_value="1" system="cardinal" unit="" value="1"/>1(disz)-sze3</count> 
+ki-su7 gub-ba 
+giri3 da-a-gi4 
+a-sza3 amar-kiszi17 
+<count><interpretation modern_unit="" modern_value="300" system="cardinal" unit="" value="300"/>5(gesz2)</count> <com dist="1">gurusz</com> u4 <count><interpretation modern_unit="" modern_value="1" system="cardinal" unit="" value="1"/>1(disz)-sze3</count> 
+<com dist="1">zar3</com> tab-ba ki-su7 gub-ba 
+giri3 ur-{d}nun-gal 
+<count><interpretation modern_unit="" modern_value="480" system="cardinal" unit="" value="480"/>8(gesz2)</count> <com dist="1">gurusz</com> u4 <count><interpretation modern_unit="" modern_value="1" system="cardinal" unit="" value="1"/>1(disz)-sze3</count> 
+<com dist="1">sze</com> gurx(|SZE.KIN|)-a zar3 tab-ba ki-su7 gub-ba a-sza3 gu2-de3-na 
+giri3 lugal-ku3-zu 
+kiszib3 e2-gal-e-si 
+sza3-bi-ta 
+<count><interpretation modern_unit="m^2" modern_value="140400.0" system="surface" unit="gin2" value="234000"/>2(bur3) 3(iku) gan2</count> <com dist="1">tug2-gur10</com> x ak <count><interpretation modern_unit="m^2" modern_value="0.44999999999999996" system="surface" unit="gin2" value="0.75"/>1/2(iku) 1/4(iku)</count> GAN2-ta tug2-x <count><interpretation modern_unit="m^2" modern_value="0.6" system="surface" unit="gin2" value="1"/>1(iku)</count> GAN2-ta gesz-ur3-ra a-ra2 <count><interpretation modern_unit="" modern_value="2" system="cardinal" unit="" value="2"/>2(disz)-kam</count> <count><interpretation modern_unit="m^2" modern_value="2.6999999999999997" system="surface" unit="gin2" value="4.5"/>4(iku) 1/2(iku)</count> GAN2-ta 
+<com dist="1">a2-bi</com> u4 <count><interpretation modern_unit="" modern_value="310" system="cardinal" unit="" value="310"/>5(gesz2) 1(u)</count> <count><interpretation modern_unit="" modern_value="6" system="cardinal" unit="" value="6"/>6(disz)-kam</count> 
+<count><interpretation modern_unit="m^2" modern_value="410400.0" system="surface" unit="gin2" value="684000"/>6(bur3) 1(esze3) gan2</count> <com dist="1">tug2-gur10</com> ak <count><interpretation modern_unit="m^2" modern_value="0.44999999999999996" system="surface" unit="gin2" value="0.75"/>1/2(iku) 1/4(iku)</count> GAN2-ta gesz-ur3-ra a-ra2 <count><interpretation modern_unit="" modern_value="2" system="cardinal" unit="" value="2"/>2(disz)-kam</count> <count><interpretation modern_unit="m^2" modern_value="2.6999999999999997" system="surface" unit="gin2" value="4.5"/>4(disz) 1/2(iku)</count> GAN2-ta 
+<com dist="1">a2-bi</com> u4 <count><interpretation modern_unit="" modern_value="600" system="cardinal" unit="" value="600"/>1(geszu)</count> <count><interpretation modern_unit="" modern_value="40" system="cardinal" unit="" value="40"/>4(u)-kam</count> 
+<count><interpretation modern_unit="m^2" modern_value="734400.0" system="surface" unit="gin2" value="1224000"/>1(bur'u) 1(bur3) 1(esze3) gan2</count> gesz-ur3-ra a-ra2 <count><interpretation modern_unit="" modern_value="2" system="cardinal" unit="" value="2"/>2(disz)-kam</count> <count><interpretation modern_unit="m^2" modern_value="2.6999999999999997" system="surface" unit="gin2" value="4.5"/>4(disz) 1/2(iku)</count> GAN2-ta 
+a2 <com dist="1">erin2-bi</com> u4 <count><interpretation modern_unit="" modern_value="270" system="cardinal" unit="" value="270"/>4(gesz2) 3(u)</count> <count><interpretation modern_unit="" modern_value="2" system="cardinal" unit="" value="2"/>2(disz)-kam</count> 
+<count><interpretation modern_unit="m^2" modern_value="1027800.0" system="surface" unit="gin2" value="1713000.0"/>1(bur'u) 5(bur3) 2(esze3) 3(iku) 1/2(iku) gan2</count> gesz-ur3-ra a-ra2 <count><interpretation modern_unit="" modern_value="1" system="cardinal" unit="" value="1"/>1(disz)-kam</count> <count><interpretation modern_unit="m^2" modern_value="2.6999999999999997" system="surface" unit="gin2" value="4.5"/>4(iku) 1/2(iku)</count> GAN2-ta 
+a2 <com dist="1">erin2-bi</com> u4 <count><interpretation modern_unit="" modern_value="190" system="cardinal" unit="" value="190"/>3(gesz2) 1(u)</count> <count><interpretation modern_unit="" modern_value="0.3333333333333333" system="cardinal" unit="" value="0.3333333333333333"/>1/3(disz)-kam</count> 
+a2 gesz-ur3-ra <com dist="1">u3</com> tug2-gurx(|SZE.KIN|) 
+<count><interpretation modern_unit="m^2" modern_value="2043000.0" system="surface" unit="gin2" value="3405000.0"/>3(bur'u) 1(bur3) 1(esze3) 3(iku) 1/2(iku) gan2</count> ... 
+<count><interpretation modern_unit="m^2" modern_value="270000.0" system="surface" unit="gin2" value="450000"/>4(bur3) 3(iku) gan2</count> <com dist="1">szuku</com> ... 
+uru4-a <count><interpretation modern_unit="m^2" modern_value="1.2" system="surface" unit="gin2" value="2"/>2(iku)</count> GAN2-ta ... 
+a2 <com dist="1">erin2-bi</com> u4 <count><interpretation modern_unit="" modern_value="963" system="cardinal" unit="" value="963"/>1(geszu) 6(gesz2) 3(disz)</count> <count><interpretation modern_unit="" modern_value="0.6666666666666666" system="cardinal" unit="" value="0.6666666666666666"/>2/3(disz)-kam</count> 
+a2 numun-na 
+<count><interpretation modern_unit="" modern_value="none" system="unknown" unit="" value="none"/>3(geszu) 3(gesz2) 5(u) 5(disz) ...</count> <com dist="1">al</com> <count><interpretation modern_unit="" modern_value="5" system="cardinal" unit="" value="5"/>5(disz)</count> sar-ta 
+<com dist="1">a2-bi</com> u4 <count><interpretation modern_unit="" modern_value="400" system="cardinal" unit="" value="400"/>6(gesz2) 4(u)</count> <count><interpretation modern_unit="" modern_value="7" system="cardinal" unit="" value="7"/>7(disz)-kam</count> 
+<count><interpretation modern_unit="" modern_value="none" system="unknown" unit="" value="none"/><interpretation modern_unit="" modern_value="none" system="unknown" unit="" value="none"/><interpretation modern_unit="" modern_value="none" system="unknown" unit="" value="none"/>1(gesz2) 3(u) 6(disz) sar ...</count> <com dist="1">al</com> n sar-ta 
+a2-bi u4 n-kam 
+...-da i7 ... ur4-ra-du 
+kiszib3-bi <count><interpretation modern_unit="" modern_value="2" system="cardinal" unit="" value="2"/>2(disz)-am3</count> 
+kiszib3 lugal-ku3-zu sukkal 
+<count><interpretation modern_unit="" modern_value="5" system="cardinal" unit="" value="5"/>5(disz)</count> <com dist="1">gurusz</com> gu4-e-us2-sa 
+<count><interpretation modern_unit="" modern_value="5" system="cardinal" unit="" value="5"/>5(disz)</count> <com dist="1">gurusz</com> a-sza3-da tusz-a 
+iti <count><interpretation modern_unit="" modern_value="4" system="cardinal" unit="" value="4"/>4(disz)-sze3</count> 
+<com dist="1">a2-bi</com> u4 <count><interpretation modern_unit="" modern_value="1200" system="cardinal" unit="" value="1200"/>2(geszu)-kam</count> 
+iti ezem-{d}szul-gi-ta 
+iti diri-sze3 
+<count><interpretation modern_unit="" modern_value="0.5" system="cardinal" unit="" value="0.5"/>1/2(disz)</count> iri-bar-re 
+<count><interpretation modern_unit="" modern_value="0.5" system="cardinal" unit="" value="0.5"/>1/2(disz)</count> ur-{d}suen 
+<count><interpretation modern_unit="" modern_value="0.5" system="cardinal" unit="" value="0.5"/>1/2(disz)</count> a-kal-la 
+<count><interpretation modern_unit="" modern_value="0.5" system="cardinal" unit="" value="0.5"/>1/2(disz)</count> nimgir-di-de3 
+iti <count><interpretation modern_unit="" modern_value="4" system="cardinal" unit="" value="4"/>4(disz)-sze3</count> 
+<com dist="1">a2-bi</com> u4 <count><interpretation modern_unit="" modern_value="240" system="cardinal" unit="" value="240"/>4(gesz2)-kam</count> 
+a2 u4-du8-a dumu-gi7 sza3-gu4 x 
+<count><interpretation modern_unit="" modern_value="66" system="cardinal" unit="" value="66"/>1(gesz2) 6(disz)</count> <com dist="1">gurusz</com> u4 <count><interpretation modern_unit="" modern_value="1" system="cardinal" unit="" value="1"/>1(disz)-sze3</count> 
+a2 u4-du8-a ug3-IL2 sza3-gu4 
+<count><interpretation modern_unit="" modern_value="24" system="cardinal" unit="" value="24"/>2(u) 4(disz)</count> <com dist="1">gurusz</com> u4 <count><interpretation modern_unit="" modern_value="1" system="cardinal" unit="" value="1"/>1(disz)-sze3</count> 
+nibru{ki} ma2 <com dist="1">sze</com> gid2-da 
+kiszib3 bi2-du11-ga 
+szunigin <count><interpretation modern_unit="" modern_value="10179.833333333334" system="cardinal" unit="" value="10179.833333333334"/>2(szar2) 4(geszu) 9(gesz2) 3(u) 9(disz) 5/6(disz)</count> <com dist="1">gurusz</com> u4 <count><interpretation modern_unit="" modern_value="1" system="cardinal" unit="" value="1"/>1(disz)-sze3</count> 
+zi-ga-am3 
+la2-ia3 <count><interpretation modern_unit="" modern_value="29.666666666666664" system="cardinal" unit="" value="29.666666666666664"/>2(u) 9(disz) 2/3(disz)</count> <com dist="1">gurusz</com> u4 <count><interpretation modern_unit="" modern_value="1" system="cardinal" unit="" value="1"/>1(disz)-sze3</count> 
+nig2-ka9-ak a2 <com dist="1">erin2-na</com> 
+lugal-ku3-zu nu-banda3-gu4 
+mu us2-sa ki-masz{ki} ba-hul 
+</commodities>

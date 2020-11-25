@@ -1,0 +1,11 @@
+<commodities>
+#P129701 = SET 292
+#atf: lang sux
+<count><interpretation modern_unit="l" modern_value="0.1111111111111111" system="dry capacity" unit="sila3" value="0.1111111111111111"/>2(geszu) sze gur</count> 
+<count><interpretation modern_unit="g" modern_value="30000.000000000004" system="weight" unit="gin2" value="3600"/>1(asz) gu2</count> <com dist="1">uruda</com> 
+<count><interpretation modern_unit="g" modern_value="30000.000000000004" system="weight" unit="gin2" value="3600"/>1(asz) gu2</count> su-gi-im 
+<count><interpretation modern_unit="" modern_value="4" system="cardinal" unit="" value="4"/>4(disz)</count> ba-ri2-ga 
+<count><interpretation modern_unit="" modern_value="1" system="cardinal" unit="" value="1"/>1(disz)</count> zi-ib2 za-bar 
+<count><interpretation modern_unit="" modern_value="1" system="cardinal" unit="" value="1"/>1(disz)</count> zi-ib za-bar nu-saga 
+<count><interpretation modern_unit="" modern_value="2" system="cardinal" unit="" value="2"/>2(disz)</count> <com dist="1">{uruda}ba-an</com> lugal 
+</commodities>

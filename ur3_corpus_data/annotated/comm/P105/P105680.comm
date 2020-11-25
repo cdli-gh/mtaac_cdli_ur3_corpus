@@ -1,0 +1,16 @@
+<commodities>
+#P105680 = BE 03/1, 128
+#atf: lang sux
+<count>1(barig) 1(ban2) sze</count> hu-mu-u-sza 
+<count><interpretation modern_unit="l" modern_value="60" system="dry capacity" unit="sila3" value="60"/>1(barig)</count> a-hu-a 
+<count><interpretation modern_unit="l" modern_value="60" system="dry capacity" unit="sila3" value="60"/>1(barig)</count> en-ne-zu 
+<count><interpretation modern_unit="l" modern_value="50" system="dry capacity" unit="sila3" value="50"/>5(ban2)</count> dingir-lu2-sa6 
+<count><interpretation modern_unit="l" modern_value="50" system="dry capacity" unit="sila3" value="50"/>5(ban2)</count> u2-sza-ak-gesztin-ki 
+<count><interpretation modern_unit="l" modern_value="90" system="dry capacity" unit="sila3" value="90"/>1(barig) 3(ban2)</count> gu4-da-re-a 
+u4 <count><interpretation modern_unit="" modern_value="10" system="cardinal" unit="" value="10"/>1(u)</count> <count><interpretation modern_unit="" modern_value="5" system="cardinal" unit="" value="5"/>5(disz)-kam</count> 
+<count><interpretation modern_unit="l" modern_value="5" system="liquid capacity" unit="sila3" value="5"/><interpretation modern_unit="l" modern_value="5" system="dry capacity" unit="sila3" value="5"/>5(disz) sila3</count> diri ma2 giri3 a-hu-um-ma 
+szunigin <count><interpretation modern_unit="l" modern_value="683" system="dry capacity" unit="sila3" value="683"/>2(asz) 1(barig) 2(ban2) 3(disz) sila3 sze</count> <com dist="1">gesz</com> gur 
+ba-zi szabra 
+iti du6-ku3 u4 ... <count><interpretation modern_unit="" modern_value="1" system="cardinal" unit="" value="1"/>1(disz)</count> ba-zal 
+mu ma-da za-ab-sza-li{ki} ba-hul 
+</commodities>

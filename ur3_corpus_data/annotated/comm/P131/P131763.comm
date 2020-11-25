@@ -1,0 +1,53 @@
+<commodities>
+#P131763 = TCL 05, 6049
+#atf: lang sux
+<count><interpretation modern_unit="" modern_value="3600" system="cardinal" unit="" value="3600"/>1(szar2)</count> sa gi SZID 
+<count><interpretation modern_unit="" modern_value="6600" system="cardinal" unit="" value="6600"/>1(szar2) 5(geszu)</count> sa gi NE 
+a2 engar-gesz-i3-ka <com dist="1">u3</com> esz3 didli du6 
+<count><interpretation modern_unit="g" modern_value="300000.0" system="weight" unit="gin2" value="36000"/>1(u) gu2</count> <com dist="1">esir2</com> apin 
+<count><interpretation modern_unit="g" modern_value="900000.0000000001" system="weight" unit="gin2" value="108000"/>3(u) gu2</count> esir2 gul-gul 
+ki ur-tur-ta 
+mu bad3 <com dist="1">ba-du3</com> 
+<count><interpretation modern_unit="" modern_value="1" system="cardinal" unit="" value="1"/>1(disz)</count> ma2 <count><interpretation modern_unit="l" modern_value="1500" system="dry capacity" unit="sila3" value="1500"/>5(asz) gur</count> 
+ki lugal-ezem-ta 
+<count><interpretation modern_unit="" modern_value="1530" system="cardinal" unit="" value="1530"/>2(geszu) 5(gesz2) 3(u)</count> sa gi NE gu-nigin2-ba <count><interpretation modern_unit="" modern_value="16" system="cardinal" unit="" value="16"/>1(u) 6(disz)</count> sa-ta 
+<count><interpretation modern_unit="bricks" modern_value="21600.0" system="bricks" unit="gin2" value="1800.0"/><interpretation modern_unit="m^2" modern_value="90.0" system="surface" unit="gin2" value="150.0"/><interpretation modern_unit="l" modern_value="45000.0" system="volume" unit="gin2" value="150.0"/>2(disz) 1/2(disz) sar</count> kid 
+<count><interpretation modern_unit="" modern_value="5" system="cardinal" unit="" value="5"/>5(disz)</count> gil-sza3-si gid2-bi <count><interpretation modern_unit="" modern_value="8.5" system="cardinal" unit="" value="8.5"/>8(disz) 1/2(disz)</count> <com dist="1">ninda-ta</com> 
+ki lugal-nesag-e-ta 
+<count><interpretation modern_unit="" modern_value="1530" system="cardinal" unit="" value="1530"/>2(geszu) 5(gesz2) 3(u)</count> sa gi gu-nigin2-ba <count><interpretation modern_unit="" modern_value="16" system="cardinal" unit="" value="16"/>1(u) 6(disz)</count> sa-ta 
+<count><interpretation modern_unit="" modern_value="5" system="cardinal" unit="" value="5"/>5(disz)</count> gil-sza3-si gid2-bi <count><interpretation modern_unit="" modern_value="8.5" system="cardinal" unit="" value="8.5"/>8(disz) 1/2(disz)</count> <com dist="1">ninda-ta</com> 
+<count><interpretation modern_unit="bricks" modern_value="21600.0" system="bricks" unit="gin2" value="1800.0"/><interpretation modern_unit="m^2" modern_value="90.0" system="surface" unit="gin2" value="150.0"/><interpretation modern_unit="l" modern_value="45000.0" system="volume" unit="gin2" value="150.0"/>2(disz) 1/2(disz) sar</count> kid 
+ki ur-ki-dagal-ta 
+mu e2 puzur4-da-gan <com dist="1">ba-du3</com> 
+<count><interpretation modern_unit="g" modern_value="1380000.0" system="weight" unit="gin2" value="165600"/>4(u) 6(asz) gu2</count> esir2 had2 
+esir2 {d}nin-mar-ka-ra-la 
+ki da-a-ga-ta 
+szunigin <count><interpretation modern_unit="g" modern_value="300000.0" system="weight" unit="gin2" value="36000"/>1(u) gu2</count> <com dist="1">esir2</com> apin 
+szunigin <count><interpretation modern_unit="g" modern_value="900000.0000000001" system="weight" unit="gin2" value="108000"/>3(u) gu2</count> <com dist="1">esir2</com> gul-gul 
+szunigin <count><interpretation modern_unit="g" modern_value="1380000.0" system="weight" unit="gin2" value="165600"/>4(u) 6(asz) gu2</count> <com dist="1">esir2</com> had2 
+szunigin <count><interpretation modern_unit="" modern_value="1" system="cardinal" unit="" value="1"/>1(disz)</count> ma2 <count><interpretation modern_unit="l" modern_value="1500" system="dry capacity" unit="sila3" value="1500"/>5(asz) gur</count> 
+szunigin <count><interpretation modern_unit="" modern_value="3600" system="cardinal" unit="" value="3600"/>1(szar2)</count> sa gi SZID 
+szunigin <count><interpretation modern_unit="" modern_value="10800" system="cardinal" unit="" value="10800"/>2(szar2) 5(geszu) 1(geszu)</count> sa gi NE 
+szunigin <count><interpretation modern_unit="" modern_value="10" system="cardinal" unit="" value="10"/>1(u)</count> gil-sza3-si gid2-bi <count><interpretation modern_unit="" modern_value="8.5" system="cardinal" unit="" value="8.5"/>8(disz) 1/2(disz)</count> <com dist="1">ninda-ta</com> 
+<count><interpretation modern_unit="bricks" modern_value="43200" system="bricks" unit="gin2" value="3600"/><interpretation modern_unit="m^2" modern_value="180.0" system="surface" unit="gin2" value="300"/><interpretation modern_unit="l" modern_value="90000" system="volume" unit="gin2" value="300"/>5(disz) sar</count> kid 
+sag-nig2-gur11-ra-kam 
+sza3-bi-ta 
+<count><interpretation modern_unit="" modern_value="15980" system="cardinal" unit="" value="15980"/>4(szar2) 2(geszu) 6(gesz2) 2(u)</count> sa gi 
+diri nig2-ka9-ak <com dist="1">sahar</com> zi-ga mu e2 puzur4-da-gan ba-du3 
+<count><interpretation modern_unit="bricks" modern_value="43200" system="bricks" unit="gin2" value="3600"/><interpretation modern_unit="m^2" modern_value="180.0" system="surface" unit="gin2" value="300"/><interpretation modern_unit="l" modern_value="90000" system="volume" unit="gin2" value="300"/>5(disz) sar</count> kid 
+<com dist="1">udu</com> kur-ra ur4-de3 
+giri3 szesz-kal-la dumu na-silim 
+<count><interpretation modern_unit="" modern_value="10" system="cardinal" unit="" value="10"/>1(u)</count> <com dist="1">{gi}gil-sza3-si</com> 
+masz2 la2 an-ne2-{ga2}gar 
+zi-ga-am3 
+<count><interpretation modern_unit="g" modern_value="300000.0" system="weight" unit="gin2" value="36000"/>1(u) gu2</count> <com dist="1">esir2</com> apin 
+<count><interpretation modern_unit="g" modern_value="900000.0000000001" system="weight" unit="gin2" value="108000"/>3(u) gu2</count> esir2 gul-gul 
+<count><interpretation modern_unit="g" modern_value="1380000.0" system="weight" unit="gin2" value="165600"/>4(u) 6(asz) gu2</count> esir2 had2 
+<count><interpretation modern_unit="" modern_value="1" system="cardinal" unit="" value="1"/>1(disz)</count> ma2 <count><interpretation modern_unit="l" modern_value="1500" system="dry capacity" unit="sila3" value="1500"/>5(asz) gur</count> 
+la2-ia3-am3 
+diri <count><interpretation modern_unit="" modern_value="2720" system="cardinal" unit="" value="2720"/>4(geszu) 5(gesz2) 2(u)</count> sa gi 
+nig2-ka9-ak sza3-ze2 
+sza3 a-pi4-sal4{ki} 
+ur-e11-e ... 
+mu us2-sa e2 puzur4-da-gan <com dist="1">ba-du3</com> mu us2-sa-bi 
+</commodities>

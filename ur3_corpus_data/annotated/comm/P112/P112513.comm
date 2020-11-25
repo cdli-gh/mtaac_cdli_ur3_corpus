@@ -1,0 +1,46 @@
+<commodities>
+#P112513 = YNER 8, 21
+#atf: lang sux
+# calculation: 362 100/300 @ 200/300 gur/shekel = 543.5
+# n gal2 at end of line, erased?
+# calculation: 41 130/300 @ 278.28?/300 gur/shekel = 44.67 (?)
+# erasure
+# calculation: 31 @ 300/300 gur/shekel = 31
+# calculation: ?
+# calculation: 543 1/2 + 44 2/3 + 31 = 619 1/6
+# calculation: 1200 sila3 @ 15 sila3/shekel = 80
+# calculation: 80 + 60 + 60 + 59 + 38 1/2 + (20? +) 16 172.5/180 + 17 = 351 82.5/180 ? (text has 226 82.5/180 ?)
+# calculation: 619 30/180 + 226 82.5/180(?) = 845 112.5/180
+<count><interpretation modern_unit="g" modern_value="7046.875000000001" system="weight" unit="gin2" value="845.625"/>1(u) 4(disz) ma-na 5(disz) 1/2(disz) gin2 2(u) 2(disz) 1/2(disz) sze</count> <com dist="1">ku3-babbar</com> 
+sza3-bi-ta 
+<count>6(gesz2) 2(asz) 1(barig) 4(ban2) sze gur</count> 
+<com dist="1">ku3-bi</com> <count><interpretation modern_unit="g" modern_value="4529.166666666667" system="weight" unit="gin2" value="543.5"/>9(disz) ma-na 3(disz) 1/2(disz) gin2</count> 
+<count><interpretation modern_unit="l" modern_value="12430" system="dry capacity" unit="sila3" value="12430"/>4(u) 1(asz) 2(barig) 1(ban2)</count> <com dist="1">ziz2</com> gur 
+ku3-bi <count><interpretation modern_unit="g" modern_value="372.22222222222223" system="weight" unit="gin2" value="44.666666666666664"/>2/3(disz) ma-na 4(disz) 2/3(disz) gin2</count> 
+guru7-a kux(KWU147)-ra 
+<count><interpretation modern_unit="l" modern_value="0.00287037037037037" system="dry capacity" unit="sila3" value="0.00287037037037037"/>3(u) 1(asz) sze gur</count> 
+<com dist="1">ku3-bi</com> <count><interpretation modern_unit="g" modern_value="258.33333333333337" system="weight" unit="gin2" value="31.0"/>1/2(disz) ma-na 1(disz) gin2</count> 
+<count><interpretation modern_unit="" modern_value="30" system="cardinal" unit="" value="30"/>3(u)</count> <com dist="1">zu2-lum</com> gur 
+ku3-bi ($ blank space $) 
+sze-ba bahar3 ma-da 
+($ blank space $) <count><interpretation modern_unit="g" modern_value="5159.722222222223" system="weight" unit="gin2" value="619.1666666666666"/>1(u) ma-na 1(u) 9(disz) gin2 igi-6(disz)-gal2</count> 
+ugu2 ka-guru7 ga2-ga2-dam 
+<count><interpretation modern_unit="" modern_value="4" system="cardinal" unit="" value="4"/>4(asz)</count> <com dist="1">i3-gesz</com> gur 
+ku3-bi <count><interpretation modern_unit="g" modern_value="666.6666666666667" system="weight" unit="gin2" value="80.0"/>1(disz) 1/3(disz) ma-na</count> 
+kiszib3 {d}szara2-kam 
+<count><interpretation modern_unit="g" modern_value="500.00000000000006" system="weight" unit="gin2" value="60"/>1(disz) ma-na</count> <com dist="1">ku3</com> sa10-am3 i3-gesz 
+<count><interpretation modern_unit="g" modern_value="500.00000000000006" system="weight" unit="gin2" value="60"/>1(disz) ma-na</count> ku3 sa10-am3 uruda 
+<count><interpretation modern_unit="g" modern_value="491.6666666666667" system="weight" unit="gin2" value="59.0"/>5/6(disz) ma-na 9(disz) gin2</count> nig2-sa10-ma didli 
+<count><interpretation modern_unit="g" modern_value="320.83333333333337" system="weight" unit="gin2" value="38.5"/>1/2(disz) ma-na 8(disz) 1/2(disz) gin2</count> dab5 <com dist="1">ku3</com> sze 
+kiszib3 ur-{d}dumu-zi-da ... 
+<count><interpretation modern_unit="" modern_value="20" system="cardinal" unit="" value="20"/>2(u)</count> n gin2 ... 
+lu2-kal-la <com dist="1">szu</com> ba-ti 
+<count><interpretation modern_unit="" modern_value="0.2826388888888889" system="cardinal" unit="" value="0.2826388888888889"/>1(u) 7(disz) gin2 la2 7(disz) 1/2(disz) sze</count> <com dist="1">ku3</com> nig2-sa10-ma a-pi4-sal4{ki} 
+giri3 lu2-{d}ha-ia3 
+<count><interpretation modern_unit="" modern_value="0.2833333333333333" system="cardinal" unit="" value="0.2833333333333333"/>1(u) 7(disz) gin2</count> <com dist="1">ku3</com> numun szum2-sikil-ka sa10-a 
+giri3 za-a-a 
+($ blank space $) <count><interpretation modern_unit="" modern_value="3.774259259259259" system="cardinal" unit="" value="3.774259259259259"/>3(disz) 2/3(disz) 6(disz) 1/3(disz) gin2 2(u) 2(disz) sze</count> 
+szunigin <count><interpretation modern_unit="g" modern_value="7046.875000000001" system="weight" unit="gin2" value="845.625"/>1(u) 4(disz) ma-na 5(disz) 1/2(disz) gin2 2(u) 2(disz) 1/2(disz) sze</count> <com dist="1">ku3-babbar</com> 
+zi-ga-am3 
+mu {d}szu-{d}suen lugal-e bad3 mar-tu mu-du3 
+</commodities>

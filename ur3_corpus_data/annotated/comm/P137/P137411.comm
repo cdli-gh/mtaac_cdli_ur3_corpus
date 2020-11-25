@@ -1,0 +1,19 @@
+<commodities>
+#P137411 = UET 3, 1086
+#atf: lang sux
+gesz <count><interpretation modern_unit="l" modern_value="60" system="dry capacity" unit="sila3" value="60"/>1(barig)</count> 
+<count><interpretation modern_unit="" modern_value="1" system="cardinal" unit="" value="1"/>1(disz)</count> gesz <count><interpretation modern_unit="l" modern_value="50" system="dry capacity" unit="sila3" value="50"/>5(ban2)</count> 
+gesz <count><interpretation modern_unit="l" modern_value="40" system="dry capacity" unit="sila3" value="40"/>4(ban2)</count> 
+<count><interpretation modern_unit="" modern_value="2" system="cardinal" unit="" value="2"/>2(disz)</count> gesz <count><interpretation modern_unit="l" modern_value="30" system="dry capacity" unit="sila3" value="30"/>3(ban2)</count> 
+gesz <count><interpretation modern_unit="l" modern_value="25" system="dry capacity" unit="sila3" value="25"/>2(ban2) 5(disz) sila3</count> 
+<count><interpretation modern_unit="" modern_value="13" system="cardinal" unit="" value="13"/>1(u) 3(disz)</count> gesz <count><interpretation modern_unit="l" modern_value="20" system="dry capacity" unit="sila3" value="20"/>2(ban2)</count> 
+<count><interpretation modern_unit="" modern_value="19" system="cardinal" unit="" value="19"/>1(u) 9(disz)</count> gesz <count><interpretation modern_unit="l" modern_value="15" system="dry capacity" unit="sila3" value="15"/>1(ban2) 5(disz) sila3</count> 
+<count><interpretation modern_unit="" modern_value="81" system="cardinal" unit="" value="81"/>1(gesz2) 2(u) 1(disz)</count> gesz <count><interpretation modern_unit="l" modern_value="10" system="dry capacity" unit="sila3" value="10"/>1(ban2)</count> 
+<count><interpretation modern_unit="" modern_value="200" system="cardinal" unit="" value="200"/>3(gesz2) 2(u)</count> gesz <count><interpretation modern_unit="l" modern_value="5" system="liquid capacity" unit="sila3" value="5"/><interpretation modern_unit="l" modern_value="5" system="dry capacity" unit="sila3" value="5"/>5(disz) sila3</count> 
+<com dist="1">zu2-lum-bi</com> <count><interpretation modern_unit="l" modern_value="2465" system="dry capacity" unit="sila3" value="2465"/>8(asz) 1(barig) 5(disz) sila3 gur</count> 
+lugal-sza3-x um-mi-a 
+ugula szu-e2-a szandana 
+kab2-du11-ga 
+<com dist="1">{gesz}kiri6</com> el-bi-al-IG-x 
+mu hu-uh2-nu-ri{ki} ba-hul 
+</commodities>

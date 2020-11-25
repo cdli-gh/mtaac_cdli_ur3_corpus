@@ -1,0 +1,40 @@
+<commodities>
+#P469785 = RLM 3F
+#atf: lang sux
+#tr.en: 256 workdays,
+#tr.en: harvested and sheaves piled up in the Šulpa’e field, in the Nagatum field and in the Egirgilu field.
+#tr.en: 325 workdays,
+#tr.en: harvested and sheaves piled up in the Audagula field, in the Audatur field and in the Prince field.
+#tr.en: 195 workdays,
+#tr.en: harvested and sheaves piled up in the Oxen boot field, in the Ur-Ninti field and the E-Ezina field.
+#tr.en: 148 workdays,
+#tr.en: harvested and sheaves piled up in the field Constructed Wall, in the Incantation priests field and in
+#tr.en: 75 workdays,
+#tr.en: harvested and sheaves piled up in the field Cattle-herder-of-Nin-Arali and (in the field) across from the new field.
+#tr.en: 215 workdays,
+#tr.en: irrigation work in the Audagula field, in the Audatur field and in the Prince field.
+#tr.en: The foreman is Lu-Šara.
+#tr.en: Sealed tablet by Da'aga.
+#tr.en: Year: “Simanum was destroyed.”
+#tr.en: Da'aga,
+#tr.en: scribe,
+#tr.en: son of Urgeš-šaga.
+<count><interpretation modern_unit="" modern_value="256" system="cardinal" unit="" value="256"/>4(gesz2) 1(u) 6(disz)</count> <com dist="1">gurusz</com> u4 <count><interpretation modern_unit="" modern_value="1" system="cardinal" unit="" value="1"/>1(disz)-sze3</count> 
+gurx(|SZE.KIN|)-a <com dist="1">zar3</com> tab-ba a-sza3 {d}szul-pa-e3 a-sza3 na-ga-tum u3 a-sza3 e2-gir-gi4-lu 
+<count><interpretation modern_unit="" modern_value="325" system="cardinal" unit="" value="325"/>5(gesz2) 2(u) 5(disz)</count> <com dist="1">gurusz</com> u4 <count><interpretation modern_unit="" modern_value="1" system="cardinal" unit="" value="1"/>1(disz)-sze3</count> 
+gurx(|SZE.KIN|)-a <com dist="1">zar3</com> tab-ba a-sza3 a-u2-da-gu-la a-sza3 a-u2-da-tur u3 a-sza3 nun-na 
+<count><interpretation modern_unit="" modern_value="195" system="cardinal" unit="" value="195"/>3(gesz2) 1(u) 5(disz)</count> <com dist="1">gurusz</com> u4 <count><interpretation modern_unit="" modern_value="1" system="cardinal" unit="" value="1"/>1(disz)-sze3</count> 
+gurx(|SZE.KIN|)-a <com dist="1">zar3</com> tab-ba a-sza3 gu4-suhub2 a-sza3 ur-{d}nin-ti u3 a-sza3 e2-{d}ezina2 
+<count><interpretation modern_unit="" modern_value="140" system="cardinal" unit="" value="140"/>2(gesz2) 2(u)</count> <com dist="1">gurusz</com> u4 <count><interpretation modern_unit="" modern_value="1" system="cardinal" unit="" value="1"/>1(disz)-sze3</count> 
+gurx(|SZE.KIN|)-a <com dist="1">zar3</com> tab-ba a-sza3 bad3-du3-a a-sza3 iszib-e-ne u3 a-sza3 u2-du-lu2-saga 
+<count><interpretation modern_unit="" modern_value="75" system="cardinal" unit="" value="75"/>1(gesz2) 1(u) 5(disz)</count> <com dist="1">gurusz</com> u4 <count><interpretation modern_unit="" modern_value="1" system="cardinal" unit="" value="1"/>1(disz)-sze3</count> 
+gurx(|SZE.KIN|)-a <com dist="1">zar3</com> tab-ba a-sza3 u2-du-{d}nin-a-ra-li u3 gaba a-sza3 gibil 
+<count><interpretation modern_unit="" modern_value="215" system="cardinal" unit="" value="215"/>3(gesz2) 3(u) 5(disz)</count> <com dist="1">gurusz</com> u4 <count><interpretation modern_unit="" modern_value="1" system="cardinal" unit="" value="1"/>1(disz)-sze3</count> 
+<com dist="1">a-da</com> gub-ba a-sza3 a-u2-da-gu-la a-sza3 a-u2-da-tur u3 a-sza3 nun-na 
+ugula lu2-{d}szara2 
+kiszib3 da-a-ga 
+mu si-ma-num2{ki} ba-hul 
+da-a-ga 
+dub-sar 
+dumu ur-gesz-sza3-ga 
+</commodities>

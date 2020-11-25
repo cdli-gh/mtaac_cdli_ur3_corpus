@@ -1,0 +1,39 @@
+<commodities>
+#P111566 = ITT 5, 06858
+#atf: lang sux
+... <count><interpretation modern_unit="" modern_value="600" system="cardinal" unit="" value="600"/>1(geszu)</count> 
+... <count><interpretation modern_unit="" modern_value="960" system="cardinal" unit="" value="960"/>1(geszu) 6(gesz2)</count> 
+... sila3 
+... <count><interpretation modern_unit="" modern_value="0.16666666666666666" system="cardinal" unit="" value="0.16666666666666666"/>1(u) gin2</count> 
+... <count><interpretation modern_unit="" modern_value="60" system="cardinal" unit="" value="60"/>1(gesz2)</count> 
+... ma-da{ki} ... kiszib3 lugal 
+...-bi <count><interpretation modern_unit="" modern_value="41" system="cardinal" unit="" value="41"/>4(u) 1(disz)</count> 
+...-bi <count><interpretation modern_unit="" modern_value="20" system="cardinal" unit="" value="20"/>2(u)</count> 
+... <count><interpretation modern_unit="" modern_value="0.016666666666666666" system="cardinal" unit="" value="0.016666666666666666"/>1(disz) gin2</count> 
+... <count><interpretation modern_unit="" modern_value="60" system="cardinal" unit="" value="60"/>1(gesz2)</count> 
+... x ... 
+du10-ga-bi ... 
+<com dist="1">naga-bi</com> <count><interpretation modern_unit="" modern_value="0.5" system="cardinal" unit="" value="0.5"/>1/2(disz)</count> 
+<count><interpretation modern_unit="" modern_value="1" system="cardinal" unit="" value="1"/>1(disz)</count> <com dist="1">tug2</com> ba-tab duh-hu-um us2 
+a2 geme2-bi <count><interpretation modern_unit="" modern_value="4" system="cardinal" unit="" value="4"/>4(disz)</count> 
+a2 lu2 azlag2-bi <count><interpretation modern_unit="" modern_value="40" system="cardinal" unit="" value="40"/>4(u)</count> 
+<com dist="1">i3</com> du10-ga-bi <count><interpretation modern_unit="" modern_value="0.03333333333333333" system="cardinal" unit="" value="0.03333333333333333"/>2(disz) gin2</count> 
+<com dist="1">naga-bi</com> <count><interpretation modern_unit="l" modern_value="5" system="liquid capacity" unit="sila3" value="5"/><interpretation modern_unit="l" modern_value="5" system="dry capacity" unit="sila3" value="5"/>5(disz) sila3</count> 
+<count><interpretation modern_unit="" modern_value="1" system="cardinal" unit="" value="1"/>1(disz)</count> <com dist="1">tug2</com> nig2-lam2 tab-ba us2 esz3 {d}szu-{d}suen 
+a2 geme2-bi <count><interpretation modern_unit="" modern_value="960" system="cardinal" unit="" value="960"/>1(geszu) 6(gesz2)</count> 
+a2 lu2 azlag2-bi <count><interpretation modern_unit="" modern_value="5" system="cardinal" unit="" value="5"/>5(disz)</count> 
+<com dist="1">i3-gesz-bi</com> <count><interpretation modern_unit="l" modern_value="1" system="liquid capacity" unit="sila3" value="1"/><interpretation modern_unit="l" modern_value="1" system="dry capacity" unit="sila3" value="1"/>1(disz) sila3</count> 
+gu-bi <count><interpretation modern_unit="g" modern_value="166.66666666666669" system="weight" unit="gin2" value="20.0"/>1/3(disz) ma-na</count> 
+naga-bi <count><interpretation modern_unit="" modern_value="0.5" system="cardinal" unit="" value="0.5"/>1/2(disz)</count> 
+... x <com dist="1">NE</com> AB 
+... x 
+i3-gesz-bi ... 
+gu-bi ... 
+naga-bi ... 
+<count><interpretation modern_unit="" modern_value="1" system="cardinal" unit="" value="1"/>1(disz)</count> <com dist="1">tug2</com> aktum ... 
+a2 geme2-bi ... 
+a2 lu2 azlag2-bi ... 
+i3-gesz-bi ... 
+i3 ... 
+x ... 
+</commodities>

@@ -1,0 +1,13 @@
+<commodities>
+#P128469 = RTC 316
+#atf: lang sux
+<count><interpretation modern_unit="l" modern_value="12" system="dry capacity" unit="sila3" value="12"/>1(ban2) 2(disz) sila3</count> gu2-gal-gal 
+<count><interpretation modern_unit="l" modern_value="12" system="dry capacity" unit="sila3" value="12"/>1(ban2) 2(disz) sila3</count> gu2-tur-tur 
+<count><interpretation modern_unit="l" modern_value="1" system="liquid capacity" unit="sila3" value="1"/><interpretation modern_unit="l" modern_value="1" system="dry capacity" unit="sila3" value="1"/>1(disz) sila3</count> <com dist="1">{u2}gamun2</com> 
+<count><interpretation modern_unit="l" modern_value="5" system="liquid capacity" unit="sila3" value="5"/><interpretation modern_unit="l" modern_value="5" system="dry capacity" unit="sila3" value="5"/>5(disz) sila3</count> sze-lu2 
+<count><interpretation modern_unit="l" modern_value="5" system="liquid capacity" unit="sila3" value="5"/><interpretation modern_unit="l" modern_value="5" system="dry capacity" unit="sila3" value="5"/>5(disz) sila3</count> gazi 
+ki-a-nag lugal-lugal-ne 
+iti ezem-{d}dumu-zi 
+zi-ga 
+ka-sa6-sa6 
+</commodities>

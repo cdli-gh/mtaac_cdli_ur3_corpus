@@ -1,0 +1,56 @@
+<commodities>
+#P111900 = JCS 10, 029 06
+#atf: lang sux
+#tr.en: 3 talents reeds, pea-flour for the generals;
+#tr.en: 2 talents, pea-flour KUgeš of the offering table;
+#tr.en: 2 talents pea-flour, ... of the nubanda’s;
+#tr.en: 8 bundles, pea-flour for the scribes;
+#tr.en: 8 bundles, pea-flour for the man of Marhaši;
+#tr.en: 2 bundles, pea-flour for the castrate;
+#tr.en: 1 talent, ... for the man from Marhaši;
+#tr.en: 1 talent, ... for the male cantor;
+#tr.en: 1 talent, ... for the female cantor;
+#tr.en: totaL: 12 talents reeds,
+#tr.en: with Ḫababatum;
+#tr.en: via TARgana ...;
+#tr.en: 2 talents, ...;
+#tr.en: 2 talents, ... for ...;
+#tr.en: 2 talents, ... for Ḫa-...;
+#tr.en: 1 talent, ... for the cantors;
+#tr.en: 1 talent pea-flour, for the officer-of-sixty;
+#tr.en: 1 1/2 talents, pea-flour, for KUgeš of the offering table;
+#tr.en: 1/2 talent, breadsticks;
+#tr.en: 2 bundles, bread of ...;
+#tr.en: 1 talent, bread of prince;
+#tr.en: 2 bundles, for Maš-šugigi,
+#tr.en: 2 talents, ...;
+#tr.en: total: 13 1/2 talents reeds,
+#tr.en: with Ur-Baba, the cook;
+#tr.en: via Šu-Mama.
+<count><interpretation modern_unit="g" modern_value="90000.0" system="weight" unit="gin2" value="10800"/>3(asz) gu2</count> gi zi3-gu szagina-e-ne 
+<count><interpretation modern_unit="g" modern_value="60000.00000000001" system="weight" unit="gin2" value="7200"/>2(asz) gu2</count> <com dist="1">zi3-gu</com> KU-gesz banszur-ra 
+<count><interpretation modern_unit="g" modern_value="60000.00000000001" system="weight" unit="gin2" value="7200"/>2(asz) gu2</count> <com dist="1">zi3-gu</com> kas-tu7 nu-banda3-ne 
+<count><interpretation modern_unit="" modern_value="8" system="cardinal" unit="" value="8"/>8(disz)</count> sa zi3-gu dub-sar-ne 
+<count><interpretation modern_unit="" modern_value="8" system="cardinal" unit="" value="8"/>8(disz)</count> sa zi3-gu lu2 mar-ha-szi{ki} 
+<count><interpretation modern_unit="" modern_value="2" system="cardinal" unit="" value="2"/>2(disz)</count> sa zi3-gu gala 
+<count><interpretation modern_unit="g" modern_value="30000.000000000004" system="weight" unit="gin2" value="3600"/>1(asz) gu2</count> kas-tu7 lu2 mar-ha-szi{ki} 
+<count><interpretation modern_unit="g" modern_value="30000.000000000004" system="weight" unit="gin2" value="3600"/>1(asz) gu2</count> kas-tu7 nar-nita2 
+<count><interpretation modern_unit="g" modern_value="30000.000000000004" system="weight" unit="gin2" value="3600"/>1(asz) gu2</count> kas-tu7 nar-munus 
+szunigin <count><interpretation modern_unit="g" modern_value="360000.0" system="weight" unit="gin2" value="43200"/>1(u) 2(asz) gu2</count> gi 
+ki ha-ba-ba-tum-ma 
+giri3 TAR-ga-na ... 
+<count><interpretation modern_unit="" modern_value="none" system="unknown" unit="" value="none"/>2(asz) gu2 ...</count> 
+<count><interpretation modern_unit="g" modern_value="60000.00000000001" system="weight" unit="gin2" value="7200"/>2(asz) gu2</count> <com dist="1">tu7</com> x x x 
+<count><interpretation modern_unit="g" modern_value="60000.00000000001" system="weight" unit="gin2" value="7200"/>2(asz) gu2</count> <com dist="1">tu7</com> ha-x 
+<count><interpretation modern_unit="g" modern_value="30000.000000000004" system="weight" unit="gin2" value="3600"/>1(asz) gu2</count> kas-x nar-e-ne 
+<count><interpretation modern_unit="g" modern_value="30000.000000000004" system="weight" unit="gin2" value="3600"/>1(asz) gu2</count> <com dist="1">zi3-gu</com> ugula-gesz2-da 
+<count><interpretation modern_unit="g" modern_value="45000.0" system="weight" unit="gin2" value="5400.0"/>1(asz) 1/2(asz) gu2</count> <com dist="1">zi3-gu</com> KU-gesz banszur-ra 
+<count><interpretation modern_unit="g" modern_value="15000.000000000002" system="weight" unit="gin2" value="1800.0"/>1/2(asz) gu2</count> <com dist="1">ninda</com> sal-la 
+<count><interpretation modern_unit="" modern_value="2" system="cardinal" unit="" value="2"/>2(disz)</count> sa ninda szu-ur3-ra 
+<count><interpretation modern_unit="g" modern_value="30000.000000000004" system="weight" unit="gin2" value="3600"/>1(asz) gu2</count> <com dist="1">ninda</com> dumu-lugal 
+<count><interpretation modern_unit="" modern_value="2" system="cardinal" unit="" value="2"/>2(disz)</count> sa masz-szu-gi4-gi4 
+<count><interpretation modern_unit="g" modern_value="60000.00000000001" system="weight" unit="gin2" value="7200"/>2(asz) gu2</count> nig2-tur-tur 
+szunigin <count><interpretation modern_unit="g" modern_value="405000.0" system="weight" unit="gin2" value="48600.0"/>1(u) 3(asz) 1/2(asz) gu2</count> gi 
+ki ur-{d}ba-ba6 muhaldim 
+giri3 szu-ma-ma 
+</commodities>

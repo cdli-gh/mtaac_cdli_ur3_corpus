@@ -1,0 +1,32 @@
+<commodities>
+#P116018 = MVN 11, 004
+#atf: lang sux
+#tr.en: 3 mana 1 1/2 shekel 15 grains silver,
+#tr.en: 4 2/3 mana resin of Ninebtum (?),
+# seal impression
+#tr.en: the remainder of
+#tr.en: year after: “The wall of the land was erected;”
+#tr.en: 2 barig barley, royal (measure),
+#tr.en: remainder
+# some text moved to next line
+#tr.en: of year: “The high-priestess of Nanna;”
+#tr.en: under seal of Ur-saga, manager, to be repaid;
+#tr.en: the trade agents will confirm;
+#tr.en: year: “Amar-Suen (is) king.”
+#tr.en: Ur-saga
+#tr.en: manager
+#tr.en: of throne bearers.
+<count><interpretation modern_unit="g" modern_value="1513.1944444444446" system="weight" unit="gin2" value="181.58333333333334"/>3(disz) ma-na 1(disz) 1/2(disz) gin2 1(u) 5(disz) sze</count> <com dist="1">ku3-babbar</com> 
+<count><interpretation modern_unit="g" modern_value="2333.3333333333335" system="weight" unit="gin2" value="280.0"/>4(disz) 2/3(disz) ma-na</count> SZIM {d}nin-eb-tum 
+si-i3-tum 
+mu us2-sa bad3 ma-da <com dist="1">ba-du3</com> 
+<count>2(barig) sze</count> lugal 
+si-i3-tum 
+mu en {d}nanna 
+kiszib3 ur-sa6-ga nu-banda3 su-su-dam 
+dam-gar3-ne-bi gi-ne2-dam 
+mu {d}amar-{d}suen lugal 
+ur-sa6-ga 
+nu-banda3 
+gu-za-la2 
+</commodities>

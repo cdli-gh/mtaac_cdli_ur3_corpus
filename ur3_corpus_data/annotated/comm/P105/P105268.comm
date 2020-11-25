@@ -1,0 +1,19 @@
+<commodities>
+#P105268 = BCT 2, 027
+#atf: lang sux
+#tr.en: 15 male laborers,
+#tr.en: the labor of 1 day: 45 bales,
+#tr.en: total: 765 bales,
+#tr.en: being the labor of 17 days,
+# calculation: 765 bales ÷ (15 workers × 3 bales per worker-day =) 45 = 17 days
+#tr.en: did Ur-e’e receive;
+#tr.en: month “pa’u’e,”
+#tr.en: year “Simurrum was destroyed.”
+<count><interpretation modern_unit="" modern_value="15" system="cardinal" unit="" value="15"/>1(u) 5(disz)</count> <com dist="1">gurusz</com> 
+a2 u4 <count><interpretation modern_unit="" modern_value="1" system="cardinal" unit="" value="1"/>1(disz)-bi</count> <com dist="1">gu-nigin2</com> <count><interpretation modern_unit="" modern_value="45" system="cardinal" unit="" value="45"/>4(u) 5(disz)-am3</count> 
+szunigin <count><interpretation modern_unit="" modern_value="765" system="cardinal" unit="" value="765"/>1(geszu) 2(gesz2) 4(u) 5(disz)</count> <com dist="1">gu-nigin2-am3</com> 
+a2 u4 <count><interpretation modern_unit="" modern_value="17" system="cardinal" unit="" value="17"/>1(u) 7(disz)-bi-im</count> 
+ur-e11-e i3-dab5 
+iti pa5-u2-e 
+mu si-mu-ru-um{ki} ba-hul 
+</commodities>

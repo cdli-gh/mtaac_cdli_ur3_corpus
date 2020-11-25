@@ -1,0 +1,44 @@
+<commodities>
+#P101235 = AnOr 01, 244 
+#atf: lang sux 
+#tr.en: ... 
+#tr.en: ... 
+#tr.en: 3 sila3 fine beer ... 
+#tr.en: 1 ... 
+#tr.en: 1 Ur-Nanna; 
+#tr.en: 1 Lu-Eridu; 
+#tr.en: 1 Du-ilī; 
+#tr.en: 1 Ayakala; 
+#tr.en: 1 Šū-engar; 
+#tr.en: 1 Nannakam; 
+#tr.en: 1 Ur-saga; 
+#tr.en: 1 Azaza; 
+#tr.en: 1 ... 
+#tr.en: 1 Ilī-bani; 
+#tr.en: 3 sila3 beer, 2 sila3 bread each; 
+#tr.en: 5 shekels onions, 3 shekels oil, 2 shekels alkali-plant each; 
+#tr.en: total: 1 ban2 8 sila3 fine beer; total: ... 3 sila3 ... 
+#tr.en: total: 3 ban2 4 sila3 bread, total: 1/3 sila3 ... 
+#tr.en: ... sila3 1 shekel .... 
+#tr.en: ... 4 shekels ... 
+... 
+... x AB ... 
+<count><interpretation modern_unit="l" modern_value="3" system="liquid capacity" unit="sila3" value="3"/><interpretation modern_unit="l" modern_value="3" system="dry capacity" unit="sila3" value="3"/>3(disz) sila3</count> <com dist="1">kasz</com> saga n(disz) ... 
+<count><interpretation modern_unit="" modern_value="1" system="cardinal" unit="" value="1"/>1(disz)</count> ga-nu-... 
+<count><interpretation modern_unit="" modern_value="1" system="cardinal" unit="" value="1"/>1(disz)</count> ur-{d}nanna 
+<count><interpretation modern_unit="" modern_value="1" system="cardinal" unit="" value="1"/>1(disz)</count> lu2-eridu{ki} 
+<count><interpretation modern_unit="" modern_value="1" system="cardinal" unit="" value="1"/>1(disz)</count> du10-i3-li2 
+<count><interpretation modern_unit="" modern_value="1" system="cardinal" unit="" value="1"/>1(disz)</count> a-a-kal-la 
+<count><interpretation modern_unit="" modern_value="1" system="cardinal" unit="" value="1"/>1(disz)</count> szu-u-engar 
+<count><interpretation modern_unit="" modern_value="1" system="cardinal" unit="" value="1"/>1(disz)</count> {d}nanna-kam 
+<count><interpretation modern_unit="" modern_value="1" system="cardinal" unit="" value="1"/>1(disz)</count> ur-saga 
+<count><interpretation modern_unit="" modern_value="1" system="cardinal" unit="" value="1"/>1(disz)</count> a-za-za 
+<count><interpretation modern_unit="" modern_value="1" system="cardinal" unit="" value="1"/>1(disz)</count> ...-x-x 
+<count><interpretation modern_unit="" modern_value="1" system="cardinal" unit="" value="1"/>1(disz)</count> dingir-ba-ni 
+<count><interpretation modern_unit="l" modern_value="3" system="liquid capacity" unit="sila3" value="3"/><interpretation modern_unit="l" modern_value="3" system="dry capacity" unit="sila3" value="3"/>3(disz) sila3</count> <com dist="1">kasz</com> <count><interpretation modern_unit="l" modern_value="2" system="liquid capacity" unit="sila3" value="2"/><interpretation modern_unit="l" modern_value="2" system="dry capacity" unit="sila3" value="2"/>2(disz) sila3</count> ninda-ta 
+<count><interpretation modern_unit="" modern_value="0.08333333333333333" system="cardinal" unit="" value="0.08333333333333333"/>5(disz) gin2</count> szum2 <count><interpretation modern_unit="" modern_value="0.05" system="cardinal" unit="" value="0.05"/>3(disz) gin2</count> i3 <count><interpretation modern_unit="" modern_value="0.03333333333333333" system="cardinal" unit="" value="0.03333333333333333"/>2(disz) gin2</count> naga-ta 
+szunigin <count><interpretation modern_unit="l" modern_value="18" system="dry capacity" unit="sila3" value="18"/>1(ban2) 8(disz) sila3</count> <com dist="1">kasz</com> saga szunigin ... <count><interpretation modern_unit="" modern_value="none" system="unknown" unit="" value="none"/><interpretation modern_unit="" modern_value="none" system="unknown" unit="" value="none"/>3(disz) sila3 ...</count> 
+szunigin <count><interpretation modern_unit="l" modern_value="34" system="dry capacity" unit="sila3" value="34"/>3(ban2) 4(disz) sila3</count> <com dist="1">ninda</com> szunigin <count><interpretation modern_unit="" modern_value="none" system="unknown" unit="" value="none"/><interpretation modern_unit="" modern_value="none" system="unknown" unit="" value="none"/>1/3(disz) sila3 ...</count> 
+... n(disz) sila3 <count><interpretation modern_unit="" modern_value="none" system="unknown" unit="" value="none"/>1(disz) gin2 ...</count> 
+... n <count><interpretation modern_unit="" modern_value="none" system="unknown" unit="" value="none"/>4(disz) gin2 ...</count> 
+</commodities>

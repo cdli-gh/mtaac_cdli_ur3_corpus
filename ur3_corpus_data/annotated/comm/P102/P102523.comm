@@ -1,0 +1,73 @@
+<commodities>
+#P102523 = ASJ 14, 100 2
+#atf: lang sux
+#tr.en: Lu-duga,
+#tr.en: Lugal-kugani,
+#tr.en: Lu-girizal,
+#tr.en: 2 Bibia,
+#tr.en: Šešpada,
+#tr.en: Ikalla,
+#tr.en: 2 Lugal-gigire,
+#tr.en: X-dar,
+#tr.en: 2 sons of Ur-Ištaran,
+#tr.en: Lugal-itida,
+#tr.en: 13,
+#tr.en: house of Šara.
+#tr.en: Lugal-šunirre,
+#tr.en: Lu-Suen,
+#tr.en: Manzizi,
+#tr.en: hosue of Ninura.
+#tr.en: Šeškalla,
+#tr.en: Lugal-hegal,
+#tr.en: Great-house.
+#tr.en: Dingiram,
+#tr.en: 2 sons of Ur-gigir,
+#tr.en: hosue of Šulgi.
+#tr.en: Lu-Šara,
+#tr.en: Gigiga,
+#tr.en: hosue of Amar-Suen.
+#tr.en: x-x-nun,
+#tr.en: Ur-...,
+#tr.en: house of Šu-Suen.
+#tr.en: Nabasa,
+#tr.en: waystation of the tower,
+#tr.en: Adudu,
+#tr.en: waystation of Umma.
+#tr.en:
+#tr.en: Together: 27 fisheries workers,
+#tr.en: fisheries workers for the regular offerings of the gods.
+lu2-du10-ga 
+lugal-ku3-ga-ni 
+lu2-giri17-zal 
+<count><interpretation modern_unit="" modern_value="2" system="cardinal" unit="" value="2"/>2(disz)</count> bi2-bi2-a 
+szesz-pa3-da 
+i3-kal-la 
+<count><interpretation modern_unit="" modern_value="2" system="cardinal" unit="" value="2"/>2(disz)</count> <com dist="1">lugal-{gesz}gigir-re</com> 
+x-dar 
+<count><interpretation modern_unit="" modern_value="2" system="cardinal" unit="" value="2"/>2(disz)</count> dumu ur-{d}isztaran 
+lugal-iti-da 
+<count><interpretation modern_unit="" modern_value="13" system="cardinal" unit="" value="13"/>1(u) 3(disz)</count> 
+e2 {d}szara2 
+lugal-szu-nir-re 
+lu2-{d}suen 
+ma-an-zi-zi 
+e2 {d}nin-ur4-ra 
+szesz-kal-la 
+lugal-he2-gal2 
+e2-mah 
+dingir-ra-am3 
+<count><interpretation modern_unit="" modern_value="2" system="cardinal" unit="" value="2"/>2(disz)</count> dumu <com dist="1">ur-{gesz}gigir</com> 
+e2 {d}szul-gi-ra 
+lu2-{d}szara2 
+gi-gi-ga 
+e2 {d}amar-{d}suen 
+x-x-x-nun 
+ur-... 
+e2 {d}szu-{d}suen 
+na-ba-sa6 
+e2-kas4 an-za-gar3 
+a-du-du 
+e2-kas4 umma{ki} 
+szunigin <count><interpretation modern_unit="" modern_value="27" system="cardinal" unit="" value="27"/>2(u) 7(disz)</count> szu-ku6 
+szu-ku6 sa2-du11 dingir-re-ne-sze3 
+</commodities>

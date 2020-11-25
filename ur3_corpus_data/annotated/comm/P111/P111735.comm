@@ -1,0 +1,24 @@
+<commodities>
+#P111735 = ITT 5, 08236
+#atf: lang sux
+#tr.de: 12 NIM-ur zu je 3 mana gamgam-Fisch,
+#tr.de: vom Monat ‘...’ (9. Monat)
+#tr.de: bis zum vollendeten 20. Tag des Monats ,Kalb ...’ (10. Monot)
+#tr.de: der dazugehörige gamgam-Fisch: 30 Last.
+#tr.de: Ein Monat, 20 Tage:
+#tr.de: NIM-ur gefüttert.
+#tr.de: Šagul, der ur-Hirt,
+#tr.de: hat (das Futter) empfangen.
+#tr.de: Zuständig: Dudu,
+#tr.de: Jahr: ‘Ḫuḫnuri (wurde zerstört)’ (Amar-Suen 7).
+<count><interpretation modern_unit="" modern_value="12" system="cardinal" unit="" value="12"/>1(u) 2(disz)</count> <com dist="1">ur-nim</com> <count><interpretation modern_unit="g" modern_value="1500.0" system="weight" unit="gin2" value="180"/>3(disz) ma-na</count> ku6 gam-gam-ta 
+iti mu-szu-du8-ta 
+iti amar-a-a-si u4 <count><interpretation modern_unit="" modern_value="20" system="cardinal" unit="" value="20"/>2(u)</count> ba-zal-sze3 
+<com dist="1">ku6</com> gam-gam-bi <count><interpretation modern_unit="g" modern_value="900000.0000000001" system="weight" unit="gin2" value="108000"/>3(u) gu2</count> 
+iti <count><interpretation modern_unit="" modern_value="1" system="cardinal" unit="" value="1"/>1(disz)</count> u4 <count><interpretation modern_unit="" modern_value="20" system="cardinal" unit="" value="20"/>2(u)-kam</count> 
+<com dist="1">ur-nim-e</com> gu7-a 
+sza3-gul sipa ur 
+szu ba-ti 
+giri3 du-du 
+mu hu-hu-nu{ki} 
+</commodities>

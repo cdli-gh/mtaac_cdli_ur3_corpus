@@ -1,0 +1,49 @@
+<commodities>
+#P384800 = CDLJ 2009/2, §3.2
+#atf: lang sux
+#tr.en: n+ 17 ewes, 10 female lambs,
+#tr.en: 21 rams, 10 suckling male lambs,
+#tr.en: 13 nanny goats,
+#tr.en: 1 billy goat,
+#tr.en: 1 usual female kid, standard (quality),
+#tr.en: delivery,
+#tr.en: available;
+#tr.en: 1 ram,
+#tr.en: 7 female kids,
+#tr.en: under seal of Šara-amutum,
+#tr.en: 8 ewes, 6 rams,
+#tr.en: 3 nanny goats,
+#tr.en: under seal of Giri-Šara-idab;
+#tr.en: 24 ewes, 3 female lambs, shorn,
+#tr.en: 7 rams, 6 male lambs, shorn,
+#tr.en: 3 nanny goats,
+#tr.en: fallen, under official seal Giri-Šara-idab;
+#tr.en: total: 95 ewes, 13 female lambs;
+#tr.en: total: 28 rams, 10 male lambs;
+#tr.en: total: 16 nanny goats, 8 female kids;
+#tr.en: total: 1 billy goat;
+#tr.en: year: “Nanna of Karzida was brought into the house.”
+# very uncertain
+n <count><interpretation modern_unit="" modern_value="17" system="cardinal" unit="" value="17"/>1(u) 7(disz)</count> <com dist="1">u8</com> <count><interpretation modern_unit="" modern_value="10" system="cardinal" unit="" value="10"/>1(u)</count> kir11 
+<count><interpretation modern_unit="" modern_value="21" system="cardinal" unit="" value="21"/>2(u) 1(disz)</count> udu-nita2 <count><interpretation modern_unit="" modern_value="10" system="cardinal" unit="" value="10"/>1(u)</count> sila4 ga 
+<count><interpretation modern_unit="" modern_value="13" system="cardinal" unit="" value="13"/>1(u) 3(disz)</count> ud5 
+<count><interpretation modern_unit="" modern_value="1" system="cardinal" unit="" value="1"/>1(disz)</count> masz2-nita2 
+<count><interpretation modern_unit="" modern_value="1" system="cardinal" unit="" value="1"/>1(disz)</count> <com dist="1">{munus}asz2-gar3</com> du 
+mu-kux(DU) 
+gub-ba-am3 
+<count><interpretation modern_unit="" modern_value="1" system="cardinal" unit="" value="1"/>1(disz)</count> <com dist="1">udu-nita2</com> 
+<count><interpretation modern_unit="" modern_value="7" system="cardinal" unit="" value="7"/>7(disz)</count> {munus}asz2-gar3 
+kiszib3 {d}szara2-a-mu-tum2 
+<count><interpretation modern_unit="" modern_value="8" system="cardinal" unit="" value="8"/>8(disz)</count> <com dist="1">u8</com> <count><interpretation modern_unit="" modern_value="6" system="cardinal" unit="" value="6"/>6(disz)</count> udu-nita2 
+<count><interpretation modern_unit="" modern_value="3" system="cardinal" unit="" value="3"/>3(disz)</count> ud5 
+kiszib3 giri3-{d}szara2-i3-dab5 
+<count><interpretation modern_unit="" modern_value="24" system="cardinal" unit="" value="24"/>2(u) 4(disz)</count> <com dist="1">u8</com> <count><interpretation modern_unit="" modern_value="3" system="cardinal" unit="" value="3"/>3(disz)</count> kir11 ur4 
+<count><interpretation modern_unit="" modern_value="7" system="cardinal" unit="" value="7"/>7(disz)</count> <com dist="1">udu-nita2</com> <count><interpretation modern_unit="" modern_value="6" system="cardinal" unit="" value="6"/>6(disz)</count> sila4 ur4 
+<count><interpretation modern_unit="" modern_value="3" system="cardinal" unit="" value="3"/>3(disz)</count> <com dist="1">ud5</com> 
+ri-ri-ga kiszib3 nam-sza3-tam giri3-{d}szara2-i3-dab5 
+szunigin <count><interpretation modern_unit="" modern_value="95" system="cardinal" unit="" value="95"/>1(gesz2) 3(u) 5(disz)</count> <com dist="1">u8</com> <count><interpretation modern_unit="" modern_value="13" system="cardinal" unit="" value="13"/>1(u) 3(disz)</count> kir11 
+szunigin <count><interpretation modern_unit="" modern_value="28" system="cardinal" unit="" value="28"/>2(u) 8(disz)</count> <com dist="1">udu-nita2</com> <count><interpretation modern_unit="" modern_value="10" system="cardinal" unit="" value="10"/>1(u)</count> sila4 
+szunigin <count><interpretation modern_unit="" modern_value="16" system="cardinal" unit="" value="16"/>1(u) 6(disz)</count> <com dist="1">ud5</com> <count><interpretation modern_unit="" modern_value="8" system="cardinal" unit="" value="8"/>8(disz)</count> {munus}asz2-gar3 
+szunigin <count><interpretation modern_unit="" modern_value="1" system="cardinal" unit="" value="1"/>1(disz)</count> masz2-nita2 
+mu {d}nanna kar-zi-da <com dist="1">e2-a</com> ba-an-ku4 
+</commodities>

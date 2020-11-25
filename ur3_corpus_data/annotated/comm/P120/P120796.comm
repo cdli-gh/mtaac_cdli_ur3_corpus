@@ -1,0 +1,44 @@
+<commodities>
+#P120796 = NATN 098
+#atf: lang sux
+#tr.de: 3 Sekel Silber,
+#tr.de: die Arbeitsleistung des Šu-durul, ihr Sohn,
+#tr.de: (während) eines Jahres,
+#tr.de: von Lugal-azida
+#tr.de: hat Geme-Nungal
+#tr.de: empfangen;
+#tr.de: falls
+#tr.de: Šu-durul
+#tr.de: für einen Tag die Arbeit aussetzt,
+#tr.de: 1 ban2 Gerste (für) jeden (Tag) wird er darmessen,
+#tr.de: hat er beim königlichen Namen geschworen;
+#tr.de: 1 A’agnua,
+#tr.de: 1 La-teniš,
+#tr.de: 1 Lu-Suen,
+#tr.de: 1 Addakala,
+#tr.de: sind dabei die Zeugen;
+#tr.de: Monat: “...-Inannas”,
+#tr.de: Jahr: “Der en-Priester Inannas in Uruk wurde durch Leberschau bestimmt.”
+#tr.de: Ḫubbatum,
+#tr.de: Sohn des Bagina.
+<count><interpretation modern_unit="" modern_value="0.05" system="cardinal" unit="" value="0.05"/>3(disz) gin2</count> <com dist="1">ku3-babbar</com> 
+a2 szu-dur-ul3 
+mu asz-a-kam 
+ki lugal-a2-zi-da-ta 
+geme2-{d}nun-gal-ke4 
+szu ba-ti 
+tukum-bi 
+szu-dur-ul3 
+u4 <count><interpretation modern_unit="" modern_value="1" system="cardinal" unit="" value="1"/>1(disz)-am3</count> ga2-la in-dag 
+<count><interpretation modern_unit="l" modern_value="10" system="dry capacity" unit="sila3" value="10"/>1(ban2)</count> <com dist="1">sze-ta</com> i3-ag2 
+mu lugal-bi in-pa3 
+<count><interpretation modern_unit="" modern_value="1" system="cardinal" unit="" value="1"/>1(disz)</count> a-bi2-nu-a 
+<count><interpretation modern_unit="" modern_value="1" system="cardinal" unit="" value="1"/>1(disz)</count> la-te-ni-isz 
+<count><interpretation modern_unit="" modern_value="1" system="cardinal" unit="" value="1"/>1(disz)</count> lu2-{d}suen 
+<count><interpretation modern_unit="" modern_value="1" system="cardinal" unit="" value="1"/>1(disz)</count> ad-da-kal-la 
+lu2-inim-ma-bi-me 
+iti kin-{d}inanna 
+mu en {d}inanna unu{ki} <com dist="1">masz2-e</com> i3-pa3 
+hu-ba-tum 
+dumu ba-zi-na 
+</commodities>

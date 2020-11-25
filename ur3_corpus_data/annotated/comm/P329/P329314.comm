@@ -1,0 +1,22 @@
+<commodities>
+#P329314 = CUSAS 03, 0374
+#atf: lang sux
+... 
+x gi gal2 x 
+n <count><interpretation modern_unit="m" modern_value="1.5" system="length" unit="gi" value="0.5"/>3(disz) kusz3</count> <com dist="1">dagal</com> <count><interpretation modern_unit="" modern_value="none" system="unknown" unit="" value="none"/>1(disz) 2/3(disz) kusz3 x</count> 
+x-bi <count><interpretation modern_unit="m" modern_value="1.5" system="length" unit="gi" value="0.5"/>3(disz) kusz3</count> 
+x-sig4-bi <count><interpretation modern_unit="" modern_value="60" system="cardinal" unit="" value="60"/>1(gesz2)</count> 
+<com dist="1">us2-bi</com> u4 <count><interpretation modern_unit="" modern_value="1" system="cardinal" unit="" value="1"/>1(disz)-kam</count> 
+<count><interpretation modern_unit="m" modern_value="3" system="length" unit="gi" value="1"/>1(disz) gi kusz3</count> ti-um <com dist="1">gu</com> <count><interpretation modern_unit="l" modern_value="3" system="liquid capacity" unit="sila3" value="3"/><interpretation modern_unit="l" modern_value="3" system="dry capacity" unit="sila3" value="3"/>3(disz) sila3</count> 
+gi-bi <count><interpretation modern_unit="" modern_value="0.26666666666666666" system="cardinal" unit="" value="0.26666666666666666"/>1(u) 6(disz) gin2</count> 
+bur2-bi ... 
+... 
+... <count><interpretation modern_unit="" modern_value="none" system="unknown" unit="" value="none"/>3(disz) ...</count> 
+... 
+...-da-tur ...-x nu-x-x 
+n <count><interpretation modern_unit="m" modern_value="0.25" system="length" unit="gi" value="0.08333333333333333"/>1/2(disz) kusz3</count> <com dist="1">dagal</com> <count><interpretation modern_unit="m" modern_value="0.5" system="length" unit="gi" value="0.16666666666666666"/>1(disz) kusz3</count> 
+x-bi <count><interpretation modern_unit="" modern_value="3" system="cardinal" unit="" value="3"/>3(disz)</count> sa 
+sig4-bi <count><interpretation modern_unit="" modern_value="60" system="cardinal" unit="" value="60"/>1(gesz2)</count> 
+<com dist="1">us2-bi</com> u4 <count><interpretation modern_unit="" modern_value="2" system="cardinal" unit="" value="2"/>2(disz)</count> <count><interpretation modern_unit="" modern_value="0.5" system="cardinal" unit="" value="0.5"/>1/2(disz)-kam</count> 
+x <com dist="1">{gi}gur-bi-kam</com> 
+</commodities>

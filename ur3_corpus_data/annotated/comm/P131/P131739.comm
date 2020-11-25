@@ -1,0 +1,122 @@
+<commodities>
+#P131739 = TCL 05, 5668
+#atf: lang sux
+#tr.en: 184 gur, 4 barig 4 ban2 barley (measured according to the royal standard),
+#tr.en: 35 gur emmer,
+#tr.en: 16 gur, 1 barig 5 ban2 wheat,
+#tr.en: from ARAD;
+#tr.en: 3 gur barley,
+#tr.en: deficit restored by Bida;
+#tr.en: total, barley involved: 255 gur, 3 barig 2 ban2;
+# calculation: 3.04;4,4 + 35 + (16;1,5 × 2 =) 32;3,4 + 3;0,0 = 4.15;3,2
+#tr.en: 36 female laborers, (at) 3 ban2 (per month),
+#tr.en: from month “First-offering,” (month 4)
+# some text moved to next line
+#tr.en: year “Harši and Kimaš were destroyed,”
+#tr.en: to month “Dumuzi” (month 12), the completed day 20,
+#tr.en: labor involved: 9360 (workdays);
+# calculation: 36 × 8 2/3 (months) × 30 (days per month) = 9360
+#tr.en: it is the debit;
+#tr.en: Therefrom:
+#tr.en: 1560 female laborer workdays,
+# calculation: 9360 ÷ 6 = 1560
+#tr.en: labor of the female laborers, “free” days;
+#tr.en: 165 gur, 4 barig 4 sila3 dabin flour
+#tr.en: 1 gur, 1 barig 4 ban2 7 sila3 dabin flour
+#tr.en: for the loss (?) into the household filled;
+#tr.en: 16 gur, 4 ban2 rough ground flour,
+#tr.en: 17 gur, 4 barig 5 sila3 “pounded” flour,
+#tr.en: 3 gur, 1 barig 9 sila3 barley,
+#tr.en: labor involved: 6033 1/2 female laborer workdays,
+# calculation: 2.45;4,0,4 + 1;1,4,7 + 16;0,4 + 17;4,0,5 = 3.21;0,3,6 = 60336 sila3 ÷ 10 sila3 per day = 6033.6
+#tr.en: under seal of Lu-dingira;
+#tr.en: 22 1/2 sar of soil,
+#tr.en: per “hoe” 10 (volume-)shekels (per day),
+#tr.en: labor involved: 270 days;
+# calculation: 22 1/2 ÷ 10/60 (sar per day) = 135; 135 × 2 = 270 (?)
+#tr.en: under seal of Ur-Namnunka;
+#tr.en: 283 female laborer workdays,
+#tr.en: female laborers who lifted barley,
+#tr.en: sealed tablets involved: 3,
+#tr.en: under seal of ARAD;
+#tr.en: 20 female laborer workdays,
+#tr.en: straw carried
+#tr.en: to the house of Šulgi,
+#tr.en: under seal of Akalla, the nubanda;
+#tr.en: 234 female laborer workdays,
+#tr.en: female laborers for arzana-flour,
+#tr.en: under seal of Lugal-nig-lagare;
+#tr.en: total: 167 gur, 5 ban2 1 sila3 flour,
+# calculation: 2.45;4,0,4 + 1;1,4,7 = 2.47;0,5,1
+#tr.en: total: 33 gur, 4 barig 4 ban2 5 sila3 sig-flour
+# calculation: 16;0,4 + 17;4,0,5 = 33;,4,4,5 (sig15 + gaz)
+#tr.en: total: 3 gur, 1 barig 9 sila3 barley
+#tr.en: barley involved: 238 gur, 1 barig 3 ban2
+# calculation: 2.47;0,5,1 + (33;4,4,5 × 2 =) 1.07;4,3 + 3;1,0,9 = 3.58;1,3
+#tr.en: total: 8400 1/2 female laborer workdays
+# calculation: 1560 + 6033.5 + 270 + 283 + 20 + 234 = 8400.5 female workers
+#tr.en: booked out;
+#tr.en: the deficit: 17 gur, 1 barig 5 ban2 barley,
+# calculation: 4.15;3,2 - 3.58;1,3 = 17;1,5
+#tr.en: 960 minus 1/2 female laborer workdays,
+# calculation: 9360 - 8400.5 = 959.5
+#tr.en: are the deficit;
+#tr.en: account of
+#tr.en: Dingira,
+#tr.en: labor of the female laborers;
+#tr.en: Month: “Dumuzi” (month 12),
+#tr.en: year: “Harši and Kimaš were destroyed.”
+<count>3(gesz2) 4(asz) 4(barig) 4(ban2) sze gur</count> lugal 
+<count><interpretation modern_unit="" modern_value="35" system="cardinal" unit="" value="35"/>3(u) 5(asz)</count> <com dist="1">ziz2</com> gur 
+<count><interpretation modern_unit="l" modern_value="4910" system="dry capacity" unit="sila3" value="4910"/>1(u) 6(asz) 1(barig) 5(ban2)</count> <com dist="1">gig</com> gur 
+ki ARAD2-ta 
+<count><interpretation modern_unit="l" modern_value="0.0002777777777777778" system="dry capacity" unit="sila3" value="0.0002777777777777778"/>3(asz) sze gur</count> 
+la2-ia3 su-ga bi2-da 
+szunigin <com dist="1">sze-bi</com> <count><interpretation modern_unit="l" modern_value="76700" system="dry capacity" unit="sila3" value="76700"/>4(gesz2) 1(u) 5(asz) 3(barig) 2(ban2) gur</count> 
+<count><interpretation modern_unit="" modern_value="36" system="cardinal" unit="" value="36"/>3(u) 6(disz)</count> geme2 <count><interpretation modern_unit="l" modern_value="30" system="dry capacity" unit="sila3" value="30"/>3(ban2)</count> 
+iti nesag 
+mu ha-ar-szi ki-masz{ki} ba-hul-ta 
+iti {d}dumu-zi u4 <count><interpretation modern_unit="" modern_value="20" system="cardinal" unit="" value="20"/>2(u)-am3</count> zal-la-asz 
+<com dist="1">a2-bi</com> <count><interpretation modern_unit="" modern_value="9000" system="cardinal" unit="" value="9000"/>2(szar2) 3(geszu)</count> <count><interpretation modern_unit="" modern_value="360" system="cardinal" unit="" value="360"/>6(gesz2)-kam</count> 
+sag-nig2-gur11-ra-kam 
+sza3-bi-ta 
+<count><interpretation modern_unit="" modern_value="1560" system="cardinal" unit="" value="1560"/>2(geszu) 6(gesz2)</count> geme2 u4 <count><interpretation modern_unit="" modern_value="1" system="cardinal" unit="" value="1"/>1(disz)-sze3</count> 
+a2 geme2 u4-du8-a 
+<count><interpretation modern_unit="l" modern_value="49744" system="dry capacity" unit="sila3" value="49744"/>2(gesz2) 4(u) 5(asz) 4(barig) 4(disz) sila3</count> <com dist="1">dabin</com> gur 
+<count><interpretation modern_unit="l" modern_value="407" system="dry capacity" unit="sila3" value="407"/>1(asz) 1(barig) 4(ban2) 7(disz) sila3</count> <com dist="1">dabin</com> gur 
+bi2-gu7-sze3 e2-a si-ga 
+<count><interpretation modern_unit="l" modern_value="4840" system="dry capacity" unit="sila3" value="4840"/>1(u) 6(asz) 4(ban2)</count> zi3 sig15 gur 
+<count><interpretation modern_unit="l" modern_value="5345" system="dry capacity" unit="sila3" value="5345"/>1(u) 7(asz) 4(barig) 5(disz) sila3</count> <com dist="1">zi3</com> gazx(KUM) gur 
+<count><interpretation modern_unit="l" modern_value="969" system="dry capacity" unit="sila3" value="969"/>3(asz) 1(barig) 9(disz) sila3 sze gur</count> 
+<com dist="1">a2-bi</com> <count><interpretation modern_unit="" modern_value="6033.5" system="cardinal" unit="" value="6033.5"/>1(szar2) 4(geszu) 3(u) 3(disz) 1/2(disz)</count> geme2 u4 <count><interpretation modern_unit="" modern_value="1" system="cardinal" unit="" value="1"/>1(disz)-sze3</count> 
+kiszib3 lu2-dingir-ra 
+<count><interpretation modern_unit="bricks" modern_value="194400.0" system="bricks" unit="gin2" value="16200.0"/><interpretation modern_unit="m^2" modern_value="810.0" system="surface" unit="gin2" value="1350.0"/><interpretation modern_unit="l" modern_value="405000.0" system="volume" unit="gin2" value="1350.0"/>2(u) 2(disz) 1/2(disz) sar</count> <com dist="1">sahar</com> 
+al-e <count><interpretation modern_unit="" modern_value="10" system="cardinal" unit="" value="10"/>1(u)</count> gin2-ta 
+<com dist="1">a2-bi</com> u4 <count><interpretation modern_unit="" modern_value="240" system="cardinal" unit="" value="240"/>4(gesz2)</count> <count><interpretation modern_unit="" modern_value="30" system="cardinal" unit="" value="30"/>3(u)-kam</count> 
+kiszib3 ur-{d}nam2-nun-ka 
+<count><interpretation modern_unit="" modern_value="283" system="cardinal" unit="" value="283"/>4(gesz2) 4(u) 3(disz)</count> geme2 u4 <count><interpretation modern_unit="" modern_value="1" system="cardinal" unit="" value="1"/>1(disz)-sze3</count> 
+geme2 <com dist="1">sze</com> zi-ga 
+kiszib3-bi <count><interpretation modern_unit="" modern_value="3" system="cardinal" unit="" value="3"/>3(disz)-am3</count> 
+kiszib3 ARAD2 
+<count><interpretation modern_unit="" modern_value="20" system="cardinal" unit="" value="20"/>2(u)</count> geme2 u4 <count><interpretation modern_unit="" modern_value="1" system="cardinal" unit="" value="1"/>1(disz)-sze3</count> 
+in-u ga6-ga2 
+e2 {d}szul-gi-ra-sze3 
+kiszib3 a-kal-la nu-banda3 
+<count><interpretation modern_unit="" modern_value="234" system="cardinal" unit="" value="234"/>3(gesz2) 5(u) 4(disz)</count> geme2 u4 <count><interpretation modern_unit="" modern_value="1" system="cardinal" unit="" value="1"/>1(disz)-sze3</count> 
+geme2 <com dist="1">ar-za-na-sze3</com> 
+kiszib3 lugal-nig2-lagar-e 
+szunigin <count><interpretation modern_unit="l" modern_value="50151" system="dry capacity" unit="sila3" value="50151"/>2(gesz2) 4(u) 7(asz) 5(ban2) 1(disz) sila3</count> <com dist="1">dabin</com> gur 
+szunigin <count><interpretation modern_unit="l" modern_value="10185" system="dry capacity" unit="sila3" value="10185"/>3(u) 3(asz) 4(barig) 4(ban2) 5(disz) sila3</count> <com dist="1">zi3</com> sig15 gur 
+szunigin <count><interpretation modern_unit="l" modern_value="969" system="dry capacity" unit="sila3" value="969"/>3(asz) 1(barig) 9(disz) sila3 sze gur</count> 
+<com dist="1">sze-bi</com> <count><interpretation modern_unit="l" modern_value="71490" system="dry capacity" unit="sila3" value="71490"/>3(gesz2) 5(u) 8(asz) 1(barig) 3(ban2) gur</count> 
+szunigin <count><interpretation modern_unit="" modern_value="8400.5" system="cardinal" unit="" value="8400.5"/>2(szar2) 2(geszu) 1/2(disz)</count> geme2 u4 <count><interpretation modern_unit="" modern_value="1" system="cardinal" unit="" value="1"/>1(disz)-sze3</count> 
+zi-ga-am3 
+la2-ia3 <count>1(u) 7(asz) 1(barig) 5(ban2) sze gur</count> 
+<count><interpretation modern_unit="" modern_value="959.5" system="cardinal" unit="" value="959.5"/>1(geszu) 6(gesz2) la2 1/2(disz)</count> geme2 u4 <count><interpretation modern_unit="" modern_value="1" system="cardinal" unit="" value="1"/>1(disz)-sze3</count> 
+la2-ia3-am3 
+nig2-ka9-ak 
+dingir-ra-ka 
+a2 <com dist="1">geme2-ka</com> 
+iti {d}dumu-zi 
+mu ha-ar-szi ki-masz{ki} ba-hul 
+</commodities>

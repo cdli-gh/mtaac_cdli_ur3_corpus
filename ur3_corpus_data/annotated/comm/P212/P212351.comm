@@ -1,0 +1,33 @@
+<commodities>
+#P212351 = CDLJ 2002/1, no. 11
+#atf: lang sux
+#tr.en: 10 sheep, sealed tablet of Lu-saga,
+#tr.en: 2 sheep, sealed tablet of Ur-Iškur šabra,
+#tr.en: 1 sheep, sealed tablet of Habamu
+#tr.en: 1 sheep, sealed (document) of Ilia,
+#tr.en: 4 sheep of the cook Uršu,
+#tr.en: 1 sheep, sealed tablet of Ur-sukkal,
+#tr.en: 1 sheep of Rim-ili,
+#tr.en: did Abbakala receive.
+#tr.en: Month “Šulgi festival,”
+#tr.en: year: “The house of Šara was erected.”
+#tr.en:
+#tr.en: 20 (sheep)
+#tr.en: Abbakala,
+#tr.en: scribe,
+#tr.en: son of Lu-Ningirsu.
+<count><interpretation modern_unit="" modern_value="10" system="cardinal" unit="" value="10"/>1(u)</count> <com dist="1">udu</com> kiszib3 lu2-saga 
+<count><interpretation modern_unit="" modern_value="2" system="cardinal" unit="" value="2"/>2(disz)</count> <com dist="1">udu</com> kiszib3 ur-{d}iszkur szabra 
+<count><interpretation modern_unit="" modern_value="1" system="cardinal" unit="" value="1"/>1(disz)</count> <com dist="1">udu</com> kiszib3 ha-ba-mu 
+<count><interpretation modern_unit="" modern_value="1" system="cardinal" unit="" value="1"/>1(disz)</count> <com dist="1">udu</com> kiszib3 i3-li2-a 
+<count><interpretation modern_unit="" modern_value="4" system="cardinal" unit="" value="4"/>4(disz)</count> <com dist="1">udu</com> ur-szu muhaldim 
+<count><interpretation modern_unit="" modern_value="1" system="cardinal" unit="" value="1"/>1(disz)</count> <com dist="1">udu</com> kiszib3 ur-sukkal 
+<count><interpretation modern_unit="" modern_value="1" system="cardinal" unit="" value="1"/>1(disz)</count> <com dist="1">udu</com> ri-im-i3-li2 
+ab-ba-kal-la szu ba-ti 
+iti ezem-{d}szul-gi 
+mu e2 {d}szara2 ba-du3 
+<count><interpretation modern_unit="" modern_value="20" system="cardinal" unit="" value="20"/>2(u)</count> 
+ab-ba-kal-la 
+dub-sar 
+dumu lu2-{d}nin-gir2-su 
+</commodities>

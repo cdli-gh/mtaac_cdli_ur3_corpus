@@ -1,0 +1,24 @@
+<commodities>
+#P392641 = AA 082
+#atf: lang sux
+#tr.en: 30 sheep, grain-fed, 5/6 sila3 of barley each,
+#tr.en: 2 ban2 4 sila3 of bran,
+#tr.en: for 30 days,
+#tr.en: the total, its barley: 2 gur 2 barig 3 ban2;
+# calculation: 30 × 5/6 × 30 = 750 = 2;2,3
+#tr.en: the total, its bran: 2 gur 2 barig;
+# calculation: 24 × 30 = 720 = 2;2,0
+#tr.en: from Inim-Šara in Umma
+#tr.en: via Alulu;
+#tr.en: month “Harvest,”
+#tr.en: year after: “Enmaḫgalana was installed.”
+<count><interpretation modern_unit="" modern_value="30" system="cardinal" unit="" value="30"/>3(u)</count> <com dist="1">udu</com> niga <count><interpretation modern_unit="l" modern_value="0.8333333333333334" system="liquid capacity" unit="sila3" value="0.8333333333333334"/><interpretation modern_unit="l" modern_value="0.8333333333333334" system="dry capacity" unit="sila3" value="0.8333333333333334"/>5/6(disz) sila3</count> sze-ta 
+<count><interpretation modern_unit="l" modern_value="24" system="dry capacity" unit="sila3" value="24"/>2(ban2) 4(disz) sila3</count> duh 
+u4 <count><interpretation modern_unit="" modern_value="30" system="cardinal" unit="" value="30"/>3(u)-sze3</count> 
+szunigin <com dist="1">sze-bi</com> <count><interpretation modern_unit="l" modern_value="750" system="dry capacity" unit="sila3" value="750"/>2(asz) 2(barig) 3(ban2) gur</count> 
+szunigin <com dist="1">duh-bi</com> <count><interpretation modern_unit="l" modern_value="720" system="dry capacity" unit="sila3" value="720"/>2(asz) 2(barig) gur</count> 
+ki inim-{d}szara2 sza3 umma{ki} 
+giri3 a-lu5-lu5 
+iti sze-sag11-ku5 
+mu us2-sa en-mah-gal-an-na ba-hun 
+</commodities>

@@ -1,0 +1,19 @@
+<commodities>
+#P136595 = UET 3, 0278
+#atf: lang sux
+<count><interpretation modern_unit="l" modern_value="12" system="dry capacity" unit="sila3" value="12"/>1(ban2) 2(disz) sila3</count> {d}nin-gal 
+<count><interpretation modern_unit="l" modern_value="8" system="liquid capacity" unit="sila3" value="8"/><interpretation modern_unit="l" modern_value="8" system="dry capacity" unit="sila3" value="8"/>8(disz) sila3</count> {d}nin-ezem 
+<count><interpretation modern_unit="l" modern_value="5" system="liquid capacity" unit="sila3" value="5"/><interpretation modern_unit="l" modern_value="5" system="dry capacity" unit="sila3" value="5"/>5(disz) sila3</count> {d}nin-ku3-nun-na 
+<count><interpretation modern_unit="l" modern_value="6" system="liquid capacity" unit="sila3" value="6"/><interpretation modern_unit="l" modern_value="6" system="dry capacity" unit="sila3" value="6"/>6(disz) sila3</count> {d}gu-la 
+<count><interpretation modern_unit="l" modern_value="2" system="liquid capacity" unit="sila3" value="2"/><interpretation modern_unit="l" modern_value="2" system="dry capacity" unit="sila3" value="2"/>2(disz) sila3</count> {d}nin-a-zu 
+<count><interpretation modern_unit="l" modern_value="4" system="liquid capacity" unit="sila3" value="4"/><interpretation modern_unit="l" modern_value="4" system="dry capacity" unit="sila3" value="4"/>4(disz) sila3</count> an-nu-ni-tum 
+<count><interpretation modern_unit="l" modern_value="37" system="dry capacity" unit="sila3" value="37"/>3(ban2) 7(disz) sila3</count> sza3-bi-ta 
+... 
+... 
+<count><interpretation modern_unit="l" modern_value="2" system="liquid capacity" unit="sila3" value="2"/><interpretation modern_unit="l" modern_value="2" system="dry capacity" unit="sila3" value="2"/>2(disz) sila3</count> {d}nin-szubur gu-la 
+<count><interpretation modern_unit="l" modern_value="2" system="liquid capacity" unit="sila3" value="2"/><interpretation modern_unit="l" modern_value="2" system="dry capacity" unit="sila3" value="2"/>2(disz) sila3</count> {d}nin-szubur x 
+<count><interpretation modern_unit="l" modern_value="1.5" system="liquid capacity" unit="sila3" value="1.5"/><interpretation modern_unit="l" modern_value="1.5" system="dry capacity" unit="sila3" value="1.5"/>1(disz) 1/2(disz) sila3</count> {d}hendur-sag 
+<count><interpretation modern_unit="l" modern_value="1.1666666666666667" system="liquid capacity" unit="sila3" value="1.1666666666666667"/><interpretation modern_unit="l" modern_value="1.1666666666666667" system="dry capacity" unit="sila3" value="1.1666666666666667"/>1(disz) sila3 1(u) gin2</count> {d}nin-mar{ki} 
+<count><interpretation modern_unit="l" modern_value="1.6666666666666665" system="liquid capacity" unit="sila3" value="1.6666666666666665"/><interpretation modern_unit="l" modern_value="1.6666666666666665" system="dry capacity" unit="sila3" value="1.6666666666666665"/>1(disz) 2/3(disz) sila3</count> {d}nin-gesz-zi-da 
+<count><interpretation modern_unit="l" modern_value="1" system="liquid capacity" unit="sila3" value="1"/><interpretation modern_unit="l" modern_value="1" system="dry capacity" unit="sila3" value="1"/>1(disz) sila3</count> {d}szul-gi-ra 
+</commodities>

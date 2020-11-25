@@ -1,0 +1,23 @@
+<commodities>
+#P290156 = BPOA 7, 2386
+#atf: lang sux
+# some text moved to next line
+# copy Foster
+# or with copy Foster <gaba>-ri ...
+<count><interpretation modern_unit="l" modern_value="180" system="dry capacity" unit="sila3" value="180"/>3(barig)</count> <com dist="1">{gesz}haszhur</com> sa2-du11 lugal 
+<count><interpretation modern_unit="l" modern_value="190" system="dry capacity" unit="sila3" value="190"/>3(barig) 1(ban2)</count> <com dist="1">{gesz}pesz3</com> duru5 
+bur-e szu2-a 
+iti sze-sag11-ku5-ta 
+u4 <count><interpretation modern_unit="" modern_value="22" system="cardinal" unit="" value="22"/>2(u) 2(disz)-am3</count> zal-la-ta 
+iti <com dist="1">dal</com> u4 <count><interpretation modern_unit="" modern_value="14" system="cardinal" unit="" value="14"/>1(u) 4(disz)-sze3</count> 
+iti <count><interpretation modern_unit="" modern_value="3" system="cardinal" unit="" value="3"/>3(disz)</count> u4 <count><interpretation modern_unit="" modern_value="22" system="cardinal" unit="" value="22"/>2(u) 2(disz)-sze3</count> 
+mu en-nun-ne2 eridu{ki} ba-hun 
+<count><interpretation modern_unit="l" modern_value="240" system="dry capacity" unit="sila3" value="240"/>4(barig)</count> <com dist="1">{gesz}haszhur</com> duru5 
+<count><interpretation modern_unit="l" modern_value="7" system="liquid capacity" unit="sila3" value="7"/><interpretation modern_unit="l" modern_value="7" system="dry capacity" unit="sila3" value="7"/>1(asz) 6(disz) sila3</count> <com dist="1">{gesz}pesz3</com> duru5 gur 
+iti sig4-gesz zal-la-ta 
+iti dal u4 <count><interpretation modern_unit="" modern_value="19" system="cardinal" unit="" value="19"/>2(u) la2 1(disz)-a-asz</count> 
+mu en {d}nanna ga-esz{ki} ba-hun 
+bur-e szu2-a 
+... sa2-du11-kam 
+<com dist="1">gaba-ri</com> sza3 kiszib3-ba 
+</commodities>

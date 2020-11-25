@@ -1,0 +1,19 @@
+<commodities>
+#P128089 = RO 05, 14 14
+#atf: lang sux
+... 
+...-x 
+x szesz-... 
+<count><interpretation modern_unit="" modern_value="none" system="unknown" unit="" value="none"/>2(asz) dug 6(disz) sila3 x</count> 
+gesz-u4-ka x 
+<count><interpretation modern_unit="l" modern_value="4" system="liquid capacity" unit="sila3" value="4"/><interpretation modern_unit="l" modern_value="4" system="dry capacity" unit="sila3" value="4"/>4(disz) sila3</count> <com dist="1">kasz</com> du lu2-x 
+<count><interpretation modern_unit="l" modern_value="3" system="liquid capacity" unit="sila3" value="3"/><interpretation modern_unit="l" modern_value="3" system="dry capacity" unit="sila3" value="3"/>3(disz) sila3</count> <com dist="1">kasz</com> du ma2-x 
+<count><interpretation modern_unit="l" modern_value="5" system="liquid capacity" unit="sila3" value="5"/><interpretation modern_unit="l" modern_value="5" system="dry capacity" unit="sila3" value="5"/>5(disz) sila3</count> <com dist="1">kasz</com> saga mu-x 
+<count><interpretation modern_unit="l" modern_value="5" system="liquid capacity" unit="sila3" value="5"/>5(disz) sila3 dug</count> saga <com dist="1">ur-x</com> 
+<count><interpretation modern_unit="l" modern_value="10" system="liquid capacity" unit="sila3" value="10"/>1(u) sila3 dug</count> saga lu2-x 
+<count><interpretation modern_unit="l" modern_value="2" system="liquid capacity" unit="sila3" value="2"/>2(disz) sila3 dug</count> saga <com dist="1">sag-x</com> 
+<count><interpretation modern_unit="l" modern_value="90" system="liquid capacity" unit="sila3" value="90"/>3(asz) dug</count> saga ba-zi-x 
+<count><interpretation modern_unit="" modern_value="1" system="cardinal" unit="" value="1"/>1(asz)</count> <com dist="1">kasz</com> saga <count><interpretation modern_unit="" modern_value="none" system="unknown" unit="" value="none"/>1(asz) dug x</count> 
+lu2-ab-x 
+... 
+</commodities>

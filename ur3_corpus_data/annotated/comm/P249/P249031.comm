@@ -1,0 +1,15 @@
+<commodities>
+#P249031 = AAICAB 1/3, pl. 204, Bod B 11 (118)
+#atf: lang sux
+<count><interpretation modern_unit="" modern_value="none" system="unknown" unit="" value="none"/>1(u) 4(disz) ... x x</count> 
+<count><interpretation modern_unit="l" modern_value="4" system="liquid capacity" unit="sila3" value="4"/><interpretation modern_unit="l" modern_value="4" system="dry capacity" unit="sila3" value="4"/>4(disz) sila3</count> <com dist="1">kasz</com> ninda-ta 
+u4 <count><interpretation modern_unit="" modern_value="3" system="cardinal" unit="" value="3"/>3(disz)-kam</count> 
+<count><interpretation modern_unit="l" modern_value="44" system="dry capacity" unit="sila3" value="44"/>4(ban2) 4(disz) sila3</count> <com dist="1">kasz</com> <count><interpretation modern_unit="l" modern_value="44" system="dry capacity" unit="sila3" value="44"/>4(ban2) 4(disz) sila3</count> ninda 
+a2 u4 n-kam 
+<count><interpretation modern_unit="l" modern_value="44" system="dry capacity" unit="sila3" value="44"/>4(ban2) 4(disz) sila3</count> <com dist="1">kasz</com> <count><interpretation modern_unit="l" modern_value="44" system="dry capacity" unit="sila3" value="44"/>4(ban2) 4(disz) sila3</count> ninda 
+a2 u4 n-kam 
+... x x 
+... 
+... 
+... lu2 ... 
+</commodities>

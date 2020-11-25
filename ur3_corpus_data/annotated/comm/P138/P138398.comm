@@ -1,0 +1,15 @@
+<commodities>
+#P138398 = UET 9, 0267
+#atf: lang sux
+n tug2 NE x husz asz szar3 
+n <count><interpretation modern_unit="" modern_value="2" system="cardinal" unit="" value="2"/>1(disz) 1(asz)</count> <com dist="1">tug2</com> nig2-lam2 tab-ba us2 szar3 
+n <count><interpretation modern_unit="" modern_value="8" system="cardinal" unit="" value="8"/>2(disz) 2(disz) 4(asz)</count> <com dist="1">tug2</com> nig2-lam2 us2 szar3 
+<count><interpretation modern_unit="" modern_value="1" system="cardinal" unit="" value="1"/>1(asz)</count> tug2 guz-za szar3 
+<count><interpretation modern_unit="" modern_value="2" system="cardinal" unit="" value="2"/>2(asz)</count> tug2 nig2-lam ab-us2 x 
+n <com dist="1">tug2</com> nig2-lam2 us2 
+<count><interpretation modern_unit="" modern_value="none" system="unknown" unit="" value="none"/>1(disz) ... x ...</count> 
+szunigin <count><interpretation modern_unit="" modern_value="4" system="cardinal" unit="" value="4"/>4(disz)</count> <com dist="1">tug2</com> bar-dul5 x-x szar3 
+szunigin <count><interpretation modern_unit="" modern_value="12" system="cardinal" unit="" value="12"/>1(u) 2(disz)</count> <com dist="1">tug2</com> SZE3-SZE x <count><interpretation modern_unit="" modern_value="4.5" system="cardinal" unit="" value="4.5"/>1/2(disz) 4(disz)</count> <com dist="1">dub</com> x szar3 
+szunigin <count><interpretation modern_unit="" modern_value="5" system="cardinal" unit="" value="5"/>5(disz)</count> <com dist="1">tug2</com> x-... 
+szunigin <count><interpretation modern_unit="" modern_value="3" system="cardinal" unit="" value="3"/>3(disz)</count> <com dist="1">tug2</com> bar-dul5 guz-za ... 
+</commodities>

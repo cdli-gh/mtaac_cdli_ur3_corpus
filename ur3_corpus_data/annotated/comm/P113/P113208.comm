@@ -1,0 +1,17 @@
+<commodities>
+#P113208 = MVN 01, 175
+#atf: lang sux
+<count><interpretation modern_unit="" modern_value="1" system="cardinal" unit="" value="1"/>1(disz)</count> lu2 kin-gi4-a 
+<count><interpretation modern_unit="l" modern_value="6" system="liquid capacity" unit="sila3" value="6"/><interpretation modern_unit="l" modern_value="6" system="dry capacity" unit="sila3" value="6"/>6(disz) sila3</count> lu2 sukkal-mah 
+<count><interpretation modern_unit="l" modern_value="9" system="liquid capacity" unit="sila3" value="9"/><interpretation modern_unit="l" modern_value="9" system="dry capacity" unit="sila3" value="9"/>9(disz) sila3</count> lu2-giri17-zal 
+<count><interpretation modern_unit="l" modern_value="5" system="liquid capacity" unit="sila3" value="5"/><interpretation modern_unit="l" modern_value="5" system="dry capacity" unit="sila3" value="5"/>5(disz) sila3</count> lu2 kin-gi4-a 
+<count><interpretation modern_unit="l" modern_value="4" system="liquid capacity" unit="sila3" value="4"/><interpretation modern_unit="l" modern_value="4" system="dry capacity" unit="sila3" value="4"/>4(disz) sila3</count> me-nigar 
+<count><interpretation modern_unit="l" modern_value="6" system="liquid capacity" unit="sila3" value="6"/><interpretation modern_unit="l" modern_value="6" system="dry capacity" unit="sila3" value="6"/>6(disz) sila3</count> <com dist="1">zi3</com> sig15 
+<count><interpretation modern_unit="" modern_value="4" system="cardinal" unit="" value="4"/>4(disz)</count> sa2-du11 
+<count><interpretation modern_unit="l" modern_value="1" system="liquid capacity" unit="sila3" value="1"/><interpretation modern_unit="l" modern_value="1" system="dry capacity" unit="sila3" value="1"/>1(disz) sila3</count> <com dist="1">tu7</com> 
+szunigin <count><interpretation modern_unit="l" modern_value="6" system="liquid capacity" unit="sila3" value="6"/><interpretation modern_unit="l" modern_value="6" system="dry capacity" unit="sila3" value="6"/>6(disz) sila3</count> <com dist="1">zi3</com> sig15 
+szunigin <count><interpretation modern_unit="" modern_value="none" system="unknown" unit="" value="none"/>2(disz) x x x</count> 
+szunigin <count><interpretation modern_unit="l" modern_value="54" system="dry capacity" unit="sila3" value="54"/>5(ban2) 4(disz) sila3</count> <com dist="1">dabin</com> 
+u4 <count><interpretation modern_unit="" modern_value="5" system="cardinal" unit="" value="5"/>5(disz)-kam</count> 
+iti ezem-{d}szul-gi 
+</commodities>

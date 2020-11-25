@@ -1,0 +1,49 @@
+<commodities>
+#P101256 = AnOr 01, 265 
+#atf: lang sux 
+#tr.en: 5 sila3 beer, 5 sila3 bread, 2 bundles onions, 
+#tr.en: 3 shekels oil, 2 shekels alkali-plant, 
+#tr.en: for Luduga; 
+#tr.en: 5 sila3 beer, 5 sila3 bread, 2 bundles onions, 
+#tr.en: 3 shekels oil, 2 shekels alkali-plant, 
+#tr.en: for Dayyānī; 
+#tr.en: 2 ban2 beer, 2 ban2 bread, 2 bundles onions, 
+#tr.en: 10 shekels oil, 2 shekels alkali-plant, 
+#tr.en: for Nanna-zi, the cook; 
+#tr.en: 3 sila3 beer, 2 sila3 bread, 2 bundles onions, 
+#tr.en: 3 shekels oil, 2 shekels alkali-plant, 
+#tr.en: for Lugal-melam, the cook; 
+#tr.en: 3 sila3 beer, 2 sila3 bread, 2 bundles onions, 
+#tr.en: 3 shekels oil, 2 shekels alkali-plant, 
+#tr.en: for Ḫubu’a; 
+#tr.en: 3 sila3 beer, 2 sila3 bread, 2 bundles onions, 
+#tr.en: 3 shekels oil, 2 shekels alkali-plant, 
+#tr.en: for Abba-abba; 
+#tr.en: total: 4 ban2 less 1 sila3 beer; 3 ban2 6 sila3 bread; 12 bundles onions; 
+#tr.en: 1/3 sila3 5 shekels oil; 12 shekels alkali-plant; 
+#tr.en: 27th day, 
+# some text moved to next line 
+#tr.en: month: “Dumuzi.” 
+<count><interpretation modern_unit="l" modern_value="5" system="liquid capacity" unit="sila3" value="5"/><interpretation modern_unit="l" modern_value="5" system="dry capacity" unit="sila3" value="5"/>5(disz) sila3</count> <com dist="1">kasz</com> <count><interpretation modern_unit="l" modern_value="5" system="liquid capacity" unit="sila3" value="5"/><interpretation modern_unit="l" modern_value="5" system="dry capacity" unit="sila3" value="5"/>5(disz) sila3</count> ninda <count><interpretation modern_unit="" modern_value="2" system="cardinal" unit="" value="2"/>2(disz)</count> sa szum2 
+<count><interpretation modern_unit="" modern_value="0.05" system="cardinal" unit="" value="0.05"/>3(disz) gin2</count> i3 <count><interpretation modern_unit="" modern_value="0.03333333333333333" system="cardinal" unit="" value="0.03333333333333333"/>2(disz) gin2</count> naga 
+lu2-du10-ga 
+<count><interpretation modern_unit="l" modern_value="5" system="liquid capacity" unit="sila3" value="5"/><interpretation modern_unit="l" modern_value="5" system="dry capacity" unit="sila3" value="5"/>5(disz) sila3</count> <com dist="1">kasz</com> <count><interpretation modern_unit="l" modern_value="5" system="liquid capacity" unit="sila3" value="5"/><interpretation modern_unit="l" modern_value="5" system="dry capacity" unit="sila3" value="5"/>5(disz) sila3</count> ninda <count><interpretation modern_unit="" modern_value="2" system="cardinal" unit="" value="2"/>2(disz)</count> sa szum2 
+<count><interpretation modern_unit="" modern_value="0.05" system="cardinal" unit="" value="0.05"/>3(disz) gin2</count> i3 <count><interpretation modern_unit="" modern_value="0.03333333333333333" system="cardinal" unit="" value="0.03333333333333333"/>2(disz) gin2</count> naga 
+da-a-ni 
+<count><interpretation modern_unit="l" modern_value="20" system="dry capacity" unit="sila3" value="20"/>2(ban2)</count> kasz <count><interpretation modern_unit="l" modern_value="20" system="dry capacity" unit="sila3" value="20"/>2(ban2)</count> ninda <count><interpretation modern_unit="" modern_value="2" system="cardinal" unit="" value="2"/>2(disz)</count> sa szum2 
+<count><interpretation modern_unit="" modern_value="0.16666666666666666" system="cardinal" unit="" value="0.16666666666666666"/>1(u) gin2</count> i3 <count><interpretation modern_unit="" modern_value="0.03333333333333333" system="cardinal" unit="" value="0.03333333333333333"/>2(disz) gin2</count> naga 
+{d}nanna-zi muhaldim 
+<count><interpretation modern_unit="l" modern_value="3" system="liquid capacity" unit="sila3" value="3"/><interpretation modern_unit="l" modern_value="3" system="dry capacity" unit="sila3" value="3"/>3(disz) sila3</count> <com dist="1">kasz</com> <count><interpretation modern_unit="l" modern_value="2" system="liquid capacity" unit="sila3" value="2"/><interpretation modern_unit="l" modern_value="2" system="dry capacity" unit="sila3" value="2"/>2(disz) sila3</count> ninda <count><interpretation modern_unit="" modern_value="2" system="cardinal" unit="" value="2"/>2(disz)</count> sa szum2 
+<count><interpretation modern_unit="" modern_value="0.05" system="cardinal" unit="" value="0.05"/>3(disz) gin2</count> i3 <count><interpretation modern_unit="" modern_value="0.03333333333333333" system="cardinal" unit="" value="0.03333333333333333"/>2(disz) gin2</count> naga 
+lugal-me-lam2 muhaldim 
+<count><interpretation modern_unit="l" modern_value="3" system="liquid capacity" unit="sila3" value="3"/><interpretation modern_unit="l" modern_value="3" system="dry capacity" unit="sila3" value="3"/>3(disz) sila3</count> <com dist="1">kasz</com> <count><interpretation modern_unit="l" modern_value="2" system="liquid capacity" unit="sila3" value="2"/><interpretation modern_unit="l" modern_value="2" system="dry capacity" unit="sila3" value="2"/>2(disz) sila3</count> ninda <count><interpretation modern_unit="" modern_value="2" system="cardinal" unit="" value="2"/>2(disz)</count> 
+<count><interpretation modern_unit="" modern_value="0.05" system="cardinal" unit="" value="0.05"/>3(disz) gin2</count> <com dist="1">i3</com> <count><interpretation modern_unit="" modern_value="0.03333333333333333" system="cardinal" unit="" value="0.03333333333333333"/>2(disz) gin2</count> naga 
+hu-bu-a 
+<count><interpretation modern_unit="l" modern_value="3" system="liquid capacity" unit="sila3" value="3"/><interpretation modern_unit="l" modern_value="3" system="dry capacity" unit="sila3" value="3"/>3(disz) sila3</count> <com dist="1">kasz</com> <count><interpretation modern_unit="l" modern_value="2" system="liquid capacity" unit="sila3" value="2"/><interpretation modern_unit="l" modern_value="2" system="dry capacity" unit="sila3" value="2"/>2(disz) sila3</count> ninda <count><interpretation modern_unit="" modern_value="2" system="cardinal" unit="" value="2"/>2(disz)</count> sa szum2 
+<count><interpretation modern_unit="" modern_value="0.05" system="cardinal" unit="" value="0.05"/>3(disz) gin2</count> i3 <count><interpretation modern_unit="" modern_value="0.03333333333333333" system="cardinal" unit="" value="0.03333333333333333"/>2(disz) gin2</count> naga 
+abba2-abba2 
+szunigin <count><interpretation modern_unit="l" modern_value="39" system="dry capacity" unit="sila3" value="39"/>4(ban2) la2 1(disz) sila3</count> <com dist="1">kasz</com> <count><interpretation modern_unit="l" modern_value="36" system="dry capacity" unit="sila3" value="36"/>3(ban2) 6(disz) sila3</count> ninda <count><interpretation modern_unit="" modern_value="12" system="cardinal" unit="" value="12"/>1(u) 2(disz)</count> sa szum2 
+<count><interpretation modern_unit="l" modern_value="0.41666666666666663" system="liquid capacity" unit="sila3" value="0.41666666666666663"/><interpretation modern_unit="l" modern_value="0.41666666666666663" system="dry capacity" unit="sila3" value="0.41666666666666663"/>1/3(disz) sila3 5(disz) gin2</count> i3 <count><interpretation modern_unit="" modern_value="0.19999999999999998" system="cardinal" unit="" value="0.19999999999999998"/>1(u) 2(disz) gin2</count> naga 
+u4 <count><interpretation modern_unit="" modern_value="20" system="cardinal" unit="" value="20"/>2(u)</count> <count><interpretation modern_unit="" modern_value="7" system="cardinal" unit="" value="7"/>7(disz)-kam</count> 
+iti {d}dumu-zi 
+</commodities>

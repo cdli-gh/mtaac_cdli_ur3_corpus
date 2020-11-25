@@ -1,0 +1,12 @@
+<commodities>
+#P121386 = NATN 688
+#atf: lang sux
+<count><interpretation modern_unit="l" modern_value="720" system="dry capacity" unit="sila3" value="720"/>2(asz) 2(barig)</count> ur-nigar 
+... <count><interpretation modern_unit="l" modern_value="460" system="dry capacity" unit="sila3" value="460"/>1(asz) 2(barig) 4(ban2)</count> ur-nigar{gar} 
+<count><interpretation modern_unit="" modern_value="5" system="cardinal" unit="" value="5"/>5(asz)</count> ur2-ra-ni 
+<count><interpretation modern_unit="l" modern_value="1660" system="dry capacity" unit="sila3" value="1660"/>5(asz) 2(barig) 4(ban2)</count> ur-mes 
+<count><interpretation modern_unit="l" modern_value="1540" system="dry capacity" unit="sila3" value="1540"/>5(asz) 4(ban2)</count> lugal-a2-zi-da 
+x <count><interpretation modern_unit="l" modern_value="100" system="dry capacity" unit="sila3" value="100"/>1(barig) 4(ban2)</count> i3-ba-ma 
+... lugal-he2-du7 
+x x <com dist="1">giri3-ni</com> 
+</commodities>

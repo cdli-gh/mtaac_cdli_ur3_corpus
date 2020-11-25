@@ -1,0 +1,105 @@
+<commodities>
+#P141846 = UNT 015
+#atf: lang sux
+# calculation: (40 × 2) + (54 × 1 1/2) + (75 × 1) = 236 mina for geme2
+# calculation: (29 × 4) + (201 × 3) = 719 mina for dumu
+# copy has 1(u) 2(disz)
+<count><interpretation modern_unit="" modern_value="29" system="cardinal" unit="" value="29"/>3(u) la2 1(disz)</count> geme2 <count><interpretation modern_unit="" modern_value="4" system="cardinal" unit="" value="4"/>4(disz)</count> ma-na-ta 
+<count><interpretation modern_unit="" modern_value="201" system="cardinal" unit="" value="201"/>3(gesz2) 2(u) 1(disz)</count> geme2 <count><interpretation modern_unit="" modern_value="3" system="cardinal" unit="" value="3"/>3(disz)-ta</count> 
+<count><interpretation modern_unit="" modern_value="6" system="cardinal" unit="" value="6"/>6(disz)</count> geme2 <count><interpretation modern_unit="" modern_value="1" system="cardinal" unit="" value="1"/>1(disz)</count> <com dist="1">tug2-ta</com> 
+<count><interpretation modern_unit="" modern_value="40" system="cardinal" unit="" value="40"/>4(u)</count> dumu <count><interpretation modern_unit="" modern_value="2" system="cardinal" unit="" value="2"/>2(disz)-ta</count> 
+<count><interpretation modern_unit="" modern_value="54" system="cardinal" unit="" value="54"/>5(u) 4(disz)</count> dumu <count><interpretation modern_unit="" modern_value="1.5" system="cardinal" unit="" value="1.5"/>1(disz) 1/2(disz)-ta</count> 
+<count><interpretation modern_unit="" modern_value="75" system="cardinal" unit="" value="75"/>1(gesz2) 1(u) 5(disz)</count> dumu <count><interpretation modern_unit="" modern_value="1" system="cardinal" unit="" value="1"/>1(disz)-ta</count> 
+<com dist="1">siki-bi</com> <count><interpretation modern_unit="g" modern_value="359500.0" system="weight" unit="gin2" value="43140"/>1(u) 2(asz) gu2 la2 1(disz) ma-na</count> 
+siki mug-bi <count><interpretation modern_unit="g" modern_value="118000.00000000001" system="weight" unit="gin2" value="14160"/>3(asz) gu2 5(u) 6(disz) ma-na</count> 
+tug2-bi <count><interpretation modern_unit="" modern_value="6" system="cardinal" unit="" value="6"/>6(disz)-am3</count> 
+ugula lu2-du10-ga 
+<count><interpretation modern_unit="" modern_value="18" system="cardinal" unit="" value="18"/>1(u) 8(disz)</count> geme2 <count><interpretation modern_unit="" modern_value="4" system="cardinal" unit="" value="4"/>4(disz)-ta</count> 
+<count><interpretation modern_unit="" modern_value="134" system="cardinal" unit="" value="134"/>2(gesz2) 1(u) 4(disz)</count> geme2 <count><interpretation modern_unit="" modern_value="3" system="cardinal" unit="" value="3"/>3(disz)-ta</count> 
+x geme2 <count><interpretation modern_unit="" modern_value="1" system="cardinal" unit="" value="1"/>1(disz)</count> <com dist="1">tug2-ta</com> 
+<count><interpretation modern_unit="" modern_value="25" system="cardinal" unit="" value="25"/>2(u) 5(disz)</count> dumu <count><interpretation modern_unit="" modern_value="2" system="cardinal" unit="" value="2"/>2(disz)-ta</count> 
+<count><interpretation modern_unit="" modern_value="35" system="cardinal" unit="" value="35"/>3(u) 5(disz)</count> dumu <count><interpretation modern_unit="" modern_value="1.5" system="cardinal" unit="" value="1.5"/>1(disz) 1/2(disz)-ta</count> 
+<count><interpretation modern_unit="" modern_value="50" system="cardinal" unit="" value="50"/>5(u)</count> dumu <count><interpretation modern_unit="" modern_value="1" system="cardinal" unit="" value="1"/>1(disz)-ta</count> 
+<com dist="1">siki-bi</com> <count><interpretation modern_unit="g" modern_value="237000.00000000003" system="weight" unit="gin2" value="28440"/>7(asz) gu2 5(u) 4(disz) ma-na</count> 
+siki mug-bi <count><interpretation modern_unit="g" modern_value="76000.0" system="weight" unit="gin2" value="9120"/>2(asz) gu2 3(u) 2(disz) ma-na</count> 
+tug2-bi x 
+ugula <com dist="1">gu-za-ni</com> 
+<count><interpretation modern_unit="" modern_value="25" system="cardinal" unit="" value="25"/>2(u) 5(disz)</count> geme2 <count><interpretation modern_unit="" modern_value="4" system="cardinal" unit="" value="4"/>4(disz)-ta</count> 
+<count><interpretation modern_unit="" modern_value="143" system="cardinal" unit="" value="143"/>2(gesz2) 2(u) 3(disz)</count> geme2 <count><interpretation modern_unit="" modern_value="3" system="cardinal" unit="" value="3"/>3(disz)-ta</count> 
+<count><interpretation modern_unit="" modern_value="6" system="cardinal" unit="" value="6"/>6(disz)</count> geme2 <count><interpretation modern_unit="" modern_value="1" system="cardinal" unit="" value="1"/>1(disz)</count> <com dist="1">tug2-ta</com> 
+<count><interpretation modern_unit="" modern_value="27" system="cardinal" unit="" value="27"/>2(u) 7(disz)</count> dumu <count><interpretation modern_unit="" modern_value="2" system="cardinal" unit="" value="2"/>2(disz)-ta</count> 
+<count><interpretation modern_unit="" modern_value="37" system="cardinal" unit="" value="37"/>3(u) 7(disz)</count> dumu <count><interpretation modern_unit="" modern_value="1.5" system="cardinal" unit="" value="1.5"/>1(disz) 1/2(disz)-ta</count> 
+<count><interpretation modern_unit="" modern_value="60" system="cardinal" unit="" value="60"/>1(gesz2)</count> dumu <count><interpretation modern_unit="" modern_value="1" system="cardinal" unit="" value="1"/>1(disz)-ta</count> 
+<com dist="1">siki-bi</com> <count><interpretation modern_unit="g" modern_value="264500.0" system="weight" unit="gin2" value="31740"/>8(asz) gu2 5(u) la2 1(disz) ma-na</count> 
+siki mug-bi <count><interpretation modern_unit="g" modern_value="84750.0" system="weight" unit="gin2" value="10170.0"/>2(asz) gu2 5(u) la2 1/2(disz) ma-na</count> 
+tug2-bi <count><interpretation modern_unit="" modern_value="6" system="cardinal" unit="" value="6"/>6(disz)</count> 
+ugula ur-{d}lamma 
+<count><interpretation modern_unit="" modern_value="15" system="cardinal" unit="" value="15"/>1(u) 5(disz)</count> geme2 <count><interpretation modern_unit="" modern_value="4" system="cardinal" unit="" value="4"/>4(disz)-ta</count> 
+<count><interpretation modern_unit="" modern_value="117" system="cardinal" unit="" value="117"/>1(gesz2) 5(u) 7(disz)</count> geme2 <count><interpretation modern_unit="" modern_value="3" system="cardinal" unit="" value="3"/>3(disz)-ta</count> 
+x geme2 <count><interpretation modern_unit="" modern_value="1" system="cardinal" unit="" value="1"/>1(disz)</count> <com dist="1">tug2-ta</com> 
+<count><interpretation modern_unit="" modern_value="23" system="cardinal" unit="" value="23"/>2(u) 3(disz)</count> dumu <count><interpretation modern_unit="" modern_value="2" system="cardinal" unit="" value="2"/>2(disz)-ta</count> 
+<count><interpretation modern_unit="" modern_value="33" system="cardinal" unit="" value="33"/>3(u) 3(disz)</count> dumu <count><interpretation modern_unit="" modern_value="1.5" system="cardinal" unit="" value="1.5"/>1(disz) 1/2(disz)-ta</count> 
+<count><interpretation modern_unit="" modern_value="38" system="cardinal" unit="" value="38"/>3(u) 8(disz)</count> dumu <count><interpretation modern_unit="" modern_value="1" system="cardinal" unit="" value="1"/>1(disz)-ta</count> 
+<com dist="1">siki-bi</com> <count><interpretation modern_unit="g" modern_value="205500.00000000003" system="weight" unit="gin2" value="24660"/>6(asz) gu2 5(u) 1(disz) ma-na</count> 
+siki mug-bi <count><interpretation modern_unit="g" modern_value="76750.0" system="weight" unit="gin2" value="9210.0"/>2(asz) gu2 3(u) 3(disz) 1/2(disz) ma-na</count> 
+tug2-bi x 
+ugula ur-{d}ig-alim 
+<count><interpretation modern_unit="" modern_value="13" system="cardinal" unit="" value="13"/>1(u) 3(disz)</count> geme2 <count><interpretation modern_unit="" modern_value="4" system="cardinal" unit="" value="4"/>4(disz)-ta</count> 
+<count><interpretation modern_unit="" modern_value="82" system="cardinal" unit="" value="82"/>1(gesz2) 2(u) 2(disz)</count> geme2 <count><interpretation modern_unit="" modern_value="3" system="cardinal" unit="" value="3"/>3(disz)-ta</count> 
+x geme2 <count><interpretation modern_unit="" modern_value="1" system="cardinal" unit="" value="1"/>1(disz)</count> <com dist="1">tug2-ta</com> 
+<count><interpretation modern_unit="" modern_value="14" system="cardinal" unit="" value="14"/>1(u) 4(disz)</count> dumu <count><interpretation modern_unit="" modern_value="2" system="cardinal" unit="" value="2"/>2(disz)-ta</count> 
+<count><interpretation modern_unit="" modern_value="18" system="cardinal" unit="" value="18"/>1(u) 8(disz)</count> dumu <count><interpretation modern_unit="" modern_value="1.5" system="cardinal" unit="" value="1.5"/>1(disz) 1/2(disz)-ta</count> 
+<count><interpretation modern_unit="" modern_value="31" system="cardinal" unit="" value="31"/>3(u) 1(disz)</count> dumu <count><interpretation modern_unit="" modern_value="1" system="cardinal" unit="" value="1"/>1(disz)-ta</count> 
+<com dist="1">siki-bi</com> <count><interpretation modern_unit="g" modern_value="149000.0" system="weight" unit="gin2" value="17880"/>4(asz) gu2 5(u) 8(disz) ma-na</count> 
+siki mug-bi <count><interpretation modern_unit="g" modern_value="43000.0" system="weight" unit="gin2" value="5160"/>1(asz) gu2 2(u) 6(disz) ma-na</count> 
+tug2-bi x 
+ugula {d}utu-di-de3 
+<count><interpretation modern_unit="" modern_value="25" system="cardinal" unit="" value="25"/>2(u) 5(disz)</count> geme2 <count><interpretation modern_unit="" modern_value="4" system="cardinal" unit="" value="4"/>4(disz)-ta</count> 
+<count><interpretation modern_unit="" modern_value="143" system="cardinal" unit="" value="143"/>2(gesz2) 2(u) 3(disz)</count> geme2 <count><interpretation modern_unit="" modern_value="3" system="cardinal" unit="" value="3"/>3(disz)-ta</count> 
+<count><interpretation modern_unit="" modern_value="14" system="cardinal" unit="" value="14"/>1(u) 4(disz)</count> geme2 <count><interpretation modern_unit="" modern_value="1" system="cardinal" unit="" value="1"/>1(disz)</count> <com dist="1">tug2-ta</com> 
+<count><interpretation modern_unit="" modern_value="25" system="cardinal" unit="" value="25"/>2(u) 5(disz)</count> dumu <count><interpretation modern_unit="" modern_value="2" system="cardinal" unit="" value="2"/>2(disz)-ta</count> 
+<count><interpretation modern_unit="" modern_value="23" system="cardinal" unit="" value="23"/>2(u) 3(disz)</count> dumu <count><interpretation modern_unit="" modern_value="1.5" system="cardinal" unit="" value="1.5"/>1(disz) 1/2(disz)-ta</count> 
+<count><interpretation modern_unit="" modern_value="53" system="cardinal" unit="" value="53"/>5(u) 3(disz)</count> dumu <count><interpretation modern_unit="" modern_value="1" system="cardinal" unit="" value="1"/>1(disz)-ta</count> 
+<com dist="1">siki-bi</com> <count><interpretation modern_unit="g" modern_value="264000.0" system="weight" unit="gin2" value="31680"/>8(asz) gu2 5(u) la2 2(disz) ma-na</count> 
+siki mug-bi <count><interpretation modern_unit="g" modern_value="68750.0" system="weight" unit="gin2" value="8250.0"/>2(asz) gu2 1(u) 7(disz) 1/2(disz) ma-na</count> 
+tug2-bi <count><interpretation modern_unit="" modern_value="14" system="cardinal" unit="" value="14"/>1(u) 4(disz)</count> 
+ugula ur-{d}nin-gesz-zi-da 
+<count><interpretation modern_unit="" modern_value="6" system="cardinal" unit="" value="6"/>6(disz)</count> geme2 <count><interpretation modern_unit="" modern_value="4" system="cardinal" unit="" value="4"/>4(disz)-ta</count> 
+<count><interpretation modern_unit="" modern_value="43" system="cardinal" unit="" value="43"/>4(u) 3(disz)</count> geme2 <count><interpretation modern_unit="" modern_value="3" system="cardinal" unit="" value="3"/>3(disz)-ta</count> 
+x geme2 <count><interpretation modern_unit="" modern_value="1" system="cardinal" unit="" value="1"/>1(disz)</count> <com dist="1">tug2-ta</com> 
+<count><interpretation modern_unit="" modern_value="3" system="cardinal" unit="" value="3"/>3(disz)</count> dumu <count><interpretation modern_unit="" modern_value="2" system="cardinal" unit="" value="2"/>2(disz)-ta</count> 
+<count><interpretation modern_unit="" modern_value="10" system="cardinal" unit="" value="10"/>1(u)</count> dumu <count><interpretation modern_unit="" modern_value="1.5" system="cardinal" unit="" value="1.5"/>1(disz) 1/2(disz)-ta</count> 
+<count><interpretation modern_unit="" modern_value="12" system="cardinal" unit="" value="12"/>1(u) 2(disz)</count> dumu <count><interpretation modern_unit="" modern_value="1" system="cardinal" unit="" value="1"/>1(disz)-ta</count> 
+<com dist="1">siki-bi</com> <count><interpretation modern_unit="g" modern_value="76500.0" system="weight" unit="gin2" value="9180"/>2(asz) gu2 3(u) 3(disz) ma-na</count> 
+siki mug-bi <count><interpretation modern_unit="g" modern_value="16500.0" system="weight" unit="gin2" value="1980"/>3(u) 3(disz) ma-na</count> 
+tug2-bi x 
+ugula nig2-ga2-ni 
+<count><interpretation modern_unit="" modern_value="30" system="cardinal" unit="" value="30"/>3(u)</count> <com dist="1">gurusz</com> <count><interpretation modern_unit="" modern_value="4" system="cardinal" unit="" value="4"/>4(disz)-ta</count> 
+<count><interpretation modern_unit="" modern_value="6" system="cardinal" unit="" value="6"/>6(disz)</count> <com dist="1">gurusz</com> <count><interpretation modern_unit="" modern_value="3" system="cardinal" unit="" value="3"/>3(disz)-ta</count> 
+x dumu <count><interpretation modern_unit="" modern_value="2" system="cardinal" unit="" value="2"/>2(disz)-ta</count> 
+x dumu <count><interpretation modern_unit="" modern_value="1.5" system="cardinal" unit="" value="1.5"/>1(disz) 1/2(disz)-ta</count> 
+x dumu <count><interpretation modern_unit="" modern_value="1" system="cardinal" unit="" value="1"/>1(disz)-ta</count> 
+<com dist="1">siki</com> bi <count><interpretation modern_unit="g" modern_value="82750.0" system="weight" unit="gin2" value="9930.0"/>2(asz) gu2 4(u) 5(disz) 1/2(disz) ma-na</count> 
+ug3-IL2 lu2 azlag2 <com dist="1">u3</com> ug3-IL2 e2-usz-bar-me 
+szunigin <count><interpretation modern_unit="" modern_value="131" system="cardinal" unit="" value="131"/>2(gesz2) 1(u) 1(disz)</count> geme2 <count><interpretation modern_unit="" modern_value="4" system="cardinal" unit="" value="4"/>4(disz)-ta</count> 
+szunigin <count><interpretation modern_unit="" modern_value="862" system="cardinal" unit="" value="862"/>1(geszu) 4(gesz2) 2(u) 2(disz)</count> geme2 <count><interpretation modern_unit="" modern_value="3" system="cardinal" unit="" value="3"/>3(disz)-ta</count> 
+szunigin <count><interpretation modern_unit="" modern_value="26" system="cardinal" unit="" value="26"/>2(u) 6(disz)</count> geme2 <com dist="1">tug2</com> <count><interpretation modern_unit="" modern_value="1" system="cardinal" unit="" value="1"/>1(disz)-ta</count> 
+szunigin <count><interpretation modern_unit="" modern_value="157" system="cardinal" unit="" value="157"/>2(gesz2) 3(u) 7(disz)</count> dumu <count><interpretation modern_unit="" modern_value="2" system="cardinal" unit="" value="2"/>2(disz)-ta</count> 
+szunigin <count><interpretation modern_unit="" modern_value="210" system="cardinal" unit="" value="210"/>1(gesz2) 2(gesz2) 3(u)</count> dumu <count><interpretation modern_unit="" modern_value="1.5" system="cardinal" unit="" value="1.5"/>1(disz) 1/2(disz)-ta</count> 
+szunigin <count><interpretation modern_unit="" modern_value="319" system="cardinal" unit="" value="319"/>5(gesz2) 2(u) la2 1(disz)</count> dumu <count><interpretation modern_unit="" modern_value="1" system="cardinal" unit="" value="1"/>1(disz)-ta</count> 
+<com dist="1">siki-bi</com> <count><interpretation modern_unit="g" modern_value="1556000.0" system="weight" unit="gin2" value="186720"/>5(u) 1(asz) gu2 5(u) 2(disz) ma-na</count> 
+siki mug-bi <count><interpretation modern_unit="g" modern_value="483750.00000000006" system="weight" unit="gin2" value="58050.0"/>1(u) 6(asz) gu2 7(disz) 1/2(disz) ma-na</count> 
+tug2-bi <count><interpretation modern_unit="" modern_value="26" system="cardinal" unit="" value="26"/>2(u) 6(disz)</count> 
+geme2 <com dist="1">usz-bar-me</com> 
+szunigin <count><interpretation modern_unit="" modern_value="30" system="cardinal" unit="" value="30"/>3(u)</count> <com dist="1">gurusz</com> <count><interpretation modern_unit="" modern_value="4" system="cardinal" unit="" value="4"/>4(disz)-ta</count> 
+szunigin <count><interpretation modern_unit="" modern_value="6" system="cardinal" unit="" value="6"/>1(disz) 5(disz)</count> <com dist="1">gurusz</com> <count><interpretation modern_unit="" modern_value="3" system="cardinal" unit="" value="3"/>1(disz) 2(disz)-ta</count> 
+szunigin x dumu <count><interpretation modern_unit="" modern_value="2" system="cardinal" unit="" value="2"/>2(disz)-ta</count> 
+szunigin x dumu <count><interpretation modern_unit="" modern_value="1.5" system="cardinal" unit="" value="1.5"/>1(disz) 1/2(disz)-ta</count> 
+szunigin x dumu <count><interpretation modern_unit="" modern_value="1" system="cardinal" unit="" value="1"/>1(disz)-ta</count> 
+<com dist="1">siki-bi</com> <count><interpretation modern_unit="g" modern_value="82750.0" system="weight" unit="gin2" value="9930.0"/>2(asz) gu2 4(u) 5(disz) 1/2(disz) ma-na</count> 
+ug3-IL2 lu2 azlag2 <com dist="1">u3</com> ug3-IL2 e2-usz-bar-me 
+szunigin <count><interpretation modern_unit="g" modern_value="1638750.0000000002" system="weight" unit="gin2" value="196650.0"/>5(u) 4(asz) gu2 3(u) 7(disz) 1/2(disz) ma-na</count> <com dist="1">siki</com> 
+szunigin <count><interpretation modern_unit="g" modern_value="483750.00000000006" system="weight" unit="gin2" value="58050.0"/>1(u) 6(asz) gu2 7(disz) 1/2(disz) ma-na</count> <com dist="1">siki</com> mug 
+nu-banda3 a-hu-um-dingir 
+mu en {d}inanna ba-hun 
+</commodities>

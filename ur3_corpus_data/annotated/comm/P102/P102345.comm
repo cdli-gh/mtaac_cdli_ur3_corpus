@@ -1,0 +1,32 @@
+<commodities>
+#P102345 = ASJ 09, 266 69
+#atf: lang sux
+#tr.en: 2 billy goats, full-grown, grain-fed,
+#tr.en: 2 female kids, grain-fed,
+#tr.en: 1 lamb, 1 female kid:
+#tr.en: Nanna,
+#tr.en: delivery of Lugal-magure,
+#tr.en: zabardab was enforcer;
+#tr.en: 1 ox, 33 cows,
+#tr.en: 10 lambs, 17 male goats,
+#tr.en: šugid for the kitchen;
+#tr.en: 19th day,
+#tr.en: from Abbasaga(’s account) booked out;
+#tr.en: month: “Festival of An,”
+#tr.en: year: “Amar-Suen is king;”
+#tr.en: (total:) 67.
+<count><interpretation modern_unit="" modern_value="2" system="cardinal" unit="" value="2"/>2(disz)</count> <com dist="1">masz2-gal</com> niga 
+<count><interpretation modern_unit="" modern_value="2" system="cardinal" unit="" value="2"/>2(disz)</count> <com dist="1">{munus}asz2-gar3</com> niga 
+<count><interpretation modern_unit="" modern_value="1" system="cardinal" unit="" value="1"/>1(disz)</count> <com dist="1">sila4</com> <count><interpretation modern_unit="" modern_value="1" system="cardinal" unit="" value="1"/>1(disz)</count> {munus}asz2-gar3 
+{d}nanna 
+mu-kux(DU) lugal-ma2-gur8-re 
+zabar-dab5 maszkim 
+<count><interpretation modern_unit="" modern_value="1" system="cardinal" unit="" value="1"/>1(disz)</count> <com dist="1">gu4</com> <count><interpretation modern_unit="" modern_value="33" system="cardinal" unit="" value="33"/>3(u) 3(disz)</count> udu 
+<count><interpretation modern_unit="" modern_value="10" system="cardinal" unit="" value="10"/>1(u)</count> sila4 <count><interpretation modern_unit="" modern_value="17" system="cardinal" unit="" value="17"/>1(u) 7(disz)</count> masz2 
+szu-gid2 e2-muhaldim-sze3 
+u4 <count><interpretation modern_unit="" modern_value="20" system="cardinal" unit="" value="20"/>2(u) la2</count> <count><interpretation modern_unit="" modern_value="1" system="cardinal" unit="" value="1"/>1(disz)-kam</count> 
+ki ab-ba-sa6-ga-ta ba-zi 
+iti ezem-an-na 
+mu {d}amar-{d}suen lugal 
+<count><interpretation modern_unit="" modern_value="67" system="cardinal" unit="" value="67"/>1(gesz2) 7(disz)</count> 
+</commodities>

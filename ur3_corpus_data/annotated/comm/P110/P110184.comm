@@ -1,0 +1,17 @@
+<commodities>
+#P110184 = HLC 313 (pl. 130)
+#atf: lang sux
+<count><interpretation modern_unit="" modern_value="30" system="cardinal" unit="" value="30"/>3(u)</count> elam libir 
+<com dist="1">kasz-bi</com> <count><interpretation modern_unit="l" modern_value="60" system="dry capacity" unit="sila3" value="60"/>1(barig)</count> lugal-ta 
+<com dist="1">ninda-bi</com> <count><interpretation modern_unit="l" modern_value="60" system="dry capacity" unit="sila3" value="60"/>1(barig)</count> lugal-ta 
+elam si-u3{ki}-me 
+<count><interpretation modern_unit="l" modern_value="5" system="liquid capacity" unit="sila3" value="5"/><interpretation modern_unit="l" modern_value="5" system="dry capacity" unit="sila3" value="5"/>5(disz) sila3</count> <com dist="1">kasz</com> 
+<count><interpretation modern_unit="l" modern_value="3" system="liquid capacity" unit="sila3" value="3"/><interpretation modern_unit="l" modern_value="3" system="dry capacity" unit="sila3" value="3"/>3(disz) sila3</count> ninda 
+lu2-sza-lim sukkal 
+sza3 ki-nu-nir{ki} 
+<count><interpretation modern_unit="g" modern_value="90000.0" system="weight" unit="gin2" value="10800"/>3(asz) gu2 gu2</count> <com dist="1">dida</com> 
+<count><interpretation modern_unit="l" modern_value="60" system="dry capacity" unit="sila3" value="60"/>1(barig)</count> zi3-gu 
+kaskal-kaskal-sze3 
+iti diri sze-sag11-ku5 
+giri3 lu2-sza-lim 
+</commodities>

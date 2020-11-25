@@ -1,0 +1,60 @@
+<commodities>
+#P104470 = AUCT 3, 253 & 254
+#atf: lang sux
+#tr.en: 2 oxen, grain-fed, 20 rams,
+#tr.en: (from) Ku-Šara, governor of Išim-Šulgi;
+#tr.en: 1 ox, grain-fed, 10 rams,
+#tr.en: (from) Nisaba-andul, chief household administrator;
+#tr.en: ...,
+#tr.en: unsealed,
+#tr.en: by order of Šarakam,
+#tr.en: from (the account of) Abba-saga booked out,
+#tr.en: under seal of Lu-bine;
+#tr.en: by Šarakam
+#tr.en: to be transported;
+#tr.en: month: “Festival-of-Šulgi,”
+#tr.en: year: “The lord of Nanna was installed.”
+#tr.en: 2 oxen, grain-fed, 20 rams, (from) Ku-Šara, governor of Išim-Šulgi;
+#tr.en: 1 ox, grain-fed, 10 rams, (from) Nisaba-andul, chief household administrator;
+#tr.en: ...,
+#tr.en: unsealed,
+# seal impression
+#tr.en: by order of Šarakam,
+#tr.en: from (the account of) Abba-saga booked out,
+#tr.en: under seal of Lu-bine;
+#tr.en: by Šarakam
+#tr.en: to be transported;
+# seal impression
+#tr.en: month: “Festival-of-Šulgi,”
+#tr.en: year: “The lord of Nanna was installed.”
+#tr.en: Lu-dingira,
+#tr.en: scribe,
+#tr.en: son of Ur-saga.
+<count><interpretation modern_unit="" modern_value="2" system="cardinal" unit="" value="2"/>2(disz)</count> <com dist="1">gu4</com> niga <count><interpretation modern_unit="" modern_value="20" system="cardinal" unit="" value="20"/>2(u)</count> udu 
+ku3-{d}szara2 ensi2 i-szim-{d}szul-gi 
+<count><interpretation modern_unit="" modern_value="1" system="cardinal" unit="" value="1"/>1(disz)</count> <com dist="1">gu4</com> niga <count><interpretation modern_unit="" modern_value="10" system="cardinal" unit="" value="10"/>1(u)</count> udu 
+{d}nisaba-an-dul3 szabra 
+<com dist="1">szu</com> la2-a 
+kiszib3 nu-tuku 
+inim {d}szara2-kam-ta 
+ki ab-ba-sa6-ga-ta ba-zi 
+kiszib3 lu2-bi-ne 
+{d}szara2-kam-e 
+tum3-dam 
+iti ezem-{d}szul-gi 
+mu en {d}nanna ba-hun 
+<count><interpretation modern_unit="" modern_value="2" system="cardinal" unit="" value="2"/>2(disz)</count> <com dist="1">gu4</com> niga <count><interpretation modern_unit="" modern_value="20" system="cardinal" unit="" value="20"/>2(u)</count> udu ku3-{d}szara2 ensi2 i-szim-{d}szul-gi{ki} 
+<count><interpretation modern_unit="" modern_value="1" system="cardinal" unit="" value="1"/>1(disz)</count> <com dist="1">gu4</com> niga <count><interpretation modern_unit="" modern_value="10" system="cardinal" unit="" value="10"/>1(u)</count> udu {d}nisaba-an-dul3 szabra 
+<com dist="1">szu</com> la2-a 
+kiszib3 nu-tuku 
+inim {d}szara2-kam-ta 
+ki ab-ba-sa6-ga-ta ba-zi 
+kiszib3 lu2-bi-ne 
+{d}szara2-kam-e 
+tum3-dam 
+iti ezem-{d}szul-gi 
+mu en {d}nanna ba-hun 
+lu2-dingir-ra 
+dub-sar 
+dumu ur-sa6-ga 
+</commodities>

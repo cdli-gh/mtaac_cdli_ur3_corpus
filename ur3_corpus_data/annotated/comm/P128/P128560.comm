@@ -1,0 +1,53 @@
+<commodities>
+#P128560 = RTC 407
+#atf: lang sux
+#tr.en: 4134 bur3 1 esze3 3 iku [field surface],
+#tr.en: its grain: 124,035 gur barley (according to the) Šulgi (measure);
+# calculation: 4134 9/18 x 30 = 124,035
+#tr.en: therefrom:
+#tr.en: 129,060 + n + 5 sila3 gur
+#tr.en: delivery,
+#tr.en: [surplus:] 4800 [n gur ...]
+# 124,035 + 4800 = 128,835
+#tr.en: [year: “...”]
+# probably Šulgi 28
+#tr.en: [4200 bur3 field surface]
+#tr.en: [its grain: 126,000 gur barley;]
+# calculation: 4200 x 30 = 126,000
+#tr.en: therefrom:
+#tr.en: 118,500 [gur]
+#tr.en: delivery,
+#tr.en: the deficit: 7,500 gur barley;
+#tr.en: year: “The king of Anshan married the king’s daughter.” (=Šulgi 30)
+#tr.en: 4261 bur3 field surface,
+#tr.en: its grain: 127,830 gur;
+# calculation: 4261 x 30 = 127,830
+#tr.en: therefrom:
+#tr.en: 789,462 gur 1 barig 4 ban2
+#tr.en: delivery,
+#tr.en: the deficit: 49,407 gur 3 barig 2 ban2;
+#tr.en: year: “Simurrum was destroyed for the 3rd time.” (=Šulgi 32)
+#tr.en: x household managers, of the 6.
+<count><interpretation modern_unit="m^2" modern_value="267915600.0" system="surface" unit="gin2" value="446526000"/>1(szargal){gal} 8(szar2) 5(bur'u) 4(bur3) 1(esze3) 3(iku) gan2</count> 
+<com dist="1">sze-bi</com> <count><interpretation modern_unit="l" modern_value="3400.151388888889" system="dry capacity" unit="sila3" value="3400.151388888889"/>3(szar'u) 4(szar2) 2(geszu) 7(gesz2) 1(u) 5(asz) sze gur</count> {d}szul-gi 
+sza3-bi-ta 
+<count><interpretation modern_unit="" modern_value="129060" system="cardinal" unit="" value="129060"/>3(szar'u) 5(szar2) 5(geszu) 1(gesz2)</count> n <count><interpretation modern_unit="" modern_value="none" system="unknown" unit="" value="none"/>5(disz) sila3 gur ...</count> 
+mu-kux(DU) 
+diri <count><interpretation modern_unit="" modern_value="4800" system="cardinal" unit="" value="4800"/>1(szar2) 2(geszu)</count> n gur ... 
+mu ... 
+<count><interpretation modern_unit="m^2" modern_value="272160000.0" system="surface" unit="gin2" value="453600000"/>1(szargal){gal} 1(szar'u) gan2</count> 
+<com dist="1">sze-bi</com> <count><interpretation modern_unit="l" modern_value="3500.0" system="dry capacity" unit="sila3" value="3500.0"/>3(szar'u) 5(szar2) sze gur</count> 
+sza3-bi-ta 
+<count><interpretation modern_unit="l" modern_value="10368990000" system="dry capacity" unit="sila3" value="10368990000"/>3(szar'u) 2(szar2) 5(geszu) 5(gesz2) gur</count> 
+mu-kux(DU) 
+la2-ia3 <count><interpretation modern_unit="l" modern_value="200.02777777777777" system="dry capacity" unit="sila3" value="200.02777777777777"/>2(szar2) 5(gesz2) sze gur</count> 
+mu dumu-munus <com dist="1">lugal-sze3</com> lugal an-sza-... 
+<count><interpretation modern_unit="m^2" modern_value="276112800.0" system="surface" unit="gin2" value="460188000"/>1(szargal){gal} 1(szar'u) 1(szar2) 1(bur3) gan2</count> 
+<com dist="1">sze-bi</com> <count><interpretation modern_unit="l" modern_value="11340549000" system="dry capacity" unit="sila3" value="11340549000"/>3(szar'u) 5(szar2) 3(geszu) 3(u) gur</count> 
+sza3-bi-ta 
+<count><interpretation modern_unit="l" modern_value="6804858700" system="dry capacity" unit="sila3" value="6804858700"/>2(szar'u) 1(szar2) 4(geszu) 7(gesz2) 4(u) 2(asz) 1(barig) 4(ban2) gur</count> 
+mu-kux(DU) 
+la2-ia3 <count><interpretation modern_unit="l" modern_value="4212782300" system="dry capacity" unit="sila3" value="4212782300"/>1(szar'u) 3(szar2) 4(geszu) 3(gesz2) 2(u) 7(asz) 3(barig) 2(ban2) gur</count> 
+mu si-mu-ur4-ru-um{ki} a-ra2 <count><interpretation modern_unit="" modern_value="3" system="cardinal" unit="" value="3"/>3(disz)-kam-asz</count> ba-hul 
+x szabra <count><interpretation modern_unit="" modern_value="6" system="cardinal" unit="" value="6"/>6(disz)-ba</count> 
+</commodities>

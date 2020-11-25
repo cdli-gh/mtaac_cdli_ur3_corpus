@@ -1,0 +1,19 @@
+<commodities>
+#P387879 = Nisaba 15, 0546
+#atf: lang sux
+# NB silver equivalent sesame seed 75 sila3 per shekel; P290381 has 72, P134293 has 100, P135982 has 60
+# calculation: 117 105/180 + 900/1 + (10356/75 =) 138 14.4/180 + 268/1 + 360 = 29.43 119.4/180; text has 29.43 2/3
+<count><interpretation modern_unit="g" modern_value="979.8611111111113" system="weight" unit="gin2" value="117.58333333333334"/>1(disz) 5/6(disz) ma-na 7(disz) 1/2(disz) gin2 1(u) 5(disz) sze</count> <com dist="1">ku3-babbar</com> 
+<count><interpretation modern_unit="l" modern_value="0.08333333333333333" system="dry capacity" unit="sila3" value="0.08333333333333333"/>1(geszu) 5(gesz2) sze gur</count> 
+<com dist="1">ki</com> wa-qar-tum-ta 
+<count><interpretation modern_unit="l" modern_value="10356" system="dry capacity" unit="sila3" value="10356"/>3(u) 4(asz) 2(barig) 3(ban2) 6(disz) sila3</count> sze-gesz-i3 gur <count><interpretation modern_unit="l" modern_value="75" system="dry capacity" unit="sila3" value="75"/>1(barig) 1(ban2) 5(disz)</count> sila3-ta 
+<com dist="1">ki</com> nin-za3-ge-si-ta 
+<count><interpretation modern_unit="l" modern_value="0.02481481481481481" system="dry capacity" unit="sila3" value="0.02481481481481481"/>4(gesz2) 2(u) 8(asz) sze gur</count> 
+<com dist="1">ki</com> ur-mes-ta 
+<count><interpretation modern_unit="g" modern_value="3000.0" system="weight" unit="gin2" value="360"/>6(disz) ma-na</count> <com dist="1">ku3-babbar</com> 
+e2-gal-ta 
+szunigin <count><interpretation modern_unit="g" modern_value="14863.888888888889" system="weight" unit="gin2" value="1783.6666666666665"/>2(u) 9(disz) 2/3(disz) ma-na 3(disz) 2/3(disz)</count> gin3 <com dist="1">ku3-babbar</com> 
+a2-la-la dam-gar3 
+szu ba-ti 
+mu {d}szu-{d}suen lugal uri5{ki}-ma-ke4 e2 {d}szara2 umma{ki}-ka mu-du3 
+</commodities>

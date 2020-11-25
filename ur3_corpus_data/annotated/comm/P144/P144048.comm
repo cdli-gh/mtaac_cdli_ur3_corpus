@@ -1,0 +1,32 @@
+<commodities>
+#P144048 = SAT 2, 0848
+#atf: lang sux
+# some text moved to next line
+<count><interpretation modern_unit="" modern_value="9" system="cardinal" unit="" value="9"/>9(disz)</count> <com dist="1">gurusz</com> <count><interpretation modern_unit="l" modern_value="72" system="dry capacity" unit="sila3" value="72"/>1(barig) 1(ban2) 2(disz)</count> sila3-ta 
+<com dist="1">sze-bi</com> <count><interpretation modern_unit="l" modern_value="648" system="dry capacity" unit="sila3" value="648"/>2(asz) 4(ban2) 8(disz) sila3 gur</count> 
+ugula lu2-du10-ga 
+<count><interpretation modern_unit="" modern_value="10" system="cardinal" unit="" value="10"/>1(u)</count> <com dist="1">gurusz</com> <count><interpretation modern_unit="l" modern_value="72" system="dry capacity" unit="sila3" value="72"/>1(barig) 1(ban2) 2(disz)</count> sila3-ta 
+<com dist="1">sze-bi</com> <count><interpretation modern_unit="l" modern_value="720" system="dry capacity" unit="sila3" value="720"/>2(asz) 2(barig) gur</count> 
+ugula ab-ba 
+<count><interpretation modern_unit="" modern_value="8" system="cardinal" unit="" value="8"/>8(disz)</count> <com dist="1">gurusz</com> <count><interpretation modern_unit="l" modern_value="72" system="dry capacity" unit="sila3" value="72"/>1(barig) 1(ban2) 2(disz)</count> sila3-ta 
+<com dist="1">sze-bi</com> <count><interpretation modern_unit="l" modern_value="576" system="dry capacity" unit="sila3" value="576"/>1(asz) 4(barig) 3(ban2) 6(disz) sila3 gur</count> 
+ugula ni-bu3-ul 
+<count><interpretation modern_unit="" modern_value="9" system="cardinal" unit="" value="9"/>9(disz)</count> <com dist="1">gurusz</com> <count><interpretation modern_unit="l" modern_value="72" system="dry capacity" unit="sila3" value="72"/>1(barig) 1(ban2) 2(disz) sila3 gur</count> 
+sze-bi <count><interpretation modern_unit="l" modern_value="648" system="dry capacity" unit="sila3" value="648"/>2(asz) 4(ban2) 8(disz) sila3 gur</count> 
+ugula nig2-mu-me-en8 
+<count><interpretation modern_unit="" modern_value="7" system="cardinal" unit="" value="7"/>7(disz)</count> <com dist="1">gurusz</com> <count><interpretation modern_unit="l" modern_value="72" system="dry capacity" unit="sila3" value="72"/>1(barig) 1(ban2) 2(disz)</count> sila3-ta 
+<com dist="1">sze-bi</com> <count><interpretation modern_unit="l" modern_value="432" system="dry capacity" unit="sila3" value="432"/>1(asz) 2(barig) 1(ban2) 2(disz) sila3 gur</count> 
+ugula ma2-gur8-re 
+<count><interpretation modern_unit="" modern_value="11.5" system="cardinal" unit="" value="11.5"/>1(u) 1(disz) 1/2(disz)</count> gurusz <count><interpretation modern_unit="l" modern_value="72" system="dry capacity" unit="sila3" value="72"/>1(barig) 1(ban2) 2(disz) sila3 gur</count> 
+sze-bi <count><interpretation modern_unit="l" modern_value="828" system="dry capacity" unit="sila3" value="828"/>2(asz) 3(barig) 4(ban2) 8(disz) sila3 gur</count> 
+ugula lugal-ma2-gur8-re 
+dumu gudu4 {d}szara2 umma{ki} 
+<count><interpretation modern_unit="" modern_value="10" system="cardinal" unit="" value="10"/>1(u)</count> <com dist="1">gurusz</com> <count><interpretation modern_unit="l" modern_value="72" system="dry capacity" unit="sila3" value="72"/>1(barig) 1(ban2) 2(disz)</count> sila3-ta 
+<com dist="1">sze-bi</com> <count><interpretation modern_unit="l" modern_value="720" system="dry capacity" unit="sila3" value="720"/>2(asz) 2(barig) gur</count> 
+ugula nimgir-di-de3 dumu gudu4 |KI.AN|{ki} 
+<count><interpretation modern_unit="l" modern_value="4572" system="dry capacity" unit="sila3" value="4572"/>1(u) 5(asz) 1(barig) 1(ban2) 2(disz) sila3 gur</count> 
+<com dist="1">{kusz}a-ga2-la2</com> kesz2-ra2 ga-esz szagina 
+... gu2 i7-da-ta 
+iti min-esz3 
+mu en-unu6-gal an-na ba-hun 
+</commodities>

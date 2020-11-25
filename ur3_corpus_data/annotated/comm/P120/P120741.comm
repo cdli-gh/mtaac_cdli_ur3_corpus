@@ -1,0 +1,17 @@
+<commodities>
+#P120741 = NATN 045
+#atf: lang sux
+<count><interpretation modern_unit="" modern_value="0.025925925925925925" system="cardinal" unit="" value="0.025925925925925925"/>1(disz) 1/2(disz) gin2 1(u) sze</count> <com dist="1">ku3-babbar</com> 
+<count><interpretation modern_unit="l" modern_value="120" system="dry capacity" unit="sila3" value="120"/>2(barig)</count> i3 du10-ga x 
+<com dist="1">ku3-bi</com> <count><interpretation modern_unit="" modern_value="0.008333333333333333" system="cardinal" unit="" value="0.008333333333333333"/>1/2(disz) gin2</count> 
+<count><interpretation modern_unit="l" modern_value="1" system="liquid capacity" unit="sila3" value="1"/><interpretation modern_unit="l" modern_value="1" system="dry capacity" unit="sila3" value="1"/>1(disz) sila3</count> <com dist="1">i3</com> du10-ga 
+<count><interpretation modern_unit="l" modern_value="120" system="dry capacity" unit="sila3" value="120"/>2(barig)</count> <com dist="1">kasz</com> 
+ur-{d}ma-da 
+<count><interpretation modern_unit="l" modern_value="60" system="dry capacity" unit="sila3" value="60"/>1(barig)</count> lugal-nam-tar-re 
+<count><interpretation modern_unit="l" modern_value="60" system="dry capacity" unit="sila3" value="60"/>1(barig)</count> szu-na 
+<count><interpretation modern_unit="l" modern_value="120" system="dry capacity" unit="sila3" value="120"/>2(barig)</count> lu2-bi-bi 
+<count><interpretation modern_unit="l" modern_value="60" system="dry capacity" unit="sila3" value="60"/>1(barig)</count> <com dist="1">kasz</com> <count><interpretation modern_unit="l" modern_value="10" system="dry capacity" unit="sila3" value="10"/>1(ban2)</count> dabin 
+ur-ab-ba 
+<count><interpretation modern_unit="l" modern_value="10" system="dry capacity" unit="sila3" value="10"/>1(ban2)</count> <com dist="1">dabin</com> lugal-ki-x 
+<count><interpretation modern_unit="l" modern_value="10" system="dry capacity" unit="sila3" value="10"/>1(ban2)</count> <com dist="1">dabin</com> a-ba-{d}en-lil2-gin7 
+</commodities>

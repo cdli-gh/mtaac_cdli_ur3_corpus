@@ -1,0 +1,64 @@
+<commodities>
+#P102354 = ASJ 09, 270 78
+#atf: lang sux
+#tr.en: 1 sheep, grain-fed, fine quality,
+#tr.en: 1 sheep, grain-fed, 3rd grade,
+#tr.en: 1 billy goat, full-grown, grain-fed, fine quality,
+#tr.en: 1 billy goat, full-grown, grain-fed, 3rd grade,
+#tr.en: 1 sheep, grain-fed,
+#tr.en: for Enlil and Ninlil;
+#tr.en: 1 sheep, grain-fed, 4th grade, for Nanna;
+#tr.en: 1 sheep, grain-fed, for Ninurta;
+#tr.en: 1 sheep, grain-fed, for Nusku;
+#tr.en: 1 sheep, grain-fed, for Nin-ti’uga;
+#tr.en: 1 sheep, grain-fed, for Nin-šubur;
+#tr.en: 1 sheep, grain-fed, oforf Nin-ḫursag;
+#tr.en: 1 sheep, grain-fed, “following the ox,” for Enki;
+#tr.en: midnight (offering);
+#tr.en: 1 sheep, grain-fed, fine quality,
+#tr.en: 5 ... for Inim-zuḫara-kal
+#tr.en: 5 sheep, grain-fed, “following the ox,” of Ḫun-Ḫurti the man of Ḫurti;
+#tr.en: the man Nanna-kam, messenger;
+#tr.en: ARADmu was enforcer;
+#tr.en: (subtotal:) 10;
+#tr.en: royal gift;
+#tr.en: evening (offerings); of the month the 26th day has passed;
+#tr.en: from Nur-Iškur(’s account) booked out,
+#tr.en: via Zuzu, the šarabdu-official;
+#tr.en: month: “Festival of Šulgi,”
+#tr.en: year: “Šu-Suen, king of Ur, the lands of Zabšali destroyed;”
+#tr.en: (total:) 47 sheep.
+#tr.en: Šu-Suen,
+#tr.en: strong man,
+#tr.en: ...
+<count><interpretation modern_unit="" modern_value="1" system="cardinal" unit="" value="1"/>1(disz)</count> <com dist="1">udu</com> niga saga x 
+<count><interpretation modern_unit="" modern_value="1" system="cardinal" unit="" value="1"/>1(disz)</count> <com dist="1">udu</com> niga <count><interpretation modern_unit="" modern_value="3" system="cardinal" unit="" value="3"/>3(disz)-kam</count> us2 
+<count><interpretation modern_unit="" modern_value="1" system="cardinal" unit="" value="1"/>1(disz)</count> masz2-gal niga saga x 
+<count><interpretation modern_unit="" modern_value="1" system="cardinal" unit="" value="1"/>1(disz)</count> <com dist="1">masz2-gal</com> niga <count><interpretation modern_unit="" modern_value="3" system="cardinal" unit="" value="3"/>3(disz)-kam</count> us2 
+<count><interpretation modern_unit="" modern_value="1" system="cardinal" unit="" value="1"/>1(disz)</count> udu niga 
+{d}en-lil2 {d}nin-lil2 
+<count><interpretation modern_unit="" modern_value="1" system="cardinal" unit="" value="1"/>1(disz)</count> <com dist="1">udu</com> niga <count><interpretation modern_unit="" modern_value="4" system="cardinal" unit="" value="4"/>4(disz)-kam</count> us2 {d}nanna 
+<count><interpretation modern_unit="" modern_value="1" system="cardinal" unit="" value="1"/>1(disz)</count> <com dist="1">udu</com> niga {d}nin-urta 
+<count><interpretation modern_unit="" modern_value="1" system="cardinal" unit="" value="1"/>1(disz)</count> <com dist="1">udu</com> niga {d}nusku 
+<count><interpretation modern_unit="" modern_value="1" system="cardinal" unit="" value="1"/>1(disz)</count> <com dist="1">udu</com> niga {d}nin-ti2-ug5-ga 
+<count><interpretation modern_unit="" modern_value="1" system="cardinal" unit="" value="1"/>1(disz)</count> <com dist="1">udu</com> niga {d}nin-szubur 
+<count><interpretation modern_unit="" modern_value="1" system="cardinal" unit="" value="1"/>1(disz)</count> <com dist="1">udu</com> niga {d}nin-hur-sag 
+<count><interpretation modern_unit="" modern_value="1" system="cardinal" unit="" value="1"/>1(disz)</count> <com dist="1">udu</com> niga gu4-e-us2-sa {d}en-ki 
+a2 ge6-ba-a 
+<count><interpretation modern_unit="" modern_value="1" system="cardinal" unit="" value="1"/>1(disz)</count> <com dist="1">udu</com> niga saga 
+<count><interpretation modern_unit="" modern_value="none" system="unknown" unit="" value="none"/>5(disz) x ...</count> inim-zu-ha-ra-kal 
+<count><interpretation modern_unit="" modern_value="5" system="cardinal" unit="" value="5"/>5(disz)</count> <com dist="1">udu</com> niga gu4-e-us2-sa hu-un-hur-ti lu2 hu-ur5-ti{ki} 
+lu2 {d}nanna-kam sukkal 
+ARAD2-mu maszkim 
+($ blank space $) <count><interpretation modern_unit="" modern_value="10" system="cardinal" unit="" value="10"/>1(u)</count> 
+nig2-ba lugal 
+a2 u4-te-na iti u4 <count><interpretation modern_unit="" modern_value="26" system="cardinal" unit="" value="26"/>2(u) 6(disz)</count> ba-zal 
+<com dist="1">ki</com> nu-ur2-{d}iszkur-ta ba-zi 
+giri3 zu-u2-zu szar2-ra-ab-du 
+iti ezem-{d}szul-gi 
+mu {d}szu-{d}suen lugal uri5{ki}-ma-ke4 ma-da za-ab-sza-li{ki} mu-hul 
+<count><interpretation modern_unit="" modern_value="47" system="cardinal" unit="" value="47"/>4(u) 7(disz)</count> <com dist="1">udu</com> 
+{d}szu-{d}suen 
+nita kal-ga 
+x-x-x 
+</commodities>

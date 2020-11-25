@@ -1,0 +1,44 @@
+<commodities>
+#P332086 = PPAC 4, 167
+#atf: lang sux
+#tr.en: Deficit: 1 Šara-zame,
+#tr.de: Fehlbetrag: einer, Šara-zame,
+#tr.en: and 1 Lugal-nig-lagare,
+#tr.de: (und) einer, Lugal-nig-lagare,
+#tr.en: for 45 days,
+#tr.de: über 45 Tage,
+#tr.en: the labor: 2 shekels,
+#tr.de: die Arbeitsleistung je 2 Sekel
+#tr.en: to Ur-Damu
+#tr.de: seitens Ur-Damu,
+#tr.en: the foreman, to be replaced;
+#tr.de: dem Aufseher, zu ersetzen;
+#tr.en: part of the bala;
+#tr.de: (Teil des) bala(-Diensts);
+# seal impression
+#tr.en: year: “A 2nd time Šašrum was destroyed.”
+#tr.de: Jahr: “Zum 2. Mal Šašrum zersört”.
+#tr.en: Ur-Lisi,
+#tr.de: Ur-Lisi,
+#tr.en: governor of Umma:
+#tr.de: Stadtfürst von Umma:
+#tr.en: Ur-Damu,
+#tr.de: Ur-Damu,
+#tr.en: son of Lugal-ušumgal(?)
+#tr.de: Sohn des Lugal-ušumgal(?),
+#tr.en: your servant.
+#tr.de: ist Dein Diener.
+la2-ia3 <count><interpretation modern_unit="" modern_value="1" system="cardinal" unit="" value="1"/>1(disz)</count> {d}szara2-za-me 
+<count><interpretation modern_unit="" modern_value="1" system="cardinal" unit="" value="1"/>1(disz)</count> lugal-nig2-lagar-e 
+u4 <count><interpretation modern_unit="" modern_value="45" system="cardinal" unit="" value="45"/>4(u) 5(disz)-sze3</count> 
+<com dist="1">a2-bi</com> <count><interpretation modern_unit="" modern_value="2" system="cardinal" unit="" value="2"/>2(disz)</count> gin2-ta 
+ur-{d}da-mu 
+ugula su-su-dam 
+sza3 bala-a 
+mu a-ra2 <count><interpretation modern_unit="" modern_value="2" system="cardinal" unit="" value="2"/>2(disz)-kam</count> sza-asz-szu2-ru-um ba-hul 
+ur-{d}li9-si4 
+ensi2 umma{ki} 
+ur-{d}da-mu 
+dumu lugal-uszumgal 
+ARAD2-zu 
+</commodities>

@@ -1,0 +1,23 @@
+<commodities>
+#P112659 = MCS 3, 43 17, BM 105409
+#atf: lang sux
+# calculation: 30 volume gin2 ÷ 3 = 10 volume gin2 per kid basket
+# calculation: 2 volume sar ÷ 6 = 20 volume gin2 per szerrum basket
+<count><interpretation modern_unit="" modern_value="3" system="cardinal" unit="" value="3"/>3(disz)</count> <com dist="1">{gi}gur</com> zi3-da esir2 su-ub-ba 
+<count><interpretation modern_unit="" modern_value="40" system="cardinal" unit="" value="40"/>4(u)</count> <com dist="1">{gi}kaskal</com> <count><interpretation modern_unit="l" modern_value="60" system="dry capacity" unit="sila3" value="60"/>1(barig)-ta</count> 
+<count><interpretation modern_unit="" modern_value="3" system="cardinal" unit="" value="3"/>3(disz)</count> <com dist="1">{gi}kid</com> 
+ki-la2-bi <count><interpretation modern_unit="bricks" modern_value="4320.0" system="bricks" unit="gin2" value="360.0"/><interpretation modern_unit="m^2" modern_value="18.0" system="surface" unit="gin2" value="30.0"/><interpretation modern_unit="l" modern_value="9000.0" system="volume" unit="gin2" value="30.0"/>1/2(disz) sar</count> 
+<count><interpretation modern_unit="" modern_value="1" system="cardinal" unit="" value="1"/>1(disz)</count> gesz-ur3-ur3 
+e2-gu4-gaz-sze3 
+<count><interpretation modern_unit="m" modern_value="18" system="length" unit="gi" value="6"/>6(disz) gi</count> szer7-ru-um ki-la2-bi <count><interpretation modern_unit="bricks" modern_value="17280" system="bricks" unit="gin2" value="1440"/><interpretation modern_unit="m^2" modern_value="72.0" system="surface" unit="gin2" value="120"/><interpretation modern_unit="l" modern_value="36000" system="volume" unit="gin2" value="120"/>2(disz) sar</count> 
+<count><interpretation modern_unit="" modern_value="26" system="cardinal" unit="" value="26"/>2(u) 6(disz)</count> <com dist="1">{gi}pisan</com> gid2-da tug2 en-en 
+e2-gal-la ku4-ra 
+{d}utu-GIR2-gal szu ba-ti 
+ki ur-{d}szul-pa-e3-ta 
+kiszib3 i3-kal-la 
+sza3 bala-a 
+mu en eridu{ki} ba-hun 
+i3-kal-la 
+dub-sar 
+dumu lu2-sa6-ga 
+</commodities>

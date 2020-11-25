@@ -1,0 +1,28 @@
+<commodities>
+#P212345 = CDLJ 2002/1, no. 5
+#atf: lang sux
+#tr.en: 1 fat-tailed sheep,
+#tr.en: 2 fat-tailed sheep, breeders,
+#tr.en: 3 aslum sheep,
+#tr.en: 3 aslum sheep, breeders,
+#tr.en: 2 ewes, fat-tailed,
+#tr.en: 1 lamb, fat-tailed,
+#tr.en: 25th day,
+#tr.en: from Abbasaga
+#tr.en: did Šulgi-ayamu accept;
+#tr.en: month “Great Festival,” second (one),
+#tr.en: year: “Enmaḫgalana as priestess of Nanna was installed.”
+#tr.en: 12 (sheep)
+<count><interpretation modern_unit="" modern_value="1" system="cardinal" unit="" value="1"/>1(disz)</count> <com dist="1">gukkal</com> 
+<count><interpretation modern_unit="" modern_value="2" system="cardinal" unit="" value="2"/>2(disz)</count> gukkal gesz-du3 
+<count><interpretation modern_unit="" modern_value="3" system="cardinal" unit="" value="3"/>3(disz)</count> <com dist="1">udu</com> a-lum 
+<count><interpretation modern_unit="" modern_value="3" system="cardinal" unit="" value="3"/>3(disz)</count> udu a-lum gesz-du3 
+<count><interpretation modern_unit="" modern_value="2" system="cardinal" unit="" value="2"/>2(disz)</count> <com dist="1">u8</com> gukkal 
+<count><interpretation modern_unit="" modern_value="1" system="cardinal" unit="" value="1"/>1(disz)</count> sila4 gukkal 
+u4 <count><interpretation modern_unit="" modern_value="20" system="cardinal" unit="" value="20"/>2(u)</count> <count><interpretation modern_unit="" modern_value="5" system="cardinal" unit="" value="5"/>5(disz)-kam</count> 
+ki ab-ba-sa6-ga-ta 
+{d}szul-gi-a-a-mu i3-dab5 
+iti ezem-mah <com dist="1">min3</com> 
+mu en-mah-gal-an-na en {d}nanna ba-hun 
+<count><interpretation modern_unit="" modern_value="12" system="cardinal" unit="" value="12"/>1(u) 2(disz)</count> 
+</commodities>

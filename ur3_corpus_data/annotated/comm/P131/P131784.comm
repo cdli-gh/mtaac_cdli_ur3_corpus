@@ -1,0 +1,60 @@
+<commodities>
+#P131784 = TCL 05, 6171
+#atf: lang sux
+#tr.de: 11 1/2 Arbeiter
+#tr.de: (über einen Zeitraum von) 12 Monaten,
+#tr.de: die dazugehörige Arbeitsleistung: 4140 (Arbeitstage)
+# calculation: 11 1/2 × 360 = 4140
+#tr.de: vom Monat ‘Lisi(-Fest)’ (9. Monat, Umma Kalender)
+#tr.de: bis zum Monat ‘Haus des 6. Monats’ (8. Monat).
+#tr.de: 10 Bierhersteller sind es:
+#tr.de: 10 Arbeiter zu 2/3 Arbeitsleistung (verpflichtet, für) einen Monat,
+#tr.de: die dazugehörige Arbeitsleistung: 200 (Tage).
+# calculation: 10 × 2/3 × 30 = 200
+#tr.de: 8 Träger,
+#tr.de: (über einen Zeitraum von) 2 Monaten und 20 Tagen,
+#tr.de: die dazugehörige Arbeitsleistung: 640 (Tage),
+# calculation: 8 × 80 = 640
+#tr.de: vom Ende des 10. Tages des Monats ,‘(nesag-)Opfer’ (4. Monat)
+#tr.de:  bis zum Monat ‘Säen’ (6. Monat).
+#tr.de: 6 Träger,
+#tr.de: (über einen Zeitraum von) einem Monat,
+#tr.de: die dazugehörige Arbeitsleistung: 180 (Tage),
+# calculation: 6 × 30 = 180
+#tr.de: 60 Kor Gerste,
+#tr.de: die dazugehörige Arbeitsleistung: 4800 (Tage).
+#tr.de: 10 Sekel Silber,
+#tr.de: die dazugehörige Arbeitsleistung: 900 (Tage).
+# calculation: 10 × 90 days per shekel = 900
+#tr.de: 1 Last (eme-)gi-Wolle,
+#tr.de: das dazugehörige Silber(äquivalent): 7 1/2 Sekel,
+#tr.de: die dazugehörige Arbeitsleistung: 675 (Tage).
+# calculation: 7 1/2 × 90 = 675
+#tr.de: Aus der Abrechnung des Lugal-ezem.
+#tr.de: Jahr: ‘Anšan wurde zerstört’ (=Šulgi 34).
+<count><interpretation modern_unit="" modern_value="11.5" system="cardinal" unit="" value="11.5"/>1(u) 1(disz) 1/2(disz)</count> <com dist="1">gurusz</com> 
+iti <count><interpretation modern_unit="" modern_value="12" system="cardinal" unit="" value="12"/>1(u) 2(disz)-sze3</count> 
+<com dist="1">a2-bi</com> <count><interpretation modern_unit="" modern_value="4140" system="cardinal" unit="" value="4140"/>1(szar2) 9(gesz2)</count> 
+iti {d}li9-si4-ta 
+iti e2-iti-6(disz)-sze3 
+<count><interpretation modern_unit="" modern_value="10" system="cardinal" unit="" value="10"/>1(u)</count> bahar2-me 
+<count><interpretation modern_unit="" modern_value="10" system="cardinal" unit="" value="10"/>1(u)</count> <com dist="1">gurusz</com> a2 <count><interpretation modern_unit="" modern_value="0.6666666666666666" system="cardinal" unit="" value="0.6666666666666666"/>2/3(disz)</count> iti <count><interpretation modern_unit="" modern_value="1" system="cardinal" unit="" value="1"/>1(disz)-sze3</count> 
+<com dist="1">a2-bi</com> <count><interpretation modern_unit="" modern_value="200" system="cardinal" unit="" value="200"/>3(gesz2) 2(u)</count> 
+<count><interpretation modern_unit="" modern_value="8" system="cardinal" unit="" value="8"/>8(disz)</count> <com dist="1">gurusz</com> ug3-IL2 
+iti <count><interpretation modern_unit="" modern_value="2" system="cardinal" unit="" value="2"/>2(disz)</count> u4 <count><interpretation modern_unit="" modern_value="20" system="cardinal" unit="" value="20"/>2(u)-sze3</count> 
+<com dist="1">a2-bi</com> <count><interpretation modern_unit="" modern_value="640" system="cardinal" unit="" value="640"/>1(geszu) 4(u)</count> 
+iti nesag u4 <count><interpretation modern_unit="" modern_value="10" system="cardinal" unit="" value="10"/>1(u)</count> zal-la-ta 
+iti szu-numun-sze3 
+<count><interpretation modern_unit="" modern_value="6" system="cardinal" unit="" value="6"/>6(disz)</count> <com dist="1">gurusz</com> ug3-IL2 
+iti <count><interpretation modern_unit="" modern_value="1" system="cardinal" unit="" value="1"/>1(disz)-sze3</count> 
+<com dist="1">a2-bi</com> <count><interpretation modern_unit="" modern_value="180" system="cardinal" unit="" value="180"/>3(gesz2)</count> 
+<count><interpretation modern_unit="l" modern_value="0.005555555555555555" system="dry capacity" unit="sila3" value="0.005555555555555555"/>1(gesz2) sze gur</count> 
+<com dist="1">a2-bi</com> <count><interpretation modern_unit="" modern_value="4800" system="cardinal" unit="" value="4800"/>1(szar2) 2(geszu)</count> 
+<count><interpretation modern_unit="" modern_value="0.16666666666666666" system="cardinal" unit="" value="0.16666666666666666"/>1(u) gin2</count> <com dist="1">ku3-babbar</com> 
+a2-bi <count><interpretation modern_unit="" modern_value="900" system="cardinal" unit="" value="900"/>1(geszu) 5(gesz2)</count> 
+<count><interpretation modern_unit="g" modern_value="30000.000000000004" system="weight" unit="gin2" value="3600"/>1(asz) gu2</count> siki-gi 
+<com dist="1">ku3-bi</com> <count><interpretation modern_unit="" modern_value="0.125" system="cardinal" unit="" value="0.125"/>7(disz) 1/2(disz) gin2</count> 
+a2-bi <count><interpretation modern_unit="" modern_value="675" system="cardinal" unit="" value="675"/>1(geszu) 1(gesz2) 1(u) 5(disz)</count> 
+nig2-ka9 lugal-ezem-ta 
+mu an-sza-an{ki} ba-hul 
+</commodities>

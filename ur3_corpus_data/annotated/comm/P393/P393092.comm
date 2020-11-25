@@ -1,0 +1,24 @@
+<commodities>
+#P393092 = CDLJ 2010/1, no. 4.2
+#atf: lang sux
+#tr.en: 2 barig flour,
+#tr.en: from Lugal-nirgal,
+#tr.en: under seal of Aramu;
+#tr.en: month: “Barley at the quay,”
+# seal impression
+#tr.en: year: “Lullubum (and) Simurrum were destroyed.”
+#tr.en: Ur-Suen
+#tr.en: scribe,
+#tr.en: son of Ur-gigir,
+#tr.en: official.
+# this line unclear
+<count><interpretation modern_unit="l" modern_value="120" system="dry capacity" unit="sila3" value="120"/>2(barig)</count> <com dist="1">dabin</com> 
+ki lugal-nir-gal2-ta 
+kiszib3 a-du-mu 
+iti sze-kar-gal2-la 
+mu lu-lu-bum2 si-mu-ru-um ba-hul 
+ur-{d}suen 
+dub-sar 
+dumu ur-{gesz}gigir 
+sza3-tam 
+</commodities>

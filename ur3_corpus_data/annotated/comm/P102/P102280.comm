@@ -1,0 +1,62 @@
+<commodities>
+#P102280 = ASJ 09, 234 04
+#atf: lang sux
+#tr.en: 3 gur barley rations:
+#tr.en: Ur-Šuzi-andul;
+#tr.en: 3: ARAD-mu;
+#tr.en: 3: Dada;
+#tr.en: 3: Ur-Mami;
+#tr.en: 2: Adudu;
+#tr.en: 3: Šara-bansa,
+#tr.en: 2: Ur-KU-x
+#tr.en: 3: Enrakal;
+#tr.en: 3: Ur-Šulpa’e;
+#tr.en: 2: Ur-e’e;
+#tr.en: 3: Ur-e’e, the second one;
+#tr.en: 1, 1 barig: Šara-i3-[x];
+#tr.en: 3: ...;
+#tr.en: 3 ...;
+#tr.en: barley ration left;
+#tr.en: 2 barig: Lugal-zagesi, the ploughman;
+#tr.en: 2 barig: Ur-saga-mu, the ploughman;
+#tr.en: 2 barig : Uramma;
+#tr.en: 2 barig: Lugal-sa-izu, the ploughman;
+#tr.en: 2 barig: Ur-Suen, the ploughman;
+#tr.en: ploughmen of fallow prebend, receiving no barley;
+#tr.en: total: 39 gur 1 barig barley rations
+#tr.en: from the granary supervisor;
+#tr.en: under seal of Ipa’e;
+#tr.en: year: “Simanum was destroyed;”
+#tr.en: (total:) 6 × 30
+#tr.en: Ipa’e
+#tr.en: son of Lugal-ušur.
+<count><interpretation modern_unit="" modern_value="0.0002777777777777778" system="cardinal" unit="" value="0.0002777777777777778"/>3(asz) sze</count> szuku-ra gur 
+ur-{d}szu-zi-an-dul3 
+<count><interpretation modern_unit="" modern_value="3" system="cardinal" unit="" value="3"/>3(asz)</count> ARAD2-mu 
+<count><interpretation modern_unit="" modern_value="3" system="cardinal" unit="" value="3"/>3(asz)</count> da-da 
+<count><interpretation modern_unit="" modern_value="3" system="cardinal" unit="" value="3"/>3(asz)</count> ur-{d}ma-mi 
+<count><interpretation modern_unit="" modern_value="2" system="cardinal" unit="" value="2"/>2(asz)</count> a-du-du 
+<count><interpretation modern_unit="" modern_value="3" system="cardinal" unit="" value="3"/>3(asz)</count> {d}szara2-ba-an-sa6 
+<count><interpretation modern_unit="" modern_value="2" system="cardinal" unit="" value="2"/>2(asz)</count> ur-KU-x 
+<count><interpretation modern_unit="" modern_value="3" system="cardinal" unit="" value="3"/>3(asz)</count> en-ra-kal 
+<count><interpretation modern_unit="" modern_value="3" system="cardinal" unit="" value="3"/>3(asz)</count> ur-{d}szul-pa-e3 
+<count><interpretation modern_unit="" modern_value="2" system="cardinal" unit="" value="2"/>2(asz)</count> ur-e11-e 
+<count><interpretation modern_unit="" modern_value="3" system="cardinal" unit="" value="3"/>3(asz)</count> ur-e11-e min-kam 
+<count><interpretation modern_unit="l" modern_value="360" system="dry capacity" unit="sila3" value="360"/>1(asz) 1(barig)</count> {d}szara2-i3-x 
+<count><interpretation modern_unit="" modern_value="3" system="cardinal" unit="" value="3"/>3(asz)</count> x-{d}x-x 
+<count><interpretation modern_unit="" modern_value="none" system="unknown" unit="" value="none"/>3(asz) x x x</count> 
+<com dist="1">sze</com> szuku e-tak4-a 
+<count><interpretation modern_unit="l" modern_value="120" system="dry capacity" unit="sila3" value="120"/>2(barig)</count> lugal-za3-ge-si engar 
+<count><interpretation modern_unit="l" modern_value="120" system="dry capacity" unit="sila3" value="120"/>2(barig)</count> ur-saga-mu engar 
+<count><interpretation modern_unit="l" modern_value="120" system="dry capacity" unit="sila3" value="120"/>2(barig)</count> ur-am3-ma 
+<count><interpretation modern_unit="l" modern_value="120" system="dry capacity" unit="sila3" value="120"/>2(barig)</count> lugal-sa6-i3-zu engar 
+<count><interpretation modern_unit="l" modern_value="120" system="dry capacity" unit="sila3" value="120"/>2(barig)</count> ur-{d}suen engar 
+engar <com dist="1">szuku</com> su3 sze nu-tuku-me 
+szunigin <count>3(u) 9(asz) 1(barig) sze</count> szuku-ra gur 
+<com dist="1">ki</com> ka-guru7-ta 
+kiszib3 i7-pa-e3 
+mu si-ma-num2{ki} ba-hul 
+<count><interpretation modern_unit="" modern_value="none" system="unknown" unit="" value="none"/>6(asz) x 3(barig) 3(u)</count> 
+i7-pa-e3 
+dumu lugal-uszurx(|LAL2.TUG2|) 
+</commodities>

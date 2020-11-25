@@ -1,0 +1,28 @@
+<commodities>
+#P107292 = BRM 3, 090
+#atf: lang sux
+#tr.en: 5 ban2 fish,
+#tr.en: regular rations of Šara,
+#tr.en: day 1;
+#tr.en: 2 ban2 5 sila3 fish, regular rations,
+#tr.en: Abagalta,
+#tr.en: from Uram,
+#tr.en: because of Lugal-niglagare,
+#tr.en: under seal of Ur-Emaḫ;
+#tr.en: month: “Sowing,”
+#tr.en: year: “Simurrum was destroyed.”
+#tr.en: Ur-Emaḫ,
+#tr.en: son of Lu-Suen(?).
+<count><interpretation modern_unit="l" modern_value="50" system="dry capacity" unit="sila3" value="50"/>5(ban2)</count> <com dist="1">ku6</com> 
+sa2-du11 {d}szara2 
+u4 <count><interpretation modern_unit="" modern_value="1" system="cardinal" unit="" value="1"/>1(disz)-kam</count> 
+<count><interpretation modern_unit="l" modern_value="25" system="dry capacity" unit="sila3" value="25"/>2(ban2) 5(disz) sila3</count> <com dist="1">ku6</com> sa2-du11 
+a-ba-gal-ta 
+ki ur-am3-ma-ta 
+mu lugal-nig2-lagar-e 
+kiszib3 ur-e2-mah 
+iti szu-numun 
+mu si-mu-ru-um{ki} ba-hul 
+ur-e2-mah 
+dumu lu2-{d}suen 
+</commodities>

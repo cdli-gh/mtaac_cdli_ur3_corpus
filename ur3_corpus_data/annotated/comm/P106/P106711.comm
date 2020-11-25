@@ -1,0 +1,154 @@
+<commodities>
+#P106711 = BIN 05, 277
+#atf: lang sux
+... x-ba 
+...-bi <count><interpretation modern_unit="l" modern_value="540" system="dry capacity" unit="sila3" value="540"/>1(asz) 4(barig) gur</count> 
+... nin-si-gar <com dist="1">SZIM</com> 
+...-na 
+... <count><interpretation modern_unit="l" modern_value="19440" system="dry capacity" unit="sila3" value="19440"/>1(gesz2) 4(asz) 4(barig) gur</count> 
+... nin-hur-sag NIG2 
+...-da{ki} 
+... <count><interpretation modern_unit="l" modern_value="22320" system="dry capacity" unit="sila3" value="22320"/>1(gesz2) 1(u) 4(asz) 2(barig) gur</count> 
+... nin-e2-nirx(|MIR.ZA|) 
+... <count><interpretation modern_unit="l" modern_value="21600" system="dry capacity" unit="sila3" value="21600"/>1(gesz2) 1(u) 2(asz) gur</count> 
+... ne3-eri11-gal-a 
+x a-za-ru-um-da-gi{ki} 
+... x <count><interpretation modern_unit="l" modern_value="675" system="dry capacity" unit="sila3" value="675"/>2(asz) 1(barig) 1(ban2) 5(disz) sila3 gur</count> 
+... <com dist="1">nin-{u2}gug4</com> 
+... GAN2 <count><interpretation modern_unit="l" modern_value="540" system="dry capacity" unit="sila3" value="540"/>1(asz) 4(barig) gur</count> 
+... ne3-eri11-gal{ki}-szesz 
+<count><interpretation modern_unit="m^2" modern_value="21600.0" system="surface" unit="gin2" value="36000"/>1(esze3) gan2</count> <count><interpretation modern_unit="l" modern_value="360" system="dry capacity" unit="sila3" value="360"/>1(asz) 1(barig) gur</count> 
+{d}gesztin-an-na 
+lugal-ba-ta-ab-e3 
+<count><interpretation modern_unit="m^2" modern_value="21600.0" system="surface" unit="gin2" value="36000"/>1(esze3) gan2</count> <count><interpretation modern_unit="l" modern_value="360" system="dry capacity" unit="sila3" value="360"/>1(asz) 1(barig) gur</count> 
+{d}nin-a-mu-tum2 
+<count><interpretation modern_unit="m^2" modern_value="7200.0" system="surface" unit="gin2" value="12000"/>2(iku) gan2</count> <count><interpretation modern_unit="l" modern_value="300" system="dry capacity" unit="sila3" value="300"/>1(asz) gur</count> 
+{d}nagar-pa-e3 
+<count><interpretation modern_unit="m^2" modern_value="64800.0" system="surface" unit="gin2" value="108000"/>1(bur3) gan2</count> <count><interpretation modern_unit="l" modern_value="4500" system="dry capacity" unit="sila3" value="4500"/>1(u) 5(asz) gur</count> 
+{d}ne3-eri11-gal 
+szu-na-mu-gi4 
+<count><interpretation modern_unit="m^2" modern_value="64800.0" system="surface" unit="gin2" value="108000"/>1(bur3) gan2</count> <count><interpretation modern_unit="l" modern_value="2700" system="dry capacity" unit="sila3" value="2700"/>1(u) la2 1(asz) gur</count> 
+{d}nin-hur-sag a-sza3 <com dist="1">ansze</com> 
+<count><interpretation modern_unit="m^2" modern_value="3600.0" system="surface" unit="gin2" value="6000"/>1(iku) gan2</count> <count><interpretation modern_unit="l" modern_value="150" system="dry capacity" unit="sila3" value="150"/>2(barig) 3(ban2)</count> 
+{d}nin-du6-ar-za-tum 
+<count><interpretation modern_unit="m^2" modern_value="12600.0" system="surface" unit="gin2" value="21000.0"/>3(iku) 1/2(iku) gan2</count> <count><interpretation modern_unit="l" modern_value="315" system="dry capacity" unit="sila3" value="315"/>1(asz) 1(ban2) 5(disz) sila3 gur</count> 
+{d}nin-du6-gal-gal 
+<count><interpretation modern_unit="m^2" modern_value="64800.0" system="surface" unit="gin2" value="108000"/>1(bur3) gan2</count> <count><interpretation modern_unit="l" modern_value="4320" system="dry capacity" unit="sila3" value="4320"/>1(u) 4(asz) 2(barig) gur</count> 
+{d}szul-pa-e3 
+<count><interpretation modern_unit="m^2" modern_value="38700.0" system="surface" unit="gin2" value="64500.0"/>1(esze3) 4(iku) 1/2(iku) 1/4(iku) gan2</count> <count><interpretation modern_unit="l" modern_value="825" system="dry capacity" unit="sila3" value="825"/>2(asz) 3(barig) 4(ban2) 5(disz) sila3 gur</count> 
+{d}ne3-eri11-gal 
+bala-a {d}szul-pa-e3 
+<count><interpretation modern_unit="m^2" modern_value="21600.0" system="surface" unit="gin2" value="36000"/>1(esze3) gan2</count> <count><interpretation modern_unit="l" modern_value="540" system="dry capacity" unit="sila3" value="540"/>1(asz) 4(barig) gur</count> 
+{d}nin-hur-sag du6-kar-sag 
+<count><interpretation modern_unit="m^2" modern_value="21600.0" system="surface" unit="gin2" value="36000"/>1(esze3) gan2</count> <count><interpretation modern_unit="l" modern_value="1080" system="dry capacity" unit="sila3" value="1080"/>3(asz) 3(barig) gur</count> 
+{d}ur3-bar-tab 
+<count><interpretation modern_unit="m^2" modern_value="46800.0" system="surface" unit="gin2" value="78000"/>2(esze3) 1(iku) gan2</count> <count><interpretation modern_unit="l" modern_value="3330" system="dry capacity" unit="sila3" value="3330"/>1(u) 1(asz) 3(ban2) gur</count> 
+{d}ne3-eri11-gal 
+bala-a {d}kal-kal 
+<count><interpretation modern_unit="m^2" modern_value="10800.0" system="surface" unit="gin2" value="18000"/>3(iku) gan2</count> <count><interpretation modern_unit="l" modern_value="450" system="dry capacity" unit="sila3" value="450"/>1(asz) 2(barig) 3(ban2) gur</count> 
+{d}kal-kal 
+sza3 masz-kan2{ki} 
+<count><interpretation modern_unit="m^2" modern_value="36000.0" system="surface" unit="gin2" value="60000"/>1(esze3) 4(iku) gan2</count> <count><interpretation modern_unit="l" modern_value="3000" system="dry capacity" unit="sila3" value="3000"/>1(u) gur</count> 
+{d}nin-hur-sag ka-ma-ri2{ki} 
+<count><interpretation modern_unit="m^2" modern_value="21600.0" system="surface" unit="gin2" value="36000"/>1(esze3) gan2</count> <count><interpretation modern_unit="l" modern_value="360" system="dry capacity" unit="sila3" value="360"/>1(asz) 1(barig) gur</count> 
+{d}ne3-eri11-gal babilax(|DIN.TIR|){ki} 
+<count><interpretation modern_unit="m^2" modern_value="14400.0" system="surface" unit="gin2" value="24000"/>4(iku) gan2</count> <count><interpretation modern_unit="l" modern_value="240" system="dry capacity" unit="sila3" value="240"/>4(barig)</count> 
+{d}en-ki-am-ri2-ma 
+<count><interpretation modern_unit="m^2" modern_value="10800.0" system="surface" unit="gin2" value="18000"/>3(iku) gan2</count> <count><interpretation modern_unit="l" modern_value="45" system="dry capacity" unit="sila3" value="45"/>4(ban2) 5(disz) sila3</count> 
+{d}gesztin-an-na |KI.AN|{ki} 
+<count><interpretation modern_unit="m^2" modern_value="10800.0" system="surface" unit="gin2" value="18000"/>3(iku) gan2</count> <count><interpretation modern_unit="l" modern_value="270" system="dry capacity" unit="sila3" value="270"/>4(barig) 3(ban2)</count> 
+{d}nin-du6-zum-re-mu2-a 
+<count><interpretation modern_unit="m^2" modern_value="64800.0" system="surface" unit="gin2" value="108000"/>1(bur3) gan2</count> <count><interpretation modern_unit="l" modern_value="1080" system="dry capacity" unit="sila3" value="1080"/>3(asz) 3(barig) gur</count> 
+{d}nin-ak-{d}suen 
+<count><interpretation modern_unit="m^2" modern_value="32400.0" system="surface" unit="gin2" value="54000"/>1(esze3) 3(iku) gan2</count> <count><interpretation modern_unit="l" modern_value="3375" system="dry capacity" unit="sila3" value="3375"/>1(u) 1(asz) 1(barig) 1(ban2) 5(disz) sila3 gur</count> 
+{d}nin-hur-sag a-e-bar{ki} 
+<count><interpretation modern_unit="m^2" modern_value="21600.0" system="surface" unit="gin2" value="36000"/>1(esze3) gan2</count> <count><interpretation modern_unit="l" modern_value="420" system="dry capacity" unit="sila3" value="420"/>1(asz) 2(barig) gur</count> 
+{d}nin-hur-an-na 
+sza3 masz-kan2{ki} 
+a-sza3 sa2-du11 dingir-re-ne 
+szunigin <count><interpretation modern_unit="m^2" modern_value="839700.0" system="surface" unit="gin2" value="1399500.0"/>1(bur'u) 2(bur3) 2(esze3) 5(iku) 1/4(iku) gan2</count> 
+szunigin <com dist="1">sze-bi</com> <count><interpretation modern_unit="l" modern_value="39135" system="dry capacity" unit="sila3" value="39135"/>2(gesz2) 1(u) 2(barig) 1(ban2) 5(disz) sila3 gur</count> 
+a-sza3 sa2-du11 dingir-re-ne 
+<count><interpretation modern_unit="m^2" modern_value="32400.0" system="surface" unit="gin2" value="54000"/>1(esze3) 3(iku) gan2</count> <count><interpretation modern_unit="l" modern_value="6750" system="dry capacity" unit="sila3" value="6750"/>2(u) 2(asz) 2(barig) 3(ban2) gur</count> 
+egi-zi {d}szul-pa-e3 
+<count><interpretation modern_unit="m^2" modern_value="21600.0" system="surface" unit="gin2" value="36000"/>1(esze3) gan2</count> <count><interpretation modern_unit="l" modern_value="3000" system="dry capacity" unit="sila3" value="3000"/>1(u) gur</count> 
+e2-ki 
+a-sza3 e2-nirx(|MIR.ZA|) 
+<count><interpretation modern_unit="m^2" modern_value="21600.0" system="surface" unit="gin2" value="36000"/>1(esze3) gan2</count> <count><interpretation modern_unit="l" modern_value="1080" system="dry capacity" unit="sila3" value="1080"/>3(asz) 3(barig) gur</count> 
+<com dist="1">gu-du</com> 
+<count><interpretation modern_unit="m^2" modern_value="43200.0" system="surface" unit="gin2" value="72000"/>2(esze3) gan2</count> <count><interpretation modern_unit="l" modern_value="240" system="dry capacity" unit="sila3" value="240"/>4(barig)</count> 
+egi-zi {d}nin-sun2 
+a-sza3 du6-nunuz 
+<count><interpretation modern_unit="m^2" modern_value="64800.0" system="surface" unit="gin2" value="108000"/>1(bur3) gan2</count> <count><interpretation modern_unit="l" modern_value="3600" system="dry capacity" unit="sila3" value="3600"/>1(u) 2(asz) gur</count> 
+a-ab-ba-ni 
+<count><interpretation modern_unit="m^2" modern_value="64800.0" system="surface" unit="gin2" value="108000"/>1(bur3) gan2</count> <count><interpretation modern_unit="l" modern_value="3600" system="dry capacity" unit="sila3" value="3600"/>1(u) 2(asz) gur</count> 
+sza3-ku3-ge 
+<count><interpretation modern_unit="m^2" modern_value="21600.0" system="surface" unit="gin2" value="36000"/>1(esze3) gan2</count> <count><interpretation modern_unit="l" modern_value="1200" system="dry capacity" unit="sila3" value="1200"/>4(asz) gur</count> 
+ur-{d}nun-gal 
+<count><interpretation modern_unit="m^2" modern_value="10800.0" system="surface" unit="gin2" value="18000"/>3(iku) gan2</count> <count><interpretation modern_unit="l" modern_value="540" system="dry capacity" unit="sila3" value="540"/>1(asz) 4(barig) gur</count> 
+musz-lah5 
+<count><interpretation modern_unit="m^2" modern_value="10800.0" system="surface" unit="gin2" value="18000"/>3(iku) gan2</count> <count><interpretation modern_unit="l" modern_value="540" system="dry capacity" unit="sila3" value="540"/>1(asz) 4(barig) gur</count> 
+bahar3 
+<count><interpretation modern_unit="m^2" modern_value="10800.0" system="surface" unit="gin2" value="18000"/>3(iku) gan2</count> <count><interpretation modern_unit="l" modern_value="540" system="dry capacity" unit="sila3" value="540"/>1(asz) 4(barig) gur</count> 
+i3-du8 
+a-sza3 a-ama 
+giri3-se3-ga {d}nin-ur4-ra-me 
+<count><interpretation modern_unit="m^2" modern_value="32400.0" system="surface" unit="gin2" value="54000"/>1(esze3) 3(iku) gan2</count> <count><interpretation modern_unit="l" modern_value="1080" system="dry capacity" unit="sila3" value="1080"/>3(asz) 3(barig) gur</count> 
+ur-sa6-sa6 
+a-sza3 am-ri2-ma 
+<count><interpretation modern_unit="m^2" modern_value="64800.0" system="surface" unit="gin2" value="108000"/>1(bur3) gan2</count> <count><interpretation modern_unit="l" modern_value="9000" system="dry capacity" unit="sila3" value="9000"/>3(u) gur</count> 
+ur-am3-ma 
+a-sza3 saga-tur 
+<com dist="1">szuku</com> giri3-se3-ga dingir-re-ne 
+<count><interpretation modern_unit="m^2" modern_value="21600.0" system="surface" unit="gin2" value="36000"/>1(esze3) gan2</count> <count><interpretation modern_unit="l" modern_value="900" system="dry capacity" unit="sila3" value="900"/>3(asz) gur</count> 
+lugal-me-a 
+a-sza3 <com dist="1">pisan-{gesz}i3-szub-ba</com> 
+<count><interpretation modern_unit="m^2" modern_value="12600.0" system="surface" unit="gin2" value="21000.0"/>3(iku) 1/2(iku) gan2</count> su3 
+lugal-{gesz}gigir-re 
+a-sza3 diri 
+<count><interpretation modern_unit="m^2" modern_value="18000.0" system="surface" unit="gin2" value="30000"/>5(iku) gan2</count> <count><interpretation modern_unit="l" modern_value="1500" system="dry capacity" unit="sila3" value="1500"/>5(asz) gur</count> 
+a-kal-la 
+<count><interpretation modern_unit="m^2" modern_value="21600.0" system="surface" unit="gin2" value="36000"/>1(esze3) gan2</count> <count><interpretation modern_unit="l" modern_value="1800" system="dry capacity" unit="sila3" value="1800"/>6(asz) gur</count> 
+lugal-nig2 
+<count><interpretation modern_unit="m^2" modern_value="21600.0" system="surface" unit="gin2" value="36000"/>1(esze3) gan2</count> <count><interpretation modern_unit="l" modern_value="1800" system="dry capacity" unit="sila3" value="1800"/>6(asz) gur</count> 
+a-du-du 
+<count><interpretation modern_unit="m^2" modern_value="21600.0" system="surface" unit="gin2" value="36000"/>1(esze3) gan2</count> <count><interpretation modern_unit="l" modern_value="1440" system="dry capacity" unit="sila3" value="1440"/>4(asz) 4(barig) gur</count> 
+ur-mes 
+a-sza3 <com dist="1">ansze</com> 
+<count><interpretation modern_unit="m^2" modern_value="10800.0" system="surface" unit="gin2" value="18000"/>3(iku) gan2</count> <count><interpretation modern_unit="l" modern_value="360" system="dry capacity" unit="sila3" value="360"/>1(asz) 1(barig) gur</count> 
+<com dist="1">u2-da</com> 
+a-sza3 am-ri2-ma 
+aga3-us2-me 
+<count><interpretation modern_unit="m^2" modern_value="10800.0" system="surface" unit="gin2" value="18000"/>3(iku) gan2</count> <count><interpretation modern_unit="l" modern_value="540" system="dry capacity" unit="sila3" value="540"/>1(asz) 4(barig) gur</count> 
+lu2-kal-la i3-ra2-ra2 
+<count><interpretation modern_unit="m^2" modern_value="10800.0" system="surface" unit="gin2" value="18000"/>3(iku) gan2</count> <count><interpretation modern_unit="l" modern_value="540" system="dry capacity" unit="sila3" value="540"/>1(asz) 4(barig) gur</count> 
+lugal-nig2-lagar-e 
+a-sza3 a-ba-a-ge6-i3-gi4-gi4 
+<count><interpretation modern_unit="m^2" modern_value="27000.0" system="surface" unit="gin2" value="45000.0"/>1(esze3) 1(iku) 1/2(iku) gan2</count> <count><interpretation modern_unit="l" modern_value="1980" system="dry capacity" unit="sila3" value="1980"/>6(asz) 3(barig) gur</count> 
+ba-a-mu 
+a-sza3 e2-nirx(|MIR.ZA|) 
+<count><interpretation modern_unit="m^2" modern_value="14400.0" system="surface" unit="gin2" value="24000"/>4(iku) gan2</count> <count><interpretation modern_unit="l" modern_value="1440" system="dry capacity" unit="sila3" value="1440"/>4(asz) 4(barig) gur</count> 
+a-sza3 {d}ur3-bar-tab 
+<count><interpretation modern_unit="m^2" modern_value="21600.0" system="surface" unit="gin2" value="36000"/>1(esze3) gan2</count> <count><interpretation modern_unit="l" modern_value="4800" system="dry capacity" unit="sila3" value="4800"/>1(u) 6(asz) gur</count> 
+a-sza3 {d}szul-pa-e3 
+<count><interpretation modern_unit="m^2" modern_value="18000.0" system="surface" unit="gin2" value="30000"/>5(iku) gan2</count> <count><interpretation modern_unit="l" modern_value="600" system="dry capacity" unit="sila3" value="600"/>2(asz) gur</count> 
+a-sza3 {d}nin-hur-sag 
+du6-kar-sag 
+<com dist="1">szuku</com> lugal-nesag-e 
+lu2 didli-me 
+szunigin <count><interpretation modern_unit="m^2" modern_value="629100.0" system="surface" unit="gin2" value="1048500.0"/>9(bur3) 2(esze3) 1/2(iku) 1/4(iku) gan2</count> 
+szunigin <com dist="1">sze-bi</com> <count><interpretation modern_unit="l" modern_value="48870" system="dry capacity" unit="sila3" value="48870"/>2(gesz2) 4(u) 2(asz) 4(barig) 3(ban2) gur</count> 
+szuku gudu4 giri3-se3-ga esz3 didli <com dist="1">u3</com> lu2 didli-ne 
+szunigin2 <count><interpretation modern_unit="m^2" modern_value="839700.0" system="surface" unit="gin2" value="1399500.0"/>1(bur'u) 2(bur3) 2(esze3) 5(iku) 1/4(iku) gan2</count> 
+szunigin2 <com dist="1">sze-bi</com> <count><interpretation modern_unit="l" modern_value="39135" system="dry capacity" unit="sila3" value="39135"/>2(gesz2) 1(u) 2(barig) 1(ban2) 5(disz) sila3 gur</count> 
+a-sza3 sa2-du11 dingir-re-ne 
+szunigin2 <count><interpretation modern_unit="m^2" modern_value="629100.0" system="surface" unit="gin2" value="1048500.0"/>9(bur3) 2(esze3) 1/2(iku) 1/4(iku) gan2</count> 
+szunigin2 <com dist="1">sze-bi</com> <count><interpretation modern_unit="l" modern_value="48870" system="dry capacity" unit="sila3" value="48870"/>2(gesz2) 4(u) 2(asz) 4(barig) 3(ban2) gur</count> 
+... giri3-se3-ga esz3 didli <com dist="1">u3</com> lu2 didli-ne 
+a-sza3 gid2-da 
+sza3 buru14 
+...-x-da 
+... lugal-nesag-e 
+... nun 
+... 
+</commodities>

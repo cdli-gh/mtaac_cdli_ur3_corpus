@@ -1,0 +1,24 @@
+<commodities>
+#P139133 = UET 9, 1003
+#atf: lang sux
+... x ga HI 
+na-silim 
+diri <count><interpretation modern_unit="l" modern_value="10" system="dry capacity" unit="sila3" value="10"/>1(ban2)</count> <com dist="1">i3-gesz</com> 
+ha-ba-lu5-ge2 
+la2-ia3 <count><interpretation modern_unit="l" modern_value="57" system="dry capacity" unit="sila3" value="57"/>5(ban2) 7(disz) sila3</count> i3-x 
+la2-ia3 <count><interpretation modern_unit="l" modern_value="4.5" system="liquid capacity" unit="sila3" value="4.5"/><interpretation modern_unit="l" modern_value="4.5" system="dry capacity" unit="sila3" value="4.5"/>4(disz) 1/2(disz) sila3</count> i3-x 
+ur-{d}nin-mug 
+la2-ia3 n <count><interpretation modern_unit="l" modern_value="3" system="liquid capacity" unit="sila3" value="3"/><interpretation modern_unit="l" modern_value="3" system="dry capacity" unit="sila3" value="3"/>3(disz) sila3</count> i3-x 
+{d}suen-kal 
+la2-ia3 <count><interpretation modern_unit="l" modern_value="40" system="dry capacity" unit="sila3" value="40"/>4(ban2)</count> <com dist="1">i3-gesz</com> 
+la2-i3 <count><interpretation modern_unit="l" modern_value="15" system="dry capacity" unit="sila3" value="15"/>1(ban2) 5(disz) sila3</count> <com dist="1">i3-szah2</com> 
+... x 
+diri <count><interpretation modern_unit="l" modern_value="100" system="dry capacity" unit="sila3" value="100"/>1(barig) 4(ban2)</count> i3-x 
+lugal-a2-zi-da 
+n <count><interpretation modern_unit="l" modern_value="1" system="liquid capacity" unit="sila3" value="1"/><interpretation modern_unit="l" modern_value="1" system="dry capacity" unit="sila3" value="1"/>1(disz) sila3</count> <com dist="1">i3-szah2</com> 
+...-x-TUR-x 
+... i3-szah2 ur ... 
+... e2 lugal-la{ki} 
+... x 
+... lugal 
+</commodities>

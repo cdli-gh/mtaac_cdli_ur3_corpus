@@ -1,0 +1,38 @@
+<commodities>
+#P127425 = RA 009, 048 AM 06
+#atf: lang sux
+#tr.en: 11 male grain-fed lambs,
+#tr.en: regular offering, 11th day;
+#tr.en: 4 male suckling lambs
+#tr.en: for roasted meat,
+#tr.en: Ur-Bawu received.
+#tr.en: 12 male grain-fed lambs,
+#tr.en: regular offering, 12th day;
+#tr.en: 2 male grain-fed lambs
+#tr.en: for Elamite meat;
+#tr.en: 7 male suckling lambs
+#tr.en: for roasted meat,
+#tr.en: Ayakala received;
+#tr.en: regular offering for the king;
+#tr.en: under seal of Nanna-andul;
+#tr.en: from (the account of) Nalu booked out.
+#tr.en: month: “Gazelle feast,”
+#tr.en: year: “The throne of Enlil was fashioned.”
+<count><interpretation modern_unit="" modern_value="11" system="cardinal" unit="" value="11"/>1(u) 1(disz)</count> <com dist="1">sila4</com> niga 
+sa2-du11 u4 <count><interpretation modern_unit="" modern_value="10" system="cardinal" unit="" value="10"/>1(u)</count> <count><interpretation modern_unit="" modern_value="1" system="cardinal" unit="" value="1"/>1(disz)-kam</count> 
+<count><interpretation modern_unit="" modern_value="4" system="cardinal" unit="" value="4"/>4(disz)</count> <com dist="1">sila4</com> ga 
+KA-NE-sze3 
+ur-{d}ba-ba6 i3-dab5 
+<count><interpretation modern_unit="" modern_value="12" system="cardinal" unit="" value="12"/>1(u) 2(disz)</count> <com dist="1">sila4</com> niga 
+sa2-du11 u4 <count><interpretation modern_unit="" modern_value="10" system="cardinal" unit="" value="10"/>1(u)</count> <count><interpretation modern_unit="" modern_value="2" system="cardinal" unit="" value="2"/>2(disz)-kam</count> 
+<count><interpretation modern_unit="" modern_value="2" system="cardinal" unit="" value="2"/>2(disz)</count> <com dist="1">sila4</com> niga 
+uzu elam-sze3 
+<count><interpretation modern_unit="" modern_value="7" system="cardinal" unit="" value="7"/>7(disz)</count> <com dist="1">sila4</com> ga 
+KA-NE-sze3 
+a-a-kal-la i3-dab5 
+sa2-du11 lugal 
+kiszib3 {d}nanna-an-dul3 
+ki na-lu5-ta ba-zi 
+iti masz-da3-gu7 
+mu {d}gu-za {d}en-lil2-la2 ba-dim2 
+</commodities>

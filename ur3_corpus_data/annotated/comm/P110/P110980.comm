@@ -1,0 +1,26 @@
+<commodities>
+#P110980 = ITT 2, 03802
+#atf: lang sux
+... 
+<count><interpretation modern_unit="l" modern_value="240" system="dry capacity" unit="sila3" value="240"/>4(barig)</count> <com dist="1">zi3</com> sig15 
+<count><interpretation modern_unit="" modern_value="1" system="cardinal" unit="" value="1"/>1(asz)</count> kasz saga gur 
+<count><interpretation modern_unit="" modern_value="29" system="cardinal" unit="" value="29"/>2(u) 9(asz)</count> <com dist="1">kasz</com> du gur gur 
+<count><interpretation modern_unit="l" modern_value="30" system="liquid capacity" unit="sila3" value="30"/>1(disz) dug</count> ga-szex(SIG7)-a 
+<count><interpretation modern_unit="l" modern_value="30" system="liquid capacity" unit="sila3" value="30"/>1(disz) dug</count> sze-duru5 
+<count><interpretation modern_unit="" modern_value="2400" system="cardinal" unit="" value="2400"/>4(geszu)</count> <com dist="1">ku6</com> kun-zi 
+<count><interpretation modern_unit="" modern_value="15" system="cardinal" unit="" value="15"/>1(u) 5(disz)</count> ma-sa2-ab ku6-sze6 <count><interpretation modern_unit="" modern_value="60" system="cardinal" unit="" value="60"/>1(gesz2)-ta</count> 
+<count><interpretation modern_unit="g" modern_value="60000.00000000001" system="weight" unit="gin2" value="7200"/>2(asz) gu2</count> <com dist="1">szum2-sikil</com> mar-ha-szi{ki} 
+<count><interpretation modern_unit="g" modern_value="300000.0" system="weight" unit="gin2" value="36000"/>1(u) gu2</count> <com dist="1">szum2-sikil</com> 
+<count><interpretation modern_unit="g" modern_value="1200000.0" system="weight" unit="gin2" value="144000"/>4(u) gu2</count> szum2 gaz 
+<count><interpretation modern_unit="" modern_value="1260" system="cardinal" unit="" value="1260"/>2(geszu) 1(gesz2)</count> <com dist="1">nunuz</com> muszen 
+<count><interpretation modern_unit="" modern_value="600" system="cardinal" unit="" value="600"/>1(geszu)</count> sa gi 
+<count><interpretation modern_unit="" modern_value="180" system="cardinal" unit="" value="180"/>3(gesz2)</count> ma-sa2-ab ninda 
+a-bi2-si2-im-ti nin 
+<count><interpretation modern_unit="l" modern_value="30" system="dry capacity" unit="sila3" value="30"/>3(ban2)</count> <com dist="1">kasz</com> saga <count><interpretation modern_unit="l" modern_value="120" system="dry capacity" unit="sila3" value="120"/>2(barig)</count> kasz du 
+<count><interpretation modern_unit="l" modern_value="20" system="dry capacity" unit="sila3" value="20"/>2(ban2)</count> zi3 sig15 <count><interpretation modern_unit="l" modern_value="10" system="dry capacity" unit="sila3" value="10"/>1(ban2)</count> zi3-gu 
+<count><interpretation modern_unit="" modern_value="none" system="unknown" unit="" value="none"/>2(barig) x</count> du 
+<count><interpretation modern_unit="" modern_value="120" system="cardinal" unit="" value="120"/>2(gesz2)</count> ku6 kun-zi 
+<count><interpretation modern_unit="g" modern_value="30000.000000000004" system="weight" unit="gin2" value="3600"/>1(asz) gu2</count> szum2-sikil <count><interpretation modern_unit="g" modern_value="30000.000000000004" system="weight" unit="gin2" value="3600"/>1(asz) gu2</count> szum2 gaz 
+<count><interpretation modern_unit="l" modern_value="20" system="dry capacity" unit="sila3" value="20"/>2(ban2)</count> ga-szex(SIG7)-a 
+in-szi-wi-ir 
+</commodities>

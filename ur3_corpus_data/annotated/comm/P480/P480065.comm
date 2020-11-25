@@ -1,0 +1,36 @@
+<commodities>
+#P480065 = Akkadica 135/1, 074-076 01 
+#atf: lang sux 
+#tr.en: 15 female laborers for 3 days 
+#tr.en: beer from the brewery 
+#tr.en: to New Palace carried, 
+#tr.en: 10 female laborers for 8 days 
+#tr.en: 120 verified vessels carried (and) 
+#tr.en: 15 female laborers for 2 days 
+#tr.en: beer to the boat carried; 
+#tr.en: 8 female laborers for 1 day 
+#tr.en: strings to the boat carried; 
+#tr.en: 5 female laborers for 2 days 
+#tr.en: reeds (from) Engaldudu’s garden carried (and) 
+#tr.en: 8 female laborers for 1 day 
+#tr.en: the boat of oil, dates and leather loaded; 
+#tr.en: booked out, oil for the mašdaria-delivery for king; 
+#tr.en: month “Mušudu,” 
+#tr.en: year: “Šū-Suen is king.” 
+<count><interpretation modern_unit="" modern_value="15" system="cardinal" unit="" value="15"/>1(u) 5(disz)</count> geme2 u4 <count><interpretation modern_unit="" modern_value="3" system="cardinal" unit="" value="3"/>3(disz)-sze3</count> 
+<com dist="1">kasz</com> e2-bappir-ta 
+e2-gal gibil-sze3 ga6-ga2 
+<count><interpretation modern_unit="" modern_value="10" system="cardinal" unit="" value="10"/>1(u)</count> geme2 u4 <count><interpretation modern_unit="" modern_value="8" system="cardinal" unit="" value="8"/>8(disz)-sze3</count> 
+<count><interpretation modern_unit="l" modern_value="3600" system="liquid capacity" unit="sila3" value="3600"/>2(gesz2) dug</count> kab2-du11-ga -ga2 
+<count><interpretation modern_unit="" modern_value="15" system="cardinal" unit="" value="15"/>1(u) 5(disz)</count> geme2 u4 <count><interpretation modern_unit="" modern_value="2" system="cardinal" unit="" value="2"/>2(disz)-sze3</count> 
+<com dist="1">kasz</com> ma2-sze3 ga6-ga2 
+<count><interpretation modern_unit="" modern_value="8" system="cardinal" unit="" value="8"/>8(disz)</count> geme2 u4 <count><interpretation modern_unit="" modern_value="1" system="cardinal" unit="" value="1"/>1(disz)-sze3</count> 
+<com dist="1">{gesz}HU</com> ma2-sze3 ga6-ga2 
+<count><interpretation modern_unit="" modern_value="5" system="cardinal" unit="" value="5"/>5(disz)</count> geme2 u4 <count><interpretation modern_unit="" modern_value="2" system="cardinal" unit="" value="2"/>2(disz)-sze3</count> 
+gi {gesz}kiri6 en-gal-du-du il2-la 
+<count><interpretation modern_unit="" modern_value="8" system="cardinal" unit="" value="8"/>8(disz)</count> geme2 u4 <count><interpretation modern_unit="" modern_value="1" system="cardinal" unit="" value="1"/>1(disz)-sze3</count> 
+ma2 <com dist="1">i3</com> zu2-lum kusz si-ga 
+zi-ga i3 masz-da-re-a lugal 
+iti mu-szu-du7 
+mu {d}szu-{d}suen lugal 
+</commodities>

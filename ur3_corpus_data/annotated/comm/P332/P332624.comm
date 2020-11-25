@@ -1,0 +1,31 @@
+<commodities>
+#P332624 = UC CSC 1947
+#atf: lang sux
+#tr.en: 60 sheep, grain-fed, 5/6 sila3 barley each,
+#tr.en: 1/2 sila3 fine bran each,
+#tr.en: 1/2 sila3 regular bran each,
+#tr.en: regular offerings of Šara;
+#tr.en: 45 sheep, grain-fed, 2/3 sila3 barley each,
+#tr.en: regular offerings of Šulgi and Amar-Suen;
+#tr.en: for 30 days;
+#tr.en: total: 8 gur barley,
+# calculation: (60 × 5/6 × 30) + (45 × 2/3 × 30) = 2400 = 8;0,0
+#tr.en: total: 3 gur fine bran,
+# calculation: 60 × 1/2 × 30 = 900 = 3;0,0
+#tr.en: total: 3 gur regular bran,
+# calculation: 60 × 1/2 × 30 = 900 = 3;0,0
+#tr.en: total: month “Barley at the quay,”
+#tr.en: year: “The boat of Enki was calked.”
+<count><interpretation modern_unit="" modern_value="60" system="cardinal" unit="" value="60"/>1(gesz2)</count> <com dist="1">udu</com> niga <count><interpretation modern_unit="l" modern_value="0.8333333333333334" system="liquid capacity" unit="sila3" value="0.8333333333333334"/><interpretation modern_unit="l" modern_value="0.8333333333333334" system="dry capacity" unit="sila3" value="0.8333333333333334"/>5/6(disz) sila3</count> sze-ta 
+<count><interpretation modern_unit="l" modern_value="0.5" system="liquid capacity" unit="sila3" value="0.5"/><interpretation modern_unit="l" modern_value="0.5" system="dry capacity" unit="sila3" value="0.5"/>1/2(disz) sila3</count> duh saga-ta 
+<count><interpretation modern_unit="l" modern_value="0.5" system="liquid capacity" unit="sila3" value="0.5"/><interpretation modern_unit="l" modern_value="0.5" system="dry capacity" unit="sila3" value="0.5"/>1/2(disz) sila3</count> <com dist="1">duh</com> du-ta 
+sa2-du11 {d}szara2 
+<count><interpretation modern_unit="" modern_value="45" system="cardinal" unit="" value="45"/>4(u) 5(disz)</count> <com dist="1">udu</com> niga <count><interpretation modern_unit="l" modern_value="0.5" system="liquid capacity" unit="sila3" value="0.5"/><interpretation modern_unit="l" modern_value="0.5" system="dry capacity" unit="sila3" value="0.5"/>1/2(disz) sila3</count> sze-ta 
+sa2-du11 {d}szul-gi <com dist="1">u3</com> {d}amar-{d}suen 
+u4 <count><interpretation modern_unit="" modern_value="30" system="cardinal" unit="" value="30"/>3(u)-sze3</count> 
+szunigin <count><interpretation modern_unit="l" modern_value="0.0007407407407407407" system="dry capacity" unit="sila3" value="0.0007407407407407407"/>8(asz) sze gur</count> 
+szunigin <count><interpretation modern_unit="" modern_value="3" system="cardinal" unit="" value="3"/>3(asz)</count> <com dist="1">duh</com> saga gur 
+szunigin <count><interpretation modern_unit="" modern_value="3" system="cardinal" unit="" value="3"/>3(asz)</count> <com dist="1">duh</com> du 
+iti sze-kar-ra-gal2-la 
+mu ma2 {d}en-ki ba-ab-du8 
+</commodities>

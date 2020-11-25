@@ -1,0 +1,55 @@
+<commodities>
+#P141473 = UTI 5, 3455
+#atf: lang sux
+#tr.en: 1 male laborer for 4 workdays,
+#tr.en: from Umma-harbor
+#tr.en: to Irisagrig
+#tr.en: barge punted,
+#tr.en: for 1 workday barley in the barge loaded,
+#tr.en: from Irisagrig
+#tr.en: two workdays to reservoir of
+#tr.en: Vineyard barge floated,
+#tr.en: for 8 workdays from Uriru-village
+#tr.en: to reservoir of Amar-Suenītum canal barley carried,
+#tr.en: from reservoir of Amar-Suenītum canal
+#tr.en: for 2 workdays to Irisagrig barge punted and
+#tr.en: transfer done;
+#tr.en: for 2 workdays from Irisagrig to mouth of Damimama barge punted,
+#tr.en: for 2 workdays to Umma barge floated,
+#tr.en: for 1 workday barge unloaded;
+#tr.en: for 1 workday barley transferred;
+# seal impression
+#tr.en: foreman: Ipae,
+#tr.en: under seal of Adumu;
+#tr.en: month: “Dumuzi.”
+#tr.en: year: “The boat of Enki was caulked.”
+#tr.en: Ur-Suen,
+#tr.en: scribe,
+#tr.en: son of Ur-gigir,
+#tr.en: official (seal).
+<count><interpretation modern_unit="" modern_value="1" system="cardinal" unit="" value="1"/>1(disz)</count> <com dist="1">gurusz</com> u4 <count><interpretation modern_unit="" modern_value="4" system="cardinal" unit="" value="4"/>4(disz)-sze3</count> 
+<com dist="1">kar</com> umma{ki}-ta 
+iri-sa12-rigx(|PA.MUNUS.HUB2.DU|){ki}-sze3 
+ma2 gid2-da 
+u4 <count><interpretation modern_unit="" modern_value="9.259259259259259e-05" system="cardinal" unit="" value="9.259259259259259e-05"/>1(disz)-sze3 sze</count> ma2-a si-ga 
+iri-sa12-rigx(|PA.MUNUS.HUB2.DU|){ki}-ta 
+u4 <count><interpretation modern_unit="" modern_value="2" system="cardinal" unit="" value="2"/>2(disz)-sze3</count> kun-zi-da 
+<com dist="1">{gesz}kiri6</com> gesztin-sze3 ma2 diri-ga 
+u4 <count><interpretation modern_unit="" modern_value="8" system="cardinal" unit="" value="8"/>8(disz)-sze3</count> e2-duru5 uri3-ru2-a-ta 
+kun-zi-da i7 {d}amar-{d}suen-ni-tum-sze3 <com dist="1">sze</com> ga6-ga2 
+kun-zi-da i7 {d}amar-{d}suen-ni-tum-ma-ta 
+u4 <count><interpretation modern_unit="" modern_value="2" system="cardinal" unit="" value="2"/>2(disz)-sze3</count> iri-sa12-rigx(|PA.MUNUS.HUB2.DU|){ki}-sze3 ma2 <com dist="1">gid2-da</com> u3 
+ma2 bala ak 
+u4 <count><interpretation modern_unit="" modern_value="2" system="cardinal" unit="" value="2"/>2(disz)-sze3</count> iri-sa12-rigx(|PA.MUNUS.HUB2.DU|){ki}-ta ka da-mi-ma-ma-sze3 ma2 <com dist="1">gid2-da</com> 
+u4 <count><interpretation modern_unit="" modern_value="2" system="cardinal" unit="" value="2"/>2(disz)-sze3</count> umma{ki}-sze3 ma2 diri-ga 
+u4 <count><interpretation modern_unit="" modern_value="1" system="cardinal" unit="" value="1"/>1(disz)-sze3</count> ma2 ba-al-la 
+u4 <count><interpretation modern_unit="" modern_value="9.259259259259259e-05" system="cardinal" unit="" value="9.259259259259259e-05"/>1(disz)-sze3 sze</count> bala-a 
+ugula i7-pa-e3 
+kiszib3 a-du-mu 
+iti {d}dumu-zi 
+mu ma2 {d}en-ki <com dist="1">ba-ab-du8</com> 
+ur-{d}suen 
+dub-sar 
+dumu ur-{gesz}gigir 
+sza3-tam 
+</commodities>

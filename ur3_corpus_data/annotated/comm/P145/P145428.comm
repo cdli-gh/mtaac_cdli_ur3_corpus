@@ -1,0 +1,54 @@
+<commodities>
+#P145428 = Kyoto2000 no. D
+#atf: lang sux
+# calculation: 1713 × 0;0,2,5 + 122 × 0;0,2 = 150;4,2,5
+# calculation: 1818 × 0;0,2,5 = 151;2,3
+# calculation: 467 × 0;0,3 + 1891 × 0;0,2,5 = 204;1,2,5
+# calculation: 150;4,2,5 + 151;2,3 + 204;1,2,5 = 506;3,2
+<count><interpretation modern_unit="l" modern_value="513925" system="dry capacity" unit="sila3" value="513925"/>2(geszu) 8(gesz2) 3(u) 3(disz) 2(ban2) 5(disz) sila3</count> 
+<count><interpretation modern_unit="l" modern_value="36620" system="dry capacity" unit="sila3" value="36620"/>2(gesz2) 2(disz) 2(ban2)</count> 
+<com dist="1">sze-bi</com> <count><interpretation modern_unit="l" modern_value="45265" system="dry capacity" unit="sila3" value="45265"/>2(gesz2) 3(u) 4(barig) 2(ban2) 5(disz) sila3 gur</count> 
+GAN2 ARAD2 
+<count><interpretation modern_unit="l" modern_value="545425" system="dry capacity" unit="sila3" value="545425"/>3(geszu) 1(u) 8(disz) 2(ban2) 5(disz) sila3</count> 
+<com dist="1">sze-bi</com> <count><interpretation modern_unit="l" modern_value="45450" system="dry capacity" unit="sila3" value="45450"/>2(gesz2) 3(u) 1(asz) 2(barig) 3(ban2) gur</count> 
+GAN2 lu2-{d}dumu-zi 
+<count><interpretation modern_unit="l" modern_value="140130" system="dry capacity" unit="sila3" value="140130"/>7(gesz2) 4(u) 7(disz) 3(ban2)</count> 
+<count><interpretation modern_unit="l" modern_value="567325" system="dry capacity" unit="sila3" value="567325"/>3(geszu) 1(gesz2) 3(u) 1(disz) 2(ban2) 5(disz) sila3</count> 
+<com dist="1">sze-bi</com> <count><interpretation modern_unit="l" modern_value="61285" system="dry capacity" unit="sila3" value="61285"/>3(gesz2) 2(u) 4(asz) 1(barig) 2(ban2) 5(disz) sila3 gur</count> 
+GAN2 lu2-nigin6{ki} 
+<count><interpretation modern_unit="l" modern_value="152000" system="dry capacity" unit="sila3" value="152000"/>8(gesz2) 2(u) 6(asz) 3(barig) 2(ban2)</count> 
+GAN2-gu4 {d}lamma-de-de3 
+<count><interpretation modern_unit="l" modern_value="793225" system="dry capacity" unit="sila3" value="793225"/>4(geszu) 4(gesz2) 4(disz) 2(ban2) 5(disz) sila3</count> 
+<com dist="1">sze-bi</com> <count><interpretation modern_unit="l" modern_value="66090" system="dry capacity" unit="sila3" value="66090"/>3(gesz2) 4(u) 1(barig) 3(ban2) gur</count> 
+GAN2 in-na-x 
+<count><interpretation modern_unit="l" modern_value="771325" system="dry capacity" unit="sila3" value="771325"/>4(geszu) 2(gesz2) 5(u) 1(disz) 2(ban2) 5(disz) sila3</count> 
+<count><interpretation modern_unit="l" modern_value="18320" system="dry capacity" unit="sila3" value="18320"/>1(gesz2) 1(disz) 2(ban2)</count> 
+<com dist="1">sze-bi</com> <count><interpretation modern_unit="l" modern_value="65495" system="dry capacity" unit="sila3" value="65495"/>3(gesz2) 3(u) 8(asz) 1(barig) 3(ban2) 5(disz) sila3 gur</count> 
+GAN2 ur-{d}ba-ba6 
+<count><interpretation modern_unit="l" modern_value="733225" system="dry capacity" unit="sila3" value="733225"/>4(geszu) 4(u) 4(disz) 2(ban2) 5(disz) sila3</count> 
+<count><interpretation modern_unit="l" modern_value="212680" system="dry capacity" unit="sila3" value="212680"/>1(geszu) 1(gesz2) 5(u) la2 1(disz) 2(ban2)</count> 
+<com dist="1">sze-bi</com> <count><interpretation modern_unit="l" modern_value="75240" system="dry capacity" unit="sila3" value="75240"/>4(gesz2) 1(u) 4(barig)</count> 
+GAN2 he2-ti 
+<count><interpretation modern_unit="l" modern_value="788675" system="dry capacity" unit="sila3" value="788675"/>4(geszu) 3(gesz2) 5(u) la2 1(disz) 2(ban2) 5(disz) sila3</count> 
+<count><interpretation modern_unit="l" modern_value="161420" system="dry capacity" unit="sila3" value="161420"/>8(gesz2) 5(u) 8(disz) 2(ban2)</count> 
+<com dist="1">sze-bi</com> <count><interpretation modern_unit="l" modern_value="76485" system="dry capacity" unit="sila3" value="76485"/>4(gesz2) 1(u) 4(asz) 4(barig) 4(ban2) 5(disz) sila3</count> 
+GAN2 lu2-uru11{ki} 
+<count><interpretation modern_unit="l" modern_value="283360" system="dry capacity" unit="sila3" value="283360"/>1(geszu) 5(gesz2) 4(u) 4(asz) 2(barig) 4(ban2) gur</count> 
+GAN2-gu4 ma-an-szum2 
+<count><interpretation modern_unit="l" modern_value="628220" system="dry capacity" unit="sila3" value="628220"/>3(geszu) 4(gesz2) 5(u) 4(disz) 2(ban2)</count> 
+<count><interpretation modern_unit="l" modern_value="174325" system="dry capacity" unit="sila3" value="174325"/>9(gesz2) 4(u) 1(disz) 2(ban2) 5(disz) sila3</count> 
+<count><interpretation modern_unit="l" modern_value="183030" system="dry capacity" unit="sila3" value="183030"/>1(geszu) 1(u) 3(ban2)</count> 
+<com dist="1">sze-bi</com> <count><interpretation modern_unit="" modern_value="69" system="cardinal" unit="" value="69"/>1(gesz2) 9(asz)</count> n gur 
+GAN2 igi-sa6-sa6 
+<count><interpretation modern_unit="" modern_value="1731" system="cardinal" unit="" value="1731"/>2(geszu) 8(gesz2) 5(u) 1(disz)</count> n <count><interpretation modern_unit="l" modern_value="25" system="dry capacity" unit="sila3" value="25"/>2(ban2) 5(disz) sila3</count> 
+<count><interpretation modern_unit="l" modern_value="225020" system="dry capacity" unit="sila3" value="225020"/>1(geszu) 2(gesz2) 3(u) 2(ban2)</count> 
+<com dist="1">sze-bi</com> <count><interpretation modern_unit="l" modern_value="58275" system="dry capacity" unit="sila3" value="58275"/>3(gesz2) 1(u) 4(asz) 1(barig) 1(ban2) 5(disz) sila3 gur</count> 
+GAN2 lu2-{d}nin-szubur 
+<count><interpretation modern_unit="l" modern_value="168630" system="dry capacity" unit="sila3" value="168630"/>9(gesz2) 2(u) 2(disz) 3(ban2)</count> 
+<count><interpretation modern_unit="l" modern_value="712225" system="dry capacity" unit="sila3" value="712225"/>3(geszu) 9(gesz2) 3(u) 4(disz) 2(ban2) 5(disz) sila3</count> 
+<com dist="1">sze-bi</com> <count><interpretation modern_unit="l" modern_value="76210" system="dry capacity" unit="sila3" value="76210"/>4(gesz2) 1(u) 4(asz) 1(ban2) gur</count> 
+GAN2-gu4 aga-sag-kesz2 
+<count><interpretation modern_unit="l" modern_value="255330" system="dry capacity" unit="sila3" value="255330"/>1(geszu) 4(gesz2) 1(u) 1(disz) 3(ban2) gur</count> 
+GAN2-gu4 ur-ba-gara2 
+... n <count><interpretation modern_unit="" modern_value="none" system="unknown" unit="" value="none"/>5(u) 2(asz) 5(ban2) ... x gur</count> 
+</commodities>

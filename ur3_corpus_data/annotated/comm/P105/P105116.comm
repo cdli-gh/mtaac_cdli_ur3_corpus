@@ -1,0 +1,25 @@
+<commodities>
+#P105116 = BCT 1, 014
+#atf: lang sux
+#tr.en: 1 best-quality barley-fed ram,
+#tr.en: 6 rams,
+#tr.en: 3 billy goat kids,
+#tr.en: 2 suckling male lambs,
+#tr.en: dead, day 20,
+#tr.en:
+#tr.en: from Nalu
+#tr.en: Šulgi-irimu
+#tr.en: received;
+#tr.en: month: “festival of Šulgi” (month 7),
+#tr.en: year: “the priestess of Nanna was installed” (Amar-Suen 9).
+<count><interpretation modern_unit="" modern_value="1" system="cardinal" unit="" value="1"/>1(disz)</count> <com dist="1">udu</com> niga saga 
+<count><interpretation modern_unit="" modern_value="6" system="cardinal" unit="" value="6"/>6(disz)</count> <com dist="1">udu</com> 
+<count><interpretation modern_unit="" modern_value="3" system="cardinal" unit="" value="3"/>3(disz)</count> masz2 
+<count><interpretation modern_unit="" modern_value="2" system="cardinal" unit="" value="2"/>2(disz)</count> sila4 ga 
+ba-usz2 u4 <count><interpretation modern_unit="" modern_value="20" system="cardinal" unit="" value="20"/>2(u)-kam</count> 
+<com dist="1">ki</com> na-lu5 
+{d}szul-gi-iri-mu 
+szu ba-ti 
+iti ezem-{d}szul-gi 
+mu en {d}nanna ba-hun 
+</commodities>

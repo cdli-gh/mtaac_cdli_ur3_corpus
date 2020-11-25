@@ -1,0 +1,18 @@
+<commodities>
+#P103822 = AUCT 2, 003
+#atf: lang sux
+x ansze-mah2 
+x ansze mu <count><interpretation modern_unit="" modern_value="3" system="cardinal" unit="" value="3"/>3(disz)</count> 
+x dur3-gesz 
+x-sa6 engar 
+<count><interpretation modern_unit="" modern_value="4" system="cardinal" unit="" value="4"/>4(disz)</count> ansze-mah2 
+<count><interpretation modern_unit="" modern_value="2" system="cardinal" unit="" value="2"/>2(disz)</count> dur3-gesz 
+libir-am3 
+<count><interpretation modern_unit="" modern_value="1" system="cardinal" unit="" value="1"/>1(disz)</count> ansze-mah2 
+<com dist="1">ki</com> lu2-kal-la-ta 
+ur-ab-ba engar 
+<count><interpretation modern_unit="" modern_value="2" system="cardinal" unit="" value="2"/>2(disz)</count> ab2-mah2 
+<count><interpretation modern_unit="" modern_value="4" system="cardinal" unit="" value="4"/>4(disz)</count> gu4-gesz 
+<count><interpretation modern_unit="" modern_value="1" system="cardinal" unit="" value="1"/>1(disz)</count> <com dist="1">gu4</com> mu <count><interpretation modern_unit="" modern_value="1" system="cardinal" unit="" value="1"/>1(disz)</count> 
+i3-li2-tab-ba engar 
+</commodities>

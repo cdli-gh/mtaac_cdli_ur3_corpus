@@ -1,0 +1,52 @@
+<commodities>
+#P345963 = CDLB 2012/2 §2.2
+#atf: lang sux
+#tr.en: 1 barley-fed Šimaškian billy goat,
+#tr.en: 1 barley-fed female kid (for) Enlil,
+#tr.en: 1 barley-fed Šimaškian billy goat
+#tr.en: (for) Ninlil,
+#tr.en: the zabardab was the requisitioner;
+#tr.en: 1 barley-fed male kid, delivery of Ṣelluš-Dagan,
+#tr.en: 1 barley-fed long-fleeced ram, 1 nanny goat,
+#tr.en: delivery of Ur-Suen, son of the king;
+#tr.en: 1 barley-fed female kid, delivery of Utu-GIRgal,
+#tr.en: for the E’uzga,
+#tr.en: Dayani was the requisitioner;
+#tr.en: 1 lamb (for) Enlil,
+#tr.en: 1 lamb (for) Ninlil,
+#tr.en: delivery of Šešdada, the temple administrator;
+#tr.en: 1 lamb (for) Utu,
+#tr.en: delivery of the governor of Shuruppak,
+#tr.en: Nanše-GIRgal was the requisitioner;
+#tr.en: 1 ox, 1 cow, 3 sheep,
+#tr.en: 2 goats (as) provisions for the kitchen;
+#tr.en: 1 female equid, slaughtered, for the dogs,
+#tr.en: Ilībani, dog herder, received;
+#tr.en: withdrawn; it is on the 28th day (of the month).
+#tr.en: Month: “Festival of Šulgi.”
+#tr.en: Year: “Kimash and Hurti were destroyed.”
+<count><interpretation modern_unit="" modern_value="1" system="cardinal" unit="" value="1"/>1(disz)</count> <com dist="1">masz2-gal</com> niga szimaszgi2 
+<count><interpretation modern_unit="" modern_value="1" system="cardinal" unit="" value="1"/>1(disz)</count> <com dist="1">{munus}asz2-gar3</com> niga {d}en-lil2 
+<count><interpretation modern_unit="" modern_value="1" system="cardinal" unit="" value="1"/>1(disz)</count> <com dist="1">masz2-gal</com> niga szimaszgi2 
+{d}nin-lil2 
+zabar-dab5 maszkim 
+<count><interpretation modern_unit="" modern_value="1" system="cardinal" unit="" value="1"/>1(disz)</count> <com dist="1">masz2</com> niga mu-kux(DU) s,e-lu-usz-{d}da-gan 
+<count><interpretation modern_unit="" modern_value="1" system="cardinal" unit="" value="1"/>1(disz)</count> <com dist="1">udu</com> a-lum niga <count><interpretation modern_unit="" modern_value="1" system="cardinal" unit="" value="1"/>1(disz)</count> ud5 masz2 nu2-a 
+mu-kux(DU) ur-{d}suen dumu-lugal 
+<count><interpretation modern_unit="" modern_value="1" system="cardinal" unit="" value="1"/>1(disz)</count> <com dist="1">{munus}asz2-gar3</com> niga mu-kux(DU) {d}utu-GIR2-gal 
+e2-uz-ga 
+da-a-a-ni maszkim 
+<count><interpretation modern_unit="" modern_value="1" system="cardinal" unit="" value="1"/>1(disz)</count> <com dist="1">sila4</com> {d}en-lil2 
+<count><interpretation modern_unit="" modern_value="1" system="cardinal" unit="" value="1"/>1(disz)</count> <com dist="1">sila4</com> {d}nin-lil2 
+mu-kux(DU) szesz-da-da sanga 
+<count><interpretation modern_unit="" modern_value="1" system="cardinal" unit="" value="1"/>1(disz)</count> <com dist="1">sila4</com> {d}utu 
+mu-kux(DU) ensi2 szuruppak{ki} 
+{d}nansze-GIR2-gal maszkim 
+<count><interpretation modern_unit="" modern_value="1" system="cardinal" unit="" value="1"/>1(disz)</count> <com dist="1">gu4</com> <count><interpretation modern_unit="" modern_value="1" system="cardinal" unit="" value="1"/>1(disz)</count> ab2 <count><interpretation modern_unit="" modern_value="3" system="cardinal" unit="" value="3"/>3(disz)</count> udu 
+<count><interpretation modern_unit="" modern_value="2" system="cardinal" unit="" value="2"/>2(disz)</count> masz2 szu-gid2 e2 muhaldim-sze3 
+<count><interpretation modern_unit="" modern_value="1" system="cardinal" unit="" value="1"/>1(disz)</count> dusu2-munus <com dist="1">ba-usz2</com> mu ur-ra-sze3 
+dingir-ba-ni sipa ur-ra-ke4 szu ba-ti 
+zi-ga u4 <count><interpretation modern_unit="" modern_value="20" system="cardinal" unit="" value="20"/>2(u)</count> <count><interpretation modern_unit="" modern_value="8" system="cardinal" unit="" value="8"/>8(disz)-kam</count> 
+iti ezem-{d}szul-gi 
+mu ki-masz{ki} hu-ur5-ti{ki} ba-hul 
+</commodities>

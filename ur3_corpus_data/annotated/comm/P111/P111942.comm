@@ -1,0 +1,35 @@
+<commodities>
+#P111942 = JCS 16, 081 HSM 7500
+#atf: lang sux
+#tr.en: 1 ninda
+#tr.en: 1 ninda 3 cubits,
+#tr.en: 1 sar 15 shekels;
+# calculation: 1 × 1 3/12 ninda = 1 15/60 sar (ca. 45 sq m)
+#tr.en: 2 ninda 4 cubits,
+#tr.en: 2 1/2 ninda,
+#tr.en: 2 1/2 ninda 3 cubits,
+#tr.en: 6 sar 7 1/2 shekels;
+# calculation: 2 4/12 x (2 9/12 + 2 6/12)/2 = 6 7.5/60 sar (ca. 220.5 sq m)
+#tr.en: 1.55;
+#tr.en: 5.16;
+#tr.en: Lu-maḫ.
+#tr.en: 2 ninda 4 cubits the width,
+#tr.en: 6 ninda the length,
+#tr.en: 14 sar;
+# calculation: 2 4/12 x 6 = 14 sar (ca. 504 sq m)
+#tr.en: the lords.
+a. <count><interpretation modern_unit="m" modern_value="6" system="length" unit="gi" value="2"/>1(disz) ninda</count> 
+b. <count><interpretation modern_unit="m" modern_value="7.5" system="length" unit="gi" value="2.5"/>1(disz) ninda 3(disz) kusz3</count> 
+c. <count><interpretation modern_unit="bricks" modern_value="10800" system="bricks" unit="gin2" value="900"/><interpretation modern_unit="m^2" modern_value="45.0" system="surface" unit="gin2" value="75"/><interpretation modern_unit="l" modern_value="22500" system="volume" unit="gin2" value="75"/>1(disz) sar 1(u) 5(disz) gin2</count> 
+a. <count><interpretation modern_unit="m" modern_value="14.0" system="length" unit="gi" value="4.666666666666667"/>2(disz) ninda 4(disz) kusz3</count> 
+b1. <count><interpretation modern_unit="m" modern_value="15.0" system="length" unit="gi" value="5.0"/>2(disz) 1/2(disz) ninda</count> 
+b2. <count><interpretation modern_unit="m" modern_value="16.5" system="length" unit="gi" value="5.5"/>2(disz) 1/2(disz) ninda 3(disz) kusz3</count> 
+c. <count><interpretation modern_unit="bricks" modern_value="52920.0" system="bricks" unit="gin2" value="4410.0"/><interpretation modern_unit="m^2" modern_value="220.5" system="surface" unit="gin2" value="367.5"/><interpretation modern_unit="l" modern_value="110250.0" system="volume" unit="gin2" value="367.5"/>6(disz) sar 7(disz) 1/2(disz) gin2</count> 
+<count><interpretation modern_unit="" modern_value="115" system="cardinal" unit="" value="115"/>1(gesz2) 5(u) 5(disz)</count> 
+<count><interpretation modern_unit="" modern_value="316" system="cardinal" unit="" value="316"/>5(gesz2) 1(u) 6(disz)</count> 
+lu2-mah 
+a. <count><interpretation modern_unit="m" modern_value="14.0" system="length" unit="gi" value="4.666666666666667"/>2(disz) ninda 4(disz) kusz3</count> <com dist="1">dagal</com> 
+b. <count><interpretation modern_unit="m" modern_value="36" system="length" unit="gi" value="12"/>6(disz) ninda</count> <com dist="1">gid2</com> 
+c. <count><interpretation modern_unit="bricks" modern_value="120960" system="bricks" unit="gin2" value="10080"/><interpretation modern_unit="m^2" modern_value="504.0" system="surface" unit="gin2" value="840"/><interpretation modern_unit="l" modern_value="252000" system="volume" unit="gin2" value="840"/>1(u) 4(disz) sar</count> 
+en-en 
+</commodities>

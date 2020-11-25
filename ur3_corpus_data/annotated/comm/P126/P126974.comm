@@ -1,0 +1,48 @@
+<commodities>
+#P126974 = Princeton 1, 285
+#atf: lang sux
+#tr.de: 9 Töpfe Gelb-Milch zu je 1 ban2 5 sila3,
+#tr.de: 26 Last teich(gezüchtete) Fische zu je 90 (Stück pro Last)
+#tr.de: 70 Last ausgenommene Fische zu je 120 (Stück pro Last),
+#tr.de: 3 barig 2 ban2 UR2@g,
+#tr.de: 1 Last Ziegenhaare ...
+#tr.de: 2 gu ‘reine’ Zwiebeln in Ballen von je 15 (Zwiebel[-Bündeln ?]) hat LUASAR
+#tr.de: empfangen.
+#tr.de: 12 Transportkörbe ...
+#tr.de: in den Palast gebracht,
+#tr.de: wegen des ,ezemmaḫ(-Festes)’ (10. Monat, Ur Kalender),
+#tr.de: von Ur-Šulpae,
+#tr.de: unter Siegel des ensi.
+#tr.de: Monat: ‘Fest des Šulgi’ (10. Monat, Umma Kalender),
+#tr.de: Jahr: ‘En-unugal-Inanna wurde eingesetzt’ (AS 5).
+#tr.de: Amar-Suen,
+#tr.de: starker Mann,
+#tr.de: König von Ur,
+#tr.de: König der vier Gegenden:
+#tr.de: Ur-Lisi,
+#tr.de: ensi
+#tr.de: von Umma,
+#tr.de: Dein Diener.
+<count><interpretation modern_unit="l" modern_value="270" system="liquid capacity" unit="sila3" value="270"/>9(disz) dug</count> ga-szex(SIG7)-a <count><interpretation modern_unit="l" modern_value="15" system="dry capacity" unit="sila3" value="15"/>1(ban2) 5(disz)</count> sila3-ta 
+<count><interpretation modern_unit="g" modern_value="780000.0" system="weight" unit="gin2" value="93600"/>2(u) 6(asz) gu2</count> <com dist="1">ku6</com> kun-zi <count><interpretation modern_unit="" modern_value="90" system="cardinal" unit="" value="90"/>1(gesz2) 3(u)-ta</count> 
+<count><interpretation modern_unit="g" modern_value="2100000.0" system="weight" unit="gin2" value="252000"/>1(gesz2) 1(u) gu2</count> <com dist="1">ku6</com> sza3-bar <count><interpretation modern_unit="" modern_value="2" system="cardinal" unit="" value="2"/>2(disz)-ta</count> 
+<count><interpretation modern_unit="l" modern_value="200" system="dry capacity" unit="sila3" value="200"/>3(barig) 2(ban2)</count> UR2 
+<count><interpretation modern_unit="g" modern_value="30000.000000000004" system="weight" unit="gin2" value="3600"/>1(asz) gu2</count> siki-ud5 <com dist="1">du3</com> x 
+<count><interpretation modern_unit="g" modern_value="60000.00000000001" system="weight" unit="gin2" value="7200"/>2(asz) gu2</count> <com dist="1">szum2-sikil</com> nigin2 <count><interpretation modern_unit="" modern_value="15" system="cardinal" unit="" value="15"/>1(u) 5(disz)</count> LU-A-SAR 
+<com dist="1">szu</com> ba-ti 
+<count><interpretation modern_unit="" modern_value="12" system="cardinal" unit="" value="12"/>1(u) 2(disz)</count> <com dist="1">{gi}kaskal</com> i3-du3 
+e2-gal-la kux(KWU147)-ra 
+ezem mah-sze3 
+ki ur-{d}szul-pa-e3-ta 
+kiszib3 ensi2-ka 
+iti ezem-{d}szul-gi 
+mu en-unu6-gal {d}inanna ba-hun 
+{d}amar-{d}suen 
+nita kal-ga 
+lugal uri5{ki}-ma 
+lugal an ub-da limmu2-ba 
+ur-{d}li9-si4 
+ensi2 
+umma{ki} 
+ARAD2-zu 
+</commodities>

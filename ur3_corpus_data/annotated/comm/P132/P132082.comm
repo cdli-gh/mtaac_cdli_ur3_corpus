@@ -1,0 +1,15 @@
+<commodities>
+#P132082 = Tavolette 297
+#atf: lang sux
+<count><interpretation modern_unit="l" modern_value="25" system="dry capacity" unit="sila3" value="25"/>2(ban2) 5(disz) sila3</count> <com dist="1">nu</com> ur-{d}szu-{d}suen 
+<count><interpretation modern_unit="l" modern_value="7" system="liquid capacity" unit="sila3" value="7"/><interpretation modern_unit="l" modern_value="7" system="dry capacity" unit="sila3" value="7"/>7(disz) sila3</count> lu2-iri-NE 
+ARAD2-DU{ki} gub-ba-na 
+<count><interpretation modern_unit="l" modern_value="2" system="liquid capacity" unit="sila3" value="2"/><interpretation modern_unit="l" modern_value="2" system="dry capacity" unit="sila3" value="2"/>2(disz) sila3</count> lu2-szer7-NI 
+<count><interpretation modern_unit="l" modern_value="1" system="liquid capacity" unit="sila3" value="1"/><interpretation modern_unit="l" modern_value="1" system="dry capacity" unit="sila3" value="1"/>1(disz) sila3</count> lu2-da-gal2 nar 
+<count><interpretation modern_unit="l" modern_value="1" system="liquid capacity" unit="sila3" value="1"/><interpretation modern_unit="l" modern_value="1" system="dry capacity" unit="sila3" value="1"/>1(disz) sila3</count> a-a-gi-na 
+<count>2(ban2) sila3</count> sa2-du11 
+<count><interpretation modern_unit="l" modern_value="2" system="liquid capacity" unit="sila3" value="2"/><interpretation modern_unit="l" modern_value="2" system="dry capacity" unit="sila3" value="2"/>2(disz) sila3</count> <com dist="1">sze-kam</com> 
+szunigin <count><interpretation modern_unit="l" modern_value="15" system="dry capacity" unit="sila3" value="15"/>1(ban2) 5(disz) sila3</count> <com dist="1">zi3-gu</com> saga 
+szunigin <count><interpretation modern_unit="l" modern_value="45" system="dry capacity" unit="sila3" value="45"/>4(ban2) 5(disz) sila3</count> <com dist="1">dabin</com> 
+u4 <count><interpretation modern_unit="" modern_value="10" system="cardinal" unit="" value="10"/>1(u)</count> <count><interpretation modern_unit="" modern_value="7" system="cardinal" unit="" value="7"/>7(disz)-kam</count> 
+</commodities>

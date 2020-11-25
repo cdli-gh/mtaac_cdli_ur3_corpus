@@ -1,0 +1,26 @@
+<commodities>
+#P361740 = CDLJ 2015/002 §2.25
+#atf: lang sux
+#tr.en: 5 gur 3 (?) barig 5 (?) ban2 emmer, royal (measure),
+#tr.en: (and) 32 gur 4 (?) barig 1 ... ban2 wheat, royal (measure),
+# seal impression
+#tr.en: from (of) Lu-igimaše,
+#tr.en: under seal of Ur-Lamma, son (of) Ur-Baba,
+#tr.en: (from?) the depot of the field Aršatia-Nin-dar-a (?);
+#tr.en: month “Festival of Šulgi,”
+# seal impression
+#tr.en: year “Simurum and Lullubum for the 9th time were destroyed.”
+#tr.en: Ur-Lamma,
+#tr.en: scribe,
+#tr.en: son (of) Ur-Baba.
+<count><interpretation modern_unit="l" modern_value="1730" system="dry capacity" unit="sila3" value="1730"/>5(asz) 3(barig) 5(ban2)</count> <com dist="1">ziz2</com> gur lugal 
+<count><interpretation modern_unit="" modern_value="none" system="unknown" unit="" value="none"/>3(u) 2(asz) 4(barig) 1(ban2) ...</count> <com dist="1">gig</com> gur lugal 
+ki lu2-{d}igi-ma-sze3-ta 
+kiszib3 ur-{d}lamma dumu ur-{d}ba-ba6 
+i3-dub a-sza3 ar-sza-ti-a-{d}nin-dar-a-ta 
+iti ezem-{d}szul-gi 
+mu si-mu-ur4-um{ki} u3 lu-lu-bu-um{ki} a-ra2 <count><interpretation modern_unit="" modern_value="10" system="cardinal" unit="" value="10"/>1(u) la2</count> <count><interpretation modern_unit="" modern_value="1" system="cardinal" unit="" value="1"/>1(disz)-kam-asz</count> ba-hul-a 
+ur-{d}lamma 
+dub-sar 
+dumu ur-{d}ba-ba6 
+</commodities>

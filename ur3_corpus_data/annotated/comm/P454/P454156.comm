@@ -1,0 +1,17 @@
+<commodities>
+#P454156 = Nisaba 15, 0987
+#atf: lang sux
+#tr.en: 1 ban2 3 sila3 clarified butter,
+#tr.en: 1 ban2 6 sila3 kašk-cheese with sumac,
+#tr.en: from Ur-mes
+#tr.en: did Ur-Dumuzi
+#tr.en: receive;
+# seal impression
+#tr.en: month “šugargal.”
+<count><interpretation modern_unit="l" modern_value="13" system="dry capacity" unit="sila3" value="13"/>1(ban2) 3(disz) sila3</count> <com dist="1">i3-nun</com> 
+<count><interpretation modern_unit="l" modern_value="16" system="dry capacity" unit="sila3" value="16"/>1(ban2) 6(disz) sila3</count> ga gazi 
+ki ur-mes-ta 
+ur-{d}dumu-zi 
+<com dist="1">szu</com> ba-ti 
+iti szu-gar-gal 
+</commodities>

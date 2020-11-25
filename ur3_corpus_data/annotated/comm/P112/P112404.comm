@@ -1,0 +1,59 @@
+<commodities>
+#P112404 = JSS 7, 184
+#atf: lang sux
+#tr.en: 19 cubits;
+# kuš₃ = “cubit” (ca. 50cm)
+#tr.en: 6 cubits;
+#tr.en: 9 cubits;
+#tr.en: 6 cubits;
+#tr.en: 5 cubits;
+#tr.en: 6 cubits;
+#tr.en: 5 cubits;
+#tr.en: 10 cubits;
+#tr.en: 12 cubits;
+#tr.en: 10 cubits;
+#tr.en: 6 cubits;
+#tr.en: 10 cubits;
+#tr.en: 5 cubits;
+#tr.en: 10 cubits;
+#tr.en: 8 cubits;
+#tr.en: 6 cubits;
+#tr.en: 11 cubits;
+#tr.en: 6 cubits;
+#tr.en: 7 cubits;
+#tr.en: 6 cubits;
+#tr.en: 5 cubits;
+#tr.en: 6 cubits;
+#tr.en: cubits per wall;
+#tr.en: 2 1/2 ninda 2 cubits;
+# calculation: 3 + 6 + 2 + 10 + 2 + 6 + 3 = 32k = 2n 8k
+# ninda = 12 kuš₃ (ca. 6m)
+# disturbed sign before kusz3?
+#tr.en: 3 1/2 ninda 1 cubit;
+# calculation: 3 + 19 + 2 + 9 + 2 + 5 + 3 // 3 + 5 + 3 + 12 + 3 + 6 + 2 + 5 + 3 // 3 + 8 + 2 + 11 + 2 + 7 + 2 + 5 + 3 = 43k = 3n 7k
+a1. <count><interpretation modern_unit="m" modern_value="9.5" system="length" unit="gi" value="3.1666666666666665"/>1(u) 9(disz) kusz3</count> 
+a2. <count><interpretation modern_unit="m" modern_value="3.0" system="length" unit="gi" value="1.0"/>6(disz) kusz3</count> 
+b1. <count><interpretation modern_unit="m" modern_value="4.5" system="length" unit="gi" value="1.5"/>9(disz) kusz3</count> 
+b2. <count><interpretation modern_unit="m" modern_value="3.0" system="length" unit="gi" value="1.0"/>6(disz) kusz3</count> 
+c1. <count><interpretation modern_unit="m" modern_value="2.5" system="length" unit="gi" value="0.8333333333333333"/>5(disz) kusz3</count> 
+c2. <count><interpretation modern_unit="m" modern_value="3.0" system="length" unit="gi" value="1.0"/>6(disz) kusz3</count> 
+a1. <count><interpretation modern_unit="m" modern_value="2.5" system="length" unit="gi" value="0.8333333333333333"/>5(disz) kusz3</count> 
+a2. <count><interpretation modern_unit="m" modern_value="5.0" system="length" unit="gi" value="1.6666666666666665"/>1(u) kusz3</count> 
+b1. <count><interpretation modern_unit="m" modern_value="5.999999999999999" system="length" unit="gi" value="1.9999999999999998"/>1(u) 2(disz) kusz3</count> 
+b2. <count><interpretation modern_unit="m" modern_value="5.0" system="length" unit="gi" value="1.6666666666666665"/>1(u) kusz3</count> 
+c1. <count><interpretation modern_unit="m" modern_value="3.0" system="length" unit="gi" value="1.0"/>6(disz) kusz3</count> 
+c2. <count><interpretation modern_unit="m" modern_value="5.0" system="length" unit="gi" value="1.6666666666666665"/>1(u) kusz3</count> 
+d1. <count><interpretation modern_unit="m" modern_value="2.5" system="length" unit="gi" value="0.8333333333333333"/>5(disz) kusz3</count> 
+d2. <count><interpretation modern_unit="m" modern_value="5.0" system="length" unit="gi" value="1.6666666666666665"/>1(u) kusz3</count> 
+a1. <count><interpretation modern_unit="m" modern_value="4.0" system="length" unit="gi" value="1.3333333333333333"/>8(disz) kusz3</count> 
+a2. <count><interpretation modern_unit="m" modern_value="3.0" system="length" unit="gi" value="1.0"/>6(disz) kusz3</count> 
+b1. <count><interpretation modern_unit="m" modern_value="5.5" system="length" unit="gi" value="1.8333333333333333"/>1(u) 1(disz) kusz3</count> 
+b2. <count><interpretation modern_unit="m" modern_value="3.0" system="length" unit="gi" value="1.0"/>6(disz) kusz3</count> 
+c1. <count><interpretation modern_unit="m" modern_value="3.4999999999999996" system="length" unit="gi" value="1.1666666666666665"/>7(disz) kusz3</count> 
+c2. <count><interpretation modern_unit="m" modern_value="3.0" system="length" unit="gi" value="1.0"/>6(disz) kusz3</count> 
+d1. <count><interpretation modern_unit="m" modern_value="2.5" system="length" unit="gi" value="0.8333333333333333"/>5(disz) kusz3</count> 
+d2. <count><interpretation modern_unit="m" modern_value="3.0" system="length" unit="gi" value="1.0"/>6(disz) kusz3</count> 
+a. kusz3 iz-zi-ta 
+b. <count><interpretation modern_unit="m" modern_value="16.0" system="length" unit="gi" value="5.333333333333333"/>2(disz) 1/2(disz) ninda 2(disz) kusz3</count> 
+c. <count><interpretation modern_unit="m" modern_value="21.5" system="length" unit="gi" value="7.166666666666667"/>3(disz) 1/2(disz) ninda 1(disz) kusz3</count> 
+</commodities>

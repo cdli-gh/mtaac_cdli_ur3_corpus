@@ -1,0 +1,20 @@
+<commodities>
+#P115059 = MVN 07, 160
+#atf: lang sux
+# BDTNS has u for ban2
+<count><interpretation modern_unit="l" modern_value="60" system="liquid capacity" unit="sila3" value="60"/>2(disz) dug</count> <count>1(ban2) sila3</count> <com dist="1">kasz</com> saga 
+sa2-du11 u4 <count><interpretation modern_unit="" modern_value="5" system="cardinal" unit="" value="5"/>5(disz)-kam</count> 
+ad-da-mu dumu sipa-iri-na 
+<com dist="1">nig2-{gesz}tag-ga</com> lugal-da gen-na 
+<count><interpretation modern_unit="l" modern_value="310" system="liquid capacity" unit="sila3" value="310"/>1(u) dug 1(u) sila3</count> <com dist="1">kasz</com> saga 
+sa2-du11 u4 <count><interpretation modern_unit="" modern_value="20" system="cardinal" unit="" value="20"/>2(u)</count> <count><interpretation modern_unit="" modern_value="1" system="cardinal" unit="" value="1"/>1(disz)-kam</count> 
+ka-ka-mu sukkal 
+<count><interpretation modern_unit="l" modern_value="37" system="liquid capacity" unit="sila3" value="37"/>1(disz) dug 7(disz) sila3</count> <com dist="1">du</com> 
+sa2-du11 u4 <count><interpretation modern_unit="" modern_value="10" system="cardinal" unit="" value="10"/>1(u) la2</count> <count><interpretation modern_unit="" modern_value="1" system="cardinal" unit="" value="1"/>1(disz)-kam</count> 
+ur3-re-ba-du7 mar-tu 
+<count><interpretation modern_unit="l" modern_value="12" system="liquid capacity" unit="sila3" value="12"/><interpretation modern_unit="l" modern_value="12" system="dry capacity" unit="sila3" value="12"/>1(u) 2(disz) sila3</count> <com dist="1">kasz</com> du 
+sa2-du11 u4 <count><interpretation modern_unit="" modern_value="4" system="cardinal" unit="" value="4"/>4(disz)-kam</count> 
+ku5-gu-da-a mar-tu 
+<com dist="1">udu</com> ur4-de3 gen-na-me 
+zi-ga iti amar-a-a-si 
+</commodities>

@@ -1,0 +1,36 @@
+<commodities>
+#P114895 = MVN 06, 514
+#atf: lang sux
+#tr.en: 48 gabIL fish baskets;
+#tr.en: 13 workdays, male laborers, barge of the birds;
+#tr.en: 22 workdays, male laborers, various “booked-outs”;
+#tr.en: 1st year;
+#tr.en: 610 less 1/2 gabIL fish baskets;
+#tr.en: 1800 nun-fish, good quality;
+#tr.en: 170 less 1 workdays, male laborers, barge of the birds;
+#tr.en: 126 workdays, male laborers, various “booked-outs”;
+#tr.en: 2nd year;
+#tr.en: surplus fish not taken;
+#tr.en: Albanidu
+#tr.en: received;
+#tr.en: from month: “Festival of Šulgi,”
+#tr.en: year: “Karḫar for the 2nd time was destroyed,”
+#tr.en: to month: Festival of Baba,”
+#tr.en: year: “Karḫar for the 2nd time was destroyed.”
+<count><interpretation modern_unit="" modern_value="248" system="cardinal" unit="" value="248"/>4(gesz2) 8(disz)</count> <com dist="1">ku6</com> gab2-IL2 
+<count><interpretation modern_unit="" modern_value="13" system="cardinal" unit="" value="13"/>1(u) 3(disz)</count> <com dist="1">gurusz</com> u4 <count><interpretation modern_unit="" modern_value="1" system="cardinal" unit="" value="1"/>1(disz)-sze3</count> ma2 <com dist="1">muszen</com> 
+<count><interpretation modern_unit="" modern_value="22" system="cardinal" unit="" value="22"/>2(u) 2(disz)</count> gurusz u4 <count><interpretation modern_unit="" modern_value="1" system="cardinal" unit="" value="1"/>1(disz)-sze3</count> zi-ga didli 
+mu <count><interpretation modern_unit="" modern_value="1" system="cardinal" unit="" value="1"/>1(disz)-kam</count> 
+<count><interpretation modern_unit="" modern_value="609.5" system="cardinal" unit="" value="609.5"/>1(geszu) 1(u) la2 1/2(disz)</count> <com dist="1">ku6</com> gab2-IL2 
+<count><interpretation modern_unit="" modern_value="1800" system="cardinal" unit="" value="1800"/>3(geszu)</count> <com dist="1">ku6</com> nun saga 
+<count><interpretation modern_unit="" modern_value="169" system="cardinal" unit="" value="169"/>2(gesz2) 5(u) la2 1(disz)</count> <com dist="1">gurusz</com> u4 <count><interpretation modern_unit="" modern_value="1" system="cardinal" unit="" value="1"/>1(disz)-sze3</count> ma2 <com dist="1">muszen</com> 
+<count><interpretation modern_unit="" modern_value="126" system="cardinal" unit="" value="126"/>2(gesz2) 6(disz)</count> gurusz u4 <count><interpretation modern_unit="" modern_value="1" system="cardinal" unit="" value="1"/>1(disz)-sze3</count> zi-ga didli 
+mu <count><interpretation modern_unit="" modern_value="2" system="cardinal" unit="" value="2"/>2(disz)-kam</count> 
+<com dist="1">ku6</com> diri nu-dab5 
+al-ba-ni-du10 
+szu ba-ti 
+iti ezem-{d}szul-gi 
+mu kar2-har{ki} a-ra2 <count><interpretation modern_unit="" modern_value="3" system="cardinal" unit="" value="3"/>3(disz)-kam-asz</count> ba-hul-ta 
+iti ezem-{d}ba-ba6 
+mu kar2-har{ki} a-ra2 <count><interpretation modern_unit="" modern_value="3" system="cardinal" unit="" value="3"/>3(disz)-kam-asz</count> ba-hul-sze3 
+</commodities>

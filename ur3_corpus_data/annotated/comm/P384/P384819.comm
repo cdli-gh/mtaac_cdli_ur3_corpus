@@ -1,0 +1,32 @@
+<commodities>
+#P384819 = CDLJ 2009/2, §2.2
+#atf: lang sux
+#tr.en: 3 bull calves for ...,
+#tr.en: 1 bull calf for ...,
+#tr.en: 1 donkey foal ...,
+#tr.en: 1 donkey foal for Lu-Utu,
+#tr.en: its grain: 1 gur, 3 barig;
+#tr.en: fodder for the calves of plow oxen,
+#tr.en: from the great threshing floor at field “Lamaḫ,”
+#tr.en: from (the account of) ARAD booked out;
+#tr.en: under seal of Ipae,
+#tr.en: month: “Lisi,”
+#tr.en: year: “The silver throne of Enlil was fashioned.”
+#tr.en: Ipae,
+#tr.en: son of Lugal-ušur,
+#tr.en: oxen manager of Šara.
+<count><interpretation modern_unit="" modern_value="3" system="cardinal" unit="" value="3"/>3(disz)</count> <com dist="1">amar</com> gu4 ... 
+<count><interpretation modern_unit="" modern_value="1" system="cardinal" unit="" value="1"/>1(disz)</count> <com dist="1">amar</com> gu4 ... 
+<count><interpretation modern_unit="" modern_value="1" system="cardinal" unit="" value="1"/>1(disz)</count> <com dist="1">amar</com> ansze apin ... 
+<count><interpretation modern_unit="" modern_value="1" system="cardinal" unit="" value="1"/>1(disz)</count> <com dist="1">amar</com> ab2 lu2-{d}utu 
+sze-bi <count><interpretation modern_unit="l" modern_value="480" system="dry capacity" unit="sila3" value="480"/>1(asz) 3(barig) gur</count> 
+sza3-gal <com dist="1">amar</com> gu4 apin 
+ki-su7 gu-la a-sza3 la2-mah-ta 
+ki ARAD2-ta ba-zi 
+kiszib3 i7-pa-e3 
+iti {d}li9-si4 
+mu gu-za ku3 {d}en-lil2-la2 ba-dim2 
+i7-pa-e3 
+dumu lugal-uszurx(|LAL2.TUG2|) 
+nu-banda3-gu4 {d}szara2 
+</commodities>

@@ -1,0 +1,49 @@
+<commodities>
+#P125395 = OrSP 47-49, 507
+#atf: lang sux
+# calculation: (20 × 50) ÷ 2 = 500 sar = 5i
+# calculation: (20 × 40) ÷ 2 = 400 sar = 4i
+# calculation: (10 × 40) ÷ 2 = 200 sar = 2i
+# calculation: (10 × 55) ÷ 2 = 275 sar = 2.75i
+# meaning ? (the unfinished triangle to the right would be (20 × 15) ÷ 2 = 1.5i)
+# calculation: (15 + 20)/2 × 30 = 525 sar = 5.25i
+# calculation: 70 × 50 = 3500 = 1b 2e 5i
+# calculation: (40 + 30)/2 x (45 + 50)/2 = 1662.5 ≈ 2e 4.75i
+# calculation: (((40 + 10 + 40 + 10) + (150 - 50)) ÷ 2) = 100 × (((-10 + 40 + 20) + (70 - 20)) ÷ 2) =) 50 = 5000 = 2b 2e 2i
+# calculation: 1.c. + 2.c. + 6 + 9.c = 2e 3.5i
+# calculation: 11.c. + 12 + 13 - (4.c + 5.c.) = 5b 1e 1i
+# calculation: 4.c + 5.c. = 4.75i
+# calculation: rev i 1 + 2 = 6b 4.5i
+a. <count><interpretation modern_unit="" modern_value="20" system="cardinal" unit="" value="20"/>2(u)</count> 
+b. <count><interpretation modern_unit="" modern_value="50" system="cardinal" unit="" value="50"/>5(u)</count> 
+c. <count><interpretation modern_unit="m^2" modern_value="18000.0" system="surface" unit="gin2" value="30000"/>5(iku) gan2</count> <com dist="1">bar</com> 
+a. <count><interpretation modern_unit="" modern_value="20" system="cardinal" unit="" value="20"/>2(u)</count> 
+b. <count><interpretation modern_unit="" modern_value="40" system="cardinal" unit="" value="40"/>4(u)</count> 
+c. <count><interpretation modern_unit="m^2" modern_value="2.4" system="surface" unit="gin2" value="4"/>4(iku)</count> <com dist="1">bar</com> 
+<count><interpretation modern_unit="" modern_value="10" system="cardinal" unit="" value="10"/>1(u)</count> 
+a. <count><interpretation modern_unit="" modern_value="10" system="cardinal" unit="" value="10"/>1(u)</count> 
+b. <count><interpretation modern_unit="" modern_value="40" system="cardinal" unit="" value="40"/>4(u)</count> 
+c. <count><interpretation modern_unit="m^2" modern_value="1.2" system="surface" unit="gin2" value="2"/>2(iku)</count> ki 
+a. <count><interpretation modern_unit="" modern_value="10" system="cardinal" unit="" value="10"/>1(u)</count> 
+b. <count><interpretation modern_unit="" modern_value="55" system="cardinal" unit="" value="55"/>5(u) 5(disz)</count> 
+c. <count><interpretation modern_unit="m^2" modern_value="1.65" system="surface" unit="gin2" value="2.75"/>2(iku) 1/2(iku) 1/4(iku)</count> ki 
+<count><interpretation modern_unit="m^2" modern_value="0.75" system="surface" unit="gin2" value="1.25"/>1(iku) 1/4(iku)</count> <com dist="1">bar</com> 
+<count><interpretation modern_unit="" modern_value="40" system="cardinal" unit="" value="40"/>4(u)</count> 
+<count><interpretation modern_unit="" modern_value="20" system="cardinal" unit="" value="20"/>2(u)</count> 
+a.1. <count><interpretation modern_unit="" modern_value="15" system="cardinal" unit="" value="15"/>1(u) 5(disz)</count> 
+a.2. <count><interpretation modern_unit="" modern_value="20" system="cardinal" unit="" value="20"/>2(u)</count> 
+b. <count><interpretation modern_unit="" modern_value="30" system="cardinal" unit="" value="30"/>3(u)</count> 
+c. <count><interpretation modern_unit="m^2" modern_value="3.15" system="surface" unit="gin2" value="5.25"/>5(iku) 1/4(iku)</count> <com dist="1">bar</com> 
+<count><interpretation modern_unit="" modern_value="150" system="cardinal" unit="" value="150"/>2(gesz2) 3(u)</count> 
+a. <count><interpretation modern_unit="" modern_value="70" system="cardinal" unit="" value="70"/>1(gesz2) 1(u)</count> 
+b. <count><interpretation modern_unit="" modern_value="50" system="cardinal" unit="" value="50"/>5(u)</count> 
+c. <count><interpretation modern_unit="m^2" modern_value="21.0" system="surface" unit="gin2" value="35"/>1(bur3) 2(esze3) 5(iku)</count> 
+<count><interpretation modern_unit="m^2" modern_value="10.049999999999999" system="surface" unit="gin2" value="16.75"/>2(esze3) 4(iku) 1/2(iku) 1/4(iku)</count> 
+<count><interpretation modern_unit="m^2" modern_value="30.0" system="surface" unit="gin2" value="50"/>2(bur3) 2(esze3) 2(iku)</count> 
+<count><interpretation modern_unit="m^2" modern_value="55800.0" system="surface" unit="gin2" value="93000.0"/>2(esze3) 3(iku) 1/2(iku) gan2</count> <com dist="1">bar</com> 
+<count><interpretation modern_unit="m^2" modern_value="349200.0" system="surface" unit="gin2" value="582000"/>5(bur3) 1(esze3) 1(iku) gan2</count> 
+<count><interpretation modern_unit="m^2" modern_value="2.85" system="surface" unit="gin2" value="4.75"/>4(iku) 1/2(iku) 1/4(iku)</count> ki zi 
+szunigin <count><interpretation modern_unit="m^2" modern_value="405000.0" system="surface" unit="gin2" value="675000.0"/>6(bur3) 4(iku) 1/2(iku) gan2</count> 
+a-sza3 na-ga-ab-tum 
+{d}szul-pa-e3 
+</commodities>

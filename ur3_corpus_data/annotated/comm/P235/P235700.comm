@@ -1,0 +1,28 @@
+<commodities>
+#P235700 = Fs Pettinato 043, 5
+#atf: lang sux
+#tr.en: 15 sheep
+#tr.en: of the šu-gid (type, for divination);
+#tr.en: 26 sheep,
+#tr.en: 3 adult billygoats,
+#tr.en: slaughtered,
+#tr.en: for the kitchen.
+#tr.en: 13th day.
+#tr.en: out of Inta’ea(’s account)
+#tr.en: booked.
+#tr.en: Month: “Festival of An” (10th month, Drehem calendar)
+#tr.en: Year: “Huhnuri was destroyed” (Amar-Suen 7)
+#tr.en: 44 ‘sheep’
+<count><interpretation modern_unit="" modern_value="15" system="cardinal" unit="" value="15"/>1(u) 5(disz)</count> <com dist="1">udu</com> 
+szu-gid2 
+<count><interpretation modern_unit="" modern_value="26" system="cardinal" unit="" value="26"/>2(u) 6(disz)</count> udu 
+<count><interpretation modern_unit="" modern_value="3" system="cardinal" unit="" value="3"/>3(disz)</count> masz2-gal 
+ba-usz2 
+e2-muhaldim-sze3 
+u4 <count><interpretation modern_unit="" modern_value="10" system="cardinal" unit="" value="10"/>1(u)</count> <count><interpretation modern_unit="" modern_value="3" system="cardinal" unit="" value="3"/>3(disz)-kam</count> 
+ki in-ta-e3-a-ta 
+ba-zi 
+iti ezem-an-na 
+mu hu-uh2-nu-ri{ki} ba-hul 
+<count><interpretation modern_unit="" modern_value="44" system="cardinal" unit="" value="44"/>4(u) 4(disz)</count> <com dist="1">udu</com> 
+</commodities>

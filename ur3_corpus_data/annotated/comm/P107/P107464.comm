@@ -1,0 +1,29 @@
+<commodities>
+#P107464 = CHEU 031
+#atf: lang sux
+<count>2(asz) la2 2(barig) sze gur</count> 
+a-ra2 <count><interpretation modern_unit="" modern_value="1" system="cardinal" unit="" value="1"/>1(disz)-kam</count> 
+<count><interpretation modern_unit="l" modern_value="600" system="dry capacity" unit="sila3" value="600"/>2(asz) gur</count> 
+a-ra2 <count><interpretation modern_unit="" modern_value="2" system="cardinal" unit="" value="2"/>2(disz)-kam</count> 
+ur-nigar{gar} 
+<count><interpretation modern_unit="l" modern_value="1500" system="dry capacity" unit="sila3" value="1500"/>5(asz) gur</count> 
+ur-sa6 
+<count><interpretation modern_unit="l" modern_value="1080" system="dry capacity" unit="sila3" value="1080"/>4(asz) la2 2(barig) gur</count> 
+ur-{d}bil3 
+<count><interpretation modern_unit="l" modern_value="780" system="dry capacity" unit="sila3" value="780"/>2(asz) 3(barig) gur</count> <com dist="1">i3-li2</com> 
+<count><interpretation modern_unit="l" modern_value="144" system="dry capacity" unit="sila3" value="144"/>2(barig) 2(ban2) 4(disz) sila3</count> 
+nin-ur2-ra-ni 
+<count><interpretation modern_unit="l" modern_value="216" system="dry capacity" unit="sila3" value="216"/>3(barig) 3(ban2) 6(disz) sila3</count> 
+ama-kal-la 
+<count><interpretation modern_unit="l" modern_value="600" system="dry capacity" unit="sila3" value="600"/>2(asz) gur</count> ma2-gur8-re 
+<count><interpretation modern_unit="l" modern_value="300" system="dry capacity" unit="sila3" value="300"/>1(asz) gur</count> nam-ha-ni 
+<count><interpretation modern_unit="l" modern_value="300" system="dry capacity" unit="sila3" value="300"/>1(asz) gur</count> ba-da-da 
+<count><interpretation modern_unit="l" modern_value="300" system="dry capacity" unit="sila3" value="300"/>1(asz) gur</count> dumu e2-ki 
+<count><interpretation modern_unit="l" modern_value="600" system="dry capacity" unit="sila3" value="600"/>2(asz) gur</count> mes-e2 
+<count><interpretation modern_unit="l" modern_value="216" system="dry capacity" unit="sila3" value="216"/>3(barig) 3(ban2) 6(disz) sila3</count> 
+dumu ki-bu-bu 
+<count><interpretation modern_unit="l" modern_value="240" system="dry capacity" unit="sila3" value="240"/>4(barig)</count> ur-ab-zu 
+<count><interpretation modern_unit="l" modern_value="140" system="dry capacity" unit="sila3" value="140"/>2(barig) 2(ban2)</count> za-gu2-gu2 
+<count><interpretation modern_unit="l" modern_value="110" system="dry capacity" unit="sila3" value="110"/>1(barig) 5(ban2)</count> nin9-da-da 
+<count><interpretation modern_unit="l" modern_value="50" system="dry capacity" unit="sila3" value="50"/>5(ban2)</count> dam lu2-saga 
+</commodities>

@@ -1,0 +1,41 @@
+<commodities>
+#P404806 = CDLJ 2015/002 §2.27
+#atf: lang sux
+#tr.en: ... 5 ban2 black cumin,
+#tr.en: its gurdub (baskets): 4;
+#tr.en: 30 mana goat hair,
+#tr.en: its gur(dub basket): 1;
+#tr.en: 1 barig coriander,
+#tr.en: its vessels of 3 ban2: 2;
+#tr.en: 2 barig 1 ban2 3 2/3 sila3 sesame oil,
+#tr.en: its vessels: 2;
+#tr.en: (and) 173 water skins,
+#tr.en: its vessels: 5;
+#tr.en: from the household manager (?);
+#tr.en: 2 barig 5 ban2 3 sila3 10 shekels lard,
+#tr.en: its vessels: 4,
+#tr.en: the deficit of the mouth (of) these 4 vessels: 6 2/3 sila3,
+# appears to record variance in actual filled capacity of the 4 lard pots
+#tr.en: from Buzua;
+#tr.en: (the products) brought into the warehouse;
+#tr.en: in Kar-geštin
+#tr.en: year: “Ḫuḫnuri was destroyed.”
+n <count><interpretation modern_unit="l" modern_value="50" system="dry capacity" unit="sila3" value="50"/>5(ban2)</count> <com dist="1">{u2}gamun2</com> ge6 
+gur-dub-bi <count><interpretation modern_unit="" modern_value="4" system="cardinal" unit="" value="4"/>4(disz)-am3</count> 
+<count><interpretation modern_unit="g" modern_value="15000.000000000002" system="weight" unit="gin2" value="1800"/>3(u) ma-na</count> siki-ud5 
+gur-bi <count><interpretation modern_unit="" modern_value="1" system="cardinal" unit="" value="1"/>1(disz)-am3</count> 
+<count><interpretation modern_unit="l" modern_value="60" system="dry capacity" unit="sila3" value="60"/>1(barig)</count> <com dist="1">sze-lu2</com> 
+dug-3(ban2)-bi <count><interpretation modern_unit="" modern_value="2" system="cardinal" unit="" value="2"/>2(disz)-am3</count> 
+<count><interpretation modern_unit="l" modern_value="133.66666666666666" system="dry capacity" unit="sila3" value="133.66666666666666"/>2(barig) 1(ban2) 3(disz) 2/3(disz) sila3</count> <com dist="1">i3-gesz</com> 
+dug-bi <count><interpretation modern_unit="" modern_value="2" system="cardinal" unit="" value="2"/>2(disz)-am3</count> 
+<count><interpretation modern_unit="" modern_value="173" system="cardinal" unit="" value="173"/>2(gesz2) 5(u) 3(disz)</count> <com dist="1">{kusz}ummu3</com> 
+dug-bi <count><interpretation modern_unit="" modern_value="5" system="cardinal" unit="" value="5"/>5(disz)-am3</count> 
+ki szabra-a 
+<count><interpretation modern_unit="l" modern_value="173.16666666666666" system="dry capacity" unit="sila3" value="173.16666666666666"/>2(barig) 5(ban2) 3(disz) sila3 1(u) gin2</count> <com dist="1">i3-szah2</com> 
+dug-bi <count><interpretation modern_unit="" modern_value="4" system="cardinal" unit="" value="4"/>4(disz)-am3</count> 
+la2-ia3 ka dug <count><interpretation modern_unit="l" modern_value="10.666666666666668" system="liquid capacity" unit="sila3" value="10.666666666666668"/><interpretation modern_unit="l" modern_value="10.666666666666668" system="dry capacity" unit="sila3" value="10.666666666666668"/>4(disz)-ba 6(disz) 2/3(disz) sila3</count> 
+ki bu-zu-a-ta 
+e2-kiszib3-ba-ka ba-an-kux(KWU147) 
+sza3 kar-gesztin-ka 
+mu hu-uh2-nu-ri{ki} ba-hul 
+</commodities>

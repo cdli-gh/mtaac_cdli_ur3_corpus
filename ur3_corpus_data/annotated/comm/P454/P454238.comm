@@ -1,0 +1,33 @@
+<commodities>
+#P454238 = Nisaba 15, 1120
+#atf: lang sux
+# calculation: 30 ÷ 4 = 7.5 mana per shekel
+# calculation: 1 ÷ 36/180 = 5 sila3 per shekel
+#tr.en: its silver: oil of the sort 10 - 1 (?) (sila3 per shekel)
+# highly speculative ; edition has ... 3 igi sze; Cripps suggests “its silver: 3 reciprocal grains”
+# calculation: 1 ÷ 20/180 = 9 sila3 per shekel
+# calculation: 5 ÷ 1 = 5 mana per shekel
+#tr.en: 2 sila3 fine plant oil (of the sort) 11 (?) (sila3 per shekel)
+# calculation: 2 ÷ (∼34)/180 ≈ 11 sila3 per shekel
+# highly speculative; edition has ... 1(u) 1(disz) sze
+# calculation: 4 + 36/180 + 20/180 + 1 + 34/180 = 5 90/180
+<count><interpretation modern_unit="g" modern_value="15000.000000000002" system="weight" unit="gin2" value="1800"/>3(u) ma-na</count> siki-gi 
+<com dist="1">ku3-bi</com> <count><interpretation modern_unit="" modern_value="0.06666666666666667" system="cardinal" unit="" value="0.06666666666666667"/>4(disz) gin2</count> 
+<count><interpretation modern_unit="l" modern_value="1" system="liquid capacity" unit="sila3" value="1"/><interpretation modern_unit="l" modern_value="1" system="dry capacity" unit="sila3" value="1"/>1(disz) sila3</count> <com dist="1">i3-gesz</com> du10-ga 
+ku3-bi <count><interpretation modern_unit="" modern_value="0.16722222222222222" system="cardinal" unit="" value="0.16722222222222222"/>igi-6(disz)-gal2 6(disz) sze</count> 
+<count><interpretation modern_unit="l" modern_value="1" system="liquid capacity" unit="sila3" value="1"/><interpretation modern_unit="l" modern_value="1" system="dry capacity" unit="sila3" value="1"/>1(disz) sila3</count> <com dist="1">i3-gesz</com> 
+ku3-bi i3 <count><interpretation modern_unit="" modern_value="10" system="cardinal" unit="" value="10"/>1(u) la2</count> <count><interpretation modern_unit="" modern_value="1" system="cardinal" unit="" value="1"/>1(disz)-kam</count> 
+<com dist="1">ku3-bi</com> <count><interpretation modern_unit="" modern_value="20" system="cardinal" unit="" value="20"/>2(u)</count> 
+lu2-gu-la 
+<count><interpretation modern_unit="l" modern_value="5" system="liquid capacity" unit="sila3" value="5"/><interpretation modern_unit="l" modern_value="5" system="dry capacity" unit="sila3" value="5"/>5(disz) sila3</count> <com dist="1">i3-gesz</com> du10-ga 
+ku3-bi <count><interpretation modern_unit="" modern_value="0.016666666666666666" system="cardinal" unit="" value="0.016666666666666666"/>1(disz) gin2</count> 
+inim lu2-gu-la 
+da-a-a 
+<com dist="1">szu</com> ba-ti 
+<count><interpretation modern_unit="l" modern_value="2" system="liquid capacity" unit="sila3" value="2"/><interpretation modern_unit="l" modern_value="2" system="dry capacity" unit="sila3" value="2"/>2(disz) sila3</count> <com dist="1">i3-gesz</com> du10-ga <count><interpretation modern_unit="" modern_value="10" system="cardinal" unit="" value="10"/>1(u)</count> <count><interpretation modern_unit="" modern_value="1" system="cardinal" unit="" value="1"/>1(disz)-kam</count> 
+szunigin <count><interpretation modern_unit="" modern_value="0.09166666666666666" system="cardinal" unit="" value="0.09166666666666666"/>5(disz) 1/2(disz) gin2</count> <com dist="1">ku3</com> 
+ki lu2-{d}szara2 dam-gar3-ta 
+lu2-du10-ga 
+szu ba-ti 
+iti dal 
+</commodities>

@@ -1,0 +1,47 @@
+<commodities>
+#P424375 = WCMA 20.1.08
+#atf: lang sux
+#tr.en: 2 barley-fed sheep (for) Inanna of Uruk,
+#tr.en: via Lugalimah, cupbearer;
+#tr.en: 1 barley-fed sheep, a milk-fed lamb
+#tr.en: (for) Ištaran,
+#tr.en: from Nuhi-ilum, the deputy;
+#tr.en: 1 milk-fed lamb (for) Nanna,
+#tr.en: from Erranada, the deputy;
+#tr.en: an offering in the palace;
+#tr.en: 1 barley-fed large-goat, from Ili-Dagan,
+#tr.en: man of Ebla;
+#tr.en: 1 barley-fed large-goat,
+#tr.en: ...,
+# inserted since we expect something here
+#tr.en: 1 barley-fed large-goat,
+#tr.en: from ..., man of Uršu
+#tr.en: 1 large barley-fed goat, Nagizu, messenger from Ar-...
+#tr.en: via Lugalinimgina (and)
+#tr.en: ARAD-mu, overseer of the messengers;
+#tr.en: ff the month, 14 days have passed,
+#tr.en: booked out of (the account of) Ahuni,
+#tr.en: month: “Eating piglets,”
+#tr.en: year: “Amar-Suen became king.”
+<count><interpretation modern_unit="" modern_value="2" system="cardinal" unit="" value="2"/>2(disz)</count> <com dist="1">udu</com> niga {d}inanna unu{ki} 
+giri3 lugal-i3-mah sagi 
+<count><interpretation modern_unit="" modern_value="1" system="cardinal" unit="" value="1"/>1(disz)</count> <com dist="1">udu</com> sze <count><interpretation modern_unit="" modern_value="1" system="cardinal" unit="" value="1"/>1(disz)</count> sila4 ga 
+{d}isztaran 
+nu-hi-dingir-um maszkim 
+<count><interpretation modern_unit="" modern_value="1" system="cardinal" unit="" value="1"/>1(disz)</count> <com dist="1">sila4</com> ga {d}nanna 
+er3-ra-na-da maszkim 
+siskur2 sza3 e2-gal 
+<count><interpretation modern_unit="" modern_value="1" system="cardinal" unit="" value="1"/>1(disz)</count> <com dist="1">masz2-gal</com> niga i3-li2-da-gan 
+lu2 eb-la{ki} 
+<count><interpretation modern_unit="" modern_value="1" system="cardinal" unit="" value="1"/>1(disz)</count> <com dist="1">masz2-gal</com> niga 
+x x x 
+<count><interpretation modern_unit="" modern_value="1" system="cardinal" unit="" value="1"/>1(disz)</count> <com dist="1">masz2-gal</com> niga 
+bu-du-ur2 lu2 ur-szu 
+<count><interpretation modern_unit="" modern_value="1" system="cardinal" unit="" value="1"/>1(disz)</count> <com dist="1">masz2-gal</com> niga na-gi4-zu lu2 kin-gi4-a sza3 ar-... 
+giri3 lugal-inim-gi-na 
+ARAD2-mu ugula kas4 
+iti u4 <count><interpretation modern_unit="" modern_value="14" system="cardinal" unit="" value="14"/>1(u) 4(disz)</count> ba-zal 
+<com dist="1">ki</com> a-hu-ni-ta ba-zi 
+iti ses-da-gu7 
+mu {d}amar-{d}suen lugal 
+</commodities>

@@ -1,0 +1,28 @@
+<commodities>
+#P212269 = SANTAG 6, 068
+#atf: lang sux
+<count><interpretation modern_unit="" modern_value="1" system="cardinal" unit="" value="1"/>1(disz)</count> ma2 <count><interpretation modern_unit="l" modern_value="3000" system="dry capacity" unit="sila3" value="3000"/>1(u) gur</count> 
+<com dist="1">esir2</com> had2-bi <count><interpretation modern_unit="g" modern_value="660000.0" system="weight" unit="gin2" value="79200"/>2(u) 2(asz) gu2</count> 
+<com dist="1">esir2</com> E2-A-bi <count><interpretation modern_unit="" modern_value="5" system="cardinal" unit="" value="5"/>5(disz)</count> 
+i3-ku6-bi <count><interpretation modern_unit="l" modern_value="5" system="liquid capacity" unit="sila3" value="5"/><interpretation modern_unit="l" modern_value="5" system="dry capacity" unit="sila3" value="5"/>5(disz) sila3</count> 
+<com dist="1">{gesz}a-ra-bi</com> <count><interpretation modern_unit="" modern_value="6" system="cardinal" unit="" value="6"/>6(disz)</count> 
+{gesz}a-da-bi <count><interpretation modern_unit="" modern_value="4" system="cardinal" unit="" value="4"/>4(disz)</count> 
+{gesz}u3-bi <count><interpretation modern_unit="" modern_value="15" system="cardinal" unit="" value="15"/>1(u) 5(disz)</count> 
+{gesz}eme-sig-bi <count><interpretation modern_unit="" modern_value="45" system="cardinal" unit="" value="45"/>4(u) 5(disz)</count> 
+{gesz}mi-ri2-za-bi <count><interpretation modern_unit="" modern_value="50" system="cardinal" unit="" value="50"/>5(u)</count> 
+{gesz}me-dim2-bi <count><interpretation modern_unit="" modern_value="2" system="cardinal" unit="" value="2"/>2(disz)</count> 
+{gesz}ma2-gu2-bi <count><interpretation modern_unit="" modern_value="4" system="cardinal" unit="" value="4"/>4(disz)</count> 
+{gesz}murgu2-bi <count><interpretation modern_unit="" modern_value="1" system="cardinal" unit="" value="1"/>1(disz)</count> 
+{gesz}umbin-bi <count><interpretation modern_unit="" modern_value="8" system="cardinal" unit="" value="8"/>8(disz)</count> 
+{gesz}zi-dim2-bi <count><interpretation modern_unit="" modern_value="1" system="cardinal" unit="" value="1"/>1(disz)</count> 
+{gesz}gi-musz-bi <count><interpretation modern_unit="" modern_value="3" system="cardinal" unit="" value="3"/>3(disz)</count> 
+{gesz}pa-gesz-bi gesz diri-bi <count><interpretation modern_unit="" modern_value="3" system="cardinal" unit="" value="3"/>3(disz)</count> 
+<com dist="1">{gesz}gag-bi</com> <count><interpretation modern_unit="" modern_value="600" system="cardinal" unit="" value="600"/>1(geszu)</count> 
+{gesz}giri3-bi <count><interpretation modern_unit="" modern_value="35" system="cardinal" unit="" value="35"/>3(u) 5(disz)</count> 
+su4-sar-bi <count><interpretation modern_unit="g" modern_value="30000.000000000004" system="weight" unit="gin2" value="3600"/>1(asz) gu2</count> 
+<com dist="1">a2-bi</com> u4 <count><interpretation modern_unit="" modern_value="150" system="cardinal" unit="" value="150"/>2(gesz2) 3(u)</count> 
+ma2 dumu-lugal 
+ki lugal-e-ba-an-sa6-ta 
+lu2-sa6-i3-zu i3-dab5 
+mu ur-bi2-lum{ki} ba-hul 
+</commodities>

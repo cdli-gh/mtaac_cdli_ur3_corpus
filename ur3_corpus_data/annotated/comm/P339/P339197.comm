@@ -1,0 +1,16 @@
+<commodities>
+#P339197 = BPOA 1, 0540
+#atf: lang sux
+<count><interpretation modern_unit="l" modern_value="30" system="dry capacity" unit="sila3" value="30"/>3(ban2)</count> <com dist="1">zi3</com> munu4 hi-a kasz saga 
+sze-bi <count><interpretation modern_unit="l" modern_value="45" system="dry capacity" unit="sila3" value="45"/>4(ban2) 5(disz) sila3</count> 
+kasz saga-bi <count><interpretation modern_unit="l" modern_value="42" system="dry capacity" unit="sila3" value="42"/>4(ban2) 2(disz) sila3</count> 
+e2-tum-bi <count><interpretation modern_unit="l" modern_value="2" system="liquid capacity" unit="sila3" value="2"/><interpretation modern_unit="l" modern_value="2" system="dry capacity" unit="sila3" value="2"/>2(disz) sila3</count> 
+<com dist="1">duh-bi</com> <count><interpretation modern_unit="l" modern_value="25" system="dry capacity" unit="sila3" value="25"/>2(ban2) 5(disz) sila3</count> 
+kab2 du11-ga <com dist="1">kasz</com> saga-ka 
+<count><interpretation modern_unit="l" modern_value="21.166666666666668" system="dry capacity" unit="sila3" value="21.166666666666668"/>2(ban2) 1(disz) sila3 1(u) gin2</count> <com dist="1">zi3</com> munu4 hi-a kasz du-ka 
+sze-bi <count><interpretation modern_unit="l" modern_value="20" system="dry capacity" unit="sila3" value="20"/>2(ban2)</count> 
+kasz du-bi <count><interpretation modern_unit="l" modern_value="28" system="dry capacity" unit="sila3" value="28"/>2(ban2) 8(disz) sila3</count> 
+<com dist="1">duh-bi</com> <count><interpretation modern_unit="l" modern_value="23" system="dry capacity" unit="sila3" value="23"/>2(ban2) 3(disz) sila3</count> 
+kab2 du11-ga <com dist="1">kasz</com> du-ka 
+giri3 na-silim u3 ur-{d}nisaba 
+</commodities>

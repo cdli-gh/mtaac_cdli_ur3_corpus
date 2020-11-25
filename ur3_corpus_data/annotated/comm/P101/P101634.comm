@@ -1,0 +1,26 @@
+<commodities>
+#P101634 = AnOr 07, 339
+#atf: lang sux
+# calculation: 564 × 5 = 2820
+# calculation notes: ((6.25/18) × 12 × 30) + ((23/18) × 11 × 30) + ((152.25/18) × 10 × 30) ((117/18) × 9.5 × 30) + ((168.75/18 × 9) × 30) + ((9.5/18 × 8) × 30) = n1 ? difficult due to remaining ziz2 and gig = n2 and n3
+# calculation notes: 24;4,3,4 35/60 + 2;0,0 + 0;1,0 = 27;0,3,4,35/60 = 8134 35/60; 8134 35/60 × 5/6 = 6529 10/60s = 22;2,5,8 49.167/60; 21;3,4,8+ × 6/5 = 7713.6+
+... gur sze-bi <count><interpretation modern_unit="l" modern_value="156" system="dry capacity" unit="sila3" value="156"/>2(barig) 3(ban2) 6(disz) sila3</count> 
+<count><interpretation modern_unit="l" modern_value="2820" system="dry capacity" unit="sila3" value="2820"/>9(asz) 2(barig)</count> <com dist="1">duh</com> du gur sze-bi <count><interpretation modern_unit="l" modern_value="564" system="dry capacity" unit="sila3" value="564"/>1(asz) 4(barig) 2(ban2) 4(disz) sila3 gur</count> 
+ki ka-guru7-ta 
+szunigin <count><interpretation modern_unit="l" modern_value="16365.5" system="dry capacity" unit="sila3" value="16365.5"/>5(u) 4(asz) 2(barig) 4(ban2) 5(disz) 1/2(disz) sila3 sze gur</count> 
+szunigin <count><interpretation modern_unit="" modern_value="2" system="cardinal" unit="" value="2"/>2(asz)</count> <com dist="1">ziz2</com> gur 
+szunigin <count><interpretation modern_unit="l" modern_value="60" system="dry capacity" unit="sila3" value="60"/>1(barig)</count> <com dist="1">gig</com> 
+sza3-bi-ta 
+<count><interpretation modern_unit="m^2" modern_value="22500.0" system="surface" unit="gin2" value="37500.0"/>1(esze3) 1/4(iku) gan2</count> <count><interpretation modern_unit="" modern_value="12" system="cardinal" unit="" value="12"/>1(u) 2(disz)-ta</count> 
+<count><interpretation modern_unit="m^2" modern_value="82800.0" system="surface" unit="gin2" value="138000"/>1(bur3) 5(iku) gan2</count> <count><interpretation modern_unit="" modern_value="11" system="cardinal" unit="" value="11"/>1(u) 1(disz)-ta</count> 
+<count><interpretation modern_unit="m^2" modern_value="548100.0" system="surface" unit="gin2" value="913500.0"/>8(bur3) 1(esze3) 2(iku) 1/4(iku) gan2</count> <count><interpretation modern_unit="" modern_value="10" system="cardinal" unit="" value="10"/>1(u)-ta</count> 
+<count><interpretation modern_unit="m^2" modern_value="421200.0" system="surface" unit="gin2" value="702000"/>6(bur3) 1(esze3) 3(iku) gan2</count> <count><interpretation modern_unit="" modern_value="9.5" system="cardinal" unit="" value="9.5"/>1(u) la2 1/2(disz)-ta</count> 
+<count><interpretation modern_unit="m^2" modern_value="607500.0" system="surface" unit="gin2" value="1012500.0"/>9(bur3) 1(esze3) 1/2(iku) 1/4(iku) gan2</count> <count><interpretation modern_unit="" modern_value="9" system="cardinal" unit="" value="9"/>1(u) la2 1(disz)-ta</count> 
+<count><interpretation modern_unit="m^2" modern_value="34200.0" system="surface" unit="gin2" value="57000.0"/>1(esze3) 3(iku) 1/2(iku) gan2</count> <count><interpretation modern_unit="" modern_value="8" system="cardinal" unit="" value="8"/>8(disz)-ta</count> 
+sze-numun-bi <count><interpretation modern_unit="l" modern_value="7474.583333333333" system="dry capacity" unit="sila3" value="7474.583333333333"/>2(u) 4(asz) 4(barig) 3(ban2) 4(disz) 1/2(disz) sila3 5(disz) gin2 gur</count> 
+ziz2-numun-bi <count><interpretation modern_unit="l" modern_value="600" system="dry capacity" unit="sila3" value="600"/>2(asz) gur</count> 
+gig-numun-bi <count><interpretation modern_unit="l" modern_value="60" system="dry capacity" unit="sila3" value="60"/>1(barig)</count> 
+<com dist="1">mur-gu4</com> <count><interpretation modern_unit="l" modern_value="6529.15" system="dry capacity" unit="sila3" value="6529.15"/>5/6(disz) 2(u) 1(asz) 3(barig) 4(ban2) 8(disz) sila3 1(u) 9(disz) gin2 gur</count> 
+sze sza3-gal amar-amar nu-tuku 
+mu us2-sa ma2 {d}en-ki <com dist="1">ba-ab-du8</com> 
+</commodities>

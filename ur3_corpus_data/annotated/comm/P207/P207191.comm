@@ -1,0 +1,23 @@
+<commodities>
+#P207191 = PPAC 5, 0699
+#atf: lang sux
+...-ta 
+... tu 
+a-sza3 {d}szul-gi zi kalam-ma 
+... <count><interpretation modern_unit="m^2" modern_value="21600.0" system="surface" unit="gin2" value="36000"/>1(esze3) gan2</count> <count><interpretation modern_unit="l" modern_value="540" system="dry capacity" unit="sila3" value="540"/>1(asz) 4(barig)-ta</count> 
+<count><interpretation modern_unit="m^2" modern_value="388800.0" system="surface" unit="gin2" value="648000"/>6(bur3) gan2</count> <count><interpretation modern_unit="l" modern_value="360" system="dry capacity" unit="sila3" value="360"/>1(asz) 1(barig)-ta</count> 
+<com dist="1">{gesz}gaba-tab</com> 
+<count><interpretation modern_unit="m^2" modern_value="410400.0" system="surface" unit="gin2" value="684000"/>6(bur3) 1(esze3) gan2</count> <count><interpretation modern_unit="l" modern_value="495" system="dry capacity" unit="sila3" value="495"/>1(asz) 3(barig) 1(ban2) 5(disz)</count> sila3-ta 
+a-sza3 a-sag-du3-du 
+<count><interpretation modern_unit="m^2" modern_value="25.2" system="surface" unit="gin2" value="42"/><interpretation modern_unit="l" modern_value="75600000" system="volume" unit="gin2" value="252000"/>2(bur3) 1(esze3)</count> gur 
+a2 lu2 hun-ga2 a-sza3 {d}szul-gi-zi-kalam-ma 
+<com dist="1">gaba-ri</com> ur-{d}ba-ba6 dumu szabra e2 
+<count><interpretation modern_unit="" modern_value="4" system="cardinal" unit="" value="4"/>4(disz)</count> <com dist="1">amar</com> <count><interpretation modern_unit="l" modern_value="90" system="dry capacity" unit="sila3" value="90"/>1(barig) 3(ban2)-ta</count> 
+szunigin <count><interpretation modern_unit="m^2" modern_value="2012400.0" system="surface" unit="gin2" value="3354000"/>3(bur'u) 1(bur3) 1(iku) gan2</count> <count><interpretation modern_unit="l" modern_value="450" system="dry capacity" unit="sila3" value="450"/>1(asz) 2(barig) 3(ban2)-ta</count> 
+szunigin <count><interpretation modern_unit="m^2" modern_value="680400.0" system="surface" unit="gin2" value="1134000"/>1(bur'u) 1(esze3) 3(iku) gan2</count> <count><interpretation modern_unit="l" modern_value="540" system="dry capacity" unit="sila3" value="540"/>1(asz) 4(barig)-ta</count> 
+szunigin <count><interpretation modern_unit="m^2" modern_value="453600.0" system="surface" unit="gin2" value="756000"/>7(bur3) gan2</count> <count><interpretation modern_unit="l" modern_value="360" system="dry capacity" unit="sila3" value="360"/>1(asz) 1(barig)-ta</count> 
+szunigin <count><interpretation modern_unit="m^2" modern_value="475200.0" system="surface" unit="gin2" value="792000"/>7(bur3) 1(esze3) gan2</count> <count><interpretation modern_unit="l" modern_value="495" system="dry capacity" unit="sila3" value="495"/>1(asz) 3(barig) 1(ban2) 5(disz)</count> sila3-ta 
+<com dist="1">sze-bi</com> <count><interpretation modern_unit="l" modern_value="25495" system="dry capacity" unit="sila3" value="25495"/>1(gesz2) 2(u) 4(asz) 4(barig) 5(ban2) 5(disz) sila3 gur</count> 
+szunigin <count><interpretation modern_unit="l" modern_value="360" system="dry capacity" unit="sila3" value="360"/>1(asz) 1(barig) gur sze</count> <com dist="1">amar</com> 
+<count><interpretation modern_unit="l" modern_value="660" system="dry capacity" unit="sila3" value="660"/>2(asz) 1(barig) gur</count> a2 lu2 hun-ga2 
+</commodities>

@@ -1,0 +1,28 @@
+<commodities>
+#P416412 = CDLJ 2012/1 §4.03
+#atf: lang sux
+#tr.en: 1 sheep
+#tr.en: of the month day 21 elapsed;
+#tr.en: 1 sheep
+#tr.en: of the month day 22 elapsed;
+#tr.en: 2 bucks, barley-fed,
+#tr.en: 2 sheep,
+#tr.en: of the month day 23 elapsed;
+#tr.en: from Ašne’u
+#tr.en: Belī-arik
+#tr.en: received;
+#tr.en: month: “Akitu,”
+#tr.en: year: “The high-priestess of Nanna by means of extispicy was chosen.”
+<count><interpretation modern_unit="" modern_value="1" system="cardinal" unit="" value="1"/>1(disz)</count> <com dist="1">udu</com> 
+iti-ta u4 <count><interpretation modern_unit="" modern_value="21" system="cardinal" unit="" value="21"/>2(u) 1(disz)</count> ba-ra-zal 
+<count><interpretation modern_unit="" modern_value="1" system="cardinal" unit="" value="1"/>1(disz)</count> <com dist="1">udu</com> 
+iti-ta u4 <count><interpretation modern_unit="" modern_value="22" system="cardinal" unit="" value="22"/>2(u) 2(disz)</count> ba-ra-zal 
+<count><interpretation modern_unit="" modern_value="2" system="cardinal" unit="" value="2"/>2(disz)</count> <com dist="1">masz2-gal</com> niga 
+<count><interpretation modern_unit="" modern_value="2" system="cardinal" unit="" value="2"/>2(disz)</count> <com dist="1">udu</com> 
+iti-ta u4 <count><interpretation modern_unit="" modern_value="23" system="cardinal" unit="" value="23"/>2(u) 3(disz)</count> ba-ra-zal 
+ki asz-ne2-u18-ta 
+be-li2-a-ri2-ik 
+<com dist="1">szu</com> ba-ti 
+iti a2-ki-ti 
+mu en {d}nanna masz-e i3-pa3 
+</commodities>

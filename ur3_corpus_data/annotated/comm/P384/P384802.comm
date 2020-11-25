@@ -1,0 +1,40 @@
+<commodities>
+#P384802 = CDLJ 2009/2, §2.1
+#atf: lang sux
+#tr.en: 10 sila3 of good beer for the city governor,
+#tr.en: 3 1/2 sila3 for the lumaḫ priest,
+#tr.en: 2 2/3 sila3, 5 shekels for the egizi priestess,
+#tr.en: 1 1/2 sila3 for the senior lagar priest,
+#tr.en: 1 1/2 sila3 for the senior lukur priestess,
+#tr.en: 1 sila3 for AMA of gudu-abzu,
+#tr.en: ...,
+#tr.en: ...,
+#tr.en: ...,
+#tr.en: ...,
+#tr.en: 6 ...,
+#tr.en: ...,
+#tr.en: ...,
+#tr.en: 214 ...,
+#tr.en: ... 15 ...,
+#tr.en: ...,
+#tr.en: ...,
+#tr.en: year: “Lullubum for the 9th time (and) Simurrum were destroyed.”
+<count><interpretation modern_unit="l" modern_value="10" system="liquid capacity" unit="sila3" value="10"/><interpretation modern_unit="l" modern_value="10" system="dry capacity" unit="sila3" value="10"/>1(u) sila3</count> <com dist="1">kasz</com> saga ensi2 
+<count><interpretation modern_unit="l" modern_value="3.5" system="liquid capacity" unit="sila3" value="3.5"/><interpretation modern_unit="l" modern_value="3.5" system="dry capacity" unit="sila3" value="3.5"/>3(disz) 1/2(disz) sila3</count> lu2-mah 
+<count><interpretation modern_unit="l" modern_value="2.75" system="liquid capacity" unit="sila3" value="2.75"/><interpretation modern_unit="l" modern_value="2.75" system="dry capacity" unit="sila3" value="2.75"/>2(disz) 2/3(disz) sila3 5(disz) gin2</count> egi-zi 
+<count><interpretation modern_unit="l" modern_value="1.5" system="liquid capacity" unit="sila3" value="1.5"/><interpretation modern_unit="l" modern_value="1.5" system="dry capacity" unit="sila3" value="1.5"/>1(disz) 1/2(disz) sila3</count> eme5-gal 
+<count><interpretation modern_unit="l" modern_value="1.5" system="liquid capacity" unit="sila3" value="1.5"/><interpretation modern_unit="l" modern_value="1.5" system="dry capacity" unit="sila3" value="1.5"/>1(disz) 1/2(disz) sila3</count> murub-gal 
+<count><interpretation modern_unit="l" modern_value="1" system="liquid capacity" unit="sila3" value="1"/><interpretation modern_unit="l" modern_value="1" system="dry capacity" unit="sila3" value="1"/>1(disz) sila3</count> AMA gudu4-abzu 
+... x e2 x 
+x ... x x ... 
+x x ... 
+x ... 
+<count><interpretation modern_unit="" modern_value="none" system="unknown" unit="" value="none"/>6(disz) ...</count> 
+... 
+... x ... 
+<count><interpretation modern_unit="" modern_value="none" system="unknown" unit="" value="none"/>3(gesz2) 3(u) 4(disz) x ...</count> 
+x <count><interpretation modern_unit="" modern_value="none" system="unknown" unit="" value="none"/>1(u) 5(disz) x ...</count> 
+... x ... 
+... x ... 
+mu lu-lu-bu-um{ki} a-ra2 <count><interpretation modern_unit="" modern_value="10" system="cardinal" unit="" value="10"/>1(u) la2</count> <count><interpretation modern_unit="" modern_value="1" system="cardinal" unit="" value="1"/>1(disz)-kam</count> si-mu-ru-um ba-hul 
+</commodities>

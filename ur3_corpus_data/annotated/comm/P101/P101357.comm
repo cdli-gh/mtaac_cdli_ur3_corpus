@@ -1,0 +1,48 @@
+<commodities>
+#P101357 = AnOr 07, 062
+#atf: lang sux
+#tr.en: 1 ox, grain-fed, 3 sheep, grain-fed,
+#tr.en: 1 sheep, grass-fed,
+#tr.en: for boat of An;
+#tr.en: 1 sheep, grain-fed, for Nanaya;
+#tr.en: 1 sheep, grain-fed, for the temple of Gezal;
+#tr.en: 1 lamb, that of disappearance(?), house of Nanaya;
+#tr.en: 2 sheep, following the ox,
+#tr.en: 1 goat, offering of the new moon, in Uruk;
+#tr.en: via Abilati;
+#tr.en: 1 sheep, grain-fed, regular ration
+#tr.en: sheep, grain-fed, wailing ceremony of Inanna;
+#tr.en: 2 sheep, grain-fed, regular ration,
+#tr.en: offering of Belat-suḫner,
+#tr.en: and Belat-darraban;
+#tr.en: 1 lamb, that of disappearance(?), in the palace;
+#tr.en: 1 lamb, ...
+#tr.en: 1 sheep, grain-fed, offering of Nanna;
+#tr.en: Ur-Dumuzida, enforcer;
+#tr.en: booked out (of the account of) Belī-ṭab, fattener;
+#tr.en: of the house of Sagdana;
+#tr.en: month: “Akiti,”
+#tr.en: year: “Wall of the land erected.”
+<count><interpretation modern_unit="" modern_value="1" system="cardinal" unit="" value="1"/>1(disz)</count> <com dist="1">gu4</com> niga <count><interpretation modern_unit="" modern_value="3" system="cardinal" unit="" value="3"/>3(disz)</count> udu niga 
+<count><interpretation modern_unit="" modern_value="1" system="cardinal" unit="" value="1"/>1(disz)</count> <com dist="1">udu</com> u2 
+ma2 an-na-sze3 
+<count><interpretation modern_unit="" modern_value="1" system="cardinal" unit="" value="1"/>1(disz)</count> <com dist="1">udu</com> niga e2 {d}na-na-a 
+<count><interpretation modern_unit="" modern_value="1" system="cardinal" unit="" value="1"/>1(disz)</count> <com dist="1">udu</com> niga esz3 ge6-zal-sze3(KU) 
+<count><interpretation modern_unit="" modern_value="1" system="cardinal" unit="" value="1"/>1(disz)</count> <com dist="1">sila4</com> nig2-ki-zah3 e2 {d}na-na-a 
+<count><interpretation modern_unit="" modern_value="2" system="cardinal" unit="" value="2"/>2(disz)</count> <com dist="1">udu</com> gu4-e-us2-sa 
+<count><interpretation modern_unit="" modern_value="1" system="cardinal" unit="" value="1"/>1(disz)</count> <com dist="1">masz2</com> siskur2 u4-sakar sza3 unu{ki}-ga 
+giri3 a2-bi2-la-ti 
+<count><interpretation modern_unit="" modern_value="1" system="cardinal" unit="" value="1"/>1(disz)</count> <com dist="1">udu</com> niga sa2-du11 
+gi-ra-num2 {d}inanna 
+<count><interpretation modern_unit="" modern_value="2" system="cardinal" unit="" value="2"/>2(disz)</count> <com dist="1">udu</com> niga sa2-du11 
+siskur2 {d}be-la-at-suh-ner 
+u3 {d}be-la-at-dar-ra-ba-an 
+<count><interpretation modern_unit="" modern_value="1" system="cardinal" unit="" value="1"/>1(disz)</count> <com dist="1">sila4</com> nig2-ki-zah2 e2-gal-la 
+<count><interpretation modern_unit="" modern_value="1" system="cardinal" unit="" value="1"/>1(disz)</count> <com dist="1">sila4</com> AN ...-x 
+<count><interpretation modern_unit="" modern_value="1" system="cardinal" unit="" value="1"/>1(disz)</count> <com dist="1">udu</com> niga siskur2 {d}nanna 
+ur-{d}dumu-zi-da maszkim 
+zi-ga be-li2-du10 kuruszda 
+sza3 e2 sag-da-na 
+iti a2-ki-ti 
+mu bad3 ma-da ba-du3 
+</commodities>

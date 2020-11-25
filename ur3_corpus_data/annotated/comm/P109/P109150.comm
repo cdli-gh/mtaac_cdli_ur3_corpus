@@ -1,0 +1,28 @@
+<commodities>
+#P109150 = DCS 065
+#atf: lang sux
+# line uncertain
+<count><interpretation modern_unit="" modern_value="29" system="cardinal" unit="" value="29"/>3(u) la2 1(disz)</count> <com dist="1">udu</com> i3 <count><interpretation modern_unit="" modern_value="none" system="unknown" unit="" value="none"/><interpretation modern_unit="" modern_value="none" system="unknown" unit="" value="none"/>1(disz) x sila3</count> 
+<count><interpretation modern_unit="" modern_value="38" system="cardinal" unit="" value="38"/>3(u) 8(disz)</count> <com dist="1">udu</com> <count><interpretation modern_unit="" modern_value="1" system="cardinal" unit="" value="1"/>1(disz)</count> PA x 
+<com dist="1">sze-bi</com> <count><interpretation modern_unit="" modern_value="none" system="unknown" unit="" value="none"/>3(barig) x x</count> 
+<count><interpretation modern_unit="" modern_value="90" system="cardinal" unit="" value="90"/>1(gesz2) 3(u)</count> <com dist="1">udu</com> x ta 
+sze-bi <count><interpretation modern_unit="l" modern_value="155" system="dry capacity" unit="sila3" value="155"/>2(barig) 3(ban2) 5(disz) sila3</count> 
+lu2-kal-la 
+<count><interpretation modern_unit="" modern_value="90" system="cardinal" unit="" value="90"/>1(gesz2) 3(u)</count> <com dist="1">udu</com> x sila3 
+sze-bi <count><interpretation modern_unit="l" modern_value="125" system="dry capacity" unit="sila3" value="125"/>2(barig) 5(disz) sila3</count> 
+an-ne2 
+<count><interpretation modern_unit="" modern_value="none" system="unknown" unit="" value="none"/>1(gesz2) 3(u) 4(disz) x x</count> 
+<com dist="1">sze-bi</com> x ... 
+lu2-{d}nin-szubur 
+<count><interpretation modern_unit="" modern_value="110" system="cardinal" unit="" value="110"/>1(gesz2) 5(u)</count> <com dist="1">udu</com> <count><interpretation modern_unit="l" modern_value="1" system="liquid capacity" unit="sila3" value="1"/><interpretation modern_unit="l" modern_value="1" system="dry capacity" unit="sila3" value="1"/>1(disz) sila3</count> 
+sze-bi <count><interpretation modern_unit="l" modern_value="50" system="dry capacity" unit="sila3" value="50"/>5(ban2)</count> 
+a2-na-mu 
+<count><interpretation modern_unit="" modern_value="40" system="cardinal" unit="" value="40"/>4(u)</count> <com dist="1">masz2</com> <count><interpretation modern_unit="l" modern_value="0.6666666666666666" system="liquid capacity" unit="sila3" value="0.6666666666666666"/><interpretation modern_unit="l" modern_value="0.6666666666666666" system="dry capacity" unit="sila3" value="0.6666666666666666"/>2/3(disz) sila3</count> 
+sze-bi <count><interpretation modern_unit="" modern_value="none" system="unknown" unit="" value="none"/>2(ban2) 6(disz) sila3 x</count> 
+sa2-du11 
+<count><interpretation modern_unit="" modern_value="43" system="cardinal" unit="" value="43"/>4(u) 3(disz)</count> <com dist="1">sila4</com> diri <count><interpretation modern_unit="l" modern_value="1" system="liquid capacity" unit="sila3" value="1"/><interpretation modern_unit="l" modern_value="1" system="dry capacity" unit="sila3" value="1"/>1(disz) sila3</count> 
+<com dist="1">sze-bi</com> <count><interpretation modern_unit="l" modern_value="42" system="dry capacity" unit="sila3" value="42"/>4(ban2) 2(disz) sila3</count> 
+ur-{d}ama-iri-da 
+u4 <count><interpretation modern_unit="" modern_value="10" system="cardinal" unit="" value="10"/>1(u)</count> <count><interpretation modern_unit="" modern_value="4" system="cardinal" unit="" value="4"/>4(disz)-kam</count> 
+iti sze-il2-la 
+</commodities>

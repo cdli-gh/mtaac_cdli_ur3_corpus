@@ -1,0 +1,21 @@
+<commodities>
+#P133738 = TÉL 224
+#atf: lang sux
+# calculation: (6000 ÷ 10) + (6000 ÷ 10) + (14400 ÷ 10) + (9600 ÷ 30) + 9000 ÷ 10) = 3820
+# geme2 in Girsu at 1/5
+<count><interpretation modern_unit="" modern_value="18" system="cardinal" unit="" value="18"/>1(u) 8(disz)</count> geme2 
+iti ...-ta 
+iti ...-sze3 
+<com dist="1">a2-bi</com> <count><interpretation modern_unit="" modern_value="4320" system="cardinal" unit="" value="4320"/>1(szar2) 1(geszu) 2(gesz2)</count> geme2 u4 <count><interpretation modern_unit="" modern_value="1" system="cardinal" unit="" value="1"/>1(disz)-sze3</count> 
+iti <count><interpretation modern_unit="" modern_value="8" system="cardinal" unit="" value="8"/>8(disz)-kam</count> 
+sza3-bi-ta 
+<count><interpretation modern_unit="m" modern_value="120" system="length" unit="gi" value="40"/>2(u) ninda</count> gur nig2-gal2-la 
+<count><interpretation modern_unit="" modern_value="20" system="cardinal" unit="" value="20"/>2(u)</count> <com dist="1">SZIM</com> saga gur 
+<count><interpretation modern_unit="" modern_value="48" system="cardinal" unit="" value="48"/>4(u) 8(asz)</count> <com dist="1">dabin</com> gur 
+<count><interpretation modern_unit="" modern_value="32" system="cardinal" unit="" value="32"/>3(u) 2(asz)</count> <com dist="1">kasz</com> du gur 
+{d}ba-ba6-e3-a 
+<count><interpretation modern_unit="" modern_value="30" system="cardinal" unit="" value="30"/>3(u)</count> <com dist="1">dabin</com> gur zi-ga nig2-diri 
+a2-bi <count><interpretation modern_unit="" modern_value="3820" system="cardinal" unit="" value="3820"/>1(szar2) 3(gesz2) 4(u)</count> geme2 u4 <count><interpretation modern_unit="" modern_value="1" system="cardinal" unit="" value="1"/>1(disz)-sze3</count> 
+<count><interpretation modern_unit="" modern_value="864" system="cardinal" unit="" value="864"/>1(geszu) 4(gesz2) 2(u) 4(disz)</count> geme2 u4 <count><interpretation modern_unit="" modern_value="1" system="cardinal" unit="" value="1"/>1(disz)-sze3</count> 
+... igi <count><interpretation modern_unit="" modern_value="5" system="cardinal" unit="" value="5"/>5(disz)-gal2</count> 
+</commodities>

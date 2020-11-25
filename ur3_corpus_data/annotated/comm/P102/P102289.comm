@@ -1,0 +1,40 @@
+<commodities>
+#P102289 = ASJ 09, 239 13
+#atf: lang sux
+#tr.en: 1 ban2 1 sila3 fine beer,
+#tr.en: 2 ban2 common beer,
+#tr.en: 14th day;
+#tr.en: 1 ban2 2 sila3 fine beer,
+#tr.en: 3 ban2 7 sila3 common beer,
+#tr.en: 15th day;
+#tr.en: from Ur-mes;
+#tr.en: seal of the governor;
+#tr.en: month: “Bricks cast in moulds,”
+#tr.en: year after: “The high-priestess of Ga’eš was hired.”
+#tr.en: Šu-Suen,
+#tr.en: strong king,
+#tr.en: king of Ur,
+#tr.en: king of heaven with its four corners:
+#tr.en: Ayakalla,
+#tr.en: governor
+#tr.en: of Umma,
+#tr.en: your servant.
+<count><interpretation modern_unit="l" modern_value="11" system="dry capacity" unit="sila3" value="11"/>1(ban2) 1(disz) sila3</count> <com dist="1">kasz</com> saga 
+<count><interpretation modern_unit="l" modern_value="20" system="dry capacity" unit="sila3" value="20"/>2(ban2)</count> <com dist="1">kasz</com> du 
+u4 <count><interpretation modern_unit="" modern_value="10" system="cardinal" unit="" value="10"/>1(u)</count> <count><interpretation modern_unit="" modern_value="4" system="cardinal" unit="" value="4"/>4(disz)-kam</count> 
+<count><interpretation modern_unit="l" modern_value="12" system="dry capacity" unit="sila3" value="12"/>1(ban2) 2(disz) sila3</count> <com dist="1">kasz</com> saga 
+<count><interpretation modern_unit="l" modern_value="37" system="dry capacity" unit="sila3" value="37"/>3(ban2) 7(disz) sila3</count> <com dist="1">kasz</com> du 
+u4 <count><interpretation modern_unit="" modern_value="10" system="cardinal" unit="" value="10"/>1(u)</count> <count><interpretation modern_unit="" modern_value="5" system="cardinal" unit="" value="5"/>5(disz)-kam</count> 
+<com dist="1">ki</com> ur-mes-ta 
+kiszib3 ensi2 
+iti sig4-{gesz}i3-szub-ba-gar 
+mu us2-sa en ga-esz{ki} ba-hun 
+{d}szu-{d}suen 
+lugal kal-ga 
+lugal uri5{ki}-ma 
+lugal an ub-da limmu2-ba 
+a-a-kal-la 
+ensi2 
+umma{ki} 
+ARAD2-zu 
+</commodities>

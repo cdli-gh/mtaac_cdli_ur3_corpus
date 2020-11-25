@@ -1,0 +1,22 @@
+<commodities>
+#P112766 = MCS 4, 018 12
+#atf: lang sux
+#tr.en: Surplus: 142 gur 4 barig 3 ban2 barley,
+#tr.en: barley of GANgu-fields,
+#tr.en: from A’abba(’s account)
+#tr.en: to be booked out;
+#tr.en: 4 barig 3 ban2 2 sila3, Lugina;
+#tr.en: 13 gur, 5 ban2 barley, royal (measure);
+#tr.en: Ur-Eanna;
+#tr.en: 1 bur3 GAN-oxenboots, with Lugal-Emaḫ;
+#tr.en: 51 gur 3 barig barley-ration, stationed, field of Šara.
+diri <count>2(gesz2) 2(u) 2(asz) 4(barig) 3(ban2) sze gur</count> 
+<com dist="1">sze</com> GAN2-gu4 
+a-ab-ba-ta 
+zi-zi-dam 
+<count><interpretation modern_unit="l" modern_value="272" system="dry capacity" unit="sila3" value="272"/>4(barig) 3(ban2) 2(disz) sila3</count> lu2-gi-na 
+<count>1(u) 3(asz) 5(ban2) sze gur</count> lugal 
+ur-e2-an-na 
+<count><interpretation modern_unit="m^2" modern_value="0.06" system="surface" unit="gin2" value="0.1"/>1(bur3) sze</count> GAN2-gu4-suhub2 <com dist="1">ki</com> lugal-e2-mah-e 
+<count><interpretation modern_unit="l" modern_value="15480" system="dry capacity" unit="sila3" value="15480"/>5(u) 1(asz) 3(barig)</count> <com dist="1">sze-ba</com> gub-ba a-sza3 {d}szara2 
+</commodities>

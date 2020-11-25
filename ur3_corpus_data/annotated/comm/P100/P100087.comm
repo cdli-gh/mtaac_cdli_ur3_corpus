@@ -1,0 +1,14 @@
+<commodities>
+#P100087 = AAS 100
+#atf: lang sux
+#tr.en: 2 barig 3 ban2 barley (according to the) royal (measure):
+# ca. 150 liters
+#tr.en: Taribu;
+#tr.en: 1 barig: Uqarrib;
+# ca. 60 liters
+#tr.en: Month “Harvest.”
+<count>2(barig) 3(ban2) sze</count> lugal 
+ta-ri2-bu 
+<count><interpretation modern_unit="l" modern_value="60" system="dry capacity" unit="sila3" value="60"/>1(barig)</count> u2-qar-ri2-ib2 
+iti sze-sag-ku5 
+</commodities>

@@ -1,0 +1,10 @@
+<commodities>
+#P103992 = AUCT 2, 174
+#atf: lang sux
+<count><interpretation modern_unit="g" modern_value="7000.000000000001" system="weight" unit="gin2" value="840"/>1(u) 4(disz) ma-na</count> gi 
+<count><interpretation modern_unit="g" modern_value="500.00000000000006" system="weight" unit="gin2" value="60"/>1(disz) ma-na</count> szu-ur2-me 
+<count><interpretation modern_unit="g" modern_value="1000.0000000000001" system="weight" unit="gin2" value="120"/>2(disz) ma-na</count> za-ba-lum 
+<count><interpretation modern_unit="l" modern_value="2" system="liquid capacity" unit="sila3" value="2"/><interpretation modern_unit="l" modern_value="2" system="dry capacity" unit="sila3" value="2"/>2(disz) sila3</count> SZIM za-du5 
+<count><interpretation modern_unit="g" modern_value="1000.0000000000001" system="weight" unit="gin2" value="120"/>2(disz) ma-na</count> <com dist="1">SZIM</com> din 
+<count><interpretation modern_unit="" modern_value="1" system="cardinal" unit="" value="1"/>1(disz)</count> <com dist="1">SZIM</com> gu4-ku-ru 
+</commodities>

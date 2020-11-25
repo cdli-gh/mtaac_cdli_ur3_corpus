@@ -1,0 +1,41 @@
+<commodities>
+#P404812 = CDLJ 2015/002 §2.33
+#atf: lang sux
+#tr.en: 5 male laborers,
+#tr.en: foreman: Ikalla,
+#tr.en: 10, foreman: Tabšala,
+#tr.en: 12, foreman: Šara-amu,
+#tr.en: 9, foreman: Lugal-igiḫuš,
+#tr.en: 8, foreman: Agu,
+#tr.en: 5, foreman: Lugal-nirgal (?),
+#tr.en: 10, foreman: Kalpalu,
+#tr.en: 10, foreman: Akalla,
+#tr.en: 9, foreman: Lugamu;
+#tr.en: total:
+#tr.en: (subtotal:) 78 (workmen),
+#tr.en: therefrom:
+#tr.en: 4 male laborers, foreman: Akalla
+#tr.en: (at) the reservoir (of) the house (of) Šara (?),
+#tr.en: 4 male laborers, foreman: Tabšala
+#tr.en: (at) the reservoir of the field Ukunuti;
+#tr.en: threshing floor Ukunuti;
+# faintly written on dry clay
+<count><interpretation modern_unit="" modern_value="5" system="cardinal" unit="" value="5"/>5(disz)</count> <com dist="1">gurusz</com> 
+ugula i3-kal-la 
+<count><interpretation modern_unit="" modern_value="10" system="cardinal" unit="" value="10"/>1(u)</count> ugula tab-sza-la 
+<count><interpretation modern_unit="" modern_value="12" system="cardinal" unit="" value="12"/>1(u) 2(disz)</count> ugula {d}szara2-a-mu 
+<count><interpretation modern_unit="" modern_value="9" system="cardinal" unit="" value="9"/>1(u) la2 1(disz)</count> ugula lugal-igi-husz 
+<count><interpretation modern_unit="" modern_value="8" system="cardinal" unit="" value="8"/>8(disz)</count> ugula a-gu 
+<count><interpretation modern_unit="" modern_value="5" system="cardinal" unit="" value="5"/>5(disz)</count> ugula lugal-nir-gal2 
+<count><interpretation modern_unit="" modern_value="10" system="cardinal" unit="" value="10"/>1(u)</count> ugula kal-pa-lu2 
+<count><interpretation modern_unit="" modern_value="10" system="cardinal" unit="" value="10"/>1(u)</count> ugula a-kal-la 
+<count><interpretation modern_unit="" modern_value="9" system="cardinal" unit="" value="9"/>1(u) la2 1(disz)</count> ugula lu2-ga-mu 
+szunigin ($ blank space $) 
+<count><interpretation modern_unit="" modern_value="78" system="cardinal" unit="" value="78"/>1(gesz2) 1(u) 8(disz)</count> 
+sza3-bi-ta 
+<count><interpretation modern_unit="" modern_value="4" system="cardinal" unit="" value="4"/>4(disz)</count> <com dist="1">gurusz</com> ugula a-kal-la 
+kab2-ku5 e2 {d}szara2 
+<count><interpretation modern_unit="" modern_value="4" system="cardinal" unit="" value="4"/>4(disz)</count> <com dist="1">gurusz</com> ugula tab-sza-la 
+kab2-ku5 a-sza3 uku2-nu-ti 
+ki-su7 uku2-nu-ti 
+</commodities>

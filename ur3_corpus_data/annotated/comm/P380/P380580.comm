@@ -1,0 +1,25 @@
+<commodities>
+#P380580 = PPAC 5, 1715
+#atf: lang sux
+#tr.en: 16 gur barley by the royal measure,
+# ca. 4800 liters
+#tr.en: its interest: 2 1/2 shekels of silver
+#tr.en: too little,
+#tr.en: did Ur-Lamma, brewer of Nanše,
+#tr.en: receive;
+#tr.en: It is barley on loan, the harvest will remit the debt;
+#tr.en: it is to be replaced;
+#tr.en: month “Harvest,”
+# month 11
+#tr.en: year after: “Princess.”
+# sic ?
+<count><interpretation modern_unit="l" modern_value="0.0014814814814814814" system="dry capacity" unit="sila3" value="0.0014814814814814814"/>1(u) 6(asz) sze gur</count> lugal 
+<com dist="1">masz-bi</com> <count><interpretation modern_unit="" modern_value="0.041666666666666664" system="cardinal" unit="" value="0.041666666666666664"/>2(disz) 1/2(disz) gin2</count> ku3-babbar 
+ba-la2 
+ur-{d}lamma lu2 lunga {d}nansze 
+<com dist="1">szu</com> ba-ti 
+sze ur5-ra-kam buru14 ama-bi gi4-gi4 
+su-su-dam 
+iti sze-sag11-ku5 
+mu dumu-lugal us2-sa 
+</commodities>

@@ -1,0 +1,18 @@
+<commodities>
+#P131016 = Syracuse 465
+#atf: lang sux
+# calculation: 264.5 iku x 100 x 8 = 211,600 = 58.46.40 (text has 58.45.50)
+# calculation: 58.45.50 ÷ 12 = 4.53.49 1/6
+# some text moved to next line
+<count><interpretation modern_unit="m^2" modern_value="952200.0" system="surface" unit="gin2" value="1587000.0"/>1(bur'u) 4(bur3) 2(esze3) 1/2(iku) gan2</count> 
+gesz-gi <com dist="1">NE</com> gu7-a 
+en-du8-du 
+<count><interpretation modern_unit="bricks" modern_value="8640" system="bricks" unit="gin2" value="720"/><interpretation modern_unit="m^2" modern_value="36.0" system="surface" unit="gin2" value="60"/><interpretation modern_unit="l" modern_value="18000" system="volume" unit="gin2" value="60"/>1(disz) sar</count> ba-ze2 
+<count><interpretation modern_unit="" modern_value="8" system="cardinal" unit="" value="8"/>8(disz)</count> sa i3-gal2-am3 
+gu-nigin2-bi <count><interpretation modern_unit="" modern_value="0.6666666666666666" system="cardinal" unit="" value="0.6666666666666666"/>2/3(disz)-am3</count> 
+gi-bi <count><interpretation modern_unit="" modern_value="211550" system="cardinal" unit="" value="211550"/>5(szar'u) 8(szar2) 4(geszu) 5(gesz2) 5(u)</count> sa 
+gu-nigin2-bi <count><interpretation modern_unit="" modern_value="17630" system="cardinal" unit="" value="17630"/>4(szar2) 5(geszu) 3(gesz2) 5(u)-am3</count> 
+giri3 da-da agar4-nigin2 
+iti nesag 
+mu en eridu{ki} ba-hun 
+</commodities>

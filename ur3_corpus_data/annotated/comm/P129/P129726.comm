@@ -1,0 +1,21 @@
+<commodities>
+#P129726 = SET 318
+#atf: lang sux
+<count><interpretation modern_unit="m" modern_value="390" system="length" unit="gi" value="130"/>1(gesz2) 5(disz) ninda</count> <com dist="1">us2</com> <count><interpretation modern_unit="m" modern_value="6" system="length" unit="gi" value="2"/>1(disz) ninda</count> 
+<count><interpretation modern_unit="" modern_value="0.6666666666666666" system="cardinal" unit="" value="0.6666666666666666"/>2/3(disz)</count> <com dist="1">sahar-ta</com> 
+e-sze3 i3-ib2-si 
+sahar-bi <count><interpretation modern_unit="bricks" modern_value="374400.0" system="bricks" unit="gin2" value="31200.0"/><interpretation modern_unit="m^2" modern_value="1560.0" system="surface" unit="gin2" value="2600.0"/><interpretation modern_unit="l" modern_value="780000.0" system="volume" unit="gin2" value="2600.0"/>4(u) 3(disz) 1/3(disz) sar</count> 
+a2 <com dist="1">gurusz-bi</com> <count><interpretation modern_unit="" modern_value="260" system="cardinal" unit="" value="260"/>4(gesz2) 2(u)</count> u4 <count><interpretation modern_unit="" modern_value="1" system="cardinal" unit="" value="1"/>1(disz)-sze3</count> 
+<count><interpretation modern_unit="m" modern_value="390" system="length" unit="gi" value="130"/>1(gesz2) 5(disz) ninda</count> <com dist="1">us2</com> e-e u2 gur10-e 
+gurusz-e u4 <count><interpretation modern_unit="m" modern_value="9" system="length" unit="gi" value="3"/>1(disz)-sze3 1(disz) ninda</count> us2 in-ak 
+a2 <com dist="1">gurusz-bi</com> <count><interpretation modern_unit="" modern_value="65" system="cardinal" unit="" value="65"/>1(gesz2) 5(disz)</count> u4 <count><interpretation modern_unit="" modern_value="1" system="cardinal" unit="" value="1"/>1(disz)-sze3</count> 
+<count><interpretation modern_unit="m^2" modern_value="18000.0" system="surface" unit="gin2" value="30000"/>5(iku) gan2</count> <com dist="1">gurusz-e</com> u4 <count><interpretation modern_unit="" modern_value="1" system="cardinal" unit="" value="1"/>1(disz)-sze3</count> 
+<com dist="1">al-bi</com> <count><interpretation modern_unit="" modern_value="2.5" system="cardinal" unit="" value="2.5"/>2(disz) 1/2(disz)</count> sar-ta in-ak 
+a2 <com dist="1">gurusz-bi</com> <count><interpretation modern_unit="" modern_value="200" system="cardinal" unit="" value="200"/>3(gesz2) 2(u)</count> u4 <count><interpretation modern_unit="" modern_value="1" system="cardinal" unit="" value="1"/>1(disz)-sze3</count> 
+mu <count><interpretation modern_unit="" modern_value="1" system="cardinal" unit="" value="1"/>1(disz)-a-kam</count> 
+<count><interpretation modern_unit="m^2" modern_value="18000.0" system="surface" unit="gin2" value="30000"/>5(iku) gan2</count> <com dist="1">gurusz-e</com> u4 <count><interpretation modern_unit="" modern_value="1" system="cardinal" unit="" value="1"/>1(disz)-sze3</count> 
+<com dist="1">al-bi</com> <count><interpretation modern_unit="" modern_value="3" system="cardinal" unit="" value="3"/>3(disz)</count> sar-ta in-ak 
+a2 <com dist="1">gurusz-bi</com> <count><interpretation modern_unit="" modern_value="173" system="cardinal" unit="" value="173"/>2(gesz2) 5(u) 3(disz)</count> u4 <count><interpretation modern_unit="" modern_value="1" system="cardinal" unit="" value="1"/>1(disz)-sze3</count> 
+mu <count><interpretation modern_unit="" modern_value="2" system="cardinal" unit="" value="2"/>2(disz)-kam</count> 
+<com dist="1">{gesz}apin</com> u4 <count><interpretation modern_unit="" modern_value="1" system="cardinal" unit="" value="1"/>1(disz)-sze3</count> 
+</commodities>

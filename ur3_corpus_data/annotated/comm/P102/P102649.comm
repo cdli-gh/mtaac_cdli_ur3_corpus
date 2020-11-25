@@ -1,0 +1,109 @@
+<commodities>
+#P102649 = ASJ 18, 084 20
+#atf: lang sux
+# written sig4-{gesz}i3-szub 6(disz) ba-ga2-ra
+# written iti 5(disz) sze-kar-ra-gal2-la
+# written iti 6(disz) nesag
+# written iti 6(disz) dal
+# written iti 4(disz) szu-numun
+# written iti 1(u) la2 1(disz@t) min-esz3
+# written iti 2(disz) e2#-iti-6(disz)
+# written iti 8(disz) {d}li9-si4
+# written iti 8(disz) ezem-{d}szul-gi
+# written iti 4(disz) {d}pa4-u2-e
+# written iti 3(disz) {d}dumu-zi
+# erasures
+n sila3 zi3 sig15 
+n <count><interpretation modern_unit="l" modern_value="5.5" system="liquid capacity" unit="sila3" value="5.5"/><interpretation modern_unit="l" modern_value="5.5" system="dry capacity" unit="sila3" value="5.5"/>5(disz) 1/2(disz) sila3</count> <com dist="1">esza</com> 
+<count><interpretation modern_unit="l" modern_value="1913" system="dry capacity" unit="sila3" value="1913"/>6(asz) 1(barig) 5(ban2) 3(disz) sila3</count> zi3 gur 
+<count><interpretation modern_unit="l" modern_value="11" system="dry capacity" unit="sila3" value="11"/>1(ban2) 1(disz) sila3</count> <com dist="1">zu2-lum</com> 
+iti sig4-{gesz}i3-szub-ba-ga2-ra <count><interpretation modern_unit="" modern_value="6" system="cardinal" unit="" value="6"/>6(disz)</count> 
+<count><interpretation modern_unit="l" modern_value="70" system="dry capacity" unit="sila3" value="70"/>1(barig) 1(ban2)</count> <com dist="1">zi3</com> sig15 
+<count><interpretation modern_unit="l" modern_value="118" system="dry capacity" unit="sila3" value="118"/>1(barig) 5(ban2) 8(disz) sila3</count> esza 
+<count><interpretation modern_unit="l" modern_value="2214.5" system="dry capacity" unit="sila3" value="2214.5"/>7(asz) 1(barig) 5(ban2) 4(disz) 1/2(disz) sila3</count> zi3 gur 
+<count><interpretation modern_unit="l" modern_value="17" system="dry capacity" unit="sila3" value="17"/>1(ban2) 7(disz) sila3</count> <com dist="1">zu2-lum</com> 
+iti sze-kar-ra-gal2-la <count><interpretation modern_unit="" modern_value="5" system="cardinal" unit="" value="5"/>5(disz)</count> 
+<count><interpretation modern_unit="l" modern_value="103" system="dry capacity" unit="sila3" value="103"/>1(barig) 4(ban2) 3(disz) sila3</count> <com dist="1">zi3</com> sig15 
+<count><interpretation modern_unit="l" modern_value="172" system="dry capacity" unit="sila3" value="172"/>2(barig) 5(ban2) 2(disz) sila3</count> esza 
+<count><interpretation modern_unit="l" modern_value="30" system="dry capacity" unit="sila3" value="30"/>3(ban2)</count> zi3-gu saga 
+<count><interpretation modern_unit="l" modern_value="403" system="dry capacity" unit="sila3" value="403"/>1(asz) 1(barig) 4(ban2) 3(disz) sila3</count> <com dist="1">zi3</com> gur 
+<count><interpretation modern_unit="l" modern_value="30" system="dry capacity" unit="sila3" value="30"/>3(ban2)</count> <com dist="1">nig2-ar3-ra</com> saga 
+<count><interpretation modern_unit="l" modern_value="90" system="dry capacity" unit="sila3" value="90"/>1(barig) 3(ban2)</count> <com dist="1">SZIM</com> saga 
+<count><interpretation modern_unit="l" modern_value="15" system="dry capacity" unit="sila3" value="15"/>1(ban2) 5(disz) sila3 sze</count> 
+<count><interpretation modern_unit="l" modern_value="36" system="dry capacity" unit="sila3" value="36"/>3(ban2) 6(disz) sila3</count> <com dist="1">zu2-lum</com> 
+iti nesag <count><interpretation modern_unit="" modern_value="6" system="cardinal" unit="" value="6"/>6(disz)</count> 
+<count><interpretation modern_unit="l" modern_value="338" system="dry capacity" unit="sila3" value="338"/>1(asz) 3(ban2) 8(disz) sila3</count> <com dist="1">zi3</com> sig15 gur 
+<count><interpretation modern_unit="l" modern_value="121" system="dry capacity" unit="sila3" value="121"/>2(barig) 1(disz) sila3</count> <com dist="1">esza</com> 
+<count><interpretation modern_unit="l" modern_value="2" system="liquid capacity" unit="sila3" value="2"/><interpretation modern_unit="l" modern_value="2" system="dry capacity" unit="sila3" value="2"/>2(disz) sila3</count> {gesz}ge6-par4 had2 
+<count><interpretation modern_unit="l" modern_value="40" system="dry capacity" unit="sila3" value="40"/>4(ban2)</count> <com dist="1">zu2-lum</com> 
+<count><interpretation modern_unit="l" modern_value="1" system="liquid capacity" unit="sila3" value="1"/><interpretation modern_unit="l" modern_value="1" system="dry capacity" unit="sila3" value="1"/>1(disz) sila3</count> SZIM hi-a 
+<count><interpretation modern_unit="" modern_value="1" system="cardinal" unit="" value="1"/>1(disz)</count> kusz u2-hab2 
+iti <com dist="1">dal</com> <count><interpretation modern_unit="" modern_value="6" system="cardinal" unit="" value="6"/>6(disz)</count> 
+<count><interpretation modern_unit="l" modern_value="40" system="dry capacity" unit="sila3" value="40"/>4(ban2)</count> <com dist="1">zi3</com> sig15 
+<count><interpretation modern_unit="l" modern_value="99" system="dry capacity" unit="sila3" value="99"/>1(barig) 4(ban2) la2 1(disz) sila3</count> esza 
+<count><interpretation modern_unit="l" modern_value="560" system="dry capacity" unit="sila3" value="560"/>1(asz) 4(barig) 2(ban2)</count> zi3-gu gur 
+<count><interpretation modern_unit="l" modern_value="2599" system="dry capacity" unit="sila3" value="2599"/>8(asz) 3(barig) 2(ban2) la2 1(disz) sila3</count> <com dist="1">dabin</com> gur 
+<count>1(barig) 1(ban2) sze</count> 
+<count><interpretation modern_unit="l" modern_value="6" system="liquid capacity" unit="sila3" value="6"/><interpretation modern_unit="l" modern_value="6" system="dry capacity" unit="sila3" value="6"/>6(disz) sila3</count> <com dist="1">zu2-lum</com> 
+iti szu-numun <count><interpretation modern_unit="" modern_value="4" system="cardinal" unit="" value="4"/>4(disz)</count> 
+<count><interpretation modern_unit="l" modern_value="154" system="dry capacity" unit="sila3" value="154"/>2(barig) 3(ban2) 4(disz) sila3</count> <com dist="1">zi3</com> sig15 
+<count><interpretation modern_unit="l" modern_value="244" system="dry capacity" unit="sila3" value="244"/>4(barig) 4(disz) sila3</count> esza 
+<count><interpretation modern_unit="l" modern_value="470" system="dry capacity" unit="sila3" value="470"/>1(asz) 2(barig) 5(ban2)</count> zi3-gu gur 
+<count><interpretation modern_unit="l" modern_value="2911" system="dry capacity" unit="sila3" value="2911"/>9(asz) 3(barig) 3(ban2) 1(disz) sila3</count> <com dist="1">dabin</com> gur 
+<count><interpretation modern_unit="l" modern_value="52" system="dry capacity" unit="sila3" value="52"/>5(ban2) 2(disz) sila3</count> <com dist="1">zu2-lum</com> 
+<count>1(asz) 1(ban2) sze gur</count> 
+iti <com dist="1">min-esz3</com> <count><interpretation modern_unit="" modern_value="9" system="cardinal" unit="" value="9"/>1(u) la2 1(disz)</count> 
+<count><interpretation modern_unit="l" modern_value="14" system="dry capacity" unit="sila3" value="14"/>1(ban2) 4(disz) sila3</count> <com dist="1">zi3</com> sig15 
+<count><interpretation modern_unit="l" modern_value="41" system="dry capacity" unit="sila3" value="41"/>4(ban2) 1(disz) sila3</count> esza 
+<count><interpretation modern_unit="l" modern_value="23" system="dry capacity" unit="sila3" value="23"/>2(ban2) 3(disz) sila3</count> zi3-gu gur 
+<count><interpretation modern_unit="l" modern_value="38" system="dry capacity" unit="sila3" value="38"/>3(ban2) 8(disz) sila3</count> <com dist="1">dabin</com> 
+<count>3(ban2) sze</count> 
+<count><interpretation modern_unit="l" modern_value="6" system="liquid capacity" unit="sila3" value="6"/><interpretation modern_unit="l" modern_value="6" system="dry capacity" unit="sila3" value="6"/>6(disz) sila3</count> <com dist="1">zu2-lum</com> 
+iti e2-iti-6(disz) <count><interpretation modern_unit="" modern_value="2" system="cardinal" unit="" value="2"/>2(disz)</count> 
+<count><interpretation modern_unit="l" modern_value="91" system="dry capacity" unit="sila3" value="91"/>1(barig) 3(ban2) 1(disz) sila3</count> <com dist="1">zi3</com> sig15 
+<count><interpretation modern_unit="" modern_value="none" system="unknown" unit="" value="none"/>1(barig) 4(ban2) x sila3</count> esza 
+<count><interpretation modern_unit="" modern_value="none" system="unknown" unit="" value="none"/>5(ban2) x sila3</count> zi3-gu saga 
+<count><interpretation modern_unit="l" modern_value="615" system="dry capacity" unit="sila3" value="615"/>2(asz) 1(ban2) 5(disz) sila3</count> <com dist="1">dabin</com> gur 
+<count><interpretation modern_unit="l" modern_value="11" system="dry capacity" unit="sila3" value="11"/>1(ban2) 1(disz) sila3</count> <com dist="1">zu2-lum</com> 
+iti {d}li9-si4 <count><interpretation modern_unit="" modern_value="8" system="cardinal" unit="" value="8"/>8(disz)</count> 
+<count><interpretation modern_unit="l" modern_value="227.66666666666666" system="dry capacity" unit="sila3" value="227.66666666666666"/>3(barig) 4(ban2) 7(disz) 2/3(disz) sila3</count> <com dist="1">zi3</com> sig15 
+<count><interpretation modern_unit="l" modern_value="161" system="dry capacity" unit="sila3" value="161"/>2(barig) 4(ban2) 1(disz) sila3</count> esza 
+<count><interpretation modern_unit="l" modern_value="123" system="dry capacity" unit="sila3" value="123"/>2(barig) 3(disz) sila3</count> zi3-gu 
+<count><interpretation modern_unit="l" modern_value="192" system="dry capacity" unit="sila3" value="192"/>3(barig) 1(ban2) 2(disz) sila3</count> dabin 
+<count>3(barig) 1(ban2) sze</count> 
+<count><interpretation modern_unit="l" modern_value="204" system="dry capacity" unit="sila3" value="204"/>3(barig) 2(ban2) 4(disz) sila3</count> <com dist="1">zu2-lum</com> 
+iti ezem-{d}szul-gi <count><interpretation modern_unit="" modern_value="8" system="cardinal" unit="" value="8"/>8(disz)</count> 
+<count><interpretation modern_unit="l" modern_value="25" system="dry capacity" unit="sila3" value="25"/>2(ban2) 5(disz) sila3</count> <com dist="1">zi3</com> sig15 <count><interpretation modern_unit="l" modern_value="93" system="dry capacity" unit="sila3" value="93"/>1(barig) 3(ban2) 3(disz) sila3</count> esza 
+<count><interpretation modern_unit="l" modern_value="32" system="dry capacity" unit="sila3" value="32"/>3(ban2) 2(disz) sila3</count> zi3-gu <count><interpretation modern_unit="l" modern_value="93" system="dry capacity" unit="sila3" value="93"/>1(barig) 3(ban2) 3(disz) sila3</count> dabin 
+<count><interpretation modern_unit="l" modern_value="12" system="dry capacity" unit="sila3" value="12"/>1(ban2) 2(disz) sila3</count> zu2-lum <count>1(asz) 1(ban2) sze gur</count> 
+iti {d}pa4-u2-e <count><interpretation modern_unit="" modern_value="4" system="cardinal" unit="" value="4"/>4(disz)</count> 
+<count><interpretation modern_unit="l" modern_value="31" system="dry capacity" unit="sila3" value="31"/>3(ban2) 1(disz) sila3</count> <com dist="1">zi3</com> sig15 
+<count><interpretation modern_unit="l" modern_value="91" system="dry capacity" unit="sila3" value="91"/>1(barig) 3(ban2) 1(disz) sila3</count> esza 
+<count><interpretation modern_unit="l" modern_value="10" system="dry capacity" unit="sila3" value="10"/>1(ban2)</count> zi3-gu 
+<count><interpretation modern_unit="l" modern_value="150" system="dry capacity" unit="sila3" value="150"/>2(barig) 3(ban2)</count> dabin 
+<count><interpretation modern_unit="l" modern_value="43" system="dry capacity" unit="sila3" value="43"/>4(ban2) 3(disz) sila3</count> zu2-lum 
+iti {d}dumu-zi <count><interpretation modern_unit="" modern_value="3" system="cardinal" unit="" value="3"/>3(disz)</count> 
+<count><interpretation modern_unit="l" modern_value="215" system="dry capacity" unit="sila3" value="215"/>3(barig) 3(ban2) 5(disz) sila3</count> <com dist="1">zi3</com> sig15 
+n sila3 esza 
+szunigin <count><interpretation modern_unit="l" modern_value="10" system="dry capacity" unit="sila3" value="10"/>1(ban2)</count> <com dist="1">zi3</com> ba-ba saga 
+szunigin <count><interpretation modern_unit="l" modern_value="1476.6666666666667" system="dry capacity" unit="sila3" value="1476.6666666666667"/>4(asz) 4(barig) 3(ban2) 6(disz) 2/3(disz) sila3</count> <com dist="1">zi3</com> sig15 gur 
+szunigin <count><interpretation modern_unit="l" modern_value="82" system="dry capacity" unit="sila3" value="82"/>1(barig) 2(ban2) 2(disz) sila3</count> <com dist="1">zi3-gu</com> saga 
+szunigin <count><interpretation modern_unit="l" modern_value="1986.3333333333333" system="dry capacity" unit="sila3" value="1986.3333333333333"/>6(asz) 3(barig) 6(disz) 1/3(disz) sila3</count> <com dist="1">zi3-gu</com> du gur 
+szunigin <count><interpretation modern_unit="l" modern_value="16260" system="dry capacity" unit="sila3" value="16260"/>5(u) 4(asz) 1(barig)</count> n <count><interpretation modern_unit="l" modern_value="5.666666666666667" system="liquid capacity" unit="sila3" value="5.666666666666667"/><interpretation modern_unit="l" modern_value="5.666666666666667" system="dry capacity" unit="sila3" value="5.666666666666667"/>5(disz) 2/3(disz) sila3</count> <com dist="1">zi3</com> gur 
+szunigin <count><interpretation modern_unit="" modern_value="none" system="unknown" unit="" value="none"/>6(asz) ... 3(ban2) 4(disz) 1/2(disz) sila3</count> <com dist="1">esza</com> gur 
+szunigin <count><interpretation modern_unit="l" modern_value="70" system="dry capacity" unit="sila3" value="70"/>1(barig) 1(ban2)</count> <com dist="1">imgaga3</com> <count><interpretation modern_unit="" modern_value="3" system="cardinal" unit="" value="3"/>3(disz)</count> SZIM saga 
+szunigin <count><interpretation modern_unit="l" modern_value="40" system="dry capacity" unit="sila3" value="40"/>4(ban2)</count> <com dist="1">kasz</com> dida saga 
+szunigin <count><interpretation modern_unit="l" modern_value="20" system="dry capacity" unit="sila3" value="20"/>2(ban2)</count> <com dist="1">kasz</com> dida du 
+szunigin <count><interpretation modern_unit="l" modern_value="5" system="liquid capacity" unit="sila3" value="5"/><interpretation modern_unit="l" modern_value="5" system="dry capacity" unit="sila3" value="5"/>5(disz) sila3</count> <com dist="1">kasz</com> saga 
+szunigin <count><interpretation modern_unit="l" modern_value="20" system="dry capacity" unit="sila3" value="20"/>2(ban2)</count> <com dist="1">kasz</com> du 
+szunigin <count><interpretation modern_unit="l" modern_value="30" system="dry capacity" unit="sila3" value="30"/>3(ban2)</count> <com dist="1">nig2-ar3-ra</com> saga 
+szunigin <count><interpretation modern_unit="l" modern_value="1105" system="dry capacity" unit="sila3" value="1105"/>3(asz) 3(barig) 2(ban2) 5(disz) sila3 sze gur</count> 
+szunigin <count><interpretation modern_unit="l" modern_value="2" system="liquid capacity" unit="sila3" value="2"/><interpretation modern_unit="l" modern_value="2" system="dry capacity" unit="sila3" value="2"/>2(disz) sila3</count> <com dist="1">i3-nun</com> 
+szunigin <count><interpretation modern_unit="l" modern_value="2" system="liquid capacity" unit="sila3" value="2"/><interpretation modern_unit="l" modern_value="2" system="dry capacity" unit="sila3" value="2"/>2(disz) sila3</count> <com dist="1">ga</com> gazi 
+szunigin <count><interpretation modern_unit="l" modern_value="668" system="dry capacity" unit="sila3" value="668"/>2(asz) 1(barig) 8(disz) sila3</count> <com dist="1">zu2-lum</com> gur 
+szunigin <count><interpretation modern_unit="l" modern_value="1" system="liquid capacity" unit="sila3" value="1"/><interpretation modern_unit="l" modern_value="1" system="dry capacity" unit="sila3" value="1"/>1(disz) sila3</count> <com dist="1">gesztin</com> had2 
+szunigin <count><interpretation modern_unit="l" modern_value="2" system="liquid capacity" unit="sila3" value="2"/><interpretation modern_unit="l" modern_value="2" system="dry capacity" unit="sila3" value="2"/>2(disz) sila3</count> <com dist="1">{gesz}ge6-par4</com> had2 
+szunigin <count><interpretation modern_unit="l" modern_value="1" system="liquid capacity" unit="sila3" value="1"/><interpretation modern_unit="l" modern_value="1" system="dry capacity" unit="sila3" value="1"/>1(disz) sila3</count> <com dist="1">SZIM</com> hi-a 
+szunigin <count><interpretation modern_unit="" modern_value="1" system="cardinal" unit="" value="1"/>1(disz)</count> <com dist="1">kusz</com> u2-hab2 
+... x 
+</commodities>

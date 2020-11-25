@@ -1,0 +1,21 @@
+<commodities>
+#P142731 = AAICAB 1/1, pl. 032, 1911-219
+#atf: lang sux
+... <count><interpretation modern_unit="l" modern_value="103" system="dry capacity" unit="sila3" value="103"/>1(barig) 4(ban2) 3(disz) sila3</count> <com dist="1">zu2-lum</com> gur 
+<count><interpretation modern_unit="l" modern_value="7640" system="dry capacity" unit="sila3" value="7640"/>2(u) 5(asz) 2(barig) 2(ban2)</count> <com dist="1">{gesz}haszhur</com> gur 
+<count><interpretation modern_unit="l" modern_value="800" system="dry capacity" unit="sila3" value="800"/>2(asz) 3(barig) 2(ban2)</count> <com dist="1">{gesz}pesz3</com> gur 
+<count><interpretation modern_unit="" modern_value="1" system="cardinal" unit="" value="1"/>1(asz)</count> <com dist="1">nu-ur2-ma</com> gur 
+<count><interpretation modern_unit="l" modern_value="18" system="dry capacity" unit="sila3" value="18"/>1(ban2) 8(disz) sila3</count> <com dist="1">{gesz}ge6-par4</com> 
+x ... x x x 
+szunigin <count><interpretation modern_unit="" modern_value="none" system="unknown" unit="" value="none"/>2(disz) ...</count> 
+szunigin <count><interpretation modern_unit="l" modern_value="5462.333333333334" system="dry capacity" unit="sila3" value="5462.333333333334"/>1(u) 8(asz) 1(barig) 2(disz) 1/3(disz) sila3</count> <com dist="1">{gesz}haszhur</com> gur 
+szunigin <count><interpretation modern_unit="l" modern_value="370" system="dry capacity" unit="sila3" value="370"/>1(asz) 1(barig) 1(ban2)</count> <com dist="1">{gesz}pesz3</com> gur 
+szunigin <count><interpretation modern_unit="l" modern_value="34" system="dry capacity" unit="sila3" value="34"/>3(ban2) 4(disz) sila3</count> <com dist="1">nu-ur2-ma</com> 
+zi-ga-am3 
+la2-ia3 <count><interpretation modern_unit="l" modern_value="3238.3333333333335" system="dry capacity" unit="sila3" value="3238.3333333333335"/>1(u) 3(barig) 5(ban2) 8(disz) 1/3(disz) sila3</count> <com dist="1">zu2-lum</com> gur 
+... <count><interpretation modern_unit="l" modern_value="77.66666666666667" system="dry capacity" unit="sila3" value="77.66666666666667"/>1(barig) 1(ban2) 7(disz) 2/3(disz) sila3</count> <com dist="1">{gesz}haszhur</com> gur 
+... <count><interpretation modern_unit="l" modern_value="10" system="dry capacity" unit="sila3" value="10"/>1(ban2)</count> <com dist="1">{gesz}pesz3</com> gur 
+... <count><interpretation modern_unit="l" modern_value="5" system="liquid capacity" unit="sila3" value="5"/><interpretation modern_unit="l" modern_value="5" system="dry capacity" unit="sila3" value="5"/>5(disz) sila3</count> <com dist="1">nu-ur2-ma</com> 
+... <count><interpretation modern_unit="l" modern_value="6" system="liquid capacity" unit="sila3" value="6"/><interpretation modern_unit="l" modern_value="6" system="dry capacity" unit="sila3" value="6"/>6(disz) sila3</count> <com dist="1">{gesz}ge6-par4</com> 
+la2-ia3-am3 
+</commodities>

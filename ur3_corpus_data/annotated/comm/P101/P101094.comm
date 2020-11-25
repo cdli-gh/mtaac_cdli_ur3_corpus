@@ -1,0 +1,22 @@
+<commodities>
+#P101094 = AnOr 01, 103
+#atf: lang sux
+# some text moved to next line
+<count><interpretation modern_unit="l" modern_value="10" system="dry capacity" unit="sila3" value="10"/>1(ban2)</count> <com dist="1">kasz</com> saga 
+<count><interpretation modern_unit="l" modern_value="30" system="dry capacity" unit="sila3" value="30"/>3(ban2)</count> <com dist="1">kasz</com> du 
+<count><interpretation modern_unit="l" modern_value="20" system="dry capacity" unit="sila3" value="20"/>2(ban2)</count> zi3-gu 
+<count><interpretation modern_unit="l" modern_value="30" system="dry capacity" unit="sila3" value="30"/>3(ban2)</count> dabin 
+<count><interpretation modern_unit="" modern_value="1" system="cardinal" unit="" value="1"/>1(disz)</count> udu bar-gal2 
+<count>2(barig) sze</count> sza3-gal <com dist="1">ansze</com> 
+u4 <count><interpretation modern_unit="" modern_value="4" system="cardinal" unit="" value="4"/>4(disz)-kam</count> 
+la-a-a szagina 
+<count><interpretation modern_unit="l" modern_value="120" system="dry capacity" unit="sila3" value="120"/>2(barig)</count> <com dist="1">ninda</com> lugal 
+<count><interpretation modern_unit="l" modern_value="120" system="liquid capacity" unit="sila3" value="120"/>4(disz) dug</count> <com dist="1">dida</com> <count><interpretation modern_unit="l" modern_value="20" system="dry capacity" unit="sila3" value="20"/>2(ban2)</count> 
+<count><interpretation modern_unit="l" modern_value="2" system="liquid capacity" unit="sila3" value="2"/><interpretation modern_unit="l" modern_value="2" system="dry capacity" unit="sila3" value="2"/>2(disz) sila3</count> <com dist="1">i3-gesz</com> 
+<count><interpretation modern_unit="" modern_value="1" system="cardinal" unit="" value="1"/>1(disz)</count> ud5 
+sza3-gal kas4-e-ne 
+giri3 la-a-a szagina 
+u4 <count><interpretation modern_unit="" modern_value="30" system="cardinal" unit="" value="30"/>3(u) la2</count> <count><interpretation modern_unit="" modern_value="2" system="cardinal" unit="" value="2"/>2(disz)-kam</count> 
+iti <com dist="1">dal</com> 
+mu hu-uh2 
+</commodities>

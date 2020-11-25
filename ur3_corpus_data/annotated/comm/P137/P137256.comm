@@ -1,0 +1,11 @@
+<commodities>
+#P137256 = UET 3, 0932
+#atf: lang sux
+<count>2(ban2) sze</count> geme2-e2-an-na 
+<count><interpretation modern_unit="l" modern_value="13" system="dry capacity" unit="sila3" value="13"/>1(ban2) 3(disz) sila3</count> al-dab5-ba 
+<count><interpretation modern_unit="l" modern_value="10" system="dry capacity" unit="sila3" value="10"/>1(ban2)</count> puzur4-{d}szul 
+<count><interpretation modern_unit="l" modern_value="2" system="liquid capacity" unit="sila3" value="2"/><interpretation modern_unit="l" modern_value="2" system="dry capacity" unit="sila3" value="2"/>2(disz) sila3</count> {d}nanna-mu-dah 
+<count><interpretation modern_unit="l" modern_value="3" system="liquid capacity" unit="sila3" value="3"/><interpretation modern_unit="l" modern_value="3" system="dry capacity" unit="sila3" value="3"/>3(disz) sila3</count> dingir-mu-dah 
+<count><interpretation modern_unit="l" modern_value="0.5" system="liquid capacity" unit="sila3" value="0.5"/><interpretation modern_unit="l" modern_value="0.5" system="dry capacity" unit="sila3" value="0.5"/>1/2(disz) sila3</count> {d}szul-gi-dalla 
+<count><interpretation modern_unit="l" modern_value="2" system="liquid capacity" unit="sila3" value="2"/><interpretation modern_unit="l" modern_value="2" system="dry capacity" unit="sila3" value="2"/>2(disz) sila3</count> lugal-ezem 
+</commodities>

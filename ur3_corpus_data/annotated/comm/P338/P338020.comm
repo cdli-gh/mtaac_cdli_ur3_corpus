@@ -1,0 +1,12 @@
+<commodities>
+#P338020 = OIM A05754 
+#atf: lang sux 
+<count><interpretation modern_unit="" modern_value="14" system="cardinal" unit="" value="14"/>1(u) 4(disz)</count> <com dist="1">gurusz</com> gub-ba 
+la2-ia3 <count><interpretation modern_unit="" modern_value="1" system="cardinal" unit="" value="1"/>1(disz)</count> <com dist="1">gurusz</com> 
+ugula la-qi3-ip 
+siskur2-re engar 
+n <count><interpretation modern_unit="" modern_value="4.5" system="cardinal" unit="" value="4.5"/>4(disz) 1/2(disz)</count> <com dist="1">gurusz</com> u2-ze2 
+szunigin <count><interpretation modern_unit="" modern_value="5.5" system="cardinal" unit="" value="5.5"/>5(disz) 1/2(disz)</count> <com dist="1">gurusz</com> u2 <count><interpretation modern_unit="bricks" modern_value="129600" system="bricks" unit="gin2" value="10800"/><interpretation modern_unit="m^2" modern_value="540.0" system="surface" unit="gin2" value="900"/><interpretation modern_unit="l" modern_value="270000" system="volume" unit="gin2" value="900"/>1(u) 5(disz) sar</count> 
+al-ak-bi <count><interpretation modern_unit="bricks" modern_value="583200.0" system="bricks" unit="gin2" value="48600.0"/><interpretation modern_unit="m^2" modern_value="2430.0" system="surface" unit="gin2" value="4050.0"/><interpretation modern_unit="l" modern_value="1215000.0" system="volume" unit="gin2" value="4050.0"/>1(gesz2) 7(disz) 1/2(disz) sar</count> 
+u2-ze2-bi <count><interpretation modern_unit="bricks" modern_value="734400" system="bricks" unit="gin2" value="61200"/><interpretation modern_unit="m^2" modern_value="3060.0" system="surface" unit="gin2" value="5100"/><interpretation modern_unit="l" modern_value="1530000" system="volume" unit="gin2" value="5100"/>1(gesz2) 2(u) 5(disz) sar</count> 
+</commodities>

@@ -1,0 +1,16 @@
+<commodities>
+#P138143 = UET 9, 0012
+#atf: lang sux
+... <count><interpretation modern_unit="" modern_value="285" system="cardinal" unit="" value="285"/>4(gesz2) 4(u) 5(disz)</count> <com dist="1">gurusz</com> u4 <count><interpretation modern_unit="" modern_value="1" system="cardinal" unit="" value="1"/>1(disz)-sze3</count> 
+... <count><interpretation modern_unit="l" modern_value="5" system="liquid capacity" unit="sila3" value="5"/><interpretation modern_unit="l" modern_value="5" system="dry capacity" unit="sila3" value="5"/>5(disz) sila3</count> <com dist="1">naga</com> ba 
+<count><interpretation modern_unit="g" modern_value="57500.00000000001" system="weight" unit="gin2" value="6900"/>1(asz) gu2 5(u) 5(disz) ma-na</count> <com dist="1">im-babbar2</com> 
+lu2-{d}nin-isin2{si} 
+sza3 uri5{ki}-ma 
+<count><interpretation modern_unit="" modern_value="424.6666666666667" system="cardinal" unit="" value="424.6666666666667"/>7(gesz2) 4(disz) 2/3(disz)</count> <com dist="1">gurusz</com> u4 <count><interpretation modern_unit="" modern_value="1" system="cardinal" unit="" value="1"/>1(disz)-sze3</count> 
+<count><interpretation modern_unit="l" modern_value="25.5" system="dry capacity" unit="sila3" value="25.5"/>2(ban2) 5(disz) 1/2(disz) sila3</count> <com dist="1">naga</com> 
+x <count><interpretation modern_unit="g" modern_value="4000.0000000000005" system="weight" unit="gin2" value="480"/>8(disz) ma-na</count> <com dist="1">im-babbar2</com> 
+x x sza3-bi <count><interpretation modern_unit="" modern_value="none" system="unknown" unit="" value="none"/>5(disz) ...</count> 
+x-x-{d}nanna <com dist="1">u3</com> 
+x-ne-gu ugula-ta 
+mu si-mu-ru-um{ki} ba-hul 
+</commodities>

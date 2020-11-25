@@ -1,0 +1,33 @@
+<commodities>
+#P465780 = ISHS MS481-05
+#atf: lang sux
+#tr.en: 1 lamb,
+#tr.en: (from) the governor of Umma;
+#tr.en: 4 Šimašgi sheep, grain-fed,
+#tr.en: 1 lamb, ARADmu;
+#tr.en: 1 fat-tailed sheep, 1 billy, grain-fed,
+#tr.en: 1 lamb, Lugal-kuzu;
+#tr.en: 2 lambs,
+#tr.en: Ninlil-imti(?);
+#tr.en: the 16th day,
+#tr.en: as delivery
+#tr.en: did Abbasaga accept;
+#tr.en: month “Festival-of-Mekigal,”
+#tr.en: year: “... .”
+#tr.en: (total:) 11.
+# calculation: 1 + 4 + 1 + 1 + 1 + 2 = 10 (?)
+<count><interpretation modern_unit="" modern_value="1" system="cardinal" unit="" value="1"/>1(disz)</count> <com dist="1">sila4</com> 
+ensi2 umma{ki} 
+<count><interpretation modern_unit="" modern_value="4" system="cardinal" unit="" value="4"/>4(disz)</count> <com dist="1">udu</com> szimaszgi niga 
+<count><interpretation modern_unit="" modern_value="1" system="cardinal" unit="" value="1"/>1(disz)</count> <com dist="1">sila4</com> ARAD2-mu 
+<count><interpretation modern_unit="" modern_value="1" system="cardinal" unit="" value="1"/>1(disz)</count> <com dist="1">gukkal</com> niga <count><interpretation modern_unit="" modern_value="1" system="cardinal" unit="" value="1"/>1(disz)</count> masz2 niga 
+<count><interpretation modern_unit="" modern_value="1" system="cardinal" unit="" value="1"/>1(disz)</count> <com dist="1">sila4</com> lugal-ku3-zu 
+<count><interpretation modern_unit="" modern_value="2" system="cardinal" unit="" value="2"/>2(disz)</count> <com dist="1">sila4</com> 
+{d}nin-lil2-im-ti 
+u4 <count><interpretation modern_unit="" modern_value="10" system="cardinal" unit="" value="10"/>1(u)</count> <count><interpretation modern_unit="" modern_value="6" system="cardinal" unit="" value="6"/>6(disz)-kam</count> 
+mu-kux(DU) 
+ab-ba-sa6-ga i3-dab5 
+iti ezem-me-ki-gal2 
+mu ... x 
+<count><interpretation modern_unit="" modern_value="11" system="cardinal" unit="" value="11"/>1(u) 1(disz)</count> 
+</commodities>

@@ -1,0 +1,9 @@
+<commodities>
+#P207115 = PPAC 5, 0542 
+#atf: lang sux 
+<count><interpretation modern_unit="" modern_value="60" system="cardinal" unit="" value="60"/>1(gesz2)</count> ze2-na 
+<count><interpretation modern_unit="l" modern_value="30" system="dry capacity" unit="sila3" value="30"/>3(ban2)</count> <com dist="1">{gesz}kisal</com> had2 
+<count><interpretation modern_unit="l" modern_value="30" system="dry capacity" unit="sila3" value="30"/>3(ban2)</count> <com dist="1">{gesz}haszhur</com> had2 
+<count><interpretation modern_unit="" modern_value="6" system="cardinal" unit="" value="6"/>6(disz)</count> <com dist="1">{gesz}pesz3</com> <count><interpretation modern_unit="m" modern_value="3.0" system="length" unit="gi" value="1.0"/>6(disz) kusz3</count> 
+<count><interpretation modern_unit="l" modern_value="10" system="dry capacity" unit="sila3" value="10"/>1(ban2)</count> <com dist="1">gesztin</com> had2 
+</commodities>

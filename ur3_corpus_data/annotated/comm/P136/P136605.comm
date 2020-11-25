@@ -1,0 +1,13 @@
+<commodities>
+#P136605 = UET 3, 0288
+#atf: lang sux
+<count><interpretation modern_unit="" modern_value="3" system="cardinal" unit="" value="3"/>3(disz)</count> uzu za3 <com dist="1">tug2</com> udu 
+<count><interpretation modern_unit="" modern_value="4" system="cardinal" unit="" value="4"/>4(disz)</count> giri3-lam 
+u4 <count><interpretation modern_unit="" modern_value="1" system="cardinal" unit="" value="1"/>1(disz)-kam</count> 
+<count><interpretation modern_unit="m" modern_value="24" system="length" unit="gi" value="8"/>4(disz) ninda</count> <com dist="1">gug2</com> 
+<count><interpretation modern_unit="" modern_value="4" system="cardinal" unit="" value="4"/>4(disz)</count> uzu za3 <com dist="1">tug2</com> udu 
+<count><interpretation modern_unit="" modern_value="4" system="cardinal" unit="" value="4"/>4(disz)</count> giri3-lam 
+u4 <count><interpretation modern_unit="" modern_value="2" system="cardinal" unit="" value="2"/>2(disz)-kam</count> 
+x <com dist="1">ninda</com> gug2 
+x uzu za3 tug2 udu 
+</commodities>

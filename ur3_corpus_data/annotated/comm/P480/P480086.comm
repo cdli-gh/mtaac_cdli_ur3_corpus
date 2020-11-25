@@ -1,0 +1,32 @@
+<commodities>
+#P480086 = Iraq 76, 200-202
+#atf: lang sux
+# callculation 91 5/6 × 30 = 2755 (?)
+# callculation 555 × 30 = 16650 (?)
+# calculation: 8660 ÷ 20 = 433
+# calculation: 1700 ÷ 30 = 56 2/3
+# calculation: 1215 ÷ 15 = 81
+iti ...-ta 
+iti szu-numun-sze3 
+a2 um-mi-a dumu um-mi-a-bi <count><interpretation modern_unit="" modern_value="2755" system="cardinal" unit="" value="2755"/>4(geszu) 5(gesz2) 5(u) 5(disz)</count> u4 <count><interpretation modern_unit="" modern_value="1" system="cardinal" unit="" value="1"/>1(disz)-sze3</count> 
+a2 geme2 gurusz-bi <count><interpretation modern_unit="" modern_value="16650" system="cardinal" unit="" value="16650"/>4(szar2) 3(geszu) 7(gesz2) 3(u)</count> u4 <count><interpretation modern_unit="" modern_value="1" system="cardinal" unit="" value="1"/>1(disz)-sze3</count> 
+x x ... 
+<count><interpretation modern_unit="" modern_value="none" system="unknown" unit="" value="none"/>2(u) 8(asz) 4(barig) 2(ban2) ...</count> 
+a2 <count><interpretation modern_unit="l" modern_value="20" system="dry capacity" unit="sila3" value="20"/>2(ban2)-ta</count> 
+a2-bi <count><interpretation modern_unit="" modern_value="433" system="cardinal" unit="" value="433"/>7(gesz2) 1(u) 3(disz)</count> u4 <count><interpretation modern_unit="" modern_value="1" system="cardinal" unit="" value="1"/>1(disz)-sze3</count> 
+<count><interpretation modern_unit="l" modern_value="1700" system="dry capacity" unit="sila3" value="1700"/>5(asz) 3(barig) 2(ban2)</count> nig2-ar3-ra gur 
+a2 <count><interpretation modern_unit="l" modern_value="30" system="dry capacity" unit="sila3" value="30"/>3(ban2)-ta</count> 
+a2-bi <count><interpretation modern_unit="" modern_value="56.666666666666664" system="cardinal" unit="" value="56.666666666666664"/>5(u) 6(disz) 2/3(disz)</count> u4 <count><interpretation modern_unit="" modern_value="1" system="cardinal" unit="" value="1"/>1(disz)-sze3</count> 
+a2 geme2 gurusz u4 <count><interpretation modern_unit="" modern_value="1" system="cardinal" unit="" value="1"/>1(disz)-sze3</count> 
+e2-kikken2-ta 
+<count><interpretation modern_unit="" modern_value="4" system="cardinal" unit="" value="4"/>4(disz)</count> gurusz u4 <count><interpretation modern_unit="" modern_value="1" system="cardinal" unit="" value="1"/>1(disz)-sze3</count> 
+a2 x-x-a u4 <count><interpretation modern_unit="" modern_value="1" system="cardinal" unit="" value="1"/>1(disz)-kam</count> 
+szunigin n <count><interpretation modern_unit="" modern_value="none" system="unknown" unit="" value="none"/>1(geszu) 7(gesz2) 2(u) 1/3(disz) ...</count> 
+a2 n-ta 
+a2-bi x ... 
+<count><interpretation modern_unit="" modern_value="2050" system="cardinal" unit="" value="2050"/>3(geszu) 4(gesz2) 1(u)</count> u4 <count><interpretation modern_unit="" modern_value="1" system="cardinal" unit="" value="1"/>1(disz)-sze3</count> 
+<count><interpretation modern_unit="" modern_value="none" system="unknown" unit="" value="none"/>4(asz) 1(ban2) 5(disz) sila3 x x</count> 
+a2 <count><interpretation modern_unit="l" modern_value="15" system="dry capacity" unit="sila3" value="15"/>1(ban2) 5(disz)</count> sila3-ta 
+a2-bi <count><interpretation modern_unit="" modern_value="81" system="cardinal" unit="" value="81"/>1(gesz2) 2(u) 1(disz)</count> u4 <count><interpretation modern_unit="" modern_value="1" system="cardinal" unit="" value="1"/>1(disz)-sze3</count> 
+<count><interpretation modern_unit="" modern_value="none" system="unknown" unit="" value="none"/>1(geszu) 4(gesz2) 4(u) ...</count> 
+</commodities>

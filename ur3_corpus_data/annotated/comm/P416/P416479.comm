@@ -1,0 +1,28 @@
+<commodities>
+#P416479 = CDLJ 2012/1 §4.25
+#atf: lang sux
+#tr.en: 1 buck, barley-fed, good quality,
+#tr.en: 2 bucks, barley-fed, 2nd grade,
+#tr.en: 7 bucks, barley-fed, 4th grade,
+#tr.en: 10 female kids, barley-fed, 4th grade,
+#tr.en: 2 female kids, barley-fed,
+#tr.en: 1 unweaned kid,
+#tr.en: 2 female kids ...,
+#tr.en: delivery, and ... to give, ...;
+#tr.en: from Aba-Enlilgin,
+#tr.en: Duyudu accepted;
+#tr.en: year: “Šu-Sin, king of Ur, erected the grand-stele for Enlil (and) Ninlil;”
+#tr.en: (total:) 25 small cattle.
+<count><interpretation modern_unit="" modern_value="1" system="cardinal" unit="" value="1"/>1(disz)</count> <com dist="1">masz2-gal</com> niga saga 
+<count><interpretation modern_unit="" modern_value="2" system="cardinal" unit="" value="2"/>2(disz)</count> <com dist="1">masz2-gal</com> niga saga us2 
+<count><interpretation modern_unit="" modern_value="7" system="cardinal" unit="" value="7"/>7(disz)</count> masz2-gal niga <count><interpretation modern_unit="" modern_value="4" system="cardinal" unit="" value="4"/>4(disz)-kam</count> us2 
+<count><interpretation modern_unit="" modern_value="10" system="cardinal" unit="" value="10"/>1(u)</count> {munus}asz2-gar3 niga <count><interpretation modern_unit="" modern_value="4" system="cardinal" unit="" value="4"/>4(disz)-kam</count> us2 
+<count><interpretation modern_unit="" modern_value="2" system="cardinal" unit="" value="2"/>2(disz)</count> {munus}asz2-gar3 niga 
+<count><interpretation modern_unit="" modern_value="1" system="cardinal" unit="" value="1"/>1(disz)</count> <com dist="1">masz2</com> gaba 
+<count><interpretation modern_unit="" modern_value="2" system="cardinal" unit="" value="2"/>2(disz)</count> {munus}asz2-gar3 ... 
+mu-kux(DU) <com dist="1">u3</com> ... tesz2-a szum2-de3 gesz-bur2 nu-su-su 
+ki a-ba-{d}en-lil2-gin7-ta 
+du-u2-du i3-dab5 
+mu {d}szu-{d}suen lugal uri5{ki}-ma-ke4 na-ru2-a mah {d}en-lil2 {d}nin-lil2-ra mu-ne-du3 
+<count><interpretation modern_unit="" modern_value="25" system="cardinal" unit="" value="25"/>2(u) 5(disz)</count> <com dist="1">udu</com> 
+</commodities>

@@ -1,0 +1,17 @@
+<commodities>
+#P341198 = BPOA 2, 2540
+#atf: lang sux
+<count>1(u) 4(asz) 2(barig) sze</count> <com dist="1">zi3-da</com> gur 
+a-ra2 <count><interpretation modern_unit="" modern_value="1" system="cardinal" unit="" value="1"/>1(disz)-kam</count> 
+<count><interpretation modern_unit="l" modern_value="0.005277777777777777" system="dry capacity" unit="sila3" value="0.005277777777777777"/>5(u) 7(asz) sze gur</count> 
+a-ra2 <count><interpretation modern_unit="" modern_value="2" system="cardinal" unit="" value="2"/>2(disz)-kam</count> 
+<count><interpretation modern_unit="l" modern_value="5520" system="dry capacity" unit="sila3" value="5520"/>1(u) 8(asz) 2(barig) gur</count> 
+a-ra2 <count><interpretation modern_unit="" modern_value="3" system="cardinal" unit="" value="3"/>3(disz)-kam</count> 
+<count><interpretation modern_unit="l" modern_value="27360" system="dry capacity" unit="sila3" value="27360"/>1(gesz2) 3(u) 1(asz) 1(barig) gur</count> 
+a-ra2 <count><interpretation modern_unit="" modern_value="4" system="cardinal" unit="" value="4"/>4(disz)-kam</count> 
+<count><interpretation modern_unit="l" modern_value="3120" system="dry capacity" unit="sila3" value="3120"/>1(u) 2(barig) gur</count> 
+a-ra2 <count><interpretation modern_unit="" modern_value="5" system="cardinal" unit="" value="5"/>5(disz)-kam</count> 
+<count><interpretation modern_unit="l" modern_value="15120" system="dry capacity" unit="sila3" value="15120"/>5(u) 2(barig) gur</count> 
+szunigin <count><interpretation modern_unit="l" modern_value="75540" system="dry capacity" unit="sila3" value="75540"/>4(gesz2) 1(u) 1(asz) 4(barig) gur</count> 
+<com dist="1">sze</com> si-ga 
+</commodities>

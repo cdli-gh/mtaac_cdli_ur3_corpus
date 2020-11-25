@@ -1,0 +1,14 @@
+<commodities>
+#P139558 = Umma 049
+#atf: lang sux
+# calculation: (4 x 5 x 6) + (1 x 5 x 5) = 145
+<count><interpretation modern_unit="" modern_value="4" system="cardinal" unit="" value="4"/>4(disz)</count> ma2 <count><interpretation modern_unit="l" modern_value="6005" system="dry capacity" unit="sila3" value="6005"/>2(u) gur 5(disz)</count> sila3-ta 
+u4 <count><interpretation modern_unit="" modern_value="6" system="cardinal" unit="" value="6"/>6(disz)-sze3</count> 
+<count><interpretation modern_unit="" modern_value="1" system="cardinal" unit="" value="1"/>1(disz)</count> ma2 <count><interpretation modern_unit="l" modern_value="6005" system="dry capacity" unit="sila3" value="6005"/>2(u) gur 5(disz)</count> sila3-ta 
+u4 <count><interpretation modern_unit="" modern_value="5" system="cardinal" unit="" value="5"/>5(disz)-sze3</count> <com dist="1">sze-bi</com> <count><interpretation modern_unit="l" modern_value="145" system="dry capacity" unit="sila3" value="145"/>2(barig) 2(ban2) 5(disz) sila3</count> 
+umma{ki}-ta 
+ka i7-da-sze3 
+ma2 <com dist="1">bala</com> ak zi3-da 
+giri3 lugal-ezem 
+mu si-mu-ru-um{ki} lu-lu-bu{ki} ba-hul 
+</commodities>

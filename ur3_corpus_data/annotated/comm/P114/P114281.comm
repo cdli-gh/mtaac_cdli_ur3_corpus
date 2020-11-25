@@ -1,0 +1,20 @@
+<commodities>
+#P114281 = MVN 05, 061
+#atf: lang sux
+# calculation: (80 + 45 + 5) × 29 = 12;2,5
+# calculation: 40 × 29 = 3;4,2
+# calculation: 10 × 29 = 0;4,5
+# some text moved to next line
+<count><interpretation modern_unit="" modern_value="60" system="cardinal" unit="" value="60"/>1(gesz2)</count> <com dist="1">udu</com> niga <count><interpretation modern_unit="l" modern_value="1.3333333333333333" system="liquid capacity" unit="sila3" value="1.3333333333333333"/><interpretation modern_unit="l" modern_value="1.3333333333333333" system="dry capacity" unit="sila3" value="1.3333333333333333"/>1(disz) 1/3(disz) sila3</count> sze-ta 
+<count><interpretation modern_unit="" modern_value="45" system="cardinal" unit="" value="45"/>4(u) 5(disz)</count> udu niga <count><interpretation modern_unit="" modern_value="1" system="cardinal" unit="" value="1"/>1(disz)</count> sila3-ta 
+<count><interpretation modern_unit="" modern_value="10" system="cardinal" unit="" value="10"/>1(u)</count> <com dist="1">u8</com> <count><interpretation modern_unit="" modern_value="0.5" system="cardinal" unit="" value="0.5"/>1/2(disz)</count> sila3-ta 
+<count>4(ban2) sila3</count> <com dist="1">duh</com> saga-ta 
+<count><interpretation modern_unit="l" modern_value="10" system="dry capacity" unit="sila3" value="10"/>1(ban2)</count> <com dist="1">duh</com> du-ta 
+u4 <count><interpretation modern_unit="" modern_value="29" system="cardinal" unit="" value="29"/>3(u) la2 1(disz)-sze3</count> 
+szunigin <count>1(u) 2(asz) 2(barig) 5(ban2) sze gur</count> 
+szunigin <count><interpretation modern_unit="l" modern_value="1160" system="dry capacity" unit="sila3" value="1160"/>3(asz) 4(barig) 2(ban2)</count> <com dist="1">duh</com> saga gur 
+szunigin <count><interpretation modern_unit="l" modern_value="290" system="dry capacity" unit="sila3" value="290"/>4(barig) 5(ban2)</count> <com dist="1">duh</com> du gur 
+an-na-hi-li-bi 
+iti e2-iti-6(disz) 
+mu hu-uh2-nu-ri{ki} ba-hul 
+</commodities>

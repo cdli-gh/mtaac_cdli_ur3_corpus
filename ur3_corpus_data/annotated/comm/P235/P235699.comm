@@ -1,0 +1,44 @@
+<commodities>
+#P235699 = Fs Pettinato 043, 4
+#atf: lang sux
+#tr.en: 113 talent-pounds? of wool,
+#tr.en: 4 geese,
+#tr.en: 2 (barig) dates,
+#tr.en: 2 sila of lard,
+#tr.en: 2 sila 15 shekels of ...-oil,
+#tr.en: 1 ban ...
+#tr.en: 4 ban ...
+#tr.en: from Ur-kuga
+#tr.en: did Ur-šubur
+#tr.en: receive.
+#tr.en: Therefrom:
+#tr.en: 1 gur 2 (barig) barley, remaining (deficit),
+#tr.en: account, deficit.
+#tr.en: Before: Zuzu, foreman of the ...,
+#tr.en: 1 Tabbani,
+#tr.en: 1 Ur-Šumah,
+#tr.en: 1 ...-zu,
+#tr.en: 1 ...-la,
+#tr.en: Month: “Set for the bricks” (2nd month, Umma calendar)
+#tr.en: Year: “en(-priest) of Inanna was chosen by means of omens” (Ibbi-Suen 2)
+<count><interpretation modern_unit="g" modern_value="3390000.0000000005" system="weight" unit="gin2" value="406800"/>1(gesz2) 5(u) 3(asz) gu2 ma-na</count> <com dist="1">siki</com> 
+<count><interpretation modern_unit="" modern_value="4" system="cardinal" unit="" value="4"/>4(disz)</count> ku-gi4{muszen} 
+<count><interpretation modern_unit="l" modern_value="120" system="dry capacity" unit="sila3" value="120"/>2(barig)</count> zu2-lum 
+<count><interpretation modern_unit="l" modern_value="2" system="liquid capacity" unit="sila3" value="2"/><interpretation modern_unit="l" modern_value="2" system="dry capacity" unit="sila3" value="2"/>2(disz) sila3</count> i3-szah2 
+<count><interpretation modern_unit="l" modern_value="2.25" system="liquid capacity" unit="sila3" value="2.25"/><interpretation modern_unit="l" modern_value="2.25" system="dry capacity" unit="sila3" value="2.25"/>2(disz) sila3 1(u) 5(disz) gin2</count> i3 ... 
+<count><interpretation modern_unit="l" modern_value="10" system="dry capacity" unit="sila3" value="10"/>1(ban2)</count> lu2-hu-a 
+<count><interpretation modern_unit="l" modern_value="40" system="dry capacity" unit="sila3" value="40"/>4(ban2)</count> gesz x x 
+<com dist="1">ki</com> ur-ku3-ga-ta 
+ur-szubur 
+szu ba-ti 
+sza3-bi-ta 
+<count>1(asz) 2(barig) sze gur</count> si-i3-tum 
+nig2-ka9-ak la2-ia3 
+igi zu-zu ugula x x 
+<count><interpretation modern_unit="" modern_value="1" system="cardinal" unit="" value="1"/>1(disz)</count> tab-ba-a-ni 
+<count><interpretation modern_unit="" modern_value="1" system="cardinal" unit="" value="1"/>1(disz)</count> ur-{d}szu-mah 
+<count><interpretation modern_unit="" modern_value="none" system="unknown" unit="" value="none"/>1(disz) x</count> x-zu 
+<count><interpretation modern_unit="" modern_value="1" system="cardinal" unit="" value="1"/>1(disz)</count> x-la 
+iti sig4-sze3-ba-gar 
+mu en {d}inanna <com dist="1">masz2-e</com> i3-pa3 
+</commodities>

@@ -1,0 +1,16 @@
+<commodities>
+#P405984 = SM 1899.02.221
+#atf: lang sux
+#tr.en: 3 barges, 60 gur (capacity),
+#tr.en: 2 barges, 60 gur (capacity), for straw;
+#tr.en: to Ga’eš;
+#tr.en: via Bazi, son of Dingira;
+#tr.en: month: “Festival of Lisi,” 27th day completed,
+#tr.en: year: “The high-priest at Eridu was installed.”
+<count><interpretation modern_unit="" modern_value="3" system="cardinal" unit="" value="3"/>3(disz)</count> ma2 <count><interpretation modern_unit="l" modern_value="18000" system="dry capacity" unit="sila3" value="18000"/>1(gesz2) gur</count> 
+<count><interpretation modern_unit="" modern_value="2" system="cardinal" unit="" value="2"/>2(disz)</count> ma2 <count><interpretation modern_unit="" modern_value="60" system="cardinal" unit="" value="60"/>1(gesz2)</count> <com dist="1">in-nu-da</com> 
+ga-esz{ki}-sze3 
+giri3 ba-zi dumu dingir-ra 
+iti ezem-{d}li9-si4 u4 <count><interpretation modern_unit="" modern_value="27" system="cardinal" unit="" value="27"/>2(u) 7(disz)</count> ba-zal 
+mu en eridu{ki} ba-hun 
+</commodities>

@@ -1,0 +1,16 @@
+<commodities>
+#P145342 = SAT 3, 2142
+#atf: lang sux
+<count>2(ban2) sila3</count> <com dist="1">ku6</com> nam 
+tu-ra-am-i3-li2 
+lu2 ki-sur-ra-a 
+<count><interpretation modern_unit="l" modern_value="10" system="dry capacity" unit="sila3" value="10"/>1(ban2)</count> <com dist="1">ku6</com> nam a-sza3 szu-i3-li2 
+<count><interpretation modern_unit="l" modern_value="5" system="liquid capacity" unit="sila3" value="5"/><interpretation modern_unit="l" modern_value="5" system="dry capacity" unit="sila3" value="5"/>5(disz) sila3</count> <com dist="1">ku6</com> nam szesz-kal-la 
+<count><interpretation modern_unit="l" modern_value="2" system="liquid capacity" unit="sila3" value="2"/><interpretation modern_unit="l" modern_value="2" system="dry capacity" unit="sila3" value="2"/>2(disz) sila3</count> <com dist="1">ku6</com> nam mun-al 
+<count><interpretation modern_unit="l" modern_value="2" system="liquid capacity" unit="sila3" value="2"/><interpretation modern_unit="l" modern_value="2" system="dry capacity" unit="sila3" value="2"/>2(disz) sila3</count> <com dist="1">ku6</com> nam ama-kal-la 
+szunigin <count>4(ban2) sila3</count> <com dist="1">ku6</com> nam 
+<count><interpretation modern_unit="m" modern_value="66" system="length" unit="gi" value="22"/>2(u) 2(disz) gi</count> sa a-ba 
+<count><interpretation modern_unit="l" modern_value="5" system="liquid capacity" unit="sila3" value="5"/><interpretation modern_unit="l" modern_value="5" system="dry capacity" unit="sila3" value="5"/>5(disz) sila3</count> gazi szesz-kal-la ka-de2-de2 
+<count><interpretation modern_unit="l" modern_value="5" system="liquid capacity" unit="sila3" value="5"/><interpretation modern_unit="l" modern_value="5" system="dry capacity" unit="sila3" value="5"/>5(disz) sila3</count> <com dist="1">gazi</com> a-ba 
+ki ur-tum-al ba-zi 
+</commodities>

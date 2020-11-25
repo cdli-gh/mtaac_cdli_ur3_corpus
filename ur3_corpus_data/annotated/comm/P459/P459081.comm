@@ -1,0 +1,21 @@
+<commodities>
+#P459081 = Akkadica 134/1 §2.2
+#atf: lang sux
+#tr.en: 3 1/2 shekels 15 grains of silver,
+#tr.en: for interest, from Ur-Enlila,
+#tr.en: Lugal-saga,
+#tr.en: and Ur-Šumaḫ,
+#tr.en: received.
+#tr.en: month: “KuŠIM,”
+# authors su20 and Kusu
+#tr.en: the 22th day passed,
+#tr.en: year: “Simanum was destroyed.”
+<count><interpretation modern_unit="" modern_value="0.059722222222222225" system="cardinal" unit="" value="0.059722222222222225"/>3(disz) 1/2(disz) gin2 1(u) 5(disz) sze</count> <com dist="1">ku3-babbar</com> 
+ur5-sze3 ki ur-{d}en-lil2-la2-ta 
+lugal-sa6-ga 
+u3 ur-{d}szu-mah 
+szu ba-ti 
+iti ku3-SZIM 
+u4 <count><interpretation modern_unit="" modern_value="22" system="cardinal" unit="" value="22"/>2(u) 2(disz)</count> ba-zal 
+mu si-ma-num2{ki} ba-hul 
+</commodities>

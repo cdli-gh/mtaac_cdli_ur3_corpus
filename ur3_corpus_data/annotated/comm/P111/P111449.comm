@@ -1,0 +1,15 @@
+<commodities>
+#P111449 = ITT 5, 06728
+#atf: lang sux
+... <count><interpretation modern_unit="" modern_value="1" system="cardinal" unit="" value="1"/>1(disz)</count> szu-dim2 ... ma2 ... <count><interpretation modern_unit="l" modern_value="6000" system="dry capacity" unit="sila3" value="6000"/>2(u) gur</count> 
+... <count><interpretation modern_unit="" modern_value="1" system="cardinal" unit="" value="1"/>1(disz)</count> szu-dim2 ma2 <count><interpretation modern_unit="l" modern_value="18000" system="dry capacity" unit="sila3" value="18000"/>1(gesz2) gur</count> 
+... <count><interpretation modern_unit="" modern_value="1" system="cardinal" unit="" value="1"/>1(disz)</count> du5 <count><interpretation modern_unit="l" modern_value="240" system="dry capacity" unit="sila3" value="240"/>4(barig)</count> 
+... <com dist="1">{gesz}gi-musz</com> 
+<count><interpretation modern_unit="" modern_value="443" system="cardinal" unit="" value="443"/>7(gesz2) 2(u) 3(disz)</count> {gesz}mi-ri2-za 
+<count><interpretation modern_unit="" modern_value="180" system="cardinal" unit="" value="180"/>3(gesz2)</count> am3 szu ba-ti 
+... <count><interpretation modern_unit="" modern_value="3" system="cardinal" unit="" value="3"/>3(disz)</count> <com dist="1">{gesz}szu-dim2</com> ma2 x gur 
+x {gesz}ma2-gin2 ... 
+<count><interpretation modern_unit="" modern_value="5" system="cardinal" unit="" value="5"/>5(disz)</count> <com dist="1">{gesz}gi-musz</com> 
+<count><interpretation modern_unit="" modern_value="none" system="unknown" unit="" value="none"/>5(disz) ...</count> mi-ri2-za 
+mu {d}szu-{d}suen ma2-dara3-abzu li mu-hul 
+</commodities>

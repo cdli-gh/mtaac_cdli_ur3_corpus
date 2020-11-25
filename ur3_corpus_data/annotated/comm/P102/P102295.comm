@@ -1,0 +1,43 @@
+<commodities>
+#P102295 = ASJ 09, 241 20
+#atf: lang sux
+#tr.en: 8 laborers for 6 workdays, flour in the barge loaded;
+#tr.en: 10 workdays, barge punted,
+#tr.en: for 5 workdays, barge unloaded;
+#tr.en: 3 workdays, empty barge punted, floated;
+#tr.en: 5 workdays, plastering done;
+#tr.en: in Nagabtum;
+#tr.en: via boat of flour,
+#tr.en: the 1st time;
+#tr.en: 8 laborers for 7 workdays: barley loaded in the barge;
+#tr.en: 10 workdays, barge punted;
+#tr.en: 5 workdays, barge unloaded;
+#tr.en: 3 workdays, empty barge punted, floated;
+#tr.en: from Nin-nudu to Nippur;
+#tr.en: foreman: Lu-duga;
+#tr.en: under šatam seal of Lu-girizal;
+# seal impression
+#tr.en: year: “Amar-Suen (is) king.”
+#tr.en: Lu-girizal,
+#tr.en: scribe,
+#tr.en: son of Dadumu.
+<count><interpretation modern_unit="" modern_value="8" system="cardinal" unit="" value="8"/>8(disz)</count> <com dist="1">gurusz</com> u4 <count><interpretation modern_unit="" modern_value="6" system="cardinal" unit="" value="6"/>6(disz)-sze3</count> zi3 ma2-a si-ga 
+u4 <count><interpretation modern_unit="" modern_value="10" system="cardinal" unit="" value="10"/>1(u)-sze3</count> ma2 <com dist="1">gid2-da</com> 
+u4 <count><interpretation modern_unit="" modern_value="5" system="cardinal" unit="" value="5"/>5(disz)-sze3</count> ma2 ba-al-la 
+u4 <count><interpretation modern_unit="" modern_value="3" system="cardinal" unit="" value="3"/>3(disz)-sze3</count> ma2 su3 gid2-da diri-ga 
+u4 <count><interpretation modern_unit="" modern_value="5" system="cardinal" unit="" value="5"/>5(disz)-sze3</count> <com dist="1">im-du8-a</com> ak 
+sza3 na-ga-ab-tum 
+giri3 ma2 zi3-da-ka 
+a-ra2 <count><interpretation modern_unit="" modern_value="1" system="cardinal" unit="" value="1"/>1(disz)-kam</count> 
+<count><interpretation modern_unit="" modern_value="8" system="cardinal" unit="" value="8"/>8(disz)</count> <com dist="1">gurusz</com> u4 <count><interpretation modern_unit="" modern_value="0.0006481481481481481" system="cardinal" unit="" value="0.0006481481481481481"/>7(disz)-sze3 sze</count> ma2-a si-ga 
+u4 <count><interpretation modern_unit="" modern_value="10" system="cardinal" unit="" value="10"/>1(u)-sze3</count> ma2 <com dist="1">gid2-da</com> 
+u4 <count><interpretation modern_unit="" modern_value="5" system="cardinal" unit="" value="5"/>5(disz)-sze3</count> ma2 ba-al-la 
+u4 <count><interpretation modern_unit="" modern_value="3" system="cardinal" unit="" value="3"/>3(disz)-sze3</count> ma2 su3 gid2-da diri-ga 
+nin10-nu-du3-ta nibru{ki}-sze3 
+ugula lu2-du10-ga 
+kiszib3 nam-sza3-tam lu2-giri17-zal 
+mu {d}amar-{d}suen lugal 
+lu2-giri17-zal 
+dub-sar 
+dumu da-du-mu 
+</commodities>

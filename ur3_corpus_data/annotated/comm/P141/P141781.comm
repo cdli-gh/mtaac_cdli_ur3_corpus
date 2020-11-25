@@ -1,0 +1,12 @@
+<commodities>
+#P141781 = UTI 6, 3784
+#atf: lang sux
+x <count><interpretation modern_unit="l" modern_value="120" system="dry capacity" unit="sila3" value="120"/>2(barig)</count> <com dist="1">ur-ga2</com> 
+<count><interpretation modern_unit="l" modern_value="40" system="dry capacity" unit="sila3" value="40"/>4(ban2)</count> ur-ga2 
+<count><interpretation modern_unit="l" modern_value="10" system="dry capacity" unit="sila3" value="10"/>1(ban2)</count> ur-ga2 
+inim-gi-na ur-ga2 
+<count><interpretation modern_unit="l" modern_value="80" system="dry capacity" unit="sila3" value="80"/>1(barig) 2(ban2)</count> lu2-ga-a 
+<count><interpretation modern_unit="l" modern_value="40" system="dry capacity" unit="sila3" value="40"/>4(ban2)</count> lu2-ga-a dumu <com dist="1">ur-ga2</com> 
+<count><interpretation modern_unit="l" modern_value="930" system="dry capacity" unit="sila3" value="930"/>3(disz) 3(ban2)</count> ses ur-ga2 
+ur-ga2-na 
+</commodities>

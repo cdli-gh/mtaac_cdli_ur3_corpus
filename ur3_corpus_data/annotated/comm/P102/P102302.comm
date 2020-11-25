@@ -1,0 +1,60 @@
+<commodities>
+#P102302 = ASJ 09, 249 26
+#atf: lang sux
+#tr.en: ... gur barley
+#tr.en: of GANgu-fields;
+#tr.en: 9 gur prebend, Ur-Ninki;
+#tr.en: foreman: Ur-Baba;
+#tr.en: 140 gur,
+#tr.en: foreman: Da’aga;
+#tr.en: 145 gur (barley),
+#tr.en: 10 gur emmer,
+#tr.en: foreman: Šara-kam;
+#tr.en: 100 gur (from) GANgu-fields;
+#tr.en: 8 gur, prebend of Habalu,
+#tr.en: foreman: Egal-esi,
+#tr.en: field Nagabtum,
+#tr.en: threshing floor Nagabtum;
+#tr.en: 40 gur, foreman: Šara-kam,
+#tr.en: 40 gur, foreman: Egal-esi,
+#tr.en: field Abu;
+#tr.en: 140 gur, foreman: Egal-esi,
+#tr.en: field Gold-Mound;
+#tr.en: 85 gur, field Nagabtum;
+#tr.en: 30 gur, field Abu;
+#tr.en: Ø gur, field Gold-Mound;
+#tr.en: foreman: Da’aga:
+#tr.en: ... 10 gur, field Gold-Mound;
+#tr.en: n gur, field Abu;
+#tr.en: ...
+#tr.en: ...
+#tr.en: ... Gold-Mound.
+n n sze gur 
+GAN2-gu4 
+<count><interpretation modern_unit="l" modern_value="2700" system="dry capacity" unit="sila3" value="2700"/>9(asz) gur</count> <com dist="1">szuku</com> ur-{d}nin-ki 
+ugula ur-{d}ba-ba6 
+<count><interpretation modern_unit="l" modern_value="42000" system="dry capacity" unit="sila3" value="42000"/>2(gesz2) 2(u) gur</count> 
+ugula da-a-ga 
+<count><interpretation modern_unit="l" modern_value="43500" system="dry capacity" unit="sila3" value="43500"/>2(gesz2) 2(u) 5(asz) gur</count> 
+<count><interpretation modern_unit="" modern_value="10" system="cardinal" unit="" value="10"/>1(u)</count> <com dist="1">ziz2</com> gur 
+ugula {d}szara2-kam 
+<count><interpretation modern_unit="l" modern_value="30000" system="dry capacity" unit="sila3" value="30000"/>1(gesz2) 4(u) gur</count> GAN2-gu4 <count><interpretation modern_unit="" modern_value="1" system="cardinal" unit="" value="1"/>1(disz)</count> 
+<count><interpretation modern_unit="l" modern_value="2400" system="dry capacity" unit="sila3" value="2400"/>8(asz) gur</count> <com dist="1">szuku</com> ha-ba-lu5 
+ugula e2-gal-e-si 
+a-sza3 na-ga-ab-tum 
+ki-su7 na-gab2-tum 
+<count><interpretation modern_unit="l" modern_value="12000" system="dry capacity" unit="sila3" value="12000"/>4(u) gur</count> ugula {d}szara2-kam 
+<count><interpretation modern_unit="l" modern_value="12000" system="dry capacity" unit="sila3" value="12000"/>4(u) gur</count> ugula e2-gal-e-si 
+a-sza3 a-bu3 
+<count><interpretation modern_unit="l" modern_value="42000" system="dry capacity" unit="sila3" value="42000"/>2(gesz2) 2(u) gur</count> ugula e2-gal-e-si 
+a-sza3 du6-ku3-sig17 
+<count><interpretation modern_unit="l" modern_value="25500" system="dry capacity" unit="sila3" value="25500"/>1(gesz2) 2(u) 5(asz) gur</count> a-sza3 na-ga-ab-tum 
+<count><interpretation modern_unit="l" modern_value="9000" system="dry capacity" unit="sila3" value="9000"/>3(u) gur</count> a-sza3 a-bu3 
+($ blank space $) gur a-sza3 du6-ku3-sig17 
+ugula da-a-ga 
+n <count><interpretation modern_unit="l" modern_value="3000" system="dry capacity" unit="sila3" value="3000"/>1(u) gur</count> a-sza3 du6-ku3-sig17 
+n gur a-sza3 a-bu3 
+...-ba x ... 
+... <com dist="1">sahar</com> um ... 
+...-x-ka du6-ku3-sig17 
+</commodities>

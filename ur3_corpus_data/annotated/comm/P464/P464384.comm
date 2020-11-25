@@ -1,0 +1,28 @@
+<commodities>
+#P464384 = PCAS 001
+#atf: lang sux
+#tr.en: 1 bull calf, suckling;
+#tr.en: 1 fat-tailed sheep, grain-fed, fine quality;
+#tr.en: 2 sheep, grain-fed;
+#tr.en: 1 full-grown billy, grain-fed;
+#tr.en: 4 lambs:
+#tr.en: slaughtered, 14th day;
+#tr.en: from Aḫu-wer,
+#tr.en: Šulgi-irimu
+#tr.en: received;
+#tr.en: month: “Festival of An,”
+#tr.en: year: “Šašru was destroyed;”
+#tr.en: (total:) 1 ox, 8 sheep.
+<count><interpretation modern_unit="" modern_value="1" system="cardinal" unit="" value="1"/>1(disz)</count> <com dist="1">amar</com> gu4 ga 
+<count><interpretation modern_unit="" modern_value="1" system="cardinal" unit="" value="1"/>1(disz)</count> gukkal niga saga 
+<count><interpretation modern_unit="" modern_value="2" system="cardinal" unit="" value="2"/>2(disz)</count> <com dist="1">udu</com> niga 
+<count><interpretation modern_unit="" modern_value="1" system="cardinal" unit="" value="1"/>1(disz)</count> <com dist="1">masz2-gal</com> niga 
+<count><interpretation modern_unit="" modern_value="4" system="cardinal" unit="" value="4"/>4(disz)</count> <com dist="1">sila4</com> 
+ba-usz2 u4 <count><interpretation modern_unit="" modern_value="10" system="cardinal" unit="" value="10"/>1(u)</count> <count><interpretation modern_unit="" modern_value="4" system="cardinal" unit="" value="4"/>4(disz)-kam</count> 
+ki a-hu-we-er-ta 
+{d}szul-gi-iri-mu 
+<com dist="1">szu</com> ba-ti 
+iti ezem-an-na 
+mu sza-asz-ru{ki} ba-hul 
+<count><interpretation modern_unit="" modern_value="1" system="cardinal" unit="" value="1"/>1(disz)</count> <com dist="1">gu4</com> <count><interpretation modern_unit="" modern_value="8" system="cardinal" unit="" value="8"/>8(disz)</count> udu 
+</commodities>

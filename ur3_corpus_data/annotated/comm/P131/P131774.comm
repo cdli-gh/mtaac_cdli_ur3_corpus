@@ -1,0 +1,46 @@
+<commodities>
+#P131774 = TCL 05, 6060
+#atf: lang sux
+# calculation: (30 x 10)/2 = 150 = 1.5 iku
+# calculation: 30 x (23 + 21)/2 = 660 = 6.6 iku (text: 6.5)
+# calculation: 40 x (21 + 36)/2 = 1140 = 11.4 iku (text: 11.5)
+# calculation: 80 x (36 + 30)/2 = 2640 = 26.4 iku (text: 26.5)
+# calculation: 40 x (30 + 25)/2 = 1100 = 11 iku (text: 10.5)
+# calculation: (40 x 25)/2 = 500 = 5 iku
+# calculation: 30 + 30 + 40 + 80 + 40 + 40 = 260
+# calculation: 1.5 + 6.6 + 11.4 + 26.4 + 11 + 5 = 61.9 (text: 61)
+# partial erasure
+# partial erasure
+# partial erasure
+# partial erasure
+a. <count><interpretation modern_unit="" modern_value="30" system="cardinal" unit="" value="30"/>3(u)</count> 
+b. <count><interpretation modern_unit="" modern_value="10" system="cardinal" unit="" value="10"/>1(u)</count> 
+c. <count><interpretation modern_unit="m^2" modern_value="5400.0" system="surface" unit="gin2" value="9000.0"/>1(iku) 1/2(iku) gan2</count> 
+a. <count><interpretation modern_unit="" modern_value="30" system="cardinal" unit="" value="30"/>3(u)</count> 
+b1. <count><interpretation modern_unit="" modern_value="23" system="cardinal" unit="" value="23"/>2(u) 3(disz)</count> 
+b2. <count><interpretation modern_unit="" modern_value="21" system="cardinal" unit="" value="21"/>2(u) 1(disz)</count> 
+c. <count><interpretation modern_unit="m^2" modern_value="23400.0" system="surface" unit="gin2" value="39000.0"/>1(esze3) 1/2(iku) gan2</count> 
+a. <count><interpretation modern_unit="" modern_value="40" system="cardinal" unit="" value="40"/>4(u)</count> 
+b1. <count><interpretation modern_unit="" modern_value="21" system="cardinal" unit="" value="21"/>2(u) 1(disz)</count> 
+b2. <count><interpretation modern_unit="" modern_value="36" system="cardinal" unit="" value="36"/>3(u) 6(disz)</count> 
+c. <count><interpretation modern_unit="m^2" modern_value="41400.0" system="surface" unit="gin2" value="69000.0"/>1(esze3) 5(iku) 1/2(iku) gan2</count> 
+a. <count><interpretation modern_unit="" modern_value="80" system="cardinal" unit="" value="80"/>1(gesz2) 2(u)</count> 
+b1. <count><interpretation modern_unit="" modern_value="36" system="cardinal" unit="" value="36"/>3(u) 6(disz)</count> 
+b2. <count><interpretation modern_unit="" modern_value="30" system="cardinal" unit="" value="30"/>3(u)</count> 
+c. <count><interpretation modern_unit="m^2" modern_value="95400.0" system="surface" unit="gin2" value="159000.0"/>1(bur3) 1(esze3) 2(iku) 1/2(iku) gan2</count> 
+a. <count><interpretation modern_unit="" modern_value="40" system="cardinal" unit="" value="40"/>4(u)</count> 
+b1. <count><interpretation modern_unit="" modern_value="30" system="cardinal" unit="" value="30"/>3(u)</count> 
+b2. <count><interpretation modern_unit="" modern_value="25" system="cardinal" unit="" value="25"/>2(u) 5(disz)</count> 
+c. <count><interpretation modern_unit="m^2" modern_value="37800.0" system="surface" unit="gin2" value="63000.0"/>1(esze3) 4(iku) 1/2(iku) gan2</count> 
+a. <count><interpretation modern_unit="" modern_value="40" system="cardinal" unit="" value="40"/>4(u)</count> 
+b. <count><interpretation modern_unit="" modern_value="25" system="cardinal" unit="" value="25"/>2(u) 5(disz)</count> 
+c. <count><interpretation modern_unit="m^2" modern_value="18000.0" system="surface" unit="gin2" value="30000"/>5(iku) gan2</count> 
+<count><interpretation modern_unit="" modern_value="260" system="cardinal" unit="" value="260"/>4(gesz2) 2(u)</count> 
+a-sza3 u2-du-nin-a-ra-ka 
+<count><interpretation modern_unit="m^2" modern_value="219600.0" system="surface" unit="gin2" value="366000"/>3(bur3) 1(esze3) 1(iku) gan2</count> 
+... <count><interpretation modern_unit="m^2" modern_value="21600.0" system="surface" unit="gin2" value="36000"/>1(esze3) gan2</count> x 
+a. <count><interpretation modern_unit="" modern_value="20" system="cardinal" unit="" value="20"/>2(u)</count> 
+b. <count><interpretation modern_unit="" modern_value="25" system="cardinal" unit="" value="25"/>2(u) 5(disz)</count> 
+<count><interpretation modern_unit="" modern_value="14" system="cardinal" unit="" value="14"/>1(u) 4(disz)</count> 
+<count><interpretation modern_unit="" modern_value="347" system="cardinal" unit="" value="347"/>5(gesz2) 4(u) 7(disz)</count> <com dist="1">us2</com> 
+</commodities>

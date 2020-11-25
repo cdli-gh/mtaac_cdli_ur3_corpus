@@ -1,0 +1,12 @@
+<commodities>
+#P139208 = UET 9, 1078 
+#atf: lang sux 
+n ab2-mah2 
+n ab2 mu <count><interpretation modern_unit="" modern_value="3" system="cardinal" unit="" value="3"/>3(asz)</count> 
+n <com dist="1">ab2</com> mu <count><interpretation modern_unit="" modern_value="2" system="cardinal" unit="" value="2"/>2(asz)</count> 
+n <com dist="1">ab2</com> mu <count><interpretation modern_unit="" modern_value="1" system="cardinal" unit="" value="1"/>1(asz)</count> 
+n <com dist="1">ab2</com> amar-ga 
+n gu4-gesz 
+n gu4 mu <count><interpretation modern_unit="" modern_value="3" system="cardinal" unit="" value="3"/>3(asz)</count> 
+n <com dist="1">gu4</com> mu <count><interpretation modern_unit="" modern_value="2" system="cardinal" unit="" value="2"/>2(asz)</count> 
+</commodities>

@@ -1,0 +1,20 @@
+<commodities>
+#P424394 = WCMA 20.1.27
+#atf: lang sux
+#tr.en: 1 ewe,
+#tr.en: slaughtered, the 30th day,
+#tr.en: in Tummal;
+#tr.en: from Endingirmu
+#tr.en: Šulgi-irimu
+#tr.en: received;
+#tr.en: month: “festival of Ninazu,”
+#tr.en: year: “the en-priestess of Nanna was installed.”
+<count><interpretation modern_unit="" modern_value="1" system="cardinal" unit="" value="1"/>1(disz)</count> <com dist="1">u8</com> 
+ba-usz2 u4 <count><interpretation modern_unit="" modern_value="30" system="cardinal" unit="" value="30"/>3(u)-kam</count> 
+sza3 tum-ma-al 
+<com dist="1">ki</com> en-dingir-mu-ta 
+{d}szul-gi-iri-mu 
+szu ba-ti 
+iti ezem-{d}nin-a-zu 
+mu en {d}nanna ba-hun 
+</commodities>

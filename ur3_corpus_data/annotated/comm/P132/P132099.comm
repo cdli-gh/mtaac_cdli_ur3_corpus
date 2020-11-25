@@ -1,0 +1,11 @@
+<commodities>
+#P132099 = Tavolette 315
+#atf: lang sux
+<count><interpretation modern_unit="l" modern_value="20" system="liquid capacity" unit="sila3" value="20"/><interpretation modern_unit="l" modern_value="20" system="dry capacity" unit="sila3" value="20"/>2(u) sila3</count> <com dist="1">i3-gesz</com> 
+<count><interpretation modern_unit="l" modern_value="5" system="liquid capacity" unit="sila3" value="5"/><interpretation modern_unit="l" modern_value="5" system="dry capacity" unit="sila3" value="5"/>5(disz) sila3</count> i3-nun 
+<count><interpretation modern_unit="" modern_value="3" system="cardinal" unit="" value="3"/>3(disz)</count> udu 
+<count><interpretation modern_unit="" modern_value="1" system="cardinal" unit="" value="1"/>1(disz)</count> ku6-sze6 gur 
+<count><interpretation modern_unit="l" modern_value="600" system="liquid capacity" unit="sila3" value="600"/>2(u) dug</count> <com dist="1">sze</com> 
+<count><interpretation modern_unit="l" modern_value="600" system="liquid capacity" unit="sila3" value="600"/>2(u) dug</count> gi 
+<count><interpretation modern_unit="" modern_value="10" system="cardinal" unit="" value="10"/>1(u)</count> ad6 szub-ba 
+</commodities>

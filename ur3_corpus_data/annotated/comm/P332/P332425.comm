@@ -1,0 +1,44 @@
+<commodities>
+#P332425 = Fs Pettinato 312
+#atf: lang sux
+la2-ia3 <count><interpretation modern_unit="l" modern_value="10395.722222222223" system="dry capacity" unit="sila3" value="10395.722222222223"/>3(u) 4(asz) 3(barig) 1(ban2) 5(disz) 2/3(disz) sila3 3(disz) 1/3(disz) gin2 sze gur</count> 
+<count><interpretation modern_unit="l" modern_value="0.41666666666666663" system="liquid capacity" unit="sila3" value="0.41666666666666663"/><interpretation modern_unit="l" modern_value="0.41666666666666663" system="dry capacity" unit="sila3" value="0.41666666666666663"/>1/3(disz) sila3 5(disz) gin2</count> <com dist="1">i3-nun</com> du10-ga 
+<count><interpretation modern_unit="l" modern_value="4" system="liquid capacity" unit="sila3" value="4"/><interpretation modern_unit="l" modern_value="4" system="dry capacity" unit="sila3" value="4"/>4(disz) sila3</count> <com dist="1">i3-gesz</com> du10-ga 
+<count><interpretation modern_unit="" modern_value="none" system="unknown" unit="" value="none"/>3(u) 3(asz) 1(ban2) 6(disz) sila3 8(disz) gin2 ...</count> 
+<count><interpretation modern_unit="l" modern_value="5" system="liquid capacity" unit="sila3" value="5"/><interpretation modern_unit="l" modern_value="5" system="dry capacity" unit="sila3" value="5"/>5(disz) sila3</count> <com dist="1">gesztin</com> had2 
+<count><interpretation modern_unit="l" modern_value="6" system="liquid capacity" unit="sila3" value="6"/><interpretation modern_unit="l" modern_value="6" system="dry capacity" unit="sila3" value="6"/>6(disz) sila3</count> <com dist="1">pesz3</com> had2 
+<count><interpretation modern_unit="" modern_value="2" system="cardinal" unit="" value="2"/>2(disz)</count> <com dist="1">{gesz}pesz3</com> sze-er-gu 
+<count><interpretation modern_unit="l" modern_value="1000.6666666666666" system="dry capacity" unit="sila3" value="1000.6666666666666"/>3(asz) 1(barig) 4(ban2) 2/3(disz) sila3</count> gazi gur 
+<count><interpretation modern_unit="l" modern_value="1.5" system="liquid capacity" unit="sila3" value="1.5"/><interpretation modern_unit="l" modern_value="1.5" system="dry capacity" unit="sila3" value="1.5"/>1(disz) 1/2(disz) sila3</count> gu2-gal 
+<count><interpretation modern_unit="l" modern_value="0.6" system="liquid capacity" unit="sila3" value="0.6"/><interpretation modern_unit="l" modern_value="0.6" system="dry capacity" unit="sila3" value="0.6"/>1/2(disz) sila3 6(disz) gin2</count> <com dist="1">gu2-tur</com> 
+<count><interpretation modern_unit="" modern_value="60" system="cardinal" unit="" value="60"/>1(gesz2)</count> igi-sag <com dist="1">szum2</com> gaz 
+<count><interpretation modern_unit="l" modern_value="394.66666666666663" system="dry capacity" unit="sila3" value="394.66666666666663"/>1(asz) 1(barig) 3(ban2) 4(disz) 2/3(disz) sila3</count> <com dist="1">duh</com> saga gur 
+<count><interpretation modern_unit="l" modern_value="23972.666666666664" system="dry capacity" unit="sila3" value="23972.666666666664"/>1(gesz2) 1(u) 9(asz) 4(barig) 3(ban2) 2(disz) 2/3(disz) sila3</count> <com dist="1">duh</com> du gur 
+<count><interpretation modern_unit="" modern_value="5" system="cardinal" unit="" value="5"/>5(disz)</count> <com dist="1">{gesz}gu-za</com> nita szinig 
+<count><interpretation modern_unit="" modern_value="1" system="cardinal" unit="" value="1"/>1(disz)</count> {gesz}banszur szinig 
+<count><interpretation modern_unit="" modern_value="60" system="cardinal" unit="" value="60"/>1(gesz2)</count> kusz udu 
+la2-ia3-am3 
+diri <count><interpretation modern_unit="l" modern_value="79.88333333333333" system="dry capacity" unit="sila3" value="79.88333333333333"/>1(barig) 1(ban2) 9(disz) 5/6(disz) sila3 3(disz) gin2</count> <com dist="1">i3-gesz</com> 
+<count><interpretation modern_unit="l" modern_value="223.83333333333334" system="dry capacity" unit="sila3" value="223.83333333333334"/>3(barig) 4(ban2) 3(disz) 5/6(disz) sila3</count> i3-szah2 
+<count><interpretation modern_unit="g" modern_value="7833.333333333334" system="weight" unit="gin2" value="940.0"/>1(u) 5(disz) 2/3(disz) ma-na</count> szimx(KWU752) <com dist="1">hi-a</com> 
+<count><interpretation modern_unit="l" modern_value="12" system="dry capacity" unit="sila3" value="12"/>1(ban2) 2(disz) sila3</count> szimx(KWU745) <com dist="1">hi-a</com> 
+<count><interpretation modern_unit="l" modern_value="40" system="dry capacity" unit="sila3" value="40"/>4(ban2)</count> sze-lu2 
+<count><interpretation modern_unit="l" modern_value="10" system="dry capacity" unit="sila3" value="10"/>1(ban2)</count> {u2}gamun2 babbar 
+<count><interpretation modern_unit="" modern_value="9850" system="cardinal" unit="" value="9850"/>2(szar2) 4(geszu) 4(gesz2) 1(u)</count> sa szum2 gaz 
+<count><interpretation modern_unit="l" modern_value="4.583333333333334" system="liquid capacity" unit="sila3" value="4.583333333333334"/><interpretation modern_unit="l" modern_value="4.583333333333334" system="dry capacity" unit="sila3" value="4.583333333333334"/>3(asz) 1(disz) 1/2(disz) sila3 5(disz) gin2</count> <com dist="1">esir2</com> E2-A gur 
+<count><interpretation modern_unit="g" modern_value="2790000.0" system="weight" unit="gin2" value="334800"/>1(gesz2) 3(u) 3(asz) gu2 ma-na</count> <com dist="1">esir2</com> had2 
+<count><interpretation modern_unit="g" modern_value="180000.0" system="weight" unit="gin2" value="21600"/>6(asz) gu2</count> <com dist="1">esir2</com> hur-sag 
+<count><interpretation modern_unit="l" modern_value="16" system="dry capacity" unit="sila3" value="16"/>1(ban2) 6(disz) sila3</count> li2-iq-tum al-la-ha-ru 
+<count><interpretation modern_unit="g" modern_value="105000.00000000001" system="weight" unit="gin2" value="12600"/>3(asz) gu2 3(u) ma-na</count> <com dist="1">im-babbar2</com> 
+<count><interpretation modern_unit="l" modern_value="425" system="dry capacity" unit="sila3" value="425"/>1(asz) 2(barig) 5(disz) sila3</count> naga si-e3 gur 
+<count><interpretation modern_unit="" modern_value="1" system="cardinal" unit="" value="1"/>1(disz)</count> szah2-ze2-da 
+<count><interpretation modern_unit="" modern_value="1" system="cardinal" unit="" value="1"/>1(disz)</count> uz-tur niga 
+diri-am3 
+diri la2-ia3 nig2-ka9 sza3-ze2 
+sza3 a-pi4-sal4{ki} 
+kiszib3 lu2-{d}ha-ia3 
+mu en {d}inanna unu{ki} <com dist="1">masz2-e</com> i3-pa3 
+lu2-{d}ha-ia3 
+dub-sar 
+dumu ur-e11-e szusz3 
+</commodities>

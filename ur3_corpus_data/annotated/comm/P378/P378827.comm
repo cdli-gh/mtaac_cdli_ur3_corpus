@@ -1,0 +1,21 @@
+<commodities>
+#P378827 = PPAC 5, 1059
+#atf: lang sux
+# some text moved to next line
+<count>4(asz) 1(barig) 4(ban2) sze gur</count> lugal 
+kiszib3 ur-szu-ga-lam-ma 
+<count><interpretation modern_unit="l" modern_value="1130" system="dry capacity" unit="sila3" value="1130"/>3(asz) 3(barig) 5(ban2) gur</count> 
+kiszib3 iri-lal3 
+<count><interpretation modern_unit="l" modern_value="1335" system="dry capacity" unit="sila3" value="1335"/>4(asz) 2(barig) 1(ban2) 5(disz) sila3 gur</count> 
+kiszib3 lu2-gu-la 
+<count><interpretation modern_unit="l" modern_value="800" system="dry capacity" unit="sila3" value="800"/>2(asz) 3(barig) 2(ban2) gur</count> 
+kiszib3 ur-nigar{gar} 
+<count><interpretation modern_unit="l" modern_value="690" system="dry capacity" unit="sila3" value="690"/>2(asz) 1(barig) 3(ban2) gur</count> 
+kiszib3 nu-tuku 
+kiszib3 ur-nig2 dumu lu2-tug2-gal 
+szunigin <count><interpretation modern_unit="l" modern_value="5315" system="dry capacity" unit="sila3" value="5315"/>1(u) 7(asz) 3(barig) 3(ban2) 5(disz) sila3 sze gur</count> lugal 
+<com dist="1">sze-ba</com> 
+iti mu-szu-du7 
+a-ra2 <count><interpretation modern_unit="" modern_value="1" system="cardinal" unit="" value="1"/>1(disz)-kam</count> 
+mu us2-sa ki-masz{ki} ba-hul mu <com dist="1">us2-sa-bi</com> 
+</commodities>

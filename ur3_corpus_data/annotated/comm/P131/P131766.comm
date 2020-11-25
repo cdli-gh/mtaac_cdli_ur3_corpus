@@ -1,0 +1,114 @@
+<commodities>
+#P131766 = TCL 05, 6052
+#atf: lang sux
+#tr.de: Ø Kor ‘Schweinefett’-Gerste,
+#tr.de: das dazugehörige Silber(äquivalent): Ø,
+#tr.de: von ARAD2.
+#tr.de: Ø Kor Gerste,
+#tr.de: das dazugehörige Silber(äquivalent): 5/6 mana.
+#tr.de: Es ist ,Schweinefett’-Gerste der Zusatzpflugrindführer (?)
+#tr.de: von (ihrem) Aufseher Akala.
+#tr.de: 6 Last Wolle, das dazugehörige Silber(äquivalent): 2/3 mana.
+#tr.de: 420 Felle verendeter Schafe,
+#tr.de: das dazugehörige Silber(äquivalent): 4 2/3 Sekel.
+#tr.de: 25 Lederschläuche,
+#tr.de: das dazugehörige Silber(äquivalent): 1 1/3 Sekel, 10 Gran.
+#tr.de: 65 mašli’um-Ledersäcke,
+#tr.de: das dazugehörige Silber(äquivalent): 1 2/3 Sekel, 25 Gran.
+#tr.de: 40 Paar lederne Sandalen,
+#tr.de: 5 Paar lederne šulila-Sandalen,
+#tr.de: das dazugehörige Silber(äquivalent): 2 5/6 Sekel, 15 Gran.
+#tr.de: 12.570 girus-Fische,
+#tr.de: das dazugehörige Silber(äquivalent): 16 Sekel, 20 Gran.
+#tr.de: 1380 ausgenommene Fische,
+#tr.de: das dazugehörige Silber(äquivalent): 3 1/2 Sekel minus 6 Gran.
+#tr.de: 1980 geköpfte Fische,
+#tr.de: das dazugehörige Silber(äquivalent): 2 1/6 Sekel, 6 Gran.
+#tr.de: 3 Kor, 1 barig 2 ban2 4 sila3 geräucherter Fisch,
+#tr.de: das dazugehörige Silber(äquivalent): 1 1/2 Sekel, 25 Gran.
+#tr.de: 600 ausgenommene Fische niedriger Qualität,
+#tr.de: das dazugehörige Silber(äquivalent): 1/3 Sekel, 10 minus 1 Gran.
+#tr.de: 660 geköpfte Fische niedriger Qualität,
+#tr.de: das dazugehörige Silber(äquivalent): 1/3 Sekel, 16 Gran.
+#tr.de: 960 Aale,
+#tr.de: das dazugehörige Silber(äquivalent): 1 Sekel, 12 Gran.
+#tr.de: 24 Kor, 4 barig 2 ban2 Datteln,
+#tr.de: das dazugehörige Silber(äquivalent): 16 1/2 Sekel, 14 Gran.
+#tr.de: Jahr: ‘Enmahgalana’ (Amar-Suen 4).
+#tr.de: 97 Kor Datteln,
+#tr.de: das dazugehörige Silber(äquivalent): 1 mana, 4 2/3 Sekel,
+#tr.de: Jahr: ‘En-unugal-Inanna’ (Amar-Suen 5).
+#tr.de: Zusammen: 3 1/3 mana, 7 1/3 Sekel minus 2 Gran Silber.
+#tr.de: Davon:
+#tr.de: 1/3 mana minus 1/2 Sekel Silber
+#tr.de: das erste Mal,
+#tr.de: 5/6 mana, 5 Sekel Silber
+#tr.de: das zweite Mal
+#tr.de: hat Lukala empfangen.
+#tr.de: 2 barig Pflanzenöl,
+#tr.de: das dazugehörige Silber(äquivalent): 9 Sekel,
+#tr.de: hat Ur-Šulpae empfangen.
+#tr.de: 4 1/3 mana, 8 Sekel Kupfer,
+#tr.de: das dazugehörige Silber(äquivalent): 2 5/6 Sekel, 26 Gran,
+#tr.de: hat Lu-Enlila empfangen.
+#tr.de: Zusammen: 1 1/3 mana, 6 1/3 Sekel, 26 <Gran> Silber
+#tr.de: abgebucht.
+#tr.de: Der Fehlbetrag: 2 mana, 5/6 Sekel, 2 Gran Silber.
+#tr.de: Abrechnung des Tauschagenten Inimanizi.
+#tr.de: Jahr: ‘En-unugal-Inanna wurde eingesetzt’ (=Amar-Suen 5).
+($ blank space $) sze i3-szah2 gur 
+ku3-bi ($ blank space $) 
+ki ARAD2-ta 
+($ blank space $) sze gur 
+ku3-bi <count><interpretation modern_unit="g" modern_value="416.6666666666667" system="weight" unit="gin2" value="50.0"/>5/6(disz) ma-na</count> 
+sze i3-szah2 engar-gu4 diri 
+<com dist="1">ki</com> a-kal-la nu-banda3-ta 
+<count><interpretation modern_unit="g" modern_value="180000.0" system="weight" unit="gin2" value="21600"/>6(asz) gu2</count> <com dist="1">siki</com> ku3-bi <count><interpretation modern_unit="g" modern_value="333.33333333333337" system="weight" unit="gin2" value="40.0"/>2/3(disz) ma-na</count> 
+<count><interpretation modern_unit="" modern_value="420" system="cardinal" unit="" value="420"/>7(gesz2)</count> su udu ba-usz2 
+ku3-bi <count><interpretation modern_unit="" modern_value="0.07777777777777778" system="cardinal" unit="" value="0.07777777777777778"/>4(disz) 2/3(disz) gin2</count> 
+<count><interpretation modern_unit="" modern_value="25" system="cardinal" unit="" value="25"/>2(u) 5(disz)</count> <com dist="1">{kusz}ummu3</com> 
+ku3-bi <count><interpretation modern_unit="" modern_value="0.023148148148148147" system="cardinal" unit="" value="0.023148148148148147"/>1(disz) 1/3(disz) gin2 1(u) sze</count> 
+<count><interpretation modern_unit="" modern_value="65" system="cardinal" unit="" value="65"/>1(gesz2) 5(disz)</count> <com dist="1">{kusz}a-ga2-la2</com> masz2-li2-um 
+ku3-bi <count><interpretation modern_unit="" modern_value="0.03009259259259259" system="cardinal" unit="" value="0.03009259259259259"/>1(disz) 2/3(disz) gin2 2(u) 5(disz) sze</count> 
+<count><interpretation modern_unit="" modern_value="40" system="cardinal" unit="" value="40"/>4(u)</count> <com dist="1">{kusz}e-sir2</com> e2-ba-an 
+<count><interpretation modern_unit="" modern_value="5" system="cardinal" unit="" value="5"/>5(disz)</count> <com dist="1">{kusz}e-sir2</com> e-ba-an szu li-la 
+ku3-bi <count><interpretation modern_unit="" modern_value="0.04861111111111111" system="cardinal" unit="" value="0.04861111111111111"/>2(disz) 5/6(disz) gin2 1(u) 5(disz) sze</count> 
+<count><interpretation modern_unit="" modern_value="12570" system="cardinal" unit="" value="12570"/>3(szar2) 2(geszu) 9(gesz2) 3(u)</count> <com dist="1">ku6</com> gir2-us2 
+ku3-bi <count><interpretation modern_unit="" modern_value="0.2685185185185185" system="cardinal" unit="" value="0.2685185185185185"/>1(u) 6(disz) gin2 2(u) sze</count> 
+<count><interpretation modern_unit="" modern_value="1380" system="cardinal" unit="" value="1380"/>2(geszu) 3(gesz2)</count> <com dist="1">ku6</com> sza3-bar 
+ku3-bi <count><interpretation modern_unit="" modern_value="0.05777777777777778" system="cardinal" unit="" value="0.05777777777777778"/>3(disz) 1/2(disz) gin2 la2 6(disz) sze</count> 
+<count><interpretation modern_unit="" modern_value="1980" system="cardinal" unit="" value="1980"/>3(geszu) 3(gesz2)</count> <com dist="1">ku6</com> sag-kur2 
+ku3-bi <count><interpretation modern_unit="" modern_value="0.20055555555555554" system="cardinal" unit="" value="0.20055555555555554"/>2(disz) gin2 igi-6(disz)-gal2 6(disz) sze</count> 
+<count><interpretation modern_unit="l" modern_value="984" system="dry capacity" unit="sila3" value="984"/>3(asz) 1(barig) 2(ban2) 4(disz) sila3</count> ku6-sze6 gur 
+<com dist="1">ku3-bi</com> <count><interpretation modern_unit="" modern_value="0.027314814814814813" system="cardinal" unit="" value="0.027314814814814813"/>1(disz) 1/2(disz) gin2 2(u) 5(disz) sze</count> 
+<count><interpretation modern_unit="" modern_value="600" system="cardinal" unit="" value="600"/>1(geszu)</count> <com dist="1">ku6</com> sza3-bar sig 
+ku3-bi <count><interpretation modern_unit="" modern_value="0.006388888888888888" system="cardinal" unit="" value="0.006388888888888888"/>1/3(disz) gin2 1(u) la2 1(disz) sze</count> 
+<count><interpretation modern_unit="" modern_value="660" system="cardinal" unit="" value="660"/>1(geszu) 1(gesz2)</count> <com dist="1">ku6</com> sag-kur2 sig 
+ku3-bi <count><interpretation modern_unit="" modern_value="0.007037037037037036" system="cardinal" unit="" value="0.007037037037037036"/>1/3(disz) gin2 1(u) 6(disz) sze</count> 
+<count><interpretation modern_unit="" modern_value="960" system="cardinal" unit="" value="960"/>1(geszu) 6(gesz2)</count> <com dist="1">ku6</com> gam-gam 
+ku3-bi <count><interpretation modern_unit="" modern_value="0.017777777777777778" system="cardinal" unit="" value="0.017777777777777778"/>1(disz) gin2 1(u) 2(disz) sze</count> 
+<count><interpretation modern_unit="l" modern_value="7460" system="dry capacity" unit="sila3" value="7460"/>2(u) 4(asz) 4(barig) 2(ban2)</count> <com dist="1">zu2-lum</com> gur 
+ku3-bi <count><interpretation modern_unit="" modern_value="0.27629629629629626" system="cardinal" unit="" value="0.27629629629629626"/>1(u) 6(disz) 1/2(disz) gin2 1(u) 4(disz) sze</count> 
+mu en-mah-gal-an-na 
+<count><interpretation modern_unit="" modern_value="97" system="cardinal" unit="" value="97"/>1(gesz2) 3(u) 7(asz)</count> <com dist="1">zu2-lum</com> gur 
+ku3-bi <count><interpretation modern_unit="g" modern_value="538.8888888888889" system="weight" unit="gin2" value="64.66666666666667"/>1(disz) ma-na 4(disz) 2/3(disz) gin2</count> 
+mu en-unu6-gal {d}inanna 
+szunigin <count><interpretation modern_unit="g" modern_value="1727.6851851851852" system="weight" unit="gin2" value="207.32222222222222"/>3(disz) 1/3(disz) ma-na 7(disz) 1/3(disz) gin2 la2 2(disz) sze</count> <com dist="1">ku3-babbar</com> 
+sza3-bi-ta 
+<count><interpretation modern_unit="g" modern_value="162.5" system="weight" unit="gin2" value="19.5"/>1/3(disz) ma-na la2 1/2(disz) gin2</count> <com dist="1">ku3-babbar</com> 
+a-ra2 <count><interpretation modern_unit="" modern_value="1" system="cardinal" unit="" value="1"/>1(disz)-kam</count> 
+<count><interpretation modern_unit="g" modern_value="458.33333333333337" system="weight" unit="gin2" value="55.0"/>5/6(disz) ma-na 5(disz) gin2</count> <com dist="1">ku3-babbar</com> 
+a-ra2 <count><interpretation modern_unit="" modern_value="2" system="cardinal" unit="" value="2"/>2(disz)-kam</count> 
+lu2-kal-la <com dist="1">szu</com> ba-ti 
+<count><interpretation modern_unit="l" modern_value="120" system="dry capacity" unit="sila3" value="120"/>2(barig)</count> <com dist="1">i3-gesz</com> 
+ku3-bi <count><interpretation modern_unit="" modern_value="0.15" system="cardinal" unit="" value="0.15"/>9(disz) gin2</count> 
+ur-{d}szul-pa-e3 <com dist="1">szu</com> ba-ti 
+<count><interpretation modern_unit="g" modern_value="2233.3333333333335" system="weight" unit="gin2" value="268.0"/>4(disz) 1/3(disz) ma-na 8(disz) gin2</count> <com dist="1">uruda</com> 
+ku3-bi <count><interpretation modern_unit="" modern_value="0.049629629629629635" system="cardinal" unit="" value="0.049629629629629635"/>2(disz) 5/6(disz) gin2 2(u) 6(disz) sze</count> 
+lu2-{d}en-lil2-la2 <com dist="1">szu</com> ba-ti 
+szunigin <count><interpretation modern_unit="g" modern_value="720.6481481481482" system="weight" unit="gin2" value="86.47777777777777"/>1(disz) 1/3(disz) ma-na 6(disz) 1/3(disz) gin2 2(u) 6(disz) sze</count> <com dist="1">ku3-babbar</com> 
+zi-ga-am3 
+la2-ia3 <count><interpretation modern_unit="g" modern_value="1007.0370370370372" system="weight" unit="gin2" value="120.84444444444445"/>2(disz) ma-na 5/6(disz) gin2 2(disz) sze</count> <com dist="1">ku3-babbar</com> 
+nig2-ka9-ak inim-ma-ni-zi dam-gar3 
+mu en-unu6-gal {d}inanna ba-hun 
+</commodities>

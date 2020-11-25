@@ -1,0 +1,22 @@
+<commodities>
+#P140738 = UTI 4, 2719
+#atf: lang sux
+# some text moved to next line
+<count><interpretation modern_unit="l" modern_value="1350" system="liquid capacity" unit="sila3" value="1350"/>4(u) 5(disz) dug</count> gal 
+<count><interpretation modern_unit="l" modern_value="150" system="liquid capacity" unit="sila3" value="150"/>5(disz) dug</count> <count><interpretation modern_unit="l" modern_value="15" system="dry capacity" unit="sila3" value="15"/>1(ban2) 5(disz) sila3</count> 
+<count><interpretation modern_unit="l" modern_value="600" system="liquid capacity" unit="sila3" value="600"/>2(u) dug</count> <com dist="1">ninda</com> <count><interpretation modern_unit="l" modern_value="5" system="liquid capacity" unit="sila3" value="5"/><interpretation modern_unit="l" modern_value="5" system="dry capacity" unit="sila3" value="5"/>5(disz) sila3</count> 
+<count><interpretation modern_unit="l" modern_value="60" system="liquid capacity" unit="sila3" value="60"/>2(disz) dug</count> <com dist="1">ninda</com> <count><interpretation modern_unit="l" modern_value="3" system="liquid capacity" unit="sila3" value="3"/><interpretation modern_unit="l" modern_value="3" system="dry capacity" unit="sila3" value="3"/>3(disz) sila3</count> 
+<count><interpretation modern_unit="l" modern_value="30" system="liquid capacity" unit="sila3" value="30"/>1(disz) dug</count> <com dist="1">ninda</com> <count><interpretation modern_unit="l" modern_value="2" system="liquid capacity" unit="sila3" value="2"/><interpretation modern_unit="l" modern_value="2" system="dry capacity" unit="sila3" value="2"/>2(disz) sila3</count> 
+<count><interpretation modern_unit="l" modern_value="120" system="liquid capacity" unit="sila3" value="120"/>4(disz) dug</count> udul2 
+x dug da-bi2-tum 
+x dug sila3 sa2-du11 
+<count><interpretation modern_unit="l" modern_value="30" system="liquid capacity" unit="sila3" value="30"/>1(disz) dug</count> kaskal <count><interpretation modern_unit="l" modern_value="1" system="liquid capacity" unit="sila3" value="1"/><interpretation modern_unit="l" modern_value="1" system="dry capacity" unit="sila3" value="1"/>1(disz) sila3</count> 
+a-bu-um-sze3 
+<com dist="1">ki</com> inim-{d}szara2-ta 
+kiszib3 a-gu 
+iti dal 
+mu {d}szu-{d}suen lugal 
+a-gu 
+dub-sar 
+dumu lugal-e2-mah-e 
+</commodities>

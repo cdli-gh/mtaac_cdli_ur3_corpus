@@ -1,0 +1,16 @@
+<commodities>
+#P387955 = Nisaba 15, 0168
+#atf: lang sux
+# calculation: (199 + (11 ÷ 2)) x 360 = 73,620
+<count><interpretation modern_unit="" modern_value="199" system="cardinal" unit="" value="199"/>3(gesz2) 1(u) 9(disz)</count> geme2 sag-dub 
+<count><interpretation modern_unit="" modern_value="11" system="cardinal" unit="" value="11"/>1(u) 1(disz)</count> geme2 a2 <count><interpretation modern_unit="" modern_value="0.5" system="cardinal" unit="" value="0.5"/>1/2(disz)</count> 
+iti <com dist="1">{gesz}apin</com> 
+mu en eridu{ki} ba-hul-ta 
+iti szu-gar-gal 
+mu en {d}nanna kar-zi-da ba-hun-a-sze3 
+mu-bi mu <count><interpretation modern_unit="" modern_value="2" system="cardinal" unit="" value="2"/>2(disz)-am3</count> 
+iti-bi iti <count><interpretation modern_unit="" modern_value="12" system="cardinal" unit="" value="12"/>1(u) 2(disz)-am3</count> 
+<com dist="1">a2-bi</com> <count><interpretation modern_unit="" modern_value="73620" system="cardinal" unit="" value="73620"/>2(szar'u) 2(geszu) 7(gesz2)</count> geme2 u4 <count><interpretation modern_unit="" modern_value="1" system="cardinal" unit="" value="1"/>1(disz)-sze3</count> 
+sza3 gurum2 sag mu-kux(DU)-ta 
+ur-{d}hendur-sag ugula <com dist="1">usz-bar-ta</com> 
+</commodities>

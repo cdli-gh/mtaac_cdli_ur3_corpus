@@ -1,0 +1,18 @@
+<commodities>
+#P140094 = UTI 3, 2075
+#atf: lang sux
+<count><interpretation modern_unit="l" modern_value="2880" system="liquid capacity" unit="sila3" value="2880"/>1(gesz2) 3(u) 6(disz) dug</count> <count><interpretation modern_unit="l" modern_value="30" system="dry capacity" unit="sila3" value="30"/>3(ban2)</count> 
+<count><interpretation modern_unit="l" modern_value="3480" system="liquid capacity" unit="sila3" value="3480"/>1(gesz2) 5(u) 6(disz) dug</count> gal 
+<count><interpretation modern_unit="l" modern_value="3300" system="liquid capacity" unit="sila3" value="3300"/>1(gesz2) 5(u) dug</count> <count><interpretation modern_unit="l" modern_value="15" system="dry capacity" unit="sila3" value="15"/>1(ban2) 5(disz) sila3</count> 
+<count><interpretation modern_unit="l" modern_value="1800" system="liquid capacity" unit="sila3" value="1800"/>1(gesz2) dug</count> ugu4-TUL2 
+<count><interpretation modern_unit="l" modern_value="1800" system="liquid capacity" unit="sila3" value="1800"/>1(gesz2) dug</count> ugu4-bala 
+<count><interpretation modern_unit="l" modern_value="1800" system="liquid capacity" unit="sila3" value="1800"/>1(gesz2) dug</count> lam-re6 
+<count><interpretation modern_unit="l" modern_value="1050" system="liquid capacity" unit="sila3" value="1050"/>3(u) 5(disz) dug</count> ninda <count><interpretation modern_unit="l" modern_value="5" system="liquid capacity" unit="sila3" value="5"/><interpretation modern_unit="l" modern_value="5" system="dry capacity" unit="sila3" value="5"/>5(disz) sila3</count> 
+<count><interpretation modern_unit="l" modern_value="150" system="liquid capacity" unit="sila3" value="150"/>5(disz) dug</count> <com dist="1">ninda</com> <count><interpretation modern_unit="l" modern_value="2" system="liquid capacity" unit="sila3" value="2"/><interpretation modern_unit="l" modern_value="2" system="dry capacity" unit="sila3" value="2"/>2(disz) sila3</count> 
+ki inim-{d}szara2-ta 
+kiszib3 <count><interpretation modern_unit="" modern_value="1" system="cardinal" unit="" value="1"/>1(disz)-a</count> <com dist="1">lugal-e</com> 
+mu {d}szu-{d}suen lugal 
+lugal-e 
+dumu su-tur 
+lu2 lunga 
+</commodities>

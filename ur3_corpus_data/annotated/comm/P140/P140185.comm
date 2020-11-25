@@ -1,0 +1,15 @@
+<commodities>
+#P140185 = UTI 3, 2166
+#atf: lang sux
+<count><interpretation modern_unit="bricks" modern_value="1836000.0" system="bricks" unit="gin2" value="153000.0"/><interpretation modern_unit="m^2" modern_value="7650.0" system="surface" unit="gin2" value="12750.0"/><interpretation modern_unit="l" modern_value="3825000.0" system="volume" unit="gin2" value="12750.0"/>3(gesz2) 3(u) 2(disz) 1/2(disz) sar</count> gu2-gal 
+<count><interpretation modern_unit="bricks" modern_value="1836000.0" system="bricks" unit="gin2" value="153000.0"/><interpretation modern_unit="m^2" modern_value="7650.0" system="surface" unit="gin2" value="12750.0"/><interpretation modern_unit="l" modern_value="3825000.0" system="volume" unit="gin2" value="12750.0"/>3(gesz2) 3(u) 2(disz) 1/2(disz) sar</count> <com dist="1">gu2-tur</com> 
+sza3-ba <count><interpretation modern_unit="bricks" modern_value="259200" system="bricks" unit="gin2" value="21600"/><interpretation modern_unit="m^2" modern_value="1080.0" system="surface" unit="gin2" value="1800"/><interpretation modern_unit="l" modern_value="540000" system="volume" unit="gin2" value="1800"/>3(u) sar</count> su3 i3-gal2 
+<count><interpretation modern_unit="bricks" modern_value="2332800" system="bricks" unit="gin2" value="194400"/><interpretation modern_unit="m^2" modern_value="9720.0" system="surface" unit="gin2" value="16200"/><interpretation modern_unit="l" modern_value="4860000" system="volume" unit="gin2" value="16200"/>4(gesz2) 3(u) sar</count> sze-lu2 sza3-ba <count><interpretation modern_unit="bricks" modern_value="864000" system="bricks" unit="gin2" value="72000"/><interpretation modern_unit="m^2" modern_value="3600.0" system="surface" unit="gin2" value="6000"/><interpretation modern_unit="l" modern_value="1800000" system="volume" unit="gin2" value="6000"/>1(gesz2) 4(u) sar</count> su3 i3-gal2 
+<count><interpretation modern_unit="bricks" modern_value="1900800" system="bricks" unit="gin2" value="158400"/><interpretation modern_unit="m^2" modern_value="7920.0" system="surface" unit="gin2" value="13200"/><interpretation modern_unit="l" modern_value="3960000" system="volume" unit="gin2" value="13200"/>3(gesz2) 4(u) sar</count> szum2-sikil 
+szunigin <count><interpretation modern_unit="m^2" modern_value="32400.0" system="surface" unit="gin2" value="54000"/>1(esze3) 3(iku) gan2</count> ki-sar 
+a-sza3 ugur2-tur 
+a-sza3 <com dist="1">gid2-da</com> buru14 
+a-sza3 la2-tur 
+lu2-{d}... i3-dab5 
+mu us2-sa na-ru2-a-mah ba-du3 
+</commodities>

@@ -1,0 +1,25 @@
+<commodities>
+#P453801 = Nisaba 15, 0371
+#atf: lang sux
+#tr.en: 1 sila3 sesame oil,
+#tr.en: for Nanasa;
+#tr.en: 1 sila3, for Samar;
+#tr.en: 1/2 sila3, for Ali’aḫī, his wife;
+#tr.en: oil rations: men of Meluḫḫa;
+#tr.en: royal offerings,
+#tr.en: herdsmen of mountain goats;
+#tr.en: booked out;
+# some text moved to next line
+#tr.en: month “Harvest,”
+#tr.en: year: “Šu-Suen, king of Ur, Big-stele for Enlil and Ninlil made.”
+<count><interpretation modern_unit="l" modern_value="1" system="liquid capacity" unit="sila3" value="1"/><interpretation modern_unit="l" modern_value="1" system="dry capacity" unit="sila3" value="1"/>1(disz) sila3</count> <com dist="1">i3-gesz</com> 
+na-na-sa3 
+<count><interpretation modern_unit="l" modern_value="1" system="liquid capacity" unit="sila3" value="1"/><interpretation modern_unit="l" modern_value="1" system="dry capacity" unit="sila3" value="1"/>1(disz) sila3</count> sa6-ma-ar 
+<count><interpretation modern_unit="l" modern_value="0.5" system="liquid capacity" unit="sila3" value="0.5"/><interpretation modern_unit="l" modern_value="0.5" system="dry capacity" unit="sila3" value="0.5"/>1/2(disz) sila3</count> a-li-a-hi dam-a-ni 
+<com dist="1">i3-ba</com> lu2 me-luh-ha{ki}-me 
+a-ru-a lugal 
+sipa a-dara4-me 
+zi-ga 
+iti sze-sag11-ku5 
+mu {d}szu-{d}suen lugal uri5{ki}-ma-ke4 na-ru2-a-mah {d}en-lil2 {d}nin-lil2-ra mu-ne-dim2 
+</commodities>

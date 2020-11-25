@@ -1,0 +1,16 @@
+<commodities>
+#P135942 = UCP 9-2-1, 038
+#atf: lang sux
+... en ... 
+... u2 
+x masz2-gal u2 
+u4 x-kam 
+iti ezem-an-na 
+x udu u2 
+x masz2-gal u2 
+u4 x <count><interpretation modern_unit="" modern_value="2" system="cardinal" unit="" value="2"/>2(disz)-kam</count> 
+iti ezem-{d}me-ki-gal2 
+x <count><interpretation modern_unit="" modern_value="28" system="cardinal" unit="" value="28"/>2(u) 8(disz)</count> <com dist="1">udu</com> u2 
+x <count><interpretation modern_unit="" modern_value="44" system="cardinal" unit="" value="44"/>4(u) 4(disz)</count> <com dist="1">masz2-gal</com> u2 
+x <count><interpretation modern_unit="" modern_value="2" system="cardinal" unit="" value="2"/>2(disz)</count> <com dist="1">masz2-gal</com> szimaszgi u2 
+</commodities>

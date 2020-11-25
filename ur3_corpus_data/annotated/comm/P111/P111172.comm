@@ -1,0 +1,23 @@
+<commodities>
+#P111172 = ITT 3, 05363
+#atf: lang sux
+#tr.en: 4 dependent workers,
+# correcting 4(gesz2) to 4(disz), B. Lafont, Fs. Owen 178 n. 34
+#tr.en: for 15 days,
+#tr.en: barley barge of the sukkalma? punted,
+#tr.en: to Nippur,
+#tr.en: via Lu-Utu;
+#tr.en: month: “...” (2nd month, Girsu calender).
+#tr.en: Lu-Utu,
+#tr.en: scribe,
+#tr.en: son of Nig-Baba.
+<count><interpretation modern_unit="" modern_value="4" system="cardinal" unit="" value="4"/>4(disz)</count> <com dist="1">gurusz</com> 
+u4 <count><interpretation modern_unit="" modern_value="15" system="cardinal" unit="" value="15"/>1(u) 5(disz)-sze3</count> 
+ma2 <com dist="1">sze</com> sukkal-mah gid2-da 
+nibru{ki}-sze3 
+giri3 lu2-{d}utu 
+iti gu4-ra2-bi2-mu2-mu2 
+lu2-{d}utu 
+dub-sar 
+dumu nig2-{d}ba-ba6 
+</commodities>

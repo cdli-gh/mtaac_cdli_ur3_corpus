@@ -1,0 +1,36 @@
+<commodities>
+#P209231 = Nisaba 11, 44
+#atf: lang sux
+# ll. 6-10 incorrect
+# over erasure
+# calculation: 2;0,0 × 2 + 1;4,3 = 5;4,3
+# over erasure, expect 3(ban2) no gur
+<count><interpretation modern_unit="l" modern_value="565" system="dry capacity" unit="sila3" value="565"/>1(asz) 4(barig) 2(ban2) 5(disz) sila3 gur</count> 
+a-ra2 <count><interpretation modern_unit="" modern_value="1" system="cardinal" unit="" value="1"/>1(disz)-kam</count> 
+<count><interpretation modern_unit="l" modern_value="900" system="dry capacity" unit="sila3" value="900"/>3(asz) gur</count> a-ra2 <count><interpretation modern_unit="" modern_value="2" system="cardinal" unit="" value="2"/>2(disz)-kam</count> 
+szunigin <count><interpretation modern_unit="l" modern_value="1465" system="dry capacity" unit="sila3" value="1465"/>4(asz) 4(barig) 2(ban2) 5(disz) sila3 gur</count> 
+sza3-bi-ta 
+<count><interpretation modern_unit="l" modern_value="420" system="dry capacity" unit="sila3" value="420"/>1(asz) 2(barig) gur</count> a-ra2 <count><interpretation modern_unit="" modern_value="1" system="cardinal" unit="" value="1"/>1(disz)-kam</count> 
+<count><interpretation modern_unit="l" modern_value="280" system="dry capacity" unit="sila3" value="280"/>4(barig) 4(ban2)</count> a-ra2 <count><interpretation modern_unit="" modern_value="2" system="cardinal" unit="" value="2"/>2(disz)-kam</count> 
+<count><interpretation modern_unit="l" modern_value="90" system="dry capacity" unit="sila3" value="90"/>1(barig) 3(ban2)</count> a-ra2 <count><interpretation modern_unit="" modern_value="3" system="cardinal" unit="" value="3"/>3(disz)-kam</count> 
+<count>2(barig) sze</count> lugal-e2-mah-e nagar 
+<count>3(barig) sze</count> a-lu5-lu5 
+szunigin <count><interpretation modern_unit="l" modern_value="1020" system="dry capacity" unit="sila3" value="1020"/>3(asz) 2(barig) gur</count> 
+zi-ga-am3 
+la2-ia3 <count><interpretation modern_unit="l" modern_value="445" system="dry capacity" unit="sila3" value="445"/>1(asz) 2(barig) 2(ban2) 5(disz) sila3 gur</count> 
+nig2-ka9-ak lugal-e2-mah-e 
+<count><interpretation modern_unit="" modern_value="2" system="cardinal" unit="" value="2"/>2(asz)</count> <com dist="1">zi3-sig15</com> gur 
+<count><interpretation modern_unit="l" modern_value="570" system="dry capacity" unit="sila3" value="570"/>1(asz) 4(barig) 3(ban2)</count> <com dist="1">dabin</com> gur e2-ta 
+giri3 ur-zu ($ blank space $) 
+sze-bi <count><interpretation modern_unit="l" modern_value="1770" system="dry capacity" unit="sila3" value="1770"/>5(asz) 4(barig) 3(ban2) gur</count> 
+sza3-bi-ta 
+<count><interpretation modern_unit="" modern_value="2" system="cardinal" unit="" value="2"/>2(asz)</count> <com dist="1">ziz2</com> gur sza13-dub-ba 
+<count><interpretation modern_unit="" modern_value="2" system="cardinal" unit="" value="2"/>2(asz)</count> gur ga-za muhaldim 
+<count><interpretation modern_unit="" modern_value="1" system="cardinal" unit="" value="1"/>1(asz)</count> gur ur2-mah 
+<count><interpretation modern_unit="l" modern_value="60" system="dry capacity" unit="sila3" value="60"/>1(barig)</count> lu2-{d}szara2 nar 
+<count><interpretation modern_unit="l" modern_value="90" system="dry capacity" unit="sila3" value="90"/>1(barig) 3(ban2)</count> lugal-a2-zi-da 
+<count><interpretation modern_unit="l" modern_value="90" system="dry capacity" unit="sila3" value="90"/>1(barig) 3(ban2)</count> <com dist="1">sze-bi</com> nig2 la2-ia3 
+sze-bi <count><interpretation modern_unit="l" modern_value="1740" system="dry capacity" unit="sila3" value="1740"/>5(asz) 4(barig) gur</count> 
+zi-ga-am3 la2-ia3 <count><interpretation modern_unit="l" modern_value="300" system="dry capacity" unit="sila3" value="300"/>1(asz) gur</count> 
+nig2-ka9 lu2-dingir-ra 
+</commodities>

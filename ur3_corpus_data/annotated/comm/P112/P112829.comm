@@ -1,0 +1,51 @@
+<commodities>
+#P112829 = MCS 6, 083, BM 105334
+#atf: lang sux
+# calculation: 13.08.6 3/4 + 12.31.13 + 5.23.05 1/4 = 31.03.7
+# calculation: 31.03.7 - 37.29.15 = -6.26.8 (? should be diri!)
+<count><interpretation modern_unit="m^2" modern_value="51086700.0" system="surface" unit="gin2" value="85144500.0"/>1(szar'u) 3(szar2) 8(bur3) 1(esze3) 1/2(iku) 1/4(iku) gan2</count> saga 
+<count><interpretation modern_unit="m^2" modern_value="48711600.0" system="surface" unit="gin2" value="81186000"/>1(szar'u) 2(szar2) 3(bur'u) 1(bur3) 2(esze3) 1(iku) gan2</count> muru13 
+<count><interpretation modern_unit="m^2" modern_value="663093.0" system="surface" unit="gin2" value="1105155.0"/>5(szar2) 2(bur'u) 3(bur3) 5(iku) 1/4(iku) sar</count> gesz-gi-a-ta de6-a mu <count><interpretation modern_unit="" modern_value="4" system="cardinal" unit="" value="4"/>4(disz)-kam-ka</count> sza3 gur10-gur10-dam 
+szunigin <count><interpretation modern_unit="m^2" modern_value="120747600.0" system="surface" unit="gin2" value="201246000"/>3(szar'u) 1(szar2) 3(bur3) 1(esze3) 1(iku) gan2</count> 
+sag-nig2-gur11-ra-kam 
+sza3-bi-ta 
+<count><interpretation modern_unit="" modern_value="100" system="cardinal" unit="" value="100"/>1(gesz2) 4(u)</count> <com dist="1">gu4-{gesz}apin</com> <count><interpretation modern_unit="m^2" modern_value="64.8" system="surface" unit="gin2" value="108"/><interpretation modern_unit="l" modern_value="194400000" system="volume" unit="gin2" value="648000"/>6(bur3)</count> GAN2-ta 
+<count><interpretation modern_unit="" modern_value="100" system="cardinal" unit="" value="100"/>1(gesz2) 4(u)</count> engar <count><interpretation modern_unit="m^2" modern_value="3.5999999999999996" system="surface" unit="gin2" value="6"/><interpretation modern_unit="l" modern_value="10800000" system="volume" unit="gin2" value="36000"/>1(esze3)</count> GAN2-ta 
+<count><interpretation modern_unit="" modern_value="300" system="cardinal" unit="" value="300"/>5(gesz2)</count> sza3-gu4 <count><interpretation modern_unit="m^2" modern_value="1.7999999999999998" system="surface" unit="gin2" value="3"/>3(iku)</count> GAN2-ta 
+<count><interpretation modern_unit="" modern_value="10" system="cardinal" unit="" value="10"/>1(u)</count> dub-sar <com dist="1">gu4</com> <count><interpretation modern_unit="m^2" modern_value="140.4" system="surface" unit="gin2" value="234"/>1(bur'u) 3(bur3)</count> GAN2-ta 
+<count><interpretation modern_unit="" modern_value="20" system="cardinal" unit="" value="20"/>2(u)</count> nu-banda3-gu4 <count><interpretation modern_unit="m^2" modern_value="10.799999999999999" system="surface" unit="gin2" value="18"/><interpretation modern_unit="l" modern_value="32400000" system="volume" unit="gin2" value="108000"/>1(bur3)</count> GAN2-ta 
+<count><interpretation modern_unit="m^2" modern_value="108000.0" system="surface" unit="gin2" value="180000"/>1(bur3) 2(esze3) gan2</count> ki-sar 
+<count><interpretation modern_unit="m^2" modern_value="3240000.0" system="surface" unit="gin2" value="5400000"/>5(bur'u) gan2</count> a-sza3 <com dist="1">gesz-i3-ka</com> 
+szunigin <count><interpretation modern_unit="m^2" modern_value="50868000.0" system="surface" unit="gin2" value="84780000"/>1(szar'u) 3(szar2) 5(bur3) gan2</count> 
+buru14 bala-bi <count><interpretation modern_unit="m^2" modern_value="50868000.0" system="surface" unit="gin2" value="84780000"/>1(szar'u) 3(szar2) 5(bur3) gan2</count> 
+<count><interpretation modern_unit="m^2" modern_value="64.8" system="surface" unit="gin2" value="108"/><interpretation modern_unit="l" modern_value="194400000" system="volume" unit="gin2" value="648000"/>6(bur3)</count> GAN2-gu4 
+<count><interpretation modern_unit="" modern_value="1" system="cardinal" unit="" value="1"/>1(disz)</count> engar <count><interpretation modern_unit="m^2" modern_value="21600.0" system="surface" unit="gin2" value="36000"/>1(esze3) gan2</count> 
+<count><interpretation modern_unit="" modern_value="3" system="cardinal" unit="" value="3"/>3(disz)</count> sza3-gu4 <count><interpretation modern_unit="m^2" modern_value="1.7999999999999998" system="surface" unit="gin2" value="3"/>3(iku)</count> GAN2-ta 
+giri3-se3-ga <com dist="1">gu4</com> {d}gu-la-me 
+<count><interpretation modern_unit="m^2" modern_value="129600.0" system="surface" unit="gin2" value="216000"/>2(bur3) gan2</count> sar-sar igi iri 
+<count><interpretation modern_unit="m^2" modern_value="7200.0" system="surface" unit="gin2" value="12000"/>2(iku) gan2</count> <com dist="1">ki</com> ezem-ma {d}szara2 umma{ki} 
+<count><interpretation modern_unit="m^2" modern_value="3600.0" system="surface" unit="gin2" value="6000"/>1(iku) gan2</count> <com dist="1">ki</com> ezem-ma {d}szara2 a-pi4-sal4{ki} 
+<count><interpretation modern_unit="m^2" modern_value="388800.0" system="surface" unit="gin2" value="648000"/>6(bur3) gan2</count> {d}szara2-x-szusz3 
+<count><interpretation modern_unit="m^2" modern_value="233280000.0" system="surface" unit="gin2" value="388800000"/>1(szargal){gal} gan2</count> <com dist="1">szuku</com> ensi2-ka 
+<count><interpretation modern_unit="m^2" modern_value="30358800.0" system="surface" unit="gin2" value="50598000"/>7(szar2) 4(bur'u) 8(bur3) 1(esze3) 3(iku) gan2</count> 
+<com dist="1">szuku</com> lu2 nig2-dab5-ba u3 giri3-se3-ga dingir-re-ne 
+<count><interpretation modern_unit="m^2" modern_value="2970000.0" system="surface" unit="gin2" value="4950000"/>4(bur'u) 5(bur3) 2(esze3) 3(iku) gan2</count> 
+<com dist="1">szuku</com> en-en-e-ne gu2-un nu-tuku 
+<count><interpretation modern_unit="m^2" modern_value="3434400.0" system="surface" unit="gin2" value="5724000"/>5(bur'u) 3(bur3) gan2</count> 
+<com dist="1">szuku</com> giri3-se3-ga bala-a 
+<count><interpretation modern_unit="m^2" modern_value="648000.0" system="surface" unit="gin2" value="1080000"/>1(bur'u) gan2</count> <com dist="1">szuku</com> giri3-se3-ga sa2-du11 lugal-ke4 dah-ha 
+<count><interpretation modern_unit="m^2" modern_value="907200.0" system="surface" unit="gin2" value="1512000"/>1(bur'u) 4(bur3) gan2</count> 
+<com dist="1">szuku</com> giri3-se3-ga BI dug gir16-ra-ka 
+<count><interpretation modern_unit="m^2" modern_value="129600.0" system="surface" unit="gin2" value="216000"/>2(bur3) gan2</count> <com dist="1">szuku</com> muhaldim lugal-ka 
+<count><interpretation modern_unit="m^2" modern_value="32400.0" system="surface" unit="gin2" value="54000"/>1(esze3) 3(iku) gan2</count> szuku kuruszda ki {d}szul-gi-a-a-mu 
+<count><interpretation modern_unit="m^2" modern_value="712800.0" system="surface" unit="gin2" value="1188000"/>1(bur'u) 1(bur3) gan2</count> 
+<com dist="1">szuku</com> dub-sar-ka e2-gal-ka gub-ba 
+szunigin <count><interpretation modern_unit="m^2" modern_value="44053200.0" system="surface" unit="gin2" value="73422000"/>1(szar'u) 1(szar2) 1(bur'u) 9(bur3) 2(esze3) 3(iku) gan2</count> 
+<com dist="1">szuku</com> du3-du3-a 
+szunigin2 <count><interpretation modern_unit="m^2" modern_value="145789200.0" system="surface" unit="gin2" value="242982000"/>3(szar'u) 7(szar2) 3(bur'u) la2 3(iku) gan2</count> 
+zi-ga-am3 
+la2-ia3 <count><interpretation modern_unit="m^2" modern_value="25041600.0" system="surface" unit="gin2" value="41736000"/>6(szar2) 2(bur'u) 6(bur3) 1(esze3) 2(iku) gan2</count> 
+nig2-ka9-ak a-sza3 <com dist="1">gid2-da</com> 
+ur-{d}li9-si4-na ensi2 umma{ki} 
+mu {d}amar-{d}suen lugal-e ur-bi2-i3-lum{ki} mu-hul 
+</commodities>

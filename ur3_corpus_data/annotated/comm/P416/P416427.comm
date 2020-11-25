@@ -1,0 +1,27 @@
+<commodities>
+#P416427 = CDLJ 2012/1 §3.09
+#atf: lang sux
+#tr.en: Repaid arrears: 1 barig 2 sila3 of dabin-flour:
+#tr.en: Lugal-urani;
+#tr.en: 1 barig 3 sila3: Ur-gigir, son of E’asilu;
+#tr.en: 3 sila3: Ur-Ištaran;
+#tr.en: 3 sila3: Lugal-azida, son of Abu-ru(?);
+#tr.en: 3 1/2 sila3: Lu-Šara, son of Adalal;
+#tr.en: total: 2 barig 1 ban2 4 1/2 sila3 of flour,
+#tr.en: taxes “being on the street”;
+# erasure
+#tr.en: from Ikalla,
+#tr.en: under seal of Lugal-urani;
+#tr.en: year: “The boat of Enki was caulked;”
+la2-ia3 su-ga <count><interpretation modern_unit="l" modern_value="62" system="dry capacity" unit="sila3" value="62"/>1(barig) 2(disz) sila3</count> <com dist="1">dabin</com> 
+lugal-ur2-ra-ni 
+<count><interpretation modern_unit="l" modern_value="63" system="dry capacity" unit="sila3" value="63"/>1(barig) 3(disz) sila3</count> <com dist="1">ur-{gesz}gigir</com> dumu a2-a-si-lu 
+<count><interpretation modern_unit="l" modern_value="3" system="liquid capacity" unit="sila3" value="3"/><interpretation modern_unit="l" modern_value="3" system="dry capacity" unit="sila3" value="3"/>3(disz) sila3</count> ur-{d}isztaran 
+<count><interpretation modern_unit="l" modern_value="3" system="liquid capacity" unit="sila3" value="3"/><interpretation modern_unit="l" modern_value="3" system="dry capacity" unit="sila3" value="3"/>3(disz) sila3</count> lugal-a2-zi-da dumu {d}ab-u2-ru 
+<count><interpretation modern_unit="l" modern_value="3.5" system="liquid capacity" unit="sila3" value="3.5"/><interpretation modern_unit="l" modern_value="3.5" system="dry capacity" unit="sila3" value="3.5"/>3(disz) 1/2(disz) sila3</count> lu2-{d}szara2 dumu a-da-lal3 
+szunigin <count><interpretation modern_unit="l" modern_value="134.5" system="dry capacity" unit="sila3" value="134.5"/>2(barig) 1(ban2) 4(disz) 1/2(disz) sila3</count> <com dist="1">zi3</com> 
+gu2-na gur sila-a gal2 
+ki i3-kal-la-ta 
+kiszib3 lugal-ur2-ra-ni 
+mu ma2 {d}en-ki ba-ab-du8 
+</commodities>

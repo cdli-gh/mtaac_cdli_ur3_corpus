@@ -1,0 +1,34 @@
+<commodities>
+#P416436 = CDLJ 2012/1 §4.15
+#atf: lang sux
+#tr.en: 56 oxen, barley-fed,
+#tr.en: 1 breeding bull, barley-fed,
+#tr.en: 3 cows, barley-fed,
+#tr.en: 15 sheep, barley-fed, of good quality,
+#tr.en: 45 sheep, barley-fed,
+#tr.en: 120 long-fleeced sheep,
+#tr.en: 420 sheep, 60 lambs,
+#tr.en: “beer-pouring” of Nunida;
+#tr.en: n lambs,
+#tr.en: Ziqur-ilī;
+#tr.en: delivery,
+#tr.en: Nasa accepted.
+#tr.en: month: “Mekigal Festival,”
+#tr.en: year after: “Kimaš was destroyed;”
+#tr.en: 25th day.
+<count><interpretation modern_unit="" modern_value="56" system="cardinal" unit="" value="56"/>5(u) 6(disz)</count> <com dist="1">gu4</com> niga 
+<count><interpretation modern_unit="" modern_value="1" system="cardinal" unit="" value="1"/>1(disz)</count> <com dist="1">gu4</com> gesz-du3 niga 
+<count><interpretation modern_unit="" modern_value="3" system="cardinal" unit="" value="3"/>3(disz)</count> <com dist="1">ab2</com> niga 
+<count><interpretation modern_unit="" modern_value="15" system="cardinal" unit="" value="15"/>1(u) 5(disz)</count> <com dist="1">udu</com> niga saga 
+<count><interpretation modern_unit="" modern_value="45" system="cardinal" unit="" value="45"/>4(u) 5(disz)</count> <com dist="1">udu</com> niga 
+<count><interpretation modern_unit="" modern_value="120" system="cardinal" unit="" value="120"/>2(gesz2)</count> <com dist="1">udu</com> a-lum 
+<count><interpretation modern_unit="" modern_value="420" system="cardinal" unit="" value="420"/>7(gesz2)</count> udu <count><interpretation modern_unit="" modern_value="60" system="cardinal" unit="" value="60"/>1(gesz2)</count> sila4 
+kasz-de2-a nu-ni-da 
+n <com dist="1">sila4</com> 
+zi-qur2-i3-li2 
+mu-kux(DU) 
+na-sa6 i3-dab5 
+iti ezem-me-ki-gal2 
+mu us2-sa ki-masz{ki} ba-hul 
+u4 <count><interpretation modern_unit="" modern_value="20" system="cardinal" unit="" value="20"/>2(u)</count> <count><interpretation modern_unit="" modern_value="5" system="cardinal" unit="" value="5"/>5(disz)-kam</count> 
+</commodities>

@@ -1,0 +1,15 @@
+<commodities>
+#P129612 = SET 202
+#atf: lang sux
+x gurusz <count>1(barig) sze</count> lugal-ta 
+i3-dub x <count><interpretation modern_unit="" modern_value="7" system="cardinal" unit="" value="7"/>7(disz)-ta</count> 
+<count><interpretation modern_unit="" modern_value="3" system="cardinal" unit="" value="3"/>3(disz)</count> <com dist="1">gurusz</com> <count><interpretation modern_unit="l" modern_value="60" system="dry capacity" unit="sila3" value="60"/>1(barig)-ta</count> 
+<count><interpretation modern_unit="" modern_value="3" system="cardinal" unit="" value="3"/>3(disz)</count> <com dist="1">gurusz</com> <count><interpretation modern_unit="l" modern_value="40" system="dry capacity" unit="sila3" value="40"/>4(ban2)-ta</count> 
+i3-dub ...-ta 
+<count><interpretation modern_unit="" modern_value="10" system="cardinal" unit="" value="10"/>1(u)</count> <com dist="1">gurusz</com> <count><interpretation modern_unit="l" modern_value="40" system="dry capacity" unit="sila3" value="40"/>4(ban2)-ta</count> 
+i3-dub sukkal <com dist="1">gaba-ta</com> 
+sze-bi <count><interpretation modern_unit="l" modern_value="4260" system="dry capacity" unit="sila3" value="4260"/>1(u) 4(asz) 1(barig) gur</count> 
+nu-banda3 <com dist="1">ur-{gesz}giri3</com> 
+iti x x x 
+mu x x x 
+</commodities>

@@ -1,0 +1,31 @@
+<commodities>
+#P115787 = MVN 09, 144
+#atf: lang sux
+# calculation: 132.2 gur at 2 barig each = 330.5 udu
+# calculation: 44 gur at 2 barig each = 110 udu
+<count>2(gesz2) 1(u) 2(asz) 1(barig) sze gur</count> lugal 
+<com dist="1">udu-bi</com> <count><interpretation modern_unit="" modern_value="330.5" system="cardinal" unit="" value="330.5"/>5(gesz2) 3(u) 1/2(disz)</count> udu 
+kiszib3 lugal-lu2-sa6-sa6 
+sza3-bi-ta 
+<count><interpretation modern_unit="" modern_value="110" system="cardinal" unit="" value="110"/>1(gesz2) 5(u)</count> <com dist="1">udu</com> sze-bi <count><interpretation modern_unit="l" modern_value="13200" system="dry capacity" unit="sila3" value="13200"/>4(u) 4(asz) gur</count> 
+la2-ia3 <count><interpretation modern_unit="" modern_value="220.5" system="cardinal" unit="" value="220.5"/>3(gesz2) 4(u) 1/2(disz)</count> <com dist="1">udu</com> sze-bi <count><interpretation modern_unit="l" modern_value="26460" system="dry capacity" unit="sila3" value="26460"/>1(gesz2) 2(u) 8(asz) 1(barig) gur</count> 
+lugal-lu2-sa6-sa6 su-su-dam 
+sza3 nigin6{ki} 
+<count><interpretation modern_unit="l" modern_value="36000" system="dry capacity" unit="sila3" value="36000"/>2(gesz2) gur</count> <com dist="1">udu-bi</com> <count><interpretation modern_unit="" modern_value="300" system="cardinal" unit="" value="300"/>5(gesz2)-am3</count> 
+kiszib3 ur-{d}nansze dumu na-ba-sa6 
+sza3-bi-ta 
+<count><interpretation modern_unit="" modern_value="74" system="cardinal" unit="" value="74"/>1(gesz2) 1(u) 4(disz)</count> <com dist="1">udu</com> sze-bi <count><interpretation modern_unit="l" modern_value="8880" system="dry capacity" unit="sila3" value="8880"/>3(u) la2 2(barig) gur</count> 
+la2-ia3 <count><interpretation modern_unit="" modern_value="225" system="cardinal" unit="" value="225"/>3(gesz2) 4(u) 5(disz)</count> <com dist="1">udu</com> sze-bi <count><interpretation modern_unit="l" modern_value="27120" system="dry capacity" unit="sila3" value="27120"/>1(gesz2) 3(u) 2(barig) gur</count> 
+ur-{d}nansze dumu na-ba-sa6 su-su-dam 
+sza3 ki-nu-nir{ki} 
+<count><interpretation modern_unit="l" modern_value="9000" system="dry capacity" unit="sila3" value="9000"/>3(u) gur</count> <com dist="1">udu</com> niga-bi <count><interpretation modern_unit="" modern_value="75" system="cardinal" unit="" value="75"/>1(gesz2) 1(u) 5(disz)-am3</count> 
+kiszib3 ur-{d}lamma dumu ARAD2-mu 
+sza3-bi-ta 
+<count><interpretation modern_unit="" modern_value="40" system="cardinal" unit="" value="40"/>4(u)</count> <com dist="1">udu</com> sze-bi <count><interpretation modern_unit="l" modern_value="4800" system="dry capacity" unit="sila3" value="4800"/>1(u) 6(asz) gur</count> 
+ki ARAD2 dam-gar3-ta 
+kiszib3 a-gu-a tum3-dam 
+la2-ia3 <count><interpretation modern_unit="" modern_value="35" system="cardinal" unit="" value="35"/>3(u) 5(disz)</count> <com dist="1">udu</com> sze-bi <count><interpretation modern_unit="l" modern_value="4200" system="dry capacity" unit="sila3" value="4200"/>1(u) 4(asz) gur</count> 
+ur-{d}lamma dumu ARAD2-mu su-su-dam 
+sza3 lagasz{ki} 
+giri3 szesz-kal-la gu-za-la2 
+</commodities>

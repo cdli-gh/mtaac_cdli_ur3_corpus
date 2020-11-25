@@ -1,0 +1,13 @@
+<commodities>
+#P137206 = UET 3, 0882
+#atf: lang sux
+<count><interpretation modern_unit="l" modern_value="900" system="liquid capacity" unit="sila3" value="900"/>3(u) dug</count> <count><interpretation modern_unit="l" modern_value="30" system="dry capacity" unit="sila3" value="30"/>3(ban2)-ta</count> 
+<count><interpretation modern_unit="l" modern_value="480" system="liquid capacity" unit="sila3" value="480"/>1(u) 6(disz) dug</count> gal 
+<count><interpretation modern_unit="l" modern_value="2190" system="liquid capacity" unit="sila3" value="2190"/>1(gesz2) 1(u) 3(disz) dug</count> <count><interpretation modern_unit="l" modern_value="15" system="dry capacity" unit="sila3" value="15"/>1(ban2) 5(disz) sila3</count> 
+<count><interpretation modern_unit="l" modern_value="180" system="liquid capacity" unit="sila3" value="180"/>6(disz) dug</count> <com dist="1">ninda</com> <count><interpretation modern_unit="l" modern_value="5" system="liquid capacity" unit="sila3" value="5"/><interpretation modern_unit="l" modern_value="5" system="dry capacity" unit="sila3" value="5"/>5(disz) sila3</count> 
+<count><interpretation modern_unit="l" modern_value="60" system="liquid capacity" unit="sila3" value="60"/>2(disz) dug</count> <com dist="1">ninda</com> <count><interpretation modern_unit="l" modern_value="2" system="liquid capacity" unit="sila3" value="2"/><interpretation modern_unit="l" modern_value="2" system="dry capacity" unit="sila3" value="2"/>2(disz) sila3</count> 
+... 
+mu-kux(DU) 
+iti szu-esz5-sza 
+mu us2-sa e2 puzur4-isz-{d}da-gan <com dist="1">ba-du3</com> mu us2-sa-bi 
+</commodities>

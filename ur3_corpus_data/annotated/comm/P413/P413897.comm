@@ -1,0 +1,56 @@
+<commodities>
+#P413897 = Lane Museum 05
+#atf: lang sux
+#tr.en: ...
+#tr.en: 3 ...
+#tr.en: 2 lambs from [...]
+#tr.en: 1 lambs from [...]
+#tr.en: 2 lambs from Ašqudum
+#tr.en: 30 sheep from [...]
+#tr.en: 6 sheep delivery of ...
+#tr.en: 1 lamb from Lateniš,
+#tr.en: (total:) 93.
+#tr.en: Therefrom:
+#tr.en: 3 sheep, the regular offerings
+#tr.en: 3 lambs for Ninkununa
+#tr.en: 1 lamb for ...
+#tr.en: 2 lambs for Lugaluda
+#tr.en: (total:) 9
+#tr.en: booked out for the king;
+#tr.en: 10 sheep into the palace ...
+#tr.en: n sheep of the gate of Nanna?
+#tr.en: 2 sheep, ... the wife? of Alamu;
+#tr.en: 1 sheep, deficit of Alamu
+#tr.en: (total:) 13
+#tr.en: 16 ...
+#tr.en: 5 [...]
+#tr.en: 18 sheep [...]
+#tr.en: 17 sheep ... for the chief administrator.
+#tr.en: ...
+n x ki ...-ta 
+<count><interpretation modern_unit="" modern_value="3" system="cardinal" unit="" value="3"/>3(disz)</count> n x <com dist="1">ki</com> ...-ta 
+<count><interpretation modern_unit="" modern_value="2" system="cardinal" unit="" value="2"/>2(disz)</count> <com dist="1">sila4</com> ki x-...-ta 
+<count><interpretation modern_unit="" modern_value="1" system="cardinal" unit="" value="1"/>1(disz)</count> <com dist="1">sila4</com> ki szu-x-...-ta 
+<count><interpretation modern_unit="" modern_value="2" system="cardinal" unit="" value="2"/>2(disz)</count> <com dist="1">sila4</com> ki asz-qu2-du-um-ta 
+<count><interpretation modern_unit="" modern_value="30" system="cardinal" unit="" value="30"/>3(u)</count> <com dist="1">udu</com> ki x-x-ta 
+<count><interpretation modern_unit="" modern_value="6" system="cardinal" unit="" value="6"/>6(disz)</count> <com dist="1">udu</com> mu-kux(DU) giri3-ki-x-x 
+<count><interpretation modern_unit="" modern_value="1" system="cardinal" unit="" value="1"/>1(disz)</count> <com dist="1">sila4</com> ki la-te-ni-isz-ta 
+($ blank space $) <count><interpretation modern_unit="" modern_value="93" system="cardinal" unit="" value="93"/>1(gesz2) 3(u) 3(disz)</count> 
+sza3-bi-ta 
+<count><interpretation modern_unit="" modern_value="3" system="cardinal" unit="" value="3"/>3(disz)</count> <com dist="1">udu</com> sa2-du11 
+<count><interpretation modern_unit="" modern_value="3" system="cardinal" unit="" value="3"/>3(disz)</count> <com dist="1">sila4</com> {d}nin-ku3-nun-na 
+<count><interpretation modern_unit="" modern_value="1" system="cardinal" unit="" value="1"/>1(disz)</count> <com dist="1">sila4</com> x-ka 
+<count><interpretation modern_unit="" modern_value="2" system="cardinal" unit="" value="2"/>2(disz)</count> <com dist="1">sila4</com> {d}lugal-u4-da 
+($ blank space $) <count><interpretation modern_unit="" modern_value="9" system="cardinal" unit="" value="9"/>1(u) la2 1(disz)</count> 
+zi-ga lugal 
+<count><interpretation modern_unit="" modern_value="10" system="cardinal" unit="" value="10"/>1(u)</count> <com dist="1">udu</com> sza3 e2-gal-sze3 asz-qu2-da-num2 
+n udu ka2 nanna 
+<count><interpretation modern_unit="" modern_value="2" system="cardinal" unit="" value="2"/>2(disz)</count> <com dist="1">udu</com> ... dam a-la-mu 
+<count><interpretation modern_unit="" modern_value="1" system="cardinal" unit="" value="1"/>1(disz)</count> <com dist="1">udu</com> la2-ia3 a-la-mu 
+($ blank space $) <count><interpretation modern_unit="" modern_value="13" system="cardinal" unit="" value="13"/>1(u) 3(disz)</count> 
+<count><interpretation modern_unit="" modern_value="none" system="unknown" unit="" value="none"/>1(u) 6(disz) ...</count> <com dist="1">da</com> ... gub-ba 
+<count><interpretation modern_unit="" modern_value="none" system="unknown" unit="" value="none"/>5(disz) ...</count> 
+<count><interpretation modern_unit="" modern_value="18" system="cardinal" unit="" value="18"/>1(u) 8(disz)</count> <com dist="1">udu</com> ... 
+<count><interpretation modern_unit="" modern_value="none" system="unknown" unit="" value="none"/>1(u) 7(disz) ...</count> szabra ... 
+... 
+</commodities>

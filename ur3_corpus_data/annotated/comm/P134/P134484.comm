@@ -1,0 +1,61 @@
+<commodities>
+#P134484 = TMH NF 1-2, 173
+#atf: lang sux
+#tr.en: Ur-Nusku:
+#tr.de: Ur-Nusku:
+#tr.en: 1/4,
+#tr.de: 1/4,
+#tr.en: Ur-Utu,
+#tr.de: Ur-Utu,
+#tr.en: x[... of the] ‘sesame’:
+#tr.de: x[... des] ‘Sesam’:
+#tr.en: 1/4,
+#tr.de: 1/4,
+#tr.en: Lullu, the son of x-alim:
+#tr.de: Lullu, der Sohn x-alim:
+#tr.en: 1/8,
+#tr.de: 1/8,
+#tr.en: Ur-ekura:
+#tr.de: Ur-ekura:
+#tr.en: 1/8,
+#tr.de: 1/8,
+#tr.en: ARADdu:
+#tr.de: ARADdu:
+#tr.en: 1/8,
+#tr.de: 1/8,
+#tr.en: Ur-Šumaḫ:
+#tr.de: Ur-Šumaḫ:
+#tr.en: 1/10,
+#tr.de: 1/10,
+#tr.en: Ur-Enlila:
+#tr.de: Ur-Enlila:
+#tr.en: 1/20,
+#tr.de: 1/20,
+#tr.en: they are trade agents.
+#tr.de: es sind Tauschagenten.
+#tr.en: In the month ‘of the bricks’
+#tr.de: Im Monat ‘des Ziegels’
+#tr.en: (3rd month) from the end of the 6th day,
+#tr.de: (3. Monat) vom Ende des 6. Tages,
+#tr.en: ... .
+#tr.de: ... .
+ur-{d}nusku 
+<count><interpretation modern_unit="" modern_value="0.25" system="cardinal" unit="" value="0.25"/>igi-4(disz)-gal2</count> 
+ur-{d}utu 
+x-...-gesz-i3 
+<count><interpretation modern_unit="" modern_value="0.25" system="cardinal" unit="" value="0.25"/>igi-4(disz)-gal2</count> 
+lu-lu dumu x-alim 
+igi <count><interpretation modern_unit="" modern_value="8" system="cardinal" unit="" value="8"/>8(disz)-gal2</count> 
+ur-e-kur2-ra 
+igi <count><interpretation modern_unit="" modern_value="8" system="cardinal" unit="" value="8"/>8(disz)-gal2</count> 
+ARAD2-du10 
+igi <count><interpretation modern_unit="" modern_value="8" system="cardinal" unit="" value="8"/>8(disz)-gal2</count> 
+ur-{d}szu-mah 
+igi <count><interpretation modern_unit="" modern_value="10" system="cardinal" unit="" value="10"/>1(u)-gal2</count> 
+ur-{d}en-lil2-la2 
+igi <count><interpretation modern_unit="" modern_value="20" system="cardinal" unit="" value="20"/>2(u)-gal2</count> 
+dam-gar3-me 
+iti sig4-ga-ta 
+u4 <count><interpretation modern_unit="" modern_value="6" system="cardinal" unit="" value="6"/>6(disz)</count> zal-la-a 
+ka ba-ge-UZ-esz 
+</commodities>

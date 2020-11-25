@@ -1,0 +1,59 @@
+<commodities>
+#P102524 = ASJ 14, 101 3
+#atf: lang sux
+#tr.en: 1 (workman) porter: Lu-Iškur,
+#tr.en: 1/2 (workman): Šešani,
+#tr.en: 1/2 (workman): namzi,
+#tr.en: 1/2 (workman): Guzzani,
+#tr.en: at the tower of Ur-Dumuzida
+#tr.en: 1/2 (workman): Lugal-kuzu,
+#tr.en: 1/2 (workman): Šeškalla, son of KAdu.
+#tr.en: they are dumugi.
+#tr.en: 3 1/2 workmen,
+# calculation: 1 + (5 × 1/2) = 3 1/2
+#tr.en: foreman: Adumu.
+#tr.en: 1 (workman): x-ki,
+#tr.en: at the tower of Ku-Šara.
+#tr.en: 1 (workman): Lu-Ur-Šara,
+#tr.en: 1 (workman): Šešani,
+#tr.en: they are porters.
+#tr.en: 1/2 (workman): Inimanizi,
+#tr.en: 1/2 (workman): Nammah,
+#tr.en: 1/2 (workman): Alu,
+#tr.en: 1/2 (workman): Bazaza,
+#tr.en: they are dumugi.
+#tr.en: 5 workmen,
+# calculation: (3 × 1) + (4 × 1/2) = 5
+#tr.en: foreman: Lu-Enlila.
+#tr.en: Together: 8 1/2 workmen,
+# calculation: 3 1/2 + 5 = 8 1/2
+#tr.en: from month “Sowing,” from day 20 passed,
+#tr.en: stationed for harvesting fodder-reed,
+#tr.en: year: “The priest of Inanna by the goat was found.”
+<count><interpretation modern_unit="" modern_value="1" system="cardinal" unit="" value="1"/>1(disz)</count> ug3 lu2-{d}iszkur 
+<count><interpretation modern_unit="" modern_value="0.5" system="cardinal" unit="" value="0.5"/>1/2(disz)</count> szesz-a-ni 
+<count><interpretation modern_unit="" modern_value="0.5" system="cardinal" unit="" value="0.5"/>1/2(disz)</count> nam-zi 
+<count><interpretation modern_unit="" modern_value="0.5" system="cardinal" unit="" value="0.5"/>1/2(disz)</count> <com dist="1">{gesz}guzza-ni</com> 
+an-za-gar3 ur-{d}dumu-zi-da 
+<count><interpretation modern_unit="" modern_value="0.5" system="cardinal" unit="" value="0.5"/>1/2(disz)</count> lugal-ku3-zu 
+<count><interpretation modern_unit="" modern_value="0.5" system="cardinal" unit="" value="0.5"/>1/2(disz)</count> szesz-kal-la dumu KA-du 
+dumu-gi7-me-esz2 
+<count><interpretation modern_unit="" modern_value="3.5" system="cardinal" unit="" value="3.5"/>3(disz) 1/2(disz)</count> <com dist="1">gurusz</com> 
+ugula a-du-mu 
+<count><interpretation modern_unit="" modern_value="1" system="cardinal" unit="" value="1"/>1(disz)</count> x-ki 
+an-za-gar3 ku3-{d}szara2 
+<count><interpretation modern_unit="" modern_value="1" system="cardinal" unit="" value="1"/>1(disz)</count> lu2-{d}ur-{d}szara2 
+<count><interpretation modern_unit="" modern_value="1" system="cardinal" unit="" value="1"/>1(disz)</count> szesz-a-ni 
+ug3-IL2-me-esz2 
+<count><interpretation modern_unit="" modern_value="0.5" system="cardinal" unit="" value="0.5"/>1/2(disz)</count> inim-ma-ni-zi 
+<count><interpretation modern_unit="" modern_value="0.5" system="cardinal" unit="" value="0.5"/>1/2(disz)</count> nam-mah 
+<count><interpretation modern_unit="" modern_value="0.5" system="cardinal" unit="" value="0.5"/>1/2(disz)</count> a-lu5 
+<count><interpretation modern_unit="" modern_value="0.5" system="cardinal" unit="" value="0.5"/>1/2(disz)</count> ba-za-za 
+dumu-gi7-me-esz2 
+<count><interpretation modern_unit="" modern_value="5" system="cardinal" unit="" value="5"/>5(disz)</count> <com dist="1">gurusz</com> 
+ugula lu2-{d}en-lil2-la2 
+szunigin <count><interpretation modern_unit="" modern_value="8.5" system="cardinal" unit="" value="8.5"/>8(disz) 1/2(disz)</count> <com dist="1">gurusz</com> 
+iti szu-numun-na-ta u4 <count><interpretation modern_unit="" modern_value="20" system="cardinal" unit="" value="20"/>2(u)-am3</count> ba-ra-zal-la-ta 
+<com dist="1">gi-zi</com> SIG7-e-da gub-ba 
+mu en {d}inanna masz2-e i3-pa3 
+</commodities>

@@ -1,0 +1,23 @@
+<commodities>
+#P424374 = WCMA 20.1.07
+#atf: lang sux
+#tr.en: 1 gur 1 barig 3 ban2, ration barley,
+#tr.en: under seal of Adudu;
+#tr.en: 2 gur 4 barig, ration barley, under seal of Lu-...,
+#tr.en: 5 gur 2 barig 2 ban2? ration barley with Šara-kam(?)
+#tr.en: 1 barig, Ur-Dumuzida, son of ...
+#tr.en: 6 gur 3 ban2 5 sila3, Luga...
+# notepad numbers 6(asz) 1(barig)? 3(u) 2(u)
+#tr.en: from the threshing floor of Gabtena;
+#tr.en: month: “Extra,”
+#tr.en:year: “Šu-Suen, the king, erected the great-stele.”
+<count><interpretation modern_unit="l" modern_value="400" system="dry capacity" unit="sila3" value="400"/>1(asz) 1(barig) 4(ban2)</count> <com dist="1">sze-ba</com> gur 
+kiszib3 a-du-du 
+<count><interpretation modern_unit="l" modern_value="840" system="dry capacity" unit="sila3" value="840"/>2(asz) 4(barig)</count> <com dist="1">sze-ba</com> gur kiszib3 lu2-... 
+<count><interpretation modern_unit="l" modern_value="1700" system="dry capacity" unit="sila3" value="1700"/>5(asz) 3(barig) 2(ban2)</count> <com dist="1">sze-ba</com> gur ki {d}szara2-kam 
+<count><interpretation modern_unit="l" modern_value="60" system="dry capacity" unit="sila3" value="60"/>1(barig)</count> ur-{d}dumu-zi-da dumu x-x 
+<count><interpretation modern_unit="l" modern_value="1835" system="dry capacity" unit="sila3" value="1835"/>6(asz) 3(ban2) 5(disz) sila3 gur</count> lu-ga2-x 
+ki-su7 du6-gub3-temen-na-ta 
+iti diri 
+mu {d}szu-{d}suen <com dist="1">lugal-e</com> na-ru2-a-mah mu-du3 
+</commodities>

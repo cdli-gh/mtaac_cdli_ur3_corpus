@@ -1,0 +1,17 @@
+<commodities>
+#P101653 = AnOr 07, 358
+#atf: lang sux
+... 
+x dug gal 
+x dug <count><interpretation modern_unit="l" modern_value="15" system="dry capacity" unit="sila3" value="15"/>1(ban2) 5(disz) sila3</count> 
+al-ba-ni-du11 
+szunigin (x) <count><interpretation modern_unit="l" modern_value="1440" system="liquid capacity" unit="sila3" value="1440"/>4(u) 8(disz) dug</count> gal 
+szunigin (x) <count><interpretation modern_unit="l" modern_value="420" system="liquid capacity" unit="sila3" value="420"/>1(u) 4(disz) dug</count> <count><interpretation modern_unit="l" modern_value="15" system="dry capacity" unit="sila3" value="15"/>1(ban2) 5(disz) sila3</count> 
+... x 
+... sila3 
+... 
+... x 
+... <count><interpretation modern_unit="l" modern_value="5" system="liquid capacity" unit="sila3" value="5"/><interpretation modern_unit="l" modern_value="5" system="dry capacity" unit="sila3" value="5"/>5(disz) sila3</count> 
+...-ta 
+... 
+</commodities>

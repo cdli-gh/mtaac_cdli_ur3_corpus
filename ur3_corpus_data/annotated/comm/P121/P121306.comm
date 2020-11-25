@@ -1,0 +1,19 @@
+<commodities>
+#P121306 = NATN 608
+#atf: lang sux
+<count>1(gesz2) 1(u) 2(asz) 4(barig) sze gur</count> 
+<count><interpretation modern_unit="" modern_value="15" system="cardinal" unit="" value="15"/>1(u) 5(asz)</count> <com dist="1">ziz2</com> gur 
+engar lu2-kal-la 
+<count><interpretation modern_unit="l" modern_value="20920" system="dry capacity" unit="sila3" value="20920"/>1(gesz2) 9(asz) 3(barig) 4(ban2) gur</count> 
+engar ma-an-gu-ul 
+<count><interpretation modern_unit="l" modern_value="16020" system="dry capacity" unit="sila3" value="16020"/>5(u) 3(asz) 2(barig) gur</count> 
+engar a-ab-ba 
+<count>1(gesz2) 2(asz) 3(barig) 3(ban2) sze gur</count> 
+<count><interpretation modern_unit="l" modern_value="1320" system="dry capacity" unit="sila3" value="1320"/>4(asz) 2(barig)</count> <com dist="1">ziz2</com> gur 
+engar ur-ma-mi 
+<count><interpretation modern_unit="l" modern_value="15480" system="dry capacity" unit="sila3" value="15480"/>5(u) 1(asz) 3(barig) gur</count> 
+engar szesz-gu-la 
+szunigin <count><interpretation modern_unit="l" modern_value="100930" system="dry capacity" unit="sila3" value="100930"/>5(gesz2) 3(u) 6(asz) 2(barig) 1(ban2) gur</count> 
+<com dist="1">sze</com> gesz e3-a 
+ki gu4 <count><interpretation modern_unit="" modern_value="5" system="cardinal" unit="" value="5"/>5(disz)-kam</count> 
+</commodities>

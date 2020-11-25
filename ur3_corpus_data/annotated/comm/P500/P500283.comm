@@ -1,0 +1,15 @@
+<commodities>
+#P500283 = CTPSM 1, 093
+#atf: lang sux
+# calculation: 45;0,0 + 48;0,0 + 57;2,0 = 150;2,0
+<count><interpretation modern_unit="l" modern_value="0.004166666666666667" system="dry capacity" unit="sila3" value="0.004166666666666667"/>4(u) 5(asz) sze gur</count> si-sa2 
+a-ra2 <count><interpretation modern_unit="" modern_value="1" system="cardinal" unit="" value="1"/>1(disz)-kam</count> 
+<count><interpretation modern_unit="l" modern_value="14400" system="dry capacity" unit="sila3" value="14400"/>5(u) la2 2(asz) gur</count> 
+a-ra2 <count><interpretation modern_unit="" modern_value="2" system="cardinal" unit="" value="2"/>2(disz)-kam</count> 
+<count><interpretation modern_unit="l" modern_value="16980" system="dry capacity" unit="sila3" value="16980"/>1(gesz2) la2 3(asz) 2(barig) gur</count> 
+a-ra2 <count><interpretation modern_unit="" modern_value="3" system="cardinal" unit="" value="3"/>3(disz)-kam</count> 
+szunigin <count>2(gesz2) 3(u) 2(barig) sze gur</count> si-sa2 
+<com dist="1">sze</com> szabra 
+ur-gu-la szu ba-ti 
+a-sza3 im-bi-a-ba 
+</commodities>

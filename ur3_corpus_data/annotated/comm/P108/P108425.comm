@@ -1,0 +1,52 @@
+<commodities>
+#P108425 = CT 01, pl. 49, BM 015278
+#atf: lang sux
+#tr.en: ... 10 (ninda), north, averaged,
+#tr.en: ... 7, east, averaged,
+#tr.en: ... surface, outside, 1 eše3 1 1/2 iku, inside;
+#tr.en: field: 4 bur3 ... 1 1/2 iku, surface;
+#tr.en: 2 eše3 1 iku ... surface, 4 (gur) 2 barig;
+#tr.en: 2 eše3 3 1/2 iku surface, 4 (gur) 3 ban2;
+#tr.en: 2 eše3 3 iku surface, 5 (gur);
+#tr.en: 2 eše3 2 3/4 iku surface, 3 (gur) 3 barig;
+#tr.en: ... 3 3/4 iku surface, fallow;
+#tr.en: its barley: ... ;
+#tr.en: Lu-dingira, the ploughman;
+#tr.en: oxen-field of Fox;
+#tr.en: 160 (ninda), north, averaged,
+#tr.en: 72, east, averaged;
+#tr.en: 1 eše3 3 iku surface outside, 1 eše3 5 iku inside;
+#tr.en: field: 6 bur3 5 iku surface;
+#tr.en: 1 bur3 1 eše3 ... surface ...;
+#tr.en: 1 bur3 1 1/2 iku surface ... ;
+#tr.en: 1 bur3 5 iku surface ...;
+#tr.en: ...
+#tr.en: surface, inspected;
+#tr.en: field Bur...,
+#tr.en: via ...;
+#tr.en: year after: “... Lullubum for the 9th time destroyed.”
+n <count><interpretation modern_unit="" modern_value="10" system="cardinal" unit="" value="10"/>1(u)</count> mer <com dist="1">hi</com> 
+n <count><interpretation modern_unit="" modern_value="7" system="cardinal" unit="" value="7"/>7(disz)</count> kur <com dist="1">hi</com> 
+n GAN2 bar <count><interpretation modern_unit="m^2" modern_value="4.5" system="surface" unit="gin2" value="7.5"/>1(esze3) 1(iku) 1/2(iku)</count> ki 
+a-sza3 <count><interpretation modern_unit="" modern_value="none" system="unknown" unit="" value="none"/>4(bur3) ... 1(iku) 1/2(iku) gan2</count> 
+<count><interpretation modern_unit="" modern_value="none" system="unknown" unit="" value="none"/>2(esze3) 1(iku) ... gan2</count> <count><interpretation modern_unit="l" modern_value="1320" system="dry capacity" unit="sila3" value="1320"/>4(asz) 2(barig)</count> 
+<count><interpretation modern_unit="m^2" modern_value="55800.0" system="surface" unit="gin2" value="93000.0"/>2(esze3) 3(iku) 1/2(iku) gan2</count> <count><interpretation modern_unit="l" modern_value="1230" system="dry capacity" unit="sila3" value="1230"/>4(asz) 3(ban2)</count> 
+<count><interpretation modern_unit="m^2" modern_value="54000.0" system="surface" unit="gin2" value="90000"/>2(esze3) 3(iku) gan2</count> <count><interpretation modern_unit="" modern_value="5" system="cardinal" unit="" value="5"/>5(asz)</count> 
+<count><interpretation modern_unit="m^2" modern_value="53100.0" system="surface" unit="gin2" value="88500.0"/>2(esze3) 2(iku) 1/2(iku) 1/4(iku) gan2</count> <count><interpretation modern_unit="l" modern_value="1080" system="dry capacity" unit="sila3" value="1080"/>3(asz) 3(barig)</count> 
+n <count><interpretation modern_unit="m^2" modern_value="13500.0" system="surface" unit="gin2" value="22500.0"/>3(iku) 1/2(iku) 1/4(iku) gan2</count> su3 
+sze-bi x 
+lu2-dingir-ra engar 
+GAN2-gu4 <com dist="1">ka5-a</com> 
+<count><interpretation modern_unit="" modern_value="160" system="cardinal" unit="" value="160"/>2(gesz2) 4(u)</count> mer <com dist="1">hi</com> 
+<count><interpretation modern_unit="" modern_value="72" system="cardinal" unit="" value="72"/>1(gesz2) 1(u) 2(disz)</count> kur <com dist="1">hi</com> 
+<count><interpretation modern_unit="m^2" modern_value="32400.0" system="surface" unit="gin2" value="54000"/>1(esze3) 3(iku) gan2</count> bar <count><interpretation modern_unit="m^2" modern_value="6.6" system="surface" unit="gin2" value="11"/>1(esze3) 5(iku)</count> ki 
+a-sza3 <count><interpretation modern_unit="m^2" modern_value="406800.0" system="surface" unit="gin2" value="678000"/>6(bur3) 5(iku) gan2</count> 
+<count><interpretation modern_unit="" modern_value="none" system="unknown" unit="" value="none"/>1(bur3) 1(esze3) x gan2</count> ... 
+<count><interpretation modern_unit="m^2" modern_value="70200.0" system="surface" unit="gin2" value="117000.0"/>1(bur3) 1(iku) 1/2(iku) gan2</count> ... 
+<count><interpretation modern_unit="m^2" modern_value="82800.0" system="surface" unit="gin2" value="138000"/>1(bur3) 5(iku) gan2</count> ... 
+... x ... 
+GAN2 kab2-du11-ga 
+a-sza3 bur-x-... 
+giri3 x-... 
+mu us2-sa x ... lu-lu-bu-um{ki} a-ra2 <count><interpretation modern_unit="" modern_value="10" system="cardinal" unit="" value="10"/>1(u) la2</count> <count><interpretation modern_unit="" modern_value="1" system="cardinal" unit="" value="1"/>1(disz)-kam-asz</count> ba-hul 
+</commodities>

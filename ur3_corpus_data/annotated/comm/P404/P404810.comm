@@ -1,0 +1,33 @@
+<commodities>
+#P404810 = CDLJ 2015/002 §2.31
+#atf: lang sux
+#tr.en: 1 male kid
+#tr.en: (from) Šešzimu,
+#tr.en: 1 male lamb
+#tr.en: (from) Puzur-Ešdar,
+#tr.en: 1 male lamb
+#tr.en: (from) Kalla,
+#tr.en: 2 male lambs (from) Nu’’idā,
+#tr.en: 2 male lambs (from) the zabar-dab5 official,
+#tr.en: 1 male lamb (from) Ur-Suen, the prince,
+#tr.en: (and) 2 male lambs (from) the governor of Nippur,
+#tr.en: delivery;
+# some text moved to next line
+#tr.en: month “Šu’eša,”
+#tr.en: year: “Simurrum and Lullubu for the 9th time were destroyed,”
+#tr.en: 24th day.
+<count><interpretation modern_unit="" modern_value="1" system="cardinal" unit="" value="1"/>1(disz)</count> <com dist="1">masz2</com> 
+szesz-zi-mu 
+<count><interpretation modern_unit="" modern_value="1" system="cardinal" unit="" value="1"/>1(disz)</count> <com dist="1">sila4</com> 
+puzur4-esz18-dar 
+<count><interpretation modern_unit="" modern_value="1" system="cardinal" unit="" value="1"/>1(disz)</count> <com dist="1">sila4</com> 
+kal-la 
+<count><interpretation modern_unit="" modern_value="2" system="cardinal" unit="" value="2"/>2(disz)</count> <com dist="1">sila4</com> nu-i3-da 
+<count><interpretation modern_unit="" modern_value="2" system="cardinal" unit="" value="2"/>2(disz)</count> <com dist="1">sila4</com> zabar-dab5 
+<count><interpretation modern_unit="" modern_value="1" system="cardinal" unit="" value="1"/>1(disz)</count> <com dist="1">sila4</com> ur-{d}suen dumu-lugal 
+<count><interpretation modern_unit="" modern_value="2" system="cardinal" unit="" value="2"/>2(disz)</count> <com dist="1">sila4</com> ensi2 nibru{ki} 
+mu-kux(DU) 
+iti szu-esz5-sza 
+mu si-mu-ru-um{ki} u3 lu-lu-bu{ki} a-ra2 <count><interpretation modern_unit="" modern_value="10" system="cardinal" unit="" value="10"/>1(u) la2</count> <count><interpretation modern_unit="" modern_value="1" system="cardinal" unit="" value="1"/>1(disz)-kam-asz</count> ba-hul 
+u4 <count><interpretation modern_unit="" modern_value="20" system="cardinal" unit="" value="20"/>2(u)</count> <count><interpretation modern_unit="" modern_value="4" system="cardinal" unit="" value="4"/>4(disz)-kam</count> 
+</commodities>

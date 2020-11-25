@@ -1,0 +1,37 @@
+<commodities>
+#P416453 = CDLJ 2012/1 §4.39
+#atf: lang sux
+#tr.en: 2 sheep
+#tr.en: Liptum received(?);
+# Ozaki: may be short for ha-ba-tum-li-ip-tum
+#tr.en: 125 sheep,
+#tr.en: 10 ewes,
+#tr.en: n bucks,
+#tr.en: ...
+#tr.en: ...
+#tr.en: ...
+#tr.en: ..., responsible official;
+#tr.en: of Uruk(?),
+#tr.en: the 26th day,
+#tr.en: from Duga(’s account) booked out;
+#tr.en: via Ur-Baba, the scribe;
+#tr.en: month: “Festival of An,”
+#tr.en: year: “The en-priestess of Eridu was hired;”
+#tr.en: (total:) 151 small cattle.
+<count><interpretation modern_unit="" modern_value="2" system="cardinal" unit="" value="2"/>2(disz)</count> <com dist="1">udu</com> 
+li-ip-tum szu ba-ti 
+<count><interpretation modern_unit="" modern_value="125" system="cardinal" unit="" value="125"/>2(gesz2) 5(disz)</count> <com dist="1">udu</com> 
+<count><interpretation modern_unit="" modern_value="10" system="cardinal" unit="" value="10"/>1(u)</count> u8 
+n masz2-gal 
+... x-mu 
+... 
+... x-x 
+... maszkim 
+unu{ki}-ga 
+u4 <count><interpretation modern_unit="" modern_value="20" system="cardinal" unit="" value="20"/>2(u)</count> <count><interpretation modern_unit="" modern_value="6" system="cardinal" unit="" value="6"/>6(disz)-kam</count> 
+<com dist="1">ki</com> du11-ga-ta ba-zi 
+giri3 ur-{d}ba-ba6 dub-sar 
+iti ezem-an-na 
+mu en eridu{ki} ba-hun 
+<count><interpretation modern_unit="" modern_value="151" system="cardinal" unit="" value="151"/>2(gesz2) 3(u) 1(disz)</count> <com dist="1">udu</com> 
+</commodities>

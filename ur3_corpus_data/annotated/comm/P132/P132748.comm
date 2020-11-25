@@ -1,0 +1,54 @@
+<commodities>
+#P132748 = TCTI 2, 03525
+#atf: lang sux
+#tr.en: 1, Dingir-saga,
+#tr.en: 1, Ur-Numušda,
+#tr.en: 1, Utu-Lagaš-gal,
+#tr.en: 1, Ur-Nanše,
+#tr.en: they are ox-drivers;
+#tr.en: 1, Lu-Gatumdu,
+#tr.en: 1, Kuli,
+#tr.en: 1, Baba-izu,
+#tr.en: they are worktroopers;
+#tr.en: at 1/3 shekel each,
+#tr.en: from month: “Malt feast,”
+#tr.en: to month: “Festival of Šulgi”: 7 shekels;
+# calculation: 7 × 1/3 shekel per month × 3 months = 7
+#tr.en: 1, Adda, 1 (gur) 2 barig,
+#tr.en: 1, Lu-Ningirsu, 1 (gur) 2 barig,
+#tr.en: they are worktroopers;
+#tr.en: from month: “Malt feast,”
+#tr.en: to month: “Grain carried,” day 15 completed: 7 1/2 shekels;
+# calculation: 2 × 1/2 shekel per month × 7 1/2 months = 7 1/2
+#tr.en: its silver: 14 1/2 shekels;
+# calculation: 7 + 7 1/2 = 14 1/2
+#tr.en: its barley of rations: 2 gur 4 barig;
+# calculation: 2 × 1;2,0 barley = 2;4,0
+#tr.en: labor of the hirelings, on orders of Su-...;
+#tr.en: (worker category:) “from the city not going out” ...,
+#tr.en: house of Gatumdu ...;
+#tr.en: year: “Šu-Suen, the king of Ur, the lands of Zabašali destroyed.”
+<count><interpretation modern_unit="" modern_value="1" system="cardinal" unit="" value="1"/>1(disz)</count> dingir-sa6-ga 
+<count><interpretation modern_unit="" modern_value="1" system="cardinal" unit="" value="1"/>1(disz)</count> ur-{d}nu-musz-da 
+<count><interpretation modern_unit="" modern_value="1" system="cardinal" unit="" value="1"/>1(disz)</count> {d}utu-lagasz{ki}-gal 
+<count><interpretation modern_unit="" modern_value="1" system="cardinal" unit="" value="1"/>1(disz)</count> ur-{d}nansze 
+sza3-gu4-me 
+<count><interpretation modern_unit="" modern_value="1" system="cardinal" unit="" value="1"/>1(disz)</count> lu2-{d}ga2-tum3-du10 
+<count><interpretation modern_unit="" modern_value="1" system="cardinal" unit="" value="1"/>1(disz)</count> ku-li 
+<count><interpretation modern_unit="" modern_value="1" system="cardinal" unit="" value="1"/>1(disz)</count> {d}ba-ba6-i3-zu 
+erin2-me 
+<count><interpretation modern_unit="" modern_value="0.3333333333333333" system="cardinal" unit="" value="0.3333333333333333"/>igi-3(disz)-gal2-ta</count> 
+iti munu4-gu7-ta 
+iti ezem-{d}szul-gi-sze3 <count><interpretation modern_unit="" modern_value="0.11666666666666667" system="cardinal" unit="" value="0.11666666666666667"/>7(disz) gin2</count> 
+<count><interpretation modern_unit="" modern_value="1" system="cardinal" unit="" value="1"/>1(disz)</count> ad-da <count><interpretation modern_unit="l" modern_value="420" system="dry capacity" unit="sila3" value="420"/>1(asz) 2(barig) gur</count> 
+<count><interpretation modern_unit="" modern_value="1" system="cardinal" unit="" value="1"/>1(disz)</count> lu2-{d}nin-gir2-su <count><interpretation modern_unit="l" modern_value="420" system="dry capacity" unit="sila3" value="420"/>1(asz) 2(barig) gur</count> 
+erin2-me 
+iti munu4-gu7-ta 
+iti sze-il2-la u4 <count><interpretation modern_unit="" modern_value="15" system="cardinal" unit="" value="15"/>1(u) 5(disz)</count> ba-zal-sze3 <count><interpretation modern_unit="" modern_value="0.125" system="cardinal" unit="" value="0.125"/>7(disz) 1/2(disz) gin2</count> 
+<com dist="1">ku3-bi</com> <count><interpretation modern_unit="" modern_value="0.24166666666666664" system="cardinal" unit="" value="0.24166666666666664"/>1(u) 4(disz) 1/2(disz) gin2</count> 
+sze szuku-ra-bi <count><interpretation modern_unit="l" modern_value="840" system="dry capacity" unit="sila3" value="840"/>2(asz) 4(barig) gur</count> 
+a2 hun-ga2 inim szu-{d}x x 
+iri-ta nu-e3 ... 
+e2 {d}ga2-tum3-du10 ... 
+mu {d}szu-{d}suen lugal uri5{ki}-ma-ke4 ma-da za-ab-sza-li{ki} mu-hul 
+</commodities>

@@ -1,0 +1,32 @@
+<commodities>
+#P102344 = ASJ 09, 266 68
+#atf: lang sux
+#tr.en: 1 lamb, Lugal-x-da;
+#tr.en: 1 lamb, Kal-la-mu;
+#tr.en: 1 sheep, grain-fed, 1 lamb,
+#tr.en: wife of Ur-Suen, governor of Urum;
+#tr.en: 1 lamb, governor of Girsu;
+#tr.en: 1 lamb, A-...;
+#tr.en: 1 billy goat(?), Nanna-lu-du;
+#tr.en: 1 ..., Imid-ilī;
+#tr.en: 29th day,
+#tr.en: delivery,
+#tr.en: Abbasaga accepted;
+#tr.en: month: “Piglet-feast,”
+#tr.en: year: “Urbilum was destroyed;”
+#tr.en: (total:) 8.
+<count><interpretation modern_unit="" modern_value="1" system="cardinal" unit="" value="1"/>1(disz)</count> <com dist="1">sila4</com> lugal-x-da 
+<count><interpretation modern_unit="" modern_value="1" system="cardinal" unit="" value="1"/>1(disz)</count> <com dist="1">sila4</com> kal-la-mu 
+<count><interpretation modern_unit="" modern_value="1" system="cardinal" unit="" value="1"/>1(disz)</count> <com dist="1">udu</com> niga <count><interpretation modern_unit="" modern_value="1" system="cardinal" unit="" value="1"/>1(disz)</count> sila4 
+dam ur-{d}suen ensi2 urumx(|UR2xU2|){ki} 
+<count><interpretation modern_unit="" modern_value="1" system="cardinal" unit="" value="1"/>1(disz)</count> <com dist="1">sila4</com> ensi2 gir2-su{ki} 
+<count><interpretation modern_unit="" modern_value="1" system="cardinal" unit="" value="1"/>1(disz)</count> <com dist="1">sila4</com> a2-x-... 
+<count><interpretation modern_unit="" modern_value="1" system="cardinal" unit="" value="1"/>1(disz)</count> <com dist="1">masz2</com> {d}nanna-lu2-du10 
+<count><interpretation modern_unit="" modern_value="none" system="unknown" unit="" value="none"/>1(disz) x</count> i-mi-id-dingir 
+u4 <count><interpretation modern_unit="" modern_value="30" system="cardinal" unit="" value="30"/>3(u) la2</count> <count><interpretation modern_unit="" modern_value="1" system="cardinal" unit="" value="1"/>1(disz)-kam</count> 
+mu-kux(DU) 
+ab-ba-sa6-ga i3-dab5 
+iti ses-da-gu7 
+mu ur-bi2-lum{ki} ba-hul 
+<count><interpretation modern_unit="" modern_value="8" system="cardinal" unit="" value="8"/>8(disz)</count> 
+</commodities>

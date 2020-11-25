@@ -1,0 +1,21 @@
+<commodities>
+#P105630 = BE 03/1, 078
+#atf: lang sux
+<count><interpretation modern_unit="" modern_value="1" system="cardinal" unit="" value="1"/>1(disz)</count> <com dist="1">{gesz}da-ak-szi-um</com> 
+<count><interpretation modern_unit="" modern_value="2" system="cardinal" unit="" value="2"/>2(disz)</count> {kusz}na-a-du-um 
+<count><interpretation modern_unit="g" modern_value="10000.0" system="weight" unit="gin2" value="1200"/>2(u) ma-na</count> siki-gi 
+<count><interpretation modern_unit="" modern_value="1" system="cardinal" unit="" value="1"/>1(disz)</count> e2 szu-luh-ha zabar 
+<count><interpretation modern_unit="" modern_value="1" system="cardinal" unit="" value="1"/>1(disz)</count> <com dist="1">{kusz}a-ga2-la2</com> bu-ra-szu-um 
+<count><interpretation modern_unit="l" modern_value="30" system="liquid capacity" unit="sila3" value="30"/>1(disz) dug</count> <com dist="1">i3-nun</com> 
+<count><interpretation modern_unit="" modern_value="3" system="cardinal" unit="" value="3"/>3(disz)</count> ki-ma-ru-um 
+<count><interpretation modern_unit="" modern_value="1" system="cardinal" unit="" value="1"/>1(disz)</count> <com dist="1">{gi}pisan</com> tug2 szu4-sag 
+<count><interpretation modern_unit="" modern_value="1" system="cardinal" unit="" value="1"/>1(disz)</count> <com dist="1">tug2</com> KA ma2 
+<count><interpretation modern_unit="l" modern_value="90" system="liquid capacity" unit="sila3" value="90"/>3(disz) dug</count> <com dist="1">ku6</com> dab sa 
+<count><interpretation modern_unit="m" modern_value="3" system="length" unit="gi" value="1"/>1(disz) gi</count> AB ti-im ra-ti 
+... <count><interpretation modern_unit="" modern_value="none" system="unknown" unit="" value="none"/>2(disz) x x x</count> bu x 
+... <count><interpretation modern_unit="" modern_value="none" system="unknown" unit="" value="none"/>1(disz) x x</count> 
+<count><interpretation modern_unit="" modern_value="8" system="cardinal" unit="" value="8"/>8(disz)</count> <com dist="1">kusz</com> udu u2 
+<count><interpretation modern_unit="" modern_value="10" system="cardinal" unit="" value="10"/>1(u)</count> nig2-ki-luh-ha 
+<count><interpretation modern_unit="" modern_value="2" system="cardinal" unit="" value="2"/>2(disz)</count> <com dist="1">{gi}pisan</com> u2 
+<count><interpretation modern_unit="" modern_value="2" system="cardinal" unit="" value="2"/>2(disz)</count> {gesz}banszur 
+</commodities>

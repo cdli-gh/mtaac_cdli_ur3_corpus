@@ -1,0 +1,24 @@
+<commodities>
+#P122929 = NYPL 392
+#atf: lang sux
+#tr.en: 3? 2/3 sar 4 1/4 shekels (ca. 134.5 sq meters) finished house and lot:
+#tr.en: as its exchange value: 18 1/6 shekels of silver,
+#tr.en: did Lu-šalim, son of Dada, the household administrator,
+#tr.en: to Lu-bala-saga, son of Šeškala,
+#tr.en: Enlilda and Lugal-HAR, his children,
+#tr.en: and Geme-Enlila, his wife,
+#tr.en: give in exchange for it.
+#tr.en: Ninurta,
+#tr.en: big-governor
+#tr.en: of Enlil.
+<count><interpretation modern_unit="bricks" modern_value="32259.0" system="bricks" unit="gin2" value="2688.25"/><interpretation modern_unit="m^2" modern_value="134.54999999999998" system="surface" unit="gin2" value="224.25"/><interpretation modern_unit="l" modern_value="67275.0" system="volume" unit="gin2" value="224.25"/>3(disz) 2/3(disz) sar 4(disz) gin2 igi-4(disz)-gal2</count> e2 <com dist="1">du3-a</com> u3 kislah 
+nig2-sa10-bi <count><interpretation modern_unit="" modern_value="0.4666666666666667" system="cardinal" unit="" value="0.4666666666666667"/>1(u) 8(disz) gin2 igi-6(disz)-gal2</count> <com dist="1">ku3-babbar-sze3</com> 
+lu2-sza-lim dumu da-da sanga-ke4 
+lu2-bala-sa6-ga dumu szesz-kal-la 
+{d}en-lil2-da lugal-HAR dumu-ni-me 
+u3 geme2-{d}en-lil2-la2 dam-ni-ir 
+in-szi-sa10 
+{d}nin-urta 
+ensi2-gal 
+{d}en-lil2 
+</commodities>

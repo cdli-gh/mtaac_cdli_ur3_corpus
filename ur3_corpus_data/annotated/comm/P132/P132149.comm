@@ -1,0 +1,17 @@
+<commodities>
+#P132149 = Tavolette 364
+#atf: lang sux
+<count><interpretation modern_unit="m^2" modern_value="3600.0" system="surface" unit="gin2" value="6000"/>1(iku) gan2</count> <com dist="1">{gesz}kiri6</com> 
+gazi-bi <count><interpretation modern_unit="l" modern_value="20" system="dry capacity" unit="sila3" value="20"/>2(ban2)</count> lugal-ta 
+u2-kur-bi <count><interpretation modern_unit="l" modern_value="10" system="dry capacity" unit="sila3" value="10"/>1(ban2)-ta</count> 
+<com dist="1">za3-hi-li-bi</com> <count><interpretation modern_unit="" modern_value="1.3333333333333333" system="cardinal" unit="" value="1.3333333333333333"/>1(disz) 1/3(disz)</count> sila3-ta 
+u2-hu-ri2-a-num2-bi <count><interpretation modern_unit="" modern_value="3.5" system="cardinal" unit="" value="3.5"/>3(disz) 1/2(disz)</count> sila3-ta 
+<com dist="1">sze</com> zi-bi2-tum-bi <count><interpretation modern_unit="" modern_value="0.5" system="cardinal" unit="" value="0.5"/>1/2(disz)</count> sila3-ta 
+ka3-ma-am3-tum-bi <count><interpretation modern_unit="" modern_value="0.6666666666666666" system="cardinal" unit="" value="0.6666666666666666"/>2/3(disz)</count> sila3-ta 
+u2-hu-bi <count><interpretation modern_unit="" modern_value="2" system="cardinal" unit="" value="2"/>2(disz)</count> sila3-ta 
+gu2 ug3-ga2 szen 
+{gesz}kiri6 <count><interpretation modern_unit="m^2" modern_value="0.6" system="surface" unit="gin2" value="1"/>1(iku)</count> GAN2-kam 
+<count><interpretation modern_unit="" modern_value="1" system="cardinal" unit="" value="1"/>1(disz)</count> <com dist="1">gurusz</com> SIG7-a u3 du3-a-ku5 
+gu7-bi iti <count><interpretation modern_unit="" modern_value="1" system="cardinal" unit="" value="1"/>1(disz)-a</count> 
+<count><interpretation modern_unit="" modern_value="3" system="cardinal" unit="" value="3"/>3(disz)</count> ma-na-ta 
+</commodities>

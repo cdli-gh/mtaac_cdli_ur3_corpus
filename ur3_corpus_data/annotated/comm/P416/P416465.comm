@@ -1,0 +1,24 @@
+<commodities>
+#P416465 = CDLJ 2012/1 §4.29
+#atf: lang sux
+#tr.en: 3 sheep, barley-fed,
+#tr.en: for Inanna;
+#tr.en: 1 sheep, barley-fed, for Gula,
+#tr.en: Nanše-GIRgal, responsible official;
+#tr.en: of the month, day 30 elapsed,
+#tr.en: booked out
+#tr.en: in Uruk,
+#tr.en: from Nalu(’s account);
+#tr.en: month: “Festival of Ninazu,”
+#tr.en: year: “Kimaš was destroyed.”
+<count><interpretation modern_unit="" modern_value="3" system="cardinal" unit="" value="3"/>3(disz)</count> <com dist="1">udu</com> niga 
+{d}inanna 
+<count><interpretation modern_unit="" modern_value="1" system="cardinal" unit="" value="1"/>1(disz)</count> <com dist="1">udu</com> niga {d}gu-la 
+{d}nansze-GIR2-gal maszkim 
+iti u4 <count><interpretation modern_unit="" modern_value="30" system="cardinal" unit="" value="30"/>3(u)</count> ba-zal 
+zi-ga 
+sza3 unu{ki} 
+<com dist="1">ki</com> na-lu5 
+iti ezem-{d}nin-a-zu 
+mu ki-masz{ki} ba-hul 
+</commodities>

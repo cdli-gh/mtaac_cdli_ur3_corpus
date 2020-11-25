@@ -1,0 +1,28 @@
+<commodities>
+#P127632 = RA 012, 021 15
+#atf: lang sux
+#tr.en: 31 axes,
+#tr.en: their weight is 20 mina, and 10 gin.
+#tr.en: 58 plough sickles, 15 (gin) each,
+#tr.en: their weight is 14 mina, and 4 gin.
+#tr.en: Finished tools.
+#tr.en: From Lu-Ibgal,
+#tr.en: Ur-Šara weighed.
+#tr.en: Month “harvest”;
+#tr.en: year: “Amar-Suen king”.
+#tr.en: Ur-Šara,
+#tr.en: the scribe,
+#tr.en: son of Lugal-usur
+<count><interpretation modern_unit="" modern_value="31" system="cardinal" unit="" value="31"/>3(u) 1(disz)</count> <com dist="1">{uruda}ha-bu3-da</com> 
+ki-la2-bi <count><interpretation modern_unit="g" modern_value="10083.333333333334" system="weight" unit="gin2" value="1210"/>2(u) ma-na 1(u) gin2</count> 
+<count><interpretation modern_unit="" modern_value="58" system="cardinal" unit="" value="58"/>5(u) 8(disz)</count> <com dist="1">{uruda}gur10</com> <count><interpretation modern_unit="" modern_value="15" system="cardinal" unit="" value="15"/>1(u) 5(disz)</count> gin2-ta 
+ki-la2-bi <count><interpretation modern_unit="g" modern_value="7033.333333333334" system="weight" unit="gin2" value="844"/>1(u) 4(disz) ma-na 4(disz) gin2</count> 
+kin <com dist="1">til-la</com> 
+ki lu2-eb-gal-ta 
+ur-{d}szara2-ke4 in-la2 
+iti szu-numun 
+mu {d}amar-{d}suen lugal 
+ur-{d}szara2 
+dub-sar 
+dumu lugal-uszur4 
+</commodities>

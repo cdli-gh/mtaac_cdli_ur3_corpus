@@ -1,0 +1,30 @@
+<commodities>
+#P124766 = Orient 16, 106 170
+#atf: lang sux
+#tr.de: 10 less 2 hal-Fischkörbe (voll) geköpfte (Fische),
+#tr.de: 5 hal-Fischkörbe (voll) geräucherte gir-Fische,
+#tr.de: der Aufseher: Badaga.
+#tr.de: 12 hal-Fischkörbe (voll) geköpfte (Fische),
+#tr.de: 9 hal-[Fisch]körbe (voll) geräucherte [gir-]Fische,
+#tr.de: der Aufseher: [...]-x.
+#tr.de: Es sind Fische der Truppendienste.
+#tr.de: 7 hal-Fischkörbe (voll) geköpfte (Fische),
+#tr.de: 21 hal-Fischkörbe (voll) geräucherte gir-Fische,
+#tr.de: 3 ,Reise’körbe (voll) ...-Fische,
+#tr.de: es sind Fische der Steuereintreiber.
+#tr.de: Zusammen: 65 hal-Fischkörbe;
+#tr.de: in 1 hal-Korb sind je 150 (Stück).
+<count><interpretation modern_unit="" modern_value="8" system="cardinal" unit="" value="8"/>1(u) la2 2(disz)</count> <com dist="1">ku6</com> {gi}hal sag-kur2 
+<count><interpretation modern_unit="" modern_value="5" system="cardinal" unit="" value="5"/>5(disz)</count> <com dist="1">ku6</com> {gi}hal gir-sze6 
+ugula ba-da-ga 
+<count><interpretation modern_unit="" modern_value="12" system="cardinal" unit="" value="12"/>1(u) 2(disz)</count> <com dist="1">ku6</com> {gi}hal sag-kur2 
+<count><interpretation modern_unit="" modern_value="9" system="cardinal" unit="" value="9"/>9(disz)</count> <com dist="1">ku6</com> {gi}hal gir-sze6 x x 
+ugula ...-x 
+ku6 nam-erin2-na 
+<count><interpretation modern_unit="" modern_value="7" system="cardinal" unit="" value="7"/>7(disz)</count> <com dist="1">ku6</com> {gi}hal sag-kur2 
+<count><interpretation modern_unit="" modern_value="21" system="cardinal" unit="" value="21"/>2(u) 1(disz)</count> <com dist="1">ku6</com> {gi}hal pesz-NE 
+<count><interpretation modern_unit="" modern_value="3" system="cardinal" unit="" value="3"/>3(disz)</count> <com dist="1">{gi}kaskal</com> ku6 bar-re saga 
+ku6 nam-enku 
+szunigin <count><interpretation modern_unit="" modern_value="65" system="cardinal" unit="" value="65"/>1(gesz2) 5(disz)</count> <com dist="1">ku6</com> {gi}hal 
+<count><interpretation modern_unit="" modern_value="1" system="cardinal" unit="" value="1"/>1(disz)</count> {gi}hal <count><interpretation modern_unit="" modern_value="150" system="cardinal" unit="" value="150"/>2(gesz2) 3(u)-ta</count> i3-gal2 
+</commodities>

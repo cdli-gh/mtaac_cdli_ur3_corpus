@@ -1,0 +1,9 @@
+<commodities>
+#P141363 = UTI 5, 3344
+#atf: lang sux
+<count><interpretation modern_unit="l" modern_value="150" system="dry capacity" unit="sila3" value="150"/>2(barig) 3(ban2)</count> 
+<count><interpretation modern_unit="" modern_value="0.075" system="cardinal" unit="" value="0.075"/>4(disz) 1/2(disz) gin2</count> <com dist="1">ku3</com> 
+gazi-bi <count><interpretation modern_unit="l" modern_value="1350" system="dry capacity" unit="sila3" value="1350"/>4(asz) 2(barig) 3(ban2)</count> 
+<count>9(asz) 1(barig) 2(ban2) sze gur</count> 
+<com dist="1">gazi-bi</com> <count><interpretation modern_unit="l" modern_value="2710" system="dry capacity" unit="sila3" value="2710"/>9(asz) 1(ban2) gur</count> 
+</commodities>

@@ -1,0 +1,311 @@
+<commodities>
+#P110277 = HSS 04, 004
+#atf: lang sux
+#tr.en: 200 gur barley, royal (measure),
+#tr.en: the household manager;
+#tr.en: 20 oxen managers at 20 gur each;
+#tr.en: 100, chief accountant;
+#tr.en: 100, chief surveyor;
+#tr.en: 100, silo manager;
+#tr.en: 40, scribe of plow oxen;
+#tr.en: 40, šarabdu;
+#tr.en: 100, manager of the worker troops;
+#tr.en: 40, gardener;
+#tr.en: 20, foreman of sixty runners;
+#tr.en: 20, foreman of sixty throne bearers;
+#tr.en: 100 less 2 plowmen at 15 each;
+#tr.en: (subtotal:) 2630,
+# calculation: 200 + (20 × 20 =) 400 + 100 + 100 + 100 + 40 + 40 + 100 + 40 + 20 + 20 + (98 × 15 =) 1470 = 2630
+#tr.en: household of Ningirsu;
+#tr.en: 140, the household manager;
+#tr.en: 14 oxen managers at 20 gur each;
+#tr.en: 70, chief accountant;
+#tr.en: 70, chief surveyor;
+#tr.en: 70, silo manager;
+#tr.en: 28, scribe of plow oxen;
+#tr.en: 28, šarabdu;
+#tr.en: 70, manager of the worker troops;
+#tr.en: 28, gardener;
+#tr.en: 14, foreman of sixty runners;
+#tr.en: 14, foreman of sixty throne bearers;
+#tr.en: 70 plowmen at 15 each;
+#tr.en: (subtotal:) 1862,
+# calculation: 140 + (14 × 20 =) 280 + 70 + 70 + 70 + 28 + 28 + 70 + 28 + 14 + 14 + (70 × 15 =) 1050 = 1862
+#tr.en: household of ...;
+#tr.en: 190, the temple household manager;
+#tr.en: 20 less 1 oxen managers at 20 each;
+#tr.en: 95, chief accountant;
+#tr.en: 95, chief surveyor;
+#tr.en: 95, silo manager;
+#tr.en: 38, šarabdu;
+#tr.en: 95, manager of the worker troops;
+#tr.en: 38, scribe of plow oxen;
+#tr.en: 38, gardener;
+#tr.en: 20 less 1, foreman of runners;
+#tr.en: 20 less 1, foreman of throne bearers;
+#tr.en: 95 plowmen at 15 each;
+#tr.en: (subtotal:) 2527,
+# calculation: 190 + (19 × 20 =) 380 + 95 + 95 + 95 + 38 + 95 + 38 + 38 + 19 + 19 + (95 × 15 =) 1425 = 2527
+#tr.en: houshold of Ninmar;
+#tr.en: 80, the household manager;
+#tr.en: 8 oxen managers at 20 each;
+#tr.en: 40, chief accountant;
+#tr.en: 40, chief surveyor;
+#tr.en: 40, silo manager;
+#tr.en: 16, scribe of plow oxen;
+#tr.en: 16, šarabdu;
+#tr.en: 40, manager of the worker troops;
+#tr.en: 16, gardener;
+#tr.en: 8, foreman of runners;
+#tr.en: 8, foreman of throne bearers;
+#tr.en: 42 plowmen at 15 each;
+#tr.en: (subtotal:) 1094
+# calculation: 80 + (8 × 20 =) 160 + 40 + 40 + 40 + 16 + 16 + 40 + 16 + 8 + 8 + (42 × 15 =) 630 = 1094
+#tr.en: household of Ningešzida
+#tr.en: and household of Igalim;
+#tr.en: 60, the household manager;
+#tr.en: 6 oxen managers at 20 each;
+#tr.en: 30, chief accountant;
+#tr.en: 30, chief surveyor;
+#tr.en: 30, silo manager;
+#tr.en: 12, scribe of plow oxen;
+#tr.en: 12, šarabdu;
+#tr.en: 30, manager of the worker troops;
+#tr.en: 12, gardener;
+#tr.en: 6, foreman of runners;
+#tr.en: 6, foreman of throne bearers;
+#tr.en: 30 plowmen at 15 each;
+#tr.en: (subtotal:) 798,
+# calculation: 60 + (6 × 20 =) 120 + 30 + 30 + 30 + 12 + 12 + 30 + 12 + 6 + 6 + (30 × 15 =) 450 = 798
+#tr.en: Lugal-sikisu;
+#tr.en: 60, the household manager;
+#tr.en: 6 oxen managers at 20 gur each;
+#tr.en: 30, chief accountant;
+#tr.en: 30, chief surveyor;
+#tr.en: 30, silo manager;
+#tr.en: 12, scribe of plow oxen;
+#tr.en: 12, šarabdu;
+#tr.en: 30, manager of the worker troops;
+#tr.en: 12, gardener;
+#tr.en: 6, foreman of runners;
+#tr.en: 6, foreman of throne bearers;
+#tr.en: 30 plowmen at 15 each;
+#tr.en: (subtotal:) 798,
+# calculation: 60 + (6 × 20 =) 120 + 30 + 30 + 30 + 12 + 12 + 30 + 12 + 6 + 6 + (30 × 15 =) 450 = 798
+#tr.en: Ur-šugalama,
+#tr.en: household of Šulgi;
+#tr.en: 40, the household manager;
+#tr.en: 4 oxen managers at 20 each;
+#tr.en: 20, chief accountant;
+#tr.en: 20, chief surveyor;
+#tr.en: 20, silo manager;
+#tr.en: 8, scribe of plow oxen;
+#tr.en: 8, šarabdu;
+#tr.en: 20, manager of the worker troops;
+#tr.en: 8, gardener;
+#tr.en: 4, foreman of runners;
+#tr.en: 4, foreman of throne bearers;
+#tr.en: 20 plowmen at 15 each;
+#tr.en: [(subtotal:) 552,]
+# calculation: 40 + (4 × 20 =) 80 + 20 + 20 + 20 + 8 + 8 + 20 + 8 + 4 + 4 + (20 × 15 =) 300 = 552
+#tr.en: ...,
+#tr.en: household of ...;
+#tr.en: 70, the household manager;
+#tr.en: 7 oxen managers at 20 gur each;
+#tr.en: 35, chief accountant;
+#tr.en: 35, chief surveyor;
+#tr.en: 35, silo manager;
+#tr.en: 14, scribe of plow oxen;
+#tr.en: 14, šarabdu;
+#tr.en: 35, manager of the worker troops;
+#tr.en: 14, gardener;
+#tr.en: 7, foreman of runners;
+#tr.en: 7, foreman of throne bearers;
+#tr.en: 35 plowmen at 15 each;
+#tr.en: (subtotal:) 931,
+# calculation: 70 + (7 × 20 =) 140 + 35 + 35 + 35 + 14 + 14 + 35 + 14 + 7 + 7 + (35 × 15 =) 525 = 931
+#tr.en: household of Dumuzi;
+#tr.en: 80, the household manager;
+#tr.en: 8 oxen managers at 20 each;
+#tr.en: 40, chief accountant;
+#tr.en: 40, chief surveyor;
+#tr.en: 40, silo manager;
+#tr.en: 16, scribe of plow oxen;
+#tr.en: 16, šarabdu;
+#tr.en: 40, manager of the worker troops;
+#tr.en: 16, gardener;
+#tr.en: 8, foreman of runners;
+#tr.en: 8, foreman of throne bearers;
+#tr.en: 40 plowmen at 15 each;
+#tr.en: (subtotal:) 1064,
+# calculation: 80 + (8 × 20 =) 160 + 40 + 40 + 40 + 16 + 16 + 40 + 16 + 8 + 8 + (40 × 15 =) 600 = 1064
+#tr.en: household of Namḫani;
+#tr.en: 40, the household manager;
+#tr.en: 4 oxen managers at 20 each;
+#tr.en: 20, chief accountant;
+#tr.en: 20, chief surveyor;
+#tr.en: 20, silo manager;
+#tr.en: 8, scribe of plow oxen;
+#tr.en: 8, šarabdu;
+#tr.en: 20, manager of the worker troops;
+#tr.en: 8, gardener;
+#tr.en: 4, foreman of runners;
+#tr.en: 4, foreman of throne bearers;
+#tr.en: 20 plowmen at 15 each;
+#tr.en: (subtotal:) 532,
+# calculation: 40 + (4 × 20 =) 80 + 20 + 20 + 20 + 8 + 8 + 20 + 8 + 4 + 4 + (20 × 15 =) 300 = 532
+#tr.en: household of Uru;
+#tr.en: total: 3 silos, 1978 gur;
+# calculation: 2630 + 1862 + 2527 + 1094 + 798 + 798 + 552 + 931 + 1064 + 532 = 12,788 (text: 12,778 ?)
+#tr.en: threshed barley of temple household managers and household managers;
+#tr.en: month: ‟GANmaš,”
+#tr.en: year after: ‟Amar-Suen (is) king.”
+<count><interpretation modern_unit="l" modern_value="0.018518518518518514" system="dry capacity" unit="sila3" value="0.018518518518518514"/>3(gesz2) 2(u) sze gur</count> lugal 
+szabra 
+<count><interpretation modern_unit="" modern_value="20" system="cardinal" unit="" value="20"/>2(u)</count> nu-banda3-gu4 <count><interpretation modern_unit="" modern_value="20" system="cardinal" unit="" value="20"/>2(u)</count> gur-ta 
+<count><interpretation modern_unit="" modern_value="100" system="cardinal" unit="" value="100"/>1(gesz2) 4(u)</count> sza13-dub-ba 
+<count><interpretation modern_unit="" modern_value="100" system="cardinal" unit="" value="100"/>1(gesz2) 4(u)</count> sa12-du5 
+<count><interpretation modern_unit="" modern_value="100" system="cardinal" unit="" value="100"/>1(gesz2) 4(u)</count> ka-guru7 
+<count><interpretation modern_unit="" modern_value="40" system="cardinal" unit="" value="40"/>4(u)</count> dub-sar gu4-apin 
+<count><interpretation modern_unit="" modern_value="40" system="cardinal" unit="" value="40"/>4(u)</count> szar2-ra-ab-du 
+<count><interpretation modern_unit="" modern_value="100" system="cardinal" unit="" value="100"/>1(gesz2) 4(u)</count> nu-banda3 <com dist="1">erin2-na</com> 
+<count><interpretation modern_unit="" modern_value="40" system="cardinal" unit="" value="40"/>4(u)</count> lu2 sar-me 
+<count><interpretation modern_unit="" modern_value="20" system="cardinal" unit="" value="20"/>2(u)</count> ugula-gesz2-da kas4-me 
+<count><interpretation modern_unit="" modern_value="20" system="cardinal" unit="" value="20"/>2(u)</count> ugula-gesz2-da gu-za-la2-me 
+<count><interpretation modern_unit="" modern_value="98" system="cardinal" unit="" value="98"/>1(gesz2) 4(u) la2 2(disz)</count> engar <count><interpretation modern_unit="" modern_value="15" system="cardinal" unit="" value="15"/>1(u) 5(asz)-ta</count> 
+($ blank space $) <count><interpretation modern_unit="l" modern_value="789000" system="dry capacity" unit="sila3" value="789000"/>4(geszu) 3(gesz2) 5(u) gur</count> 
+e2 {d}nin-gir2-su 
+<count><interpretation modern_unit="" modern_value="140" system="cardinal" unit="" value="140"/>2(gesz2) 2(u)</count> szabra 
+<count><interpretation modern_unit="" modern_value="14" system="cardinal" unit="" value="14"/>1(u) 4(disz)</count> nu-banda3-gu4 <count><interpretation modern_unit="" modern_value="20" system="cardinal" unit="" value="20"/>2(u)</count> gur-ta 
+<count><interpretation modern_unit="" modern_value="70" system="cardinal" unit="" value="70"/>1(gesz2) 1(u)</count> sza13-dub-ba 
+<count><interpretation modern_unit="" modern_value="70" system="cardinal" unit="" value="70"/>1(gesz2) 1(u)</count> sa12-du5 
+<count><interpretation modern_unit="" modern_value="70" system="cardinal" unit="" value="70"/>1(gesz2) 1(u)</count> ka-guru7 
+<count><interpretation modern_unit="" modern_value="28" system="cardinal" unit="" value="28"/>2(u) 8(disz)</count> dub-sar gu4-apin 
+<count><interpretation modern_unit="" modern_value="28" system="cardinal" unit="" value="28"/>2(u) 8(asz)</count> szar2-ra-ab-du 
+<count><interpretation modern_unit="" modern_value="70" system="cardinal" unit="" value="70"/>1(gesz2) 1(u)</count> nu-banda3 <com dist="1">erin2-na</com> 
+<count><interpretation modern_unit="" modern_value="28" system="cardinal" unit="" value="28"/>2(u) 8(asz)</count> lu2 sar 
+<count><interpretation modern_unit="" modern_value="14" system="cardinal" unit="" value="14"/>1(u) 4(asz)</count> ugula-gesz2-da kas4-me 
+<count><interpretation modern_unit="" modern_value="14" system="cardinal" unit="" value="14"/>1(u) 4(asz)</count> ugula-gesz2-da gu-za-la2-me 
+<count><interpretation modern_unit="" modern_value="70" system="cardinal" unit="" value="70"/>1(gesz2) 1(u)</count> engar <count><interpretation modern_unit="" modern_value="15" system="cardinal" unit="" value="15"/>1(u) 5(disz)-ta</count> 
+($ blank space $) <count><interpretation modern_unit="l" modern_value="558600" system="dry capacity" unit="sila3" value="558600"/>3(geszu) 1(gesz2) 2(asz) gur</count> 
+e2 {d}... 
+<count><interpretation modern_unit="" modern_value="190" system="cardinal" unit="" value="190"/>3(gesz2) 1(u)</count> sanga 
+<count><interpretation modern_unit="" modern_value="19" system="cardinal" unit="" value="19"/>2(u) la2 1(disz)</count> nu-banda3-gu4 <count><interpretation modern_unit="" modern_value="20" system="cardinal" unit="" value="20"/>2(u)-ta</count> 
+<count><interpretation modern_unit="" modern_value="95" system="cardinal" unit="" value="95"/>1(gesz2) 3(u) 5(asz)</count> sza13-dub-ba 
+<count><interpretation modern_unit="" modern_value="95" system="cardinal" unit="" value="95"/>1(gesz2) 3(u) 5(asz)</count> sa12-du5 
+<count><interpretation modern_unit="" modern_value="95" system="cardinal" unit="" value="95"/>1(gesz2) 3(u) 5(asz)</count> ka-guru7 
+<count><interpretation modern_unit="" modern_value="38" system="cardinal" unit="" value="38"/>3(u) 8(asz)</count> szar2-ra-ab-du 
+<count><interpretation modern_unit="" modern_value="95" system="cardinal" unit="" value="95"/>1(gesz2) 3(u) 5(asz)</count> nu-banda3 <com dist="1">erin2-na</com> 
+<count><interpretation modern_unit="" modern_value="38" system="cardinal" unit="" value="38"/>3(u) 8(asz)</count> dub-sar gu4-apin 
+<count><interpretation modern_unit="" modern_value="38" system="cardinal" unit="" value="38"/>3(u) 8(asz)</count> lu2 sar 
+<count><interpretation modern_unit="" modern_value="19" system="cardinal" unit="" value="19"/>2(u) la2 1(asz)</count> ugula kas4 
+<count><interpretation modern_unit="" modern_value="19" system="cardinal" unit="" value="19"/>2(u) la2 1(asz)</count> ugula gu-za-la2 
+<count><interpretation modern_unit="" modern_value="95" system="cardinal" unit="" value="95"/>1(gesz2) 3(u) 5(disz)</count> engar <count><interpretation modern_unit="" modern_value="15" system="cardinal" unit="" value="15"/>1(u) 5(asz)-ta</count> 
+($ blank space $) <count><interpretation modern_unit="l" modern_value="758100" system="dry capacity" unit="sila3" value="758100"/>4(geszu) 2(gesz2) 7(asz) gur</count> 
+e2 {d}nin-mar{ki} 
+<count><interpretation modern_unit="" modern_value="80" system="cardinal" unit="" value="80"/>1(gesz2) 2(u)</count> szabra 
+<count><interpretation modern_unit="" modern_value="8" system="cardinal" unit="" value="8"/>8(disz)</count> nu-banda3-gu4 <count><interpretation modern_unit="" modern_value="20" system="cardinal" unit="" value="20"/>2(u)-ta</count> 
+<count><interpretation modern_unit="" modern_value="40" system="cardinal" unit="" value="40"/>4(u)</count> sza13-dub-ba 
+<count><interpretation modern_unit="" modern_value="40" system="cardinal" unit="" value="40"/>4(u)</count> sa12-du5 
+<count><interpretation modern_unit="" modern_value="40" system="cardinal" unit="" value="40"/>4(u)</count> ka-guru7 
+<count><interpretation modern_unit="" modern_value="16" system="cardinal" unit="" value="16"/>1(u) 6(asz)</count> dub-sar gu4-apin 
+<count><interpretation modern_unit="" modern_value="16" system="cardinal" unit="" value="16"/>1(u) 6(asz)</count> szar2-ra-ab-du 
+<count><interpretation modern_unit="" modern_value="40" system="cardinal" unit="" value="40"/>4(u)</count> nu-banda3 <com dist="1">erin2-na</com> 
+<count><interpretation modern_unit="" modern_value="16" system="cardinal" unit="" value="16"/>1(u) 6(asz)</count> lu2 sar 
+<count><interpretation modern_unit="" modern_value="8" system="cardinal" unit="" value="8"/>8(asz)</count> ugula kas4 
+<count><interpretation modern_unit="" modern_value="8" system="cardinal" unit="" value="8"/>8(asz)</count> ugula gu-za-la2 
+<count><interpretation modern_unit="" modern_value="42" system="cardinal" unit="" value="42"/>4(u) 2(disz)</count> engar <count><interpretation modern_unit="" modern_value="15" system="cardinal" unit="" value="15"/>1(u) 5(asz)-ta</count> 
+($ blank space $) <count><interpretation modern_unit="l" modern_value="328200" system="dry capacity" unit="sila3" value="328200"/>1(geszu) 8(gesz2) 1(u) 4(asz) gur</count> 
+e2 {d}nin-gesz-zi-da 
+<com dist="1">u3</com> e2 {d}ig-alim 
+<count><interpretation modern_unit="" modern_value="60" system="cardinal" unit="" value="60"/>1(gesz2)</count> szabra 
+<count><interpretation modern_unit="" modern_value="6" system="cardinal" unit="" value="6"/>6(disz)</count> nu-banda3-gu4 <count><interpretation modern_unit="" modern_value="20" system="cardinal" unit="" value="20"/>2(u)-ta</count> 
+<count><interpretation modern_unit="" modern_value="30" system="cardinal" unit="" value="30"/>3(u)</count> sza13-dub-ba 
+<count><interpretation modern_unit="" modern_value="30" system="cardinal" unit="" value="30"/>3(u)</count> sa12-du5 
+<count><interpretation modern_unit="" modern_value="30" system="cardinal" unit="" value="30"/>3(u)</count> ka-guru7 
+<count><interpretation modern_unit="" modern_value="12" system="cardinal" unit="" value="12"/>1(u) 2(asz)</count> dub-sar gu4-apin 
+<count><interpretation modern_unit="" modern_value="12" system="cardinal" unit="" value="12"/>1(u) 2(asz)</count> szar2-ra-ab-du 
+<count><interpretation modern_unit="" modern_value="30" system="cardinal" unit="" value="30"/>3(u)</count> nu-banda3 <com dist="1">erin2-na</com> 
+<count><interpretation modern_unit="" modern_value="12" system="cardinal" unit="" value="12"/>1(u) 2(asz)</count> lu2 sar 
+<count><interpretation modern_unit="" modern_value="6" system="cardinal" unit="" value="6"/>6(asz)</count> ugula kas4 
+<count><interpretation modern_unit="" modern_value="6" system="cardinal" unit="" value="6"/>6(asz)</count> ugula gu-za-la2 
+<count><interpretation modern_unit="" modern_value="30" system="cardinal" unit="" value="30"/>3(u)</count> engar <count><interpretation modern_unit="" modern_value="15" system="cardinal" unit="" value="15"/>1(u) 5(asz)-ta</count> 
+($ blank space $) <count><interpretation modern_unit="l" modern_value="239400" system="dry capacity" unit="sila3" value="239400"/>1(geszu) 3(gesz2) 1(u) 8(asz) gur</count> 
+lugal-siki-su3 
+<count><interpretation modern_unit="" modern_value="60" system="cardinal" unit="" value="60"/>1(gesz2)</count> szabra 
+<count><interpretation modern_unit="" modern_value="6" system="cardinal" unit="" value="6"/>6(disz)</count> nu-banda3-gu4 <count><interpretation modern_unit="" modern_value="20" system="cardinal" unit="" value="20"/>2(u)-ta</count> 
+<count><interpretation modern_unit="" modern_value="30" system="cardinal" unit="" value="30"/>3(u)</count> sza13-dub-ba 
+<count><interpretation modern_unit="" modern_value="30" system="cardinal" unit="" value="30"/>3(u)</count> sa12-du5 
+<count><interpretation modern_unit="" modern_value="30" system="cardinal" unit="" value="30"/>3(u)</count> ka-guru7 
+<count><interpretation modern_unit="" modern_value="12" system="cardinal" unit="" value="12"/>1(u) 2(asz)</count> dub-sar gu4-apin 
+<count><interpretation modern_unit="" modern_value="12" system="cardinal" unit="" value="12"/>1(u) 2(asz)</count> szar2-ra-ab-du 
+<count><interpretation modern_unit="" modern_value="30" system="cardinal" unit="" value="30"/>3(u)</count> nu-banda3 <com dist="1">erin2</com> 
+<count><interpretation modern_unit="" modern_value="12" system="cardinal" unit="" value="12"/>1(u) 2(asz)</count> lu2 sar 
+<count><interpretation modern_unit="" modern_value="6" system="cardinal" unit="" value="6"/>6(asz)</count> ugula kas4 
+<count><interpretation modern_unit="" modern_value="6" system="cardinal" unit="" value="6"/>6(asz)</count> ugula gu-za-la2 
+<count><interpretation modern_unit="" modern_value="30" system="cardinal" unit="" value="30"/>3(u)</count> engar <count><interpretation modern_unit="" modern_value="15" system="cardinal" unit="" value="15"/>1(u) 5(asz)-ta</count> 
+($ blank space $) <count><interpretation modern_unit="l" modern_value="239400" system="dry capacity" unit="sila3" value="239400"/>1(geszu) 3(gesz2) 1(u) 8(asz) gur</count> 
+ur-szu-ga-lam-ma 
+e2 {d}szul-gi 
+<count><interpretation modern_unit="" modern_value="40" system="cardinal" unit="" value="40"/>4(u)</count> szabra 
+<count><interpretation modern_unit="" modern_value="4" system="cardinal" unit="" value="4"/>4(disz)</count> nu-banda3 <count><interpretation modern_unit="" modern_value="20" system="cardinal" unit="" value="20"/>2(u)-ta</count> 
+<count><interpretation modern_unit="" modern_value="20" system="cardinal" unit="" value="20"/>2(u)</count> sza13-dub-ba 
+<count><interpretation modern_unit="" modern_value="20" system="cardinal" unit="" value="20"/>2(u)</count> sa12-du5 
+<count><interpretation modern_unit="" modern_value="20" system="cardinal" unit="" value="20"/>2(u)</count> ka-guru7 
+<count><interpretation modern_unit="" modern_value="8" system="cardinal" unit="" value="8"/>8(asz)</count> dub-sar <com dist="1">gu4</com> apin 
+<count><interpretation modern_unit="" modern_value="8" system="cardinal" unit="" value="8"/>8(asz)</count> szar2-ra-ab-du 
+<count><interpretation modern_unit="" modern_value="20" system="cardinal" unit="" value="20"/>2(u)</count> nu-banda3 <com dist="1">erin2</com> 
+<count><interpretation modern_unit="" modern_value="8" system="cardinal" unit="" value="8"/>8(asz)</count> lu2 sar 
+<count><interpretation modern_unit="" modern_value="4" system="cardinal" unit="" value="4"/>4(asz)</count> ugula kas4 
+<count><interpretation modern_unit="" modern_value="4" system="cardinal" unit="" value="4"/>4(asz)</count> ugula gu-za-la2 
+<count><interpretation modern_unit="" modern_value="20" system="cardinal" unit="" value="20"/>2(u)</count> engar <count><interpretation modern_unit="" modern_value="15" system="cardinal" unit="" value="15"/>1(u) 5(asz)-ta</count> 
+($ blank space $) <count><interpretation modern_unit="l" modern_value="165600" system="dry capacity" unit="sila3" value="165600"/>9(gesz2) 1(u) 2(asz) gur</count> 
+... 
+e2 {d}... 
+<count><interpretation modern_unit="" modern_value="70" system="cardinal" unit="" value="70"/>1(gesz2) 1(u)</count> szabra 
+<count><interpretation modern_unit="" modern_value="7" system="cardinal" unit="" value="7"/>7(disz)</count> nu-banda3-gu4 <count><interpretation modern_unit="" modern_value="20" system="cardinal" unit="" value="20"/>2(u)-ta</count> 
+<count><interpretation modern_unit="" modern_value="35" system="cardinal" unit="" value="35"/>3(u) 5(asz)</count> sza13-dub-ba 
+<count><interpretation modern_unit="" modern_value="35" system="cardinal" unit="" value="35"/>3(u) 5(asz)</count> sa12-du5 
+<count><interpretation modern_unit="" modern_value="35" system="cardinal" unit="" value="35"/>3(u) 5(asz)</count> ka-guru7 
+<count><interpretation modern_unit="" modern_value="14" system="cardinal" unit="" value="14"/>1(u) 4(asz)</count> dub-sar gu4-apin 
+<count><interpretation modern_unit="" modern_value="14" system="cardinal" unit="" value="14"/>1(u) 4(asz)</count> szar2-ra-ab-du 
+<count><interpretation modern_unit="" modern_value="35" system="cardinal" unit="" value="35"/>3(u) 5(asz)</count> nu-banda3 <com dist="1">erin2</com> 
+<count><interpretation modern_unit="" modern_value="14" system="cardinal" unit="" value="14"/>1(u) 4(asz)</count> lu2 sar 
+<count><interpretation modern_unit="" modern_value="7" system="cardinal" unit="" value="7"/>7(asz)</count> ugula kas4 
+<count><interpretation modern_unit="" modern_value="7" system="cardinal" unit="" value="7"/>7(asz)</count> ugula gu-za-la2 
+<count><interpretation modern_unit="" modern_value="35" system="cardinal" unit="" value="35"/>3(u) 5(disz)</count> engar <count><interpretation modern_unit="" modern_value="15" system="cardinal" unit="" value="15"/>1(u) 5(asz)-ta</count> 
+($ blank space $) <count><interpretation modern_unit="l" modern_value="279300" system="dry capacity" unit="sila3" value="279300"/>1(geszu) 5(gesz2) 3(u) 1(asz) gur</count> 
+e2 {d}dumu-zi 
+<count><interpretation modern_unit="" modern_value="80" system="cardinal" unit="" value="80"/>1(gesz2) 2(u)</count> szabra 
+<count><interpretation modern_unit="" modern_value="8" system="cardinal" unit="" value="8"/>8(disz)</count> nu-banda3-gu4 <count><interpretation modern_unit="" modern_value="20" system="cardinal" unit="" value="20"/>2(u)-ta</count> 
+<count><interpretation modern_unit="" modern_value="40" system="cardinal" unit="" value="40"/>4(u)</count> sza13-dub-ba 
+<count><interpretation modern_unit="" modern_value="40" system="cardinal" unit="" value="40"/>4(u)</count> sa12-du5 
+<count><interpretation modern_unit="" modern_value="40" system="cardinal" unit="" value="40"/>4(u)</count> ka-guru7 
+<count><interpretation modern_unit="" modern_value="16" system="cardinal" unit="" value="16"/>1(u) 6(asz)</count> dub-sar gu4-apin 
+<count><interpretation modern_unit="" modern_value="16" system="cardinal" unit="" value="16"/>1(u) 6(asz)</count> szar2-ra-ab-du 
+<count><interpretation modern_unit="" modern_value="40" system="cardinal" unit="" value="40"/>4(u)</count> nu-banda3 <com dist="1">erin2</com> 
+<count><interpretation modern_unit="" modern_value="16" system="cardinal" unit="" value="16"/>1(u) 6(asz)</count> lu2 sar 
+<count><interpretation modern_unit="" modern_value="8" system="cardinal" unit="" value="8"/>8(asz)</count> maszkim 
+<count><interpretation modern_unit="" modern_value="8" system="cardinal" unit="" value="8"/>8(asz)</count> gu-za-la2 
+<count><interpretation modern_unit="" modern_value="40" system="cardinal" unit="" value="40"/>4(u)</count> engar <count><interpretation modern_unit="" modern_value="15" system="cardinal" unit="" value="15"/>1(u) 5(asz)-ta</count> 
+($ blank space $) <count><interpretation modern_unit="l" modern_value="319200" system="dry capacity" unit="sila3" value="319200"/>1(geszu) 7(gesz2) 4(u) 4(asz) gur</count> 
+e2 nam-ha-ni 
+<count><interpretation modern_unit="" modern_value="40" system="cardinal" unit="" value="40"/>4(u)</count> szabra 
+<count><interpretation modern_unit="" modern_value="4" system="cardinal" unit="" value="4"/>4(disz)</count> nu-banda3-gu4 <count><interpretation modern_unit="" modern_value="20" system="cardinal" unit="" value="20"/>2(u)-ta</count> 
+<count><interpretation modern_unit="" modern_value="20" system="cardinal" unit="" value="20"/>2(u)</count> sza13-dub-ba 
+<count><interpretation modern_unit="" modern_value="20" system="cardinal" unit="" value="20"/>2(u)</count> sa12-du5 
+<count><interpretation modern_unit="" modern_value="20" system="cardinal" unit="" value="20"/>2(u)</count> ka-guru7 
+<count><interpretation modern_unit="" modern_value="8" system="cardinal" unit="" value="8"/>8(asz)</count> dub-sar gu4-apin 
+<count><interpretation modern_unit="" modern_value="8" system="cardinal" unit="" value="8"/>8(asz)</count> szar2-ra-ab-du 
+<count><interpretation modern_unit="" modern_value="20" system="cardinal" unit="" value="20"/>2(u)</count> nu-banda3 <com dist="1">erin2</com> 
+<count><interpretation modern_unit="" modern_value="8" system="cardinal" unit="" value="8"/>8(asz)</count> lu2 sar 
+<count><interpretation modern_unit="" modern_value="4" system="cardinal" unit="" value="4"/>4(asz)</count> ugula kas4 
+<count><interpretation modern_unit="" modern_value="4" system="cardinal" unit="" value="4"/>4(asz)</count> ugula gu-za-la2 
+<count><interpretation modern_unit="" modern_value="20" system="cardinal" unit="" value="20"/>2(u)</count> engar <count><interpretation modern_unit="" modern_value="15" system="cardinal" unit="" value="15"/>1(u) 5(asz)-ta</count> 
+($ blank space $) <count><interpretation modern_unit="l" modern_value="159600" system="dry capacity" unit="sila3" value="159600"/>8(gesz2) 5(u) 2(asz) gur</count> 
+e2 uru11{ki} 
+szunigin <count><interpretation modern_unit="l" modern_value="3833400" system="dry capacity" unit="sila3" value="3833400"/>3(asz) guru7 3(geszu) 2(gesz2) 5(u) 8(asz) gur</count> 
+<com dist="1">sze</com> gesz ra sanga szabra-ne 
+iti GAN2-masz 
+mu us2-sa {d}amar-{d}suen lugal 
+</commodities>

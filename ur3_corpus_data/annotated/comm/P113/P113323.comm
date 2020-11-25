@@ -1,0 +1,40 @@
+<commodities>
+#P113323 = MVN 02, 024
+#atf: lang sux
+#tr.en: 5/6 sila3 date syrup,
+#tr.en: its silver: 2/3 shekel;
+#tr.en: 4 a.-ducklings,
+#tr.en: their silver: 1 shekel;
+#tr.en: 1 k.,
+#tr.en: its silver: 1 shekel less 1/6;
+#tr.en: 10 less 1 bandicoot rats,
+#tr.en: their silver: 1/6 (shekel) 6(?) grains;
+#tr.en: 1 a.-crow,
+#tr.en: its silver: 16 grains;
+#tr.en: 200 reservoir fish, fine quality,
+#tr.en: their silver: 2 shekels 1/6, 10 grains;
+#tr.en: “first fruits” of Enlil,
+#tr.en: under seal of Ḫalulu;
+#tr.en: year: “Puzriš-Dagan.”
+#tr.en: Lugal-ezem, the scribe,
+#tr.en: son of Lugal-emaḫe,
+#tr.en: the chief household manager.
+<count><interpretation modern_unit="l" modern_value="0.8333333333333334" system="liquid capacity" unit="sila3" value="0.8333333333333334"/><interpretation modern_unit="l" modern_value="0.8333333333333334" system="dry capacity" unit="sila3" value="0.8333333333333334"/>5/6(disz) sila3</count> <com dist="1">lal3</com> 
+ku3-bi <count><interpretation modern_unit="" modern_value="0.01111111111111111" system="cardinal" unit="" value="0.01111111111111111"/>2/3(disz) gin2</count> 
+<count><interpretation modern_unit="" modern_value="4" system="cardinal" unit="" value="4"/>4(disz)</count> <com dist="1">amar-sag</com> uz-tur 
+ku3-bi <count><interpretation modern_unit="" modern_value="0.016666666666666666" system="cardinal" unit="" value="0.016666666666666666"/>1(disz) gin2</count> 
+<count><interpretation modern_unit="" modern_value="1" system="cardinal" unit="" value="1"/>1(disz)</count> ku5-da 
+<com dist="1">ku3-bi</com> <count><interpretation modern_unit="" modern_value="0.15" system="cardinal" unit="" value="0.15"/>1(disz) gin2 la2 igi-6(disz)-gal2</count> 
+<count><interpretation modern_unit="" modern_value="9" system="cardinal" unit="" value="9"/>1(u) la2 1(disz)</count> pesz2-gesz-gi 
+<com dist="1">ku3-bi</com> <count><interpretation modern_unit="" modern_value="0.16722222222222222" system="cardinal" unit="" value="0.16722222222222222"/>igi-6(disz)-gal2 6(disz) sze</count> 
+<count><interpretation modern_unit="" modern_value="1" system="cardinal" unit="" value="1"/>1(disz)</count> <com dist="1">amar-sag</com> u2-ga{muszen} 
+ku3-bi <count><interpretation modern_unit="" modern_value="0.0014814814814814814" system="cardinal" unit="" value="0.0014814814814814814"/>1(u) 6(disz) sze</count> 
+<count><interpretation modern_unit="" modern_value="200" system="cardinal" unit="" value="200"/>3(gesz2) 2(u)</count> <com dist="1">ku6</com> kun-zi saga 
+ku3-bi <count><interpretation modern_unit="" modern_value="0.2009259259259259" system="cardinal" unit="" value="0.2009259259259259"/>2(disz) gin2 igi-6(disz)-gal2 1(u) sze</count> 
+nesag {d}en-lil2-la2 
+kiszib3 ha-lu5-lu5 
+mu e2 puzur4-da-gan 
+lugal-ezem dub-sar 
+dumu lugal-e2-mah-e 
+szabra 
+</commodities>

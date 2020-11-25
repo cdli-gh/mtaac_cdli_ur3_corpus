@@ -1,0 +1,24 @@
+<commodities>
+#P103165 = AUCT 1, 320
+#atf: lang sux
+<count><interpretation modern_unit="" modern_value="none" system="unknown" unit="" value="none"/>4(disz) dug x x x</count> 
+<count><interpretation modern_unit="l" modern_value="180" system="liquid capacity" unit="sila3" value="180"/>6(disz) dug</count> gesz x gu2 
+<count><interpretation modern_unit="l" modern_value="30" system="liquid capacity" unit="sila3" value="30"/>1(disz) dug</count> <com dist="1">i3</com> 
+<count><interpretation modern_unit="l" modern_value="120" system="liquid capacity" unit="sila3" value="120"/>4(disz) dug</count> tur <com dist="1">lal3</com> 
+<count><interpretation modern_unit="l" modern_value="90" system="liquid capacity" unit="sila3" value="90"/>3(disz) dug</count> bad3-la2 <com dist="1">i3-nun</com> 
+<count><interpretation modern_unit="l" modern_value="90" system="liquid capacity" unit="sila3" value="90"/>3(disz) dug</count> bad3-la2 <com dist="1">ga-ar3</com> 
+<count><interpretation modern_unit="l" modern_value="90" system="liquid capacity" unit="sila3" value="90"/>3(disz) dug</count> kaskal <com dist="1">i3</com> du10-ga 
+<count><interpretation modern_unit="l" modern_value="60" system="liquid capacity" unit="sila3" value="60"/>2(disz) dug</count> udul2 <com dist="1">i3-nun</com> 
+<count><interpretation modern_unit="l" modern_value="30" system="liquid capacity" unit="sila3" value="30"/>1(disz) dug</count> udul2 <com dist="1">ga-ar3</com> 
+<count><interpretation modern_unit="l" modern_value="30" system="liquid capacity" unit="sila3" value="30"/>1(disz) dug</count> udul2 ki-na-ab-hu-um 
+<count><interpretation modern_unit="l" modern_value="180" system="liquid capacity" unit="sila3" value="180"/>6(disz) dug</count> <com dist="1">sze</com> duru5 
+<count><interpretation modern_unit="" modern_value="2" system="cardinal" unit="" value="2"/>2(disz)</count> <com dist="1">gur-dub</com> szum2-sikil 
+<count><interpretation modern_unit="" modern_value="1" system="cardinal" unit="" value="1"/>1(disz)</count> esir2 al-dar-a 
+<count><interpretation modern_unit="" modern_value="2" system="cardinal" unit="" value="2"/>2(disz)</count> gur-dub ar-gi-lum 
+<count><interpretation modern_unit="" modern_value="2" system="cardinal" unit="" value="2"/>2(disz)</count> <com dist="1">{gesz}pesz3</com> sze-er-gu 
+<count><interpretation modern_unit="" modern_value="1" system="cardinal" unit="" value="1"/>1(disz)</count> pisan <com dist="1">ninda</com> 
+<count><interpretation modern_unit="" modern_value="3" system="cardinal" unit="" value="3"/>3(disz)</count> ku6 kun-zi 
+<count><interpretation modern_unit="" modern_value="18" system="cardinal" unit="" value="18"/>1(u) 8(disz)</count> ku6 sag-kur2 
+ma2-ta gar-ra 
+umma{ki}-sze3 
+</commodities>

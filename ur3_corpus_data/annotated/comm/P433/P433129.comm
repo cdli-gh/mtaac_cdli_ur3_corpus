@@ -1,0 +1,25 @@
+<commodities>
+#P433129 = X.3.155
+#atf: lang sux
+#tr.en: 10 ...,
+#tr.en: 22 weaver garments,
+#tr.en: 1 sila3 lard,
+#tr.en: 1 talent gypsum,
+#tr.en: from Ikalla,
+#tr.en: under seal of Ayakalla;
+#tr.en: month: “pa’u’e,”
+# seal impression
+#tr.en: year: “The house of Šara was erected.”
+#tr.en: Akalla,
+#tr.en: son of Lugal-emaḫ.
+<count><interpretation modern_unit="" modern_value="none" system="unknown" unit="" value="none"/>1(u) x ...</count> 
+<count><interpretation modern_unit="" modern_value="22" system="cardinal" unit="" value="22"/>2(u) 2(disz)</count> <com dist="1">tug2</com> usz-bar 
+<count><interpretation modern_unit="l" modern_value="1" system="liquid capacity" unit="sila3" value="1"/><interpretation modern_unit="l" modern_value="1" system="dry capacity" unit="sila3" value="1"/>1(disz) sila3</count> i3-szah2 
+<count><interpretation modern_unit="g" modern_value="30000.000000000004" system="weight" unit="gin2" value="3600"/>1(asz) gu2</count> im-babbar2 
+ki i3-kal-la-ta 
+kiszib3 a-a-kal-la 
+iti pa4-u2-e 
+mu e2 {d}szara2 <com dist="1">ba-du3</com> 
+a-kal-la 
+dumu lugal-e2-mah 
+</commodities>

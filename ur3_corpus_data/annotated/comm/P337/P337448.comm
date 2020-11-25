@@ -1,0 +1,47 @@
+<commodities>
+#P337448 = OIM A03172 
+#atf: lang sux 
+# calculation: 1611 ÷ 6 = 268.5 
+# calculation: 345 ÷ 5 = 69 
+# calculation: 2190 ÷ 30 = 73 
+# calculation: 340 ÷ 20 = 17 
+# calculation: 727.5 ÷ 15 = 48.5 
+# calculation: 125 ÷ 5 = 25 
+# calculation: 72 ÷ 6 = 12 
+# calculation: 250 ÷ 20 = 12.5 
+# calculation: 1935 ÷ 30 = 64.5 
+# calculation: 360 ÷ 30 = 12 
+<count><interpretation modern_unit="bricks" modern_value="13919040" system="bricks" unit="gin2" value="1159920"/><interpretation modern_unit="m^2" modern_value="57996.0" system="surface" unit="gin2" value="96660"/><interpretation modern_unit="l" modern_value="28998000" system="volume" unit="gin2" value="96660"/>2(geszu) 6(gesz2) 5(u) 1(disz) sar</count> <com dist="1">al</com> <count><interpretation modern_unit="" modern_value="6" system="cardinal" unit="" value="6"/>6(disz)</count> sar-ta 
+<com dist="1">a2-bi</com> u4 <count><interpretation modern_unit="" modern_value="268" system="cardinal" unit="" value="268"/>4(gesz2) 2(u) 8(disz)</count> <count><interpretation modern_unit="" modern_value="0.5" system="cardinal" unit="" value="0.5"/>1/2(disz)-kam</count> 
+<count><interpretation modern_unit="bricks" modern_value="2980800" system="bricks" unit="gin2" value="248400"/><interpretation modern_unit="m^2" modern_value="12420.0" system="surface" unit="gin2" value="20700"/><interpretation modern_unit="l" modern_value="6210000" system="volume" unit="gin2" value="20700"/>5(gesz2) 4(u) 5(disz) sar</count> <com dist="1">al</com> <count><interpretation modern_unit="" modern_value="5" system="cardinal" unit="" value="5"/>5(disz)</count> sar-ta 
+<com dist="1">a2-bi</com> u4 <count><interpretation modern_unit="" modern_value="70" system="cardinal" unit="" value="70"/>1(gesz2) 1(u) la2</count> <count><interpretation modern_unit="" modern_value="1" system="cardinal" unit="" value="1"/>1(disz)-kam</count> 
+n sar gi dar-a ... <count><interpretation modern_unit="" modern_value="10" system="cardinal" unit="" value="10"/>1(u)</count> sar-ta 
+<com dist="1">a2-bi</com> u4 n-kam 
+a2-bi u4 <count><interpretation modern_unit="" modern_value="40" system="cardinal" unit="" value="40"/>4(u) la2</count> <count><interpretation modern_unit="" modern_value="1" system="cardinal" unit="" value="1"/>1(disz)-kam</count> 
+<count><interpretation modern_unit="bricks" modern_value="18921600" system="bricks" unit="gin2" value="1576800"/><interpretation modern_unit="m^2" modern_value="78840.0" system="surface" unit="gin2" value="131400"/><interpretation modern_unit="l" modern_value="39420000" system="volume" unit="gin2" value="131400"/>3(geszu) 6(gesz2) 3(u) sar</count> kiszi16 ku5-a <count><interpretation modern_unit="" modern_value="30" system="cardinal" unit="" value="30"/>3(u)</count> sar-ta 
+<com dist="1">a2-bi</com> u4 <count><interpretation modern_unit="" modern_value="70" system="cardinal" unit="" value="70"/>7(u)</count> <count><interpretation modern_unit="" modern_value="3" system="cardinal" unit="" value="3"/>3(disz)-kam</count> 
+<count><interpretation modern_unit="bricks" modern_value="2937600" system="bricks" unit="gin2" value="244800"/><interpretation modern_unit="m^2" modern_value="12240.0" system="surface" unit="gin2" value="20400"/><interpretation modern_unit="l" modern_value="6120000" system="volume" unit="gin2" value="20400"/>5(gesz2) 4(u) sar</count> kiszi16 ku5-a <count><interpretation modern_unit="" modern_value="20" system="cardinal" unit="" value="20"/>2(u)</count> sar-ta 
+<com dist="1">a2-bi</com> u4 <count><interpretation modern_unit="" modern_value="10" system="cardinal" unit="" value="10"/>1(u)</count> <count><interpretation modern_unit="" modern_value="7" system="cardinal" unit="" value="7"/>7(disz)-kam</count> 
+<count><interpretation modern_unit="bricks" modern_value="6285600.0" system="bricks" unit="gin2" value="523800.0"/><interpretation modern_unit="m^2" modern_value="26190.0" system="surface" unit="gin2" value="43650.0"/><interpretation modern_unit="l" modern_value="13095000.0" system="volume" unit="gin2" value="43650.0"/>1(geszu) 2(gesz2) 7(disz) 1/2(disz) sar</count> kiszi16 ku5-a <count><interpretation modern_unit="" modern_value="15" system="cardinal" unit="" value="15"/>1(u) 5(disz)</count> sar-ta 
+<com dist="1">a2-bi</com> u4 <count><interpretation modern_unit="" modern_value="48" system="cardinal" unit="" value="48"/>4(u) 8(disz)</count> <count><interpretation modern_unit="" modern_value="0.5" system="cardinal" unit="" value="0.5"/>1/2(disz)-kam</count> 
+x ... x ... 
+ugula lu2-{d}szara2 
+<count><interpretation modern_unit="bricks" modern_value="1080000" system="bricks" unit="gin2" value="90000"/><interpretation modern_unit="m^2" modern_value="4500.0" system="surface" unit="gin2" value="7500"/><interpretation modern_unit="l" modern_value="2250000" system="volume" unit="gin2" value="7500"/>2(gesz2) 5(disz) sar</count> <com dist="1">al</com> <count><interpretation modern_unit="" modern_value="5" system="cardinal" unit="" value="5"/>5(disz)</count> sar-ta 
+<com dist="1">a2-bi</com> u4 <count><interpretation modern_unit="" modern_value="20" system="cardinal" unit="" value="20"/>2(u)</count> <count><interpretation modern_unit="" modern_value="5" system="cardinal" unit="" value="5"/>5(disz)-kam</count> 
+<count><interpretation modern_unit="bricks" modern_value="622080" system="bricks" unit="gin2" value="51840"/><interpretation modern_unit="m^2" modern_value="2592.0" system="surface" unit="gin2" value="4320"/><interpretation modern_unit="l" modern_value="1296000" system="volume" unit="gin2" value="4320"/>1(gesz2) 1(u) 2(disz) sar</count> <com dist="1">al</com> <count><interpretation modern_unit="" modern_value="6" system="cardinal" unit="" value="6"/>6(disz)</count> sar-ta 
+<com dist="1">a2-bi</com> u4 <count><interpretation modern_unit="" modern_value="10" system="cardinal" unit="" value="10"/>1(u)</count> <count><interpretation modern_unit="" modern_value="2" system="cardinal" unit="" value="2"/>2(disz)-kam</count> 
+<count><interpretation modern_unit="bricks" modern_value="2160000" system="bricks" unit="gin2" value="180000"/><interpretation modern_unit="m^2" modern_value="9000.0" system="surface" unit="gin2" value="15000"/><interpretation modern_unit="l" modern_value="4500000" system="volume" unit="gin2" value="15000"/>4(gesz2) 1(u) sar</count> gi ku5-a <count><interpretation modern_unit="" modern_value="20" system="cardinal" unit="" value="20"/>2(u)</count> sar-ta 
+<com dist="1">a2-bi</com> u4 <count><interpretation modern_unit="" modern_value="12" system="cardinal" unit="" value="12"/>1(u) 2(disz)</count> <count><interpretation modern_unit="" modern_value="0.5" system="cardinal" unit="" value="0.5"/>1/2(disz)-kam</count> 
+... x 
+... sar <com dist="1">{u2}har-an</com> bu3-ra <count><interpretation modern_unit="" modern_value="20" system="cardinal" unit="" value="20"/>2(u)-sar</count> 
+a2-bi u4 <count><interpretation modern_unit="" modern_value="84" system="cardinal" unit="" value="84"/>1(gesz2) 2(u) 4(disz)</count> 
+<count><interpretation modern_unit="bricks" modern_value="16718400" system="bricks" unit="gin2" value="1393200"/><interpretation modern_unit="m^2" modern_value="69660.0" system="surface" unit="gin2" value="116100"/><interpretation modern_unit="l" modern_value="34830000" system="volume" unit="gin2" value="116100"/>3(geszu) 2(gesz2) 1(u) 5(disz) sar</count> <com dist="1">{u2}har-an</com> bu3-ra <count><interpretation modern_unit="" modern_value="30" system="cardinal" unit="" value="30"/>3(u)</count> sar-ta 
+<com dist="1">a2-bi</com> u4 <count><interpretation modern_unit="" modern_value="64" system="cardinal" unit="" value="64"/>1(gesz2) 4(disz)</count> <count><interpretation modern_unit="" modern_value="0.5" system="cardinal" unit="" value="0.5"/>1/2(disz)-kam</count> 
+<count><interpretation modern_unit="bricks" modern_value="3110400" system="bricks" unit="gin2" value="259200"/><interpretation modern_unit="m^2" modern_value="12960.0" system="surface" unit="gin2" value="21600"/><interpretation modern_unit="l" modern_value="6480000" system="volume" unit="gin2" value="21600"/>6(gesz2) sar</count> kiszi16 <count><interpretation modern_unit="" modern_value="30" system="cardinal" unit="" value="30"/>3(u)</count> sar-ta 
+<com dist="1">a2-bi</com> u4 <count><interpretation modern_unit="" modern_value="10" system="cardinal" unit="" value="10"/>1(u)</count> <count><interpretation modern_unit="" modern_value="2" system="cardinal" unit="" value="2"/>2(disz)-kam</count> 
+a2 lu2 hun-ga2 <count><interpretation modern_unit="" modern_value="6" system="cardinal" unit="" value="6"/>6(disz)</count> sila3-ta 
+a-sza3 gibil <com dist="1">u3</com> a-sza3 ... {d}szara2 ... 
+ur-{d}szul-pa-e3 
+dub-sar 
+dumu ha-ba-lu5-ge2 
+</commodities>

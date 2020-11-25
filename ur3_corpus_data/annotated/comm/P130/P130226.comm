@@ -1,0 +1,30 @@
+<commodities>
+#P130226 = SNAT 466
+#atf: lang sux
+# calculation: 36 × 3 × 2? ÷ 4.5 = 48
+# ploughmen always 3 erin2, seeding ploughs always 4 erin2:
+# d = (a ÷ b/3) + (a ÷ c/3 x 3/2/1) = (a/b x 3) + ((a/c x 3) x 3/2/1)
+# if plough type1 . plough type2, then:
+# d = 2(a ÷ b/3) + (a ÷ c/3 x 3/2/1) etc.
+# calculation: 1100 ÷ 20 = 55
+# calculation: 1095 ÷ 15 = 73
+# calculation: 1120 ÷ 20 = 56
+<count><interpretation modern_unit="m^2" modern_value="129600.0" system="surface" unit="gin2" value="216000"/>2(bur3) gan2</count> gesz-ur3-ra 
+a-ra2 <count><interpretation modern_unit="m^2" modern_value="3.9" system="surface" unit="gin2" value="6.5"/>2(disz) 4(iku) 1/2(iku)</count> GAN2-ta 
+a2 erin2-na-bi u4 <count><interpretation modern_unit="" modern_value="48" system="cardinal" unit="" value="48"/>4(u) 8(disz)</count> 
+<count><interpretation modern_unit="bricks" modern_value="9504000" system="bricks" unit="gin2" value="792000"/><interpretation modern_unit="m^2" modern_value="39600.0" system="surface" unit="gin2" value="66000"/><interpretation modern_unit="l" modern_value="19800000" system="volume" unit="gin2" value="66000"/>1(geszu) 8(gesz2) 2(u) sar</count> gi zex(SIG7)-a <count><interpretation modern_unit="" modern_value="20" system="cardinal" unit="" value="20"/>2(u)</count> sar-ta 
+<com dist="1">a2-bi</com> u4 <count><interpretation modern_unit="" modern_value="50" system="cardinal" unit="" value="50"/>5(u)</count> <count><interpretation modern_unit="" modern_value="5" system="cardinal" unit="" value="5"/>5(disz)-kam</count> 
+<count><interpretation modern_unit="bricks" modern_value="9460800" system="bricks" unit="gin2" value="788400"/><interpretation modern_unit="m^2" modern_value="39420.0" system="surface" unit="gin2" value="65700"/><interpretation modern_unit="l" modern_value="19710000" system="volume" unit="gin2" value="65700"/>1(geszu) 8(gesz2) 1(u) 5(disz) sar</count> gi ku5-ra2 <count><interpretation modern_unit="" modern_value="15" system="cardinal" unit="" value="15"/>1(u) 5(disz)</count> sar-ta 
+<com dist="1">a2-bi</com> u4 <count><interpretation modern_unit="" modern_value="70" system="cardinal" unit="" value="70"/>1(gesz2) 1(u)</count> <count><interpretation modern_unit="" modern_value="3" system="cardinal" unit="" value="3"/>3(disz)-kam</count> 
+<count><interpretation modern_unit="bricks" modern_value="9676800" system="bricks" unit="gin2" value="806400"/><interpretation modern_unit="m^2" modern_value="40320.0" system="surface" unit="gin2" value="67200"/><interpretation modern_unit="l" modern_value="20160000" system="volume" unit="gin2" value="67200"/>1(geszu) 8(gesz2) 4(u) sar</count> <com dist="1">gug4</com> gi bu3-ra <count><interpretation modern_unit="" modern_value="20" system="cardinal" unit="" value="20"/>2(u)</count> sar-ta 
+<com dist="1">a2-bi</com> u4 <count><interpretation modern_unit="" modern_value="50" system="cardinal" unit="" value="50"/>5(u)</count> <count><interpretation modern_unit="" modern_value="6" system="cardinal" unit="" value="6"/>6(disz)-kam</count> 
+a2 sza3-gu4-ka 
+a-sza3-ge kin ak 
+a-sza3 la2-mah 
+ugula ab-ba-gi-na 
+kiszib3 nu-ur2-{d}iszkur 
+mu ma2 {d}en-ki <com dist="1">ba-ab-du8</com> 
+nu-ur2-{d}iszkur 
+dub-sar 
+dumu a-hu-du10 
+</commodities>

@@ -1,0 +1,31 @@
+<commodities>
+#P114285 = MVN 05, 065
+#atf: lang sux
+#tr.en: 55 male laborer workdays,
+#tr.en: at the threshing floor of Agu stationed;
+#tr.en: 56 male laborer workdays,
+#tr.en:  from the threshing floor of Agu,
+#tr.en: barley in the boat loaded,
+#tr.en: ...
+#tr.en: ... boat unloaded;
+#tr.en: foreman: Lugal-nesage,
+#tr.en: under seal of Abbagina;
+# seal impression
+#tr.en: year: “Ḫuḫnuri was destroyed.”
+#tr.en: Lu-Šara,
+#tr.en: scribe,
+#tr.en: son of Ur-saga.
+<count><interpretation modern_unit="" modern_value="55" system="cardinal" unit="" value="55"/>5(u) 5(disz)</count> <com dist="1">gurusz</com> u4 <count><interpretation modern_unit="" modern_value="1" system="cardinal" unit="" value="1"/>1(disz)-sze3</count> 
+ki-su7 a-gu gub-ba 
+<count><interpretation modern_unit="" modern_value="56" system="cardinal" unit="" value="56"/>5(u) 6(disz)</count> <com dist="1">gurusz</com> u4 <count><interpretation modern_unit="" modern_value="1" system="cardinal" unit="" value="1"/>1(disz)-sze3</count> 
+ki-su7 a-gu-ta 
+<com dist="1">sze</com> ma2-a si-ga 
+x x x ki-sur-ASZ 
+u4 n-sze3 ma2 ba-al 
+ugula lugal-nesag-e 
+kiszib3 ab-ba-gi-na 
+mu hu-hu-nu-ri{ki} ba-hul 
+lu2-{d}szara2 
+dub-sar 
+dumu ur-sa6-ga 
+</commodities>

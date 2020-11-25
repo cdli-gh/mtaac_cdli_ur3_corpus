@@ -1,0 +1,39 @@
+<commodities>
+#P480071 = Akkadica 135/1, 086-088 07
+#atf: lang sux
+#tr.en: 1 ban2 fine beer on the 4th day,
+#tr.en: 1 ban2 fine beer on the 5th day,
+#tr.en: 1 ban2 fine beer, 1 barig regular quality beer
+#tr.en: on the 6th day,
+#tr.en: (5) 1 ban2 fine beer, 1 barig 3 ban2 regular quality beer
+#tr.en: on the 7th day;
+#tr.en: from Ur-mes.
+#tr.en: month “Pa’ue,”
+# seal impression
+#tr.en: year: “The high priest of Ga’eš was installed.”
+#tr.en: Šū-Suen,
+#tr.en: strong king,
+#tr.en: king of Ur,
+#tr.en: king of the four regions:
+#tr.en: Ayakalla,
+#tr.en: governor
+#tr.en: of Umma,
+#tr.en: is your servant.
+<count><interpretation modern_unit="l" modern_value="10" system="dry capacity" unit="sila3" value="10"/>1(ban2)</count> <com dist="1">kasz</com> saga u4 <count><interpretation modern_unit="" modern_value="4" system="cardinal" unit="" value="4"/>4(disz)-kam</count> 
+<count><interpretation modern_unit="l" modern_value="10" system="dry capacity" unit="sila3" value="10"/>1(ban2)</count> <com dist="1">kasz</com> saga u4 <count><interpretation modern_unit="" modern_value="5" system="cardinal" unit="" value="5"/>5(disz)-kam</count> 
+<count><interpretation modern_unit="l" modern_value="10" system="dry capacity" unit="sila3" value="10"/>1(ban2)</count> <com dist="1">kasz</com> saga <count><interpretation modern_unit="l" modern_value="60" system="dry capacity" unit="sila3" value="60"/>1(barig)</count> kasz du 
+u4 <count><interpretation modern_unit="" modern_value="6" system="cardinal" unit="" value="6"/>6(disz)-kam</count> 
+<count><interpretation modern_unit="l" modern_value="10" system="dry capacity" unit="sila3" value="10"/>1(ban2)</count> <com dist="1">kasz</com> saga <count><interpretation modern_unit="l" modern_value="90" system="dry capacity" unit="sila3" value="90"/>1(barig) 3(ban2)</count> kasz du 
+u4 <count><interpretation modern_unit="" modern_value="7" system="cardinal" unit="" value="7"/>7(disz)-kam</count> 
+<com dist="1">ki</com> ur-mes-ta 
+iti pa4-u2-e 
+mu en ga-esz{ki} ba-hun 
+{d}szu-{d}suen 
+lugal kal-ga 
+lugal uri5{ki}-ma 
+lugal an ub-da limmu2-ba 
+a-a-kal-la 
+ensi2 
+umma{ki} 
+ARAD2-zu 
+</commodities>

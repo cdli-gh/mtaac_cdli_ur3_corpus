@@ -1,0 +1,18 @@
+<commodities>
+#P101899 = AS 17, 35 28
+#atf: lang sux
+# expect month and year names
+<count>2(asz) 4(barig) sze gur</count> 
+la2-ia3 a2 lu2 hun-ga2-ka 
+<com dist="1">a2-bi</com> nu-da-gi4 
+ur5-sze3 masz2 <count><interpretation modern_unit="l" modern_value="400" system="dry capacity" unit="sila3" value="400"/>1(asz) gur 1(barig) 4(ban2)-ta</count> 
+ki lugal-a-ma-ru-ta 
+... 
+... 
+x x ... 
+x x x ... 
+<count><interpretation modern_unit="" modern_value="1" system="cardinal" unit="" value="1"/>1(disz)</count> lu2-{d}suen x 
+<count><interpretation modern_unit="" modern_value="none" system="unknown" unit="" value="none"/>1(disz) x x x</count> 
+lu2-inim-bi-me 
+mu x x x 
+</commodities>

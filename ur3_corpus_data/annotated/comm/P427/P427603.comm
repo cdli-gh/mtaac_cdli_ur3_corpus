@@ -1,0 +1,45 @@
+<commodities>
+#P427603 = CUSAS 06, 221-224
+#atf: lang sux
+#tr.en: 210 bricks
+#tr.en: by Šat-ilī;
+#tr.en: 210,
+#tr.en: 10-(troop) of Lalkuda;
+#tr.en: 140 bricks by Lahutum;
+#tr.en: 140 bricks,
+#tr.en: 10-(troop) of Ahuni;
+#tr.en: total: 1/3 (brick)-sar 9 1/6 shekels bricks,
+# calculation: ((210 + 140 =) 350)/720 = (29 1/6)/60
+#tr.en: the length involved: 90 ninda,
+#tr.en: at labor of 72 (bricks per workday),
+#tr.en: the female laborers involved: 4 and 51 2/3 shekels workdays,
+# calculation: 350/72 = 4 + (51 2/3)/60
+#tr.en: at 3 sila3 per (day) hired,
+#tr.en: the barley involved: 14 1/2 sila3 5 shekels,
+# calculation: (4 + (51 2/3)/60) × 3 = 14 35/60
+#tr.en: labor of carrying bricks,
+#tr.en: (for) the replacement house of Pišah-ilim,
+#tr.en: delivery of Simat-Ea,
+#tr.en: via Adad-tillatī;
+#tr.en: month: “Festival of Mekigal,”
+#tr.en: year: “Su-Suen, the king, Great-stele for Enlil and Ninlil erected.”
+<count><interpretation modern_unit="" modern_value="210" system="cardinal" unit="" value="210"/>3(gesz2) 3(u)</count> sig4 
+sza-at-i3-li2 
+($ blank space $) <count><interpretation modern_unit="" modern_value="210" system="cardinal" unit="" value="210"/>3(gesz2) 3(u)</count> 
+nam-1(u) la-al-ku-da 
+<count><interpretation modern_unit="" modern_value="140" system="cardinal" unit="" value="140"/>2(gesz2) 2(u)</count> la-hu-tum 
+($ blank space $) <count><interpretation modern_unit="" modern_value="140" system="cardinal" unit="" value="140"/>2(gesz2) 2(u)</count> 
+nam-1(u) a-hu-ni 
+szunigin <count><interpretation modern_unit="bricks" modern_value="4178.0" system="bricks" unit="gin2" value="348.1666666666667"/><interpretation modern_unit="m^2" modern_value="17.499999999999996" system="surface" unit="gin2" value="29.166666666666664"/><interpretation modern_unit="l" modern_value="8750.0" system="volume" unit="gin2" value="29.166666666666664"/>1/3(disz) sar 9(disz) gin2 igi-6(disz)-gal2</count> sig4 
+<com dist="1">us2-bi</com> <count><interpretation modern_unit="m" modern_value="540" system="length" unit="gi" value="180"/>1(gesz2) 3(u) ninda</count> 
+a2 <count><interpretation modern_unit="" modern_value="72" system="cardinal" unit="" value="72"/>1(gesz2) 1(u) 2(disz)-ta</count> 
+<com dist="1">geme2-bi</com> <count><interpretation modern_unit="" modern_value="4.861111111111111" system="cardinal" unit="" value="4.861111111111111"/>4(disz) 5(u) 1(disz) 2/3(disz) gin2</count> u4 <count><interpretation modern_unit="" modern_value="1" system="cardinal" unit="" value="1"/>1(disz)-sze3</count> 
+<com dist="1">sze</com> <count><interpretation modern_unit="" modern_value="3" system="cardinal" unit="" value="3"/>3(disz)</count> sila3-ta ba-hun 
+<com dist="1">sze-bi</com> <count><interpretation modern_unit="l" modern_value="14.583333333333332" system="liquid capacity" unit="sila3" value="14.583333333333332"/><interpretation modern_unit="l" modern_value="14.583333333333332" system="dry capacity" unit="sila3" value="14.583333333333332"/>1(u) 4(disz) 1/2(disz) sila3 5(disz) gin2</count> 
+a2 sig4 ga6-ga2 
+e2-ki-ba-gar-ra pi5-sza-ah-dingir 
+mu-kux(DU) me-e2-a 
+giri3 {d}iszkur-tillat 
+iti ezem-me-ki-gal2 
+mu {d}szu-{d}suen <com dist="1">lugal-e</com> na-ru2-a-mah {d}en-lil2 {d}nin-lil2-ra mu-ne-du3 
+</commodities>

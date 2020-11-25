@@ -1,0 +1,48 @@
+<commodities>
+#P416418 = CDLJ 2012/1 §4.38
+#atf: lang sux
+#tr.en: 1 sheep, barley-fed, ...,
+#tr.en: 1 buck, barley-fed, of n grade,
+#tr.en: 1(?) sheep, barley-fed,
+#tr.en: for Enlil and Ninlil;
+#tr.en: 1 sheep, barley-fed, for Nanna;
+#tr.en: 2 sheep, barley-fed, of 2nd grade,
+#tr.en: 3 sheep, barley-fed,
+#tr.en: siskur-offering with Suen, House of Crescent;
+#tr.en: 1 sheep, barley-fed, siskur-offering for Inanna in the palace,
+#tr.en: Babanšen, responsible official;
+#tr.en: ... sheep,
+#tr.en: ...
+#tr.en: ... for Marḫuni from Ḫarši;
+#tr.en: 1 sheep, barley-fed, for Aḫab-atal, man of Ḫibilat;
+#tr.en: 1 buck, barley-fed, for Ilī-Dagan from Ebla;
+#tr.en: Ur-šarrugin, the messenger, responsible official
+#tr.en: of the month, day 29 elapsed,
+#tr.en: “booked-outs” in Tummal,
+#tr.en: from En-dingirmu(’s account);
+#tr.en: month: “Šu’eša,”
+#tr.en: year: “Šašrum was destroyed;”
+#tr.en: (total:) 19.
+<count><interpretation modern_unit="" modern_value="1" system="cardinal" unit="" value="1"/>1(disz)</count> <com dist="1">udu</com> niga ... 
+<count><interpretation modern_unit="" modern_value="1" system="cardinal" unit="" value="1"/>1(disz)</count> <com dist="1">masz2-gal</com> niga n-kam us2 
+<count><interpretation modern_unit="" modern_value="1" system="cardinal" unit="" value="1"/>1(disz)</count> udu niga 
+{d}en-lil2 {d}nin-lil2 
+<count><interpretation modern_unit="" modern_value="1" system="cardinal" unit="" value="1"/>1(disz)</count> <com dist="1">udu</com> niga {d}nanna 
+<count><interpretation modern_unit="" modern_value="2" system="cardinal" unit="" value="2"/>2(disz)</count> <com dist="1">udu</com> niga saga us2 
+<count><interpretation modern_unit="" modern_value="3" system="cardinal" unit="" value="3"/>3(disz)</count> udu niga 
+siskur2 <com dist="1">ki</com> {d}suen e2-u4-sakar 
+<count><interpretation modern_unit="" modern_value="1" system="cardinal" unit="" value="1"/>1(disz)</count> <com dist="1">udu</com> niga siskur2 {d}inanna sza3 e2-gal 
+ba-ba-an-sze-en maszkim 
+... udu 
+... 
+... mar-hu-ni lu2 ha-ar-szi{ki} 
+<count><interpretation modern_unit="" modern_value="1" system="cardinal" unit="" value="1"/>1(disz)</count> <com dist="1">udu</com> niga a2-ha-ba-tal lu2 hi-bi2-la-at{ki} 
+<count><interpretation modern_unit="" modern_value="1" system="cardinal" unit="" value="1"/>1(disz)</count> <com dist="1">masz2-gal</com> niga i3-li2-{d}da-gan lu2 eb-la{ki} 
+ur-szar-ru-gin7 sukkal maszkim 
+iti u4 <count><interpretation modern_unit="" modern_value="29" system="cardinal" unit="" value="29"/>3(u) la2 1(disz)</count> ba-zal 
+zi-ga sza3 tum-ma-al 
+<com dist="1">ki</com> en-dingir-mu 
+iti szu-esz-sza 
+mu sza-asz-ru-um{ki} ba-hul 
+<count><interpretation modern_unit="" modern_value="19" system="cardinal" unit="" value="19"/>2(u) la2 1(disz)</count> 
+</commodities>

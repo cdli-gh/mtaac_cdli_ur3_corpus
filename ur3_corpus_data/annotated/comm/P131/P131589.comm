@@ -1,0 +1,396 @@
+<commodities>
+#P131589 = TCL 02, 5499
+#atf: lang sux
+#tr.en: 4 mature cows,
+#tr.fr: 4 vaches adultes,
+#tr.en: 1 heifer calf, suckling,
+#tr.fr: 1 génisse de lait,
+#tr.en: 1 bull calf, suckling,
+#tr.fr: 1 veau de lait,
+#tr.en: their butter oil: 2 ban2,
+#tr.fr: leur beurre clarifié: 2 ban2,
+# calculation: 4 × 5 = 20 sila3
+#tr.en: their (kašk) cheese: 3 ban2,
+#tr.fr: leur fromage(-kašk): 3 ban2,
+# calculation: 4 × 7.5 = 30 sila3
+#tr.en: year: “The household Puzriš-Dagan was erected;”
+#tr.fr: année: “Le domaine Puzriš-Dagan a été construit;”
+#tr.en: 4 mature cows,
+#tr.fr: 4 vaches adultes,
+#tr.en: 1 heifer, 1 year (old),
+#tr.fr: 1 génisse de 1 an,
+#tr.en: 1 bull calf, suckling,
+#tr.fr: 1 génisse de lait,
+#tr.en: 1 bull, 1 year (old),
+#tr.fr: 1 taurillon de 1 an,
+#tr.en: 1 bull calf, suckling,
+#tr.fr: 1 veau de lait,
+#tr.en: their butter oil: 2 ban2,
+#tr.fr: leur beurre clarifié: 2 ban2,
+# calculation: 4 × 5 = 20 sila3
+#tr.en: their (kašk) cheese: 3 ban2,
+#tr.fr: leur fromage(-kašk): 3 ban2,
+# calculation: 4 × 7.5 = 30 sila3
+#tr.en: year after: “The household Puzriš-Dagan was erected;”
+#tr.fr: année qui suit: “Le domaine Puzriš-Dagan a été construit;”
+#tr.en: 4 mature cows,
+#tr.fr: 4 vaches adultes,
+#tr.en: 1 heifer, 2 years (old),
+#tr.fr: 1 génisse de 2 ans,
+#tr.en: 1 heifer, 1 year (old),
+#tr.fr: 1 génisse de 1 an,
+#tr.en: 1 heifer calf, suckling,
+#tr.fr: 1 génisse de lait,
+#tr.en: 1 bull, 2 years (old),
+#tr.fr: 1 taurillon de 2 ans,
+#tr.en: 1 bull, 1 year (old),
+#tr.fr: 1 taurillon de 1 an,
+#tr.en: 1 bull calf, suckling,
+#tr.fr: 1 veau de lait,
+#tr.en: their butter oil: 2 ban2,
+#tr.fr: leur beurre clarifié: 2 ban2,
+# calculation: 4 × 5 = 20 sila3
+#tr.en: their (kašk) cheese: 3 ban2,
+#tr.fr: leur fromage(-kašk): 3 ban2,
+# calculation: 4 × 7.5 = 30 sila3
+#tr.en: year after: “The household Puzriš-Dagan was erected,” year after that;
+#tr.fr: année qui suit: “Le domaine Puzriš-Dagan a été construit”, année qui la suit;
+#tr.en: 4 mature cows,
+#tr.fr: 4 vaches adultes,
+#tr.en: 1 heifer, 3 years (old),
+#tr.fr: 1 génisse de 3 ans,
+#tr.en: 1 heifer, 2 years (old),
+#tr.fr: 1 génisse de 2 ans,
+#tr.en: 1 heifer, 1 year (old),
+#tr.fr: 1 génisse de 1 an,
+#tr.en: 1 heifer calf, suckling,
+#tr.fr: 1 génisse de lait,
+#tr.en: 1 bull, 3 years (old),
+#tr.fr: 1 taurillon de 3 ans,
+#tr.en: 1 bull, 2 years (old),
+#tr.fr: 1 taurillon de 2 ans,
+#tr.en: 1 bull, 1 year (old),
+#tr.fr: 1 taurillon de 1 an,
+#tr.en: 1 bull calf, suckling,
+#tr.fr: 1 veau de lait,
+#tr.en: their butter oil: 2 ban2,
+#tr.fr: leur beurre clarifié: 2 ban2,
+# calculation: 4 × 5 = 20 sila3
+#tr.en: their (kašk) cheese: 3 ban2,
+#tr.fr: leur fromage(-kašk): 3 ban2,
+# calculation: 4 × 7.5 = 30 sila3
+#tr.en: year: “Šašru was destroyed;”
+#tr.fr: année: “Šašru a été détruite;”
+#tr.en: 5 mature cows,
+#tr.fr: 5 vaches adultes,
+#tr.en: 1 heifer, 3 years (old),
+#tr.fr: 1 génisse de 3 ans,
+#tr.en: 1 heifer, 2 years (old),
+#tr.fr: 1 génisse de 2 ans,
+#tr.en: 1 heifer, 1 year (old),
+#tr.fr: 1 génisse de 1 an,
+#tr.en: 1 heifer calf, suckling,
+#tr.fr: 1 génisse de lait,
+#tr.en: 1 mature bull,
+#tr.fr: 1 taureau adulte,
+#tr.en: 1 bull, 3 years (old),
+#tr.fr: 1 taurillon de 3 ans,
+#tr.en: 1 bull, 2 years (old),
+#tr.fr: 1 taurillon de 2 ans,
+#tr.en: 1 bull, 1 year (old),
+#tr.fr: 1 taurillon de 1 an,
+#tr.en: 1 bull calf, suckling,
+#tr.fr: 1 veau de lait,
+#tr.en: their butter oil: 2 ban2,
+#tr.fr: leur beurre clarifié: 2 ban2,
+# calculation: 4 × 5 = 20 sila3
+#tr.en: their (kašk) cheese: 3 ban2,
+#tr.fr: leur fromage(-kašk): 3 ban2,
+# calculation: 4 × 7.5 = 30 sila3
+#tr.en: year: “The lord of Nanna was chosen via extispacy;”
+#tr.fr: année: “la prêtresse de Nanna a été choisie par extispicine;”
+#tr.en: 6 mature cows,
+#tr.fr: 6 vaches adultes,
+#tr.en: 1 heifer, 3 years (old),
+#tr.fr: 1 génisse de 3 ans,
+#tr.en: 1 heifer, 2 years (old),
+#tr.fr: 1 génisse de 2 ans,
+#tr.en: 1 heifer, 1 year (old),
+#tr.fr: 1 génisse de 1 an,
+#tr.en: 1 heifer calf, suckling
+#tr.fr: 1 génisse à la mamelle,
+#tr.en: 2 mature bulls,
+#tr.fr: 2 taureaux adultes,
+#tr.en: 1 bull, 3 years (old),
+#tr.fr: 1 taurillon de 3 ans,
+#tr.en: 1 bull, 2 years (old),
+#tr.fr: 1 taurillon de 2 ans,
+#tr.en: 1 bull, 1 year (old),
+#tr.fr: 1 taurillon de 1 an,
+#tr.en: 2 bull calves, suckling,
+#tr.fr: 2 veaux de lait,
+#tr.en: their butter oil: 2 ban2 5 sila3,
+#tr.fr: leur beurre clarifié: 2 ban2 5 sila3,
+# calculation: 5 × 5 = 25 sila3
+#tr.en: their (kašk) cheese: 3 ban2 7 1/2 sila3,
+#tr.fr: leur fromage(-kašk): 3 ban2 7 1/2 sila3
+# calculation: 5 × 7.5 = 37.5 sila3
+#tr.en: year: “Simurum and Lulubu were destroyed for the 9th time;”
+#tr.fr: année: “Simurum et Lulubu ont été détruits pour la 9e fois;”
+#tr.en: 7 mature cows,
+#tr.fr: 7 vaches adultes,
+#tr.en: 1 heifer, 3 years (old),
+#tr.fr: 1 génisse de 3 ans,
+#tr.en: 1 heifer, 2 years (old),
+#tr.fr: 1 génisse de 2 ans,
+#tr.en: 1 heifer, 1 year (old),
+#tr.fr: 1 génisse de 1 an,
+#tr.en: 2 heifer calves, suckling
+#tr.fr: 2 génisses de lait,
+#tr.en: 3 mature bulls,
+#tr.fr: 3 taureaux adultes,
+#tr.en: 1 bull, 3 years (old),
+#tr.fr: 1 taurillon de 3 ans,
+#tr.en: 1 bull, 2 years (old),
+#tr.fr: 1 taurillon de 2 ans,
+#tr.en: 2 bulls, 1 year (old),
+#tr.fr: 2 taurillons de 1 an,
+#tr.en: 1 bull calf, suckling,
+#tr.fr: 1 veau de lait,
+#tr.en: their butter oil: 3 ban2,
+#tr.fr: leur beurre clarifié: 3 ban2,
+# calculation: 6 × 5 = 30 sila3
+#tr.en: their (kašk) cheese: 4 ban2 5 sila3,
+#tr.fr: leur fromage(-kašk): 4 ban2 5 sila3,
+# calculation: 6 × 7.5 = 45 sila3
+#tr.en: year: “Urbilum was destroyed;”
+#tr.fr: année: “Urbilum a été détruite;”
+#tr.en: 8 mature cows,
+#tr.fr: 8 vaches adultes,
+#tr.en: 1 heifer, 3 years (old),
+#tr.fr: 1 génisse de 3 ans,
+#tr.en: 1 heifer, 2 years (old),
+#tr.fr: 1 génisse de 2 ans,
+#tr.en: 2 heifer, 1 year (old),
+#tr.fr: 2 génisses de 1 an,
+#tr.en: 1 heifer calf, suckling
+#tr.fr: 1 génisse de lait,
+#tr.en: 4 mature bulls,
+#tr.fr: 4 taureaux adultes,
+#tr.en: 1 bull, 3 years (old),
+#tr.fr: 1 taurillon de 3 ans,
+#tr.en: 2 bulls, 2 years (old),
+#tr.fr: 2 taurillons de 2 ans,
+#tr.en: 1 bull, 1 year (old),
+#tr.fr: 1 taurillon de 1 an,
+#tr.en: 2 bull calves, suckling,
+#tr.fr: 2 veaux de lait,
+#tr.en: their butter oil: 3 ban2 5 sila3,
+#tr.fr: leur beurre clarifié: 3 ban2 5 sila3,
+# calculation: 7 × 5 = 35 sila3
+#tr.en: their (kašk) cheese: 4 ban2 7 1/2 sila3,
+#tr.fr: leur fromage(-kašk): 4 ban2 7 1/2 sila3,
+# calculation: 7 × 7.5 = 52.5 sila3 (text has 47.5)
+#tr.en: year: “Kimaš and Hurti were destroyed;”
+#tr.fr: année: “Kimaš et Hurti ont été détruites;”
+#tr.en: 9 mature cows,
+#tr.fr: 9 vaches adultes,
+#tr.en: 1 heifer, 3 years (old),
+#tr.fr: 1 génisse de 3 ans,
+#tr.en: 2 heifers, 2 years (old),
+#tr.fr: 2 génisses de 2 ans,
+#tr.en: 1 heifer, 1 year (old),
+#tr.fr: 1 génisse de 1 an,
+#tr.en: 2 heifer calves, suckling
+#tr.fr: 2 génisses de lait,
+#tr.en: 5 mature bulls,
+#tr.fr: 5 taureaux adultes,
+#tr.en: 2 bulls, 3 years (old),
+#tr.fr: 2 taurillons de 3 ans,
+#tr.en: 1 bull, 2 years (old),
+#tr.fr: 1 taurillon de 2 ans,
+#tr.en: 2 bulls, 1 year (old),
+#tr.fr: 2 taurillons de 1 an,
+#tr.en: 2 bull calves, suckling,
+#tr.fr: 2 veaux de lait,
+#tr.en: their butter oil: 4 ban2,
+#tr.fr: leur beurre clarifié: 4 ban2,
+# calculation: 8 × 5 = 40 sila3
+#tr.en: their (kašk) cheese: 1 barig,
+#tr.fr: leur fromage(-kašk): 1 barig,
+# calculation: 8 × 7.5 = 60 sila3
+#tr.en: year after: “Kimaš and Hurti were destroyed;”
+#tr.fr: année qui suit: “Kimaš et Hurti ont été détruites;”
+#tr.en: 10 mature cows,
+#tr.fr: 10 vaches adultes,
+#tr.en: 2 heifers, 3 years (old),
+#tr.fr: 2 génisses de 3 ans,
+#tr.en: 1 heifer, 2 years (old),
+#tr.fr: 1 génisse de 2 ans,
+#tr.en: 2 heifers, 1 year (old),
+#tr.fr: 2 génisses de 1 an,
+#tr.en: 3 heifer calves, suckling
+#tr.fr: 3 génisses de lait,
+#tr.en: 7 mature bulls,
+#tr.fr: 7 taureaux adultes,
+#tr.en: 1 bull, 3 years (old),
+#tr.fr: 1 taurillon de 3 ans,
+#tr.en: 2 bulls, 2 years (old),
+#tr.fr: 2 taurillons de 2 ans,
+#tr.en: 2 bulls, 1 year (old),
+#tr.fr: 2 taurillons de 1 an,
+#tr.en: 2 bulls calves, suckling,
+#tr.fr: 2 veaux de lait,
+#tr.en: their butter oil: 4 ban2 5 sila3,
+#tr.fr: leur beurre clarifié: 4 ban2 5 sila3,
+# calculation: 9 × 5 = 45 sila3
+#tr.en: their (kašk) cheese: 1 barig 7 1/2 sila3,
+#tr.fr: leur fromage(-kašk): 1 barig 7 1/2 sila3,
+# calculation: 9 × 7.5 = 67.5 sila3
+#tr.en: year: “Harši and Kimaš were destroyed;”
+#tr.fr: année: “Harši et Kimaš ont été détruites;”
+#tr.en: total: 18 diverse cows,
+#tr.fr: 18 vaches diverses,
+# calculation: the number of cows in final herd
+#tr.en: total: 14 diverse bulls,
+#tr.fr: 14 taureaux divers,
+# calculation: the number of bulls in final herd
+#tr.en: total: 4 barig 3 ban2 5 sila3 butter oil,
+#tr.fr: total: 4 barig 3 ban2 5 sila3 de beurre clarifié,
+# calculation: addition of all i3-nun-bi lines
+#tr.en: total: 1 gur 1 barig 5 ban2 2 1/2 sila3 (kašk) cheese;
+#tr.fr: total: 1 gur 1 barig 5 ban2 2 1/2 sila3 de fromage(-kašk);
+# calculation: addition of all ga-ar3-bi lines (correcting rev. i 12)
+#tr.en: the silver (equivalent) of their oil: 1/3 mana 7 1/2 shekels,
+#tr.fr: (équivalent en) argent de cette matière grasse: 1/3 mine 7 1/2 sicles,
+# calculation: 275 (sila3 i3-nun) / 10 (sila3 per shekel) = 27.5 (shekels),
+#tr.en: the silver (equivalent) of their cheese: 2 2/3 shekels 15 grains;
+#tr.fr: (équivalent en) argent de ces produits laitiers: 2 2/3 mines 15 grains,
+# calculation: 412.5 (sila3 ga-ar3) / 150 (sila3 per shekel) = 2 120+15/180 (2.75 shekels);
+#tr.en: account
+#tr.fr: bilan comptable
+#tr.en: of Idu’a, son of Isu-arik, household manager of Ištaran.
+#tr.fr: Idu’a fils de Isu-arik, administrateur (du domaine) d’Ištaran.
+<count><interpretation modern_unit="" modern_value="4" system="cardinal" unit="" value="4"/>4(disz)</count> ab2-mah2 
+<count><interpretation modern_unit="" modern_value="1" system="cardinal" unit="" value="1"/>1(disz)</count> <com dist="1">ab2</com> amar ga 
+<count><interpretation modern_unit="" modern_value="1" system="cardinal" unit="" value="1"/>1(disz)</count> gu4 amar ga 
+i3-nun-bi <count><interpretation modern_unit="l" modern_value="20" system="dry capacity" unit="sila3" value="20"/>2(ban2)</count> 
+ga-ar3-bi <count><interpretation modern_unit="l" modern_value="30" system="dry capacity" unit="sila3" value="30"/>3(ban2)</count> 
+mu e2 puzur4-isz-{d}da-gan <com dist="1">ba-du3</com> 
+<count><interpretation modern_unit="" modern_value="4" system="cardinal" unit="" value="4"/>4(disz)</count> ab2-mah2 
+<count><interpretation modern_unit="" modern_value="1" system="cardinal" unit="" value="1"/>1(disz)</count> <com dist="1">ab2</com> mu <count><interpretation modern_unit="" modern_value="1" system="cardinal" unit="" value="1"/>1(disz)</count> 
+<count><interpretation modern_unit="" modern_value="1" system="cardinal" unit="" value="1"/>1(disz)</count> <com dist="1">ab2</com> amar ga 
+<count><interpretation modern_unit="" modern_value="1" system="cardinal" unit="" value="1"/>1(disz)</count> gu4 mu <count><interpretation modern_unit="" modern_value="1" system="cardinal" unit="" value="1"/>1(disz)</count> 
+<count><interpretation modern_unit="" modern_value="1" system="cardinal" unit="" value="1"/>1(disz)</count> <com dist="1">gu4</com> amar ga 
+i3-nun-bi <count><interpretation modern_unit="l" modern_value="20" system="dry capacity" unit="sila3" value="20"/>2(ban2)</count> 
+ga-ar3-bi <count><interpretation modern_unit="l" modern_value="30" system="dry capacity" unit="sila3" value="30"/>3(ban2)</count> 
+mu us2-sa e2 puzur4-isz-{d}da-gan <com dist="1">ba-du3</com> 
+<count><interpretation modern_unit="" modern_value="4" system="cardinal" unit="" value="4"/>4(disz)</count> ab2-mah2 
+<count><interpretation modern_unit="" modern_value="1" system="cardinal" unit="" value="1"/>1(disz)</count> <com dist="1">ab2</com> mu <count><interpretation modern_unit="" modern_value="2" system="cardinal" unit="" value="2"/>2(disz)</count> 
+<count><interpretation modern_unit="" modern_value="1" system="cardinal" unit="" value="1"/>1(disz)</count> <com dist="1">ab2</com> mu <count><interpretation modern_unit="" modern_value="1" system="cardinal" unit="" value="1"/>1(disz)</count> 
+<count><interpretation modern_unit="" modern_value="1" system="cardinal" unit="" value="1"/>1(disz)</count> ab2(GU4) <com dist="1">amar</com> ga 
+<count><interpretation modern_unit="" modern_value="1" system="cardinal" unit="" value="1"/>1(disz)</count> gu4 mu <count><interpretation modern_unit="" modern_value="2" system="cardinal" unit="" value="2"/>2(disz)</count> 
+<count><interpretation modern_unit="" modern_value="1" system="cardinal" unit="" value="1"/>1(disz)</count> <com dist="1">gu4</com> mu <count><interpretation modern_unit="" modern_value="1" system="cardinal" unit="" value="1"/>1(disz)</count> 
+<count><interpretation modern_unit="" modern_value="1" system="cardinal" unit="" value="1"/>1(disz)</count> <com dist="1">gu4</com> amar ga 
+i3-nun-bi <count><interpretation modern_unit="l" modern_value="20" system="dry capacity" unit="sila3" value="20"/>2(ban2)</count> 
+ga-ar3-bi <count><interpretation modern_unit="l" modern_value="30" system="dry capacity" unit="sila3" value="30"/>3(ban2)</count> 
+mu us2-sa e2 puzur4-isz-{d}da-gan <com dist="1">ba-du3</com> mu us2-sa-bi 
+<count><interpretation modern_unit="" modern_value="4" system="cardinal" unit="" value="4"/>4(disz)</count> ab2-mah2 
+<count><interpretation modern_unit="" modern_value="1" system="cardinal" unit="" value="1"/>1(disz)</count> <com dist="1">ab2</com> mu <count><interpretation modern_unit="" modern_value="3" system="cardinal" unit="" value="3"/>3(disz)</count> 
+<count><interpretation modern_unit="" modern_value="1" system="cardinal" unit="" value="1"/>1(disz)</count> <com dist="1">ab2</com> mu <count><interpretation modern_unit="" modern_value="2" system="cardinal" unit="" value="2"/>2(disz)</count> 
+<count><interpretation modern_unit="" modern_value="1" system="cardinal" unit="" value="1"/>1(disz)</count> <com dist="1">ab2</com> mu <count><interpretation modern_unit="" modern_value="1" system="cardinal" unit="" value="1"/>1(disz)</count> 
+<count><interpretation modern_unit="" modern_value="1" system="cardinal" unit="" value="1"/>1(disz)</count> <com dist="1">ab2</com> amar ga 
+<count><interpretation modern_unit="" modern_value="1" system="cardinal" unit="" value="1"/>1(disz)</count> gu4 mu <count><interpretation modern_unit="" modern_value="3" system="cardinal" unit="" value="3"/>3(disz)</count> 
+<count><interpretation modern_unit="" modern_value="1" system="cardinal" unit="" value="1"/>1(disz)</count> <com dist="1">gu4</com> mu <count><interpretation modern_unit="" modern_value="2" system="cardinal" unit="" value="2"/>2(disz)</count> 
+<count><interpretation modern_unit="" modern_value="1" system="cardinal" unit="" value="1"/>1(disz)</count> <com dist="1">gu4</com> mu <count><interpretation modern_unit="" modern_value="1" system="cardinal" unit="" value="1"/>1(disz)</count> 
+<count><interpretation modern_unit="" modern_value="1" system="cardinal" unit="" value="1"/>1(disz)</count> <com dist="1">gu4</com> amar ga 
+i3-nun-bi <count><interpretation modern_unit="l" modern_value="20" system="dry capacity" unit="sila3" value="20"/>2(ban2)</count> 
+ga-ar3-bi <count><interpretation modern_unit="l" modern_value="30" system="dry capacity" unit="sila3" value="30"/>3(ban2)</count> 
+mu sza-asz-ru{ki} ba-hul 
+<count><interpretation modern_unit="" modern_value="5" system="cardinal" unit="" value="5"/>5(disz)</count> ab2-mah2 
+<count><interpretation modern_unit="" modern_value="1" system="cardinal" unit="" value="1"/>1(disz)</count> <com dist="1">ab2</com> mu <count><interpretation modern_unit="" modern_value="3" system="cardinal" unit="" value="3"/>3(disz)</count> 
+<count><interpretation modern_unit="" modern_value="1" system="cardinal" unit="" value="1"/>1(disz)</count> <com dist="1">ab2</com> mu <count><interpretation modern_unit="" modern_value="2" system="cardinal" unit="" value="2"/>2(disz)</count> 
+<count><interpretation modern_unit="" modern_value="1" system="cardinal" unit="" value="1"/>1(disz)</count> <com dist="1">ab2</com> mu <count><interpretation modern_unit="" modern_value="1" system="cardinal" unit="" value="1"/>1(disz)</count> 
+<count><interpretation modern_unit="" modern_value="1" system="cardinal" unit="" value="1"/>1(disz)</count> <com dist="1">ab2</com> amar ga 
+<count><interpretation modern_unit="" modern_value="1" system="cardinal" unit="" value="1"/>1(disz)</count> gu4-gal 
+<count><interpretation modern_unit="" modern_value="1" system="cardinal" unit="" value="1"/>1(disz)</count> <com dist="1">gu4</com> mu <count><interpretation modern_unit="" modern_value="3" system="cardinal" unit="" value="3"/>3(disz)</count> 
+<count><interpretation modern_unit="" modern_value="1" system="cardinal" unit="" value="1"/>1(disz)</count> <com dist="1">gu4</com> mu <count><interpretation modern_unit="" modern_value="2" system="cardinal" unit="" value="2"/>2(disz)</count> 
+<count><interpretation modern_unit="" modern_value="1" system="cardinal" unit="" value="1"/>1(disz)</count> <com dist="1">gu4</com> mu <count><interpretation modern_unit="" modern_value="1" system="cardinal" unit="" value="1"/>1(disz)</count> 
+<count><interpretation modern_unit="" modern_value="1" system="cardinal" unit="" value="1"/>1(disz)</count> <com dist="1">gu4</com> amar ga 
+i3-nun-bi <count><interpretation modern_unit="l" modern_value="20" system="dry capacity" unit="sila3" value="20"/>2(ban2)</count> 
+ga-ar3-bi <count><interpretation modern_unit="l" modern_value="30" system="dry capacity" unit="sila3" value="30"/>3(ban2)</count> 
+mu en {d}nanna <com dist="1">masz2-e</com> i3-pa3 
+<count><interpretation modern_unit="" modern_value="6" system="cardinal" unit="" value="6"/>6(disz)</count> ab2-mah2 
+<count><interpretation modern_unit="" modern_value="1" system="cardinal" unit="" value="1"/>1(disz)</count> <com dist="1">ab2</com> mu <count><interpretation modern_unit="" modern_value="3" system="cardinal" unit="" value="3"/>3(disz)</count> 
+<count><interpretation modern_unit="" modern_value="1" system="cardinal" unit="" value="1"/>1(disz)</count> <com dist="1">ab2</com> mu <count><interpretation modern_unit="" modern_value="2" system="cardinal" unit="" value="2"/>2(disz)</count> 
+<count><interpretation modern_unit="" modern_value="1" system="cardinal" unit="" value="1"/>1(disz)</count> <com dist="1">ab2</com> mu <count><interpretation modern_unit="" modern_value="1" system="cardinal" unit="" value="1"/>1(disz)</count> 
+<count><interpretation modern_unit="" modern_value="1" system="cardinal" unit="" value="1"/>1(disz)</count> <com dist="1">ab2</com> amar ga 
+<count><interpretation modern_unit="" modern_value="2" system="cardinal" unit="" value="2"/>2(disz)</count> gu4-gal 
+<count><interpretation modern_unit="" modern_value="1" system="cardinal" unit="" value="1"/>1(disz)</count> <com dist="1">gu4</com> mu <count><interpretation modern_unit="" modern_value="3" system="cardinal" unit="" value="3"/>3(disz)</count> 
+<count><interpretation modern_unit="" modern_value="1" system="cardinal" unit="" value="1"/>1(disz)</count> <com dist="1">gu4</com> mu <count><interpretation modern_unit="" modern_value="2" system="cardinal" unit="" value="2"/>2(disz)</count> 
+<count><interpretation modern_unit="" modern_value="1" system="cardinal" unit="" value="1"/>1(disz)</count> <com dist="1">gu4</com> mu <count><interpretation modern_unit="" modern_value="1" system="cardinal" unit="" value="1"/>1(disz)</count> 
+<count><interpretation modern_unit="" modern_value="2" system="cardinal" unit="" value="2"/>2(disz)</count> <com dist="1">gu4</com> amar ga 
+i3-nun-bi <count><interpretation modern_unit="l" modern_value="25" system="dry capacity" unit="sila3" value="25"/>2(ban2) 5(disz) sila3</count> 
+ga-ar3-bi <count><interpretation modern_unit="l" modern_value="37.5" system="dry capacity" unit="sila3" value="37.5"/>3(ban2) 7(disz) 1/2(disz) sila3</count> 
+mu si-mu-ru-um{ki} <com dist="1">u3</com> lu-lu-bu{ki} a-ra2 <count><interpretation modern_unit="" modern_value="10" system="cardinal" unit="" value="10"/>1(u) la2</count> <count><interpretation modern_unit="" modern_value="1" system="cardinal" unit="" value="1"/>1(disz)-kam-asz</count> ba-hul 
+<count><interpretation modern_unit="" modern_value="7" system="cardinal" unit="" value="7"/>7(disz)</count> ab2-mah2 
+<count><interpretation modern_unit="" modern_value="1" system="cardinal" unit="" value="1"/>1(disz)</count> <com dist="1">ab2</com> mu <count><interpretation modern_unit="" modern_value="3" system="cardinal" unit="" value="3"/>3(disz)</count> 
+<count><interpretation modern_unit="" modern_value="1" system="cardinal" unit="" value="1"/>1(disz)</count> <com dist="1">ab2</com> mu <count><interpretation modern_unit="" modern_value="2" system="cardinal" unit="" value="2"/>2(disz)</count> 
+<count><interpretation modern_unit="" modern_value="1" system="cardinal" unit="" value="1"/>1(disz)</count> <com dist="1">ab2</com> mu <count><interpretation modern_unit="" modern_value="1" system="cardinal" unit="" value="1"/>1(disz)</count> 
+<count><interpretation modern_unit="" modern_value="2" system="cardinal" unit="" value="2"/>2(disz)</count> <com dist="1">ab2</com> amar ga 
+<count><interpretation modern_unit="" modern_value="3" system="cardinal" unit="" value="3"/>3(disz)</count> gu4-gal 
+<count><interpretation modern_unit="" modern_value="1" system="cardinal" unit="" value="1"/>1(disz)</count> <com dist="1">gu4</com> mu <count><interpretation modern_unit="" modern_value="3" system="cardinal" unit="" value="3"/>3(disz)</count> 
+<count><interpretation modern_unit="" modern_value="1" system="cardinal" unit="" value="1"/>1(disz)</count> <com dist="1">gu4</com> mu <count><interpretation modern_unit="" modern_value="2" system="cardinal" unit="" value="2"/>2(disz)</count> 
+<count><interpretation modern_unit="" modern_value="2" system="cardinal" unit="" value="2"/>2(disz)</count> <com dist="1">gu4</com> mu <count><interpretation modern_unit="" modern_value="1" system="cardinal" unit="" value="1"/>1(disz)</count> 
+<count><interpretation modern_unit="" modern_value="1" system="cardinal" unit="" value="1"/>1(disz)</count> <com dist="1">gu4</com> amar ga 
+i3-nun-bi <count><interpretation modern_unit="l" modern_value="30" system="dry capacity" unit="sila3" value="30"/>3(ban2)</count> 
+ga-ar3-bi <count><interpretation modern_unit="l" modern_value="45" system="dry capacity" unit="sila3" value="45"/>4(ban2) 5(disz) sila3</count> 
+mu ur-bi2-lum{ki} ba-hul 
+<count><interpretation modern_unit="" modern_value="8" system="cardinal" unit="" value="8"/>8(disz)</count> ab2-mah2 
+<count><interpretation modern_unit="" modern_value="1" system="cardinal" unit="" value="1"/>1(disz)</count> <com dist="1">ab2</com> mu <count><interpretation modern_unit="" modern_value="3" system="cardinal" unit="" value="3"/>3(disz)</count> 
+<count><interpretation modern_unit="" modern_value="1" system="cardinal" unit="" value="1"/>1(disz)</count> <com dist="1">ab2</com> mu <count><interpretation modern_unit="" modern_value="2" system="cardinal" unit="" value="2"/>2(disz)</count> 
+<count><interpretation modern_unit="" modern_value="2" system="cardinal" unit="" value="2"/>2(disz)</count> <com dist="1">ab2</com> mu <count><interpretation modern_unit="" modern_value="1" system="cardinal" unit="" value="1"/>1(disz)</count> 
+<count><interpretation modern_unit="" modern_value="1" system="cardinal" unit="" value="1"/>1(disz)</count> <com dist="1">ab2</com> amar ga 
+<count><interpretation modern_unit="" modern_value="4" system="cardinal" unit="" value="4"/>4(disz)</count> gu4-gal 
+<count><interpretation modern_unit="" modern_value="1" system="cardinal" unit="" value="1"/>1(disz)</count> <com dist="1">gu4</com> mu <count><interpretation modern_unit="" modern_value="3" system="cardinal" unit="" value="3"/>3(disz)</count> 
+<count><interpretation modern_unit="" modern_value="2" system="cardinal" unit="" value="2"/>2(disz)</count> <com dist="1">gu4</com> mu <count><interpretation modern_unit="" modern_value="2" system="cardinal" unit="" value="2"/>2(disz)</count> 
+<count><interpretation modern_unit="" modern_value="1" system="cardinal" unit="" value="1"/>1(disz)</count> <com dist="1">gu4</com> mu <count><interpretation modern_unit="" modern_value="1" system="cardinal" unit="" value="1"/>1(disz)</count> 
+<count><interpretation modern_unit="" modern_value="2" system="cardinal" unit="" value="2"/>2(disz)</count> <com dist="1">gu4</com> amar ga 
+i3-nun-bi <count><interpretation modern_unit="l" modern_value="35" system="dry capacity" unit="sila3" value="35"/>3(ban2) 5(disz) sila3</count> 
+ga-ar3-bi <count><interpretation modern_unit="l" modern_value="47.5" system="dry capacity" unit="sila3" value="47.5"/>4(ban2) 7(disz) 1/2(disz) sila3</count> 
+mu ki-masz{ki} <com dist="1">u3</com> hu-ur5-ti{ki} ba-hul 
+<count><interpretation modern_unit="" modern_value="9" system="cardinal" unit="" value="9"/>1(u) la2 1(disz)</count> ab2-mah2 
+<count><interpretation modern_unit="" modern_value="1" system="cardinal" unit="" value="1"/>1(disz)</count> <com dist="1">ab2</com> mu <count><interpretation modern_unit="" modern_value="3" system="cardinal" unit="" value="3"/>3(disz)</count> 
+<count><interpretation modern_unit="" modern_value="2" system="cardinal" unit="" value="2"/>2(disz)</count> <com dist="1">ab2</com> mu <count><interpretation modern_unit="" modern_value="2" system="cardinal" unit="" value="2"/>2(disz)</count> 
+<count><interpretation modern_unit="" modern_value="1" system="cardinal" unit="" value="1"/>1(disz)</count> <com dist="1">ab2</com> mu <count><interpretation modern_unit="" modern_value="1" system="cardinal" unit="" value="1"/>1(disz)</count> 
+<count><interpretation modern_unit="" modern_value="2" system="cardinal" unit="" value="2"/>2(disz)</count> <com dist="1">ab2</com> amar ga 
+<count><interpretation modern_unit="" modern_value="5" system="cardinal" unit="" value="5"/>5(disz)</count> gu4-gal 
+<count><interpretation modern_unit="" modern_value="2" system="cardinal" unit="" value="2"/>2(disz)</count> <com dist="1">gu4</com> mu <count><interpretation modern_unit="" modern_value="3" system="cardinal" unit="" value="3"/>3(disz)</count> 
+<count><interpretation modern_unit="" modern_value="1" system="cardinal" unit="" value="1"/>1(disz)</count> <com dist="1">gu4</com> mu <count><interpretation modern_unit="" modern_value="2" system="cardinal" unit="" value="2"/>2(disz)</count> 
+<count><interpretation modern_unit="" modern_value="2" system="cardinal" unit="" value="2"/>2(disz)</count> <com dist="1">gu4</com> mu <count><interpretation modern_unit="" modern_value="1" system="cardinal" unit="" value="1"/>1(disz)</count> 
+<count><interpretation modern_unit="" modern_value="2" system="cardinal" unit="" value="2"/>2(disz)</count> <com dist="1">gu4</com> amar ga 
+i3-nun-bi <count><interpretation modern_unit="l" modern_value="40" system="dry capacity" unit="sila3" value="40"/>4(ban2)</count> 
+ga-ar3-bi <count><interpretation modern_unit="l" modern_value="60" system="dry capacity" unit="sila3" value="60"/>1(barig)</count> 
+mu us2-sa ki-masz{ki} <com dist="1">u3</com> hu-ur5-ti{ki} ba-hul 
+<count><interpretation modern_unit="" modern_value="10" system="cardinal" unit="" value="10"/>1(u)</count> ab2-mah2 
+<count><interpretation modern_unit="" modern_value="2" system="cardinal" unit="" value="2"/>2(disz)</count> <com dist="1">ab2</com> mu <count><interpretation modern_unit="" modern_value="3" system="cardinal" unit="" value="3"/>3(disz)</count> 
+<count><interpretation modern_unit="" modern_value="1" system="cardinal" unit="" value="1"/>1(disz)</count> <com dist="1">ab2</com> mu <count><interpretation modern_unit="" modern_value="2" system="cardinal" unit="" value="2"/>2(disz)</count> 
+<count><interpretation modern_unit="" modern_value="2" system="cardinal" unit="" value="2"/>2(disz)</count> <com dist="1">ab2</com> mu <count><interpretation modern_unit="" modern_value="1" system="cardinal" unit="" value="1"/>1(disz)</count> 
+<count><interpretation modern_unit="" modern_value="3" system="cardinal" unit="" value="3"/>3(disz)</count> <com dist="1">ab2</com> amar ga 
+<count><interpretation modern_unit="" modern_value="7" system="cardinal" unit="" value="7"/>7(disz)</count> gu4-gal 
+<count><interpretation modern_unit="" modern_value="1" system="cardinal" unit="" value="1"/>1(disz)</count> <com dist="1">gu4</com> mu <count><interpretation modern_unit="" modern_value="3" system="cardinal" unit="" value="3"/>3(disz)</count> 
+<count><interpretation modern_unit="" modern_value="2" system="cardinal" unit="" value="2"/>2(disz)</count> <com dist="1">gu4</com> mu <count><interpretation modern_unit="" modern_value="2" system="cardinal" unit="" value="2"/>2(disz)</count> 
+<count><interpretation modern_unit="" modern_value="2" system="cardinal" unit="" value="2"/>2(disz)</count> <com dist="1">gu4</com> mu <count><interpretation modern_unit="" modern_value="1" system="cardinal" unit="" value="1"/>1(disz)</count> 
+<count><interpretation modern_unit="" modern_value="2" system="cardinal" unit="" value="2"/>2(disz)</count> <com dist="1">gu4</com> amar ga 
+i3-nun-bi <count><interpretation modern_unit="l" modern_value="45" system="dry capacity" unit="sila3" value="45"/>4(ban2) 5(disz) sila3</count> 
+ga-ar3-bi <count><interpretation modern_unit="l" modern_value="67.5" system="dry capacity" unit="sila3" value="67.5"/>1(barig) 7(disz) 1/2(disz) sila3</count> 
+mu ha-ar-szi{ki} <com dist="1">u3</com> ki-masz{ki} ba-hul 
+szunigin <count><interpretation modern_unit="" modern_value="18" system="cardinal" unit="" value="18"/>1(u) 8(disz)</count> <com dist="1">ab2</com> hi-a 
+szunigin <count><interpretation modern_unit="" modern_value="14" system="cardinal" unit="" value="14"/>1(u) 4(disz)</count> <com dist="1">gu4</com> hi-a 
+szunigin <count><interpretation modern_unit="l" modern_value="275" system="dry capacity" unit="sila3" value="275"/>4(barig) 3(ban2) 5(disz) sila3</count> <com dist="1">i3-nun</com> 
+szunigin <count><interpretation modern_unit="l" modern_value="412.5" system="dry capacity" unit="sila3" value="412.5"/>1(asz) 1(barig) 5(ban2) 2(disz) 1/2(disz) sila3</count> <com dist="1">ga-ar3</com> gur 
+ku3 i3-ba <count><interpretation modern_unit="g" modern_value="229.16666666666669" system="weight" unit="gin2" value="27.5"/>1/3(disz) ma-na 7(disz) 1/2(disz) gin2</count> 
+ku3 ga-ba <count><interpretation modern_unit="" modern_value="0.04583333333333333" system="cardinal" unit="" value="0.04583333333333333"/>2(disz) 2/3(disz) gin2 1(u) 5(disz) sze</count> 
+nig2-ka9-ak 
+i-du-a dumu i-su2-a-ri2-ik sanga {d}isztaran 
+</commodities>

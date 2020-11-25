@@ -1,0 +1,23 @@
+<commodities>
+#P339118 = BPOA 1, 0460
+#atf: lang sux
+# sign erased
+# some text moved to next line
+{gesz}geszimmar 
+<count><interpretation modern_unit="" modern_value="4" system="cardinal" unit="" value="4"/>4(disz)</count> {gesz}haszhur <count><interpretation modern_unit="" modern_value="2" system="cardinal" unit="" value="2"/>2(disz)</count> kusz3-ta 
+<count><interpretation modern_unit="" modern_value="5" system="cardinal" unit="" value="5"/>5(disz)</count> <com dist="1">{gesz}lal3</com> <count><interpretation modern_unit="" modern_value="2" system="cardinal" unit="" value="2"/>2(disz)</count> kusz3-ta 
+<count><interpretation modern_unit="" modern_value="5" system="cardinal" unit="" value="5"/>5(disz)</count> <com dist="1">{gesz}lal3</com> {gesz}haszhur <count><interpretation modern_unit="" modern_value="1.5" system="cardinal" unit="" value="1.5"/>1(disz) 1/2(disz)</count> kusz3-ta 
+<count><interpretation modern_unit="" modern_value="10" system="cardinal" unit="" value="10"/>1(u)</count> <com dist="1">{gesz}lal3</com> {gesz}haszhur <count><interpretation modern_unit="" modern_value="1" system="cardinal" unit="" value="1"/>1(disz)</count> kusz3-ta 
+<com dist="1">gesz</com> gu2-ne-sag ama-IL2-sze3 
+<count><interpretation modern_unit="" modern_value="10" system="cardinal" unit="" value="10"/>1(u)</count> <com dist="1">{gesz}haszhur</com> gag udu la2 <count><interpretation modern_unit="" modern_value="0.6666666666666666" system="cardinal" unit="" value="0.6666666666666666"/>2/3(disz)</count> kusz3-ta 
+<count><interpretation modern_unit="" modern_value="5" system="cardinal" unit="" value="5"/>5(disz)</count> <com dist="1">{gesz}me-gid2</com> {gesz}haszhur <count><interpretation modern_unit="" modern_value="4.5" system="cardinal" unit="" value="4.5"/>4(disz) 1/2(disz)</count> kusz3-ta 
+<count><interpretation modern_unit="" modern_value="20" system="cardinal" unit="" value="20"/>2(u)</count> <com dist="1">{gesz}...</com> {gesz}|TUKxUD| 
+<count><interpretation modern_unit="" modern_value="30" system="cardinal" unit="" value="30"/>3(u)</count> {gesz}me-gid2 {gesz}sze-du10 
+ki lu2-kal-la-ta 
+a-gu <com dist="1">szu</com> ba-ti 
+iti min-esz3 
+mu {d}szu-{d}suen lugal 
+a-gu 
+dub-sar 
+dumu lugal-e2-mah-e 
+</commodities>

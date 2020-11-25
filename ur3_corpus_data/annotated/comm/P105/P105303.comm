@@ -1,0 +1,13 @@
+<commodities>
+#P105303 = BCT 2, 062
+#atf: lang sux
+<count><interpretation modern_unit="bricks" modern_value="20880.0" system="bricks" unit="gin2" value="1740.0"/><interpretation modern_unit="m^2" modern_value="120.0" system="surface" unit="gin2" value="200.0"/><interpretation modern_unit="l" modern_value="60000.0" system="volume" unit="gin2" value="200.0"/>2(disz) 1/3(disz) sar 1(gesz2)</count> sig4 
+mar-sa-ta 
+<count><interpretation modern_unit="bricks" modern_value="115560" system="bricks" unit="gin2" value="9630"/><interpretation modern_unit="m^2" modern_value="630.0" system="surface" unit="gin2" value="1050"/><interpretation modern_unit="l" modern_value="315000" system="volume" unit="gin2" value="1050"/>1(u) 3(disz) sar 4(gesz2) 3(u)</count> sig4 
+e2 a-ra2 <count><interpretation modern_unit="" modern_value="1" system="cardinal" unit="" value="1"/>1(disz)-kam</count> 
+<count><interpretation modern_unit="bricks" modern_value="176160.0" system="bricks" unit="gin2" value="14680.0"/><interpretation modern_unit="m^2" modern_value="756.0" system="surface" unit="gin2" value="1260.0"/><interpretation modern_unit="l" modern_value="378000.0" system="volume" unit="gin2" value="1260.0"/>2(u) 1/3(disz) sar 4(u)</count> sig4 
+e2 a-ra2 <count><interpretation modern_unit="" modern_value="2" system="cardinal" unit="" value="2"/>2(disz)-kam</count> 
+lu2-{d}suen 
+<count><interpretation modern_unit="bricks" modern_value="50400.0" system="bricks" unit="gin2" value="4200.0"/><interpretation modern_unit="m^2" modern_value="210.0" system="surface" unit="gin2" value="350.0"/><interpretation modern_unit="l" modern_value="105000.0" system="volume" unit="gin2" value="350.0"/>5(disz) 5/6(disz) sar</count> sig4 mar-sa-ta 
+lu2-{d}inanna 
+</commodities>

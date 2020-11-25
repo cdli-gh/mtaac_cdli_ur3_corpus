@@ -1,0 +1,18 @@
+<commodities>
+#P102284 = ASJ 09, 236 08
+#atf: lang sux
+#tr.en: 3 ban2: Geme-lugal, child of Na-na-a;
+#tr.en: 1 ban2 (5 sila3): Lu-Ninura, her child;
+#tr.en: 3 ban2: Nin-šeš-ana-sidu;
+#tr.en: from ... returned;
+#tr.en: of weavers, with Ur-nin-tu;
+#tr.en: dead, 3 ban2: Geme-gigir;
+#tr.en: month: “Barley at the quay.”
+<count><interpretation modern_unit="l" modern_value="30" system="dry capacity" unit="sila3" value="30"/>3(ban2)</count> geme2-lugal dumu na-na-a 
+<count><interpretation modern_unit="l" modern_value="15" system="dry capacity" unit="sila3" value="15"/>1(ban2) 5(disz)</count> lu2-{d}nin-ur4-ra dumu-ni 
+<count><interpretation modern_unit="l" modern_value="30" system="dry capacity" unit="sila3" value="30"/>3(ban2)</count> nin9-szesz-a-na-si-du3 
+x-ta gur-ra 
+sza3 <com dist="1">usz-bar</com> ki ur-{d}nin-tu 
+usz2 <count><interpretation modern_unit="l" modern_value="30" system="dry capacity" unit="sila3" value="30"/>3(ban2)</count> geme2-{gesz}gigir 
+iti sze-kar-gal2-la 
+</commodities>

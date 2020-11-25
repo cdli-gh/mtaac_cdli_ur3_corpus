@@ -1,0 +1,9 @@
+<commodities>
+#P117950 = MVN 14, 0270
+#atf: lang sux
+<count><interpretation modern_unit="m" modern_value="192" system="length" unit="gi" value="64"/>3(u) 2(disz) ninda</count> <com dist="1">gug2</com> 
+<count><interpretation modern_unit="m" modern_value="96" system="length" unit="gi" value="32"/>1(u) 6(disz) ninda</count> su4 al-zi-ra 
+<count><interpretation modern_unit="l" modern_value="90" system="liquid capacity" unit="sila3" value="90"/>3(disz) dug</count> <com dist="1">ninda</com> <count><interpretation modern_unit="l" modern_value="5" system="liquid capacity" unit="sila3" value="5"/><interpretation modern_unit="l" modern_value="5" system="dry capacity" unit="sila3" value="5"/>5(disz) sila3</count> ninda i3 de2-a 
+<count><interpretation modern_unit="l" modern_value="90" system="liquid capacity" unit="sila3" value="90"/>3(disz) dug</count> <com dist="1">ninda</com> <count><interpretation modern_unit="l" modern_value="2" system="liquid capacity" unit="sila3" value="2"/><interpretation modern_unit="l" modern_value="2" system="dry capacity" unit="sila3" value="2"/>2(disz) sila3</count> ninda i3 de2-a 
+<count><interpretation modern_unit="l" modern_value="30" system="liquid capacity" unit="sila3" value="30"/>1(disz) dug</count> udul2 <com dist="1">ninda</com> i3 de2-a 
+</commodities>

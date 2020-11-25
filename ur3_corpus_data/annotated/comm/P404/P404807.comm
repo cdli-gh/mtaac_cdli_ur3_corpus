@@ -1,0 +1,41 @@
+<commodities>
+#P404807 = CDLJ 2015/002 §2.28
+#atf: lang sux
+#tr.en: 95 talents 35 1/3 (?) mana old wool,
+#tr.en: the warehouse Ati-Dazagula,
+#tr.en: 33 talents 14 5/6 mana wool,
+#tr.en: wool (of) Apisal,
+#tr.en: the warehouse Da-zagula,
+#tr.en: (and) 4 talents 9 mana black wool,
+#tr.en: the warehouse Ati-Esag,
+#tr.en: 90 less 50
+# meaning unclear, probably calculation notes
+#tr.en: from Ur-e’e;
+#tr.en: 47 talents 46 5/6 mana wool,
+#tr.en: the warehouse Ati-Esag,
+#tr.en: from Kas;
+#tr.en: the warehouse of the governor;
+#tr.en: 27 5/6 mana wool (of) native (sheep)
+#tr.en: (and) 20 2/3 mana wool combings
+#tr.en: with Ur-Šara;
+#tr.en: 26 5/6 mana wool (of) native (sheep)
+#tr.en: with Lukalla.
+<count><interpretation modern_unit="g" modern_value="2867666.666666667" system="weight" unit="gin2" value="344120.0"/>1(gesz2) 3(u) 5(asz) gu2 3(u) 5(disz) 1/3(disz) ma-na</count> <com dist="1">siki</com> sumun 
+e2-kiszib3-ba a2-ti-da-za3-gu2-la2 
+<count><interpretation modern_unit="g" modern_value="997416.6666666667" system="weight" unit="gin2" value="119690.0"/>3(u) 3(asz) gu2 1(u) 4(disz) 5/6(disz) ma-na</count> <com dist="1">siki</com> 
+siki a-pi4-sal4{ki} 
+e2-kiszib3-ba da-za3-gu2-la2 
+<count><interpretation modern_unit="g" modern_value="124500.00000000001" system="weight" unit="gin2" value="14940"/>4(asz) gu2 1(u) la2 1(disz) ma-na</count> <com dist="1">siki</com> ge6 
+e2-kiszib3-ba a2-ti-e2-sag{ki} 
+<count><interpretation modern_unit="" modern_value="40" system="cardinal" unit="" value="40"/>1(gesz2) 3(u) la2 5(u)</count> 
+<com dist="1">ki</com> ur-e11-e-ta 
+<count><interpretation modern_unit="g" modern_value="1433416.6666666667" system="weight" unit="gin2" value="172010.0"/>4(u) 7(asz) gu2 4(u) 6(disz) 5/6(disz) ma-na</count> <com dist="1">siki</com> 
+e2-kiszib3-ba a2-ti-e2-sag{ki} 
+ki kas4-ta 
+e2-kiszib3-ba ensi2-ka 
+<count><interpretation modern_unit="g" modern_value="13916.666666666668" system="weight" unit="gin2" value="1670.0"/>2(u) 7(disz) 5/6(disz) ma-na</count> siki-gi 
+<count><interpretation modern_unit="g" modern_value="10333.333333333334" system="weight" unit="gin2" value="1240.0"/>2(u) 2/3(disz) ma-na</count> <com dist="1">siki</com> mug 
+ki ur-{d}szara2 
+<count><interpretation modern_unit="g" modern_value="13416.666666666668" system="weight" unit="gin2" value="1610.0"/>2(u) 6(disz) 5/6(disz) ma-na</count> siki-gi 
+<com dist="1">ki</com> lu2-kal-la 
+</commodities>

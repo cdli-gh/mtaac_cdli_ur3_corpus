@@ -1,0 +1,21 @@
+<commodities>
+#P102515 = ASJ 13, 224 70
+#atf: lang sux
+kun-zi-da e2-szah2-ta 
+<count><interpretation modern_unit="m" modern_value="4320" system="length" unit="gi" value="1440"/>1(geszu) 2(gesz2) ninda</count> <com dist="1">gid2</com> <count><interpretation modern_unit="" modern_value="1" system="cardinal" unit="" value="1"/>1(disz)</count> sar-ta 
+<com dist="1">sahar-bi</com> <count><interpretation modern_unit="bricks" modern_value="6220800" system="bricks" unit="gin2" value="518400"/><interpretation modern_unit="m^2" modern_value="25920.0" system="surface" unit="gin2" value="43200"/><interpretation modern_unit="l" modern_value="12960000" system="volume" unit="gin2" value="43200"/>1(geszu) 2(gesz2) sar</count> 
+<count><interpretation modern_unit="bricks" modern_value="616320.0" system="bricks" unit="gin2" value="51360.0"/><interpretation modern_unit="m^2" modern_value="2568.0" system="surface" unit="gin2" value="4280.0"/><interpretation modern_unit="l" modern_value="1284000.0" system="volume" unit="gin2" value="4280.0"/>1(gesz2) 1(u) 1(disz) 1/3(disz) sar</count> <com dist="1">u2</com> gur10 
+sza3 i7-da u3 kun-zi-da 
+<count><interpretation modern_unit="bricks" modern_value="6837120.0" system="bricks" unit="gin2" value="569760.0"/><interpretation modern_unit="m^2" modern_value="28488.0" system="surface" unit="gin2" value="47480.0"/><interpretation modern_unit="l" modern_value="14244000.0" system="volume" unit="gin2" value="47480.0"/>1(geszu) 3(gesz2) 1(u) 1(disz) 1/3(disz) sar</count> 
+a-pi4-sal4 a-sza3 x-tir-ra-sze3 
+<count><interpretation modern_unit="m" modern_value="2520" system="length" unit="gi" value="840"/>7(gesz2) ninda</count> <com dist="1">gid2</com> <count><interpretation modern_unit="" modern_value="1" system="cardinal" unit="" value="1"/>1(disz)</count> sar-ta 
+<com dist="1">sahar-bi</com> <count><interpretation modern_unit="bricks" modern_value="3628800" system="bricks" unit="gin2" value="302400"/><interpretation modern_unit="m^2" modern_value="15120.0" system="surface" unit="gin2" value="25200"/><interpretation modern_unit="l" modern_value="7560000" system="volume" unit="gin2" value="25200"/>7(gesz2) sar</count> 
+<count><interpretation modern_unit="bricks" modern_value="118080.0" system="bricks" unit="gin2" value="9840.0"/><interpretation modern_unit="m^2" modern_value="492.0" system="surface" unit="gin2" value="820.0"/><interpretation modern_unit="l" modern_value="246000.0" system="volume" unit="gin2" value="820.0"/>1(u) 3(disz) 2/3(disz) sar</count> <com dist="1">u2</com> gur10 
+sza3 i7-da u3 kun-zi-da 
+<count><interpretation modern_unit="bricks" modern_value="3746880.0" system="bricks" unit="gin2" value="312240.0"/><interpretation modern_unit="m^2" modern_value="15612.0" system="surface" unit="gin2" value="26020.0"/><interpretation modern_unit="l" modern_value="7806000.0" system="volume" unit="gin2" value="26020.0"/>7(gesz2) 1(u) 3(disz) 2/3(disz) sar</count> 
+a-pi4-sal4 a-sza3 nin-a2-zi-da-sze3 
+<count><interpretation modern_unit="m" modern_value="6900" system="length" unit="gi" value="2300"/>1(geszu) 9(gesz2) 1(u) ninda</count> <com dist="1">gid2</com> 
+szunigin <count><interpretation modern_unit="bricks" modern_value="10601280" system="bricks" unit="gin2" value="883440"/><interpretation modern_unit="m^2" modern_value="44172.0" system="surface" unit="gin2" value="73620"/><interpretation modern_unit="l" modern_value="22086000" system="volume" unit="gin2" value="73620"/>2(geszu) 2(u) 7(disz) sar</count> 
+i7 {d}na-ru2-a-igi-du 
+<com dist="1">sahar</com> gar-ra 
+</commodities>

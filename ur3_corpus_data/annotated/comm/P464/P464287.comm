@@ -1,0 +1,50 @@
+<commodities>
+#P464287 = AuOr 31, 234 07
+#atf: lang sux
+#tr.en: 1 ox of 1 year,
+#tr.en: (from) Basaga;
+#tr.en: 1 ox of 1 year
+#tr.en: (from) Ur-Ninmuga;
+#tr.en: 1 ox of 2 years
+#tr.en: (from) Ur-e’e;
+#tr.en: 1 ox of 1 year
+#tr.en: (from) Lugal-magure son of ...;
+#tr.en: 1 ox of 1 year
+#tr.en: (from) Bazige;
+#tr.en: 1 cow of 2 years
+#tr.en: (from) Alla son of Ur-teš;
+#tr.en: 1 cow of 2 years
+#tr.en: (from) Lu-ebgal, son of KU...;
+#tr.en: 1 male mule for the yoke,
+#tr.en: (from) Nanna-kuzu, son of Atu;
+#tr.en: total: 2 cows of 2 years;
+#tr.en: total: 1 ox of 2 years;
+#tr.en: total: 4 oxen of one year
+#tr.en: total: 1 male mule for the yoke;
+#tr.en: delivery for Šara;
+#tr.en: month: “Sowing,”
+#tr.en: year: “Šu-Suen, king of Ur, Great-Stele for Enlil and Ninlil erected.”
+<count><interpretation modern_unit="" modern_value="1" system="cardinal" unit="" value="1"/>1(disz)</count> <com dist="1">gu4</com> mu <count><interpretation modern_unit="" modern_value="1" system="cardinal" unit="" value="1"/>1(asz)</count> 
+ba-sa6-ga 
+<count><interpretation modern_unit="" modern_value="1" system="cardinal" unit="" value="1"/>1(disz)</count> <com dist="1">gu4</com> mu <count><interpretation modern_unit="" modern_value="1" system="cardinal" unit="" value="1"/>1(asz)</count> 
+ur-{d}nin-mug-ga 
+<count><interpretation modern_unit="" modern_value="1" system="cardinal" unit="" value="1"/>1(disz)</count> <com dist="1">gu4</com> mu <count><interpretation modern_unit="" modern_value="2" system="cardinal" unit="" value="2"/>2(asz)</count> 
+ur-e11-e 
+<count><interpretation modern_unit="" modern_value="1" system="cardinal" unit="" value="1"/>1(disz)</count> <com dist="1">gu4</com> mu <count><interpretation modern_unit="" modern_value="1" system="cardinal" unit="" value="1"/>1(asz)</count> 
+lugal-ma2-gur8-re dumu x-x-(x) 
+<count><interpretation modern_unit="" modern_value="1" system="cardinal" unit="" value="1"/>1(disz)</count> <com dist="1">gu4</com> mu <count><interpretation modern_unit="" modern_value="1" system="cardinal" unit="" value="1"/>1(asz)</count> 
+ba-zi-ge 
+<count><interpretation modern_unit="" modern_value="1" system="cardinal" unit="" value="1"/>1(disz)</count> <com dist="1">ab2</com> mu <count><interpretation modern_unit="" modern_value="2" system="cardinal" unit="" value="2"/>2(asz)</count> 
+al-la dumu ur-tesz2 
+<count><interpretation modern_unit="" modern_value="1" system="cardinal" unit="" value="1"/>1(disz)</count> <com dist="1">ab2</com> mu <count><interpretation modern_unit="" modern_value="2" system="cardinal" unit="" value="2"/>2(asz)</count> 
+lu2-eb-gal dumu KU-... 
+<count><interpretation modern_unit="" modern_value="1" system="cardinal" unit="" value="1"/>1(disz)</count> {ansze}kunga2-nita2 gesz 
+{d}nanna-ku3-zu dumu a-tu 
+szunigin <count><interpretation modern_unit="" modern_value="2" system="cardinal" unit="" value="2"/>2(disz)</count> <com dist="1">ab2</com> mu <count><interpretation modern_unit="" modern_value="2" system="cardinal" unit="" value="2"/>2(asz)</count> 
+szunigin <count><interpretation modern_unit="" modern_value="1" system="cardinal" unit="" value="1"/>1(disz)</count> <com dist="1">gu4</com> mu <count><interpretation modern_unit="" modern_value="2" system="cardinal" unit="" value="2"/>2(asz)</count> 
+szunigin <count><interpretation modern_unit="" modern_value="4" system="cardinal" unit="" value="4"/>4(disz)</count> <com dist="1">gu4</com> mu <count><interpretation modern_unit="" modern_value="1" system="cardinal" unit="" value="1"/>1(asz)</count> 
+szunigin <count><interpretation modern_unit="" modern_value="1" system="cardinal" unit="" value="1"/>1(disz)</count> {ansze}kunga2-nita2 gesz 
+mu-kux(DU) {d}szara2 
+iti szu-numun 
+mu {d}szu-{d}suen lugal uri5{ki}-ma-ke4 na-ru2-a-mah {d}en-lil2 {d}nin-lil2-ra mu-ne-du3 
+</commodities>

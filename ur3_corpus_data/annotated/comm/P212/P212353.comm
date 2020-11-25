@@ -1,0 +1,30 @@
+<commodities>
+#P212353 = CDLJ 2002/1, no. 13
+#atf: lang sux
+#tr.en: 1 grass(-fed) ox,
+#tr.en: 5 grass(-fed) small cattle,
+#tr.en: 15 unweaned male goats,
+#tr.en: šugid offerings for the house of the cook
+#tr.en: in the name of the royal guard and prebend-holders.
+#tr.en: ARADmu was maškim.
+#tr.en: nth day.
+#tr.en: Out of nn’s (account)
+#tr.en: booked.
+#tr.en: Via: Nanna-[maba] the scribe.
+#tr.en: Month “Šu-Suen festival,”
+#tr.en: year: “Ibbi-Suen is king.”
+#tr.en: 1 ox, [20] small cattle.
+<count><interpretation modern_unit="" modern_value="1" system="cardinal" unit="" value="1"/>1(disz)</count> <com dist="1">gu4</com> u2 
+<count><interpretation modern_unit="" modern_value="5" system="cardinal" unit="" value="5"/>5(disz)</count> udu u2 
+<count><interpretation modern_unit="" modern_value="15" system="cardinal" unit="" value="15"/>1(u) 5(disz)</count> masz2 gaba 
+szu-gid2 e2-muhaldim 
+mu <com dist="1">aga3-us2</com> u3 lu2 szuku-ra-ke4-ne-sze3 
+ARAD2-mu maszkim 
+u4 n-kam 
+ki ...-x-...-ta 
+ba-zi 
+giri3 {d}nanna-ma-ba dub-sar 
+iti ezem-{d}szu-{d}suen 
+mu {d}i-bi2-{d}suen lugal 
+<count><interpretation modern_unit="" modern_value="1" system="cardinal" unit="" value="1"/>1(disz)</count> <com dist="1">gu4</com> <count><interpretation modern_unit="" modern_value="20" system="cardinal" unit="" value="20"/>2(u)</count> udu 
+</commodities>

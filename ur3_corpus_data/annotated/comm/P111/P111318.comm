@@ -1,0 +1,25 @@
+<commodities>
+#P111318 = ITT 3, 06509
+#atf: lang sux
+#tr.en: labor of Ur-kalam,
+#tr.de: Arbeitsleistung des Ur-kalam
+#tr.en: of the year, each year 3 shekels silver,
+#tr.de: für 4 Jahre –pro Jahr 3 Sekel (Silber)–
+#tr.en: its silver: 12 shekels shall be weighed out;
+#tr.de: das dazugehörige Silber: 12 Sekel auszuwiegen
+#tr.en: Andaga,
+#tr.de: wurde Andaga
+#tr.en: to Nin-ana
+#tr.de: wegen Ninana
+#tr.en: was confirmed;
+#tr.de: festgelegt;
+#tr.en: ..., responsible official;
+#tr.de: ... war Kommissär;
+a2 ur-kalam-ka 
+mu <count><interpretation modern_unit="" modern_value="4" system="cardinal" unit="" value="4"/>4(disz)-kam</count> mu-a <count><interpretation modern_unit="" modern_value="3" system="cardinal" unit="" value="3"/>3(disz)</count> gin2-ta 
+<com dist="1">ku3-bi</com> <count><interpretation modern_unit="" modern_value="0.19999999999999998" system="cardinal" unit="" value="0.19999999999999998"/>1(u) 2(disz) gin2</count> la2-e-de3 
+an-da-ga 
+nin-a-na-ra 
+ba-na-gi-in 
+... maszkim 
+</commodities>

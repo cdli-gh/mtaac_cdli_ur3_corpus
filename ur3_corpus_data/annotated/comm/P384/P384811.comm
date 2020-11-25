@@ -1,0 +1,35 @@
+<commodities>
+#P384811 = CDLJ 2009/2, §3.4
+#atf: lang sux
+#tr.en: 1 sheep: Lu-x, the gudu priest of ...;
+#tr.en: 1 sheep: Dariša (?);
+#tr.en: 1 sheep: Akalla ...;
+#tr.en: 1 sheep: Manba, the cup bearer;
+#tr.en: 1 goat: Er-dingir;
+#tr.en: 3 sheep: ...;
+#tr.en: ...;
+# x is not a number
+#tr.en: 1 ...: ...;
+#tr.en: 1 ...: ...;
+#tr.en: 1 ...: ...-Suen;
+#tr.en: 14 sheep, 4 goats: ...;
+#tr.en: 2 ...: ...;
+#tr.en: 1 sheep: Mandu(?), doorkeeper;
+#tr.en: 3 goats: Šeškalla, sukkalmaḫ;
+#tr.en: total: 35.
+<count><interpretation modern_unit="" modern_value="1" system="cardinal" unit="" value="1"/>1(disz)</count> <com dist="1">udu</com> lu2-{d}x gudu4 {d}... 
+<count><interpretation modern_unit="" modern_value="1" system="cardinal" unit="" value="1"/>1(disz)</count> <com dist="1">udu</com> da-ri2-sza 
+<count><interpretation modern_unit="" modern_value="1" system="cardinal" unit="" value="1"/>1(disz)</count> <com dist="1">udu</com> a-kal-la x 
+<count><interpretation modern_unit="" modern_value="1" system="cardinal" unit="" value="1"/>1(disz)</count> <com dist="1">udu</com> ma-an-ba sagi(SILA3-GAB) 
+<count><interpretation modern_unit="" modern_value="1" system="cardinal" unit="" value="1"/>1(disz)</count> <com dist="1">masz2</com> a-szi-an 
+<count><interpretation modern_unit="" modern_value="3" system="cardinal" unit="" value="3"/>3(disz)</count> <com dist="1">udu</com> x x 
+x ... 
+<count><interpretation modern_unit="" modern_value="none" system="unknown" unit="" value="none"/>1(disz) ...</count> 
+<count><interpretation modern_unit="" modern_value="none" system="unknown" unit="" value="none"/>1(disz) x ...</count> 
+<count><interpretation modern_unit="" modern_value="none" system="unknown" unit="" value="none"/>1(disz) x x</count> {d}suen 
+<count><interpretation modern_unit="" modern_value="14" system="cardinal" unit="" value="14"/>1(u) 4(disz)</count> <com dist="1">udu</com> <count><interpretation modern_unit="" modern_value="4" system="cardinal" unit="" value="4"/>4(disz)</count> masz2 x x 
+<count><interpretation modern_unit="" modern_value="none" system="unknown" unit="" value="none"/>2(disz) x x x</count> 
+<count><interpretation modern_unit="" modern_value="1" system="cardinal" unit="" value="1"/>1(disz)</count> <com dist="1">udu</com> ma-a-an-du i3-du8 
+<count><interpretation modern_unit="" modern_value="3" system="cardinal" unit="" value="3"/>3(disz)</count> <com dist="1">masz2</com> szesz-kal-la sukkal-mah 
+szunigin <count><interpretation modern_unit="" modern_value="35" system="cardinal" unit="" value="35"/>3(u) 5(disz)</count> 
+</commodities>

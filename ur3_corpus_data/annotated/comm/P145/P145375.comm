@@ -1,0 +1,17 @@
+<commodities>
+#P145375 = SAT 3, 2175
+#atf: lang sux
+<count><interpretation modern_unit="m" modern_value="126" system="length" unit="gi" value="42"/>2(u) ninda 2(disz)</count> sila3 
+<count><interpretation modern_unit="m" modern_value="363" system="length" unit="gi" value="121"/>1(gesz2) ninda 1(disz)</count> sila3 
+gur8-za-an 
+<com dist="1">ninda</com> <count><interpretation modern_unit="l" modern_value="2" system="liquid capacity" unit="sila3" value="2"/><interpretation modern_unit="l" modern_value="2" system="dry capacity" unit="sila3" value="2"/>2(disz) sila3</count> 
+ninda <count><interpretation modern_unit="l" modern_value="1" system="liquid capacity" unit="sila3" value="1"/><interpretation modern_unit="l" modern_value="1" system="dry capacity" unit="sila3" value="1"/>1(disz) sila3</count> 
+du10-i3-li2 
+<com dist="1">ninda</com> <count><interpretation modern_unit="l" modern_value="2" system="liquid capacity" unit="sila3" value="2"/><interpretation modern_unit="l" modern_value="2" system="dry capacity" unit="sila3" value="2"/>2(disz) sila3</count> 
+ninda <count><interpretation modern_unit="l" modern_value="1" system="liquid capacity" unit="sila3" value="1"/><interpretation modern_unit="l" modern_value="1" system="dry capacity" unit="sila3" value="1"/>1(disz) sila3</count> 
+i-di3-{d}iszkur 
+<count><interpretation modern_unit="l" modern_value="152" system="dry capacity" unit="sila3" value="152"/>2(barig) 3(ban2) 2(disz) sila3</count> du10-i3-li2 
+<count><interpretation modern_unit="l" modern_value="160" system="dry capacity" unit="sila3" value="160"/>2(barig) 4(ban2)</count> i-di3-{d}iszkur 
+u4 <count><interpretation modern_unit="" modern_value="20" system="cardinal" unit="" value="20"/>2(u)</count> <count><interpretation modern_unit="" modern_value="9" system="cardinal" unit="" value="9"/>9(disz)-kam</count> 
+<count><interpretation modern_unit="" modern_value="24" system="cardinal" unit="" value="24"/>2(u) 4(disz)</count> 
+</commodities>

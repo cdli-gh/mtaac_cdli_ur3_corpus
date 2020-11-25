@@ -1,0 +1,36 @@
+<commodities>
+#P459086 = Akkadica 134/1 §2.7
+#atf: lang sux
+#tr.en: n male laborers, plowman and his sons,
+#tr.en: foreman: Ur-mes,
+#tr.en: 11 male laborers, foreman: Ur-lugal,
+#tr.en: 8 male laborers, foreman: Abba-saga,
+#tr.en: 6 male laborers, foreman: Lugal-kuzu,
+#tr.en: 3 male laborers, foreman: Šeš-kalla,
+#tr.en: 2 male laborers, foreman: Lugal-itida,
+#tr.en: 4 male laborers, foreman: Lu-dingira,
+#tr.en: 7 male laborers, foreman: Ur-amma,
+#tr.en: 4 male laborers, foreman: Ur-enunna,
+#tr.en: 60 male laborers, foreman: Alla-palil;
+#tr.en: inspection of the second day,
+#tr.en: on the threshing floor Ka-ma-ri2 stationed,
+#tr.en: under charge of Ikalla,
+#tr.en: month: “Barley stored in the harbor,”
+#tr.en: year: “Šu-Suen, the king of Ur, destroyed the lands of Zabšali.”
+<count><interpretation modern_unit="" modern_value="15" system="cardinal" unit="" value="15"/>1(u) 5(disz)</count> <com dist="1">gurusz</com> engar dumu-ni 
+ugula ur-mes 
+<count><interpretation modern_unit="" modern_value="11" system="cardinal" unit="" value="11"/>1(u) 1(disz)</count> <com dist="1">gurusz</com> ugula ur-lugal 
+<count><interpretation modern_unit="" modern_value="8" system="cardinal" unit="" value="8"/>8(disz)</count> <com dist="1">gurusz</com> ugula ab-ba-saga 
+<count><interpretation modern_unit="" modern_value="6" system="cardinal" unit="" value="6"/>6(disz)</count> <com dist="1">gurusz</com> ugula lugal-ku3-zu 
+<count><interpretation modern_unit="" modern_value="3" system="cardinal" unit="" value="3"/>3(disz)</count> <com dist="1">gurusz</com> ugula szesz-kal-la 
+<count><interpretation modern_unit="" modern_value="2" system="cardinal" unit="" value="2"/>2(disz)</count> <com dist="1">gurusz</com> ugula lugal-iti-da 
+<count><interpretation modern_unit="" modern_value="4" system="cardinal" unit="" value="4"/>4(disz)</count> <com dist="1">gurusz</com> ugula lu2-dingir-ra 
+<count><interpretation modern_unit="" modern_value="7" system="cardinal" unit="" value="7"/>7(disz)</count> <com dist="1">gurusz</com> ugula ur-am3-ma 
+<count><interpretation modern_unit="" modern_value="4" system="cardinal" unit="" value="4"/>4(disz)</count> <com dist="1">gurusz</com> ugula ur-e2-nun-na 
+<count><interpretation modern_unit="" modern_value="60" system="cardinal" unit="" value="60"/>1(gesz2)</count> <com dist="1">gurusz</com> ugula al-la-palil2 
+gurum2 u4 <count><interpretation modern_unit="" modern_value="2" system="cardinal" unit="" value="2"/>2(disz)-kam</count> 
+ki-su7 ka-ma-ri2 gub-ba 
+giri3 i3-kal-la 
+iti sze-kar-ra-gal2-la 
+mu {d}szu-{d}suen lugal uri5-ma{ki} ma-da za-ab-sza-li{ki} mu-hul 
+</commodities>

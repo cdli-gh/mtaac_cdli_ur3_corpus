@@ -1,0 +1,57 @@
+<commodities>
+#P113918 = MVN 03, 358
+#atf: lang sux
+#tr.en: 5 bur3 1 eše3 3 iku field surface,
+#tr.en: its barley: 48 gur 2 barig;
+#tr.en: the deficit: 61 gur 3 barig,
+# calculation: 5 1/2 × 20 gur per bur3 = 110; 110;0,0 - 48;2,0 = 61;3,0
+#tr.en: field Dalbana;
+#tr.en: 2 bur3 1 eše3 3 iku field surface,
+#tr.en: its barley: 56 gur,
+#tr.en: the surplus: 6 gur
+# calculation: 2 1/2 × 20 gur per bur3 = 50; 50;0,0 - 56;0,0 = -6;0,0
+#tr.en: field before E-amar;
+#tr.en: 3 bur3 1 eše3 3 iku field surface,
+#tr.en: its barley: 68 gur 1 barig 2 ban2,
+#tr.en: the deficit: 1 gur 3 barig 4 ban2
+# calculation: 3 1/2 × 20 gur per bur3 = 70; 70;0,0 - 68;1,2 = 1;3,4
+#tr.en: field Village-bazi;
+#tr.en: 1(esze3) 3(iku) GAN2
+#tr.en: its barley: 14 gur 1 barig 2 ban2,
+#tr.en: the surplus: 4 gur 1 barig 2 ban2
+# calculation: 1/2 × 20 gur per bur3 = 10; 10;0,0 - 14;1,2 = -4;1,2
+#tr.en: field Ab-illa;
+#tr.en: total: 12 bur3 field surface,
+# calculation: 5;1,3 + 2;1,3 + 3;1,3 + 0;1,3 = 12;0,0 bur3
+#tr.en: total, its barley: 186 4 barig 4 ban2,
+# calculation: 48;2,0 + 56;0,0 + 68;1,2 + 14;1,2 = 186;4,4
+#tr.en: deliveries;
+#tr.en: total: 53 gur 2 ban2,
+# calculation: 61;3,0 - 6;0,0 + 1;3,4 - 4;1,2 = 53;0,2
+#tr.en: are the deficit;
+#tr.en: foreman: Šu-Ea,
+#tr.en: year: “... .”
+<count><interpretation modern_unit="m^2" modern_value="356400.0" system="surface" unit="gin2" value="594000"/>5(bur3) 1(esze3) 3(iku) gan2</count> 
+<com dist="1">sze-bi</com> <count><interpretation modern_unit="l" modern_value="14520" system="dry capacity" unit="sila3" value="14520"/>4(u) 8(asz) 2(barig) gur</count> 
+la2-ia3 <count>1(gesz2) 1(asz) 3(barig) sze gur</count> 
+a-sza3 dal-ba-na 
+<count><interpretation modern_unit="m^2" modern_value="162000.0" system="surface" unit="gin2" value="270000"/>2(bur3) 1(esze3) 3(iku) gan2</count> 
+<com dist="1">sze-bi</com> <count><interpretation modern_unit="l" modern_value="16800" system="dry capacity" unit="sila3" value="16800"/>5(u) 6(asz) gur</count> 
+diri <count><interpretation modern_unit="l" modern_value="1800" system="dry capacity" unit="sila3" value="1800"/>6(asz) gur</count> 
+a-sza3 igi e2-amar 
+<count><interpretation modern_unit="m^2" modern_value="226800.0" system="surface" unit="gin2" value="378000"/>3(bur3) 1(esze3) 3(iku) gan2</count> 
+<com dist="1">sze-bi</com> <count><interpretation modern_unit="l" modern_value="20480" system="dry capacity" unit="sila3" value="20480"/>1(gesz2) 8(asz) 1(barig) 2(ban2) gur</count> 
+la2-ia3 <count><interpretation modern_unit="l" modern_value="520" system="dry capacity" unit="sila3" value="520"/>1(asz) 3(barig) 4(ban2) gur</count> 
+a-sza3 e2-duru5-ba-zi 
+<count><interpretation modern_unit="m^2" modern_value="32400.0" system="surface" unit="gin2" value="54000"/>1(esze3) 3(iku) gan2</count> 
+<com dist="1">sze-bi</com> <count><interpretation modern_unit="l" modern_value="4280" system="dry capacity" unit="sila3" value="4280"/>1(u) 4(asz) 1(barig) 2(ban2) gur</count> 
+diri <count><interpretation modern_unit="l" modern_value="1280" system="dry capacity" unit="sila3" value="1280"/>4(asz) 1(barig) 2(ban2) gur</count> 
+a-sza3 ab-il2-la 
+szunigin <count><interpretation modern_unit="m^2" modern_value="777600.0" system="surface" unit="gin2" value="1296000"/>1(bur'u) 2(bur3) gan2</count> 
+szunigin <com dist="1">sze-bi</com> <count><interpretation modern_unit="l" modern_value="56080" system="dry capacity" unit="sila3" value="56080"/>3(gesz2) 6(asz) 4(barig) 4(ban2) gur</count> 
+mu-kux(DU) 
+szunigin <count><interpretation modern_unit="l" modern_value="15920" system="dry capacity" unit="sila3" value="15920"/>5(u) 3(asz) 2(ban2) gur</count> 
+la2-ia3-am3 
+ugula szu-e2-a 
+mu ... 
+</commodities>

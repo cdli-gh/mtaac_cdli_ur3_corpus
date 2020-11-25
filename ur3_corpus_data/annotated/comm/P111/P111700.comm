@@ -1,0 +1,21 @@
+<commodities>
+#P111700 = ITT 5, 06990
+#atf: lang sux
+# sic uri2 in copy
+<count><interpretation modern_unit="l" modern_value="3" system="liquid capacity" unit="sila3" value="3"/><interpretation modern_unit="l" modern_value="3" system="dry capacity" unit="sila3" value="3"/>3(disz) sila3</count> <com dist="1">kasz</com> <count><interpretation modern_unit="l" modern_value="2" system="liquid capacity" unit="sila3" value="2"/><interpretation modern_unit="l" modern_value="2" system="dry capacity" unit="sila3" value="2"/>2(disz) sila3</count> ninda 
+<count><interpretation modern_unit="" modern_value="0.03333333333333333" system="cardinal" unit="" value="0.03333333333333333"/>2(disz) gin2</count> i3 
+sza-ar-NI lu2 <com dist="1">{gesz}tukul</com> 
+<count><interpretation modern_unit="" modern_value="1.5" system="cardinal" unit="" value="1.5"/>1(disz) 1/2(disz)</count> kasz <count><interpretation modern_unit="m" modern_value="9.0" system="length" unit="gi" value="3.0"/>1(disz) 1/2(disz) ninda</count> du8-a 
+sza3 x-nir-ra{ki} 
+<count><interpretation modern_unit="l" modern_value="90" system="liquid capacity" unit="sila3" value="90"/>3(disz) dug</count> <com dist="1">dida</com> du 
+<count><interpretation modern_unit="l" modern_value="60" system="dry capacity" unit="sila3" value="60"/>1(barig)</count> dabin <count><interpretation modern_unit="l" modern_value="1" system="liquid capacity" unit="sila3" value="1"/><interpretation modern_unit="l" modern_value="1" system="dry capacity" unit="sila3" value="1"/>1(disz) sila3</count> i3-gesz 
+ga-esz8-sze3 
+uri2{ki} gen-na 
+elam gi-zi-li{ki}-me 
+<count><interpretation modern_unit="l" modern_value="5" system="liquid capacity" unit="sila3" value="5"/><interpretation modern_unit="l" modern_value="5" system="dry capacity" unit="sila3" value="5"/>5(disz) sila3</count> <com dist="1">kasz</com> <count><interpretation modern_unit="l" modern_value="3" system="liquid capacity" unit="sila3" value="3"/><interpretation modern_unit="l" modern_value="3" system="dry capacity" unit="sila3" value="3"/>3(disz) sila3</count> ninda 
+<count><interpretation modern_unit="" modern_value="0.03333333333333333" system="cardinal" unit="" value="0.03333333333333333"/>2(disz) gin2</count> i3 
+da-num2 lu2 <com dist="1">{gesz}tukul</com> 
+giri3 da-num2 lu2 {gesz}tukul 
+iti mu-szu-du7 
+mu ma2-gur8-mah ba-a-du8 
+</commodities>

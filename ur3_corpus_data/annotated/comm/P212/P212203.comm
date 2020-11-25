@@ -1,0 +1,18 @@
+<commodities>
+#P212203 = SANTAG 6, 123
+#atf: lang sux
+#Nicht liniert
+<count><interpretation modern_unit="" modern_value="105" system="cardinal" unit="" value="105"/>1(gesz2) 4(u) 5(disz)</count> gesz gal 
+<count><interpretation modern_unit="" modern_value="51" system="cardinal" unit="" value="51"/>5(u) 1(disz)</count> <com dist="1">{gesz}e2-da</com> 
+<count><interpretation modern_unit="" modern_value="22" system="cardinal" unit="" value="22"/>2(u) 2(disz)</count> {gesz}e2-da tur 
+<count><interpretation modern_unit="" modern_value="70" system="cardinal" unit="" value="70"/>1(gesz2) 1(u)</count> <com dist="1">{gesz}ka2</com> 
+<count><interpretation modern_unit="" modern_value="70" system="cardinal" unit="" value="70"/>1(gesz2) 1(u)</count> {gesz}u2-bil2-la <count><interpretation modern_unit="" modern_value="4" system="cardinal" unit="" value="4"/>4(disz)</count> kusz3-ta 
+<count><interpretation modern_unit="" modern_value="90" system="cardinal" unit="" value="90"/>1(gesz2) 3(u)</count> <com dist="1">{gesz}u2-bil2-la</com> 
+<count><interpretation modern_unit="g" modern_value="1500000.0" system="weight" unit="gin2" value="180000"/>5(u) gu2</count> u2-bil2-la <count><interpretation modern_unit="" modern_value="12" system="cardinal" unit="" value="12"/>1(u) 2(disz)-ta</count> 
+<count><interpretation modern_unit="" modern_value="6" system="cardinal" unit="" value="6"/>6(disz)</count> nigin2 pa gesz ku5 
+gesz sag3-ga 
+<com dist="1">tir</com> i7 gal-la 
+giri3 a-du-mu 
+kiszib3 ur-{gesz}gigir 
+mu ku3 gu-za {d}en-lil2-la2 ba-dim2 
+</commodities>

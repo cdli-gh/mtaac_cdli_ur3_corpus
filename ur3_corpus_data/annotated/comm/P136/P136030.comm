@@ -1,0 +1,20 @@
+<commodities>
+#P136030 = UCP 9-2-2, 026
+#atf: lang sux
+<count><interpretation modern_unit="l" modern_value="13.5" system="dry capacity" unit="sila3" value="13.5"/>1(ban2) 3(disz) 1/2(disz) sila3</count> 
+ur-ziz2 
+<count><interpretation modern_unit="l" modern_value="3.5" system="liquid capacity" unit="sila3" value="3.5"/><interpretation modern_unit="l" modern_value="3.5" system="dry capacity" unit="sila3" value="3.5"/>3(disz) 1/2(disz) sila3</count> dumu ARAD2 
+<count><interpretation modern_unit="l" modern_value="3" system="liquid capacity" unit="sila3" value="3"/><interpretation modern_unit="l" modern_value="3" system="dry capacity" unit="sila3" value="3"/>3(disz) sila3</count> lu2 kin-gi4 
+<count><interpretation modern_unit="l" modern_value="1.5" system="liquid capacity" unit="sila3" value="1.5"/><interpretation modern_unit="l" modern_value="1.5" system="dry capacity" unit="sila3" value="1.5"/>1(disz) 1/2(disz) sila3</count> lu2 da-da 
+<count><interpretation modern_unit="l" modern_value="3" system="liquid capacity" unit="sila3" value="3"/><interpretation modern_unit="l" modern_value="3" system="dry capacity" unit="sila3" value="3"/>3(disz) sila3</count> mar-tu 
+<count><interpretation modern_unit="l" modern_value="2" system="liquid capacity" unit="sila3" value="2"/><interpretation modern_unit="l" modern_value="2" system="dry capacity" unit="sila3" value="2"/>2(disz) sila3</count> hur-sag-e-du3 
+<count><interpretation modern_unit="l" modern_value="2" system="liquid capacity" unit="sila3" value="2"/><interpretation modern_unit="l" modern_value="2" system="dry capacity" unit="sila3" value="2"/>2(disz) sila3</count> ur-{d}dumu-zi-da 
+<count><interpretation modern_unit="l" modern_value="1" system="liquid capacity" unit="sila3" value="1"/><interpretation modern_unit="l" modern_value="1" system="dry capacity" unit="sila3" value="1"/>1(disz) sila3</count> lu2-a-al-la 
+<count><interpretation modern_unit="l" modern_value="1" system="liquid capacity" unit="sila3" value="1"/><interpretation modern_unit="l" modern_value="1" system="dry capacity" unit="sila3" value="1"/>1(disz) sila3</count> lu2-{d}szara2 
+<count><interpretation modern_unit="l" modern_value="11" system="dry capacity" unit="sila3" value="11"/>1(ban2) 1(disz) sila3</count> ku-ka 
+<count><interpretation modern_unit="l" modern_value="2" system="liquid capacity" unit="sila3" value="2"/><interpretation modern_unit="l" modern_value="2" system="dry capacity" unit="sila3" value="2"/>2(disz) sila3</count> <com dist="1">sze-bi-kam</com> 
+szunigin <count><interpretation modern_unit="l" modern_value="12" system="dry capacity" unit="sila3" value="12"/>1(ban2) 2(disz) sila3</count> <com dist="1">zi3-gu</com> 
+szunigin <count><interpretation modern_unit="l" modern_value="31" system="dry capacity" unit="sila3" value="31"/>3(ban2) 1(disz) sila3</count> <com dist="1">dabin</com> 
+sa2-du11 zi-ga-am3 
+u4 <count><interpretation modern_unit="" modern_value="20" system="cardinal" unit="" value="20"/>2(u)</count> <count><interpretation modern_unit="" modern_value="7" system="cardinal" unit="" value="7"/>7(disz)-kam</count> 
+</commodities>

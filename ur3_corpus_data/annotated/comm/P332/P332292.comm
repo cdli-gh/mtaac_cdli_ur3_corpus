@@ -1,0 +1,23 @@
+<commodities>
+#P332292 = JCS 54, 14, 88
+#atf: lang sux
+<count>1(gesz2) 5(u) 4(asz) 2(barig) sze gur</count> lugal 
+i-pa2-li2-is engar 
+<count><interpretation modern_unit="l" modern_value="0.009259259259259259" system="dry capacity" unit="sila3" value="0.009259259259259259"/>1(gesz2) 4(u) sze gur</count> 
+szu-na-bu-um engar 
+<count>1(gesz2) 3(u) 8(asz) 2(barig) sze gur</count> 
+szu-ab-ba engar 
+<count><interpretation modern_unit="l" modern_value="0.0002777777777777778" system="dry capacity" unit="sila3" value="0.0002777777777777778"/>3(asz) sze gur</count> 
+ki nin-en-tir-ta 
+<count>5(gesz2) 1(u) 5(asz) 4(barig) sze gur</count> 
+ki-su7 du6 {d}en-lil2-la2 
+<count><interpretation modern_unit="l" modern_value="0.008148148148148147" system="dry capacity" unit="sila3" value="0.008148148148148147"/>1(gesz2) 2(u) 8(asz) sze gur</count> 
+a-da-lal3 engar dumu am3-da-da 
+<count><interpretation modern_unit="l" modern_value="9.259259259259259e-05" system="dry capacity" unit="sila3" value="9.259259259259259e-05"/>1(asz) sze gur</count> 
+... engar dumu ur-{d}nisaba 
+... <com dist="1">NE</com> 
+<count><interpretation modern_unit="l" modern_value="12480" system="dry capacity" unit="sila3" value="12480"/>4(u) 1(asz) 3(barig) gur</count> 
+... <com dist="1">{gesz}gag-kul2-tum-ma</com> 
+szunigin <count>7(gesz2) 5(u) 7(asz) 2(barig) sze gur</count> 
+mu us2-sa ma2-dara3 <com dist="1">abzu</com> {d}en-ki-ka ba-ab-du8 
+</commodities>

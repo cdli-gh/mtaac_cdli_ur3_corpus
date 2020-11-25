@@ -1,0 +1,15 @@
+<commodities>
+#P104125 = AUCT 2, 307
+#atf: lang sux
+# calculation: 150 gur  x 25 danna x 1 sila3/gur = 12 1/2 gur
+# 5 ban2 for x would make little sense
+<count>1(u) 2(asz) 2(barig) 3(ban2) sze gur</count> 
+a2 ma2 hun-ga2 <com dist="1">sze</com> <count><interpretation modern_unit="l" modern_value="45000" system="dry capacity" unit="sila3" value="45000"/>2(gesz2) 3(u) gur</count> 
+ka2 ga-ar-sar-ma-ta 
+e2-amar e2 {d}szara2{ki}-sze3 
+kaskal-bi <count><interpretation modern_unit="" modern_value="25" system="cardinal" unit="" value="25"/>2(u) 5(disz)</count> da-na 
+da-na-a a2 <com dist="1">sze</com> <count><interpretation modern_unit="l" modern_value="301" system="dry capacity" unit="sila3" value="301"/>1(asz) gur 1(disz)</count> sila3-ta 
+ki lu2-dingir-ra-ta ba-zi 
+iti ses-da-gu7 
+mu {d}szu-{d}suen lugal uri5{ki}-ma-ke4 ma-da za-ab-sza-li{ki} mu-hul 
+</commodities>

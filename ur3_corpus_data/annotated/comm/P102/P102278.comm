@@ -1,0 +1,24 @@
+<commodities>
+#P102278 = ASJ 09, 233 02
+#atf: lang sux
+#tr.en: 12 gur 2 barig barley, royal (measure),
+#tr.en: from the depot of Tulta;
+#tr.en: 1 gur 4 barig 5 ban2,
+#tr.en: from the depot of Ur-nigar;
+#tr.en: loan barley of worktrooper2, ploughmen, ox-drivers, and oxen managers
+#tr.en: did Ur-Mama
+#tr.en: recieve.
+#tr.en: ... Inanna
+#tr.en: from the depot of Urub;
+#tr.en: year: “The throne of Enlil was fashioned.”
+<count>1(u) 2(asz) 2(barig) sze gur</count> lugal 
+i3-dub tul2-ta-ta 
+<count><interpretation modern_unit="l" modern_value="590" system="dry capacity" unit="sila3" value="590"/>1(asz) 4(barig) 5(ban2) gur</count> 
+i3-dub ur-nigar{gar}-ta 
+<com dist="1">sze</com> ur5-ra erin2 engar sza3-gu4 u3 nu-banda3-gu4 
+ur-ma-ma-ke4 
+szu ba-ti 
+mu sanga {d}inanna 
+i3-dub uru11{ki}-ta 
+mu gu-za {d}en-lil2-la2 ba-dim2 
+</commodities>

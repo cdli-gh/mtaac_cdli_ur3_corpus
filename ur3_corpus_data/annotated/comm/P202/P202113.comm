@@ -1,0 +1,34 @@
+<commodities>
+#P202113 = CDLB 2017/001 6
+#atf: lang sux
+#tr.en: 19 gur 3 barig 1 ban2 barley, (according to the) royal (measure),
+#tr.en: from Ur-Damu;
+#tr.en: 21 gur 2 barig 4 ban2 from Ur-Lamma, son of Lu-Suen;
+#tr.en: total: 41 gur 5 ban2 barley;
+#tr.en: therefrom:
+#tr.en: 6 bur3 1 eše3 5 iku field area (sowed with) 1 gur 2 barig 3 ban2 each (bur3);
+#tr.en: 3 bur3 1 eše3 3 1/4 iku field area (sowed with) 1 gur 3 barig 1 ban2 5 sila3 each (bur3);
+#tr.en: 1 bur’u, 2 bur3 2 eše3 3 iku field area (sowed with) 1 gur 4 barig each (bur3).
+#tr.en: the barley: 38 gur 4 barig 4 1/3 sila;
+#tr.en: delivery;
+#tr.en: Lu-...,
+#tr.en: Dada, son of Ur-gula;
+#tr.en: Great-Field;
+#tr.en: running account,
+#tr.en: year: “Amar-Suen is king.”
+<count>1(u) 9(asz) 3(barig) 1(ban2) sze gur</count> lugal 
+<com dist="1">ki</com> ur-{d}da-mu-ta 
+<count><interpretation modern_unit="l" modern_value="6460" system="dry capacity" unit="sila3" value="6460"/>2(u) 1(asz) 2(barig) 4(ban2)</count> <com dist="1">ki</com> ur-{d}lamma dumu lu2-{d}suen-ta 
+szunigin <count>4(u) 1(asz) 5(ban2) sze gur</count> 
+sza3-bi-ta 
+<count><interpretation modern_unit="m^2" modern_value="428400.0" system="surface" unit="gin2" value="714000"/>6(bur3) 1(esze3) 5(iku) gan2</count> <count><interpretation modern_unit="l" modern_value="450" system="dry capacity" unit="sila3" value="450"/>1(asz) 2(barig) 3(ban2)-ta</count> 
+<count><interpretation modern_unit="m^2" modern_value="227700.0" system="surface" unit="gin2" value="379500.0"/>3(bur3) 1(esze3) 3(iku) 1/4(iku) gan2</count> <count><interpretation modern_unit="l" modern_value="495" system="dry capacity" unit="sila3" value="495"/>1(asz) 3(barig) 1(ban2) 5(disz)</count> sila3-ta 
+<count><interpretation modern_unit="m^2" modern_value="831600.0" system="surface" unit="gin2" value="1386000"/>1(bur'u) 2(bur3) 2(esze3) 3(iku) gan2</count> <count><interpretation modern_unit="l" modern_value="540" system="dry capacity" unit="sila3" value="540"/>1(asz) 4(barig)-ta</count> 
+<com dist="1">sze-bi</com> <count><interpretation modern_unit="l" modern_value="11644.333333333334" system="dry capacity" unit="sila3" value="11644.333333333334"/>3(u) 8(asz) 4(barig) 4(disz) 1/3(disz) sila3 gur</count> 
+mu-kux(DU) 
+lu2-x-... x 
+da-da dumu <com dist="1">ur-gu-la</com> 
+a-sza3-mah 
+nig2-ka9-ak 
+mu {d}amar-{d}suen lugal 
+</commodities>

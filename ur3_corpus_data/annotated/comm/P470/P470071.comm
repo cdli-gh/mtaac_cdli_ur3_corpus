@@ -1,0 +1,25 @@
+<commodities>
+#P470071 = CDLB 2014/005 §9
+#atf: lang sux
+#tr.en: 150 male laborer workdays,
+#tr.en: grain from Irisagrig(?)
+#tr.en: booked out;
+#tr.en: foreman: Alaya,
+#tr.en: under seal of Ur-mes;
+# seal impression
+#tr.en: month: “Šu’eša,”
+#tr.en: year: “Ḫuḫnuri was destroyed.”
+#tr.en: Ur-mes,
+#tr.en: scribe,
+#tr.en: son of Ur-Suen.
+<count><interpretation modern_unit="" modern_value="150" system="cardinal" unit="" value="150"/>2(gesz2) 3(u)</count> <com dist="1">gurusz</com> u4 <count><interpretation modern_unit="" modern_value="1" system="cardinal" unit="" value="1"/>1(disz)-sze3</count> 
+<com dist="1">sze</com> iri-sa12-rig7{ki}-ta 
+zi-ga 
+ugula a-la-a 
+kiszib3 ur-mes 
+iti szu-esz-sza 
+mu hu-uh2-nu-ri{ki} ba-hul 
+ur-mes 
+dub-sar 
+dumu ur-{d}suen 
+</commodities>

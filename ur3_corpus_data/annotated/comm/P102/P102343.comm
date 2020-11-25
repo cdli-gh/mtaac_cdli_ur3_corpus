@@ -1,0 +1,37 @@
+<commodities>
+#P102343 = ASJ 09, 265 67
+#atf: lang sux
+#tr.en: 1 lamb, governor of Kish;
+#tr.en: 1 lamb, Burmama;
+#tr.en: 1 female kid, grain-fed, governor of Nippur;
+#tr.en: 1 lamb, governor of Adab;
+#tr.en: 2 oxen, 1 ox, breeder, speckled,
+#tr.en: 1 ox, ..., 29 billy goats,
+#tr.en: of PI-bi2-il, Amorite;
+#tr.en: 1 lamb , Ur-Gula, nubanda;
+#tr.en: 1 calf-gazelle, Ea-ilī;
+#tr.en: 66 nanny goats,
+#tr.en: 4 billy goats, full-grown, breeders,
+#tr.en: Ṣelluš-Dagan
+#tr.en: delivery;
+# some text moved to next line
+#tr.en: month: “Akitu,”
+#tr.en: year: “Simurrum and Lullubum for the 9th time were destroyed;”
+#tr.en: 7th day.
+<count><interpretation modern_unit="" modern_value="1" system="cardinal" unit="" value="1"/>1(disz)</count> <com dist="1">sila4</com> ensi2 kisz{ki} 
+<count><interpretation modern_unit="" modern_value="1" system="cardinal" unit="" value="1"/>1(disz)</count> <com dist="1">sila4</com> bur-ma-ma 
+<count><interpretation modern_unit="" modern_value="1" system="cardinal" unit="" value="1"/>1(disz)</count> <com dist="1">{munus}asz2-gar3</com> niga ensi2 nibru{ki} 
+<count><interpretation modern_unit="" modern_value="1" system="cardinal" unit="" value="1"/>1(disz)</count> <com dist="1">sila4</com> ensi2 adab{ki} 
+<count><interpretation modern_unit="" modern_value="2" system="cardinal" unit="" value="2"/>2(disz)</count> <com dist="1">gu4</com> <count><interpretation modern_unit="" modern_value="1" system="cardinal" unit="" value="1"/>1(disz)</count> gu4 gesz-du3 gun3-a 
+<count><interpretation modern_unit="" modern_value="1" system="cardinal" unit="" value="1"/>1(disz)</count> <com dist="1">gu4</com> x-a <count><interpretation modern_unit="" modern_value="29" system="cardinal" unit="" value="29"/>3(u) la2 1(disz)</count> masz2 
+PI-bi2-il mar-tu 
+<count><interpretation modern_unit="" modern_value="1" system="cardinal" unit="" value="1"/>1(disz)</count> <com dist="1">sila4</com> ur-gu-la nu-banda3 
+<count><interpretation modern_unit="" modern_value="1" system="cardinal" unit="" value="1"/>1(disz)</count> <com dist="1">amar</com> masz-da3 e2-a-i3-li2 
+<count><interpretation modern_unit="" modern_value="66" system="cardinal" unit="" value="66"/>1(gesz2) 6(disz)</count> <com dist="1">ud5</com> 
+<count><interpretation modern_unit="" modern_value="4" system="cardinal" unit="" value="4"/>4(disz)</count> masz2-gal gesz-du3 
+s,e-lu-usz-{d}da-gan 
+mu-kux(DU) 
+iti a2-ki-ti 
+mu si-mu-ru-um{ki} <com dist="1">u3</com> lu-lu-bu{ki} a-ra2 <count><interpretation modern_unit="" modern_value="10" system="cardinal" unit="" value="10"/>1(u) la2</count> <count><interpretation modern_unit="" modern_value="1" system="cardinal" unit="" value="1"/>1(disz)-kam-asz</count> ba-hul 
+u4 <count><interpretation modern_unit="" modern_value="7" system="cardinal" unit="" value="7"/>7(disz)-kam</count> 
+</commodities>

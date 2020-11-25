@@ -1,0 +1,33 @@
+<commodities>
+#P118642 = MVN 15, 377
+#atf: lang sux
+#tr.en: 10 gur barley, under seal of Katarni the boatman;
+#tr.en: 1 gur, under seal of Ur-gigir, son of Aribi;
+#tr.en: 1 gur n sila3 flour,
+#tr.en: under seal of Ur-lugalbanda
+#tr.en: 33 gur 3 barig 5 ban2,
+#tr.en: 2 ban2 emmer,
+#tr.en: from Lugalezem, the chief household manager;
+#tr.en: 25 gur 2 barig 5 ban2 3 sila3
+#tr.en: (from) Lanimu;
+#tr.en: total 14 gur, 4 barig 2 ban2 5 sila barley;
+#tr.en: total 1 barig 2 ban2 emmer;
+#tr.en: total 1 barig flour.
+#tr.en: The sealed documents will be returned(?);
+#tr.en: under seal of Ikalla, son of Hedam.
+# some erasures, potentially of month/year
+<count><interpretation modern_unit="l" modern_value="0.0009259259259259259" system="dry capacity" unit="sila3" value="0.0009259259259259259"/>1(u) sze gur</count> kiszib3 ka-tar-ni <com dist="1">ma2-lah5</com> 
+<count><interpretation modern_unit="l" modern_value="300" system="dry capacity" unit="sila3" value="300"/>1(asz) gur</count> kiszib3 <com dist="1">ur-{gesz}gigir</com> dumu a-ri2-bi 
+<count><interpretation modern_unit="" modern_value="none" system="unknown" unit="" value="none"/>1(asz) 1(barig) x gur</count> <com dist="1">zi3</com> 
+kiszib3 ur-{d}lugal-banda3 
+<count><interpretation modern_unit="l" modern_value="10130" system="dry capacity" unit="sila3" value="10130"/>3(u) 3(asz) 3(barig) 5(ban2) gur</count> 
+<count><interpretation modern_unit="l" modern_value="20" system="dry capacity" unit="sila3" value="20"/>2(ban2)</count> <com dist="1">ziz2</com> 
+lugal-ezem szabra 
+<count><interpretation modern_unit="l" modern_value="7673" system="dry capacity" unit="sila3" value="7673"/>2(u) 5(asz) 2(barig) 5(ban2) 3(disz) sila3 gur</count> 
+la-ni-mu 
+szunigin <count><interpretation modern_unit="l" modern_value="3275" system="dry capacity" unit="sila3" value="3275"/>1(u) 1(u) 4(barig) 2(ban2) 5(disz) sila3 sze gur</count> 
+szunigin <count><interpretation modern_unit="l" modern_value="80" system="dry capacity" unit="sila3" value="80"/>1(barig) 2(ban2)</count> <com dist="1">ziz2</com> 
+szunigin <count><interpretation modern_unit="l" modern_value="60" system="dry capacity" unit="sila3" value="60"/>1(barig)</count> <com dist="1">zi3</com> 
+kiszib3-bi gu2-ru-dam 
+kiszib3 i3-kal-la dumu he2-dam 
+</commodities>

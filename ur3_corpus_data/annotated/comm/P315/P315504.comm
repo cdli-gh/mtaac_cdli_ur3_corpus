@@ -1,0 +1,21 @@
+<commodities>
+#P315504 = PPAC 5, 0016 
+#atf: lang sux 
+... sze gur 
+masz2-bi <count><interpretation modern_unit="" modern_value="15" system="cardinal" unit="" value="15"/>1(u) 5(disz)</count> 
+dub-sag 
+<count><interpretation modern_unit="" modern_value="58" system="cardinal" unit="" value="58"/>5(u) 8(disz)</count> <com dist="1">udu</com> 
+<count><interpretation modern_unit="l" modern_value="1250" system="dry capacity" unit="sila3" value="1250"/>4(asz) 5(ban2) gur</count> 
+<com dist="1">masz2-bi</com> <count><interpretation modern_unit="" modern_value="12.5" system="cardinal" unit="" value="12.5"/>1(u) 2(disz) 1/2(disz)</count> 
+egir 
+ur-{d}ba-ba6 <com dist="1">szu</com> ba-ti 
+sza3-bi-ta 
+<count><interpretation modern_unit="" modern_value="1" system="cardinal" unit="" value="1"/>1(disz)</count> <com dist="1">gu4</com> szu-gi4 
+<count><interpretation modern_unit="" modern_value="2" system="cardinal" unit="" value="2"/>2(disz)</count> ansze szu-gi4 
+<count><interpretation modern_unit="" modern_value="30" system="cardinal" unit="" value="30"/>3(u)</count> masz2 
+<count><interpretation modern_unit="" modern_value="none" system="unknown" unit="" value="none"/>3(disz) gin2 la2 2(u) sze x</count> 
+<com dist="1">masz2-bi</com> <count><interpretation modern_unit="" modern_value="8" system="cardinal" unit="" value="8"/>8(disz)</count> ga2 
+dub-sag 
+<count><interpretation modern_unit="" modern_value="none" system="unknown" unit="" value="none"/>1(u) 2(barig) ... sze gur</count> 
+<com dist="1">masz2-bi</com> <count><interpretation modern_unit="" modern_value="none" system="unknown" unit="" value="none"/>3(u) ...</count> 
+</commodities>

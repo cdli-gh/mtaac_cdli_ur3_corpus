@@ -1,0 +1,18 @@
+<commodities>
+#P202287 = BM 020904
+#atf: lang sux
+# calculation: (20 x 2 x 17) + (20 x 1 x 7) = 2;3,4
+<count><interpretation modern_unit="" modern_value="20" system="cardinal" unit="" value="20"/>2(u)</count> <com dist="1">szah2</com> <count><interpretation modern_unit="l" modern_value="2" system="liquid capacity" unit="sila3" value="2"/><interpretation modern_unit="l" modern_value="2" system="dry capacity" unit="sila3" value="2"/>2(disz) sila3</count> sze-ta 
+u4 <count><interpretation modern_unit="" modern_value="17" system="cardinal" unit="" value="17"/>1(u) 7(disz)-sze3</count> 
+<count><interpretation modern_unit="" modern_value="20" system="cardinal" unit="" value="20"/>2(u)</count> <com dist="1">szah2</com> <count><interpretation modern_unit="l" modern_value="1" system="liquid capacity" unit="sila3" value="1"/><interpretation modern_unit="l" modern_value="1" system="dry capacity" unit="sila3" value="1"/>1(disz) sila3</count> sze-ta 
+u4 <count><interpretation modern_unit="" modern_value="7" system="cardinal" unit="" value="7"/>7(disz)-sze3</count> 
+<com dist="1">sze-bi</com> <count>2(asz) 3(barig) 4(ban2) sze gur</count> lugal 
+<com dist="1">ki</com> lu2-{d}nin-szubur-ta 
+kiszib3 ur-{d}nansze dumu ur-e2-an-na 
+lugal-ki-gal-la maszkim 
+iti ezem-{d}dumu-zi 
+mu {d}amar-{d}suen lugal 
+ur-{d}nansze 
+dub-sar 
+dumu ur-e2-an-na 
+</commodities>

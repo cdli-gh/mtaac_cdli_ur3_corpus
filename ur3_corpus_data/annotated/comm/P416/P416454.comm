@@ -1,0 +1,20 @@
+<commodities>
+#P416454 = CDLJ 2012/1 §5.04
+#atf: lang sux
+#tr.en: 9 gur of barley,
+#tr.en: barley allotment of Anati;
+#tr.en: 2 gur of barley,
+#tr.en: of Nun-... ;
+#tr.en: total: 11 gur of barley,
+#tr.en: barley allotments from the field ...;
+#tr.en: month: “ki-siki of Ninazu,”
+#tr.en: year: “The boat ‘ibex of absu-Enki’ was caulked.”
+<count><interpretation modern_unit="l" modern_value="0.0008333333333333333" system="dry capacity" unit="sila3" value="0.0008333333333333333"/>9(asz) sze gur</count> 
+<com dist="1">sze</com> szuku a-na-ti 
+<count><interpretation modern_unit="l" modern_value="0.00018518518518518518" system="dry capacity" unit="sila3" value="0.00018518518518518518"/>2(asz) sze gur</count> 
+{d}nun-... 
+szunigin <count><interpretation modern_unit="l" modern_value="0.0010185185185185184" system="dry capacity" unit="sila3" value="0.0010185185185185184"/>1(u) 1(asz) sze gur</count> 
+<com dist="1">sze</com> szuku-ra a-sza3 ...-GAG UD gur8 
+iti ki-siki-{d}nin-a-zu 
+mu ma2 dara3-abzu-{d}en-ki ba-du8 
+</commodities>

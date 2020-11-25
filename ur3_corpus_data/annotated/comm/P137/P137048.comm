@@ -1,0 +1,14 @@
+<commodities>
+#P137048 = UET 3, 0724
+#atf: lang sux
+x {gesz}gu-za nita ku3 ... 
+ku3-si2-bi <count><interpretation modern_unit="" modern_value="none" system="unknown" unit="" value="none"/>1/3(disz){sza} ...</count> 
+<com dist="1">ku3-babbar-bi</com> <count><interpretation modern_unit="" modern_value="none" system="unknown" unit="" value="none"/>1/2(disz) ma-na ...</count> 
+<count><interpretation modern_unit="" modern_value="3" system="cardinal" unit="" value="3"/>3(disz)</count> <com dist="1">{gesz}gu-za</com> munus ku3 ... 
+ku3-sig17-bi <count><interpretation modern_unit="" modern_value="none" system="unknown" unit="" value="none"/>1/2(disz) gin2 ...</count> 
+ku3-babbar-bi <count><interpretation modern_unit="g" modern_value="250.00000000000003" system="weight" unit="gin2" value="30.0"/>1/2(disz) ma-na</count> 
+x <com dist="1">{gesz}gu-za</com> nita ku3-zi 
+ku3-si2-bi <count><interpretation modern_unit="g" modern_value="666.6666666666667" system="weight" unit="gin2" value="80.0"/>1(disz) 1/3(disz) ma-na</count> 
+x <com dist="1">{gesz}gu-za</com> munus ku3-babbar 
+ku3-babbar-bi <count><interpretation modern_unit="" modern_value="none" system="unknown" unit="" value="none"/>1/2(disz) ma-na ...</count> 
+</commodities>

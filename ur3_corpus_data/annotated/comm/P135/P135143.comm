@@ -1,0 +1,28 @@
+<commodities>
+#P135143 = TRU 379
+#atf: lang sux
+#tr.en: 1 male laborer, tablet-head;
+#tr.en: 1 male laborer, labor: 1/2;
+#tr.en: 2 male laborers, , labor: 110 shekels;
+#tr.en: they are ox-drivers;
+#tr.en: 1 5/6 male laborers,
+#tr.en: from month “Festival of Šulgi,”
+#tr.en: to month “Harvest;”
+#tr.en: the labor: 330 male laborer workdays,
+#tr.en: (a period) of 6 months,
+#tr.en: barley rations, added, delivered,
+#tr.en: Kuli accepted;
+#tr.en: year: “En-unugal of Inanna in Uruk was hired.”
+<count><interpretation modern_unit="" modern_value="1" system="cardinal" unit="" value="1"/>1(disz)</count> <com dist="1">gurusz</com> sag-dub 
+<count><interpretation modern_unit="" modern_value="1" system="cardinal" unit="" value="1"/>1(disz)</count> <com dist="1">gurusz</com> a2 <count><interpretation modern_unit="" modern_value="0.5" system="cardinal" unit="" value="0.5"/>1/2(disz)</count> 
+<count><interpretation modern_unit="" modern_value="2" system="cardinal" unit="" value="2"/>2(disz)</count> <com dist="1">gurusz</com> a2 <count><interpretation modern_unit="" modern_value="0.16666666666666666" system="cardinal" unit="" value="0.16666666666666666"/>1(u) gin2</count> 
+sza3-gu4-me 
+<count><interpretation modern_unit="" modern_value="1.8333333333333335" system="cardinal" unit="" value="1.8333333333333335"/>1(disz) 5/6(disz)</count> <com dist="1">gurusz</com> 
+iti ezem-{d}szul-gi-ta 
+iti sze-sag11-ku5-sze3 
+a2-bi <count><interpretation modern_unit="" modern_value="330" system="cardinal" unit="" value="330"/>5(gesz2) 3(u)</count> gurusz u4 <count><interpretation modern_unit="" modern_value="1" system="cardinal" unit="" value="1"/>1(disz)-sze3</count> 
+iti <count><interpretation modern_unit="" modern_value="6" system="cardinal" unit="" value="6"/>6(disz)-kam</count> 
+<com dist="1">sze-ba</com> dah-hu-a de6-a 
+ku-li i3-dab5 
+mu en-unu6-gal {d}inanna unu{ki} ba-hun 
+</commodities>

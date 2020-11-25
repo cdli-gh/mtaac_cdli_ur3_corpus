@@ -1,0 +1,9 @@
+<commodities>
+#P339427 = BPOA 1, 0771
+#atf: lang sux
+<count><interpretation modern_unit="m" modern_value="300" system="length" unit="gi" value="100"/>5(u) ninda</count> <com dist="1">gid2</com> <count><interpretation modern_unit="" modern_value="1" system="cardinal" unit="" value="1"/>1(disz)</count> sar-ta 
+<count><interpretation modern_unit="m" modern_value="330" system="length" unit="gi" value="110"/>5(u) 5(disz) ninda</count> <com dist="1">gid2</com> <count><interpretation modern_unit="" modern_value="0.5" system="cardinal" unit="" value="0.5"/>1/2(disz)</count> sar-ta 
+<count><interpretation modern_unit="m" modern_value="30" system="length" unit="gi" value="10"/>5(disz) ninda</count> <com dist="1">gid2</com> <count><interpretation modern_unit="" modern_value="0.5" system="cardinal" unit="" value="0.5"/>1/2(disz)</count> sar-ta 
+<count><interpretation modern_unit="m" modern_value="42" system="length" unit="gi" value="14"/>7(disz) ninda</count> <com dist="1">gid2</com> <count><interpretation modern_unit="" modern_value="1" system="cardinal" unit="" value="1"/>1(disz)</count> sar-ta 
+szunigin <count><interpretation modern_unit="bricks" modern_value="751680" system="bricks" unit="gin2" value="62640"/><interpretation modern_unit="m^2" modern_value="3132.0" system="surface" unit="gin2" value="5220"/><interpretation modern_unit="l" modern_value="1566000" system="volume" unit="gin2" value="5220"/>1(gesz2) 2(u) 7(disz) sar</count> 
+</commodities>

@@ -1,0 +1,9 @@
+<commodities>
+#P201248 = Princeton 2, 250
+#atf: lang sux
+<count><interpretation modern_unit="l" modern_value="6" system="dry capacity" unit="sila3" value="6"/>6(disz) sila3 sze</count> 
+<com dist="1">sze</com> nig2-ar3-ra 
+<count><interpretation modern_unit="l" modern_value="2.3333333333333335" system="liquid capacity" unit="sila3" value="2.3333333333333335"/><interpretation modern_unit="l" modern_value="2.3333333333333335" system="dry capacity" unit="sila3" value="2.3333333333333335"/>2(disz) 1/3(disz) sila3</count> nig2-ar3-ra 
+a-ra2 <count><interpretation modern_unit="" modern_value="2" system="cardinal" unit="" value="2"/>2(disz)-kam</count> 
+<count><interpretation modern_unit="l" modern_value="0.5" system="liquid capacity" unit="sila3" value="0.5"/><interpretation modern_unit="l" modern_value="0.5" system="dry capacity" unit="sila3" value="0.5"/>1/2(disz) sila3</count> nig2-suhur-sze3 
+</commodities>

@@ -1,0 +1,42 @@
+<commodities>
+#P454148 = Nisaba 15, 0973
+#atf: lang sux
+#tr.en: 2 gur 3 ban2 1 sila3 barley,
+#tr.en: prebend of Kuku;
+#tr.en: 2 gur 3 ban2 1 sila3,
+#tr.en: prebend of Era-bani;
+#tr.en: 3 gur 1 ban2 7 sila3,
+#tr.en: prebend of Adalal;
+#tr.en: 1 gur 1 ban2 5 sila3 barley,
+#tr.en: prebend of Ur-Dumuzi;
+#tr.en: 1 gur 3 barig 2 1/2 sila3 barley,
+# some text moved to next line
+#tr.en: prebend of Ilī-bani;
+#tr.en: 9 gur 4 barig 3 ban2 7 sila3 barley,
+# calculation: 2;0,3,1 + 2;0,3,1 + 3;0,1,8 + 1;0,1,5 + 1;3,0,2 1/2 = 9;4,3,7 (1/2)
+#tr.en: of those not receiving barley (rations),
+#tr.en: did Šū-Lisi receive;
+#tr.en: field SIG...gi;
+#tr.en: year: “Ibbi-Sîn, king of Ur, Simurum did destroy.”
+#tr.en: Šū-Lisi,
+#tr.en: son of ...,
+#tr.en: rider, ... .
+<count><interpretation modern_unit="l" modern_value="631" system="dry capacity" unit="sila3" value="631"/>2(asz) 3(ban2) 1(disz) sila3 sze gur</count> 
+<com dist="1">szuku</com> ku-ku 
+<count><interpretation modern_unit="l" modern_value="631" system="dry capacity" unit="sila3" value="631"/>2(asz) 3(ban2) 1(disz) sila3 gur</count> 
+<com dist="1">szuku</com> er3-ra-ba-ni 
+<count><interpretation modern_unit="l" modern_value="918" system="dry capacity" unit="sila3" value="918"/>3(asz) 1(ban2) 8(disz) sila3 gur</count> 
+<com dist="1">szuku</com> a-da-lal3 
+<count><interpretation modern_unit="l" modern_value="315" system="dry capacity" unit="sila3" value="315"/>1(asz) 1(ban2) 5(disz) sila3 gur</count> 
+<com dist="1">szuku</com> ur-{d}dumu-zi 
+<count><interpretation modern_unit="l" modern_value="482.5" system="dry capacity" unit="sila3" value="482.5"/>1(asz) 3(barig) 2(disz) 1/2(disz) sila3</count> 
+<com dist="1">szuku</com> dingir-ba-ni 
+a. ($ blank space $) <count><interpretation modern_unit="l" modern_value="2977" system="dry capacity" unit="sila3" value="2977"/>9(asz) 4(barig) 3(ban2) 7(disz) sila3 gur</count> 
+b. ($ blank space $) <com dist="1">sze</com> nu-dab5-me 
+szu-{d}li9-si4 szu ba-ti 
+a-sza3 SIG7-x-x-bu-gi4 
+mu {d}i-bi2-{d}suen lugal uri5{ki}-ma-ke4 si-mu-ru-um{ki} mu-hul 
+szu-{d}li9-si4 
+dumu {d}lamma-kal 
+ra2-gaba x 
+</commodities>

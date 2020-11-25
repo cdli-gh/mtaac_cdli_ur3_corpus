@@ -1,0 +1,66 @@
+<commodities>
+#P416429 = CDLJ 2012/1 §4.27
+#atf: lang sux
+#tr.en: 4 male lambs ...,
+#tr.en: 8 female lambs ...,
+#tr.en: 5 male ids ...,
+#tr.en: 6 female kids ...,
+#tr.en: (subtotal:) 23,
+#tr.en: newborns;
+#tr.en: 2 female lambs ...,
+#tr.en: 1 male kid ...,
+#tr.en: 1 male kid ...,
+#tr.en: 3 female kids ...,
+#tr.en: 2 female kids,
+#tr.en: (subtotal:) 9,
+#tr.en: additional newborns;
+#tr.en: 1 suckling long-fleeced lamb,
+#tr.en: 1 suckling male kid,
+#tr.en: 1 suckling male kid, speckled,
+#tr.en: 1 female kid, speckled,
+#tr.en: (subtotal:) 4,
+#tr.en: additional newborns, slaughtered;
+#tr.en: among the “old” (delivery);
+#tr.en: 1 suckling fat-tailed female lamb,
+#tr.en: (subtotal:) 1,
+#tr.en: newborn, slaughtered;
+#tr.en: of the delivery;
+#tr.en: ... house of shrine,
+#tr.en: ... accepted;
+#tr.en: ...
+#tr.en: ...
+#tr.en: month: “...,” ...th day,
+#tr.en: year: “Kimas was destroyed;”
+#tr.en: (total:) 37.
+<count><interpretation modern_unit="" modern_value="4" system="cardinal" unit="" value="4"/>4(disz)</count> <com dist="1">sila4</com> gub ... 
+<count><interpretation modern_unit="" modern_value="8" system="cardinal" unit="" value="8"/>8(disz)</count> <com dist="1">kir11</com> gub ... 
+<count><interpretation modern_unit="" modern_value="5" system="cardinal" unit="" value="5"/>5(disz)</count> <com dist="1">masz2</com> gub ... 
+<count><interpretation modern_unit="" modern_value="6" system="cardinal" unit="" value="6"/>6(disz)</count> <com dist="1">{munus}asz2-gar3</com> gub ... 
+($ blank space $) <count><interpretation modern_unit="" modern_value="23" system="cardinal" unit="" value="23"/>2(u) 3(disz)</count> 
+<com dist="1">u3-tu-da</com> 
+<count><interpretation modern_unit="" modern_value="2" system="cardinal" unit="" value="2"/>2(disz)</count> kir11 gub ... 
+<count><interpretation modern_unit="" modern_value="1" system="cardinal" unit="" value="1"/>1(disz)</count> <com dist="1">masz2</com> gub ... 
+<count><interpretation modern_unit="" modern_value="1" system="cardinal" unit="" value="1"/>1(disz)</count> <com dist="1">masz2</com> gub ... 
+<count><interpretation modern_unit="" modern_value="3" system="cardinal" unit="" value="3"/>3(disz)</count> <com dist="1">{munus}asz2-gar3</com> gub ... 
+<count><interpretation modern_unit="" modern_value="2" system="cardinal" unit="" value="2"/>2(disz)</count> <com dist="1">{munus}asz2-gar3</com> gub ... 
+($ blank space $) <count><interpretation modern_unit="" modern_value="9" system="cardinal" unit="" value="9"/>1(u) la2 1(disz)</count> 
+diri <com dist="1">u3-tu-da</com> 
+<count><interpretation modern_unit="" modern_value="1" system="cardinal" unit="" value="1"/>1(disz)</count> sila4 ga a-lum 
+<count><interpretation modern_unit="" modern_value="1" system="cardinal" unit="" value="1"/>1(disz)</count> masz2 ga 
+<count><interpretation modern_unit="" modern_value="1" system="cardinal" unit="" value="1"/>1(disz)</count> masz2 ga igi-gun3 
+<count><interpretation modern_unit="" modern_value="1" system="cardinal" unit="" value="1"/>1(disz)</count> <com dist="1">{munus}asz2-gar3</com> igi-gun3 
+($ blank space $) <count><interpretation modern_unit="" modern_value="4" system="cardinal" unit="" value="4"/>4(disz)</count> 
+diri <com dist="1">u3-tu-da</com> ba-usz2 
+sza3 libir 
+<count><interpretation modern_unit="" modern_value="1" system="cardinal" unit="" value="1"/>1(disz)</count> <com dist="1">kir11</com> ga gukkal 
+($ blank space $) <count><interpretation modern_unit="" modern_value="1" system="cardinal" unit="" value="1"/>1(disz)</count> 
+<com dist="1">u3-tu-da</com> ba-usz2 
+sza3 mu-kux(DU)-ra 
+x zi-ga x x e2-esz3 
+... x i3-dab5 
+... x x 
+... x x 
+iti ... u4 
+mu ki-masz{ki} ba-hul 
+<count><interpretation modern_unit="" modern_value="37" system="cardinal" unit="" value="37"/>3(u) 7(disz)</count> <com dist="1">udu</com> 
+</commodities>

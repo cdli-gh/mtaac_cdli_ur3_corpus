@@ -1,0 +1,24 @@
+<commodities>
+#P102307 = ASJ 09, 252 31
+#atf: lang sux
+#tr.en: 4 ban2 1 sila3 flour,
+#tr.en: from Lugal-ezem,
+#tr.en: Ur-Nungal
+#tr.en: received;
+#tr.en: of the bala;
+# some text moved to next line
+#tr.en: month: “First-fruits,”
+# seal impression
+#tr.en: year: “Šašrum was destroyed.”
+#tr.en: Ur-Ningal,
+#tr.en: son of Ur-nigar.
+<count><interpretation modern_unit="l" modern_value="41" system="dry capacity" unit="sila3" value="41"/>4(ban2) 1(disz) sila3</count> <com dist="1">zi3</com> 
+ki lugal-ezem-ta 
+ur-{d}nun-gal 
+szu ba-ti 
+sza3 bala 
+iti nesag 
+mu sza3-asz-ru-um{ki} ba-hul 
+ur-{d}nun-gal 
+dumu ur-nigar 
+</commodities>

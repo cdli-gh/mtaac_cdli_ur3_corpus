@@ -1,0 +1,98 @@
+<commodities>
+#P116115 = MVN 11, 101
+#atf: lang sux
+#tr.en: 39 gur 3 ban2 barley, royal (measure),
+#tr.en: silver, in 1 shekel 1 gur royal (measure),
+#tr.en: its silver: 1/2 mana 9 shekels 18 grains,
+# calculation: 39 30/300 ÷ 1 = 39 18/180
+#tr.en: from ARAD2-mu, son of Lugal-pirigbanda;
+#tr.en: are the debits;
+#tr.en: therefrom:
+#tr.en: 3 gur EA-bitumen,
+#tr.en: silver, in 1 shekel 1 barig EA-bitumen, royal (measure),
+#tr.en: 1 gur 4 barig 2 ban2 8 sila EA-bitumen at 1 barig 3 ban2 each,
+#tr.en: its silver: 1/3 (mana) 1 1/3 shekels less 4 grains;
+# calculation: (3 ÷ 60/300 =) 15 + (1 268/300 ÷ 90/300 =) 6 93.33/300 = 21 56/180
+#tr.en: 1 barig leeks at 15 sila each,
+#tr.en: its silver: 4 shekels;
+# calculation: 60/300 ÷ 15/300 = 4
+#tr.en: 2 barig 3 ban2 garlic at 1 barig 4 ban2 each,
+#tr.en: its silver: 1 1/2 shekels;
+# calculation: 150/300 ÷ 100/300 = 1 1/2
+#tr.en: 3 barig 4 ban2 4 sila onion, ground, at 1 barig 4 ban2 each,
+#tr.en: its silver: 2 1/4 shekels less 2 grains,
+# erasure ?
+# calculation: 224/300 ÷ 100/300 = 2 43.2/180 (text 2 43/180)
+#tr.en: 14 gur 1 barig 1 ban2 2 sila alkali-plant at 1 gur 3 barig 3 ban2 each,
+#tr.en: its silver: 8 1/3 shekels 2 1/2 grains,
+# calculation: 14 72/300 ÷ 1 210/300 = 8 67.765/180 (text 8 62.5/180, would have required 14g 1b la2 3s)
+#tr.en: 1 gur 4 barig 4 ban2 6 sila salt at 3 gur each,
+#tr.en: its silver: 2/3 shekels less 3 grains;
+# calculation: 1 286/300 ÷ 3 = 117.2/180 (text 117/180)
+#tr.en: 20 pines, lumber from the slaughterhouse,
+#tr.en: its silver: 1/3 shekel;
+# calculation: 20 ÷ 60 = 1/3
+#tr.en: 3 barig figs, fresh, at 1 gur 3 barig each,
+#tr.en: its silver: 1/3 shekel 7 1/2 grains,
+# calculation: 180/300 ÷ 1 180/300 = 67.5/180
+#tr.en: 2 ban2 7 sila dates at 1 gur each,
+#tr.en: its silver: 16 grains of silver;
+# calculation: 27/300 ÷ 1 = 16.2/180 (text 16/180)
+#tr.en: 1 talent 44 mana bitumen, dried, at 10 talents each,
+#tr.en: its silver: 1/6 shekel;
+# calculation: 104/60 ÷ 600/60 = 31.2/180 (text 30/180)
+#tr.en: total: 1/2 mana 9 shekels 20 grains of silver,
+# 9(disz) over erasure of 8(disz) 5/6(disz)
+# calculation: 21 56/180 + 4 + 1 90/180 + 2 43/180 + 8 62.5/180 + 117/180 + 60/180 + 67.5/180 + 16/180 + 30/180 = 21 + 4 + 1 + 2 + 8 + (18 + 56 + 90 + 43 + 62.5 + 117 + 60 + 67.5 + 16 + 30)/180 = 36 + 560/180 = 39 20/180
+#tr.en: booked out;
+#tr.en: deficit: 17 grains of silver;
+# calculation: 39 18/180 - 39 1/180 = 17/180
+#tr.en: account of
+#tr.en: Ur-Šulpa’e, the merchant,
+#tr.en: in Ur.
+#tr.en: month: “Festival-grain-lifted” and month “GANmaš”;
+#tr.en: (a period) of two months;
+#tr.en: its bala: 1;
+#tr.en: Ur-Lamma, the governor;
+#tr.en: year: “Simurrum, Lullubum, for the 9th time were destroyed.”
+# sic 9(disz)
+<count>3(u) 9(asz) 3(ban2) sze gur</count> lugal 
+<com dist="1">ku3</com> <count><interpretation modern_unit="" modern_value="1" system="cardinal" unit="" value="1"/>1(disz)</count> gin2-a <count><interpretation modern_unit="l" modern_value="9.259259259259259e-05" system="dry capacity" unit="sila3" value="9.259259259259259e-05"/>1(asz) sze gur</count> lugal 
+<com dist="1">ku3-bi</com> <count><interpretation modern_unit="g" modern_value="325.83333333333337" system="weight" unit="gin2" value="39.1"/>1/2(disz) ma-na 9(disz) gin2 1(u) 8(disz) sze</count> 
+ki ARAD2-mu dumu lugal-pirig-banda3-ta 
+sag-nig2-gur11-ra-kam 
+sza3-bi-ta 
+<count><interpretation modern_unit="" modern_value="3" system="cardinal" unit="" value="3"/>3(asz)</count> <com dist="1">esir2</com> E2-A gur 
+ku3 <count><interpretation modern_unit="" modern_value="1" system="cardinal" unit="" value="1"/>1(disz)</count> gin2-a <count><interpretation modern_unit="l" modern_value="60" system="dry capacity" unit="sila3" value="60"/>1(barig)</count> <com dist="1">esir2</com> E2-A lugal-ta 
+<count><interpretation modern_unit="l" modern_value="568" system="dry capacity" unit="sila3" value="568"/>1(asz) 4(barig) 2(ban2) 8(disz) sila3</count> <com dist="1">esir2</com> E2-A gur <count><interpretation modern_unit="l" modern_value="90" system="dry capacity" unit="sila3" value="90"/>1(barig) 3(ban2)-ta</count> 
+<com dist="1">ku3-bi</com> <count><interpretation modern_unit="" modern_value="0.027407407407407408" system="cardinal" unit="" value="0.027407407407407408"/>1/3(disz){sza} 1(disz) 1/3(disz) gin2 la2 4(disz) sze</count> 
+<count><interpretation modern_unit="l" modern_value="60" system="dry capacity" unit="sila3" value="60"/>1(barig)</count> <com dist="1">za-ha-din</com> <count><interpretation modern_unit="l" modern_value="15" system="dry capacity" unit="sila3" value="15"/>1(ban2) 5(disz)</count> sila3-ta 
+<com dist="1">ku3-bi</com> <count><interpretation modern_unit="" modern_value="0.06666666666666667" system="cardinal" unit="" value="0.06666666666666667"/>4(disz) gin2</count> 
+<count><interpretation modern_unit="l" modern_value="150" system="dry capacity" unit="sila3" value="150"/>2(barig) 3(ban2)</count> <com dist="1">szum2-sikil</com> <count><interpretation modern_unit="l" modern_value="100" system="dry capacity" unit="sila3" value="100"/>1(barig) 4(ban2)-ta</count> 
+ku3-bi <count><interpretation modern_unit="" modern_value="0.025" system="cardinal" unit="" value="0.025"/>1(disz) 1/2(disz) gin2</count> 
+<count><interpretation modern_unit="l" modern_value="224" system="dry capacity" unit="sila3" value="224"/>3(barig) 4(ban2) 4(disz) sila3</count> <com dist="1">szum2</com> gaz <count><interpretation modern_unit="l" modern_value="100" system="dry capacity" unit="sila3" value="100"/>1(barig) 4(ban2)-ta</count> 
+<com dist="1">ku3-bi</com> <count><interpretation modern_unit="" modern_value="0.28314814814814815" system="cardinal" unit="" value="0.28314814814814815"/>2(disz) gin2 igi-4(disz)-gal2 la2 2(disz) sze</count> 
+<count><interpretation modern_unit="l" modern_value="4272" system="dry capacity" unit="sila3" value="4272"/>1(u) 4(asz) 1(barig) 1(ban2) 2(disz) sila3</count> <com dist="1">naga</com> gur <count><interpretation modern_unit="l" modern_value="510" system="dry capacity" unit="sila3" value="510"/>1(asz) 3(barig) 3(ban2)</count> gur-ta 
+<com dist="1">ku3-bi</com> <count><interpretation modern_unit="" modern_value="0.4668981481481481" system="cardinal" unit="" value="0.4668981481481481"/>8(disz) gin2 igi-3(disz)-gal2 2(disz) 1/2(disz) sze</count> 
+<count><interpretation modern_unit="l" modern_value="586" system="dry capacity" unit="sila3" value="586"/>1(asz) 4(barig) 4(ban2) 6(disz) sila3</count> mun gur <count><interpretation modern_unit="" modern_value="3" system="cardinal" unit="" value="3"/>3(asz)</count> gur-ta 
+<com dist="1">ku3-bi</com> <count>2/3(|ninda2x(sze.2(asz))|)</count> la2 <count><interpretation modern_unit="" modern_value="0.0002777777777777778" system="cardinal" unit="" value="0.0002777777777777778"/>3(disz) sze</count> 
+<count><interpretation modern_unit="" modern_value="20" system="cardinal" unit="" value="20"/>2(u)</count> <com dist="1">{gesz}u3-suh5</com> gesz e2-szum-ta 
+ku3-bi <count><interpretation modern_unit="" modern_value="0.3333333333333333" system="cardinal" unit="" value="0.3333333333333333"/>igi-3(disz)-gal2</count> 
+<count><interpretation modern_unit="l" modern_value="180" system="dry capacity" unit="sila3" value="180"/>3(barig)</count> <com dist="1">{gesz}pesz3</com> duru5 <count><interpretation modern_unit="l" modern_value="480" system="dry capacity" unit="sila3" value="480"/>1(asz) 3(barig)</count> gur-ta 
+<com dist="1">ku3-bi</com> <count><interpretation modern_unit="" modern_value="0.33402777777777776" system="cardinal" unit="" value="0.33402777777777776"/>igi-3(disz)-gal2 7(disz) 1/2(disz) sze</count> 
+<count><interpretation modern_unit="l" modern_value="27" system="dry capacity" unit="sila3" value="27"/>2(ban2) 7(disz) sila3</count> <com dist="1">zu2-lum</com> <count><interpretation modern_unit="" modern_value="1" system="cardinal" unit="" value="1"/>1(asz)</count> gur-ta 
+<com dist="1">ku3-bi</com> <count><interpretation modern_unit="" modern_value="0.0014814814814814814" system="cardinal" unit="" value="0.0014814814814814814"/>1(u) 6(disz) sze</count> ku3 
+<count><interpretation modern_unit="g" modern_value="52000.00000000001" system="weight" unit="gin2" value="6240"/>1(asz) gu2 4(u) 4(disz) ma-na</count> esir2 had2 <count><interpretation modern_unit="" modern_value="10" system="cardinal" unit="" value="10"/>1(u)</count> gu2-ta 
+<com dist="1">ku3-bi</com> <count><interpretation modern_unit="" modern_value="0.16666666666666666" system="cardinal" unit="" value="0.16666666666666666"/>igi-6(disz)-gal2</count> 
+szunigin <count><interpretation modern_unit="g" modern_value="325.925925925926" system="weight" unit="gin2" value="39.111111111111114"/>1/2(disz) ma-na 9(disz) gin2 2(u) sze</count> <com dist="1">ku3-babbar</com> 
+zi-ga 
+la2-ia3 <count><interpretation modern_unit="" modern_value="0.001574074074074074" system="cardinal" unit="" value="0.001574074074074074"/>1(u) 7(disz) sze</count> <com dist="1">ku3-babbar</com> 
+nig2-ka9-ak 
+ur-{d}szul-pa-e3 dam-gar3 
+sza3 uri5{ki}-ma 
+iti ezem-sze-il2-la iti GAN2-masz 
+iti <count><interpretation modern_unit="" modern_value="2" system="cardinal" unit="" value="2"/>2(disz)-kam</count> 
+bala-bi <count><interpretation modern_unit="" modern_value="1" system="cardinal" unit="" value="1"/>1(disz)-am3</count> 
+ur-{d}lamma ensi2 
+mu si-mu-ru-um{ki} lu-lu-bu-um{ki} a-ra2 <count><interpretation modern_unit="" modern_value="9" system="cardinal" unit="" value="9"/>9(disz)-kam-asz</count> ba-hul 
+</commodities>

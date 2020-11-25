@@ -1,0 +1,82 @@
+<commodities>
+#P404813 = CDLJ 2015/002 §2.34
+#atf: lang sux
+#tr.en: 2 ban2 eša-flour
+#tr.en: (and) 2 ban2 dubdub flour,
+#tr.en: (for) Šara of Umma and Apisal;
+#tr.en: 5 sila3 eša-flour
+#tr.en: (and) 5 sila3 dubdub flour,
+#tr.en: (for) Ninura;
+#tr.en: 5 sila3 eša-flour
+#tr.en: (and) 5 sila3 dubdub flour,
+#tr.en: (for) Šara-KI.AN,
+#tr.en: 9 sila3 eša-flour
+#tr.en: (and) 9 sila3 dubdub flour, for the house Ebgal,
+#tr.en: 4 sila3 fine flour,
+#tr.en: 2 sila3 dates,
+#tr.en: 6 sila3 eša-flour
+#tr.en: (and) 1 ban2 6 sila3 barley flour
+#tr.en: (for) the reservoir (at) the outlet of the canal,
+#tr.en: 4 sila3 fine flour,
+#tr.en: 1 sila3 dates,
+#tr.en: 4 sila3 eša-flour
+#tr.en: (and) 9 sila3 dubdub flour,
+#tr.en: (for) Ninḫursag-Kamari
+#tr.en: (and) 1 ban2 6 sila3 eša-flour,
+#tr.en: 1 ban2 6 sila3 dubdub flour,
+#tr.en: 1 ban2 of fine flour,
+#tr.en: 5 sila3 dates,
+#tr.en: 1 ban2 5 sila3 bran flour
+#tr.en: (for) Nin-Zabala,
+#tr.en: from Lu-balasaga,
+#tr.en: under seal of the governor;
+#tr.en: month “Harvest,”
+#tr.en: year after: “Šū-Suen, the king, the wall of Martu erected,” the year after.
+#tr.en: Šū-Suen,
+#tr.en: strong king,
+#tr.en: king of Ur
+#tr.en: the king of the four regions,
+#tr.en: Ayakalla,
+#tr.en: governor
+#tr.en: of Umma,
+#tr.en: (is) your servant.
+<count><interpretation modern_unit="l" modern_value="20" system="dry capacity" unit="sila3" value="20"/>2(ban2)</count> <com dist="1">esza</com> 
+<count><interpretation modern_unit="l" modern_value="20" system="dry capacity" unit="sila3" value="20"/>2(ban2)</count> zi3 dub-dub 
+{d}szara2 umma{ki} a-pi4-sal4{ki} 
+<count><interpretation modern_unit="l" modern_value="5" system="liquid capacity" unit="sila3" value="5"/><interpretation modern_unit="l" modern_value="5" system="dry capacity" unit="sila3" value="5"/>5(disz) sila3</count> <com dist="1">esza</com> 
+<count><interpretation modern_unit="l" modern_value="5" system="liquid capacity" unit="sila3" value="5"/><interpretation modern_unit="l" modern_value="5" system="dry capacity" unit="sila3" value="5"/>5(disz) sila3</count> zi3-dub-dub 
+{d}nin-ur4-ra 
+<count><interpretation modern_unit="l" modern_value="5" system="liquid capacity" unit="sila3" value="5"/><interpretation modern_unit="l" modern_value="5" system="dry capacity" unit="sila3" value="5"/>5(disz) sila3</count> <com dist="1">esza</com> 
+<count><interpretation modern_unit="l" modern_value="5" system="liquid capacity" unit="sila3" value="5"/><interpretation modern_unit="l" modern_value="5" system="dry capacity" unit="sila3" value="5"/>5(disz) sila3</count> zi3-dub-dub 
+{d}szara2-|KI.AN|{ki} 
+<count><interpretation modern_unit="l" modern_value="9" system="liquid capacity" unit="sila3" value="9"/><interpretation modern_unit="l" modern_value="9" system="dry capacity" unit="sila3" value="9"/>9(disz) sila3</count> <com dist="1">esza</com> 
+<count><interpretation modern_unit="l" modern_value="9" system="liquid capacity" unit="sila3" value="9"/><interpretation modern_unit="l" modern_value="9" system="dry capacity" unit="sila3" value="9"/>9(disz) sila3</count> zi3-dub-dub e2 eb-gal 
+<count><interpretation modern_unit="l" modern_value="4" system="liquid capacity" unit="sila3" value="4"/><interpretation modern_unit="l" modern_value="4" system="dry capacity" unit="sila3" value="4"/>4(disz) sila3</count> <com dist="1">zi3-sig15</com> 
+<count><interpretation modern_unit="l" modern_value="2" system="liquid capacity" unit="sila3" value="2"/><interpretation modern_unit="l" modern_value="2" system="dry capacity" unit="sila3" value="2"/>2(disz) sila3</count> zu2-lum 
+<count><interpretation modern_unit="l" modern_value="6" system="liquid capacity" unit="sila3" value="6"/><interpretation modern_unit="l" modern_value="6" system="dry capacity" unit="sila3" value="6"/>6(disz) sila3</count> esza 
+<count><interpretation modern_unit="l" modern_value="16" system="dry capacity" unit="sila3" value="16"/>1(ban2) 6(disz) sila3</count> dabin 
+kab2-ku5 kun i7-da 
+<count><interpretation modern_unit="l" modern_value="4" system="liquid capacity" unit="sila3" value="4"/><interpretation modern_unit="l" modern_value="4" system="dry capacity" unit="sila3" value="4"/>4(disz) sila3</count> <com dist="1">zi3-sig15</com> 
+<count><interpretation modern_unit="l" modern_value="1" system="liquid capacity" unit="sila3" value="1"/><interpretation modern_unit="l" modern_value="1" system="dry capacity" unit="sila3" value="1"/>1(disz) sila3</count> zu2-lum 
+<count><interpretation modern_unit="l" modern_value="4" system="liquid capacity" unit="sila3" value="4"/><interpretation modern_unit="l" modern_value="4" system="dry capacity" unit="sila3" value="4"/>4(disz) sila3</count> esza 
+<count><interpretation modern_unit="l" modern_value="9" system="liquid capacity" unit="sila3" value="9"/><interpretation modern_unit="l" modern_value="9" system="dry capacity" unit="sila3" value="9"/>9(disz) sila3</count> zi3-dub-dub 
+{d}nin-hur-sag-ka-ma-ri2{ki} 
+<count><interpretation modern_unit="l" modern_value="16" system="dry capacity" unit="sila3" value="16"/>1(ban2) 6(disz) sila3</count> <com dist="1">esza</com> 
+<count><interpretation modern_unit="l" modern_value="16" system="dry capacity" unit="sila3" value="16"/>1(ban2) 6(disz) sila3</count> zi3-dub-dub 
+<count><interpretation modern_unit="l" modern_value="10" system="dry capacity" unit="sila3" value="10"/>1(ban2)</count> <com dist="1">zi3-sig15</com> 
+<count><interpretation modern_unit="l" modern_value="5" system="liquid capacity" unit="sila3" value="5"/><interpretation modern_unit="l" modern_value="5" system="dry capacity" unit="sila3" value="5"/>5(disz) sila3</count> zu2-lum 
+<count><interpretation modern_unit="l" modern_value="15" system="dry capacity" unit="sila3" value="15"/>1(ban2) 5(disz) sila3</count> zi3 duh 
+{d}nin-zabala3{ki} 
+<com dist="1">ki</com> lu2-bala-saga-ta 
+kiszib3 ensi2 
+iti sze-sag11-ku5 
+mu us2-sa {d}szu-{d}suen lugal-e bad3 mar-tu mu-du3 mu us2-sa-bi 
+{d}szu-{d}suen 
+lugal kal-ga 
+lugal uri5{ki}-ma 
+lugal an ub-da limmu2-ba 
+a-a-kal-la 
+ensi2 
+umma{ki} 
+ARAD2-zu 
+</commodities>

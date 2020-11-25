@@ -1,0 +1,9 @@
+<commodities>
+#P101259 = AnOr 01, 268
+#atf: lang sux
+<count><interpretation modern_unit="l" modern_value="1" system="liquid capacity" unit="sila3" value="1"/><interpretation modern_unit="l" modern_value="1" system="dry capacity" unit="sila3" value="1"/>1(disz) sila3</count> lu2-dingir-ra 
+<count><interpretation modern_unit="l" modern_value="1" system="liquid capacity" unit="sila3" value="1"/><interpretation modern_unit="l" modern_value="1" system="dry capacity" unit="sila3" value="1"/>1(disz) sila3</count> inim-{d}szara2 
+<count><interpretation modern_unit="l" modern_value="17" system="dry capacity" unit="sila3" value="17"/>1(ban2) 7(disz) sila3</count> sa2-du11 
+<count><interpretation modern_unit="l" modern_value="2" system="dry capacity" unit="sila3" value="2"/>2(disz) sila3 sze</count> <com dist="1">tu7</com> 
+u4 <count><interpretation modern_unit="" modern_value="10" system="cardinal" unit="" value="10"/>1(u)</count> <count><interpretation modern_unit="" modern_value="6" system="cardinal" unit="" value="6"/>6(disz)-kam</count> 
+</commodities>

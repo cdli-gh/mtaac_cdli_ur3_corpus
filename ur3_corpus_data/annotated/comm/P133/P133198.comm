@@ -1,0 +1,16 @@
+<commodities>
+#P133198 = TCTI 2, 04007
+#atf: lang sux
+<count><interpretation modern_unit="l" modern_value="10" system="dry capacity" unit="sila3" value="10"/>1(ban2)</count> <com dist="1">kasz</com> lugal 
+<count><interpretation modern_unit="l" modern_value="5" system="liquid capacity" unit="sila3" value="5"/><interpretation modern_unit="l" modern_value="5" system="dry capacity" unit="sila3" value="5"/>5(disz) sila3</count> <com dist="1">ninda</com> 
+u4 <count><interpretation modern_unit="" modern_value="5" system="cardinal" unit="" value="5"/>5(disz)-sze3</count> 
+<count><interpretation modern_unit="l" modern_value="5" system="liquid capacity" unit="sila3" value="5"/><interpretation modern_unit="l" modern_value="5" system="dry capacity" unit="sila3" value="5"/>5(disz) sila3</count> <com dist="1">kasz</com> 
+<count><interpretation modern_unit="" modern_value="0.16666666666666666" system="cardinal" unit="" value="0.16666666666666666"/>1(u) gin2</count> i3 
+szunigin <count><interpretation modern_unit="l" modern_value="55" system="dry capacity" unit="sila3" value="55"/>5(ban2) 5(disz) sila3</count> <com dist="1">kasz</com> 
+szunigin <count><interpretation modern_unit="l" modern_value="25" system="dry capacity" unit="sila3" value="25"/>2(ban2) 5(disz) sila3</count> <com dist="1">ninda</com> 
+szunigin <count><interpretation modern_unit="" modern_value="0.16666666666666666" system="cardinal" unit="" value="0.16666666666666666"/>1(u) gin2</count> <com dist="1">i3-gesz</com> 
+puzur4-esz-dar 
+lu2 {gesz}tukul zu 
+iti amar-a-a-si 
+mu {d}szu-{d}suen lugal 
+</commodities>

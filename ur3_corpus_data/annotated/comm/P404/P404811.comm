@@ -1,0 +1,31 @@
+<commodities>
+#P404811 = CDLJ 2015/002 §2.32
+#atf: lang sux
+#tr.en: 6 wooden yokes covered (with) leather;
+#tr.en: 6 bridles covered (with) leather,
+#tr.en: its weight: 3 mana;
+#tr.en: 2 whips (with thongs ?) on their necks (?);
+#tr.en: 1 rein (?);
+#tr.en: (and) 1 drinking (bag);
+#tr.en: extra oxen, implements,
+#tr.en: from Akalla, the leather worker,
+#tr.en: under seal of Da’agi;
+#tr.en: month “Sowing,”
+# some text moved to next line
+#tr.en: year “Šu-Suen is king.”
+#tr.en: Da’agi,
+#tr.en: the scribe.
+<count><interpretation modern_unit="" modern_value="6" system="cardinal" unit="" value="6"/>6(disz)</count> <com dist="1">{gesz}{szu}szudulx(|URxMIN|)</com> kusz si-ga 
+<count><interpretation modern_unit="" modern_value="6" system="cardinal" unit="" value="6"/>6(disz)</count> ad-tab kusz si-ga 
+ki-la2-bi <count><interpretation modern_unit="g" modern_value="1500.0" system="weight" unit="gin2" value="180"/>3(disz) ma-na</count> 
+<count><interpretation modern_unit="" modern_value="2" system="cardinal" unit="" value="2"/>2(disz)</count> <com dist="1">{kusz}usan3</com> gu2-ba 
+<count><interpretation modern_unit="" modern_value="1" system="cardinal" unit="" value="1"/>1(disz)</count> {kusz}sag-kesz2 
+<count><interpretation modern_unit="" modern_value="1" system="cardinal" unit="" value="1"/>1(disz)</count> {kusz}nag 
+gu4 diri szu-du7-a 
+<com dist="1">ki</com> a-kal-la aszgab-ta 
+kiszib3 da-a-gi4 
+iti szu-numun 
+mu {d}szu-{d}suen lugal 
+da-a-gi4 
+dub-sar 
+</commodities>

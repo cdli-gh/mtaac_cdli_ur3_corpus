@@ -1,0 +1,38 @@
+<commodities>
+#P292428 = BPOA 6, 1229
+#atf: lang sux
+#tr.en: 11 male laborers,
+#tr.en: 1 male laborer, 1/2,
+#tr.en: 2 male laborers, 2/3,
+#tr.en: for 13 months,
+#tr.en: the labor: 5005 workdays;
+# calculation: (11 + 1/2 + 4/3) × (13 × 30) = 5005
+#tr.en: 1: Mumu, the potter,
+#tr.en: for 4 months,
+#tr.en: the labor: 120 days;
+# calculation: 1 × (4 × 30) = 120
+#tr.en: 2/3 mana silver,
+#tr.en: the labor: 2400 workdays;
+# calculation: 40 × 60days/shekel = 2400
+#tr.en: 30 gur barley,
+#tr.en: the labor: 900 workdays;
+# calculation: 9000sila3 ÷ 10sila3/workday = 900
+#tr.en: account of Lugal-ezem,
+#tr.en: from Ur-Šara;
+#tr.en: year: “Nanna of Karzida.”
+<count><interpretation modern_unit="" modern_value="11" system="cardinal" unit="" value="11"/>1(u) 1(disz)</count> <com dist="1">gurusz</com> 
+<count><interpretation modern_unit="" modern_value="1" system="cardinal" unit="" value="1"/>1(disz)</count> gurusz a2 <count><interpretation modern_unit="" modern_value="0.5" system="cardinal" unit="" value="0.5"/>1/2(disz)</count> 
+<count><interpretation modern_unit="" modern_value="2" system="cardinal" unit="" value="2"/>2(disz)</count> <com dist="1">gurusz</com> a2 <count><interpretation modern_unit="" modern_value="0.6666666666666666" system="cardinal" unit="" value="0.6666666666666666"/>2/3(disz)</count> 
+iti <count><interpretation modern_unit="" modern_value="13" system="cardinal" unit="" value="13"/>1(u) 3(disz)-sze3</count> 
+<com dist="1">a2-bi</com> <count><interpretation modern_unit="" modern_value="5005" system="cardinal" unit="" value="5005"/>1(szar2) 2(geszu) 3(gesz2) 2(u) 5(disz)</count> u4 <count><interpretation modern_unit="" modern_value="1" system="cardinal" unit="" value="1"/>1(disz)-sze3</count> 
+<count><interpretation modern_unit="" modern_value="1" system="cardinal" unit="" value="1"/>1(disz)</count> mu-mu bahar3 
+iti <count><interpretation modern_unit="" modern_value="4" system="cardinal" unit="" value="4"/>4(disz)-sze3</count> 
+<com dist="1">a2-bi</com> u4 <count><interpretation modern_unit="" modern_value="120" system="cardinal" unit="" value="120"/>2(gesz2)</count> 
+<count><interpretation modern_unit="g" modern_value="333.33333333333337" system="weight" unit="gin2" value="40.0"/>2/3(disz) ma-na</count> <com dist="1">ku3-babbar</com> 
+a2-bi <count><interpretation modern_unit="" modern_value="2400" system="cardinal" unit="" value="2400"/>4(geszu)</count> u4 <count><interpretation modern_unit="" modern_value="1" system="cardinal" unit="" value="1"/>1(disz)-sze3</count> 
+<count><interpretation modern_unit="l" modern_value="0.0027777777777777775" system="dry capacity" unit="sila3" value="0.0027777777777777775"/>3(u) sze gur</count> 
+<com dist="1">a2-bi</com> <count><interpretation modern_unit="" modern_value="900" system="cardinal" unit="" value="900"/>1(geszu) 5(gesz2)</count> u4 <count><interpretation modern_unit="" modern_value="1" system="cardinal" unit="" value="1"/>1(disz)-sze3</count> 
+nig2-ka9-ak lugal-ezem 
+ki ur-{d}szara2-ta 
+mu {d}nanna kar-zi-da 
+</commodities>

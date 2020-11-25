@@ -1,0 +1,28 @@
+<commodities>
+#P142357 = YOS 04, 293
+#atf: lang sux
+# calculation: 14,54 + 29,56,50 + 17,43,40 + 30,53,20 = 90,206,110 = 93,27,50 = 93g 82.5/180
+# calculation: 93 83/180 + 439 = 532 83/180 = 8m 52g 83/180
+# some text moved to next line
+<count><interpretation modern_unit="" modern_value="68" system="cardinal" unit="" value="68"/>1(u) 4(disz) 5(u) 4(disz)</count> 
+<count><interpretation modern_unit="" modern_value="135" system="cardinal" unit="" value="135"/>2(u) 9(disz) 5(u) 6(disz) 5(u)</count> 
+<count><interpretation modern_unit="" modern_value="100" system="cardinal" unit="" value="100"/>1(u) 7(disz) 4(u) 3(disz) 4(u)</count> 
+<count><interpretation modern_unit="" modern_value="103" system="cardinal" unit="" value="103"/>3(u) 5(u) 3(disz) 2(u)</count> 
+szunigin <count><interpretation modern_unit="g" modern_value="778.8425925925926" system="weight" unit="gin2" value="93.46111111111111"/>1(disz) 1/2(disz) ma-na 3(disz) 1/2(disz) gin2 la2 7(disz) sze</count> <com dist="1">ku3-a</com> 
+mu-kux(DU) didli 
+<count><interpretation modern_unit="" modern_value="7" system="cardinal" unit="" value="7"/>7(disz)</count> ma <count><interpretation modern_unit="" modern_value="0.31666666666666665" system="cardinal" unit="" value="0.31666666666666665"/>1(u) 9(disz) gin2</count> ku3-a mu-kux(DU) a-tu5-a lugal 
+szunigin2 <count><interpretation modern_unit="g" modern_value="4437.5" system="weight" unit="gin2" value="532.5"/>8(disz) 5/6(disz) ma-na 2(disz) 1/2(disz) gin2 la2</count> 
+<count><interpretation modern_unit="" modern_value="0.0006481481481481481" system="cardinal" unit="" value="0.0006481481481481481"/>7(disz) sze</count> <com dist="1">ku3-a</com> 
+sza3 im-babbar 
+mu-kux(DU) 
+iti ezem-mah 
+mu en {d}inanna 
+<count><interpretation modern_unit="g" modern_value="4437.175925925926" system="weight" unit="gin2" value="532.4611111111111"/>8(disz) 5/6(disz) ma-na 2(disz) 1/2(disz) gin2 la2 7(disz) sze</count> 
+sza3 x-a 
+a. ($ blank space $) <count><interpretation modern_unit="" modern_value="56" system="cardinal" unit="" value="56"/>2(disz) 5(u) 4(disz)</count> 
+b. ($ blank space $) <count><interpretation modern_unit="" modern_value="45" system="cardinal" unit="" value="45"/>4(u) 5(disz)</count> 
+c. ($ blank space $) <count><interpretation modern_unit="" modern_value="28" system="cardinal" unit="" value="28"/>2(u) 8(disz)</count> 
+d. ($ blank space $) <count><interpretation modern_unit="" modern_value="17" system="cardinal" unit="" value="17"/>1(u) 7(disz)</count> 
+e. ($ blank space $) <count><interpretation modern_unit="" modern_value="30" system="cardinal" unit="" value="30"/>2(disz) 2(u) 8(disz)</count> 
+f. ($ blank space $) <count><interpretation modern_unit="" modern_value="27" system="cardinal" unit="" value="27"/>2(u) 7(disz)</count> 
+</commodities>

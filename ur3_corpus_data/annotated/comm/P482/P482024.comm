@@ -1,0 +1,22 @@
+<commodities>
+#P482024 = S 84
+#atf: lang sux
+#tr.en: 40 male laborers, 1/2 labor,
+# based on SANTAG 6, 019 = P212191
+#tr.en: for 6 years,
+#tr.en: they being fishermen;
+#tr.en: from year following: “For the 3rd time Simurrum was destroyed,”
+#tr.en: to the year following: “The wall was erected;”
+#tr.en: 4 mana silver,
+# calculation: 40 × (2 shekels/year × 1/2 labor output) × 6 years = 240 shekels silver
+#tr.en: silver of the fisheries-tithe;
+#tr.en: under seal of Umani.
+<count><interpretation modern_unit="" modern_value="40" system="cardinal" unit="" value="40"/>4(u)</count> <com dist="1">gurusz</com> a2 <count><interpretation modern_unit="" modern_value="0.5" system="cardinal" unit="" value="0.5"/>1/2(disz)</count> 
+mu <count><interpretation modern_unit="" modern_value="6" system="cardinal" unit="" value="6"/>6(disz)-sze3</count> 
+szu-ku6-me 
+mu us2-sa a-ra2 <count><interpretation modern_unit="" modern_value="3" system="cardinal" unit="" value="3"/>3(disz)-kam</count> si-mu-ru-um{ki} ba-hul-ta 
+mu us2-sa bad3 ba-du3-sze3 
+<count><interpretation modern_unit="g" modern_value="2000.0000000000002" system="weight" unit="gin2" value="240"/>4(disz) ma-na</count> <com dist="1">ku3-babbar</com> 
+ku3 nam-enku 
+kiszib3 u3-ma-ni 
+</commodities>

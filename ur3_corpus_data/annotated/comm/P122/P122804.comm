@@ -1,0 +1,25 @@
+<commodities>
+#P122804 = NYPL 266
+#atf: lang sux
+# some text moved to next line
+# seal impression
+<count>3(barig) 2(ban2) sze</count> 
+sig4-bi <count><interpretation modern_unit="bricks" modern_value="129600" system="bricks" unit="gin2" value="10800"/><interpretation modern_unit="m^2" modern_value="540.0" system="surface" unit="gin2" value="900"/><interpretation modern_unit="l" modern_value="270000" system="volume" unit="gin2" value="900"/>1(u) 5(disz) sar</count> 
+nig2-sig4 du2-de3 
+ki lugal-pa-e3 ad-kal-la 
+<com dist="1">u3</com> ur-{d}en-lil2 
+szu ba-ti 
+iti sze-sag11-ku5 
+mu sza-asz-ru ba-hul 
+<count>3(barig) 2(ban2) sze</count> 
+sig4-bi <count><interpretation modern_unit="bricks" modern_value="129604.0" system="bricks" unit="gin2" value="10800.333333333334"/><interpretation modern_unit="m^2" modern_value="540.1999999999999" system="surface" unit="gin2" value="900.3333333333333"/><interpretation modern_unit="l" modern_value="270100.0" system="volume" unit="gin2" value="900.3333333333333"/>1(u) 5(disz) sar igi-3(disz)-gal2</count> 
+nig2-sig4 du2-de3 
+ki lugal-pa-e3 
+ad-kal-la 
+<com dist="1">u3</com> ur-{d}en-lil2 
+szu ba-ti 
+iti sze-sag11-ku5 
+mu sza-asz-ru{ki} ba-hul 
+ur-{d}en-lil2 
+dumu szu-{d}x 
+</commodities>

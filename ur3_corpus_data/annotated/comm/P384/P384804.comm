@@ -1,0 +1,56 @@
+<commodities>
+#P384804 = CDLJ 2009/2, §4.4
+#atf: lang sux
+#tr.en: 5 sheep for An,
+#tr.en: 5 sheep for Iškur,
+#tr.en: 2 billy goats for Enki,
+#tr.en: 3 sheep for Enlil,
+#tr.en: n sheep for the goddess Ninlil,
+#tr.en: n sheep for Ninḫursag:
+#tr.en: offerings at the place of Iškur;
+#tr.en: 2 lambs for Allatum,
+#tr.en: for the 2nd time,
+#tr.en: En-Nanše-kiag, the cup-bearer, responsible official,
+#tr.en: from in the temple of Puzriš-Dagan;
+#tr.en: 1 lamb for Enlil,
+#tr.en: 1 lamb for Ḫursag-galama (?),
+#tr.en: 1 lamb for Throne of Enlil,
+#tr.en: 1 lamb for ...,
+#tr.en: ...
+#tr.en: A-..., responsible official,
+#tr.en: ...;
+#tr.en: 10nth (?) day;
+#tr.en: total: 21 sheep, 2 goats,
+#tr.en: ...,
+#tr.en: via ...,
+#tr.en: from (the account of) Intaea
+#tr.en: booked out;
+#tr.en: year: “The big throne of Enlil was fashioned;”
+#tr.en: (total:) 23(?).
+<count><interpretation modern_unit="" modern_value="5" system="cardinal" unit="" value="5"/>5(disz)</count> <com dist="1">udu</com> an 
+<count><interpretation modern_unit="" modern_value="5" system="cardinal" unit="" value="5"/>5(disz)</count> udu {d}iszkur 
+<count><interpretation modern_unit="" modern_value="2" system="cardinal" unit="" value="2"/>2(disz)</count> <com dist="1">masz2</com> {d}en-ki 
+<count><interpretation modern_unit="" modern_value="3" system="cardinal" unit="" value="3"/>3(disz)</count> <com dist="1">udu</com> {d}en-lil2 
+<count><interpretation modern_unit="" modern_value="1" system="cardinal" unit="" value="1"/>1(disz)</count> <com dist="1">udu</com> {d}nin-lil2 
+<count><interpretation modern_unit="" modern_value="1" system="cardinal" unit="" value="1"/>1(disz)</count> <com dist="1">udu</com> {d}nin-hur-sag 
+siskur2 ki {d}iszkur 
+<count><interpretation modern_unit="" modern_value="2" system="cardinal" unit="" value="2"/>2(disz)</count> <com dist="1">sila4</com> {d}al-la-tum 
+a-ra2 <count><interpretation modern_unit="" modern_value="2" system="cardinal" unit="" value="2"/>2(disz)-kam</count> 
+en-{d}nansze-ki-ag2 sagi maszkim 
+sza3 e2 puzur4-isz-{d}da-gan 
+<count><interpretation modern_unit="" modern_value="1" system="cardinal" unit="" value="1"/>1(disz)</count> <com dist="1">sila4</com> {d}en-lil2 
+<count><interpretation modern_unit="" modern_value="1" system="cardinal" unit="" value="1"/>1(disz)</count> <com dist="1">sila4</com> hur-sag-ga-lam-ma 
+<count><interpretation modern_unit="" modern_value="1" system="cardinal" unit="" value="1"/>1(disz)</count> <com dist="1">sila4</com> {d}gu-za {d}en-lil2-la2 
+<count><interpretation modern_unit="" modern_value="1" system="cardinal" unit="" value="1"/>1(disz)</count> <com dist="1">sila4</com> {d}...-lil2 
+x ... x x 
+a-... maszkim 
+x ... x 
+u4 <count><interpretation modern_unit="" modern_value="10" system="cardinal" unit="" value="10"/>1(u)</count> ...-kam 
+szunigin <count><interpretation modern_unit="" modern_value="21" system="cardinal" unit="" value="21"/>2(u) 1(disz)</count> <com dist="1">udu</com> <count><interpretation modern_unit="" modern_value="2" system="cardinal" unit="" value="2"/>2(disz)</count> masz2 
+x PA x ... x x 
+giri3 x-...-a x x 
+ki in-ta-e3-a-ta 
+ba-zi 
+mu {d}gu-za-mah {d}en-lil2-la2 ba-dim2 
+<count><interpretation modern_unit="" modern_value="23" system="cardinal" unit="" value="23"/>2(u) 3(disz)</count> 
+</commodities>

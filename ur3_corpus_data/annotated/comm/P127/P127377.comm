@@ -1,0 +1,24 @@
+<commodities>
+#P127377 = RA 009, 046 AM 04
+#atf: lang sux
+#tr.en: 1 fat-tailed ewe,
+#tr.en: 3 male suckling lambs,
+#tr.en: 2 suckling ewe lambs,
+#tr.en: slaughtered, 3rd day;
+#tr.en: from Lu-dingira
+#tr.en: Ur-nigar
+#tr.en: received;
+#tr.en: month: “Festival of An,”
+#tr.en: year: “Amar-Suen (is) king;”
+#tr.en: (total:) 6.
+<count><interpretation modern_unit="" modern_value="1" system="cardinal" unit="" value="1"/>1(disz)</count> <com dist="1">|U8+HUL2|</com> 
+<count><interpretation modern_unit="" modern_value="3" system="cardinal" unit="" value="3"/>3(disz)</count> sila4 ga 
+<count><interpretation modern_unit="" modern_value="2" system="cardinal" unit="" value="2"/>2(disz)</count> kir11 ga 
+ba-usz2 u4 <count><interpretation modern_unit="" modern_value="3" system="cardinal" unit="" value="3"/>3(disz)-kam</count> 
+ki lu2-dingir-ra-ta 
+ur-nigar{gar} 
+<com dist="1">szu</com> ba-ti 
+iti ezem-an-na 
+mu {d}amar-{d}suen lugal 
+<count><interpretation modern_unit="" modern_value="6" system="cardinal" unit="" value="6"/>6(disz)</count> 
+</commodities>

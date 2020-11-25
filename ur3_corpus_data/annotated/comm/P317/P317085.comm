@@ -1,0 +1,22 @@
+<commodities>
+#P317085 = PPAC 5, 0272 
+#atf: lang sux 
+# calculation: 10 11/18 x 30 (sila3 per furrow) = 10 183.3/300 gur? 
+# calculation: 9/18 x 30 (sila3 per furrow) = 150/300 gur? 
+# calculation: 14/18 x 30 (sila3 per furrow) = 233.3/300 gur? 
+# calculation: 3/18 x 30 (sila3 per furrow) = 50/300 gur? 
+<count><interpretation modern_unit="m^2" modern_value="687600.0" system="surface" unit="gin2" value="1146000"/>1(bur'u) 1(esze3) 5(iku) gan2</count> <com dist="1">sze</com> 
+ab-sin2-bi <count><interpretation modern_unit="m" modern_value="36" system="length" unit="gi" value="12"/>1(disz) ninda 1(u)-ta</count> 
+<com dist="1">sze-bi</com> <count><interpretation modern_unit="l" modern_value="486.5" system="dry capacity" unit="sila3" value="486.5"/>1(asz) 3(barig) 6(disz) 1/2(disz) sila3 gur</count> 
+<count><interpretation modern_unit="m^2" modern_value="32400.0" system="surface" unit="gin2" value="54000"/>1(esze3) 3(iku) gan2</count> <com dist="1">ziz2</com> ab-sin2-bi <count><interpretation modern_unit="" modern_value="10" system="cardinal" unit="" value="10"/>1(u)-ta</count> 
+<com dist="1">ziz2-bi</com> <count><interpretation modern_unit="l" modern_value="300" system="dry capacity" unit="sila3" value="300"/>1(asz) gur</count> 
+za-al-lum engar 
+<count><interpretation modern_unit="m^2" modern_value="50400.0" system="surface" unit="gin2" value="84000"/>2(esze3) 2(iku) gan2</count> <com dist="1">sze</com> ab-sin2-bi <count><interpretation modern_unit="m" modern_value="36" system="length" unit="gi" value="12"/>1(disz) ninda 1(u)-ta</count> 
+<com dist="1">sze-bi</com> <count><interpretation modern_unit="l" modern_value="240.66666666666666" system="dry capacity" unit="sila3" value="240.66666666666666"/>4(barig) 2/3(disz)-ta</count> 
+<count><interpretation modern_unit="m^2" modern_value="10800.0" system="surface" unit="gin2" value="18000"/>3(iku) gan2</count> <com dist="1">ziz2</com> 
+ab-sin2-bi <count><interpretation modern_unit="m" modern_value="36" system="length" unit="gi" value="12"/>1(disz) ninda 1(u)-ta</count> 
+<com dist="1">ziz2-bi</com> ... <count><interpretation modern_unit="l" modern_value="120" system="dry capacity" unit="sila3" value="120"/>2(barig)</count> 
+ARAD2 engar 
+a-sza3 du6-gala 
+mu si-ma-num2{ki} ba-hul 
+</commodities>

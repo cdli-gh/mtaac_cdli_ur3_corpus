@@ -1,0 +1,34 @@
+<commodities>
+#P121320 = NATN 622
+#atf: lang sux
+#tr.en: 1 shekel silver,
+#tr.de: 1 Sekel Silber,
+#tr.en: labor of the wintertime, over two months,
+#tr.de: Arbeitsleistung der Winterzeit, über zwei Monate,
+#tr.en: from Ur-Damu
+#tr.de: von Ur-Damu
+#tr.en: did 1 Ur-gagia,
+#tr.de: haben ein Ur-gagia,
+#tr.en: one Lugal-ḫegal
+#tr.de: ein Lugal-ḫegal
+#tr.en: and 1 Ur-Sulpa’e
+#tr.de: und ein Ur-Šulpa’e
+#tr.en: receive;
+#tr.de: bekommen;
+#tr.en: month: “bara-zagar”
+#tr.de: Monat: „bara-zagar“
+#tr.en: the 3rd day completed,
+#tr.de: am Ende des 3. Tags,
+#tr.en: year: “Lullubum was destroyed.”
+#tr.de: Jahr: „Lullubum wurde zerstört.“
+<count><interpretation modern_unit="" modern_value="0.016666666666666666" system="cardinal" unit="" value="0.016666666666666666"/>1(disz) gin2</count> <com dist="1">ku3-babbar</com> 
+a2 en-te iti min-na-sze3 
+ki ur-{d}da-mu-ta 
+<count><interpretation modern_unit="" modern_value="1" system="cardinal" unit="" value="1"/>1(disz)</count> ur-ga2-gi4-a 
+<count><interpretation modern_unit="" modern_value="1" system="cardinal" unit="" value="1"/>1(disz)</count> lugal-he2-gal2 
+<count><interpretation modern_unit="" modern_value="1" system="cardinal" unit="" value="1"/>1(disz)</count> ur-{d}szul-pa-e3 
+<com dist="1">szu</com> ba-ti-esz2 
+iti bara2-za3-gar 
+u4 <count><interpretation modern_unit="" modern_value="3" system="cardinal" unit="" value="3"/>3(disz)</count> zal-la 
+mu lu-lu-bu-um{ki} ba-hul 
+</commodities>

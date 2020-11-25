@@ -1,0 +1,23 @@
+<commodities>
+#P141564 = UTI 6, 3549+3577
+#atf: lang sux
+... {uruda}ha-bu3-da 
+... <count><interpretation modern_unit="" modern_value="1.3333333333333333" system="cardinal" unit="" value="1.3333333333333333"/>1(disz) 1/3(disz)</count> ma-na-ta 
+ki-la2-bi <count><interpretation modern_unit="g" modern_value="833.3333333333334" system="weight" unit="gin2" value="100.0"/>1(disz) 2/3(disz) ma-na</count> 
+... <com dist="1">{uruda}ha-bu3-da</com> ... ma-na-ta 
+ki-la2-bi <count><interpretation modern_unit="g" modern_value="500.00000000000006" system="weight" unit="gin2" value="60"/>1(disz) ma-na</count> 
+... <com dist="1">{uruda}ha-bu3-da</com> 
+... <count><interpretation modern_unit="" modern_value="0.5" system="cardinal" unit="" value="0.5"/>1/2(disz)</count> ma-na-ta 
+ki-la2-bi <count><interpretation modern_unit="g" modern_value="8450.0" system="weight" unit="gin2" value="1014.0"/>1(u) 6(disz) 5/6(disz) ma-na 4(disz) gin2</count> 
+... <com dist="1">{uruda}gurx(|SZE.KIN|)</com> <count><interpretation modern_unit="" modern_value="12" system="cardinal" unit="" value="12"/>1(u) 2(disz)</count> gin2-ta 
+ki-la2-bi <count><interpretation modern_unit="g" modern_value="5083.333333333334" system="weight" unit="gin2" value="610"/>1(u) ma-na 1(u) gin2</count> 
+... <count><interpretation modern_unit="" modern_value="30" system="cardinal" unit="" value="30"/>3(u)</count> <com dist="1">{uruda}gurx(|SZE.KIN|)</com> <count><interpretation modern_unit="" modern_value="10" system="cardinal" unit="" value="10"/>1(u)</count> gin2-ta 
+ki-la2-bi <count><interpretation modern_unit="g" modern_value="10500.0" system="weight" unit="gin2" value="1260.0"/>2(u) 5/6(disz) ma-na 1(u) gin2</count> 
+kin-x dub2-ba 
+ur-e11-e-ke4 i3-la2 
+lu2-{d}en-lil2-la2 <com dist="1">szu</com> ba-ti 
+mu {d}szu-{d}suen lugal uri5{ki}-ma-ke4 ma-da za-ab-sza-li{ki} mu-hul 
+lu2-{d}ha-ia3 
+dub-sar 
+dumu ur-e11-e szusz3 
+</commodities>

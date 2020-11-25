@@ -1,0 +1,22 @@
+<commodities>
+#P273523 = RA 101, 43 12
+#atf: lang sux
+#tr.en: A field of 24 iku; harrowed once; 4 1/2 iku each (day),
+#tr.en: its erin-work is 16 man-days.
+#tr.en: Field: Du-Gešika.
+#tr.en: Overseer: Lugal-Itida.
+#tr.en: Sealed document of Lu-Šara son of Ur-Gigir.
+#tr.en: Year: “after the martu-wall was erected”.
+#tr.en: Lu-Šara,
+#tr.en: the scribe,
+#tr.en: son of Ur-Gigir.
+<count><interpretation modern_unit="m^2" modern_value="86400.0" system="surface" unit="gin2" value="144000"/>1(bur3) 1(esze3) gan2</count> gesz-ur3-ra a-ra2 <count><interpretation modern_unit="m^2" modern_value="3.3" system="surface" unit="gin2" value="5.5"/>1(disz) 4(iku) 1/2(iku)</count> GAN2-ta 
+a2 erin2-na-bi u4 <count><interpretation modern_unit="" modern_value="16" system="cardinal" unit="" value="16"/>1(u) 6(disz)</count> 
+a-sza3 du6-gesz-i3-ka 
+ugula lugal-iti-da 
+kiszib3 lu2-{d}szara2 dumu <com dist="1">ur-{gesz}gigir</com> 
+mu us2-sa bad3 mar-tu ba-du3 
+lu2-{d}szara2 
+dub-sar 
+dumu ur-{gesz}gigir 
+</commodities>

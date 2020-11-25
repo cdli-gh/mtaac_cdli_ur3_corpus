@@ -1,0 +1,21 @@
+<commodities>
+#P211647 = Hermitage 3, 491
+#atf: lang sux
+#tr.en: Basket-of-tablets:
+#tr.en: sealed documents of daba,
+#tr.en: Ur-Nintu,
+#tr.en: (a period of) 2 years,
+#tr.en: year: “Amorite wall”
+#tr.en: and
+# some text moved to next line
+#tr.en: year following: “Amorite wall”
+#tr.en: are here.
+pisan-dub-ba 
+kiszib3 dab-ba 
+ur-{d}nin-tu 
+mu <count><interpretation modern_unit="" modern_value="2" system="cardinal" unit="" value="2"/>2(disz)-kam</count> 
+mu bad3 mar-tu 
+<com dist="1">u3</com> 
+mu us2-sa bad3 mar-tu 
+i3-gal2 
+</commodities>

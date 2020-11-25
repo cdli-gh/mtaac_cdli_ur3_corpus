@@ -1,0 +1,14 @@
+<commodities>
+#P127967 = RA 062, 13 19
+#atf: lang sux
+... 
+sze-bi <count><interpretation modern_unit="l" modern_value="1030" system="dry capacity" unit="sila3" value="1030"/>3(asz) 2(barig) 1(ban2) gur</count> 
+iti <count><interpretation modern_unit="" modern_value="1" system="cardinal" unit="" value="1"/>1(disz)-kam</count> iti <count><interpretation modern_unit="" modern_value="10" system="cardinal" unit="" value="10"/>1(u)-sze3</count> 
+<com dist="1">sze-bi</com> <count><interpretation modern_unit="l" modern_value="10300" system="dry capacity" unit="sila3" value="10300"/>3(u) 4(asz) 1(barig) 4(ban2) gur</count> 
+zi3-bi <count><interpretation modern_unit="g" modern_value="28000.000000000004" system="weight" unit="gin2" value="3360"/>5(u) 6(disz) ma-na</count> 
+tug2-bi <count><interpretation modern_unit="" modern_value="5" system="cardinal" unit="" value="5"/>5(disz)</count> 
+ku3-bi <count><interpretation modern_unit="g" modern_value="298.9814814814815" system="weight" unit="gin2" value="35.87777777777778"/>1/2(disz) ma-na 5(disz) 5/6(disz) gin2 8(disz) sze</count> 
+zi-ga 
+<count><interpretation modern_unit="g" modern_value="375.0" system="weight" unit="gin2" value="45.0"/>2/3(disz) ma-na 5(disz) gin2</count> <count>2/3(|ninda2x(sze.2(asz))|)</count> <count><interpretation modern_unit="" modern_value="0.002037037037037037" system="cardinal" unit="" value="0.002037037037037037"/>2(u) 2(disz) sze</count> 
+<com dist="1">ku3-bi</com> ... 
+</commodities>

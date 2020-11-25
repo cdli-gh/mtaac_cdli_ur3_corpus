@@ -1,0 +1,42 @@
+<commodities>
+#P110465 = Iraq 06, 185, BM 105346
+#atf: lang sux
+#tr.de: 4 Kor 1 barig 3 ban2 geräucherter Fisch,
+#tr.de: Fisch (des Feldes) Mušbiana,
+#tr.de: hat man Adaga gegeben;
+#tr.de: Katar, der Rinderverwalter,
+#tr.de: und Ur-Mami, der Fischer,
+#tr.de: haben es bestätigt;
+#tr.de: da er den betroffenen Fisch nicht zum Palast geliefert hat,
+#tr.de: 60 Kor geräuchertem Fisch
+#tr.de: den Adaga Ersatz zu leisten
+#tr.de: hat der ensi verpflichtet.
+#tr.de: MePIzu, der Sohn des Ur-Suen, des Rinderhirten,
+#tr.de: ist dem Langstock(-Dienst) entflohen;
+#tr.de: es sind 4 Jahre, daß er entflohen war;
+#tr.de: bei Adaga
+#tr.de: wurde er ergriffen;
+#tr.de: seine Arbeitsleistung: 2/3 mana Silber
+#tr.de: hat Adaga zu ersetzen;
+#tr.de: Monat “pa’u’e”,
+#tr.de: Jahr nach: “Šu-Suen, der König von Ur, hat die Amoriter-Mauer ‘muriq-tidnim’ errichtet”.
+<count><interpretation modern_unit="l" modern_value="1290" system="dry capacity" unit="sila3" value="1290"/>4(asz) 1(barig) 3(ban2)</count> ku6-sze6 gur 
+<com dist="1">ku6</com> musz-bi-an-na 
+a-da-ga ba-an-na-szum2 
+ka-tar nu-banda3-gu4 
+u3 ur-{d}ma-mi szu-ku6-e 
+ib2-gi-in 
+mu ku6-bi e2-gal-sze3 nu-mu-un-de6-a-sze3 
+<count><interpretation modern_unit="" modern_value="60" system="cardinal" unit="" value="60"/>1(gesz2)</count> ku6-sze6 gur 
+a-da-ga su-su-de3 
+ensi2-ke4 ba-an-szum2 
+me-PI-zu dumu ur-{d}suen unu3 
+gesz-gid2-da-ta ba-zah3 
+mu <count><interpretation modern_unit="" modern_value="4" system="cardinal" unit="" value="4"/>4(disz)-am3</count> i3-zah3-a 
+ki a-da-ga-ta 
+im-ma-dab5 
+<com dist="1">a2-ni</com> <count><interpretation modern_unit="g" modern_value="333.33333333333337" system="weight" unit="gin2" value="40.0"/>2/3(disz) ma-na</count> ku3-babbar 
+a-da-ga su-su-dam 
+iti pa4-u2-e 
+mu us2-sa {d}szu-{d}suen lugal uri5{ki}-ma-ke4 bad3 mar-tu mu-ri-iq-ti-id-ni-im <com dist="1">mu-du3</com> 
+</commodities>

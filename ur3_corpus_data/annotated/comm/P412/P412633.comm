@@ -1,0 +1,20 @@
+<commodities>
+#P412633 = SCU 17
+#atf: lang sux
+#tr.en: 1 sheep,
+#tr.en: slaughtered, 24th day,
+#tr.en: from Nur-Iškur,
+#tr.en: Šulgi-irimu
+#tr.en: received;
+#tr.en: month: “Gazelle eating,”
+#tr.en: year after: “Šu-Suen, the king of Ur, erected the Amorite wall ‘muriq-tidnim’.”
+#tr.en: 1 sheep.
+<count><interpretation modern_unit="" modern_value="1" system="cardinal" unit="" value="1"/>1(disz)</count> <com dist="1">udu</com> 
+ba-usz2 u4 <count><interpretation modern_unit="" modern_value="20" system="cardinal" unit="" value="20"/>2(u)</count> <count><interpretation modern_unit="" modern_value="4" system="cardinal" unit="" value="4"/>4(disz)-kam</count> 
+ki nu-ur2-{d}iszkur-ta 
+{d}szul-gi-iri-mu 
+<com dist="1">szu</com> ba-ti 
+iti masz-da3-gu7 
+mu us2-sa {d}szu-{d}suen lugal uri5{ki}-ma-ke4 bad3 mar-tu mu-ri-iq-ti-id-ni-im mu-du3 
+<count><interpretation modern_unit="" modern_value="1" system="cardinal" unit="" value="1"/>1(disz)</count> udu 
+</commodities>

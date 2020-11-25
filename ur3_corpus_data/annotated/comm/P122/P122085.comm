@@ -1,0 +1,21 @@
+<commodities>
+#P122085 = Nik 2, 402
+#atf: lang sux
+# calculation: 98 32/60 ÷ 17.5 (sila3 per shekel) = 5 113.486/180
+# calculation: 11 ÷ 1.5 (mana per shekel) = 7 1/3
+# place value notation 12.50 23.30 for total = rev. 1
+# calculation: 5 113.5/180 + 7 60/180 = 12 173.5/180
+# calculation: 13 60/180 - 12 173.5/180 = 66.5/180
+<count><interpretation modern_unit="" modern_value="0.2222222222222222" system="cardinal" unit="" value="0.2222222222222222"/>1(u) 3(disz) 1/3(disz) gin2</count> <com dist="1">ku3</com> 
+sza3-bi-ta 
+<count><interpretation modern_unit="l" modern_value="98.53333333333333" system="dry capacity" unit="sila3" value="98.53333333333333"/>1(barig) 3(ban2) 8(disz) 1/2(disz) sila3 2(disz) gin2</count> <com dist="1">i3-szah2</com> 
+ku3-bi <count><interpretation modern_unit="" modern_value="0.09384259259259259" system="cardinal" unit="" value="0.09384259259259259"/>5(disz) 1/2(disz) gin2 2(u) 3(disz) 1/2(disz) sze</count> 
+<count><interpretation modern_unit="g" modern_value="5500.0" system="weight" unit="gin2" value="660"/>1(u) 1(disz) ma-na</count> <com dist="1">uruda</com> 
+ku3-bi <count><interpretation modern_unit="" modern_value="0.12222222222222222" system="cardinal" unit="" value="0.12222222222222222"/>7(disz) 1/3(disz) gin2</count> 
+<count><interpretation modern_unit="" modern_value="62" system="cardinal" unit="" value="62"/>1(u) 2(disz) 5(u)</count> ($ blank space $) <count><interpretation modern_unit="" modern_value="53" system="cardinal" unit="" value="53"/>2(u) 3(disz) 3(u)</count> 
+szunigin <count><interpretation modern_unit="" modern_value="0.21606481481481482" system="cardinal" unit="" value="0.21606481481481482"/>1(u) 2(disz) 5/6(disz) gin2 2(u) 3(disz) 1/2(disz) sze</count> 
+zi-ga-am3 
+la2-ia3 <count><interpretation modern_unit="" modern_value="0.006157407407407407" system="cardinal" unit="" value="0.006157407407407407"/>1/3(disz) gin2 6(disz) 1/2(disz) sze</count> 
+nig2-ka9-ak lugal-he2-gal2 
+mu en-mah-gal-an-na en {d}nanna ba-hun 
+</commodities>

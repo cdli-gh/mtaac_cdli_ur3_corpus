@@ -1,0 +1,25 @@
+<commodities>
+#P459087 = Akkadica 134/1 §2.8
+#atf: lang sux
+#tr.en: n + 6 female laborers, 3 ban2,
+#tr.en: for one day, to gather and pile up the sheaves,
+#tr.en: on the field Willow,
+#tr.en: under charge of Dadaga,
+#tr.en: under seal of Lugal-emaḫe;
+#tr.en: month: “Barley-stored-in-the-harbor,”
+#tr.en: year: “The en-priestess of Nanna was chosen by means of the goat.”
+# seal impression
+#tr.en: Lugal-emaḫe,
+#tr.en: scribe,
+#tr.en: son of Lugal-kugani.
+n <count><interpretation modern_unit="" modern_value="6" system="cardinal" unit="" value="6"/>6(disz)</count> geme2 <count><interpretation modern_unit="l" modern_value="30" system="dry capacity" unit="sila3" value="30"/>3(ban2)</count> 
+u4 <count><interpretation modern_unit="" modern_value="1" system="cardinal" unit="" value="1"/>1(disz)-sze3</count> szu-ur3 <com dist="1">zar3</com> tab-ba 
+a-sza3 {gesz}ma-nu 
+ugula da-da-ga 
+kiszib3 lugal-e2-mah-e 
+iti sze-kar-ra-gal2{ga2}-la 
+mu en {d}nanna masz2-e i3-pa3 
+lugal-e2-mah-e 
+dub-sar 
+dumu lugal-ku3-ga-ni 
+</commodities>

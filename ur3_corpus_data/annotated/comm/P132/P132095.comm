@@ -1,0 +1,16 @@
+<commodities>
+#P132095 = Tavolette 311
+#atf: lang sux
+<count><interpretation modern_unit="l" modern_value="1.5" system="liquid capacity" unit="sila3" value="1.5"/><interpretation modern_unit="l" modern_value="1.5" system="dry capacity" unit="sila3" value="1.5"/>1(disz) 1/2(disz) sila3</count> gu2 
+<count><interpretation modern_unit="l" modern_value="3" system="liquid capacity" unit="sila3" value="3"/><interpretation modern_unit="l" modern_value="3" system="dry capacity" unit="sila3" value="3"/>3(disz) sila3</count> <com dist="1">i3-nun</com> 
+<count><interpretation modern_unit="l" modern_value="13" system="liquid capacity" unit="sila3" value="13"/><interpretation modern_unit="l" modern_value="13" system="dry capacity" unit="sila3" value="13"/>1(u) 3(disz) sila3</count> ga-ar3 
+<count><interpretation modern_unit="l" modern_value="3" system="liquid capacity" unit="sila3" value="3"/><interpretation modern_unit="l" modern_value="3" system="dry capacity" unit="sila3" value="3"/>3(disz) sila3</count> gu2-UD 
+<count><interpretation modern_unit="l" modern_value="5" system="liquid capacity" unit="sila3" value="5"/><interpretation modern_unit="l" modern_value="5" system="dry capacity" unit="sila3" value="5"/>5(disz) sila3</count> <com dist="1">{gesz}haszhur</com> had2 
+<count><interpretation modern_unit="" modern_value="4" system="cardinal" unit="" value="4"/>4(disz)</count> <com dist="1">{gesz}pesz3</com> sze-er-gu 
+<count><interpretation modern_unit="l" modern_value="15" system="liquid capacity" unit="sila3" value="15"/><interpretation modern_unit="l" modern_value="15" system="dry capacity" unit="sila3" value="15"/>1(u) 5(disz) sila3</count> zu2-lum 
+<count><interpretation modern_unit="l" modern_value="2" system="liquid capacity" unit="sila3" value="2"/><interpretation modern_unit="l" modern_value="2" system="dry capacity" unit="sila3" value="2"/>2(disz) sila3</count> SZIM hi-a 
+ki ku3-ga-ni-ta 
+kiszib3 u3-ma-ni 
+sza3 <com dist="1">bala</com> 
+mu en {d}nanna 
+</commodities>

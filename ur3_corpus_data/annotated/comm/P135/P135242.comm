@@ -1,0 +1,19 @@
+<commodities>
+#P135242 = TSU 092
+#atf: lang sux
+<count>1(asz) 1(barig) 3(ban2) sze gur</count> lugal 
+sa2-du11 {d}szara2 
+<count><interpretation modern_unit="l" modern_value="15" system="dry capacity" unit="sila3" value="15"/>1(ban2) 5(disz) sila3</count> <com dist="1">zi3-gu</com> 
+sze bala-bi <count><interpretation modern_unit="l" modern_value="1.5" system="liquid capacity" unit="sila3" value="1.5"/><interpretation modern_unit="l" modern_value="1.5" system="dry capacity" unit="sila3" value="1.5"/>1(disz) 1/2(disz) sila3</count> 
+<count><interpretation modern_unit="l" modern_value="15" system="dry capacity" unit="sila3" value="15"/>1(ban2) 5(disz) sila3</count> <com dist="1">esza</com> 
+imgaga3 bala-bi <count><interpretation modern_unit="l" modern_value="1" system="liquid capacity" unit="sila3" value="1"/><interpretation modern_unit="l" modern_value="1" system="dry capacity" unit="sila3" value="1"/>1(disz) sila3</count> 
+sa2-du11 <com dist="1">ki</com> udu szum 
+szunigin <count><interpretation modern_unit="l" modern_value="21252" system="dry capacity" unit="sila3" value="21252"/>1(gesz2) 1(u) 4(barig) 1(ban2) 2(disz) sila3 sze gur</count> lugal 
+szunigin <count><interpretation modern_unit="l" modern_value="256" system="dry capacity" unit="sila3" value="256"/>4(barig) 1(ban2) 6(disz) sila3</count> <com dist="1">ziz2</com> gur 
+iti {d}li9-si4-ta 
+iti nesag-sze3 
+iti-bi iti <count><interpretation modern_unit="" modern_value="8" system="cardinal" unit="" value="8"/>8(disz)-kam</count> 
+mu lugal a2-mah 
+sa2-du11-e dah-ha 
+inim a-hu-a-ta 
+</commodities>

@@ -1,0 +1,31 @@
+<commodities>
+#P101581 = AnOr 07, 286
+#atf: lang sux
+#tr.en: 1 (full-time worker) Šeškala,
+#tr.en: 1 (full-time worker) Ur-Gigir,
+#tr.en: son(s) of Guzzani,
+#tr.en: 1 (full-time worker) Lu-Šara, son of Lugal-itida, son of NI-x-šari,
+#tr.en: 1 (full-time worker) Guzzani, son of Nin-Urda, SIG-a,
+#tr.en: 1 (full-time worker) Lu-Alamuš, x x
+# seal impression
+#tr.en: Seized runaways ...,
+#tr.en: in the prison residing;
+#tr.en: month: “House-month-6,” ..., the 21st day of has passed;
+#tr.en: year: “Šu-Suen, the king, erected big-stela.”
+#tr.en: Atu, scribe,
+#tr.en: Son of Nigar-kidu,
+#tr.en: The police chief.
+<count><interpretation modern_unit="" modern_value="1" system="cardinal" unit="" value="1"/>1(disz)</count> szesz-kal-la 
+<count><interpretation modern_unit="" modern_value="1" system="cardinal" unit="" value="1"/>1(disz)</count> <com dist="1">ur-{gesz}gigir</com> 
+dumu {gesz}guzza-ni-me 
+<count><interpretation modern_unit="" modern_value="1" system="cardinal" unit="" value="1"/>1(disz)</count> lu2-{d}szara2 dumu lugal-iti-da dumu i3-x-sza-ri2 
+<count><interpretation modern_unit="" modern_value="1" system="cardinal" unit="" value="1"/>1(disz)</count> <com dist="1">{gesz}guzza-ni</com> dumu {d}nin-ur4-da SIG7-a 
+<count><interpretation modern_unit="" modern_value="1" system="cardinal" unit="" value="1"/>1(disz)</count> lu2-{d}alamusz bar-ra gub-ba 
+lu2 zah3 dab5-ba x-x 
+en-nu-ga2 ti-la 
+iti e2-iti-6(disz) ... u4 <count><interpretation modern_unit="" modern_value="21" system="cardinal" unit="" value="21"/>2(u) 1(disz)-am3</count> ba-ra-zal 
+mu {d}szu-{d}suen <com dist="1">lugal-e</com> na-ru2-a-mah in-du3 
+a-tu dub-sar 
+dumu nigar{gar}-ki-du10 
+gal5-la2-gal 
+</commodities>

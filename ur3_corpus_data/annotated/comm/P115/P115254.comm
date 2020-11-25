@@ -1,0 +1,19 @@
+<commodities>
+#P115254 = MVN 07, 402
+#atf: lang sux
+<count><interpretation modern_unit="" modern_value="5100" system="cardinal" unit="" value="5100"/>1(szar2) 2(geszu) 5(gesz2)</count> karadin5 <count><interpretation modern_unit="l" modern_value="30" system="dry capacity" unit="sila3" value="30"/>3(ban2)</count> <com dist="1">sze-ta</com> 
+sze-bi <count><interpretation modern_unit="l" modern_value="153000" system="dry capacity" unit="sila3" value="153000"/>8(gesz2) 3(u) gur</count> 
+GAN2 {d}gesz-bar-e3-i3-sa6 
+<count><interpretation modern_unit="" modern_value="5400" system="cardinal" unit="" value="5400"/>1(szar2) 3(geszu)</count> karadin5 <count><interpretation modern_unit="l" modern_value="30" system="dry capacity" unit="sila3" value="30"/>3(ban2)-ta</count> 
+<com dist="1">sze-bi</com> <count><interpretation modern_unit="l" modern_value="162000" system="dry capacity" unit="sila3" value="162000"/>9(gesz2) gur</count> 
+GAN2 {d}utu-na 
+a-sza3 ma-ni 
+<count><interpretation modern_unit="" modern_value="3600" system="cardinal" unit="" value="3600"/>1(szar2)</count> karadin5 <count><interpretation modern_unit="l" modern_value="30" system="dry capacity" unit="sila3" value="30"/>3(ban2)-ta</count> szum2-me 
+<count><interpretation modern_unit="" modern_value="1800" system="cardinal" unit="" value="1800"/>3(geszu)</count> karadin5 <count><interpretation modern_unit="l" modern_value="30" system="dry capacity" unit="sila3" value="30"/>3(ban2)-ta</count> <com dist="1">apin-la2</com> 
+sze-bi <count><interpretation modern_unit="l" modern_value="162000" system="dry capacity" unit="sila3" value="162000"/>9(gesz2) gur</count> 
+GAN2 ur-{d}ba-ba6 
+<count><interpretation modern_unit="" modern_value="5400" system="cardinal" unit="" value="5400"/>1(szar2) 3(geszu)</count> karadin5 <count><interpretation modern_unit="l" modern_value="30" system="dry capacity" unit="sila3" value="30"/>3(ban2)-ta</count> 
+<com dist="1">sze-bi</com> <count><interpretation modern_unit="l" modern_value="162000" system="dry capacity" unit="sila3" value="162000"/>9(gesz2) gur</count> 
+GAN2 e2-gal 
+a-sza3 <com dist="1">{gesz}tir-gaba-gid2-da</com> 
+</commodities>

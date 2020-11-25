@@ -1,0 +1,32 @@
+<commodities>
+#P416438 = CDLJ 2012/1 §4.07
+#atf: lang sux
+#tr.en: 2 oxen, barley-fed, 6 sheep, barley-fed, “following oxen,”
+#tr.en: 11 sheep, 1 lamb,
+#tr.en: 1 kid, 2 gazelle fawns,
+#tr.en: of the governor in Umma, delivery for the Akitu in the (month) “Harvest” ...;
+#tr.en: 2 bucks, 1 lamb,
+#tr.en: of Nigar-kidu
+#tr.en: n sheep, barley-fed, 1 lamb,
+#tr.en: of the governor of Apiak;
+#tr.en: ...
+#tr.en: ...
+#tr.en: ...
+#tr.en: month: “Gazelle feast,”
+#tr.en: year after: “Urbilum was destroyed;”
+#tr.en: nth day.
+<count><interpretation modern_unit="" modern_value="2" system="cardinal" unit="" value="2"/>2(disz)</count> <com dist="1">gu4</com> niga <count><interpretation modern_unit="" modern_value="6" system="cardinal" unit="" value="6"/>6(disz)</count> udu niga gu4-e-us2-sa 
+<count><interpretation modern_unit="" modern_value="11" system="cardinal" unit="" value="11"/>1(u) 1(disz)</count> <com dist="1">udu</com> <count><interpretation modern_unit="" modern_value="1" system="cardinal" unit="" value="1"/>1(disz)</count> sila4 
+<count><interpretation modern_unit="" modern_value="1" system="cardinal" unit="" value="1"/>1(disz)</count> masz2 <count><interpretation modern_unit="" modern_value="2" system="cardinal" unit="" value="2"/>2(disz)</count> amar masz-da3 
+ensi2 umma{ki} mu-kux(DU) a2-ki-ti sze-sag11-ku5-ka ... 
+<count><interpretation modern_unit="" modern_value="2" system="cardinal" unit="" value="2"/>2(disz)</count> <com dist="1">masz2-gal</com> <count><interpretation modern_unit="" modern_value="1" system="cardinal" unit="" value="1"/>1(disz)</count> sila4 
+nigar{gar}-ki-du10 
+n <com dist="1">udu</com> niga <count><interpretation modern_unit="" modern_value="1" system="cardinal" unit="" value="1"/>1(disz)</count> sila4 
+ensi2 a-pi2-ak{ki} 
+... x ... 
+... 
+... 
+iti masz-da3-gu7 
+mu us2-sa ur-bi2-lum{ki} ba-hul 
+u4 n-kam 
+</commodities>

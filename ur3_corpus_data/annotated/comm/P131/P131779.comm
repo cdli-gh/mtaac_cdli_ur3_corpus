@@ -1,0 +1,131 @@
+<commodities>
+#P131779 = TCL 05, 6166
+#atf: lang sux
+#tr.de: 2580 (Tage) der erin-Arbeiter aus Umma,
+#tr.de: das Silber zu je 4 Gran (täglich),
+#tr.de: das dazugehörige Silber(äquivalent): 5/6 mana 7 1/3 Sekel;
+#tr.de: 600 (erin-Tage) des Stadtfürsten,
+#tr.de: das dazugehörige Silber(äquivalent): 13 1/3 Sekel;
+#tr.de: 67 (erin-Tage) des Tauschagenten,
+#tr.de: das dazugehörige Silber(äquivalent): 1 1/2 Sekel;
+#tr.de: 5 (erin-Tage) des Boten Ur-gigir,
+#tr.de: das dazugehörige Silber(äquivalent): 20 Gran;
+#tr.de: 9 (erin-Tage) des Sohns/der Söhne des Gududu
+#tr.de: das dazugehörige Silber(äquivalent): 1/6 Sekel 6 Gran;
+#tr.de: 120 (erin-Tage) der königlichen Söldner,
+#tr.de: das dazugehörige Silber(äquivalent): 2 2/3 Sekel;
+#tr.de: 10 (erin-Tage) des königlichen Sängers,
+#tr.de: das dazugehörige Silber(äquivalent): 1/6 Sekel 10 Gran;
+#tr.de: 5 (erin-Tage) des Groß-galla-Beamten Nigar-kidu;
+#tr.de: das dazugehörige Silber(äquivalent): 20 Gran;
+#tr.de: 5 (erin-Tage) des Haushalts des Lugal-barabe,
+#tr.de: das dazugehörige Silber(äquivalent): 20 Gran;
+#tr.de: 40 Gran des Daddamu;
+#tr.de: 3 (erin-Tage) des Sohns/der Söhne des Habaluge,
+#tr.de: das dazugehörige Silber(äquivalent): 12 Gran;
+#tr.de: 3 (erin-Tage) des Schreiners Alladub,
+#tr.de: das dazugehörige Silber(äquivalent): 12 Gran;
+#tr.de: 6 (erin-Tage) des königlichen Schreiners,
+#tr.de: das dazugehörige Silber(äquivalent): 24 Gran;
+#tr.de: 6 (erin-Tage) des Sohns/der Söhne des Lugal-Šuba,
+#tr.de: das dazugehörige Silber(äquivalent): 24 Gran;
+#tr.de: 5 (erin-Tage) des Sohns/der Söhne des Lugal-itida,
+#tr.de: das dazugehörige Silber(äquivalent): 20 Gran;
+#tr.de: 4 Gran des Ur-dingira,
+#tr.de: 4 Gran des Lugal-magure,
+#tr.de: 3 (erin-Tage) des Sohns des nubanda Ur-gigir,
+#tr.de: das dazugehörige Silber(äquivalent): 12 Gran;
+#tr.de: 4 Gran des Schneiders ARADmu,
+#tr.de: 4 Gran des Ur-sigar,
+#tr.de: 3 (erin-Tage) des Sohns des Urur,
+#tr.de: das dazugehörige Silber: 12 Gran;
+#tr.de: 4 Gran des Mašlu,
+#tr.de: 4 Gran des Hunuri,
+#tr.de: 4 Gran des Boten Girine-isa,
+#tr.de: 4 Gran des Amar-su,
+#tr.de: 30 (erin-Tage) des Nanna-Gärtners,
+#tr.de: das dazugehörige Silber(äquivalent): 2/3 Sekel;
+#tr.de: 3 (erin-Tage) des Lu-en-Unu,
+#tr.de: das dazugehörige Silber(äquivalent): 12 Gran;
+#tr.de: 4 Gran des Söldners Ur-Lisi,
+#tr.de: 2 (erin-Tage) des Nindidi-Gärtners,
+#tr.de: das dazugehörige Silber(äquivalent): 8 Gran;
+#tr.de: 4 (erin-Tage) des königlichen Töpfers,
+#tr.de: das dazugehörige Silber(äquivalent): 16 Gran;
+#tr.de: 6 (erin-Tage) der verschiedenen Hirten?,
+#tr.de: das dazugehörige Silber(äquivalent): 24 Gran;
+#tr.de: 12 Gran des Nabi-Enlil,
+#tr.de: 60 (erin-Tage) des Haushalts des Inim-Šara,
+#tr.de: das dazugehörige Silber(äquivalent): 1 1/3 Sekel;
+#tr.de: 12 Gran des Humati,
+#tr.de: 30 (erin-Tage) des königlichen Schreibers,
+# collation Dahl/Lafont
+#tr.de: das dazugehörige Silber(äquivalent): 2/3 Sekel;
+#tr.de: 33 (erin-Tage) des Arztes,
+#tr.de: das dazugehörige Silber(äquivalent): 2/3 Sekel 12 Gran;
+#tr.de: Zusammen: 1 1/3 mana 1/3 Sekel Silber,
+#tr.de: hins. der Umma-erin(-Arbeitertage) zurückzuerstatten.
+<count><interpretation modern_unit="" modern_value="2580" system="cardinal" unit="" value="2580"/>4(geszu) 3(gesz2)</count> <com dist="1">erin2</com> umma{ki} 
+ku3 <count><interpretation modern_unit="" modern_value="4" system="cardinal" unit="" value="4"/>4(disz)</count> sze-ta 
+ku3-bi <count><interpretation modern_unit="g" modern_value="477.7777777777778" system="weight" unit="gin2" value="57.333333333333336"/>5/6(disz) ma-na 7(disz) 1/3(disz) gin2</count> 
+<count><interpretation modern_unit="" modern_value="600" system="cardinal" unit="" value="600"/>1(geszu)</count> ensi2 
+<com dist="1">ku3-bi</com> <count><interpretation modern_unit="" modern_value="0.2222222222222222" system="cardinal" unit="" value="0.2222222222222222"/>1(u) 3(disz) 1/3(disz) gin2</count> 
+<count><interpretation modern_unit="" modern_value="67" system="cardinal" unit="" value="67"/>1(gesz2) 7(disz)</count> dam-gar3 
+<com dist="1">ku3-bi</com> <count><interpretation modern_unit="" modern_value="0.025" system="cardinal" unit="" value="0.025"/>1(disz) 1/2(disz) gin2</count> 
+<count><interpretation modern_unit="" modern_value="5" system="cardinal" unit="" value="5"/>5(disz)</count> <com dist="1">ur-{gesz}gigir</com> sukkal 
+ku3-bi <count><interpretation modern_unit="" modern_value="0.0018518518518518517" system="cardinal" unit="" value="0.0018518518518518517"/>2(u) sze</count> 
+<count><interpretation modern_unit="" modern_value="9" system="cardinal" unit="" value="9"/>1(u) la2 1(disz)</count> dumu gu-du-du 
+<com dist="1">ku3-bi</com> <count><interpretation modern_unit="" modern_value="0.16722222222222222" system="cardinal" unit="" value="0.16722222222222222"/>igi-6(disz)-gal2 6(disz) sze</count> 
+<count><interpretation modern_unit="" modern_value="120" system="cardinal" unit="" value="120"/>2(gesz2)</count> <com dist="1">aga3-us2</com> lugal 
+ku3-bi <count><interpretation modern_unit="" modern_value="0.04444444444444444" system="cardinal" unit="" value="0.04444444444444444"/>2(disz) 2/3(disz) gin2</count> 
+<count><interpretation modern_unit="" modern_value="10" system="cardinal" unit="" value="10"/>1(u)</count> nar lugal 
+<com dist="1">ku3-bi</com> <count><interpretation modern_unit="" modern_value="0.16759259259259257" system="cardinal" unit="" value="0.16759259259259257"/>igi-6(disz)-gal2 1(u) sze</count> 
+<count><interpretation modern_unit="" modern_value="5" system="cardinal" unit="" value="5"/>5(disz)</count> nigar{gar}-ki-du10 gal5-la2-gal 
+<com dist="1">ku3-bi</com> <count><interpretation modern_unit="" modern_value="0.0018518518518518517" system="cardinal" unit="" value="0.0018518518518518517"/>2(u) sze</count> 
+<count><interpretation modern_unit="" modern_value="5" system="cardinal" unit="" value="5"/>5(disz)</count> e2 lugal ba-ra-ab-e3 
+<com dist="1">ku3-bi</com> <count><interpretation modern_unit="" modern_value="0.0018518518518518517" system="cardinal" unit="" value="0.0018518518518518517"/>2(u) sze</count> 
+<count><interpretation modern_unit="" modern_value="0.0037037037037037034" system="cardinal" unit="" value="0.0037037037037037034"/>4(u) sze</count> da-ad-da-mu 
+<count><interpretation modern_unit="" modern_value="3" system="cardinal" unit="" value="3"/>3(disz)</count> dumu ha-ba-lu5-ge2 
+<com dist="1">ku3-bi</com> <count><interpretation modern_unit="" modern_value="0.0011111111111111111" system="cardinal" unit="" value="0.0011111111111111111"/>1(u) 2(disz) sze</count> 
+<count><interpretation modern_unit="" modern_value="3" system="cardinal" unit="" value="3"/>3(disz)</count> al-la tibira 
+<com dist="1">ku3-bi</com> <count><interpretation modern_unit="" modern_value="0.0011111111111111111" system="cardinal" unit="" value="0.0011111111111111111"/>1(u) 2(disz) sze</count> 
+<count><interpretation modern_unit="" modern_value="6" system="cardinal" unit="" value="6"/>6(disz)</count> nagar lugal 
+<com dist="1">ku3-bi</com> <count><interpretation modern_unit="" modern_value="0.0022222222222222222" system="cardinal" unit="" value="0.0022222222222222222"/>2(u) 4(disz) sze</count> 
+<count><interpretation modern_unit="" modern_value="6" system="cardinal" unit="" value="6"/>6(disz)</count> dumu lugal-szuba3 
+<com dist="1">ku3-bi</com> <count><interpretation modern_unit="" modern_value="0.0022222222222222222" system="cardinal" unit="" value="0.0022222222222222222"/>2(u) 4(disz) sze</count> 
+<count><interpretation modern_unit="" modern_value="5" system="cardinal" unit="" value="5"/>5(disz)</count> dumu lugal-iti-da 
+<com dist="1">ku3-bi</com> <count><interpretation modern_unit="" modern_value="0.0018518518518518517" system="cardinal" unit="" value="0.0018518518518518517"/>2(u) sze</count> 
+<count><interpretation modern_unit="" modern_value="0.00037037037037037035" system="cardinal" unit="" value="0.00037037037037037035"/>4(disz) sze</count> ur-dingir-ra 
+<count><interpretation modern_unit="" modern_value="0.00037037037037037035" system="cardinal" unit="" value="0.00037037037037037035"/>4(disz) sze</count> lugal-ma2-gur8-re 
+<count><interpretation modern_unit="" modern_value="3" system="cardinal" unit="" value="3"/>3(disz)</count> dumu <com dist="1">ur-{gesz}gigir</com> nu-banda3 
+ku3-bi <count><interpretation modern_unit="" modern_value="0.0011111111111111111" system="cardinal" unit="" value="0.0011111111111111111"/>1(u) 2(disz) sze</count> 
+<count><interpretation modern_unit="" modern_value="0.00037037037037037035" system="cardinal" unit="" value="0.00037037037037037035"/>4(disz) sze</count> ARAD2-mu lu2 azlag2 
+<count><interpretation modern_unit="" modern_value="0.00037037037037037035" system="cardinal" unit="" value="0.00037037037037037035"/>4(disz) sze</count> ur-si-gar 
+<count><interpretation modern_unit="" modern_value="3" system="cardinal" unit="" value="3"/>3(disz)</count> dumu ur-ur 
+<com dist="1">ku3-bi</com> <count><interpretation modern_unit="" modern_value="0.0011111111111111111" system="cardinal" unit="" value="0.0011111111111111111"/>1(u) 2(disz) sze</count> 
+<count><interpretation modern_unit="" modern_value="0.00037037037037037035" system="cardinal" unit="" value="0.00037037037037037035"/>4(disz) sze</count> masz-lu2 
+<count><interpretation modern_unit="" modern_value="0.00037037037037037035" system="cardinal" unit="" value="0.00037037037037037035"/>4(disz) sze</count> hu-nu-ri 
+<count><interpretation modern_unit="" modern_value="0.00037037037037037035" system="cardinal" unit="" value="0.00037037037037037035"/>4(disz) sze</count> giri3-ni-i3-sa6 sukkal 
+<count><interpretation modern_unit="" modern_value="0.00037037037037037035" system="cardinal" unit="" value="0.00037037037037037035"/>4(disz) sze</count> amar-su4 
+<count><interpretation modern_unit="" modern_value="30" system="cardinal" unit="" value="30"/>3(u)</count> <com dist="1">nu-{gesz}kiri6</com> {d}nanna 
+ku3-bi <count><interpretation modern_unit="" modern_value="0.01111111111111111" system="cardinal" unit="" value="0.01111111111111111"/>2/3(disz) gin2</count> 
+<count><interpretation modern_unit="" modern_value="3" system="cardinal" unit="" value="3"/>3(disz)</count> lu2-en-unu{ki} 
+<com dist="1">ku3-bi</com> <count><interpretation modern_unit="" modern_value="0.0011111111111111111" system="cardinal" unit="" value="0.0011111111111111111"/>1(u) 2(disz) sze</count> 
+<count><interpretation modern_unit="" modern_value="0.00037037037037037035" system="cardinal" unit="" value="0.00037037037037037035"/>4(disz) sze</count> ur-{d}li9-si4 <com dist="1">aga3-us2</com> 
+<count><interpretation modern_unit="" modern_value="2" system="cardinal" unit="" value="2"/>2(disz)</count> nu-{gesz}kiri6 nin9-tur-tur 
+ku3-bi <count><interpretation modern_unit="" modern_value="0.0007407407407407407" system="cardinal" unit="" value="0.0007407407407407407"/>8(disz) sze</count> 
+<count><interpretation modern_unit="" modern_value="4" system="cardinal" unit="" value="4"/>4(disz)</count> bahar3 lugal 
+<com dist="1">ku3-bi</com> <count><interpretation modern_unit="" modern_value="0.0014814814814814814" system="cardinal" unit="" value="0.0014814814814814814"/>1(u) 6(disz) sze</count> 
+<count><interpretation modern_unit="" modern_value="6" system="cardinal" unit="" value="6"/>6(disz)</count> sipa didli 
+<com dist="1">ku3-bi</com> <count><interpretation modern_unit="" modern_value="0.0022222222222222222" system="cardinal" unit="" value="0.0022222222222222222"/>2(u) 4(disz) sze</count> 
+<count><interpretation modern_unit="" modern_value="0.0011111111111111111" system="cardinal" unit="" value="0.0011111111111111111"/>1(u) 2(disz) sze</count> na-bi2-{d}en-lil2 
+<count><interpretation modern_unit="" modern_value="60" system="cardinal" unit="" value="60"/>1(gesz2)</count> e2 inim-{d}szara2 
+<com dist="1">ku3-bi</com> <count><interpretation modern_unit="" modern_value="0.02222222222222222" system="cardinal" unit="" value="0.02222222222222222"/>1(disz) 1/3(disz) gin2</count> 
+<count><interpretation modern_unit="" modern_value="0.0011111111111111111" system="cardinal" unit="" value="0.0011111111111111111"/>1(u) 2(disz) sze</count> hu-ma-ti 
+<count><interpretation modern_unit="" modern_value="30" system="cardinal" unit="" value="30"/>3(u)</count> dub-sar lugal 
+<com dist="1">ku3-bi</com> <count><interpretation modern_unit="" modern_value="0.01111111111111111" system="cardinal" unit="" value="0.01111111111111111"/>2/3(disz) gin2</count> 
+<count><interpretation modern_unit="" modern_value="33" system="cardinal" unit="" value="33"/>3(u) 3(disz)</count> a-zu 
+<com dist="1">ku3-bi</com> <count><interpretation modern_unit="" modern_value="0.012222222222222221" system="cardinal" unit="" value="0.012222222222222221"/>2/3(disz) gin2 1(u) 2(disz) sze</count> 
+szunigin <count><interpretation modern_unit="g" modern_value="669.4444444444445" system="weight" unit="gin2" value="80.33333333333333"/>1(disz) 1/3(disz) ma-na 1/3(disz) gin2</count> <com dist="1">ku3-babbar</com> 
+erin2 umma{ki}-ke4 su-su-dam 
+</commodities>

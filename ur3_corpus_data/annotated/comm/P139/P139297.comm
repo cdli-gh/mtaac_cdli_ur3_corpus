@@ -1,0 +1,12 @@
+<commodities>
+#P139297 = UET 9, 1167 
+#atf: lang sux 
+<count><interpretation modern_unit="" modern_value="none" system="unknown" unit="" value="none"/>5(gesz2) 7(asz) 4(barig) 2(disz) ...</count> 
+sza3 <com dist="1">im</com> <count><interpretation modern_unit="" modern_value="1" system="cardinal" unit="" value="1"/>1(disz)-kam</count> 
+<count><interpretation modern_unit="l" modern_value="28880" system="dry capacity" unit="sila3" value="28880"/>1(gesz2) 3(u) 6(asz) 1(barig) 2(ban2)</count> 
+sza3 <com dist="1">im</com> <count><interpretation modern_unit="" modern_value="2" system="cardinal" unit="" value="2"/>2(disz)-kam</count> 
+<count><interpretation modern_unit="l" modern_value="420" system="dry capacity" unit="sila3" value="420"/>1(asz) 2(barig)</count> sza3 <com dist="1">im</com> <count><interpretation modern_unit="" modern_value="3" system="cardinal" unit="" value="3"/>3(disz)-kam</count> 
+<count><interpretation modern_unit="l" modern_value="340" system="dry capacity" unit="sila3" value="340"/>1(asz) 4(ban2)</count> sza3 <com dist="1">im</com> <count><interpretation modern_unit="" modern_value="4" system="cardinal" unit="" value="4"/>4(disz)-kam</count> 
+... <count><interpretation modern_unit="l" modern_value="120" system="dry capacity" unit="sila3" value="120"/>2(barig)</count> sza3 <com dist="1">im</com> <count><interpretation modern_unit="" modern_value="5" system="cardinal" unit="" value="5"/>5(disz)-kam</count> 
+<count><interpretation modern_unit="" modern_value="none" system="unknown" unit="" value="none"/>7(gesz2) 1(u) 9(asz) 3(gesz2) 2(u) ... 7(asz)</count> 
+</commodities>

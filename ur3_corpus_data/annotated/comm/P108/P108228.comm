@@ -1,0 +1,15 @@
+<commodities>
+#P108228 = CST 711
+#atf: lang sux
+<count>5(u) 4(barig) sze gur</count> si-sa2 
+a-ra2 <count><interpretation modern_unit="" modern_value="1" system="cardinal" unit="" value="1"/>1(disz)-kam</count> 
+<count><interpretation modern_unit="" modern_value="2400" system="cardinal" unit="" value="2400"/>4(geszu)</count> a-ra2 <count><interpretation modern_unit="" modern_value="2" system="cardinal" unit="" value="2"/>2(disz)-kam</count> 
+x-sag-du 
+a-ra2 <count><interpretation modern_unit="" modern_value="3" system="cardinal" unit="" value="3"/>3(disz)-kam</count> 
+... x <count><interpretation modern_unit="l" modern_value="120" system="dry capacity" unit="sila3" value="120"/>2(barig)</count> a-ra2 <count><interpretation modern_unit="" modern_value="4" system="cardinal" unit="" value="4"/>4(disz)-kam</count> 
+...-ta 
+<count><interpretation modern_unit="" modern_value="0.00324074074074074" system="cardinal" unit="" value="0.00324074074074074"/>3(u) 5(disz) sze</count> bar-ra-an 
+ma2 ki-tusz-lu2 
+<count><interpretation modern_unit="" modern_value="none" system="unknown" unit="" value="none"/>2(gesz2) 3(u) ... gur</count> 
+ma2 a-kal-la 
+</commodities>

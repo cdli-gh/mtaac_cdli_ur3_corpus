@@ -1,0 +1,25 @@
+<commodities>
+#P131532 = SAT 1, 429
+#atf: lang sux
+#tr.en: 3 male laborers at 3 shekels each,
+#tr.de: 3 Arbeiter zu je 3 Sekel,
+#tr.en: the silver: 9 shekels;
+#tr.de: das dazugehörige Silber: 9 Sekel
+#tr.en: they are plant oil workers of the temple household manager of Dumuzi;
+#tr.de: —sie sind Pflanzenfettleute des Dumuzi-Verwalters—
+#tr.en: instead of Namu
+#tr.de: wird anstatt von Namu
+#tr.en: will to Ḫabazizi
+#tr.de: dem Ḫabazizi
+#tr.en: be repaid;
+#tr.de: zurückerstattet;
+#tr.en: year: “The high-priestess of Nanna through extispicy was named.”
+#tr.de: Jahr: “Die Nanna-Priesterin wurde durch Leberschau bestimmt.”
+<count><interpretation modern_unit="" modern_value="3" system="cardinal" unit="" value="3"/>3(disz)</count> <com dist="1">gurusz</com> <count><interpretation modern_unit="" modern_value="3" system="cardinal" unit="" value="3"/>3(disz)</count> gin2-ta 
+<com dist="1">ku3-bi</com> <count><interpretation modern_unit="" modern_value="0.15" system="cardinal" unit="" value="0.15"/>9(disz) gin2</count> 
+lu2 <com dist="1">gesz-i3</com> sanga {d}dumu-zi-me 
+mu na-mu-sze3 
+ha-ba-zi-zi 
+su-su-dam 
+mu en {d}nanna masz2-e i3-pa3 
+</commodities>

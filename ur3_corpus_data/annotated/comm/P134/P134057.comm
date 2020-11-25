@@ -1,0 +1,19 @@
+<commodities>
+#P134057 = TIM 06, 52
+#atf: lang sux
+# calculation: 17 3/4 x 12 x 30 = 21;1,3
+# calculation: 17 3/4 x 6 = 106.5
+... x ... 
+sze-bi <count><interpretation modern_unit="l" modern_value="17.75" system="dry capacity" unit="sila3" value="17.75"/>1(ban2) 7(disz) 2/3(disz) sila3 5(disz) gin2</count> 
+u4 <count><interpretation modern_unit="" modern_value="1" system="cardinal" unit="" value="1"/>1(disz)-a-kam</count> 
+iti <count><interpretation modern_unit="" modern_value="12" system="cardinal" unit="" value="12"/>1(u) 2(disz)-sze3</count> 
+<com dist="1">sze-bi</com> <count><interpretation modern_unit="l" modern_value="6390" system="dry capacity" unit="sila3" value="6390"/>2(u) 1(asz) 1(barig) 3(ban2) gur</count> 
+<count><interpretation modern_unit="l" modern_value="106.5" system="dry capacity" unit="sila3" value="106.5"/>1(barig) 4(ban2) 6(disz) 1/2(disz) sila3 sze</count> 
+u4-de3 <com dist="1">gid2-da</com> u4 <count><interpretation modern_unit="" modern_value="6" system="cardinal" unit="" value="6"/>6(disz)-kam</count> 
+zi-zi-dam 
+<count><interpretation modern_unit="l" modern_value="6283.5" system="dry capacity" unit="sila3" value="6283.5"/>2(u) 4(barig) 4(ban2) 3(disz) 1/2(disz) sila3 gur</count> 
+ugu2 gu-du-du ba-a-gar 
+x sza3-gal <com dist="1">he2-dab5</com> 
+sza3 im nig2-ha-la 
+mu en {d}inanna unu{ki}-ga masz2-e i3-pa3 
+</commodities>

@@ -1,0 +1,15 @@
+<commodities>
+#P459083 = Akkadica 134/1 §2.4
+#atf: lang sux
+#tr.en: 1/3 oxen hide,
+#tr.en: 1 (bundle of) oxen sinews,
+#tr.en: 2 sheep skins “(soaked) with madder,”
+#tr.en: 10 shekels of glue,
+#tr.en: year: “Simanum.”
+<count><interpretation modern_unit="" modern_value="0.3333333333333333" system="cardinal" unit="" value="0.3333333333333333"/>1/3(disz)</count> <com dist="1">kusz</com> gu4 
+<count><interpretation modern_unit="" modern_value="1" system="cardinal" unit="" value="1"/>1(disz)</count> sa gu4 
+<count><interpretation modern_unit="" modern_value="2" system="cardinal" unit="" value="2"/>2(disz)</count> kusz udu a i3-ri2-na 
+<count><interpretation modern_unit="" modern_value="0.16666666666666666" system="cardinal" unit="" value="0.16666666666666666"/>1(u) gin2</count> <com dist="1">sze-gin2</com> 
+... 
+mu si-ma-num2{ki} 
+</commodities>

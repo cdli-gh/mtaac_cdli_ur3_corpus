@@ -1,0 +1,27 @@
+<commodities>
+#P105269 = BCT 2, 028
+#atf: lang sux
+#tr.en: 15 male laborers, the labor of 1 day: rushes, 3(?) bales each,
+#tr.en: total: 765 bales,
+#tr.en: being the labor of 17 days,
+#tr.en: they are the debits;
+#tr.en: therefrom:
+#tr.en: 765 bales,
+#tr.en: did Ur-e’e receive;
+#tr.en: ... Madaga ...,
+#tr.en: month “pa’u’e,”
+#tr.en: year “Simurrum was destroyed.”
+# added on dry clay, probably erasure
+# further erasures
+<count><interpretation modern_unit="" modern_value="15" system="cardinal" unit="" value="15"/>1(u) 5(disz)</count> <com dist="1">gurusz</com> a2 u4 <count><interpretation modern_unit="" modern_value="1" system="cardinal" unit="" value="1"/>1(disz)-bi</count> <com dist="1">{u2}|ZI&ZI|-a</com> gu-nigin2 <count><interpretation modern_unit="" modern_value="3" system="cardinal" unit="" value="3"/>3(disz)-ta-am3</count> 
+szunigin <count><interpretation modern_unit="" modern_value="765" system="cardinal" unit="" value="765"/>1(geszu) 2(gesz2) 4(u) 5(disz)</count> <com dist="1">gu-nigin2-am3</com> 
+a2 u4 <count><interpretation modern_unit="" modern_value="17" system="cardinal" unit="" value="17"/>1(u) 7(disz)-bi-im</count> 
+sag-nig2-gur11-ra-kam 
+sza3-bi-ta 
+<count><interpretation modern_unit="" modern_value="765" system="cardinal" unit="" value="765"/>1(geszu) 2(gesz2) 4(u) 5(disz)</count> <com dist="1">gu-nigin2-am3</com> 
+ur-e11-e i3-dab5 
+dab5-bi ma2-da-ga-ke4 e11 
+iti pa5-u2-e 
+mu si-mu-ru-um{ki} ba-hul 
+x e2 {d}KA 
+</commodities>

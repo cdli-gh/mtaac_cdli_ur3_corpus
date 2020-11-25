@@ -1,0 +1,16 @@
+<commodities>
+#P145421 = SAT 3, 2221
+#atf: lang sux
+<count><interpretation modern_unit="l" modern_value="10" system="dry capacity" unit="sila3" value="10"/>1(ban2)</count> <com dist="1">zi3</com> saga 
+<count><interpretation modern_unit="l" modern_value="20" system="dry capacity" unit="sila3" value="20"/>2(ban2)</count> <com dist="1">dabin</com> 
+ur-nigar{gar} 
+ugula lu2-dingir-ra 
+<count><interpretation modern_unit="l" modern_value="6" system="liquid capacity" unit="sila3" value="6"/><interpretation modern_unit="l" modern_value="6" system="dry capacity" unit="sila3" value="6"/>6(disz) sila3</count> lu2 kin-gi4-a 
+<count><interpretation modern_unit="l" modern_value="5" system="liquid capacity" unit="sila3" value="5"/><interpretation modern_unit="l" modern_value="5" system="dry capacity" unit="sila3" value="5"/>5(disz) sila3</count> a-a-kal-la 
+<count><interpretation modern_unit="l" modern_value="56" system="dry capacity" unit="sila3" value="56"/>5(ban2) 6(disz) sila3</count> sa2-du11 
+<count><interpretation modern_unit="l" modern_value="3" system="dry capacity" unit="sila3" value="3"/>3(disz) sila3 sze</count> <com dist="1">tu7</com> 
+szunigin <count><interpretation modern_unit="l" modern_value="10" system="dry capacity" unit="sila3" value="10"/>1(ban2)</count> <com dist="1">zi3</com> saga 
+szunigin <count><interpretation modern_unit="l" modern_value="20" system="dry capacity" unit="sila3" value="20"/>2(ban2)</count> <com dist="1">zi3-gu</com> saga 
+szunigin <count>1(barig) 3(ban2) sila3</count> <com dist="1">dabin</com> 
+u4 <count><interpretation modern_unit="" modern_value="20" system="cardinal" unit="" value="20"/>2(u)</count> <count><interpretation modern_unit="" modern_value="7" system="cardinal" unit="" value="7"/>7(disz)-kam</count> 
+</commodities>

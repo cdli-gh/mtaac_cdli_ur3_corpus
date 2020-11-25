@@ -1,0 +1,58 @@
+<commodities>
+#P416430 = CDLJ 2012/1 §4.44
+#atf: lang sux
+#tr.en: n ox(en), grass-fed, 7 sheep, grass-fed,
+#tr.en: with Puzur-ilī;
+#tr.en: 1 ox, grass-fed, 5 sheep, grass-fed,
+#tr.en: with Nimgir-inimgina;
+#tr.en: 1 ox, grass-fed, 5 sheep, grass-fed,
+#tr.en: with Gab-atal;
+#tr.en: 1 ox, grass-fed, 5 sheep, grass-fed,
+#tr.en: with Ur-Baba;
+#tr.en: 5 sheep, grass-fed, with Lu-saga;
+#tr.en: foreman: Lugal-kuzu;
+#tr.en: 1 ox, grass-fed, 5 sheep, grass-fed,
+#tr.en: foreman: Namḫani;
+#tr.en: n sheep, grass-fed, with Izuzu,
+#tr.en: foreman: Taḫiš-atal;
+#tr.en: n ox(en), grass-fed, 10 sheep, grass-fed,
+#tr.en: with Šakuge, the household manager;
+#tr.en: n ox(en), grass-fed, siskur-offering for the granary,
+#tr.en: with Lu-Nanna;
+#tr.en: n ox(en), grass-fed, siskur-offering for Nisaba,
+#tr.en: with Ea-bani;
+#tr.en: ... taken, month “Festival of Šu-Suen,”
+#tr.en: in the Fattening House,
+#tr.en: ARAD-mu, responsible official;
+#tr.en: the 29th day, booked out from Duga(’s account),
+#tr.en: via Ḫulal, the scribe;
+#tr.en: extra month following: “Mekigal Festival,”
+#tr.en: year: “Simanum was destroyed.”
+n gu4 u2 <count><interpretation modern_unit="" modern_value="7" system="cardinal" unit="" value="7"/>7(disz)</count> udu u2 
+ki puzur4-i3-li2 
+<count><interpretation modern_unit="" modern_value="1" system="cardinal" unit="" value="1"/>1(disz)</count> <com dist="1">gu4</com> u2 <count><interpretation modern_unit="" modern_value="5" system="cardinal" unit="" value="5"/>5(disz)</count> udu u2 
+ki nimgir-inim-gi-na 
+<count><interpretation modern_unit="" modern_value="1" system="cardinal" unit="" value="1"/>1(disz)</count> <com dist="1">gu4</com> u2 <count><interpretation modern_unit="" modern_value="5" system="cardinal" unit="" value="5"/>5(disz)</count> udu u2 
+ki ga-ba-tal 
+<count><interpretation modern_unit="" modern_value="1" system="cardinal" unit="" value="1"/>1(disz)</count> <com dist="1">gu4</com> u2 <count><interpretation modern_unit="" modern_value="5" system="cardinal" unit="" value="5"/>5(disz)</count> udu u2 
+ki ur-{d}ba-ba6 
+<count><interpretation modern_unit="" modern_value="5" system="cardinal" unit="" value="5"/>5(disz)</count> <com dist="1">udu</com> u2 ki lu2-sa6-ga 
+ugula lugal-ku3-zu 
+<count><interpretation modern_unit="" modern_value="1" system="cardinal" unit="" value="1"/>1(disz)</count> <com dist="1">gu4</com> u2 <count><interpretation modern_unit="" modern_value="5" system="cardinal" unit="" value="5"/>5(disz)</count> udu u2 
+ugula nam-ha-ni 
+... <com dist="1">udu</com> u2 ki i-zu-zu 
+ugula ta2-hi-isz-a-tal 
+... gu4 u2 <count><interpretation modern_unit="" modern_value="10" system="cardinal" unit="" value="10"/>1(u)</count> udu u2 
+ki sza3-ku3-ge szabra 
+... <com dist="1">gu4</com> u2 siskur2 guru7 
+ki lu2-{d}nanna 
+... gu4 u2 siskur2 {d}nisaba 
+ki e2-a-ba-ni 
+... nig2-dab5 ezem-{d}szu-{d}suen 
+sza3 na-gab2-tum 
+ARAD2-mu maszkim 
+u4 <count><interpretation modern_unit="" modern_value="20" system="cardinal" unit="" value="20"/>2(u)</count> <count><interpretation modern_unit="" modern_value="9" system="cardinal" unit="" value="9"/>9(disz)-kam</count> ki du11-ga-ta ba-zi 
+giri3 hu-la-al dub-sar 
+iti diri ezem-me-ki-gal2 us2-sa 
+mu si-ma-num2{ki} ba-hul 
+</commodities>

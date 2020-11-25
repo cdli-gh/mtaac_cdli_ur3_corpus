@@ -1,0 +1,48 @@
+<commodities>
+#P102364 = ASJ 09, 274 88
+#atf: lang sux
+#tr.en: 71 1/3 (sila3) ... butter oil, royal (measure),
+#tr.en: ...,
+#tr.en: n talents 5 ma-na goat hair,
+#tr.en: ... received;
+#tr.en: ... butter oil,
+#tr.en: ... big-cheese,
+#tr.en: 1 talent 58 1/3 mana wool,
+#tr.en: Inim-... received;
+#tr.en: 30 n (gur) 1 sila3 butter oil,
+#tr.en: 1 barig 4 ban2 n (sila3) big-cheese,
+#tr.en: 1 talent 21 1/3 mana wool,
+#tr.en: Lugal-inim-... received;
+#tr.en: ... 14 sila3 butter oil,
+#tr.en: ... n less 2 sila3 big-cheese,
+#tr.en: ... n mana wool,
+#tr.en: ... received;
+#tr.en: ... 1/2 sila3 butter oil,
+#tr.en: n sila3 big-cheese,
+#tr.en: 8 1/3 mana wool,
+#tr.en: Ur-susu received;
+#tr.en: deficit;
+#tr.en: year:“Accounts of the hoes,” year after.
+<count><interpretation modern_unit="l" modern_value="21060" system="dry capacity" unit="sila3" value="21060"/>1(gesz2) 1(u) 1(barig)</count> n <com dist="1">i3-nun</com> lugal 
+x x ... lugal 
+n gu2 <count><interpretation modern_unit="g" modern_value="2500.0" system="weight" unit="gin2" value="300"/>5(disz) ma-na</count> siki-ud5 
+...-x-a-mu i3-dab5 
+<count><interpretation modern_unit="" modern_value="10" system="cardinal" unit="" value="10"/>1(u)</count> n <com dist="1">i3-nun</com> 
+<count><interpretation modern_unit="" modern_value="10" system="cardinal" unit="" value="10"/>1(u)</count> n <com dist="1">ga</com> gal-gal 
+<count><interpretation modern_unit="g" modern_value="59166.66666666667" system="weight" unit="gin2" value="7100.0"/>1(asz) gu2 5(u) 8(disz) 1/3(disz) ma-na</count> <com dist="1">siki</com> 
+inim-{d}x-x i3-dab5 
+<count><interpretation modern_unit="" modern_value="30" system="cardinal" unit="" value="30"/>3(u)</count> n <count><interpretation modern_unit="l" modern_value="1" system="liquid capacity" unit="sila3" value="1"/><interpretation modern_unit="l" modern_value="1" system="dry capacity" unit="sila3" value="1"/>1(disz) sila3</count> <com dist="1">i3-nun</com> 
+<count><interpretation modern_unit="l" modern_value="100" system="dry capacity" unit="sila3" value="100"/>1(barig) 4(ban2)</count> n(disz) sila3 <com dist="1">ga</com> gal 
+<count><interpretation modern_unit="g" modern_value="40666.66666666667" system="weight" unit="gin2" value="4880.0"/>1(asz) gu2 2(u) 1(disz) 1/3(disz) ma-na</count> <com dist="1">siki</com> 
+lugal-inim-x i3-dab5 
+n x <count><interpretation modern_unit="l" modern_value="14" system="liquid capacity" unit="sila3" value="14"/><interpretation modern_unit="l" modern_value="14" system="dry capacity" unit="sila3" value="14"/>1(u) 4(disz) sila3</count> <com dist="1">i3-nun</com> 
+... n la2 <count>2(asz45)</count> sila3 <com dist="1">ga</com> gal 
+... n ma-na siki 
+... i3-dab5 
+... n <count><interpretation modern_unit="l" modern_value="0.5" system="liquid capacity" unit="sila3" value="0.5"/><interpretation modern_unit="l" modern_value="0.5" system="dry capacity" unit="sila3" value="0.5"/>1/2(disz) sila3</count> <com dist="1">i3-nun</com> 
+n <count><interpretation modern_unit="l" modern_value="4" system="liquid capacity" unit="sila3" value="4"/><interpretation modern_unit="l" modern_value="4" system="dry capacity" unit="sila3" value="4"/>4(disz) sila3</count> <com dist="1">ga</com> gal 
+<count><interpretation modern_unit="g" modern_value="4166.666666666667" system="weight" unit="gin2" value="500.0"/>8(disz) 1/3(disz) ma-na</count> <com dist="1">siki</com> 
+ur-su4-su4 i3-dab5 
+la2-ia3-am3 
+mu nig2-ka9 al-la mu us2-a-bi 
+</commodities>

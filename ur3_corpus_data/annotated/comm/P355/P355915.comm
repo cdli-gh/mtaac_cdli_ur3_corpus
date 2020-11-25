@@ -1,0 +1,77 @@
+<commodities>
+#P355915 = Bradeen 1
+#atf: lang sux
+#tr.en: 681 gur 1 barig barley,
+#tr.en: 86 [gur] 3 barig 5 ban 4 [sila emmer,]
+#tr.en: foreman: Lugina
+#tr.en: 631 [gur] 3 barig [barley,]
+#tr.en: 21 gur emmer,
+#tr.en: 14 gur 1 barig wheat,
+#tr.en: foreman: Lugal-emahe
+#tr.en: 593 gur barley,
+#tr.en: 89 gur 3 barig 3 ban emmer,
+#tr.en: 11 gur 1 barig wheat,
+#tr.en: foreman: Dudumu
+#tr.en: 608 gur barley,
+#tr.en: 83 gur 3 barig emmer,
+#tr.en: 33 gur 1 barig wheat,
+#tr.en: foreman: Lugal-gigire
+#tr.en: 140 gur 2 barig barley
+#tr.en: of the field of Szara,
+#tr.en: foreman: A'abba
+#tr.en: 233 gur 2 barig 1 ban 5 sila barley
+#tr.en: of the field of Szara, foreman: Ur-gigir?
+#tr.en: 103 gur 2 barig barley of the field of manu-wood,
+#tr.en: foreman: Agugu
+#tr.en: 133 gur barley of the field of manu-wood,
+#tr.en: 78 gur 3 barig emmer of the “field of the shepherds,”
+#tr.en: foreman: Lugal-xani
+#tr.en: 37 1 barig 1 ban 7 sila (barley) from the “field of the shepherds,”
+#tr.en: foreman: Lugalkugani
+#tr.en: 54 gur 4 barig 1 ban (barley) from the “field of the shepherds,”
+#tr.en: 108 gur 2 barig (barley),
+#tr.en: 11 gur chickpeas from the “field of the shepherds,”?
+#tr.en: foreman: Ur-Enlila
+#tr.en: threshed grain of the royal plots
+#tr.en: in Da-Umma
+#tr.en: did ARAD2 receive
+#tr.en: via Lu-banda.
+#tr.en: Year: “Simurum and Lulubu were destroyed for the 9th time.”
+#compare P200923 = Zinbun 22, 25
+<count>1(geszu) 1(gesz2) 2(u) 1(asz) 1(barig) sze gur</count> 
+<count><interpretation modern_unit="l" modern_value="26034" system="dry capacity" unit="sila3" value="26034"/>1(gesz2) 2(u) 6(asz) 3(barig) 5(ban2) 4(disz) sila3</count> <com dist="1">ziz2</com> gur 
+ugula lu2-gi-na 
+<count>1(geszu) 3(u) 1(asz) 3(barig) sze gur</count> 
+<count><interpretation modern_unit="" modern_value="21" system="cardinal" unit="" value="21"/>2(u) 1(asz)</count> <com dist="1">ziz2</com> gur 
+<count><interpretation modern_unit="l" modern_value="4260" system="dry capacity" unit="sila3" value="4260"/>1(u) 4(asz) 1(barig)</count> <com dist="1">gig</com> gur 
+ugula lugal-e2-mah-e 
+<count><interpretation modern_unit="l" modern_value="0.054907407407407405" system="dry capacity" unit="sila3" value="0.054907407407407405"/>9(gesz2) 5(u) 3(asz) sze gur</count> 
+<count><interpretation modern_unit="l" modern_value="26910" system="dry capacity" unit="sila3" value="26910"/>1(gesz2) 2(u) 9(asz) 3(barig) 3(ban2)</count> <com dist="1">ziz2</com> gur 
+<count><interpretation modern_unit="l" modern_value="3360" system="dry capacity" unit="sila3" value="3360"/>1(u) 1(asz) 1(barig)</count> <com dist="1">gig</com> gur 
+ugula du-du-mu 
+<count><interpretation modern_unit="l" modern_value="0.056296296296296296" system="dry capacity" unit="sila3" value="0.056296296296296296"/>1(geszu) 8(asz) sze gur</count> 
+<count><interpretation modern_unit="l" modern_value="25080" system="dry capacity" unit="sila3" value="25080"/>1(gesz2) 2(u) 3(asz) 3(barig)</count> <com dist="1">ziz2</com> gur 
+<count><interpretation modern_unit="l" modern_value="9960" system="dry capacity" unit="sila3" value="9960"/>3(u) 3(asz) 1(barig)</count> <com dist="1">gig</com> gur 
+ugula lugal-{gesz}gigir-re 
+<count>2(gesz2) 2(u) 2(barig) sze gur</count> 
+a-sza3 {d}szara2 
+ugula a-ab-ba 
+<count><interpretation modern_unit="l" modern_value="70035" system="dry capacity" unit="sila3" value="70035"/>3(gesz2) 5(u) 3(asz) 2(barig) 1(ban2) 5(disz) sila3 sze gur</count> 
+a-sza3 {d}szara2 ugula <com dist="1">ur-{gesz}gigir</com> 
+<count>1(gesz2) 4(u) 3(asz) 2(barig) sze gur</count> a-sza3 <com dist="1">{gesz}ma-nu</com> 
+ugula a-gu-gu 
+<count><interpretation modern_unit="l" modern_value="0.012314814814814813" system="dry capacity" unit="sila3" value="0.012314814814814813"/>2(gesz2) 1(u) 3(asz) sze gur</count> a-sza3 <com dist="1">{gesz}ma-nu</com> 
+<count><interpretation modern_unit="l" modern_value="23580" system="dry capacity" unit="sila3" value="23580"/>1(gesz2) 1(u) 8(asz) 3(barig)</count> ziz2 gur a-sza3 sipa-ne 
+ugula lugal-x-a-ni 
+<count><interpretation modern_unit="l" modern_value="11177" system="dry capacity" unit="sila3" value="11177"/>3(u) 7(asz) 1(barig) 1(ban2) 7(disz) sila3</count> a-sza3 sipa-ne 
+ugula lugal-ku3-ga-ni 
+<count><interpretation modern_unit="l" modern_value="16450" system="dry capacity" unit="sila3" value="16450"/>5(u) 4(asz) 4(barig) 1(ban2) gur</count> a-sza3 sipa-ne 
+<count><interpretation modern_unit="l" modern_value="32520" system="dry capacity" unit="sila3" value="32520"/>1(gesz2) 4(u) 8(asz) 2(barig) gur</count> 
+<count><interpretation modern_unit="l" modern_value="3560" system="dry capacity" unit="sila3" value="3560"/>1(u) 1(asz) 4(barig) 2(ban2)</count> <com dist="1">gu2-nida</com> gur a-sza3 sipa-x 
+ugula ur-{d}en-lil2-la2 
+sze gesz-e3-a GAN2-gu4 
+da-umma{ki} 
+ARAD2 szu ba-ti 
+giri3 lu2-banda3{da} 
+mu si-mu-ru-um lu-lu-bu{ki} a-ra2 <count><interpretation modern_unit="" modern_value="10" system="cardinal" unit="" value="10"/>1(u) la2</count> <count><interpretation modern_unit="" modern_value="1" system="cardinal" unit="" value="1"/>1(disz)-kam</count> ba-hul 
+</commodities>

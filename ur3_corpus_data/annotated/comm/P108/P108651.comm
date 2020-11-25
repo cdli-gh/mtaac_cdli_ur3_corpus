@@ -1,0 +1,80 @@
+<commodities>
+#P108651 = CT 10, pl. 48, BM 021429
+#atf: lang sux
+#tr.en: 2 gur rough flour, royal (measure),
+#tr.de: 2 gur feines Mehl (nach dem) königlichen (Maß gemessen),
+#tr.en: 30 gur dabin-flour,
+#tr.de: 30 gur dabin-Mehl,
+#tr.en: under seal of Uludi;
+#tr.de: gesiegelt von Uludi;
+#tr.en: 9 gur 3 barig 2 sila3 dabin-flour,
+#tr.de: 9 gur 3 barig 2 sila3 dabin-Mehl,
+#tr.en: under seal of Lu-Ninmar, son of Duga;
+#tr.de: gesiegelte Tafel von Lu-Ninmar, dem Sohn des Duga;
+#tr.en: total, its barley: 43 gur 3 barig 2 sila3,
+#tr.de: zusammen, das dazugehörige Gerste(äquivalent): 43 gur 3 (barig) 2 sila3,
+# calculation: (2 × 2) + 30 + 9;3,0,2 = 43;3,0,2
+#tr.en: its labor: 1248 workdays, female laborers;
+#tr.de: die dazugehörige Arbeitsleistung: 1248 Arbeitstage, Arbeiterinnen;
+# calculation: 41(not 43!);3,0,2 at 1 ban2 per day = 1248
+#tr.en: therefrom:
+#tr.de: davon:
+#tr.en: 10 gur emmer, under seal of Lu-Utu, foremen of the mill;
+#tr.de: 10 gur Emmer, gesiegelte Tafel von Lu-Utu, dem Aufseher der Mahlarbeit;
+#tr.en: 9 gur 3 ban2 barley, under seal of Ur-Igalim, foreman of the mill;
+#tr.de: 9 gur 3 (ban2) Gerste, gesiegelte Tafel von Ur-Igalim, dem Aufseher des Mahlens;
+#tr.en: via Lu-Ninmar, son of Duga;
+#tr.de: zuständig: Lu-Ninmar, der Sohn des Duga;
+#tr.en: 10 gur less 3 ban2 5 sila3 barley,
+#tr.de: 10 gur minus 3 (ban2) 5 sila3 Gerste,
+#tr.en: under seal of Ur-nigar;
+#tr.de: gesiegelte Tafel von Ur-nigar;
+#tr.en: 2 gur barley, Annebadu, the cantor,
+#tr.de: 2 gur Gerste (an) den Sänger Anebadu,
+#tr.en: in Nippur;
+#tr.de: in Nippur,
+#tr.en: 6 gur barley, under seal of Šeškalla,
+#tr.de: 6 gur Gerste, gesiegelte Tafel von Šeškalla,
+#tr.en: in Girsu;
+#tr.de: in Girsu;
+#tr.en: total: 37 gur less 5 sila3 barley and emmer
+#tr.de: zusammen: 37 gur minus 5 sila3 Gerste und Emmer
+# calculation: 10 + 9;0,3 + 9;4,2,5 + 2 + 6 = 36;4,5,5
+#tr.en: booked out;
+#tr.de: abgebucht;
+#tr.en: the deficit: 6 gur 3 barig 7 sila3 barley,
+#tr.de: Fehlbetrag: 6 gur 3 (barig) 7 sila Gerste,
+#tr.en: the deficit: 7 shekels less 12 grains silver, labor of flour;
+#tr.de: Fehlbetrag: 7 Sekel minus 12 Gran Silber, Arbeitsleistung des Mehl(mahlens);
+# calculation: 1248 days ÷ 180 days per shekel = 6 168/180
+#tr.en: account of KAla’a:
+#tr.de: KAla-Abrechnung des
+#tr.en: Uludi, son of Ḫabanzizi;
+#tr.de: Uludi, des Sohnes des Ḫabanzizi;
+#tr.en: year after: “The house Puzris-Dagan was erected.”
+#tr.de: Jahr nach: “Das Haus von PuzriÒ-Dagan wurde gebaut.”
+<count><interpretation modern_unit="" modern_value="2" system="cardinal" unit="" value="2"/>2(asz)</count> <com dist="1">zi3</com> sig15 gur lugal 
+<count><interpretation modern_unit="" modern_value="30" system="cardinal" unit="" value="30"/>3(u)</count> <com dist="1">dabin</com> gur 
+kiszib3 ulu3-di 
+<count><interpretation modern_unit="l" modern_value="2882" system="dry capacity" unit="sila3" value="2882"/>9(asz) 3(barig) 2(disz) sila3</count> <com dist="1">dabin</com> gur 
+kiszib3 lu2-{d}nin-mar{ki} dumu du10-ga 
+szunigin sze-bi <count><interpretation modern_unit="l" modern_value="13082" system="dry capacity" unit="sila3" value="13082"/>4(u) 3(asz) 3(barig) 2(disz) sila3 gur</count> 
+a2-bi <count><interpretation modern_unit="" modern_value="1248" system="cardinal" unit="" value="1248"/>2(geszu) 4(u) 8(disz)</count> geme2 u4 <count><interpretation modern_unit="" modern_value="1" system="cardinal" unit="" value="1"/>1(disz)-sze3</count> 
+sza3-bi-ta 
+<count><interpretation modern_unit="" modern_value="10" system="cardinal" unit="" value="10"/>1(u)</count> <com dist="1">ziz2</com> gur kiszib3 lu2-{d}utu ugula kikken 
+<count>9(asz) 3(ban2) sze gur</count> kiszib3 ur-{d}ig-alim ugula kikken2 
+giri3 lu2-{d}nin-mar{ki} dumu du10-ga 
+<count><interpretation modern_unit="l" modern_value="2965" system="dry capacity" unit="sila3" value="2965"/>1(u) la2 3(ban2) 5(disz) sila3 sze gur</count> 
+kiszib3 ur-nigar{gar} 
+<count><interpretation modern_unit="l" modern_value="0.00018518518518518518" system="dry capacity" unit="sila3" value="0.00018518518518518518"/>2(asz) sze gur</count> an-ne2-ba-du7 nar 
+sza3 nibru{ki} 
+<count><interpretation modern_unit="l" modern_value="0.0005555555555555556" system="dry capacity" unit="sila3" value="0.0005555555555555556"/>6(asz) sze gur</count> kiszib3 szesz-kal-la 
+sza3 gir2-su{ki} 
+szunigin <count><interpretation modern_unit="l" modern_value="32" system="dry capacity" unit="sila3" value="32"/>3(u) 7(asz) la2 5(disz) sila3 sze</count> <com dist="1">ziz2</com> gur 
+zi-ga 
+la2-ia3 <count><interpretation modern_unit="l" modern_value="1987" system="dry capacity" unit="sila3" value="1987"/>6(asz) 3(barig) 7(disz) sila3 sze gur</count> 
+la2-ia3 <count><interpretation modern_unit="" modern_value="0.11555555555555556" system="cardinal" unit="" value="0.11555555555555556"/>7(disz) gin2 la2 1(u) 2(disz) sze</count> <com dist="1">ku3</com> a2 zi3-da-ka 
+nig2-ka9-ak ka-la2-a 
+ulu3-di dumu ha-ba-an-zi-zi 
+mu us2-sa e2 puzur4-isz-{d}da-gan ba-du3 
+</commodities>

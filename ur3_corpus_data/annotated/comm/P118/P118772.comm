@@ -1,0 +1,20 @@
+<commodities>
+#P118772 = MVN 16, 0724
+#atf: lang sux
+($ blank space $) <count><interpretation modern_unit="l" modern_value="60" system="dry capacity" unit="sila3" value="60"/>1(barig)</count> 
+<count><interpretation modern_unit="l" modern_value="350" system="dry capacity" unit="sila3" value="350"/>1(disz) 5(ban2)</count> 
+<count><interpretation modern_unit="l" modern_value="640" system="dry capacity" unit="sila3" value="640"/>2(disz) 4(ban2)</count> 
+<count><interpretation modern_unit="l" modern_value="335" system="dry capacity" unit="sila3" value="335"/>1(disz) 3(ban2) 5(disz) sila3</count> 
+<count><interpretation modern_unit="l" modern_value="1530" system="dry capacity" unit="sila3" value="1530"/>5(disz) 3(ban2)</count> 
+<count><interpretation modern_unit="l" modern_value="325" system="dry capacity" unit="sila3" value="325"/>1(disz) 2(ban2) 5(disz) sila3</count> 
+<count><interpretation modern_unit="l" modern_value="1520" system="dry capacity" unit="sila3" value="1520"/>5(disz) 2(ban2)</count> 
+<count><interpretation modern_unit="l" modern_value="1515" system="dry capacity" unit="sila3" value="1515"/>5(disz) 1(ban2) 5(disz) sila3</count> 
+<count><interpretation modern_unit="l" modern_value="1510" system="dry capacity" unit="sila3" value="1510"/>5(disz) 1(ban2)</count> 
+<count><interpretation modern_unit="l" modern_value="12" system="liquid capacity" unit="sila3" value="12"/><interpretation modern_unit="l" modern_value="12" system="dry capacity" unit="sila3" value="12"/>7(disz) 5(disz) sila3</count> 
+<count><interpretation modern_unit="l" modern_value="5" system="liquid capacity" unit="sila3" value="5"/><interpretation modern_unit="l" modern_value="5" system="dry capacity" unit="sila3" value="5"/>2(disz) 3(disz) sila3</count> 
+($ blank space $) <com dist="1">sza3-su3</com> 
+szunigin <count><interpretation modern_unit="l" modern_value="561" system="dry capacity" unit="sila3" value="561"/>1(asz) 4(barig) 2(ban2) 1(disz) sila3</count> gesz <count><interpretation modern_unit="" modern_value="32" system="cardinal" unit="" value="32"/>3(u) 2(disz)-ta</count> 
+<com dist="1">{gesz}kiri6</com> i3-DU 
+a-da-lal3 
+mu us2-sa si-ma-num2{ki} ba-hul 
+</commodities>

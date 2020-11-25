@@ -1,0 +1,15 @@
+<commodities>
+#P136054 = UCP 9-2-2, 050
+#atf: lang sux
+# calculation: ((5 x 8) x 30) + ((4 x 6) x 30) = 6;2,0
+<count><interpretation modern_unit="" modern_value="5" system="cardinal" unit="" value="5"/>5(disz)</count> <com dist="1">gu4</com> niga <count><interpretation modern_unit="" modern_value="8" system="cardinal" unit="" value="8"/>8(disz)</count> sila3-ta 
+<count><interpretation modern_unit="" modern_value="4" system="cardinal" unit="" value="4"/>4(disz)</count> <com dist="1">gu4</com> <count><interpretation modern_unit="" modern_value="6" system="cardinal" unit="" value="6"/>6(disz)</count> sila3-ta 
+<com dist="1">sze-bi</com> <count><interpretation modern_unit="l" modern_value="1920" system="dry capacity" unit="sila3" value="1920"/>6(asz) 2(barig) gur</count> 
+sza3-gal <com dist="1">gu4</com> 
+<count><interpretation modern_unit="l" modern_value="1860" system="dry capacity" unit="sila3" value="1860"/>6(asz) 1(barig) gur</count> 
+<com dist="1">sze-ba</com> giri3-se3-ga 
+e2 a-ra-sze3 
+bala ensi2 ka-zal-lu{ki} 
+iti ki-siki-{d}nin-a-zu 
+mu en eridu{ki} ba-hun 
+</commodities>

@@ -1,0 +1,108 @@
+<commodities>
+#P381724 = Fs Sigrist 016, no. 4
+#atf: lang sux
+#tr.en: 97 workmen, the supervisor: Ur-gigir;
+#tr.en: 58, the supervisor: Igizubara;
+#tr.en: 36, the supervisor: Ur-Nigar;
+#tr.en: 6, the supervisor: Lu-Baba;
+#tr.en: Together: 197 workmen.
+#tr.en: Therefrom:
+#tr.en: 30, royal entourage;
+#tr.en: 10, uzga house;
+#tr.en: 5, slaughterhouse;
+#tr.en: 5, chaff carriers;
+#tr.en: 5, ...;
+#tr.en: 5, ... of the royal barge;
+#tr.en: 5, ... of the ...;
+#tr.en: 3, grooms;
+#tr.en: 18, kitchen, with Ur-nigar;
+#tr.en: 18, kitchen, with Ur-Nanše;
+#tr.en: 5, brewery, with Lugal-anatum;
+#tr.en: 2, brewery, with Ur-mes;
+#tr.en: 1, household of Ur-Namma;
+#tr.en: 1, ... in Sagdana,
+#tr.en: 1, flour carrier, with Ur-Baba;
+#tr.en: 1, flour carrier, with Nammaḫ;
+#tr.en: 1, flour carrier, with Kugal-inimgi;
+#tr.en: 2, clay carriers;
+#tr.en: 2, in the storage house stationed;
+#tr.en: 1, scribe of labor;
+#tr.en: 1, scribe of oil and dates;
+#tr.en: 1, scribe of ...-straw;
+#tr.en: 1, scribe of arzana(-flour);
+#tr.en: 1, scribe of flour, groats, spelt;
+#tr.en: 1, scribe of fish and vegetables;
+#tr.en: 1, Ur-Ninazu;
+#tr.en: 1, Ursaga ...;
+#tr.en: 1, with Nammaḫ;
+#tr.en: 1, Ur-Baba ...;
+#tr.en: 1, mouth of the palace;
+#tr.en: 2, hung boat, to reeds of Uruk;
+#tr.en: 5, boat of willow;
+#tr.en: 10, boat of ...;
+#tr.en: 10, household of the governor;
+#tr.en: 3, reed carriers in Nippur;
+#tr.en: 3, boat of Isin;
+#tr.en: 7, ... Ki-Suen;
+#tr.en: 17, pise plasterers;
+#tr.en: 1, sick, Alla;
+#tr.en: 1, sick, Lu-Ea;
+#tr.en: 1, gudu-priest of Meslamta’ea;
+#tr.en: Total: 188 workers on hand;
+#tr.en: 4 out of town, supervisor: Igizubara;
+#tr.en: 3 out of town, deficit; 2, supervisor: Ur-gigir;
+#tr.en: 29th day,
+#tr.en: month: “Festival of Lisi”.
+<count><interpretation modern_unit="" modern_value="97" system="cardinal" unit="" value="97"/>1(gesz2) 3(u) 7(disz)</count> <com dist="1">gurusz</com> nu-banda3 ur-{gesz}gigir 
+<count><interpretation modern_unit="" modern_value="58" system="cardinal" unit="" value="58"/>1(gesz2) la2 2(disz)</count> nu-banda3 igi-zu-bar-ra 
+<count><interpretation modern_unit="" modern_value="36" system="cardinal" unit="" value="36"/>3(u) 6(disz)</count> nu-banda3 ur-nigar{gar} 
+<count><interpretation modern_unit="" modern_value="6" system="cardinal" unit="" value="6"/>6(disz)</count> nu-banda3 lu2-{d}ba-ba6 
+szunigin <count><interpretation modern_unit="" modern_value="197" system="cardinal" unit="" value="197"/>3(gesz2) 1(u) 7(disz)</count> <com dist="1">gurusz</com> 
+sza3-bi-ta 
+<count><interpretation modern_unit="" modern_value="30" system="cardinal" unit="" value="30"/>3(u)</count> lugal-ra-us2-sa 
+<count><interpretation modern_unit="" modern_value="10" system="cardinal" unit="" value="10"/>1(u)</count> e2-uz-ga 
+<count><interpretation modern_unit="" modern_value="5" system="cardinal" unit="" value="5"/>5(disz)</count> e2-gu4-gaz 
+<count><interpretation modern_unit="" modern_value="5" system="cardinal" unit="" value="5"/>5(disz)</count> duh-IL2 
+<count><interpretation modern_unit="g" modern_value="150000.0" system="weight" unit="gin2" value="18000"/>5(disz) gu2</count> <com dist="1">gir</com> 
+<count><interpretation modern_unit="g" modern_value="150000.0" system="weight" unit="gin2" value="18000"/>5(disz) gu2</count> gir ma2 lugal 
+<count><interpretation modern_unit="g" modern_value="150000.0" system="weight" unit="gin2" value="18000"/>5(asz) gu2</count> <com dist="1">gir</com> murgu2 gur8 
+<count><interpretation modern_unit="" modern_value="3" system="cardinal" unit="" value="3"/>3(disz)</count> sipa <com dist="1">{ansze}si2-si2</com> 
+<count><interpretation modern_unit="" modern_value="18" system="cardinal" unit="" value="18"/>2(u) la2 2(disz)</count> e2-muhaldim <com dist="1">ki</com> ur-nigar{gar} 
+<count><interpretation modern_unit="" modern_value="18" system="cardinal" unit="" value="18"/>2(u) la2 2(disz)</count> e2-muhaldim <com dist="1">ki</com> ur-{d}nansze 
+<count><interpretation modern_unit="" modern_value="5" system="cardinal" unit="" value="5"/>5(disz)</count> <com dist="1">e2-lunga</com> ki lugal-an-na-tum2 
+<count><interpretation modern_unit="" modern_value="2" system="cardinal" unit="" value="2"/>2(disz)</count> <com dist="1">e2-lunga</com> ki ur-mes 
+<count><interpretation modern_unit="" modern_value="1" system="cardinal" unit="" value="1"/>1(disz)</count> e2 ur-{d}namma 
+<count><interpretation modern_unit="g" modern_value="30000.000000000004" system="weight" unit="gin2" value="3600"/>1(disz) gu2</count> tul2 sag-da-na 
+<count><interpretation modern_unit="" modern_value="1" system="cardinal" unit="" value="1"/>1(disz)</count> zi3-IL2 <com dist="1">ki</com> ur-{d}ba-ba6 
+<count><interpretation modern_unit="" modern_value="1" system="cardinal" unit="" value="1"/>1(disz)</count> zi3-IL2 <com dist="1">ki</com> nam-mah 
+<count><interpretation modern_unit="" modern_value="1" system="cardinal" unit="" value="1"/>1(disz)</count> zi3-IL2 <com dist="1">ki</com> lugal-inim-gi 
+<count><interpretation modern_unit="" modern_value="2" system="cardinal" unit="" value="2"/>2(disz)</count> im-IL2 
+<count><interpretation modern_unit="" modern_value="2" system="cardinal" unit="" value="2"/>2(disz)</count> ga2-nun-da tusz-a 
+<count><interpretation modern_unit="" modern_value="1" system="cardinal" unit="" value="1"/>1(disz)</count> dub-sar gesz-kin-ti 
+<count><interpretation modern_unit="" modern_value="1" system="cardinal" unit="" value="1"/>1(disz)</count> dub-sar <com dist="1">i3</com> zu2-lum 
+<count><interpretation modern_unit="" modern_value="1" system="cardinal" unit="" value="1"/>1(disz)</count> dub-sar <com dist="1">in-bul5-bul5</com> 
+<count><interpretation modern_unit="" modern_value="1" system="cardinal" unit="" value="1"/>1(disz)</count> dub-sar <com dist="1">ar-za-na</com> 
+<count><interpretation modern_unit="" modern_value="1" system="cardinal" unit="" value="1"/>1(disz)</count> dub-sar <com dist="1">zi3</com> nig2-ar-ra imgaga3 
+<count><interpretation modern_unit="" modern_value="1" system="cardinal" unit="" value="1"/>1(disz)</count> dub-sar <com dist="1">ku6</com> nisi 
+<count><interpretation modern_unit="" modern_value="1" system="cardinal" unit="" value="1"/>1(disz)</count> ur-{d}nin-a-zu 
+<count><interpretation modern_unit="" modern_value="1" system="cardinal" unit="" value="1"/>1(disz)</count> ur-sa6-ga durunx(|KU.KU|) 
+<count><interpretation modern_unit="" modern_value="1" system="cardinal" unit="" value="1"/>1(disz)</count> <com dist="1">ki</com> nam-mah 
+<count><interpretation modern_unit="" modern_value="1" system="cardinal" unit="" value="1"/>1(disz)</count> ur-{d}ba-ba6 <com dist="1">gaba-ta</com> 
+<count><interpretation modern_unit="" modern_value="1" system="cardinal" unit="" value="1"/>1(disz)</count> ka e2-gal 
+<count><interpretation modern_unit="" modern_value="2" system="cardinal" unit="" value="2"/>2(disz)</count> ma2-la2-a gi unu{ki}-sze3 
+<count><interpretation modern_unit="" modern_value="5" system="cardinal" unit="" value="5"/>5(disz)</count> ma2 <com dist="1">{gesz}ma-nu</com> 
+<count><interpretation modern_unit="" modern_value="10" system="cardinal" unit="" value="10"/>1(u)</count> ma2 gi-la2 
+<count><interpretation modern_unit="" modern_value="10" system="cardinal" unit="" value="10"/>1(u)</count> e2 ensi2 
+<count><interpretation modern_unit="" modern_value="3" system="cardinal" unit="" value="3"/>3(disz)</count> gi-IL2 sza3 nibru{ki} 
+<count><interpretation modern_unit="" modern_value="3" system="cardinal" unit="" value="3"/>3(disz)</count> ma2 i3-si-in{ki} 
+<count><interpretation modern_unit="" modern_value="7" system="cardinal" unit="" value="7"/>7(disz)</count> |ZI&ZI|-sze3 ki-{d}suen 
+<count><interpretation modern_unit="" modern_value="17" system="cardinal" unit="" value="17"/>2(u) la2 3(disz)</count> <com dist="1">im-du8-a</com> 
+<count><interpretation modern_unit="" modern_value="1" system="cardinal" unit="" value="1"/>1(disz)</count> tu al-la 
+<count><interpretation modern_unit="" modern_value="1" system="cardinal" unit="" value="1"/>1(disz)</count> tu lu2-e2-a 
+<count><interpretation modern_unit="" modern_value="1" system="cardinal" unit="" value="1"/>1(disz)</count> gudu4 {d}mes-lam-ta-e3-a 
+szunigin <count><interpretation modern_unit="" modern_value="188" system="cardinal" unit="" value="188"/>3(gesz2) 8(disz)</count> <com dist="1">gurusz</com> gub-ba 
+<count><interpretation modern_unit="" modern_value="4" system="cardinal" unit="" value="4"/>4(disz)</count> iri-ta nu-banda3 igi-zu-bar-ra 
+<count><interpretation modern_unit="" modern_value="3" system="cardinal" unit="" value="3"/>3(disz)</count> iri-ta la2-ia3 <count><interpretation modern_unit="" modern_value="2" system="cardinal" unit="" value="2"/>2(disz)</count> nu-banda3 <com dist="1">ur-{gesz}gigir</com> 
+u4 <count><interpretation modern_unit="" modern_value="30" system="cardinal" unit="" value="30"/>3(u) la2</count> <count><interpretation modern_unit="" modern_value="1" system="cardinal" unit="" value="1"/>1(disz)-kam</count> 
+iti ezem-{d}li9-si4 
+</commodities>

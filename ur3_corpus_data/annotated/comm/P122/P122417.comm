@@ -1,0 +1,21 @@
+<commodities>
+#P122417 = NRVN 1, 200
+#atf: lang sux
+#tr.en: 3 shekels silver,
+#tr.en: its exchange value: 4 gur 1 barig 3 ban2 barley,
+# calculation: 3 × 1;2,1 = 4;1,3
+#tr.en: from Katar
+#tr.en: did Alulu, the soldier,
+#tr.en: receive;
+#tr.en: month “Harvest,”
+#tr.en: year after: “Kimaš was destroyed;”
+#tr.en: in month “Bricks” to be returned.
+<count><interpretation modern_unit="" modern_value="0.05" system="cardinal" unit="" value="0.05"/>3(disz) gin2</count> <com dist="1">ku3-babbar</com> 
+nig2-sa10-bi <count>4(asz) 1(barig) 3(ban2) sze gur</count> 
+<com dist="1">ki</com> ka-tar-ta 
+a-lu5-lu5 aga3-us2 
+szu ba-ti 
+iti sze-sag11-ku5 
+mu us2 ki-masz{ki} ba-hul-a 
+iti sig4 gi4-gi4-dam 
+</commodities>

@@ -1,0 +1,24 @@
+<commodities>
+#P121190 = NATN 492
+#atf: lang sux
+# 60 x 26 x 1/2 = 780
+# ((26 + 58)/2 =) 42 x 70 = 2940
+i 
+n <count><interpretation modern_unit="" modern_value="11.5" system="cardinal" unit="" value="11.5"/>1(u) 1(disz) 1/2(disz)</count> nu-lum <count><interpretation modern_unit="" modern_value="57.5" system="cardinal" unit="" value="57.5"/>5(u) 7(disz) 1/2(disz)</count> <com dist="1">lum</com> 
+a. <count><interpretation modern_unit="" modern_value="60" system="cardinal" unit="" value="60"/>1(gesz2)</count> 
+b. <count><interpretation modern_unit="" modern_value="26" system="cardinal" unit="" value="26"/>2(u) 6(disz)</count> 
+c. <count><interpretation modern_unit="" modern_value="780" system="cardinal" unit="" value="780"/>1(geszu) 3(gesz2)</count> 
+a. <count><interpretation modern_unit="" modern_value="26" system="cardinal" unit="" value="26"/>2(u) 6(disz)</count> 
+b. <count><interpretation modern_unit="" modern_value="70" system="cardinal" unit="" value="70"/>1(gesz2) 1(u)</count> 
+c. <count><interpretation modern_unit="" modern_value="58" system="cardinal" unit="" value="58"/>5(u) 8(disz)</count> 
+d. <count><interpretation modern_unit="" modern_value="2940" system="cardinal" unit="" value="2940"/>4(geszu) 9(gesz2)</count> 
+a. <count><interpretation modern_unit="m" modern_value="420" system="length" unit="gi" value="140"/>1(gesz2) 1(u) ninda</count> 
+b. <count><interpretation modern_unit="m" modern_value="840" system="length" unit="gi" value="280"/>2(gesz2) 2(u) ninda</count> 
+<count><interpretation modern_unit="" modern_value="none" system="unknown" unit="" value="none"/><interpretation modern_unit="" modern_value="none" system="unknown" unit="" value="none"/><interpretation modern_unit="" modern_value="none" system="unknown" unit="" value="none"/>3(gesz2) 5(u) sar ...</count> 
+<count><interpretation modern_unit="" modern_value="none" system="unknown" unit="" value="none"/><interpretation modern_unit="" modern_value="none" system="unknown" unit="" value="none"/><interpretation modern_unit="" modern_value="none" system="unknown" unit="" value="none"/>1(szar2) 2(geszu) 2(gesz2) sar x ...</count> 
+<count><interpretation modern_unit="" modern_value="7200" system="cardinal" unit="" value="7200"/>2(szar2)</count> n szar ... 
+n GAN2 
+... x 
+... e2-gal-ka 
+mu us2-sa ki-masz{ki} ba-hul-a mu ab-us2-a 
+</commodities>

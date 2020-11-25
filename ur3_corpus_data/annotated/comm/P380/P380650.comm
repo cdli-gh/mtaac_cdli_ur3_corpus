@@ -1,0 +1,19 @@
+<commodities>
+#P380650 = PPAC 5, 1751
+#atf: lang sux
+# for il2?
+# written on dry clay
+<count>2(barig) 3(ban2) sze</count> 
+ugula ab-ba-kal-la 
+<count><interpretation modern_unit="l" modern_value="150" system="dry capacity" unit="sila3" value="150"/>2(barig) 3(ban2)</count> lugal-ma2-gur8-re 
+<count><interpretation modern_unit="l" modern_value="30" system="dry capacity" unit="sila3" value="30"/>3(ban2)</count> ka-tar 
+<count><interpretation modern_unit="l" modern_value="36" system="dry capacity" unit="sila3" value="36"/>3(ban2) 6(disz) sila3</count> lugal-nir-gal2 
+<count><interpretation modern_unit="l" modern_value="5" system="liquid capacity" unit="sila3" value="5"/><interpretation modern_unit="l" modern_value="5" system="dry capacity" unit="sila3" value="5"/>5(disz) sila3</count> a2 ma2 hun-ga2 <com dist="1">ki</com> eridu{ki}-sze3 sze ga 
+<count><interpretation modern_unit="l" modern_value="30" system="dry capacity" unit="sila3" value="30"/>3(ban2)</count> geme2-nigar{gar} 
+<count>1(barig) sze</count> ziz2-a <com dist="1">szu</com> bala ak 
+<count><interpretation modern_unit="l" modern_value="60" system="dry capacity" unit="sila3" value="60"/>1(barig)</count> ur-{d}dumu-zi-da 
+<count><interpretation modern_unit="l" modern_value="10" system="dry capacity" unit="sila3" value="10"/>1(ban2)</count> ur-{d}hal-mu-sza4 
+<count><interpretation modern_unit="l" modern_value="10" system="dry capacity" unit="sila3" value="10"/>1(ban2)</count> ur-li 
+szunigin <count><interpretation modern_unit="l" modern_value="591" system="dry capacity" unit="sila3" value="591"/>1(asz) 4(barig) 5(ban2) 1(disz) sila3 sze gur</count> 
+iti {d}dumu-zi 
+</commodities>

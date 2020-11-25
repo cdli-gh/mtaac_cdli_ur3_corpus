@@ -1,0 +1,25 @@
+<commodities>
+#P128438 = RTC 284
+#version: 0.1
+#atf: lang sux
+#lem: n; tug[textile]; u; guz[tufted]
+#lem: u; szakkanak[general]
+#lem: PN; dumu[child]; DN; maszkim[administrator]
+#lem: n; tug[textile]; bardul[garment]; guz[tufted]
+#lem: GN
+#lem: jiri[foot]; PN; dumu[child]; PN
+#lem: zig[rise]
+#lem: PN
+#lem: itud[moon]; MN
+#lem: mu[year]; e[house]; hursaj[mountain]; du[build]
+<count><interpretation modern_unit="" modern_value="1" system="cardinal" unit="" value="1"/>1(disz)</count> <com dist="1">tug2</com> x guz-za 
+lu2-x-x-AN szagina 
+lu2-du10-ga dumu x-e maszkim 
+<count><interpretation modern_unit="" modern_value="1" system="cardinal" unit="" value="1"/>1(disz)</count> <com dist="1">tug2</com> bar-dul5 guz-za 
+nibru{ki}-sze3 
+giri3 lam-lam-ma dumu ur-{d}suen 
+zi-ga 
+la-la 
+iti amar-a-a-si 
+mu e2 hur-sag ba-du3 
+</commodities>

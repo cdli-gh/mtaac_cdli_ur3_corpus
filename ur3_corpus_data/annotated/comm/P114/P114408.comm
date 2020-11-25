@@ -1,0 +1,44 @@
+<commodities>
+#P114408 = CDLJ 2015/002 §2.36
+#atf: lang sux
+#tr.en: 2 gur 1 barig barley
+#tr.en: (and) 2 barig emmer,
+#tr.en: seized grain
+#tr.en: (from) the field Baba-tursu,
+#tr.en: via Lugal-Niginše,
+#tr.en: Ur-Su’ana
+#tr.en: received (it)
+#tr.en: in Girsu;
+#tr.en: year after “Stele.”
+#tr.en: 2 gur 1 barig barley, royal (measure),
+#tr.en: (and) 2 barig emmer,
+#tr.en: seized grain (from) the field Baba-tursu,
+# seal impression
+#tr.en: via Lugal-Niginše,
+#tr.en: under seal of Ur-Su’ana;
+#tr.en: in Girsu;
+#tr.en: year after “Šū-Suen, king of Ur, Great Stele for Enlil and Ninlil erected.”
+# EN-SU
+#tr.en: Ur-Su’ana,
+#tr.en: the scribe,
+#tr.en: son (of) Lu-Gešbare.
+<count>2(asz) 1(barig) sze gur</count> 
+<count><interpretation modern_unit="l" modern_value="120" system="dry capacity" unit="sila3" value="120"/>2(barig)</count> <com dist="1">ziz2</com> 
+sze dab5-ba 
+a-sza3 {d}ba-ba6-tur3-su3 
+giri3 lugal-nigin6{ki}-sze3 
+ur-{d}su4-an-na 
+szu ba-ti 
+sza3 gir2-su{ki} 
+mu-us2-sa na-ru2-a 
+<count>2(asz) 1(barig) sze gur</count> lugal 
+<count><interpretation modern_unit="l" modern_value="120" system="dry capacity" unit="sila3" value="120"/>2(barig)</count> <com dist="1">ziz2</com> 
+sze dab5-ba a-sza3 {d}ba-ba6-tur3-su3 
+giri3 lugal-nigin6{ki}-sze3 
+kiszib3 ur-{d}su4-an-na 
+sza3 gir2-su{ki} 
+mu us2-sa {d}szu-{d}suen lugal uri5{ki}-ma-ke4 na-ru2-a-mah {d}en-lil2 {d}nin-lil2-ra mu-ne-du3 
+ur-{d}su4-an-na 
+dub-sar 
+dumu lu2-{d}gesz-bar-e3 
+</commodities>

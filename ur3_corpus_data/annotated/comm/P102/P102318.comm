@@ -1,0 +1,20 @@
+<commodities>
+#P102318 = ASJ 09, 256 42
+#atf: lang sux
+#tr.en: 2 sheep, grain-fed,
+#tr.en: 7th day,
+#tr.en: from Abbasaga
+#tr.en: Aḫu-wer
+#tr.en: accepted;
+#tr.en: month: “Festival of Ninazu,”
+#tr.en: year: “Enmaḫgalana, priestess of Nanna, was installed;”
+#tr.en: (total:) 2.
+<count><interpretation modern_unit="" modern_value="2" system="cardinal" unit="" value="2"/>2(disz)</count> <com dist="1">udu</com> niga 
+u4 <count><interpretation modern_unit="" modern_value="7" system="cardinal" unit="" value="7"/>7(disz)-kam</count> 
+<com dist="1">ki</com> ab-ba-sa6-ga-ta 
+a-hu-we-er 
+i3-dab5 
+iti ezem-{d}nin-a-zu 
+mu en-mah-gal-an-na en {d}nanna ba-hun 
+<count><interpretation modern_unit="" modern_value="2" system="cardinal" unit="" value="2"/>2(disz)</count> 
+</commodities>

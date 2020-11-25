@@ -1,0 +1,13 @@
+<commodities>
+#P100274 = Aegyptus 29, 110 41
+#atf: lang sux
+<count><interpretation modern_unit="l" modern_value="3" system="liquid capacity" unit="sila3" value="3"/><interpretation modern_unit="l" modern_value="3" system="dry capacity" unit="sila3" value="3"/>3(disz) sila3</count> lu2-la 
+<count><interpretation modern_unit="l" modern_value="3" system="liquid capacity" unit="sila3" value="3"/><interpretation modern_unit="l" modern_value="3" system="dry capacity" unit="sila3" value="3"/>3(disz) sila3</count> de2-a 
+<count><interpretation modern_unit="l" modern_value="2" system="liquid capacity" unit="sila3" value="2"/><interpretation modern_unit="l" modern_value="2" system="dry capacity" unit="sila3" value="2"/>2(disz) sila3</count> lu2-ur-dingir 
+x x x <count><interpretation modern_unit="" modern_value="3" system="cardinal" unit="" value="3"/>3(disz)</count> mu 
+<count><interpretation modern_unit="" modern_value="none" system="unknown" unit="" value="none"/>3(disz) x x</count> sa2-du11 
+<count><interpretation modern_unit="l" modern_value="2" system="dry capacity" unit="sila3" value="2"/>2(disz) sila3 sze</count> udul2 
+szunigin <count><interpretation modern_unit="l" modern_value="12" system="dry capacity" unit="sila3" value="12"/>1(ban2) 2(disz) sila3</count> <com dist="1">zi3-gu</com> saga 
+szunigin <count><interpretation modern_unit="l" modern_value="48" system="dry capacity" unit="sila3" value="48"/>4(ban2) 8(disz) sila3</count> sa2-du11 
+u4 <count><interpretation modern_unit="" modern_value="27" system="cardinal" unit="" value="27"/>2(u) 7(disz)</count> 
+</commodities>

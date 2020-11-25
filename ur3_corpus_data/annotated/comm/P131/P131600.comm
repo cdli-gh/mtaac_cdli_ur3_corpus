@@ -1,0 +1,44 @@
+<commodities>
+#P131600 = TCL 02, 5511
+#atf: lang sux
+# 1(ban2) erased ?
+# calculation: 13;4,0,6 + 1;2,3 + 72;1,4 + 97;0,0 + 4;0,4 = 187;3,5,6
+# calculation: 6;1,3 + 0;3,4,5 + 0;3,4,5 + 2;1,0 + 1;1,1 = 11;1,1
+# calculation: 11;1,1 × 13 = 146;0,1
+# calculation: 146;0,1 + 8;4,1 + 2;2,2,9 = 157;1,4,9
+# calculation: 187;3,5,6 - 157;1,4,9 = 30;2,0,7
+<count><interpretation modern_unit="l" modern_value="4146" system="dry capacity" unit="sila3" value="4146"/>1(u) 3(asz) 4(barig) 6(disz) sila3 sze gur</count> 
+szu-igi-du 
+<count><interpretation modern_unit="l" modern_value="450" system="dry capacity" unit="sila3" value="450"/>1(asz) 2(barig) 3(ban2) gur</count> iti-de3 la2-a 
+<count><interpretation modern_unit="l" modern_value="21700" system="dry capacity" unit="sila3" value="21700"/>1(gesz2) 1(u) 2(asz) 1(barig) 4(ban2) gur</count> 
+<com dist="1">ki</com> ur-{d}en-lil2-la2-ta 
+<count><interpretation modern_unit="l" modern_value="29100" system="dry capacity" unit="sila3" value="29100"/>1(gesz2) 3(u) 7(asz) gur</count> e2-kiszib3-ba-ta 
+<com dist="1">ki</com> ur-gu-la-ta 
+<count><interpretation modern_unit="l" modern_value="2140" system="dry capacity" unit="sila3" value="2140"/>7(asz) 4(ban2)</count> la2-ia3 su-ga 
+<com dist="1">ki</com> ur-{d}ig-alim dumu lu2-gi-na-ta 
+szunigin <count><interpretation modern_unit="l" modern_value="56336" system="dry capacity" unit="sila3" value="56336"/>3(gesz2) 7(asz) 3(barig) 5(ban2) 6(disz) sila3 gur</count> 
+sza3-bi-ta 
+<count><interpretation modern_unit="l" modern_value="1890" system="dry capacity" unit="sila3" value="1890"/>6(asz) 1(barig) 3(ban2)</count> sa2-du11 {d}szu-{d}suen 
+<count><interpretation modern_unit="l" modern_value="225" system="dry capacity" unit="sila3" value="225"/>3(barig) 4(ban2) 5(disz) sila3</count> geme2-gu2-en-na 
+<count><interpretation modern_unit="l" modern_value="225" system="dry capacity" unit="sila3" value="225"/>3(barig) 4(ban2) 5(disz) sila3</count> geme2-{d}szul-pa-e3 
+sa2-du11 ki-a-nag 
+<count><interpretation modern_unit="l" modern_value="660" system="dry capacity" unit="sila3" value="660"/>2(asz) 1(barig)</count> <com dist="1">sze-ba</com> giri3-se3-ga ensi2 
+<count><interpretation modern_unit="l" modern_value="370" system="dry capacity" unit="sila3" value="370"/>1(asz) 1(barig) 1(ban2)</count> giri3-se3-ga e2 {d}szu-{d}suen 
+($ blank space $) <count><interpretation modern_unit="l" modern_value="3370" system="dry capacity" unit="sila3" value="3370"/>1(u) 1(asz) 1(barig) 1(ban2) gur</count> 
+sa2-du11 <com dist="1">sze-ba</com> 
+iti <count><interpretation modern_unit="" modern_value="1" system="cardinal" unit="" value="1"/>1(disz)-kam</count> iti <count><interpretation modern_unit="" modern_value="13" system="cardinal" unit="" value="13"/>1(u) 3(disz)-sze3</count> 
+<com dist="1">sze-bi</com> <count><interpretation modern_unit="l" modern_value="43810" system="dry capacity" unit="sila3" value="43810"/>2(gesz2) 2(u) 6(asz) 1(ban2) gur</count> 
+<count><interpretation modern_unit="l" modern_value="2220" system="dry capacity" unit="sila3" value="2220"/>7(asz) 2(barig)</count> szu-{d}suen 
+<count><interpretation modern_unit="l" modern_value="430" system="dry capacity" unit="sila3" value="430"/>1(asz) 2(barig) 1(ban2)</count> ki-a-nag 
+nig2-ezem-ma za3-mu-ka 
+<count><interpretation modern_unit="l" modern_value="749" system="dry capacity" unit="sila3" value="749"/>2(asz) 2(barig) 2(ban2) 9(disz) sila3</count> e2-udu-sze3 ur-kisal 
+x nig2-ezem-ma nu-zi-ga x n-kam mu ur-{d}lamma na-ba-na-zi 
+szunigin <count><interpretation modern_unit="l" modern_value="47209" system="dry capacity" unit="sila3" value="47209"/>2(gesz2) 3(u) 7(asz) 1(barig) 4(ban2) 9(disz) sila3 gur</count> 
+zi-ga 
+la2-ia3 <count><interpretation modern_unit="l" modern_value="9127" system="dry capacity" unit="sila3" value="9127"/>3(u) 2(barig) 7(disz) sila3 gur</count> 
+nig2-ka9-ak ur-{d}lamma dumu ur-mes 
+mu e2 {d}szara2 <com dist="1">ba-du3</com> 
+ur-{d}lamma 
+dumu ur-mes 
+lu2 lunga 
+</commodities>

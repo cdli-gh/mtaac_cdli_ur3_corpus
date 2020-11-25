@@ -1,0 +1,9 @@
+<commodities>
+#P138597 = UET 9, 0466 
+#atf: lang sux 
+... <count><interpretation modern_unit="g" modern_value="10000.0" system="weight" unit="gin2" value="1200"/>2(u) ma-na</count> <com dist="1">im-babbar2</com> ... 
+... <count><interpretation modern_unit="g" modern_value="15000.000000000002" system="weight" unit="gin2" value="1800"/>3(u) ma-na</count> <com dist="1">im-babbar2</com> <count><interpretation modern_unit="" modern_value="none" system="unknown" unit="" value="none"/>3(u) ...</count> 
+...-i3 <count><interpretation modern_unit="g" modern_value="20000.0" system="weight" unit="gin2" value="2400"/>4(u) ma-na</count> <com dist="1">im-babbar2</com> <count><interpretation modern_unit="" modern_value="none" system="unknown" unit="" value="none"/>4(disz) ...</count> 
+...-i3 <count><interpretation modern_unit="g" modern_value="15000.000000000002" system="weight" unit="gin2" value="1800"/>3(u) ma-na</count> <com dist="1">im-babbar2</com> ... 
+... duh i3 <count><interpretation modern_unit="g" modern_value="15000.000000000002" system="weight" unit="gin2" value="1800"/>3(u) ma-na</count> im-babbar2 ... 
+</commodities>

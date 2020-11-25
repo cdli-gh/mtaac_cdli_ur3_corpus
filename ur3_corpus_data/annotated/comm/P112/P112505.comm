@@ -1,0 +1,59 @@
+<commodities>
+#P112505 = YNER 08, 13
+#atf: lang sux
+#tr.en: 70 gur barley, 1 gur 5 ban2 each,
+#tr.en: 110 gur, 1 gur 4 ban2 each,
+#tr.en: its silver: 2 1/2 mana 7 shekels 9 1/2 grains,
+# calculation: (70 ÷ 350/300) + (110 ÷ 340/300) ≈ 157 10.6/180 (text has 157 9.5/180)
+#tr.en: year: “Šu-Suen is king;”
+#tr.en: 70 gur barley,
+#tr.en: its silver: 1 mana 10 shekels,
+# calculation: 70 ÷ 300/300 = 70
+#tr.en: year: “The barge Dara-abzu-of-Enki was calked;”
+#tr.en: 134 gur,
+#tr.en: its silver: 2 1/2 (mana) 7 1/2 (shekels),
+# calculation: 134 ÷ 255/300 ≈ 157 116.5/180 (text has 157 90/180)
+# ma of ma-na on tablet, partially erased
+#tr.en: year: “Simanum was destroyed;”
+#tr.en: barley for silver exchanged;
+#tr.en: 6.57;20 0;0,15
+# calculation: 157 9.5/180 + 70 + 157 90/180 + 32 155/180 [rev. 1] = 417 74.5/180 (text has 6.57;20 15 = 417 1/3 + 15 = 417 (60 + 15 =)75/180)
+#tr.en: 1/2 mana 2 5/6 shekels 5 grains silver,
+#tr.en: replaced deficit, forman of the mill, regular offering of the governor;
+#tr.en: total: 6 5/6 mana 7 1/2 shekels 15 grains,
+# error 1/2 for 0;20 of sexagesimal notation bottom of obverse
+#tr.en: therefrom:
+#tr.en: 14 shekels, exchange middle for ... bronze, copper, standards, ...,
+#tr.en: 4 1/2 mana silver,
+#tr.en: under seal of the governor,
+#tr.en: the deficit: 2 mana 13 shekels silver,
+# calculation: 417 105/180 - (14 120/180 + 270) = 132 165/180 (text has 133, potentially with la2 1(u) 5(disz) squeezed in below)
+#tr.en: account of silver of the governor,
+#tr.en: via Lukalla;
+#tr.en: from year: “Šu-Suen is king”
+#tr.en: to year after: “Amorite Wall was erected.”
+<count><interpretation modern_unit="l" modern_value="350.00648148148144" system="dry capacity" unit="sila3" value="350.00648148148144"/>1(gesz2) 1(u) sze gur 1(asz) 5(ban2)</count> gur-ta 
+<count><interpretation modern_unit="l" modern_value="33340" system="dry capacity" unit="sila3" value="33340"/>1(gesz2) 5(u) gur 1(asz) 4(ban2)</count> gur-ta 
+<com dist="1">ku3-bi</com> <count><interpretation modern_unit="g" modern_value="1308.7731481481483" system="weight" unit="gin2" value="157.05277777777778"/>2(disz) 1/2(disz) ma-na 7(disz) gin2 9(disz) 1/2(disz) sze</count> 
+mu {d}szu-{d}suen lugal 
+<count><interpretation modern_unit="l" modern_value="21000" system="dry capacity" unit="sila3" value="21000"/>1(gesz2) 1(u) gur</count> 
+<com dist="1">ku3-bi</com> <count><interpretation modern_unit="g" modern_value="583.3333333333334" system="weight" unit="gin2" value="70"/>1(disz) ma-na 1(u) gin2</count> 
+mu ma2 dara3-ab-zu-{d}en-ki <com dist="1">ba-ab-du8</com> 
+<count><interpretation modern_unit="l" modern_value="40200" system="dry capacity" unit="sila3" value="40200"/>2(gesz2) 1(u) 4(asz) gur</count> 
+<com dist="1">ku3-bi</com> <count><interpretation modern_unit="g" modern_value="1312.5" system="weight" unit="gin2" value="157.5"/>2(disz) 1/2(disz) ma-na 7(disz) 1/2(disz) gin2</count> 
+mu si-ma-num2{ki} ba-hul 
+<com dist="1">sze</com> ku3-sze3 sa10-a 
+($ blank space $) <count><interpretation modern_unit="" modern_value="98" system="cardinal" unit="" value="98"/>6(disz) 5(u) 7(disz) 2(u) 1(u) 5(disz)</count> 
+<count><interpretation modern_unit="g" modern_value="273.84259259259267" system="weight" unit="gin2" value="32.861111111111114"/>1/2(disz) ma-na 2(disz) 5/6(disz) gin2 5(disz) sze</count> <com dist="1">ku3-babbar</com> 
+la2-ia3 su-ga ugula kikken2 sa2-du11 ensi2-ka 
+szunigin <count><interpretation modern_unit="g" modern_value="3479.8611111111113" system="weight" unit="gin2" value="417.5833333333333"/>6(disz) 5/6(disz) ma-na 7(disz) 1/2(disz) gin2 1(u) 5(disz) sze</count> 
+sza3-bi-ta 
+<count><interpretation modern_unit="" modern_value="0.24444444444444444" system="cardinal" unit="" value="0.24444444444444444"/>1(u) 4(disz) 2/3(disz) gin2</count> sa10-am3 x x x zabar <com dist="1">uruda</com> szu-nir-ra x 
+<count><interpretation modern_unit="g" modern_value="2250.0" system="weight" unit="gin2" value="270.0"/>4(disz) 1/2(disz) ma-na</count> <com dist="1">ku3-babbar</com> 
+kiszib3 ensi2-ka 
+la2-ia3 <count><interpretation modern_unit="g" modern_value="1108.3333333333335" system="weight" unit="gin2" value="133"/>2(disz) ma-na 1(u) 3(disz) gin2</count> <com dist="1">ku3-babbar</com> x 
+nig2-ka9-ak ku3 ensi2-ka 
+giri3 lu2-kal-la 
+mu {d}szu-{d}suen lugal-ta 
+mu us2-sa bad3 mar-tu ba-du3-sze3 
+</commodities>

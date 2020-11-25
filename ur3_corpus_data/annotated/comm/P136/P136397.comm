@@ -1,0 +1,10 @@
+<commodities>
+#P136397 = UET 3, 0080
+#atf: lang sux
+<count><interpretation modern_unit="l" modern_value="390" system="liquid capacity" unit="sila3" value="390"/>1(u) 3(disz) dug</count> <com dist="1">ninda</com> <count><interpretation modern_unit="l" modern_value="5" system="liquid capacity" unit="sila3" value="5"/><interpretation modern_unit="l" modern_value="5" system="dry capacity" unit="sila3" value="5"/>5(disz) sila3</count> 
+<count><interpretation modern_unit="l" modern_value="120" system="liquid capacity" unit="sila3" value="120"/>4(disz) dug</count> <com dist="1">ninda</com> <count><interpretation modern_unit="l" modern_value="4" system="liquid capacity" unit="sila3" value="4"/><interpretation modern_unit="l" modern_value="4" system="dry capacity" unit="sila3" value="4"/>4(disz) sila3</count> 
+ezem {d}szul-gi ba-ak 
+ur-{d}nin-gubalag 
+i3-zi 
+iti ezem-{d}szul-gi 
+</commodities>

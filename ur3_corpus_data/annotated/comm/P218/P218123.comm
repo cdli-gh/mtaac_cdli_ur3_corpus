@@ -1,0 +1,25 @@
+<commodities>
+#P218123 = SANTAG 7, 048
+#atf: lang sux
+... ti 
+... ta 
+... sze gur 
+... u4 <count><interpretation modern_unit="" modern_value="124" system="cardinal" unit="" value="124"/>2(gesz2) 4(disz)</count> 
+... ta 
+x <count><interpretation modern_unit="" modern_value="1" system="cardinal" unit="" value="1"/>1(disz)</count> <com dist="1">gurusz</com> iti <count><interpretation modern_unit="" modern_value="1" system="cardinal" unit="" value="1"/>1(disz)-sze3</count> 
+<com dist="1">a2-bi</com> u4 <count><interpretation modern_unit="" modern_value="60" system="cardinal" unit="" value="60"/>1(gesz2)-kam</count> 
+... nar-{d}szara2 
+... <com dist="1">gurusz</com> iti <count><interpretation modern_unit="" modern_value="1" system="cardinal" unit="" value="1"/>1(disz)-sze3</count> 
+<com dist="1">a2-bi</com> u4 <count><interpretation modern_unit="" modern_value="300" system="cardinal" unit="" value="300"/>5(gesz2)-kam</count> 
+... ur-{d}... 
+<count><interpretation modern_unit="" modern_value="none" system="unknown" unit="" value="none"/>1(disz) ...</count> 
+<count><interpretation modern_unit="" modern_value="none" system="unknown" unit="" value="none"/>1(gesz2) 2(u) 3(disz) ...</count> 
+<count><interpretation modern_unit="" modern_value="none" system="unknown" unit="" value="none"/>2(u) la2 1(disz) ...</count> 
+<count><interpretation modern_unit="" modern_value="none" system="unknown" unit="" value="none"/>3(u) 3(disz) ...</count> 
+<count><interpretation modern_unit="" modern_value="none" system="unknown" unit="" value="none"/>4(u) la2 1(disz) x ...</count> 
+<count><interpretation modern_unit="" modern_value="none" system="unknown" unit="" value="none"/>3(u) ...</count> 
+<count><interpretation modern_unit="" modern_value="none" system="unknown" unit="" value="none"/>4(u) 5(disz) ...</count> 
+<count><interpretation modern_unit="" modern_value="none" system="unknown" unit="" value="none"/>3(gesz2) ...</count> 
+<count><interpretation modern_unit="" modern_value="none" system="unknown" unit="" value="none"/>3(gesz2) 5(disz) ...</count> 
+<count><interpretation modern_unit="" modern_value="none" system="unknown" unit="" value="none"/>1(gesz2) ...</count> 
+</commodities>

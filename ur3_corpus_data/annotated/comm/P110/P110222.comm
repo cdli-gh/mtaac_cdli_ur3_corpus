@@ -1,0 +1,13 @@
+<commodities>
+#P110222 = HLC 351 (pl. 134)
+#atf: lang sux
+<count>1(gesz2) 3(u) 8(asz) 3(barig) sze gur</count> lugal 
+<count><interpretation modern_unit="l" modern_value="3600" system="dry capacity" unit="sila3" value="3600"/>1(u) 2(asz) gur sze</count> su-us2 dar-ra 
+x <count><interpretation modern_unit="" modern_value="1" system="cardinal" unit="" value="1"/>1(disz)-am3</count> 
+... <count><interpretation modern_unit="" modern_value="none" system="unknown" unit="" value="none"/>4(ban2) 3(disz) sila3 ...</count> 
+... <count><interpretation modern_unit="m^2" modern_value="64800.0" system="surface" unit="gin2" value="108000"/>1(bur3) gan2</count> ... 
+szunigin <count>9(gesz2) 5(u) 8(asz) 3(barig) 2(ban2) sze gur</count> 
+<com dist="1">sze</com> gesz e3-a 
+e2 {d}nin-gir2-su 
+a-sza3 dam 
+</commodities>

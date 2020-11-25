@@ -1,0 +1,19 @@
+<commodities>
+#P137728 = UET 3, 1403
+#atf: lang sux
+#tr.de: 1047 Arbeitsleistung in Arbeiter zu 1 Tag:
+#tr.de: Arbeitsleistung der Lang(stock)-Arbeiter,
+#tr.de: pro Monat je 5/6 Sekel Silber,
+#tr.de: das dazugehörige Silber(äquivalent): 1/3 mana 9 Sekel 15 Gran
+# calculation: 1047 ÷ 30 x 5/6 = 29 15/180
+#tr.de: eingegangen.
+#tr.de: Es ist auf die Abrechnung des Lagerhauses (über)tragen worden.
+#tr.de: Jahr: ‘Amar-Suen, der König, had Urbilum zerstört’ (Amar-Suen 2).
+<count><interpretation modern_unit="" modern_value="1047" system="cardinal" unit="" value="1047"/>1(geszu) 7(gesz2) 2(u) 7(disz)</count> a2 <com dist="1">gurusz</com> u4 <count><interpretation modern_unit="" modern_value="1" system="cardinal" unit="" value="1"/>1(disz)-sze3</count> 
+a2 <com dist="1">gurusz</com> gid2-da iti <count><interpretation modern_unit="" modern_value="1" system="cardinal" unit="" value="1"/>1(disz)-sze3</count> 
+<count><interpretation modern_unit="" modern_value="0.01388888888888889" system="cardinal" unit="" value="0.01388888888888889"/>5/6(disz) gin2</count> <com dist="1">ku3-babbar-ta</com> 
+ku3-bi <count><interpretation modern_unit="g" modern_value="242.36111111111114" system="weight" unit="gin2" value="29.083333333333336"/>1/3(disz) ma-na 9(disz) gin2 1(u) 5(disz) sze</count> 
+mu-kux(DU) 
+nig2-ka9 e2-kiszib3-ba-ke4 ba-ab-IL2 
+mu {d}amar-{d}suen lugal ur-bi2-lum{ki} mu-hul 
+</commodities>

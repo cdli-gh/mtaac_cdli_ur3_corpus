@@ -1,0 +1,81 @@
+<commodities>
+#P102522 = ASJ 14, 099 1
+#atf: lang sux
+#tr.en: 1 1/3 mana, 1 shekel, 20 grains of silver,
+#tr.en: remaining (deficit)
+# some text moved to next line
+#tr.en: <<from the month [“harvest”(?)]
+# some text moved to next line
+#tr.en: through the month “nesag sacrifice”>>.
+#tr.en: 6 1/3 shekels from Lu-Inanna(?)
+# added later over erasure
+# erasures
+#tr.en: Therefrom:
+#tr.en: 1 1/3 mana suḫe,
+#tr.en: its silver equivalent: 1 1/3 shekels,
+# calculation: 1 1/3 ÷ 1 (mana per shekel) = 1 1/3
+#tr.en: 4 barig 5 sila3 garlic of poor appearance(?),
+#tr.en: its silver equivalent: 4 shekels 15 grains,
+# calculation: 245 sila3 ÷ 60 (sila3 per shekel) = 4 15/180
+#tr.en: sealed tablet of Lukalla.
+#tr.en: 2 barig, 5 ban2 of coriander,
+#tr.en: its silver equivalent: 1 2/3 shekels, 6 grains,
+# calculation: 170 sila3 ÷ 100 (sila3 per shekel) = 1 126/180
+#tr.en: 1 barig, 1 ban, 8 2/3 sila of raisins,
+#tr.en: their silver equivalent: 1 2/3 shekels, 14 2/3 grains,
+# calculation: 78 2/3 sila3 ÷ 45 (sila3 per shekel) = 1 134.67/180
+#tr.en: nigdab(-offering) of “Holy Hill,”
+#tr.en: sealed tablet of Lugal-niglagar-e.
+#tr.en: 98 talents [n of dried bitumen]
+#tr.en: its silver equivalent: 9 shekels [n]
+# calculation: 178 gu2 ÷ 11 (gu2 per shekel) = 9 -16.67/180
+#tr.en: sealed tablet of Adumu.
+#tr.en: 9 5/6 mana of copper,
+#tr.en: its silver equivalent: 5 1/3 shekels, 6 grains,
+# calculation: 9 5/6 mana ÷ 1 5/6 (mana per shekel) = 5 66/180
+#tr.en: 14 shekels of suhe,
+#tr.en: its silver equivalent: 1/4 (shekel) minus 3 grains,
+# calculation: 14 gin2 ÷ 60 (gin2 per shekel) = 42/180
+#tr.en: sealed document of Lu-Enlila.
+# erasure
+#tr.en: Total: 1/3 mana, 3 1/3 shekels, 7 grains of silver
+# calculation: 1 60/180 + 4 15/180 + 1 126/180 + 1 134.67/180 + 9 -16.67/180 + 5 66/180 + 42/180 = 23 67/180 shekels
+#tr.en: booked out.
+#tr.en: Deficit: 1 mana, 4 shekels, 13 grains of silver.
+# calculation: (81 20/180 + 6 60/180) - 23 67/180 = 64 13/180
+#tr.en: Account of Pada.
+#tr.en: Month: “mineš,”
+# some text moved to next line
+#tr.en: year: “Šu-Suen is king.”
+<count><interpretation modern_unit="g" modern_value="675.925925925926" system="weight" unit="gin2" value="81.11111111111111"/>1(disz) 1/3(disz) ma-na 1(disz) gin2 2(u) sze</count> <com dist="1">ku3-babbar</com> 
+si-i3-tum 
+iti sze-sag11-ku5-ta 
+iti nesag-sze3 
+<count><interpretation modern_unit="" modern_value="0.10555555555555556" system="cardinal" unit="" value="0.10555555555555556"/>6(disz) 1/3(disz) gin2</count> <com dist="1">ki</com> lu2-{d}inanna-ta 
+sza3-bi-ta 
+<count><interpretation modern_unit="g" modern_value="666.6666666666667" system="weight" unit="gin2" value="80.0"/>1(disz) 1/3(disz) ma-na</count> su-he2 
+<com dist="1">ku3-bi</com> <count><interpretation modern_unit="" modern_value="0.02222222222222222" system="cardinal" unit="" value="0.02222222222222222"/>1(disz) 1/3(disz) gin2</count> 
+<count><interpretation modern_unit="l" modern_value="245" system="dry capacity" unit="sila3" value="245"/>4(barig) 5(disz) sila3</count> <com dist="1">szum2-sikil</com> igi nu-saga 
+ku3-bi <count><interpretation modern_unit="" modern_value="0.06805555555555555" system="cardinal" unit="" value="0.06805555555555555"/>4(disz) gin2 1(u) 5(disz) sze</count> 
+kiszib3 lu2-kal-la 
+<count><interpretation modern_unit="l" modern_value="170" system="dry capacity" unit="sila3" value="170"/>2(barig) 5(ban2)</count> <com dist="1">sze-lu2</com> 
+ku3-bi <count><interpretation modern_unit="" modern_value="0.028333333333333332" system="cardinal" unit="" value="0.028333333333333332"/>1(disz) 2/3(disz) gin2 6(disz) sze</count> 
+<count><interpretation modern_unit="l" modern_value="78.66666666666666" system="dry capacity" unit="sila3" value="78.66666666666666"/>1(barig) 1(ban2) 8(disz) 2/3(disz) sila3</count> <com dist="1">gesztin</com> had2 
+ku3-bi <count><interpretation modern_unit="" modern_value="0.029135802469135802" system="cardinal" unit="" value="0.029135802469135802"/>1(disz) 2/3(disz) gin2 1(u) 4(disz) 2/3(disz) sze</count> 
+nig2-dab5 du6-ku3-ga 
+kiszib3 lugal-nig2-lagar-e 
+<count><interpretation modern_unit="g" modern_value="2940000.0" system="weight" unit="gin2" value="352800"/>1(gesz2) 3(u) 8(asz) gu2</count> <com dist="1">esir2</com> had2 
+ku3-bi <count><interpretation modern_unit="" modern_value="0.15" system="cardinal" unit="" value="0.15"/>9(disz) gin2</count> n 
+kiszib3 a-du-mu 
+<count><interpretation modern_unit="g" modern_value="4916.666666666667" system="weight" unit="gin2" value="590.0"/>9(disz) 5/6(disz) ma-na</count> <com dist="1">uruda</com> 
+ku3-bi <count><interpretation modern_unit="" modern_value="0.08944444444444444" system="cardinal" unit="" value="0.08944444444444444"/>5(disz) 1/3(disz) gin2 6(disz) sze</count> 
+<count><interpretation modern_unit="" modern_value="0.23333333333333334" system="cardinal" unit="" value="0.23333333333333334"/>1(u) 4(disz) gin2</count> su-he2 
+<com dist="1">ku3-bi</com> <count><interpretation modern_unit="" modern_value="0.24972222222222223" system="cardinal" unit="" value="0.24972222222222223"/>igi-4(disz)-gal2 la2 3(disz) sze</count> 
+kiszib3 lu2-{d}en-lil2-la2 
+szunigin <count><interpretation modern_unit="g" modern_value="194.76851851851853" system="weight" unit="gin2" value="23.372222222222224"/>1/3(disz) ma-na 3(disz) 1/3(disz) gin2 7(disz) sze</count> <com dist="1">ku3-babbar</com> 
+zi-ga-am3 
+la2-ia3 <count><interpretation modern_unit="g" modern_value="533.9351851851852" system="weight" unit="gin2" value="64.07222222222222"/>1(disz) ma-na 4(disz) gin2 1(u) 3(disz) sze</count> <com dist="1">ku3-babbar</com> 
+nig2-ka9-ak pa3-da 
+iti min-esz3 
+mu {d}szu-{d}suen lugal 
+</commodities>

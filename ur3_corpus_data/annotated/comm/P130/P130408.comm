@@ -1,0 +1,15 @@
+<commodities>
+#P130408 = StOr 09-1 23 (pl.7)
+#atf: lang sux
+<count><interpretation modern_unit="l" modern_value="1" system="liquid capacity" unit="sila3" value="1"/><interpretation modern_unit="l" modern_value="1" system="dry capacity" unit="sila3" value="1"/>1(disz) sila3</count> sze-li 
+<count><interpretation modern_unit="g" modern_value="1000.0000000000001" system="weight" unit="gin2" value="120"/>2(disz) ma-na</count> <com dist="1">dam-sze-lum</com> 
+<count><interpretation modern_unit="" modern_value="2" system="cardinal" unit="" value="2"/>2(disz)</count> gesz-ur3 <count><interpretation modern_unit="" modern_value="12" system="cardinal" unit="" value="12"/>1(u) 2(disz)</count> kusz3-ta 
+<count><interpretation modern_unit="" modern_value="1" system="cardinal" unit="" value="1"/>1(disz)</count> gesz-ur3 <count><interpretation modern_unit="" modern_value="11" system="cardinal" unit="" value="11"/>1(u) 1(disz)</count> kusz3-ta 
+<count><interpretation modern_unit="" modern_value="10" system="cardinal" unit="" value="10"/>1(u)</count> gesz-ur3 <count><interpretation modern_unit="" modern_value="8" system="cardinal" unit="" value="8"/>8(disz)</count> kusz3-ta 
+<count><interpretation modern_unit="" modern_value="5" system="cardinal" unit="" value="5"/>5(disz)</count> <com dist="1">{gesz}a-ra</com> ma2 <count><interpretation modern_unit="l" modern_value="12000" system="dry capacity" unit="sila3" value="12000"/>4(u) gur</count> 
+mu us2-sa a-ra2 <count><interpretation modern_unit="" modern_value="3" system="cardinal" unit="" value="3"/>3(disz)-kam</count> si-mu-ru-um{ki} ba-hul 
+<count><interpretation modern_unit="" modern_value="3" system="cardinal" unit="" value="3"/>3(disz)</count> murgu2 ba-urua 
+mu an-sza-an{ki} ba-hul 
+<com dist="1">ki</com> lugal-e2-mah-e-ta 
+mu us2-sa an-sza-an{ki} ba-hul 
+</commodities>

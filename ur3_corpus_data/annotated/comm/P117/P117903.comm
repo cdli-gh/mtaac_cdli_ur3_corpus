@@ -1,0 +1,23 @@
+<commodities>
+#P117903 = MVN 14, 0222
+#atf: lang sux
+# preceded by circular impression
+# calculation: 300n × 1s/n = 300s
+# calculation: 200n × 0.5s/n = 100s
+# no obvious connection with obverse; obv. lengths together = 497.5n, close to 500
+<count><interpretation modern_unit="" modern_value="100" system="cardinal" unit="" value="100"/>1(gesz2) 4(u)</count> 
+<count><interpretation modern_unit="" modern_value="30" system="cardinal" unit="" value="30"/>3(u)</count> 
+<count><interpretation modern_unit="" modern_value="104.5" system="cardinal" unit="" value="104.5"/>1(gesz2) 4(u) 4(disz) 1/2(disz)</count> 
+<count><interpretation modern_unit="" modern_value="90" system="cardinal" unit="" value="90"/>1(gesz2) 3(u)</count> 
+<count><interpretation modern_unit="" modern_value="50" system="cardinal" unit="" value="50"/>5(u)</count> 
+<count><interpretation modern_unit="" modern_value="26" system="cardinal" unit="" value="26"/>2(u) 6(disz)</count> 
+<count><interpretation modern_unit="" modern_value="97" system="cardinal" unit="" value="97"/>1(gesz2) 3(u) 7(disz)</count> 
+KA egir5 a2 szuku-ra-ta 
+<count><interpretation modern_unit="m" modern_value="1800" system="length" unit="gi" value="600"/>5(gesz2) ninda</count> <com dist="1">gid2</com> <count><interpretation modern_unit="" modern_value="1" system="cardinal" unit="" value="1"/>1(disz)</count> sar-ta 
+kin-bi <count><interpretation modern_unit="bricks" modern_value="2592000" system="bricks" unit="gin2" value="216000"/><interpretation modern_unit="m^2" modern_value="10800.0" system="surface" unit="gin2" value="18000"/><interpretation modern_unit="l" modern_value="5400000" system="volume" unit="gin2" value="18000"/>5(gesz2) sar</count> 
+<count><interpretation modern_unit="m" modern_value="1200" system="length" unit="gi" value="400"/>3(gesz2) 2(u) ninda</count> <com dist="1">gid2</com> <count><interpretation modern_unit="" modern_value="0.5" system="cardinal" unit="" value="0.5"/>1/2(disz)</count> sar-ta 
+kin-bi <count><interpretation modern_unit="bricks" modern_value="864000" system="bricks" unit="gin2" value="72000"/><interpretation modern_unit="m^2" modern_value="3600.0" system="surface" unit="gin2" value="6000"/><interpretation modern_unit="l" modern_value="1800000" system="volume" unit="gin2" value="6000"/>1(gesz2) 4(u) sar</count> 
+kin-e-ra-a 
+<com dist="1">gaba</com> a-sza3 gu2-de3-na 
+mu {d}szu-{d}suen lugal-e na-ru2-a-mah {d}en-lil2 {d}nin-lil2-ra mu-ne-du3 
+</commodities>

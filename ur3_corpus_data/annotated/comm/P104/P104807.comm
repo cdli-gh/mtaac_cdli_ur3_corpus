@@ -1,0 +1,23 @@
+<commodities>
+#P104807 = Babyloniaca 08, HG 10
+#atf: lang sux
+<count><interpretation modern_unit="" modern_value="none" system="unknown" unit="" value="none"/>3(disz) ...</count> 
+<count><interpretation modern_unit="" modern_value="2" system="cardinal" unit="" value="2"/>2(disz)</count> szah2-gur4-munus-gesz-gi x 
+<count><interpretation modern_unit="" modern_value="3" system="cardinal" unit="" value="3"/>3(disz)</count> szah2-gur4-nita2-gesz-gi x 
+<count><interpretation modern_unit="" modern_value="14" system="cardinal" unit="" value="14"/>1(u) 4(disz)</count> <com dist="1">szah2-szaganx(AMA){gan}</com> ... 
+<count><interpretation modern_unit="" modern_value="2" system="cardinal" unit="" value="2"/>2(disz)</count> szah2-gur4-munus-gesz-gi <com dist="1">u2</com> 
+<count><interpretation modern_unit="" modern_value="25" system="cardinal" unit="" value="25"/>2(u) 5(disz)</count> szah2-NE-gur4-munus-gesz-gi <com dist="1">u2</com> 
+<count><interpretation modern_unit="" modern_value="12" system="cardinal" unit="" value="12"/>1(u) 2(disz)</count> szah2-nita2-gesz-gi <com dist="1">u2</com> 
+... <count><interpretation modern_unit="" modern_value="1" system="cardinal" unit="" value="1"/>1(disz)</count> szah2-gur4-nita2-gesz-gi <com dist="1">u2</com> 
+<count><interpretation modern_unit="" modern_value="34" system="cardinal" unit="" value="34"/>3(u) 4(disz)</count> szah2-NE-tur-nita2-gesz-gi 
+<count><interpretation modern_unit="" modern_value="5" system="cardinal" unit="" value="5"/>5(disz)</count> <com dist="1">szah2-szaganx(AMA){gan}</com> iri 
+<count><interpretation modern_unit="" modern_value="5" system="cardinal" unit="" value="5"/>5(disz)</count> szah2-nita2 iri 
+<count><interpretation modern_unit="" modern_value="3" system="cardinal" unit="" value="3"/>3(disz)</count> szah2-NE-tur-munus iri 
+<count><interpretation modern_unit="" modern_value="2" system="cardinal" unit="" value="2"/>2(disz)</count> szah2-NE-tur-nita2 iri 
+<count><interpretation modern_unit="" modern_value="4" system="cardinal" unit="" value="4"/>4(disz)</count> <com dist="1">u5{muszen}</com> 
+<count><interpretation modern_unit="" modern_value="14" system="cardinal" unit="" value="14"/>1(u) 4(disz)</count> uz-tur 
+<count><interpretation modern_unit="" modern_value="1" system="cardinal" unit="" value="1"/>1(disz)</count> <com dist="1">uz{muszen}</com> 
+<count><interpretation modern_unit="" modern_value="12" system="cardinal" unit="" value="12"/>1(u) 2(disz)</count> ir7{muszen} 
+<count><interpretation modern_unit="" modern_value="21" system="cardinal" unit="" value="21"/>2(u) 1(disz)</count> tu-gur4{muszen} 
+... 
+</commodities>

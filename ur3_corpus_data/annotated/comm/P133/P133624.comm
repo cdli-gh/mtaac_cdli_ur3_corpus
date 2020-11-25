@@ -1,0 +1,20 @@
+<commodities>
+#P133624 = TÉL 113
+#atf: lang sux
+<count><interpretation modern_unit="" modern_value="228" system="cardinal" unit="" value="228"/>3(gesz2) 4(u) 8(disz)</count> gesz gal 
+<count><interpretation modern_unit="" modern_value="131" system="cardinal" unit="" value="131"/>2(gesz2) 1(u) 1(disz)</count> <com dist="1">{gesz}us2</com> 
+<count><interpretation modern_unit="" modern_value="151" system="cardinal" unit="" value="151"/>2(gesz2) 3(u) 1(disz)</count> {gesz}szu-dim2 ma2 <count><interpretation modern_unit="l" modern_value="18000" system="dry capacity" unit="sila3" value="18000"/>1(gesz2) gur</count> 
+<count><interpretation modern_unit="" modern_value="117" system="cardinal" unit="" value="117"/>1(gesz2) 5(u) 7(disz)</count> <com dist="1">{gesz}szu-dim2</com> ma2 <count><interpretation modern_unit="l" modern_value="9000" system="dry capacity" unit="sila3" value="9000"/>3(u) gur</count> 
+<count><interpretation modern_unit="" modern_value="139" system="cardinal" unit="" value="139"/>2(gesz2) 2(u) la2 1(disz)</count> <com dist="1">{gesz}gi-musz</com> 
+<count><interpretation modern_unit="" modern_value="155" system="cardinal" unit="" value="155"/>2(gesz2) 3(u) 5(disz)</count> {gesz}mi-ri2-za 
+<count><interpretation modern_unit="" modern_value="580" system="cardinal" unit="" value="580"/>9(gesz2) 4(u)</count> {gesz}a-ma-at 
+gesz dub-sag 
+<count><interpretation modern_unit="" modern_value="113" system="cardinal" unit="" value="113"/>1(gesz2) 5(u) 3(disz)</count> gesz gal 
+<count><interpretation modern_unit="" modern_value="180" system="cardinal" unit="" value="180"/>3(gesz2)</count> gesz gal <com dist="1">hi-a</com> 
+ur-{d}szul-gi szu ba-ti 
+szunigin <count><interpretation modern_unit="" modern_value="1375" system="cardinal" unit="" value="1375"/>2(geszu) 2(gesz2) 5(u) 5(disz)</count> gesz gal <com dist="1">hi-a</com> 
+szunigin <count><interpretation modern_unit="" modern_value="155" system="cardinal" unit="" value="155"/>2(gesz2) 3(u) 5(disz)</count> <com dist="1">{gesz}mi-ri2-za</com> 
+szunigin <count><interpretation modern_unit="" modern_value="580" system="cardinal" unit="" value="580"/>9(gesz2) 4(u)</count> <com dist="1">{gesz}a-ma-at</com> 
+{gesz}kiri6 sukkal-mah-ta 
+mu ma2-dara3-abzu ba-ab-du8 
+</commodities>

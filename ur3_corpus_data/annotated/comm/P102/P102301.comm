@@ -1,0 +1,34 @@
+<commodities>
+#P102301 = ASJ 09, 248 25
+#atf: lang sux
+#tr.en: ...barley...
+#tr.en: (for) Ur-[...]
+#tr.en: 1 eše3 field area: 2 gur (per iku),
+#tr.en: Adaga the scribe;
+#tr.en: 3/4 iku field area: 2 barig, 3 ban2 extra, prebend of Lu-Šara the ...;
+#tr.en: 3 iku field area: 1 (gur) 2 barig 3 ban2 extra, prebend of Lugal-Suen;
+#tr.en: cultivation;
+#tr.en: 1 eše3 field area, its barley: 8 gur,
+#tr.en: prebend of Lu-Šara, ...;
+#tr.en: 4 iku field area: 6 gur, Ur-gigir, ...;
+#tr.en: 1 bur3 field area: 25 gur, Lugal-Kuzu;
+#tr.en: 1 eše3 field area: 6 gur, Lu-duga, son of Lugal-kiri6;
+#tr.en: long field, harvest time,
+#tr.en: at the field, ... ;
+#tr.en: [year: “...,] king of Ur,... .”
+... x sze x ... 
+ur-... x 
+<count><interpretation modern_unit="m^2" modern_value="21600.0" system="surface" unit="gin2" value="36000"/>1(esze3) gan2</count> <count><interpretation modern_unit="l" modern_value="600" system="dry capacity" unit="sila3" value="600"/>2(asz) gur</count> 
+a-da-ga dub-sar 
+<count><interpretation modern_unit="m^2" modern_value="2700.0" system="surface" unit="gin2" value="4500.0"/>1/2(iku) 1/4(iku) gan2</count> <count><interpretation modern_unit="l" modern_value="150" system="dry capacity" unit="sila3" value="150"/>2(barig) 3(ban2)</count> diri <com dist="1">szuku</com> lu2-{d}szara2 mu6-sub3 
+<count><interpretation modern_unit="m^2" modern_value="10800.0" system="surface" unit="gin2" value="18000"/>3(iku) gan2</count> <count><interpretation modern_unit="l" modern_value="450" system="dry capacity" unit="sila3" value="450"/>1(asz) 2(barig) 3(ban2)</count> diri <com dist="1">szuku</com> lugal-{d}suen 
+apin-la2-am3 
+<count><interpretation modern_unit="m^2" modern_value="21600.0" system="surface" unit="gin2" value="36000"/>1(esze3) gan2</count> sze-bi <count><interpretation modern_unit="l" modern_value="2400" system="dry capacity" unit="sila3" value="2400"/>8(asz) gur</count> 
+szuku lu2-{d}szara2 mu6-sub3 
+<count><interpretation modern_unit="m^2" modern_value="14400.0" system="surface" unit="gin2" value="24000"/>4(iku) gan2</count> <count><interpretation modern_unit="l" modern_value="1800" system="dry capacity" unit="sila3" value="1800"/>6(asz) gur</count> <com dist="1">ur-{gesz}gigir</com> igi-du8 
+<count><interpretation modern_unit="m^2" modern_value="64800.0" system="surface" unit="gin2" value="108000"/>1(bur3) gan2</count> <count><interpretation modern_unit="l" modern_value="7500" system="dry capacity" unit="sila3" value="7500"/>2(u) 5(asz) gur</count> lugal-ku3-zu 
+<count><interpretation modern_unit="m^2" modern_value="21600.0" system="surface" unit="gin2" value="36000"/>1(esze3) gan2</count> <count><interpretation modern_unit="l" modern_value="1800" system="dry capacity" unit="sila3" value="1800"/>6(asz) gur</count> lu2-du10-ga dumu <com dist="1">lugal-{gesz}kiri6</com> 
+a-sza3 gid2-da buru14 
+a-sza3 x-nu-kusz2 
+mu ... lugal uri5{ki} ... x x x x 
+</commodities>

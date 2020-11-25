@@ -1,0 +1,38 @@
+<commodities>
+#P102651 = ASJ 18, 086 22
+#atf: lang sux
+#tr.en: Basket-of-tablets:
+#tr.en: treasure split,
+#tr.en: 1: UŠkalimmu,
+#tr.en: 2: Ninhursag-ebsig,
+#tr.en: 1: Silver harp, UŠkalimmu,
+#tr.en: 1: Šulgi,
+#tr.en: 1: Šara-gešgigal,
+#tr.en: 1: Ninura,
+#tr.en: 1: Silver harp, Ninura,
+#tr.en: 2: Nin-egal,
+#tr.en: 1: Ninsigarana,
+#tr.en: 1: Lugal-kur-elam,
+#tr.en: 1: Nin-e’e,
+#tr.en: 1: Nin-Nagsu,
+#tr.en: 1: Nin-Da-Lagash,
+#tr.en: 1: Nin-tulsag
+#tr.en: 1: Geštinana, Lugalbarabe.
+pisan-dub-ba 
+gil-sa si-il-la 
+<count><interpretation modern_unit="" modern_value="1" system="cardinal" unit="" value="1"/>1(disz)</count> {d}USZ-ka-limmu2 
+<count><interpretation modern_unit="" modern_value="2" system="cardinal" unit="" value="2"/>2(disz)</count> {d}nin-hur-sag-eb-sig 
+<count><interpretation modern_unit="" modern_value="1" system="cardinal" unit="" value="1"/>1(disz)</count> balag-ku3 {d}USZ-ka-limmu2 
+<count><interpretation modern_unit="" modern_value="1" system="cardinal" unit="" value="1"/>1(disz)</count> {d}szul-gi 
+<count><interpretation modern_unit="" modern_value="1" system="cardinal" unit="" value="1"/>1(disz)</count> {d}szara2-gesz-gi-gal 
+<count><interpretation modern_unit="" modern_value="1" system="cardinal" unit="" value="1"/>1(disz)</count> {d}nin-ur4-ra 
+<count><interpretation modern_unit="" modern_value="1" system="cardinal" unit="" value="1"/>1(disz)</count> balag-ku3 {d}nin-ur4-ra 
+<count><interpretation modern_unit="" modern_value="2" system="cardinal" unit="" value="2"/>2(disz)</count> {d}nin-e2-gal 
+<count><interpretation modern_unit="" modern_value="1" system="cardinal" unit="" value="1"/>1(disz)</count> {d}nin-si-gar-an-na 
+<count><interpretation modern_unit="" modern_value="1" system="cardinal" unit="" value="1"/>1(disz)</count> {d}lugal-kur2-elam 
+<count><interpretation modern_unit="" modern_value="1" system="cardinal" unit="" value="1"/>1(disz)</count> {d}nin-e11-e 
+<count><interpretation modern_unit="" modern_value="1" system="cardinal" unit="" value="1"/>1(disz)</count> {d}nin-nag-su{ki} 
+<count><interpretation modern_unit="" modern_value="1" system="cardinal" unit="" value="1"/>1(disz)</count> {d}nin-da-lagasz{ki} 
+<count><interpretation modern_unit="" modern_value="2" system="cardinal" unit="" value="2"/>2(disz)</count> {d}nin-tul2-sag 
+<count><interpretation modern_unit="" modern_value="1" system="cardinal" unit="" value="1"/>1(disz)</count> {d}gesztin-an-na-lugal-ba-ra-ab-e3 
+</commodities>

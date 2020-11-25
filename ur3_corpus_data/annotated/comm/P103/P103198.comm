@@ -1,0 +1,14 @@
+<commodities>
+#P103198 = AUCT 1, 353
+#atf: lang sux
+<count><interpretation modern_unit="" modern_value="100" system="cardinal" unit="" value="100"/>1(gesz2) 4(u)</count> <com dist="1">{gesz}x-x</com> 
+<count><interpretation modern_unit="" modern_value="6" system="cardinal" unit="" value="6"/>6(disz)</count> {gesz}eme-sig 
+<count><interpretation modern_unit="g" modern_value="630000.0" system="weight" unit="gin2" value="75600"/>2(u) 1(asz) gu2</count> mangaga 
+<count><interpretation modern_unit="" modern_value="50" system="cardinal" unit="" value="50"/>5(u)</count> esir2 had2 gur 
+<count><interpretation modern_unit="" modern_value="23" system="cardinal" unit="" value="23"/>2(u) 3(disz)</count> <com dist="1">esir2</com> E2-A 
+<count><interpretation modern_unit="" modern_value="0.19999999999999998" system="cardinal" unit="" value="0.19999999999999998"/>1(u) 2(disz) gin2</count> <com dist="1">ku3-babbar</com> a2 sza3-gal nagar 
+iti <count><interpretation modern_unit="" modern_value="8" system="cardinal" unit="" value="8"/>8(disz)-kam</count> 
+<count><interpretation modern_unit="" modern_value="0.13333333333333333" system="cardinal" unit="" value="0.13333333333333333"/>8(disz) gin2</count> <com dist="1">ku3-babbar</com> a2 ma2-gin2 
+<count><interpretation modern_unit="" modern_value="13" system="cardinal" unit="" value="13"/>1(u) 3(disz)</count> i3-ku6 
+<count><interpretation modern_unit="" modern_value="3600" system="cardinal" unit="" value="3600"/>1(szar2)</count> <com dist="1">{gesz}gag</com> ma-nu 
+</commodities>

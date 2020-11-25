@@ -1,0 +1,19 @@
+<commodities>
+#P138413 = UET 9, 0282
+#atf: lang sux
+... 
+... us2 
+... us2 
+... tug2 nig2-lam2 us2 
+... x us2 
+...-x-KU-um szar3 
+...-x-muru13-a-KU-um szar3 
+szunigin ... 
+szunigin <count><interpretation modern_unit="" modern_value="none" system="unknown" unit="" value="none"/>2(u) ...</count> 
+szunigin <count><interpretation modern_unit="" modern_value="none" system="unknown" unit="" value="none"/>2(disz) ...</count> 
+szunigin <count><interpretation modern_unit="" modern_value="24" system="cardinal" unit="" value="24"/>2(u) 4(disz)</count> <com dist="1">tug2</com> ... 
+szunigin <count><interpretation modern_unit="" modern_value="none" system="unknown" unit="" value="none"/>2(disz) x</count> <com dist="1">tug2</com> ... 
+szunigin <count><interpretation modern_unit="" modern_value="2" system="cardinal" unit="" value="2"/>2(disz)</count> <com dist="1">tug2</com> nig2-lam2 tur-... 
+szunigin <count><interpretation modern_unit="" modern_value="30" system="cardinal" unit="" value="30"/>3(u)</count> <com dist="1">tug2</com> guz-za <count><interpretation modern_unit="" modern_value="4" system="cardinal" unit="" value="4"/>4(disz)-kam</count> us2 
+szunigin ... x <com dist="1">tug2</com> x ... 
+</commodities>

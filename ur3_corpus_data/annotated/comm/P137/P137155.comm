@@ -1,0 +1,17 @@
+<commodities>
+#P137155 = UET 3, 0831
+#atf: lang sux
+<count><interpretation modern_unit="" modern_value="2" system="cardinal" unit="" value="2"/>2(disz)</count> <com dist="1">{gesz}taskarin</com> ha-lu-ub2 gid2-bi <count><interpretation modern_unit="" modern_value="1.3333333333333333" system="cardinal" unit="" value="1.3333333333333333"/>1(disz) 1/3(disz)</count> kusz3-ta dagal-bi <count><interpretation modern_unit="" modern_value="0.3333333333333333" system="cardinal" unit="" value="0.3333333333333333"/>1/3(disz)</count> kusz3-ta 
+<count><interpretation modern_unit="" modern_value="1" system="cardinal" unit="" value="1"/>1(disz)</count> <com dist="1">{gesz}taskarin</com> ha-lu-ub2 gid2-bi <count><interpretation modern_unit="" modern_value="2.5" system="cardinal" unit="" value="2.5"/>2(disz) 1/2(disz)</count> kusz3-ta dagal-bi <count><interpretation modern_unit="m" modern_value="0.4333333333333333" system="length" unit="gi" value="0.14444444444444443"/>1(disz) kusz3 la2 4(disz) szu-si</count> 
+<count><interpretation modern_unit="" modern_value="1" system="cardinal" unit="" value="1"/>1(disz)</count> <com dist="1">{gesz}sag-ku5</com> su4-ig mes ma2-gan{ki} 
+gid2-bi <count><interpretation modern_unit="m" modern_value="1.0" system="length" unit="gi" value="0.3333333333333333"/>2(disz) kusz3</count> <com dist="1">gu-nigin2-bi</com> <count><interpretation modern_unit="m" modern_value="1.0" system="length" unit="gi" value="0.3333333333333333"/>2(disz) kusz3</count> 
+<count><interpretation modern_unit="" modern_value="6" system="cardinal" unit="" value="6"/>6(disz)</count> nigin2 <com dist="1">{gesz}zi</com> gu-za lam 
+<count><interpretation modern_unit="" modern_value="8.666666666666666" system="cardinal" unit="" value="8.666666666666666"/>1(u) la2 1(disz) 1/3(disz)</count> {gesz}gag {d}en-ma2-um 
+<count><interpretation modern_unit="" modern_value="1" system="cardinal" unit="" value="1"/>1(disz)</count> nigin2 <com dist="1">{gesz}sag-erim2</com> gu-za ha-lu-ub2 
+<count><interpretation modern_unit="" modern_value="1" system="cardinal" unit="" value="1"/>1(disz)</count> gesz ... 
+<count><interpretation modern_unit="" modern_value="2" system="cardinal" unit="" value="2"/>2(disz)</count> <com dist="1">{gesz}taskarin</com> ... 
+<count><interpretation modern_unit="" modern_value="2" system="cardinal" unit="" value="2"/>2(disz)</count> <com dist="1">{gesz}taskarin</com> ha-lu-ub2 gid2-bi x kusz3-ta dagal-bi <count><interpretation modern_unit="" modern_value="4" system="cardinal" unit="" value="4"/>4(disz)</count> szu-si-ta 
+<count><interpretation modern_unit="" modern_value="3" system="cardinal" unit="" value="3"/>3(disz)</count> nigin2 <com dist="1">{gesz}zi</com> gu-za sza3-kal 
+<count><interpretation modern_unit="" modern_value="6" system="cardinal" unit="" value="6"/>6(disz)</count> nigin2 gesz-gi nu2 ... <com dist="1">ha-lu-ub2</com> 
+<count><interpretation modern_unit="" modern_value="1" system="cardinal" unit="" value="1"/>1(disz)</count> {gesz}sag-e2 ... za3 ... 
+</commodities>

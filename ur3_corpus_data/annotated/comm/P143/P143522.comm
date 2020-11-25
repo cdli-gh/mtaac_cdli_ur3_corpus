@@ -1,0 +1,36 @@
+<commodities>
+#P143522 = SAT 2, 0322
+#atf: lang sux
+# should be 1(disz) 2/3(disz) gin2 la2 2(u) 6(disz) accd. to itemization
+# should be 2(u) 1(barig) accd. to itemization
+# should be 2(u) 2(barig) 4(ban2) 5(disz), giving diri 1(barig
+# edition has zi3 and am
+# edition has 35 sila3; makes no numerical sense
+<count><interpretation modern_unit="l" modern_value="9.259259259259259e-05" system="dry capacity" unit="sila3" value="9.259259259259259e-05"/>1(asz) sze gur</count> ubi-ku6-ra 
+<count><interpretation modern_unit="l" modern_value="180" system="dry capacity" unit="sila3" value="180"/>3(barig)</count> ur-ur ugula-gesz2-da 
+<count><interpretation modern_unit="l" modern_value="120" system="dry capacity" unit="sila3" value="120"/>2(barig)</count> ur-... 
+<count><interpretation modern_unit="l" modern_value="450" system="dry capacity" unit="sila3" value="450"/>1(asz) 2(barig) 3(ban2) gur</count> ur-{d}szul-pa-e3 
+<count><interpretation modern_unit="l" modern_value="300" system="dry capacity" unit="sila3" value="300"/>1(asz) gur</count> nin ur-{d}suen 
+<count><interpretation modern_unit="l" modern_value="1800" system="dry capacity" unit="sila3" value="1800"/>6(asz) gur</count> ur-e11-e 
+<count><interpretation modern_unit="l" modern_value="1800" system="dry capacity" unit="sila3" value="1800"/>6(asz) gur</count> gala-mah 
+<count><interpretation modern_unit="l" modern_value="120" system="dry capacity" unit="sila3" value="120"/>2(barig)</count> szesz-kal-la agar4-nigin2 
+<count><interpretation modern_unit="" modern_value="0.01638888888888889" system="cardinal" unit="" value="0.01638888888888889"/>1(disz) gin2 la2 3(disz) sze</count> <com dist="1">ku3-babbar</com> ur-{gesz}gigir 
+<count><interpretation modern_unit="" modern_value="0.008981481481481481" system="cardinal" unit="" value="0.008981481481481481"/>2/3(disz) gin2 la2 2(u) 3(disz) sze</count> ku3-babbar ur-{d}en-ki 
+<count><interpretation modern_unit="l" modern_value="60" system="dry capacity" unit="sila3" value="60"/>1(barig)</count> lu2-dingir-ra gudu4 
+<count><interpretation modern_unit="l" modern_value="600" system="dry capacity" unit="sila3" value="600"/>2(asz) gur</count> al-la-nig2-gur2 
+<count><interpretation modern_unit="l" modern_value="330" system="dry capacity" unit="sila3" value="330"/>1(asz) 3(ban2) gur</count> da-da dub-sar 
+szunigin <count><interpretation modern_unit="" modern_value="0.029907407407407403" system="cardinal" unit="" value="0.029907407407407403"/>1(disz) 2/3(disz) gin2 2(u) 3(disz) sze</count> <com dist="1">ku3-babbar</com> 
+szunigin <count><interpretation modern_unit="l" modern_value="6090" system="dry capacity" unit="sila3" value="6090"/>2(u) 1(barig) 3(ban2)</count> 
+sza3-bi-ta 
+<count><interpretation modern_unit="" modern_value="0.029907407407407403" system="cardinal" unit="" value="0.029907407407407403"/>1(disz) 2/3(disz) gin2 2(u) 3(disz) sze</count> <com dist="1">ku3-babbar</com> 
+<count><interpretation modern_unit="l" modern_value="4905" system="dry capacity" unit="sila3" value="4905"/>1(u) 6(asz) 1(barig) 4(ban2) 5(disz) sila3 sze gur</count> 
+sa6-sa6-ga <com dist="1">szu</com> ba-ti 
+<count><interpretation modern_unit="l" modern_value="960" system="dry capacity" unit="sila3" value="960"/>3(asz) 1(barig) gur</count> kiszib3 lu2-gi-na 
+<count><interpretation modern_unit="l" modern_value="300" system="dry capacity" unit="sila3" value="300"/>1(asz) gur</count> kiszib3 lu2-{d}nanna 
+szunigin <count><interpretation modern_unit="l" modern_value="5160.000462962963" system="dry capacity" unit="sila3" value="5160.000462962963"/>1(u) 7(asz) 1(barig) 5(disz) sze gur</count> 
+szunigin <count><interpretation modern_unit="" modern_value="0.029907407407407403" system="cardinal" unit="" value="0.029907407407407403"/>1(disz) 2/3(disz) gin2 2(u) 3(disz) sze</count> <com dist="1">ku3-babbar</com> 
+zi-ga-am3 
+diri <count><interpretation modern_unit="l" modern_value="35" system="dry capacity" unit="sila3" value="35"/>3(ban2) 5(disz) sila3 sze</count> 
+iti <com dist="1">dal</com> 
+mu en {d}nanna masz2-e i3-pa3 
+</commodities>

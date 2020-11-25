@@ -1,0 +1,28 @@
+<commodities>
+#P416400 = CDLJ 2012/1 §3.11
+#atf: lang sux
+#tr.en: 71 copper rosettes,
+#tr.en: arrears (being) 19 copper rosettes;
+#tr.en: 123 copper pegs,
+#tr.en: (for) the ala-drum
+#tr.en: of Ur-Namma,
+#tr.en: job taken,
+#tr.en: leather to be applied;
+#tr.en: Akalla, the leather worker,
+#tr.en: received;
+#tr.en: via ARAD, the chief granary officer;
+#tr.en: month: “Festival of Šulgi,”
+#tr.en: year: “The silver throne of Enlil was fashioned.”
+<count><interpretation modern_unit="" modern_value="71" system="cardinal" unit="" value="71"/>1(gesz2) 1(u) 1(disz)</count> <com dist="1">ul{uruda}</com> 
+la2-ia3 <count><interpretation modern_unit="" modern_value="19" system="cardinal" unit="" value="19"/>1(u) 9(disz)</count> <com dist="1">ul{uruda}</com> 
+<count><interpretation modern_unit="" modern_value="123" system="cardinal" unit="" value="123"/>2(gesz2) 3(disz)</count> kak{uruda} 
+kusz a2-la2 
+ur-{d}namma 
+kin dab5(TUG2)-ba 
+<com dist="1">kusz</com> se-ge4-de3 
+a-kal-la aszgab 
+szu ba-ti 
+giri3 ARAD2 ka-guru7 
+iti ezem-{d}szul-gi 
+mu ku3 gu-za {d}en-lil2-la2 ba-dim2 
+</commodities>

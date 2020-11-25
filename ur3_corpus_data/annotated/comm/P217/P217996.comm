@@ -1,0 +1,24 @@
+<commodities>
+#P217996 = StLouis 089
+#atf: lang sux
+#tr.en: 2 kid-mats,
+#tr.en: the extent: 2/3 (surface sar);
+# calculation: 2 x 1/3 (surface sar, ca. 12 sq.m. each) = 2/3
+#tr.en: from Ur-Šulpa’e,
+#tr.en: under seal of Lugal-nig-lagare;
+#tr.en: month “Sowing,”
+# seal impression
+#tr.en: year: “The priest of Eridu was installed.”
+#tr.en: Lugal-siNEe,
+#tr.en: scribe,
+#tr.en: son of Ur-Enunna.
+<count><interpretation modern_unit="" modern_value="2" system="cardinal" unit="" value="2"/>2(disz)</count> <com dist="1">{gi}kid</com> 
+ki-la2-bi <count><interpretation modern_unit="" modern_value="0.6666666666666666" system="cardinal" unit="" value="0.6666666666666666"/>2/3(disz)</count> 
+ki ur-{d}szul-pa-e3-ta 
+kiszib3 lugal-nig2-lagar-e 
+iti szu-numun 
+mu en eridu{ki} ba-hun 
+lugal-si-NE-e 
+dub-sar 
+dumu ur-e2-nun-na 
+</commodities>

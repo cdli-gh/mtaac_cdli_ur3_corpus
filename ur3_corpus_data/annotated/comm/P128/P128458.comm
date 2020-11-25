@@ -1,0 +1,134 @@
+<commodities>
+#P128458 = RTC 305
+#atf: lang sux
+#tr.en: 747 gur 2 barig 3 2/3 sila3 bran, royal (measure),
+#tr.en: 7746 5/6 workdays, female laborers,
+#tr.en: 30 talents 26 mana willow,
+#tr.en: 13,220 bundles of reed,
+#tr.en: the remainder;
+#tr.en: month: “Akitu,”
+#tr.en: of the year: “Simurrum, Lullubum for the 9th time were destroyed;”
+#tr.en: 1800 gur barley,
+#tr.en: 40 gur wheat,
+#tr.en: fodder of oxen, sheep, goats and equids;
+#tr.en: 1 gur 3 barig barley rations of the Martu,
+#tr.en: month: “Harvest;”
+#tr.en: 1800 gur barley,
+#tr.en: 40 gur wheat,
+#tr.en: fodder of oxen, sheep, goats and equids;
+#tr.en: 1 gur 3 barig barley rations of the Martu,
+#tr.en: month extra: “Harvest;”
+#tr.en: ...
+#tr.en: ...
+#tr.en: exchange good for oxen, sheep, ...;
+#tr.en: 211 gur 4 barig 3 ban2 3 sila3 barley, beer, bread;
+#tr.en: 4351 bundles of reed;
+#tr.en: 12 2/3 talents, willow;
+#tr.en: Nabdanum not fed and to the day stretched, one workday;
+#tr.en: 1049 gur 1 barig bran,
+#tr.en: its bran of the bala:
+#tr.en: month: “Harvest,” and month extra: “Harvest;”
+#tr.en: total: 1 silo 205 gur 3 ban2 3 sila3 barley, Šulgi (measure),
+# calculation: 30.00 + 1;3,0 + 30.00 + 1;3,0 + 3.31;4,3,3 = 1.03.35;0,3,3
+#tr.en: total: 80 gur wheat,
+# calculation: 40;0,0 + 40;0,0 = 80;0,0
+#tr.en: its barley: 1 silo 375 gur 3 ban2 3 sila3;
+# calculation: 1.03.35;0,3,3 + (80;0,0 × 2 gur barley per gur wheat =) 160;0,0 = 1.06.15;0,3,3
+#tr.en: total: 1796 gur 3 barig 3 2/3 sila3 bran;
+# calculation: 12.27;2,0,3 2/3 + 17.29;1,0 = 29.56;3,0,3 2/3
+#tr.en: total: 7746 5/6 workdays, female laborers;
+#tr.en: total: 43 talents 6 mana willow;
+# calculation: 30.26 + 12.40 = 43.06
+#tr.en: total: 17,571 bundles of reed;
+# calculation: 3.40.20 + 1.12.31 = 4.52.51
+#tr.en: is the debits;
+#tr.en: therefrom:
+#tr.en: 2750 gur 1 barig 1 ban2 6 2/3 sila3 barley,
+#tr.en: surplus of the (previous) account,
+#tr.en: month: Akitu,
+#tr.en: year: “Simurrum, Lullubum for the 9th time were destroyed;”
+#tr.en: 3 gur 3 barig 5 ban2 5 sila3 wheat,
+#tr.en: into the sealed house brought,
+#tr.en: via Lu-Utu, foreman of the mill;
+#tr.en: 252 gur 2 ban2 bran,
+#tr.en: Šulgi-ayamu;
+#tr.en: ...
+#tr.en: n gur ... bran,
+#tr.en: delivery;
+#tr.en: deficit: 1217 gur 1 barig 2 ban2 6 1/3 sila3 barley;
+# calculation: 1.06.15;0,3,3 - (45.50;1;1;6 2/3 + (3;3,5,5 × 2 =) 7;2,5) = 20.17;1,2,6 1/3
+#tr.en: 1254 gur 2 barig 4 ban2 3 2/3 sila3 bran;
+# calculation: 29.56;3,0,3 2/3 - 4.12;0,2 = 25.44;2,4,3 2/3
+#tr.en: 7746 5/6 workdays, female laborers;
+#tr.en: 43 talents 6 mana willow;
+#tr.en: 9371 bundles of reed;
+#tr.en: are the deficit;
+#tr.en: account of
+#tr.en: the bala of Ur-Lamma, governor of Girsu;
+#tr.en: month: “Harvest,”
+#tr.en: month extra: “Harvest;”
+#tr.en: (a period) of two months;
+#tr.en: bala ...
+#tr.en: year: “Simurrum, Lullubum for the 9th time were destroyed.”
+<count><interpretation modern_unit="l" modern_value="224223.66666666666" system="dry capacity" unit="sila3" value="224223.66666666666"/>1(geszu) 2(gesz2) 2(u) 7(asz) 2(barig) 3(disz) 2/3(disz) sila3</count> <com dist="1">duh</com> gur lugal 
+<count><interpretation modern_unit="" modern_value="7746.833333333333" system="cardinal" unit="" value="7746.833333333333"/>2(szar2) 9(gesz2) 6(disz) 5/6(disz)</count> geme2 u4 <count><interpretation modern_unit="" modern_value="1" system="cardinal" unit="" value="1"/>1(disz)-sze3</count> 
+<count><interpretation modern_unit="g" modern_value="913000.0000000001" system="weight" unit="gin2" value="109560"/>3(u) gu2 2(u) 6(disz) ma-na</count> <com dist="1">{gesz}ma-nu</com> 
+<count><interpretation modern_unit="" modern_value="13220" system="cardinal" unit="" value="13220"/>3(szar2) 4(geszu) 2(u)</count> sa gi 
+si-i3-tum 
+iti a2-ki-ti 
+mu si-mu-ru-um{ki} lu-lu-bu-um{ki} a-ra2 <count><interpretation modern_unit="" modern_value="10" system="cardinal" unit="" value="10"/>1(u) la2</count> <count><interpretation modern_unit="" modern_value="1" system="cardinal" unit="" value="1"/>1(disz)-kam-asz</count> ba-hul-a 
+<count><interpretation modern_unit="l" modern_value="0.16666666666666666" system="dry capacity" unit="sila3" value="0.16666666666666666"/>3(geszu) sze gur</count> 
+<count><interpretation modern_unit="" modern_value="40" system="cardinal" unit="" value="40"/>4(u)</count> <com dist="1">gig</com> gur 
+sza3-gal gu4 udu masz ansze 
+<count><interpretation modern_unit="l" modern_value="480" system="dry capacity" unit="sila3" value="480"/>1(asz) 3(barig) gur</count> sze-ba mar-tu-ne 
+iti sze-sag11-ku5 
+<count><interpretation modern_unit="l" modern_value="0.16666666666666666" system="dry capacity" unit="sila3" value="0.16666666666666666"/>3(geszu) sze gur</count> 
+<count><interpretation modern_unit="" modern_value="40" system="cardinal" unit="" value="40"/>4(u)</count> <com dist="1">gig</com> gur 
+sza3-gal gu4 udu masz ansze 
+<count><interpretation modern_unit="l" modern_value="480" system="dry capacity" unit="sila3" value="480"/>1(asz) 3(barig) gur</count> sze-ba mar-tu-ne 
+iti diri sze-sag11-ku5 
+x ... <com dist="1">da</com> x ... 
+sze x ... 
+nig2-sa10 gu4 udu x x-a-ka 
+<count><interpretation modern_unit="l" modern_value="63573" system="dry capacity" unit="sila3" value="63573"/>3(gesz2) 3(u) 1(asz) 4(barig) 3(ban2) 3(disz) sila3 gur sze</count> <com dist="1">kasz</com> ninda 
+<count><interpretation modern_unit="" modern_value="4351" system="cardinal" unit="" value="4351"/>1(szar2) 1(geszu) 2(gesz2) 3(u) 1(disz)</count> sa gi 
+<count><interpretation modern_unit="g" modern_value="380000.0" system="weight" unit="gin2" value="45600.0"/>1(u) 2(asz) 2/3(asz) gu2</count> {gesz}ma-nu 
+na-ap-ta2-num2 nu-gu7-a u3 u4-de3 gid2-da u4 <count><interpretation modern_unit="" modern_value="1" system="cardinal" unit="" value="1"/>1(disz)-kam</count> 
+<count><interpretation modern_unit="l" modern_value="314760" system="dry capacity" unit="sila3" value="314760"/>1(geszu) 7(gesz2) 2(u) 9(asz) 1(barig)</count> <com dist="1">duh</com> gur 
+duh-bi bala-ka 
+iti sze-sag11-ku5 u3 iti diri sze-sag11-ku5 
+szunigin <count><interpretation modern_unit="l" modern_value="1144533" system="dry capacity" unit="sila3" value="1144533"/>1(asz) guru7 3(gesz2) 3(u) 5(asz) 3(ban2) 3(disz) sila3 sze gur</count> {d}szul-gi-ra 
+szunigin <count><interpretation modern_unit="" modern_value="80" system="cardinal" unit="" value="80"/>1(gesz2) 2(u)</count> <com dist="1">gig</com> gur 
+sze-bi <count><interpretation modern_unit="l" modern_value="1192533" system="dry capacity" unit="sila3" value="1192533"/>1(asz) guru7 6(gesz2) 1(u) 5(asz) 3(ban2) 3(disz) sila3 gur</count> 
+szunigin <count><interpretation modern_unit="l" modern_value="538983.6666666666" system="dry capacity" unit="sila3" value="538983.6666666666"/>2(geszu) 9(gesz2) 5(u) 6(asz) 3(barig) 3(disz) 2/3(disz) sila3</count> <com dist="1">duh</com> gur 
+szunigin <count><interpretation modern_unit="" modern_value="7746.833333333333" system="cardinal" unit="" value="7746.833333333333"/>2(szar2) 9(gesz2) 6(disz) 5/6(disz)</count> geme2 u4 <count><interpretation modern_unit="" modern_value="1" system="cardinal" unit="" value="1"/>1(disz)-sze3</count> 
+szunigin <count><interpretation modern_unit="g" modern_value="1293000.0" system="weight" unit="gin2" value="155160"/>4(u) 3(asz) gu2 6(disz) ma-na</count> <com dist="1">{gesz}ma-nu</com> 
+szunigin <count><interpretation modern_unit="" modern_value="17571" system="cardinal" unit="" value="17571"/>4(szar2) 5(geszu) 2(gesz2) 5(u) 1(disz)</count> sa gi 
+sag-nig2-gur11-ra-kam 
+sza3-bi-ta 
+<count><interpretation modern_unit="l" modern_value="825076.6666666666" system="dry capacity" unit="sila3" value="825076.6666666666"/>4(geszu) 5(gesz2) 5(u) 1(barig) 1(ban2) 6(disz) 2/3(disz) sila3 sze gur</count> 
+diri nig2-ka9-ak 
+iti a2-ki-ti 
+mu si-mu-ru-um{ki} lu-lu-bu-um{ki} a-ra2 <count><interpretation modern_unit="" modern_value="10" system="cardinal" unit="" value="10"/>1(u) la2</count> <count><interpretation modern_unit="" modern_value="1" system="cardinal" unit="" value="1"/>1(disz)-kam-asz</count> ba-hul 
+<count><interpretation modern_unit="l" modern_value="1135" system="dry capacity" unit="sila3" value="1135"/>3(asz) 3(barig) 5(ban2) 5(disz) sila3</count> <com dist="1">gig</com> gur 
+e2-kiszib3-ba-ka ba-an-kux(KWU147) 
+giri3 lu2-{d}utu ugula kikken 
+<count><interpretation modern_unit="l" modern_value="75620" system="dry capacity" unit="sila3" value="75620"/>4(gesz2) 1(u) 2(asz) 2(ban2)</count> <com dist="1">duh</com> gur 
+{d}szul-gi-a-a-mu 
+x ... 
+n duh gur 
+mu-kux(DU) 
+la2-ia3 <count><interpretation modern_unit="l" modern_value="365186.3333333333" system="dry capacity" unit="sila3" value="365186.3333333333"/>2(geszu) 1(u) 7(asz) 1(barig) 2(ban2) 6(disz) 1/3(disz) sila3 sze gur</count> 
+<count><interpretation modern_unit="l" modern_value="466363.6666666667" system="dry capacity" unit="sila3" value="466363.6666666667"/>2(geszu) 5(gesz2) 5(u) 4(asz) 2(barig) 4(ban2) 3(disz) 2/3(disz)</count> <com dist="1">duh</com> gur 
+<count><interpretation modern_unit="" modern_value="7746.833333333333" system="cardinal" unit="" value="7746.833333333333"/>2(szar2) 9(gesz2) 6(disz) 5/6(disz)</count> geme2 u4 <count><interpretation modern_unit="" modern_value="1" system="cardinal" unit="" value="1"/>1(disz)-sze3</count> 
+<count><interpretation modern_unit="g" modern_value="1293000.0" system="weight" unit="gin2" value="155160"/>4(u) 3(asz) gu2 6(disz) ma-na</count> <com dist="1">{gesz}ma-nu</com> 
+<count><interpretation modern_unit="" modern_value="10371" system="cardinal" unit="" value="10371"/>2(szar2) 5(geszu) 2(gesz2) 5(u) 1(disz)</count> sa gi 
+la2-ia3-am3 
+nig2-ka9-ak 
+<com dist="1">bala</com> ur-{d}lamma ensi2 gir2-su{ki} 
+iti sze-sag11-ku5-ta 
+iti diri sze-sag11-ku5-sze3 
+iti <count><interpretation modern_unit="" modern_value="2" system="cardinal" unit="" value="2"/>2(disz)-kam</count> 
+<com dist="1">bala</com> ... 
+mu si-mu-ru-um{ki} lu-lu-bu-um{ki} a-ra2 <count><interpretation modern_unit="" modern_value="10" system="cardinal" unit="" value="10"/>1(u) la2</count> <count><interpretation modern_unit="" modern_value="1" system="cardinal" unit="" value="1"/>1(disz)-kam-asz</count> ba-hul 
+</commodities>

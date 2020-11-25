@@ -1,0 +1,24 @@
+<commodities>
+#P416452 = CDLJ 2012/1 §4.12
+#atf: lang sux
+#tr.en: 33 šugid-sheep,
+#tr.en: 11 šugid-ewes
+#tr.en: n semi-weaned lamb(s) of the royal (grade),
+#tr.en: 4 bucks,
+#tr.en: for “House Day 15”;
+#tr.en: of the month day 12 elapsed,
+#tr.en: from Nalu,
+#tr.en: Nasa accepted.
+#tr.en: month: “Festival of Ninazu,”
+#tr.en: year: “Simurum and Lulubu for the 9th time were destroyed.”
+<count><interpretation modern_unit="" modern_value="33" system="cardinal" unit="" value="33"/>3(u) 3(disz)</count> <com dist="1">udu</com> szu-gid2 
+<count><interpretation modern_unit="" modern_value="11" system="cardinal" unit="" value="11"/>1(u) 1(disz)</count> u8 szu-gid2 
+... sila4 gaba lugal 
+<count><interpretation modern_unit="" modern_value="4" system="cardinal" unit="" value="4"/>4(disz)</count> <com dist="1">masz2</com> szu-gid2 
+e2-u4-1(u) <count><interpretation modern_unit="" modern_value="5" system="cardinal" unit="" value="5"/>5(disz)</count> 
+iti u4 <count><interpretation modern_unit="" modern_value="12" system="cardinal" unit="" value="12"/>1(u) 2(disz)</count> ba-zal 
+ki na-lu5-ta 
+na-sa6 i3-dab5 
+iti ezem-{d}nin-a-zu 
+mu si-mu-ru-um{ki} <com dist="1">u3</com> lu-lu-bu{ki} a-ra2 <count><interpretation modern_unit="" modern_value="10" system="cardinal" unit="" value="10"/>1(u) la2</count> <count><interpretation modern_unit="" modern_value="1" system="cardinal" unit="" value="1"/>1(disz)-kam</count> ba-hul 
+</commodities>

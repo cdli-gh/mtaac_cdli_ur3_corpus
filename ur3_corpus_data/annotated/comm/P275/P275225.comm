@@ -1,0 +1,20 @@
+<commodities>
+#P275225 = ICP varia 28
+#atf: lang sux
+<count><interpretation modern_unit="l" modern_value="5" system="liquid capacity" unit="sila3" value="5"/><interpretation modern_unit="l" modern_value="5" system="dry capacity" unit="sila3" value="5"/>5(disz) sila3</count> <com dist="1">kasz</com> ninda 
+<count><interpretation modern_unit="" modern_value="0.03333333333333333" system="cardinal" unit="" value="0.03333333333333333"/>2(disz) gin2</count> i3 
+tur-tur-ra lu2 <com dist="1">{gesz}tukul</com> 
+<count><interpretation modern_unit="l" modern_value="10" system="dry capacity" unit="sila3" value="10"/>1(ban2)</count> kasz ninda 
+<count><interpretation modern_unit="" modern_value="0.06666666666666667" system="cardinal" unit="" value="0.06666666666666667"/>4(disz) gin2</count> i3 
+sa2-du11 u4 <count><interpretation modern_unit="" modern_value="2" system="cardinal" unit="" value="2"/>2(disz)-kam</count> 
+szu-da-da lu2 <com dist="1">{gesz}tukul</com> 
+<count><interpretation modern_unit="l" modern_value="5" system="liquid capacity" unit="sila3" value="5"/><interpretation modern_unit="l" modern_value="5" system="dry capacity" unit="sila3" value="5"/>5(disz) sila3</count> kasz ninda 
+<count><interpretation modern_unit="" modern_value="0.03333333333333333" system="cardinal" unit="" value="0.03333333333333333"/>2(disz) gin2</count> i3 
+lugal-{d}isztaran lu2 <com dist="1">{gesz}tukul</com> 
+<count><interpretation modern_unit="l" modern_value="10" system="dry capacity" unit="sila3" value="10"/>1(ban2)</count> kasz ninda 
+<count><interpretation modern_unit="" modern_value="0.06666666666666667" system="cardinal" unit="" value="0.06666666666666667"/>4(disz) gin2</count> i3 
+sa2-du11 u4 <count><interpretation modern_unit="" modern_value="2" system="cardinal" unit="" value="2"/>2(disz)-kam</count> 
+an-ne2-ba-du7 lu2 <com dist="1">{gesz}tukul</com> 
+iti amar-a-a-si 
+mu ma2-gur8-mah ba-a-du8 
+</commodities>

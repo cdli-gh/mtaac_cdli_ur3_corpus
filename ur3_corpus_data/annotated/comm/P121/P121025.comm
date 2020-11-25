@@ -1,0 +1,13 @@
+<commodities>
+#P121025 = NATN 327
+#atf: lang sux
+<count><interpretation modern_unit="l" modern_value="0.06148148148148148" system="dry capacity" unit="sila3" value="0.06148148148148148"/>1(geszu) 1(gesz2) 4(asz) sze gur</count> 
+<com dist="1">ki</com> ur-{d}nin-urta-ta 
+... gur 
+ki ...-x-ta 
+... x 
+... 
+... <count><interpretation modern_unit="l" modern_value="300" system="dry capacity" unit="sila3" value="300"/>1(asz) gur</count> <com dist="1">ki</com> ur-esz2-dam-ta 
+<count><interpretation modern_unit="l" modern_value="4800" system="dry capacity" unit="sila3" value="4800"/>1(u) 6(asz) gur</count> <com dist="1">ki</com> ur-{d}da-mu 
+<count><interpretation modern_unit="l" modern_value="72000" system="dry capacity" unit="sila3" value="72000"/>4(gesz2) gur</count> <com dist="1">ki</com> ba-lu5-lu5-ta 
+</commodities>

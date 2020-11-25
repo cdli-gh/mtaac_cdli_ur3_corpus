@@ -1,0 +1,11 @@
+<commodities>
+#P143041 = MVN 20, 108
+#atf: lang sux
+# calculation: (1770 ÷ 20} + (2655 ÷ 10) = 354
+<count><interpretation modern_unit="l" modern_value="1770" system="dry capacity" unit="sila3" value="1770"/>5(asz) 4(barig) 3(ban2)</count> <com dist="1">esza</com> gur 
+<count><interpretation modern_unit="l" modern_value="2655" system="dry capacity" unit="sila3" value="2655"/>8(asz) 4(barig) 1(ban2) 5(disz)</count> <com dist="1">dabin</com> gur 
+gaba-ta gi4-a {d}szara2 umma{ki} 
+iti <count><interpretation modern_unit="" modern_value="10" system="cardinal" unit="" value="10"/>1(u)</count> <count><interpretation modern_unit="" modern_value="2" system="cardinal" unit="" value="2"/>2(disz)-kam</count> 
+u4-de3 <com dist="1">gid2-da</com> u4 <count><interpretation modern_unit="" modern_value="6" system="cardinal" unit="" value="6"/>6(disz)-kam</count> ib2-ta-zi 
+mu ma2 {d}en-ki <com dist="1">ba-ab-du8</com> 
+</commodities>

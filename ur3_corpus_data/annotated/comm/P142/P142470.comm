@@ -1,0 +1,23 @@
+<commodities>
+#P142470 = YOS 18, 076
+#atf: lang sux
+# against collation
+<count><interpretation modern_unit="m" modern_value="36000" system="length" unit="gi" value="12000"/>1(szar2) 4(geszu) ninda</count> <com dist="1">szu</com> na-ap-ta2-num2 
+<count><interpretation modern_unit="m" modern_value="720" system="length" unit="gi" value="240"/>2(gesz2) ninda</count> zi-ga didli 
+<count><interpretation modern_unit="m" modern_value="1800" system="length" unit="gi" value="600"/>5(gesz2) ninda</count> ma2-ta 
+u4 <count><interpretation modern_unit="" modern_value="1" system="cardinal" unit="" value="1"/>1(disz)-kam</count> 
+<count><interpretation modern_unit="m" modern_value="29520" system="length" unit="gi" value="9840"/>1(szar2) 2(geszu) 2(gesz2) ninda</count> u4 <count><interpretation modern_unit="" modern_value="2" system="cardinal" unit="" value="2"/>2(disz)-kam</count> 
+<count><interpretation modern_unit="m" modern_value="28800" system="length" unit="gi" value="9600"/>1(szar2) 2(geszu) ninda</count> u4 <count><interpretation modern_unit="" modern_value="3" system="cardinal" unit="" value="3"/>3(disz)-kam</count> 
+<count><interpretation modern_unit="m" modern_value="34560" system="length" unit="gi" value="11520"/>1(szar2) 3(geszu) 6(gesz2) ninda</count> 
+u4 <count><interpretation modern_unit="" modern_value="4" system="cardinal" unit="" value="4"/>4(disz)-kam-ma</count> 
+<count><interpretation modern_unit="m" modern_value="10380" system="length" unit="gi" value="3460"/>2(geszu) 8(gesz2) 5(u) ninda</count> 
+u4 <count><interpretation modern_unit="" modern_value="5" system="cardinal" unit="" value="5"/>5(disz)-kam-ma</count> 
+<count><interpretation modern_unit="m" modern_value="10080" system="length" unit="gi" value="3360"/>2(geszu) 8(gesz2) ninda</count> u4 <count><interpretation modern_unit="" modern_value="6" system="cardinal" unit="" value="6"/>6(disz)-kam</count> 
+<count><interpretation modern_unit="m" modern_value="8940" system="length" unit="gi" value="2980"/>2(geszu) 4(gesz2) 5(u) ninda</count> <com dist="1">szu</com> 
+u4 <count><interpretation modern_unit="" modern_value="7" system="cardinal" unit="" value="7"/>7(disz)-kam-ma</count> 
+<count><interpretation modern_unit="m" modern_value="9000" system="length" unit="gi" value="3000"/>2(geszu) 5(gesz2) ninda</count> <com dist="1">na-ap-ta2-num2</com> 
+u4 <count><interpretation modern_unit="" modern_value="8" system="cardinal" unit="" value="8"/>8(disz)-kam-ma</count> 
+<count><interpretation modern_unit="m" modern_value="7800" system="length" unit="gi" value="2600"/>2(geszu) 1(gesz2) 4(u) ninda</count> u4 <count><interpretation modern_unit="" modern_value="10" system="cardinal" unit="" value="10"/>1(u) la2</count> <count><interpretation modern_unit="" modern_value="1" system="cardinal" unit="" value="1"/>1(disz)-kam</count> 
+<count><interpretation modern_unit="m" modern_value="2160" system="length" unit="gi" value="720"/>6(gesz2) ninda</count> u4 <count><interpretation modern_unit="" modern_value="10" system="cardinal" unit="" value="10"/>1(u)-kam-ma</count> 
+szunigin <count><interpretation modern_unit="m" modern_value="179760" system="length" unit="gi" value="59920"/>8(szar2) 1(geszu) 9(gesz2) 2(u) ninda</count> <com dist="1">szu</com> 
+</commodities>

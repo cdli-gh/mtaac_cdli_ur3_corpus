@@ -1,0 +1,22 @@
+<commodities>
+#P126651 = PDT 2, 1339
+#atf: lang sux
+<count><interpretation modern_unit="g" modern_value="600000.0" system="weight" unit="gin2" value="72000"/>2(u) gu2</count> siki-gi 
+<count><interpretation modern_unit="g" modern_value="150000.0" system="weight" unit="gin2" value="18000"/>5(asz) gu2</count> <com dist="1">siki</com> gir2-gul 
+<count><interpretation modern_unit="g" modern_value="30000.000000000004" system="weight" unit="gin2" value="3600"/>1(asz) gu2</count> siki ge6 
+a-ra2 <count><interpretation modern_unit="" modern_value="1" system="cardinal" unit="" value="1"/>1(disz)-kam</count> 
+<count><interpretation modern_unit="g" modern_value="300000.0" system="weight" unit="gin2" value="36000"/>1(u) gu2</count> siki-gi 
+<count><interpretation modern_unit="g" modern_value="60000.00000000001" system="weight" unit="gin2" value="7200"/>2(asz) gu2</count> <com dist="1">siki</com> gir2-gul 
+a-ra2 <count><interpretation modern_unit="" modern_value="1" system="cardinal" unit="" value="1"/>1(disz)-kam</count> 
+<count><interpretation modern_unit="g" modern_value="90000.0" system="weight" unit="gin2" value="10800"/>3(asz) gu2</count> siki-gi 
+x gu2 <com dist="1">siki</com> gir2-gul 
+a-ra2 <count><interpretation modern_unit="" modern_value="2" system="cardinal" unit="" value="2"/>2(disz)-kam</count> 
+x <com dist="1">tug2</com> usz-bar 
+... 
+giri3 x-x-IGI-kam 
+<count><interpretation modern_unit="" modern_value="6" system="cardinal" unit="" value="6"/>6(disz)</count> <com dist="1">tug2</com> gu2-tar 
+<count><interpretation modern_unit="" modern_value="24" system="cardinal" unit="" value="24"/>2(u) 4(disz)</count> <com dist="1">tug2</com> sag usz-bar 
+sza3 dub-ba 
+u4 <count><interpretation modern_unit="" modern_value="3" system="cardinal" unit="" value="3"/>3(disz)-kam</count> 
+x 
+</commodities>

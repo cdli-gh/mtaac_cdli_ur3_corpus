@@ -1,0 +1,18 @@
+<commodities>
+#P101123 = AnOr 01, 132
+#atf: lang sux
+# some text moved to next line
+# sic
+<count><interpretation modern_unit="l" modern_value="30" system="liquid capacity" unit="sila3" value="30"/>1(disz) dug</count> <com dist="1">dida</com> 
+<count><interpretation modern_unit="l" modern_value="40" system="dry capacity" unit="sila3" value="40"/>4(ban2)</count> dabin 
+<count><interpretation modern_unit="l" modern_value="1" system="liquid capacity" unit="sila3" value="1"/><interpretation modern_unit="l" modern_value="1" system="dry capacity" unit="sila3" value="1"/>1(disz) sila3</count> i3-gesz 
+{d}szul-gi-ba-ni sagi 
+<com dist="1">gu4</com> udu-da gen-na 
+<count><interpretation modern_unit="" modern_value="1" system="cardinal" unit="" value="1"/>1(asz)</count> <com dist="1">kasz</com> dida saga 
+<count><interpretation modern_unit="l" modern_value="10" system="dry capacity" unit="sila3" value="10"/>1(ban2)</count> <com dist="1">zi3-gu</com> 
+<count><interpretation modern_unit="" modern_value="0.16666666666666666" system="cardinal" unit="" value="0.16666666666666666"/>1(u) gin2</count> i3-gesz 
+nam-ha-ni sagi 
+{d}ur3-bar-tab-sze3 gen-na 
+iti nesag 
+mu en eridu{ki} en eridu{ki} 
+</commodities>

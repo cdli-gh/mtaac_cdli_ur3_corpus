@@ -1,0 +1,24 @@
+<commodities>
+#P103221 = AUCT 1, 376
+#atf: lang sux
+#tr.en: 30 rams, regular offerings of Gula;
+#tr.en: 13 rams,
+#tr.en: 12 ewes,
+#tr.en: 4 billy goats,
+#tr.en: slaughtered, because of the dogs;
+#tr.en: Ilī-bani received;
+#tr.en: booked out
+#tr.en: from (the account of) Ur-kununa;
+#tr.en: month: “Festival-of-Šulgi,”
+#tr.en: year after: “Kimaš was destroyed.”
+<count><interpretation modern_unit="" modern_value="30" system="cardinal" unit="" value="30"/>3(u)</count> <com dist="1">udu</com> sa2-du11 {d}gu-la 
+<count><interpretation modern_unit="" modern_value="13" system="cardinal" unit="" value="13"/>1(u) 3(disz)</count> <com dist="1">udu</com> 
+<count><interpretation modern_unit="" modern_value="12" system="cardinal" unit="" value="12"/>1(u) 2(disz)</count> u8 
+<count><interpretation modern_unit="" modern_value="4" system="cardinal" unit="" value="4"/>4(disz)</count> masz2 
+ba-usz2 mu ur-gi7 
+dingir-ba-ni <com dist="1">szu</com> ba-ti 
+zi-ga 
+ki ur-ku3-nun-na 
+iti ezem-{d}szul-gi 
+mu us2-sa ki-masz{ki} ba-hul 
+</commodities>

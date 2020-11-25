@@ -1,0 +1,11 @@
+<commodities>
+#P100675 = Aleppo 343
+#atf: lang sux
+<count><interpretation modern_unit="l" modern_value="155" system="dry capacity" unit="sila3" value="155"/>2(barig) 3(ban2) 5(disz) sila3</count> <com dist="1">{u2}gamun2</com> babbar 
+<count><interpretation modern_unit="l" modern_value="10" system="dry capacity" unit="sila3" value="10"/>1(ban2)</count> {u2}gamun2 ge6 
+<count><interpretation modern_unit="l" modern_value="660" system="dry capacity" unit="sila3" value="660"/>2(asz) 1(barig)</count> <com dist="1">sze-lu2</com> gur 
+<count><interpretation modern_unit="" modern_value="1" system="cardinal" unit="" value="1"/>1(asz)</count> gu2-gal gur 
+<count><interpretation modern_unit="l" modern_value="8" system="liquid capacity" unit="sila3" value="8"/><interpretation modern_unit="l" modern_value="8" system="dry capacity" unit="sila3" value="8"/>8(disz) sila3</count> <com dist="1">gu2-tur</com> 
+ki lu2-{d}szara2 lu2 tir-ta 
+mu us2-sa a-ra2 <count><interpretation modern_unit="" modern_value="3" system="cardinal" unit="" value="3"/>3(disz)-kam</count> si-mu-ru-um{ki} ba-hul 
+</commodities>

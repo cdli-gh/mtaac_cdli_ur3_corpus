@@ -1,0 +1,16 @@
+<commodities>
+#P102218 = ASJ 07, 128 40
+#atf: lang sux
+<count><interpretation modern_unit="l" modern_value="240" system="dry capacity" unit="sila3" value="240"/>4(barig)</count> <com dist="1">zi3</com> sig15 
+<count><interpretation modern_unit="l" modern_value="40" system="dry capacity" unit="sila3" value="40"/>4(ban2)</count> esza 
+<count><interpretation modern_unit="l" modern_value="50" system="dry capacity" unit="sila3" value="50"/>5(ban2)</count> zi3 
+<count><interpretation modern_unit="l" modern_value="120" system="liquid capacity" unit="sila3" value="120"/>4(disz) dug</count> dida ... 
+<count><interpretation modern_unit="l" modern_value="300" system="liquid capacity" unit="sila3" value="300"/>1(u) dug</count> nig2 <count><interpretation modern_unit="l" modern_value="1" system="liquid capacity" unit="sila3" value="1"/><interpretation modern_unit="l" modern_value="1" system="dry capacity" unit="sila3" value="1"/>1(disz) sila3</count> 
+<count><interpretation modern_unit="" modern_value="none" system="unknown" unit="" value="none"/>2(ban2) x sila3</count> sa2-du11 
+<count><interpretation modern_unit="l" modern_value="3" system="liquid capacity" unit="sila3" value="3"/><interpretation modern_unit="l" modern_value="3" system="dry capacity" unit="sila3" value="3"/>3(disz) sila3</count> <com dist="1">i3-nun</com> 
+... zu2-lum 
+<count><interpretation modern_unit="g" modern_value="150000.0" system="weight" unit="gin2" value="18000"/>5(asz) gu2</count> gi 
+<count><interpretation modern_unit="g" modern_value="90000.0" system="weight" unit="gin2" value="10800"/>3(asz) gu2</count> u2-x-eb 
+<count><interpretation modern_unit="g" modern_value="60000.00000000001" system="weight" unit="gin2" value="7200"/>2(asz) gu2</count> pa geszimmar 
+mu us2-sa ki-masz{ki} ba-hul 
+</commodities>

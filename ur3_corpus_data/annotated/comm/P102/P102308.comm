@@ -1,0 +1,24 @@
+<commodities>
+#P102308 = ASJ 09, 252 32
+#atf: lang sux
+#tr.en: 1 male lamb, grain-fed,
+#tr.en: 2 rams,
+#tr.en: 1 female lamb,
+#tr.en: 4th day,
+#tr.en: from Abbasaga
+#tr.en: did Nalu
+#tr.en: accept;
+#tr.en: month: “Festival of An,”
+#tr.en: year: “The chair of Enlil was fashioned;”
+#tr.en: (total:) 4.
+<count><interpretation modern_unit="" modern_value="1" system="cardinal" unit="" value="1"/>1(disz)</count> <com dist="1">sila4</com> niga 
+<count><interpretation modern_unit="" modern_value="2" system="cardinal" unit="" value="2"/>2(disz)</count> <com dist="1">udu</com> 
+<count><interpretation modern_unit="" modern_value="1" system="cardinal" unit="" value="1"/>1(disz)</count> kir11 
+u4 <count><interpretation modern_unit="" modern_value="4" system="cardinal" unit="" value="4"/>4(disz)-kam</count> 
+ki ab-ba-sa6-ga-ta 
+na-lu5 
+i3-dab5 
+iti ezem-an-na 
+mu <com dist="1">gu-za</com> {d}en-lil2-la2 ba-dim2 
+<count><interpretation modern_unit="" modern_value="4" system="cardinal" unit="" value="4"/>4(disz)</count> 
+</commodities>

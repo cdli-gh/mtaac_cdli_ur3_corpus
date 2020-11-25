@@ -1,0 +1,25 @@
+<commodities>
+#P337978 = OIM A05604 
+#atf: lang sux 
+<count><interpretation modern_unit="l" modern_value="82" system="dry capacity" unit="sila3" value="82"/>1(barig) 2(ban2) 2(disz) sila3</count> <com dist="1">i3</com> nun 
+<count><interpretation modern_unit="l" modern_value="95" system="dry capacity" unit="sila3" value="95"/>1(barig) 3(ban2) 5(disz) sila3</count> <com dist="1">ga-ar3</com> 
+<count><interpretation modern_unit="g" modern_value="135000.0" system="weight" unit="gin2" value="16200"/>4(asz) gu2 3(u) ma-na</count> siki ud5 
+da-gi na-gada 
+<count><interpretation modern_unit="l" modern_value="85" system="dry capacity" unit="sila3" value="85"/>1(barig) 2(ban2) 5(disz) sila3</count> <com dist="1">i3-nun</com> 
+<count><interpretation modern_unit="l" modern_value="297" system="dry capacity" unit="sila3" value="297"/>4(barig) 5(ban2) 7(disz) sila3</count> ga-ar3 
+<count><interpretation modern_unit="l" modern_value="14.5" system="dry capacity" unit="sila3" value="14.5"/>1(ban2) 4(disz) 1/2(disz) sila3</count> ga-ar3 de2 
+<count><interpretation modern_unit="g" modern_value="230000.00000000003" system="weight" unit="gin2" value="27600"/>7(asz) gu2 4(u) ma-na</count> <com dist="1">siki</com> ud5 
+lu2-uszur3 na-gada 
+... sila3 <count><interpretation modern_unit="" modern_value="0.25" system="cardinal" unit="" value="0.25"/>1(u) 5(disz) gin2</count> <com dist="1">i3-nun</com> 
+... sila3 ga-ar3 
+x-da unu3 
+x nin9 szu bar-ra-me 
+... dug i3-nun 
+... n <count><interpretation modern_unit="l" modern_value="1" system="liquid capacity" unit="sila3" value="1"/><interpretation modern_unit="l" modern_value="1" system="dry capacity" unit="sila3" value="1"/>1(disz) sila3</count> <com dist="1">ga-ar3</com> 
+... gu2 <count><interpretation modern_unit="" modern_value="none" system="unknown" unit="" value="none"/>2(u) x ma-na</count> <com dist="1">siki</com> ud5 
+... x-ku-me 
+... x 
+... x 
+... x 
+... x 
+</commodities>

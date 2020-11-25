@@ -1,0 +1,34 @@
+<commodities>
+#P111567 = ITT 5, 06859
+#atf: lang sux
+#tr.en: 180 less 1/2 female laborers,
+#tr.en: from month: “musudu,”
+#tr.en: to month: “Grain-carried,”
+#tr.en: year: “Ibbi-Suen (is) king,”
+#tr.en: 171 female laborers,
+#tr.en: from month: “GANmaš,”
+#tr.en: to month: “Festival of Baba,”
+#tr.en: year: “The high-priest of Inanna with extispicy was named,”
+#tr.en: the labor: 62,580 workdays, female laborers;
+# calculation: (179 1/2 x 120) + (171 x 240) = 62,580
+#tr.en: ...
+#tr.en: account of the labor of female laborers ...
+# HAR ?
+#tr.en: Lu-Ningirsu, son of Ur-Nanše;
+#tr.en: (period) of 12 months,
+#tr.en: year: “The high-priest of Inanna with extispicy was named.”
+<count><interpretation modern_unit="" modern_value="179.5" system="cardinal" unit="" value="179.5"/>3(gesz2) la2 1/2(disz)</count> geme2 
+iti mu-szu-du7-ta 
+iti sze-il2-la-sze3 
+mu {d}i-bi2-{d}suen lugal 
+<count><interpretation modern_unit="" modern_value="171" system="cardinal" unit="" value="171"/>2(gesz2) 5(u) 1(disz)</count> geme2 
+iti GAN2-masz-ta 
+iti ezem-{d}ba-ba6-sze3 
+mu en {d}inanna unu{ki} <com dist="1">masz2-e</com> i3-pa3 
+a2-bi <count><interpretation modern_unit="" modern_value="62580" system="cardinal" unit="" value="62580"/>1(szar'u) 7(szar2) 2(geszu) 3(gesz2)</count> geme2 u4 <count><interpretation modern_unit="" modern_value="1" system="cardinal" unit="" value="1"/>1(disz)-sze3</count> 
+zi ... 
+nig2-ka9-ak a2 geme2 (x) ki (x) 
+lu2-{d}nin-gir2-su dumu ur-{d}nansze 
+iti <count><interpretation modern_unit="" modern_value="10" system="cardinal" unit="" value="10"/>1(u)</count> <count><interpretation modern_unit="" modern_value="2" system="cardinal" unit="" value="2"/>2(disz)-kam</count> 
+mu en {d}inanna unu{ki}-ga <com dist="1">masz2-e</com> i3-pa3 
+</commodities>

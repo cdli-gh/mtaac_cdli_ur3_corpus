@@ -1,0 +1,52 @@
+<commodities>
+#P120960 = NATN 262
+#atf: lang sux
+#tr.en: 10 shekels silver,
+#tr.de: 10 Sekel Silber,
+#tr.en: labor of Ur-dukuga,
+#tr.de: Arbeitsleistung des Ur-du-kuga,
+#tr.en: in one year ...,
+#tr.de: (während) eines Jahres ...,
+#tr.en: from PA’u
+#tr.de: von PA-u
+#tr.en: did Ur-dukuga
+#tr.de: hat Ur-du-kuga
+#tr.en: recieve;
+#tr.de: empfangen;
+#tr.en: if
+#tr.de: falls er
+#tr.en: for 1 day he does not work,
+#tr.de: für einen Tag die Arbeit aussetzt,
+#tr.en: that 3 ban2 barley for each (day) will be weighed out,
+#tr.de: dass er 3 (ban) (für) jeden (Tag) darmessen wird,
+#tr.en: the royal name he invoked;
+#tr.de: hat er beim königlichen Namen geschworen;
+#tr.en: 1 PAda,
+#tr.de: 1 PAda,
+#tr.en: 1 Ur-Tummal, chief surveyor,
+#tr.de: 1 Ur-Tummal, der Katasterleiter,
+#tr.en: 1 Šeškalla, son of Dudu,
+#tr.de: 1 Šeškalla, der Sohn des Dudu,
+#tr.en: are the witnesses;
+#tr.de: sind dabei die Zeugen;
+#tr.en: from month: “NENEgar,” the 15th day completed,
+#tr.de: von “NENEgar”, ab dem 15. vollendeten Tag,
+#tr.en: year: “Simurrum was destroyed.”
+#tr.de: Jahr: “Simurum wurde zerstört”.
+<count><interpretation modern_unit="" modern_value="0.16666666666666666" system="cardinal" unit="" value="0.16666666666666666"/>1(u) gin2</count> <com dist="1">ku3-babbar</com> 
+a2 ur-du6-ku3-ga-x 
+mu <count><interpretation modern_unit="" modern_value="1" system="cardinal" unit="" value="1"/>1(disz)-am3</count> an-na-DU 
+ki PA-u2-ta 
+ur-du6-ku3-ga-ke4 
+<com dist="1">szu</com> ba-ti 
+tukum-bi 
+u4 <count><interpretation modern_unit="" modern_value="1" system="cardinal" unit="" value="1"/>1(disz)-am3</count> ga2-la in-dag 
+<com dist="1">sze</com> <count><interpretation modern_unit="l" modern_value="30" system="dry capacity" unit="sila3" value="30"/>3(ban2)-ta</count> ag2-e-da 
+mu lugal-bi in-pa3 
+<count><interpretation modern_unit="" modern_value="1" system="cardinal" unit="" value="1"/>1(disz)</count> PA-da 
+<count><interpretation modern_unit="" modern_value="1" system="cardinal" unit="" value="1"/>1(disz)</count> ur-tum-al sa12-du5 
+<count><interpretation modern_unit="" modern_value="1" system="cardinal" unit="" value="1"/>1(disz)</count> szesz-kal-la dumu du-du 
+lu2-inim-ma-bi-me 
+iti NE-NE-gar u4 <count><interpretation modern_unit="" modern_value="15" system="cardinal" unit="" value="15"/>1(u) 5(disz)</count> ba-zal-ta 
+mu si-mu-ru-um{ki} ba-hul 
+</commodities>

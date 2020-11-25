@@ -1,0 +1,20 @@
+<commodities>
+#P111754 = ITT 5, 10007
+#atf: lang sux
+#tr.de: 2 barig Fisch ... für Naru’a,
+#tr.de: 4 ban2 Fisch für Gerste,
+#tr.de: 1 (Kor) Fisch für Silber:
+#tr.de: Lu-Naru’a.
+#tr.de: 3 ban2 Fisch für Gerste,
+#tr.de: 1 (Kor) Fisch für Silber der Gehenden.
+#tr.de: 2 (Kor) 2 barig Fisch für Gerste,
+#tr.de: 1 (Kor) Fisch für Silber: Ur-Egula.
+<count><interpretation modern_unit="l" modern_value="120" system="dry capacity" unit="sila3" value="120"/>2(barig)</count> <com dist="1">ku6</com> sza3 kiszib3-ba {d}na-ru2-a 
+<count><interpretation modern_unit="l" modern_value="40" system="dry capacity" unit="sila3" value="40"/>4(ban2)</count> <com dist="1">ku6</com> niga 
+<count><interpretation modern_unit="" modern_value="1" system="cardinal" unit="" value="1"/>1(asz)</count> <com dist="1">ku6</com> ku3-ga 
+lu2-{d}na-ru2-a 
+<count><interpretation modern_unit="l" modern_value="30" system="dry capacity" unit="sila3" value="30"/>3(ban2)</count> <com dist="1">ku6</com> sze 
+<count><interpretation modern_unit="" modern_value="1" system="cardinal" unit="" value="1"/>1(asz)</count> ku6 ku3 du-du 
+<count><interpretation modern_unit="l" modern_value="720" system="dry capacity" unit="sila3" value="720"/>2(asz) 2(barig)</count> <com dist="1">ku6</com> sze 
+<count><interpretation modern_unit="" modern_value="1" system="cardinal" unit="" value="1"/>1(asz)</count> ku6 ku3 ur-e2-gu-la 
+</commodities>

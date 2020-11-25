@@ -1,0 +1,42 @@
+<commodities>
+#P393067 = CDLB 2010:1, no. 5
+#atf: lang sux
+#tr.en: n 1 garment, guz-za, good quality,
+#tr.en: 1 garment, double-threaded, good quality,
+#tr.en: 1 garment, outer-cover, good quality,
+#tr.en: 3 units of outer-cover ...,
+#tr.en: 5 garments gu2-e3 ...,
+#tr.en: 5 garments, gu2-e3, regular quality,
+#tr.en: 20 less 3 garments, guz-za,f regular quality,
+#tr.en: one garment, soft,
+#tr.en: 4 garments of ... ,
+#tr.en: 6 garments, native aktum,
+#tr.en: 7 garments, Elamite,
+#tr.en: 5 garments, bar-si, gu2-e3,
+#tr.en: 6 linens, good quality,
+#tr.en: 8 linens, ša3-ga-du3,
+#tr.en: 3 linens, head,
+#tr.en: from (the account of) the galla-gal
+#tr.en: Dingira
+#tr.en: received;
+#tr.en: month: “Festival of first-fruits.”
+n <count><interpretation modern_unit="" modern_value="1" system="cardinal" unit="" value="1"/>1(disz)</count> <com dist="1">tug2</com> guz-za saga 
+<count><interpretation modern_unit="" modern_value="1" system="cardinal" unit="" value="1"/>1(disz)</count> <com dist="1">tug2</com> tab-ba saga 
+<count><interpretation modern_unit="" modern_value="1" system="cardinal" unit="" value="1"/>1(disz)</count> <com dist="1">tug2</com> bar-dul5 saga 
+<count><interpretation modern_unit="" modern_value="3" system="cardinal" unit="" value="3"/>3(disz)</count> <com dist="1">tug2</com> bar-dul5 gu2-tar 
+<count><interpretation modern_unit="" modern_value="5" system="cardinal" unit="" value="5"/>5(disz)</count> <com dist="1">tug2</com> gu2-e3 ... 
+<count><interpretation modern_unit="" modern_value="5" system="cardinal" unit="" value="5"/>5(disz)</count> <com dist="1">tug2</com> gu2-e3 du 
+<count><interpretation modern_unit="" modern_value="17" system="cardinal" unit="" value="17"/>2(u) la2 3(disz)</count> tug2 guz-za du 
+<count><interpretation modern_unit="" modern_value="1" system="cardinal" unit="" value="1"/>1(disz)</count> tug2 ha-bu-um 
+<count><interpretation modern_unit="" modern_value="4" system="cardinal" unit="" value="4"/>4(disz)</count> tug2 x x gal 
+<count><interpretation modern_unit="" modern_value="6" system="cardinal" unit="" value="6"/>6(disz)</count> <com dist="1">tug2</com> aktum gi 
+<count><interpretation modern_unit="" modern_value="7" system="cardinal" unit="" value="7"/>7(disz)</count> tug2 elam 
+<count><interpretation modern_unit="" modern_value="5" system="cardinal" unit="" value="5"/>5(disz)</count> <com dist="1">tug2</com> bar-si gu2-e3 
+<count><interpretation modern_unit="" modern_value="6" system="cardinal" unit="" value="6"/>6(disz)</count> <com dist="1">gada</com> gal saga 
+<count><interpretation modern_unit="" modern_value="8" system="cardinal" unit="" value="8"/>8(disz)</count> <com dist="1">gada</com> sza3-ga-du3 
+<count><interpretation modern_unit="" modern_value="3" system="cardinal" unit="" value="3"/>3(disz)</count> gada sag 
+ki gal5-la2-gal-ta 
+dingir-ra-ke4 
+<com dist="1">szu</com> ba-ti 
+iti ezem-nesag 
+</commodities>

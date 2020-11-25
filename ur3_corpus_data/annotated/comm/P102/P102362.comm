@@ -1,0 +1,16 @@
+<commodities>
+#P102362 = ASJ 09, 273 86
+#atf: lang sux
+#tr.en: 1 talent 36 mana wool,
+#tr.en: from the storage facility in Nippur,
+#tr.en: Dudu
+#tr.en: received;
+#tr.en: month: “Festival of Ninazu,”
+#tr.en: year after: “For the 3rd time Simurrum was destroyed.”
+<count><interpretation modern_unit="g" modern_value="48000.0" system="weight" unit="gin2" value="5760"/>1(asz) gu2 3(u) 6(disz) ma-na</count> <com dist="1">siki</com> 
+e2-kiszib3-ba sza3 nibru{ki}-ta 
+du-du 
+szu ba-ti 
+iti ezem-{d}nin-a-zu 
+mu us2-sa a-ra2 <count><interpretation modern_unit="" modern_value="3" system="cardinal" unit="" value="3"/>3(disz)-kam-asz</count> si-mu-ru-um{ki} ba-hul 
+</commodities>

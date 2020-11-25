@@ -1,0 +1,30 @@
+<commodities>
+#P116668 = MVN 12, 406
+#atf: lang sux
+x <count><interpretation modern_unit="l" modern_value="0.0008333333333333333" system="dry capacity" unit="sila3" value="0.0008333333333333333"/>9(asz) sze gur</count> lugal 
+a-ra2 <count><interpretation modern_unit="" modern_value="1" system="cardinal" unit="" value="1"/>1(disz)-kam</count> 
+<count><interpretation modern_unit="l" modern_value="103180" system="dry capacity" unit="sila3" value="103180"/>5(gesz2) 4(u) 3(asz) 4(barig) 4(ban2) gur</count> 
+a-ra2 <count><interpretation modern_unit="" modern_value="2" system="cardinal" unit="" value="2"/>2(disz)-kam</count> 
+giri3 <com dist="1">ur-{gesz}gigir</com> 
+<count><interpretation modern_unit="l" modern_value="105000" system="dry capacity" unit="sila3" value="105000"/>5(gesz2) 5(u) gur</count> 
+giri3 ur-{d}su4-an-na 
+... <count><interpretation modern_unit="l" modern_value="64440" system="dry capacity" unit="sila3" value="64440"/>3(gesz2) 3(u) 4(asz) 4(barig) gur</count> 
+giri3 ur-{d}nansze 
+szunigin <count><interpretation modern_unit="l" modern_value="335320" system="dry capacity" unit="sila3" value="335320"/>1(geszu) 8(gesz2) 3(u) 7(asz) 3(barig) 4(ban2) gur</count> 
+ki <com dist="1">ur-{gesz}gigir-ta</com> 
+ur-{d}en-lil2-la2 
+szu ba-ti 
+iti ezem-{d}ba-ba6 
+mu en-mah-gal en {d}nanna ba-a-hun(KU) 
+x <count><interpretation modern_unit="l" modern_value="0.0008333333333333333" system="dry capacity" unit="sila3" value="0.0008333333333333333"/>9(asz) sze gur</count> lugal 
+a-ra2 <count><interpretation modern_unit="" modern_value="1" system="cardinal" unit="" value="1"/>1(disz)-kam</count> 
+<count><interpretation modern_unit="l" modern_value="103180" system="dry capacity" unit="sila3" value="103180"/>5(gesz2) 4(u) 3(asz) 4(barig) 4(ban2) gur</count> 
+a-ra2 <count><interpretation modern_unit="" modern_value="2" system="cardinal" unit="" value="2"/>2(disz)-kam</count> 
+giri3 <com dist="1">ur-{gesz}gigir</com> 
+<count><interpretation modern_unit="l" modern_value="105000" system="dry capacity" unit="sila3" value="105000"/>5(gesz2) 5(u) gur</count> giri3 ur-{d}su4-an-na 
+... <count><interpretation modern_unit="l" modern_value="64440" system="dry capacity" unit="sila3" value="64440"/>3(gesz2) 3(u) 4(asz) 4(barig) gur</count> 
+giri3 ur-{d}nansze 
+ur-{d}en-lil2-la2 
+dub-sar 
+dumu ka-sa6 kuruszda 
+</commodities>

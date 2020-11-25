@@ -1,0 +1,36 @@
+<commodities>
+#P481392 = UC CSC 1951
+#atf: lang sux
+#tr.en: 54 gur 2 ban2 2 2/3 sila3 5 shekels barley,
+#tr.en: 2 gur emmer,
+#tr.en: seed barley, fodder;
+#tr.en: 36 gur 3 barig 1 ban2 5 1/2 sila3,
+#tr.en: wages of the hirelings, working in the fields;
+#tr.en: 20 gur barley,
+#tr.en: wages of the hirelings, ... lifted;
+#tr.en: from ARAD
+#tr.en: total: ...
+#tr.en: under seal of Ur-Šara;
+# seal impression
+#tr.en: water poured;
+# some text moved to next line
+#tr.en: year: “Ḫarsi, Kimaš were destroyed.”
+#tr.en: Ur-gepar,
+#tr.en: scribe,
+#tr.en: son of Ayakalla.
+<count><interpretation modern_unit="l" modern_value="16222.75" system="dry capacity" unit="sila3" value="16222.75"/>5(u) 4(asz) 2(ban2) 2(disz) 2/3(disz) sila3 5(disz) gin2 sze gur</count> 
+<count><interpretation modern_unit="" modern_value="2" system="cardinal" unit="" value="2"/>2(asz)</count> <com dist="1">ziz2</com> gur 
+sze-numun mur-gu4 
+<count><interpretation modern_unit="l" modern_value="10995.5" system="dry capacity" unit="sila3" value="10995.5"/>3(u) 6(asz) 3(barig) 1(ban2) 5(disz) 1/2(disz) sila3</count> 
+a2 lu2 hun-ga2 a-sza3-ge kin-ak 
+<count><interpretation modern_unit="l" modern_value="0.0018518518518518517" system="dry capacity" unit="sila3" value="0.0018518518518518517"/>2(u) sze gur</count> 
+a2 lu2 hun-ga2 ...-ke4 zi-ga 
+<com dist="1">ki</com> ARAD2-ta 
+ugu2 lugal-x ba-a-gar 
+kiszib3 ur-{d}szara2 
+a de2-a 
+mu ha-ar-szi ki-masz{ki} ba-hul 
+ur-ge6-par4 
+dub-sar 
+dumu a-a-kal-la 
+</commodities>

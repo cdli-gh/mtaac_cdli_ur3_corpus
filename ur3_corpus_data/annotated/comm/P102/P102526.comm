@@ -1,0 +1,62 @@
+<commodities>
+#P102526 = ASJ 14, 102 4
+#atf: lang sux
+#tr.en: 1 grain-fed ox, 6 sheep, 4 goats,
+#tr.en: (from) Padamu;
+#tr.en: 1 grain-fed ox, 9 sheep, 1 goat, (from) Idi'a, the judge.
+#tr.en: ersu'a delivery.
+#tr.en: 1 grain-fed ox, 10 black sheep, (from) Šalim-beli, the nubanda.
+#tr.en: 1 grain-fed ox, 3 grain-fed sheep, 1 grain-fed lamb,
+#tr.en: 3 sheep, 2 goats,
+#tr.en: 1 lamb,
+#tr.en: (from) Enšakuge, priest of Nanše.
+#tr.en: 9 full-grown billy goats,
+#tr.en: 1 lamb,
+#tr.en: (from) the ensi of Girtab.
+#tr.en: 4 aslum sheep, 1 sheep, 8 fat-tailed sheep,
+#tr.en: (from) Nadu-beli, the Amorite.
+#tr.en: 1 lamb (from) the priest of Inanna.
+#tr.en: 3 sheep, 1 billy goat (from) Ur-mes, the household manager.
+#tr.en: 1 lamb (from) Lu-Asarluhi, the household manager.
+#tr.en: 2 lambs (from) the ensi of Nippur.
+#tr.en: 1 lamb (from) Amua, the ukul.
+#tr.en: 2 sheep, 1 lamb, (from) x-mašum, the cupbearer.
+#tr.en: 1 lamb (from) Ada'a.
+#tr.en: 1 lamb (from) Lugal-pa'e.
+#tr.en: 1 lamb (from) Šešzimu.
+#tr.en: 1 lamb (from) Nanna-ludu.
+#tr.en: 1 lamb (from) Ur-amana.
+#tr.en: 1 lamb (from) Ur-Ningubalag.
+#tr.en: Delibery of the month “big festival,”
+#tr.en: year: “Kimaš and Hurti were destroyed.”
+#tr.en: 6th day.
+<count><interpretation modern_unit="" modern_value="1" system="cardinal" unit="" value="1"/>1(disz)</count> <com dist="1">gu4</com> niga <count><interpretation modern_unit="" modern_value="6" system="cardinal" unit="" value="6"/>6(disz)</count> udu <count><interpretation modern_unit="" modern_value="4" system="cardinal" unit="" value="4"/>4(disz)</count> masz2 
+pa3-da-mu 
+<count><interpretation modern_unit="" modern_value="1" system="cardinal" unit="" value="1"/>1(disz)</count> <com dist="1">gu4</com> niga <count><interpretation modern_unit="" modern_value="9" system="cardinal" unit="" value="9"/>1(u) la2 1(disz)</count> udu <count><interpretation modern_unit="" modern_value="1" system="cardinal" unit="" value="1"/>1(disz)</count> masz2 i-di3-a di-ku5 
+mu-kux(DU) er2-su3-a 
+<count><interpretation modern_unit="" modern_value="1" system="cardinal" unit="" value="1"/>1(disz)</count> <com dist="1">gu4</com> niga <count><interpretation modern_unit="" modern_value="10" system="cardinal" unit="" value="10"/>1(u)</count> udu ge6 sza-lim-be-li2 nu-banda3 
+<count><interpretation modern_unit="" modern_value="1" system="cardinal" unit="" value="1"/>1(disz)</count> <com dist="1">gu4</com> niga <count><interpretation modern_unit="" modern_value="3" system="cardinal" unit="" value="3"/>3(disz)</count> udu niga <count><interpretation modern_unit="" modern_value="1" system="cardinal" unit="" value="1"/>1(disz)</count> sila4 niga 
+<count><interpretation modern_unit="" modern_value="3" system="cardinal" unit="" value="3"/>3(disz)</count> <com dist="1">udu</com> <count><interpretation modern_unit="" modern_value="2" system="cardinal" unit="" value="2"/>2(disz)</count> masz2 
+<count><interpretation modern_unit="" modern_value="1" system="cardinal" unit="" value="1"/>1(disz)</count> sila4 
+en-sza3-ku3-ge en {d}nansze 
+<count><interpretation modern_unit="" modern_value="9" system="cardinal" unit="" value="9"/>1(u) la2 1(disz)</count> <com dist="1">masz2-gal</com> 
+<count><interpretation modern_unit="" modern_value="1" system="cardinal" unit="" value="1"/>1(disz)</count> sila4 
+ensi2 gir13-tab{ki} 
+<count><interpretation modern_unit="" modern_value="4" system="cardinal" unit="" value="4"/>4(disz)</count> <com dist="1">udu</com> a-lum <count><interpretation modern_unit="" modern_value="1" system="cardinal" unit="" value="1"/>1(disz)</count> udu <count><interpretation modern_unit="" modern_value="8" system="cardinal" unit="" value="8"/>8(disz)</count> gukkal 
+na-du-be-li2 mar-tu 
+<count><interpretation modern_unit="" modern_value="1" system="cardinal" unit="" value="1"/>1(disz)</count> <com dist="1">sila4</com> en {d}inanna 
+<count><interpretation modern_unit="" modern_value="3" system="cardinal" unit="" value="3"/>3(disz)</count> <com dist="1">udu</com> <count><interpretation modern_unit="" modern_value="1" system="cardinal" unit="" value="1"/>1(disz)</count> masz2 ur-mes szabra 
+<count><interpretation modern_unit="" modern_value="1" system="cardinal" unit="" value="1"/>1(disz)</count> <com dist="1">sila4</com> lu2-{d}asar-lu2-hi szabra 
+<count><interpretation modern_unit="" modern_value="2" system="cardinal" unit="" value="2"/>2(disz)</count> <com dist="1">sila4</com> ensi2 nibru{ki} 
+<count><interpretation modern_unit="" modern_value="1" system="cardinal" unit="" value="1"/>1(disz)</count> <com dist="1">sila4</com> a-mu-a u3-kul 
+<count><interpretation modern_unit="" modern_value="2" system="cardinal" unit="" value="2"/>2(disz)</count> <com dist="1">udu</com> <count><interpretation modern_unit="" modern_value="1" system="cardinal" unit="" value="1"/>1(disz)</count> sila4 (x)-ma-szum sagi 
+<count><interpretation modern_unit="" modern_value="1" system="cardinal" unit="" value="1"/>1(disz)</count> <com dist="1">sila4</com> id-da-a 
+<count><interpretation modern_unit="" modern_value="1" system="cardinal" unit="" value="1"/>1(disz)</count> <com dist="1">sila4</com> lugal-pa-e3 
+<count><interpretation modern_unit="" modern_value="1" system="cardinal" unit="" value="1"/>1(disz)</count> <com dist="1">sila4</com> szesz-zi-mu 
+<count><interpretation modern_unit="" modern_value="1" system="cardinal" unit="" value="1"/>1(disz)</count> <com dist="1">sila4</com> {d}nanna-lu2-du10 
+<count><interpretation modern_unit="" modern_value="1" system="cardinal" unit="" value="1"/>1(disz)</count> <com dist="1">sila4</com> ur-ama-na 
+<count><interpretation modern_unit="" modern_value="1" system="cardinal" unit="" value="1"/>1(disz)</count> <com dist="1">sila4</com> ur-{d}nin-gubalag 
+mu-kux(DU) iti ezem-mah 
+mu ki-masz{ki} u3 hu-ur5-ti ba-hul 
+u4 <count><interpretation modern_unit="" modern_value="6" system="cardinal" unit="" value="6"/>6(disz)-kam</count> 
+</commodities>

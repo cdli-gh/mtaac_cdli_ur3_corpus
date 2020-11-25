@@ -1,0 +1,16 @@
+<commodities>
+#P137902 = UET 3, 1576
+#atf: lang sux
+n gada sza3-ga-du3 sza3-gu saga 
+n gada sag-kesz2 sza3-gu 
+<count><interpretation modern_unit="" modern_value="2" system="cardinal" unit="" value="2"/>2(disz)</count> <com dist="1">gada</com> bar-si sza3-gu 
+ki-la2-bi <count><interpretation modern_unit="g" modern_value="1250.0" system="weight" unit="gin2" value="150.0"/>2(disz) 1/2(disz) ma-na</count> 
+<count><interpretation modern_unit="" modern_value="1" system="cardinal" unit="" value="1"/>1(disz)</count> <com dist="1">gada</com> gu sig 
+n gada sza3-ga-du3 sig 
+ki-la2-bi <count><interpretation modern_unit="g" modern_value="1041.6666666666667" system="weight" unit="gin2" value="125"/>2(disz) ma-na 5(disz) gin2</count> 
+<count><interpretation modern_unit="" modern_value="6" system="cardinal" unit="" value="6"/>6(disz)</count> <com dist="1">gada</com> usz-bar 
+ki-la2-bi <count><interpretation modern_unit="g" modern_value="8000.000000000001" system="weight" unit="gin2" value="960"/>1(u) 6(disz) ma-na</count> 
+... <com dist="1">gu</com> har 
+ki-la2-bi n <count><interpretation modern_unit="g" modern_value="250.00000000000003" system="weight" unit="gin2" value="30.0"/>1/2(disz) ma-na</count> 
+... <com dist="1">du</com> 
+</commodities>

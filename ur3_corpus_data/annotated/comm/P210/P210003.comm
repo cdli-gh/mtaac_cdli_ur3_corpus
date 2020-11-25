@@ -1,0 +1,99 @@
+<commodities>
+#P210003 = LB 0544
+#atf: lang sux
+# calculation: 98 × 36 = 3528
+# calculation: 98 ÷ 5 = 19.6
+# calculation 12 × 36 = 432
+# calculation: 12 ÷ 5 = 2.4
+# adding entries from obv. i 18 - ii 15
+# calculation: 516 × 36 = 18576
+# calculation: 516 ÷ 5 = 103(.2)
+# calculation: 138.33 ÷ 5 = 27.67 ?
+# calculation: 58 × 36 = 2088
+# calculation: 58 ÷ 5 = 11.6
+# calculation: 172 × 36 = 6192
+# calculation: 58 ÷ 5 = 34.4
+<count><interpretation modern_unit="" modern_value="98" system="cardinal" unit="" value="98"/>1(gesz2) 3(u) 8(disz)</count> <com dist="1">gurusz</com> u4 <count><interpretation modern_unit="" modern_value="1" system="cardinal" unit="" value="1"/>1(disz)-sze3</count> 
+ma2 <count><interpretation modern_unit="l" modern_value="18000" system="dry capacity" unit="sila3" value="18000"/>1(gesz2) gur</count> <count><interpretation modern_unit="" modern_value="1" system="cardinal" unit="" value="1"/>1(disz)-a-kam</count> 
+ma2 <count><interpretation modern_unit="" modern_value="60" system="cardinal" unit="" value="60"/>1(gesz2)</count> gur-da-bi <count><interpretation modern_unit="" modern_value="36" system="cardinal" unit="" value="36"/>3(u) 6(disz)</count> 
+<com dist="1">a2-bi</com> <count><interpretation modern_unit="" modern_value="3528" system="cardinal" unit="" value="3528"/>5(geszu) 8(gesz2) 4(u) 8(disz)</count> gurusz u4 <count><interpretation modern_unit="" modern_value="1" system="cardinal" unit="" value="1"/>1(disz)-sze3</count> 
+<com dist="1">erin2</com> sag-asz-bi <count><interpretation modern_unit="" modern_value="19.6" system="cardinal" unit="" value="19.6"/>1(u) 9(disz) 1/2(disz) 6(disz) gin2</count> 
+du-dam 
+<count><interpretation modern_unit="" modern_value="19" system="cardinal" unit="" value="19"/>2(u) la2 1(disz)</count> <com dist="1">bur2-dam</com> 
+nagar-me 
+<count><interpretation modern_unit="" modern_value="12" system="cardinal" unit="" value="12"/>1(u) 2(disz)</count> <com dist="1">gurusz</com> u4 <count><interpretation modern_unit="" modern_value="1" system="cardinal" unit="" value="1"/>1(disz)-sze3</count> 
+<com dist="1">a2-bi</com> <count><interpretation modern_unit="" modern_value="432" system="cardinal" unit="" value="432"/>7(gesz2) 1(u) 2(disz)</count> 
+erin2-bi <count><interpretation modern_unit="" modern_value="2.4" system="cardinal" unit="" value="2.4"/>2(disz) 1/3(disz) 4(disz) gin2</count> 
+du-dam 
+<count><interpretation modern_unit="" modern_value="12" system="cardinal" unit="" value="12"/>1(u) 2(disz)</count> <com dist="1">erin2</com> 
+<count><interpretation modern_unit="" modern_value="60" system="cardinal" unit="" value="60"/>1(gesz2)</count> gurusz ug3-IL2 
+bur2-dam 
+ma2-gin2-me 
+<count><interpretation modern_unit="" modern_value="38" system="cardinal" unit="" value="38"/>3(u) 8(disz)</count> <com dist="1">gurusz</com> u4 <count><interpretation modern_unit="" modern_value="1" system="cardinal" unit="" value="1"/>1(disz)-sze3</count> 
+gi SZID il2-la 
+<count><interpretation modern_unit="" modern_value="40" system="cardinal" unit="" value="40"/>4(u)</count> <com dist="1">gurusz</com> u4 <count><interpretation modern_unit="" modern_value="1" system="cardinal" unit="" value="1"/>1(disz)-sze3</count> 
+gi NE il2-la 
+<count><interpretation modern_unit="" modern_value="6" system="cardinal" unit="" value="6"/>6(disz)</count> u4 a-|ZI&ZI| il2-la 
+<count><interpretation modern_unit="" modern_value="30" system="cardinal" unit="" value="30"/>3(u)</count> u4 nig2-gi guru7 ak 
+<count><interpretation modern_unit="" modern_value="150" system="cardinal" unit="" value="150"/>2(gesz2) 3(u)</count> u4 sukkal il2-la 
+<count><interpretation modern_unit="" modern_value="6" system="cardinal" unit="" value="6"/>6(disz)</count> u4 simug se3-ga 
+<count><interpretation modern_unit="" modern_value="5" system="cardinal" unit="" value="5"/>5(disz)</count> u4 gi-gur5 ma2 <com dist="1">ti</com> 
+<count><interpretation modern_unit="" modern_value="25" system="cardinal" unit="" value="25"/>2(u) 5(disz)</count> u4 ma2 a-gesz-gub-ba 
+<count><interpretation modern_unit="" modern_value="60" system="cardinal" unit="" value="60"/>1(gesz2)</count> u4 <com dist="1">ti</com> ma2 a-KU ma2 nagar 
+<count><interpretation modern_unit="" modern_value="24" system="cardinal" unit="" value="24"/>2(u) 4(disz)</count> u4 <com dist="1">{gesz}szu-dim2</com> u3 {gesz}a-da kesz2-a 
+<count><interpretation modern_unit="" modern_value="12" system="cardinal" unit="" value="12"/>1(u) 2(disz)</count> u4 <com dist="1">{gesz}u3-la</com> 
+<count><interpretation modern_unit="" modern_value="4" system="cardinal" unit="" value="4"/>4(disz)</count> u4 gi-gur5 ka-x 
+<count><interpretation modern_unit="" modern_value="12" system="cardinal" unit="" value="12"/>1(u) 2(disz)</count> u4 ka ma2 <com dist="1">szu</com> x 
+<count><interpretation modern_unit="" modern_value="40" system="cardinal" unit="" value="40"/>4(u)</count> u4 ka ma2 <com dist="1">du8-a</com> 
+<count><interpretation modern_unit="" modern_value="2" system="cardinal" unit="" value="2"/>2(disz)</count> u4 simug se3 ma2-a 
+<count><interpretation modern_unit="" modern_value="2" system="cardinal" unit="" value="2"/>2(disz)</count> u4 ma2-a esir2 E2-A 
+<count><interpretation modern_unit="" modern_value="60" system="cardinal" unit="" value="60"/>1(gesz2)</count> u4 <com dist="1">pesz</com> gesz-gibil6 gul esir2 il2-la 
+szunigin <count><interpretation modern_unit="" modern_value="516" system="cardinal" unit="" value="516"/>8(gesz2) 3(u) 6(disz)</count> u4 <count><interpretation modern_unit="" modern_value="1" system="cardinal" unit="" value="1"/>1(disz)-sze3</count> 
+... 
+<com dist="1">a2-bi</com> <count><interpretation modern_unit="" modern_value="18576" system="cardinal" unit="" value="18576"/>5(szar2) 9(gesz2) 3(u) 6(disz)</count> gurusz u4 <count><interpretation modern_unit="" modern_value="1" system="cardinal" unit="" value="1"/>1(disz)-sze3</count> 
+<com dist="1">erin2-bi</com> <count><interpretation modern_unit="" modern_value="103" system="cardinal" unit="" value="103"/>1(gesz2) 4(u) 3(disz)</count> 
+sza3-bi-ta 
+<count><interpretation modern_unit="" modern_value="9" system="cardinal" unit="" value="9"/>1(u) la2 1(disz)</count> <com dist="1">erin2</com> 
+<count><interpretation modern_unit="" modern_value="8" system="cardinal" unit="" value="8"/>8(disz)</count> gurusz 
+<count><interpretation modern_unit="" modern_value="3" system="cardinal" unit="" value="3"/>3(disz)</count> gurusz a2 <count><interpretation modern_unit="" modern_value="0.6666666666666666" system="cardinal" unit="" value="0.6666666666666666"/>2/3(disz)</count> 
+<count><interpretation modern_unit="" modern_value="5" system="cardinal" unit="" value="5"/>5(disz)</count> <com dist="1">gurusz</com> a2 <count><interpretation modern_unit="" modern_value="0.5" system="cardinal" unit="" value="0.5"/>1/2(disz)</count> 
+<count><interpretation modern_unit="" modern_value="1" system="cardinal" unit="" value="1"/>1(disz)</count> <com dist="1">gurusz</com> a2 <count><interpretation modern_unit="" modern_value="0.3333333333333333" system="cardinal" unit="" value="0.3333333333333333"/>1/3(disz)</count> 
+<com dist="1">bur2</com> sza3-kam-ma 
+<count><interpretation modern_unit="" modern_value="6" system="cardinal" unit="" value="6"/>6(disz)</count> <com dist="1">erin2</com> a2 ma2-lah5 
+<count><interpretation modern_unit="" modern_value="3" system="cardinal" unit="" value="3"/>3(disz)</count> erin2 bur2 szu-a gi-na 
+<count><interpretation modern_unit="" modern_value="4" system="cardinal" unit="" value="4"/>4(disz)</count> <com dist="1">erin2</com> <count><interpretation modern_unit="" modern_value="2" system="cardinal" unit="" value="2"/>2(disz)</count> ug3-IL2 
+<com dist="1">bur2</com> ma2-lah5 
+<count><interpretation modern_unit="" modern_value="53" system="cardinal" unit="" value="53"/>5(u) 3(disz)</count> erin2 lu2 mar-sa 
+<count><interpretation modern_unit="" modern_value="70.5" system="cardinal" unit="" value="70.5"/>1(gesz2) 1(u) 1/2(disz)</count> <com dist="1">erin2</com> 
+<count><interpretation modern_unit="" modern_value="14.833333333333332" system="cardinal" unit="" value="14.833333333333332"/>1(u) 4(disz) 5/6(disz)</count> ug3-IL2 
+<com dist="1">erin2-bi</com> <count><interpretation modern_unit="" modern_value="27.666666666666668" system="cardinal" unit="" value="27.666666666666668"/>2(u) 7(disz) 2/3(disz)</count> 
+gub-ba 
+<count><interpretation modern_unit="" modern_value="4" system="cardinal" unit="" value="4"/>4(disz)</count> <com dist="1">erin2</com> <count><interpretation modern_unit="" modern_value="12" system="cardinal" unit="" value="12"/>1(u) 2(disz)</count> gurusz 
+<count><interpretation modern_unit="" modern_value="1" system="cardinal" unit="" value="1"/>1(disz)</count> gurusz a2 <count><interpretation modern_unit="" modern_value="0.6666666666666666" system="cardinal" unit="" value="0.6666666666666666"/>2/3(disz)</count> 
+<count><interpretation modern_unit="" modern_value="1" system="cardinal" unit="" value="1"/>1(disz)</count> <com dist="1">gurusz</com> a2 <count><interpretation modern_unit="" modern_value="0.3333333333333333" system="cardinal" unit="" value="0.3333333333333333"/>1/3(disz)</count> 
+ug3-IL2-bi n 
+lu2 mar-sa-bi n 
+<count><interpretation modern_unit="" modern_value="16" system="cardinal" unit="" value="16"/>1(u) 6(disz)</count> <com dist="1">erin2</com> <count><interpretation modern_unit="" modern_value="2" system="cardinal" unit="" value="2"/>2(disz)</count> gurusz x 
+<count><interpretation modern_unit="" modern_value="1" system="cardinal" unit="" value="1"/>1(disz)</count> <com dist="1">gurusz</com> a2 <count><interpretation modern_unit="" modern_value="0.6666666666666666" system="cardinal" unit="" value="0.6666666666666666"/>2/3(disz)</count> 
+ug3-IL2-me 
+lu2 <com dist="1">ma2-lah5</com> 
+bur2-me 
+<count><interpretation modern_unit="" modern_value="56" system="cardinal" unit="" value="56"/>5(u) 6(disz)</count> e2-mah-ak 
+<count><interpretation modern_unit="" modern_value="2" system="cardinal" unit="" value="2"/>2(disz)</count> e2-x-kasz gub-ba 
+<com dist="1">a2-bi</com> <count><interpretation modern_unit="" modern_value="2088" system="cardinal" unit="" value="2088"/>3(geszu) 4(gesz2) 4(u) 8(disz)</count> gurusz u4 <count><interpretation modern_unit="" modern_value="1" system="cardinal" unit="" value="1"/>1(disz)-sze3</count> 
+<com dist="1">erin2</com> sag-asz-bi <count><interpretation modern_unit="" modern_value="11.6" system="cardinal" unit="" value="11.6"/>1(u) 1(disz) 1/2(disz) 6(disz) gin2</count> 
+du-dam 
+<count><interpretation modern_unit="" modern_value="14" system="cardinal" unit="" value="14"/>1(u) 4(disz)</count> <com dist="1">erin2</com> <count><interpretation modern_unit="" modern_value="5" system="cardinal" unit="" value="5"/>5(disz)</count> gurusz <count><interpretation modern_unit="" modern_value="2" system="cardinal" unit="" value="2"/>2(disz)</count> gurusz a2 <count><interpretation modern_unit="" modern_value="0.6666666666666666" system="cardinal" unit="" value="0.6666666666666666"/>2/3(disz)</count> 
+<count><interpretation modern_unit="" modern_value="2" system="cardinal" unit="" value="2"/>2(disz)</count> <com dist="1">gurusz</com> a2 <count><interpretation modern_unit="" modern_value="0.3333333333333333" system="cardinal" unit="" value="0.3333333333333333"/>1/3(disz)</count> 
+<com dist="1">bur2-dam</com> 
+ad-kup4-me 
+<count><interpretation modern_unit="" modern_value="69" system="cardinal" unit="" value="69"/>1(gesz2) 1(u) la2 1(disz)</count> a2 <com dist="1">szu-sar-ka</com> 
+<count><interpretation modern_unit="" modern_value="80" system="cardinal" unit="" value="80"/>1(gesz2) 2(u)</count> a2 <com dist="1">szu-sar</com> bara2-sze-siki 
+<count><interpretation modern_unit="" modern_value="18" system="cardinal" unit="" value="18"/>2(u) la2 2(disz)</count> a2 <com dist="1">szu-sar</com> ha-ru 
+<count><interpretation modern_unit="" modern_value="2" system="cardinal" unit="" value="2"/>2(disz)</count> a2 <com dist="1">szu-sar</com> bara2-bara2 mi-ri2-za kesz2 x 
+a2-bi <count><interpretation modern_unit="" modern_value="6192" system="cardinal" unit="" value="6192"/>1(szar2) 4(geszu) 3(gesz2) 1(u) 2(disz)</count> gurusz u4 <count><interpretation modern_unit="" modern_value="1" system="cardinal" unit="" value="1"/>1(disz)-sze3</count> 
+<com dist="1">erin2</com> sag-asz-bi <count><interpretation modern_unit="" modern_value="34.4" system="cardinal" unit="" value="34.4"/>3(u) 4(disz) 1/3(disz) 4(disz) gin2</count> 
+gub-ba 
+<count><interpretation modern_unit="" modern_value="19.1" system="cardinal" unit="" value="19.1"/>1(u) 9(disz) 6(disz) gin2</count> <com dist="1">bur2-dam</com> 
+i3-du8 aga3-us2-me 
+</commodities>

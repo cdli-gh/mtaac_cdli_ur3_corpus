@@ -1,0 +1,24 @@
+<commodities>
+#P102303 = ASJ 09, 250 27
+#atf: lang sux
+#tr.en: 6 bur3 field area: fields of Ugurtur-sagdu;
+#tr.en: 4 bur3 field area: field of Long-side;
+#tr.en: 5 bur3 field area: field of ...;
+#tr.en: property, ... work done;
+#tr.en: 8 bur3 field area:
+#tr.en: field of Agar-sagdu;
+#tr.en: ... 2 bur3 field area: one
+#tr.en: field of Du-Šara;
+#tr.en: 5 bur3 field area: field of Weir-field of Lu-Šara;
+#tr.en: property, flood irrigation with oxen at 6 bur3 field area, seized.
+<count><interpretation modern_unit="m^2" modern_value="388800.0" system="surface" unit="gin2" value="648000"/>6(bur3) gan2</count> a-sza3 ugur2-tur-sag-du3 
+<count><interpretation modern_unit="m^2" modern_value="259200.0" system="surface" unit="gin2" value="432000"/>4(bur3) gan2</count> a-sza3 usz-gid2-da 
+<count><interpretation modern_unit="m^2" modern_value="324000.0" system="surface" unit="gin2" value="540000"/>5(bur3) gan2</count> a-sza3 GAN2-x 
+nig2-gal2-la kin x ak 
+<count><interpretation modern_unit="m^2" modern_value="518400.0" system="surface" unit="gin2" value="864000"/>8(bur3) gan2</count> 
+a-sza3 a-gar-sag-du3 
+... <count><interpretation modern_unit="m^2" modern_value="129600.0" system="surface" unit="gin2" value="216000"/>2(bur3) gan2</count> DISZ 
+a-sza3 du6-{d}szara2 
+<count><interpretation modern_unit="m^2" modern_value="324000.0" system="surface" unit="gin2" value="540000"/>5(bur3) gan2</count> a-sza3 a-egir-GAN2 lu2-{d}szara2 
+nig2-gal2-la a-de2 gu4-e <count><interpretation modern_unit="m^2" modern_value="64.8" system="surface" unit="gin2" value="108"/><interpretation modern_unit="l" modern_value="194400000" system="volume" unit="gin2" value="648000"/>6(bur3)</count> GAN2-ta ib2-dab5 
+</commodities>

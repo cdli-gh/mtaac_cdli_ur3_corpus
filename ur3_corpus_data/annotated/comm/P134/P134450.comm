@@ -1,0 +1,10 @@
+<commodities>
+#P134450 = TMH NF 1-2, 139
+#atf: lang sux
+<count>2(barig) 2(ban2) sze</count> a2 ma2 
+a-ra2 <count><interpretation modern_unit="" modern_value="1" system="cardinal" unit="" value="1"/>1(disz)-kam</count> 
+<count><interpretation modern_unit="l" modern_value="70" system="dry capacity" unit="sila3" value="70"/>1(barig) 1(ban2)</count> a2 ma2 
+sze-kar <com dist="1">ansze</com> 
+<count><interpretation modern_unit="l" modern_value="15" system="dry capacity" unit="sila3" value="15"/>1(ban2) 5(disz) sila3</count> a2 ... 
+<com dist="1">sze</com> ... 
+</commodities>

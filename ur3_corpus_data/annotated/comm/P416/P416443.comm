@@ -1,0 +1,30 @@
+<commodities>
+#P416443 = CDLJ 2012/1 §4.62
+#atf: lang sux
+#tr.en: 5 sheep, grass-fed,
+#tr.en: 7 bucks, grass-fed,
+#tr.en: 8 lambs,
+#tr.en: 2 kids,
+#tr.en: slaughtered, the 5th day,
+#tr.en: from Ur-kununa
+#tr.en: Šulgi-irimu
+#tr.en: received;
+#tr.en: via Nanna-maba
+#tr.en: and Lu-šalim;
+#tr.en: month: “Festival of An,”
+#tr.en: year: “Šu-Suen, king of Ur, the house of Šara in Umma erected;”
+#tr.en: (total:) 22 small cattle.
+<count><interpretation modern_unit="" modern_value="5" system="cardinal" unit="" value="5"/>5(disz)</count> <com dist="1">udu</com> u2 
+<count><interpretation modern_unit="" modern_value="7" system="cardinal" unit="" value="7"/>7(disz)</count> masz2-gal u2 
+<count><interpretation modern_unit="" modern_value="8" system="cardinal" unit="" value="8"/>8(disz)</count> sila4 
+<count><interpretation modern_unit="" modern_value="2" system="cardinal" unit="" value="2"/>2(disz)</count> masz2 
+ba-usz2 u4 <count><interpretation modern_unit="" modern_value="5" system="cardinal" unit="" value="5"/>5(disz)-kam</count> 
+<com dist="1">ki</com> ur-ku3-nun-na-ta 
+{d}szul-gi-iri-mu 
+szu ba-ti 
+giri3 {d}nanna-ma-ba 
+u3 lu2-sza-lim 
+iti ezem-an-na 
+mu {d}szu-{d}suen lugal uri5{ki}-ma-ke4 e2 {d}szara2 umma{ki}-ka mu-du3 
+<count><interpretation modern_unit="" modern_value="22" system="cardinal" unit="" value="22"/>2(u) 2(disz)</count> udu 
+</commodities>

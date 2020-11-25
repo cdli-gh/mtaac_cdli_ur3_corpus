@@ -1,0 +1,8 @@
+<commodities>
+#P106875 = BJRL 64, 115 81
+#atf: lang sux
+<count><interpretation modern_unit="l" modern_value="10883" system="dry capacity" unit="sila3" value="10883"/>3(u) 6(asz) 1(barig) 2(ban2) 3(disz) sila3</count> 
+<count><interpretation modern_unit="l" modern_value="6099.5" system="dry capacity" unit="sila3" value="6099.5"/>2(u) 1(barig) 3(ban2) 9(disz) 1/2(disz) sila3 sze</count> 
+<count><interpretation modern_unit="l" modern_value="1226" system="dry capacity" unit="sila3" value="1226"/>4(asz) 2(ban2) 6(disz) sila3</count> <com dist="1">zi3</com> <count><interpretation modern_unit="l" modern_value="1" system="liquid capacity" unit="sila3" value="1"/><interpretation modern_unit="l" modern_value="1" system="dry capacity" unit="sila3" value="1"/>1(disz) sila3</count> 
+... 
+</commodities>

@@ -1,0 +1,17 @@
+<commodities>
+#P111125 = ITT 3, 05154
+#atf: lang sux
+# calculation: (3 x 30 x 2) + (10 x 2) = 200
+<count><interpretation modern_unit="l" modern_value="2" system="liquid capacity" unit="sila3" value="2"/><interpretation modern_unit="l" modern_value="2" system="dry capacity" unit="sila3" value="2"/>2(disz) sila3</count> <com dist="1">ninda</com> 
+u4 <count><interpretation modern_unit="" modern_value="1" system="cardinal" unit="" value="1"/>1(disz)-kam</count> 
+u4 <count><interpretation modern_unit="" modern_value="30" system="cardinal" unit="" value="30"/>3(u)-sze3</count> 
+iti GAN2-masz-ta 
+iti szu-numun u4 <count><interpretation modern_unit="" modern_value="10" system="cardinal" unit="" value="10"/>1(u)</count> ba-zal-sze3 
+iti <count><interpretation modern_unit="" modern_value="3" system="cardinal" unit="" value="3"/>3(disz)</count> u4 <count><interpretation modern_unit="" modern_value="10" system="cardinal" unit="" value="10"/>1(u)-kam</count> 
+<com dist="1">ninda-bi</com> <count><interpretation modern_unit="l" modern_value="200" system="dry capacity" unit="sila3" value="200"/>3(barig) 2(ban2)</count> lugal 
+a-tu lu2 hu-bu7{bu} esz3 didli 
+ga2-nun <com dist="1">{gesz}kiri6</com> en-gal-du-du-da tusz-a 
+giri3 gu-za-ni 
+zi-ga 
+mu en eridu{ki} ba-hun 
+</commodities>

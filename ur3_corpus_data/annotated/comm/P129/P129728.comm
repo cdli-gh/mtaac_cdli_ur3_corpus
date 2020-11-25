@@ -1,0 +1,26 @@
+<commodities>
+#P129728 = SET 320
+#atf: lang sux
+# calculation: 230 x 26 = 59.8 iku (?)
+# calculation: 230 x 40 = 92 iku (?)
+# calculation: 245 x 38 = 93.1 iku
+# calculation: 255 x 15 = 38.25 iku (?)
+# calculation: 240 x 30 = 72 iku
+<count><interpretation modern_unit="m^2" modern_value="59400.0" system="surface" unit="gin2" value="99000.0"/>2(esze3) 4(iku) 1/2(iku) gan2</count> <com dist="1">bar</com> 
+<count><interpretation modern_unit="" modern_value="230" system="cardinal" unit="" value="230"/>3(gesz2) 5(u)</count> us2 <count><interpretation modern_unit="m" modern_value="156" system="length" unit="gi" value="52"/>2(u) 6(disz) ninda</count> sag 
+a-sza3 <count><interpretation modern_unit="m^2" modern_value="216000.0" system="surface" unit="gin2" value="360000"/>3(bur3) 1(esze3) gan2</count> <count><interpretation modern_unit="m^2" modern_value="2.6999999999999997" system="surface" unit="gin2" value="4.5"/>4(iku) 1/2(iku)</count> <com dist="1">ki</com> 
+gurusz-bi <count><interpretation modern_unit="" modern_value="1" system="cardinal" unit="" value="1"/>1(disz)-am3</count> 
+<count><interpretation modern_unit="m" modern_value="240" system="length" unit="gi" value="80"/>4(u) ninda</count> sag <count><interpretation modern_unit="m^2" modern_value="324000.0" system="surface" unit="gin2" value="540000"/>5(bur3) gan2</count> <count><interpretation modern_unit="m^2" modern_value="1.7999999999999998" system="surface" unit="gin2" value="3"/>3(iku)</count> <com dist="1">ki</com> 
+gurusz-bi <count><interpretation modern_unit="" modern_value="1" system="cardinal" unit="" value="1"/>1(disz)-am3</count> 
+<count><interpretation modern_unit="" modern_value="245" system="cardinal" unit="" value="245"/>4(gesz2) 5(disz)</count> <com dist="1">us2</com> <count><interpretation modern_unit="m" modern_value="228" system="length" unit="gi" value="76"/>3(u) 8(disz) ninda</count> sag <count><interpretation modern_unit="m^2" modern_value="324000.0" system="surface" unit="gin2" value="540000"/>5(bur3) gan2</count> <count><interpretation modern_unit="m^2" modern_value="1.7999999999999998" system="surface" unit="gin2" value="3"/>3(iku)</count> <com dist="1">ki</com> 
+gurusz-bi <count><interpretation modern_unit="" modern_value="1" system="cardinal" unit="" value="1"/>1(disz)-am3</count> 
+<count><interpretation modern_unit="" modern_value="255" system="cardinal" unit="" value="255"/>4(gesz2) 1(u) 5(disz)</count> <com dist="1">us2</com> <count><interpretation modern_unit="m" modern_value="90" system="length" unit="gi" value="30"/>1(u) 5(disz) ninda</count> sag <count><interpretation modern_unit="m^2" modern_value="151200.0" system="surface" unit="gin2" value="252000"/>2(bur3) 1(esze3) gan2</count> <count><interpretation modern_unit="m^2" modern_value="2.1" system="surface" unit="gin2" value="3.5"/>3(iku) 1/2(iku)</count> <com dist="1">ki</com> 
+musz-bi ... 
+gurusz-bi <count><interpretation modern_unit="" modern_value="1" system="cardinal" unit="" value="1"/>1(disz)-am3</count> 
+<count><interpretation modern_unit="" modern_value="240" system="cardinal" unit="" value="240"/>4(gesz2)</count> <com dist="1">us2</com> <count><interpretation modern_unit="m" modern_value="180" system="length" unit="gi" value="60"/>3(u) ninda</count> sag <count><interpretation modern_unit="m^2" modern_value="259200.0" system="surface" unit="gin2" value="432000"/>4(bur3) gan2</count> 
+<com dist="1">gurusz-bi</com> <count><interpretation modern_unit="" modern_value="1" system="cardinal" unit="" value="1"/>1(disz)-am3</count> 
+nig2 <com dist="1">si-ga</com> GAN2 
+sag si-ga a-sza3 muru13-musz-bi-an-na 
+mu en {d}nanna masz-e i3-pa3 
+a2 i7 lugal-ta 
+</commodities>

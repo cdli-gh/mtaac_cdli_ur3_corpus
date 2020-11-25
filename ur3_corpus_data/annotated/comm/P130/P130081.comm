@@ -1,0 +1,54 @@
+<commodities>
+#P130081 = SNAT 321
+#atf: lang sux
+#tr.en: The male laborers are 6: labor of harvest, of two years,
+#tr.en: ist silver: 1 1/2 shekels;
+#tr.en: The male laborers are 12: labor of wintertime,
+#tr.en: its silver: 2 shekels;
+#tr.en: ... will repay;
+#tr.en: ... Geme-Ninmuga her name;
+# sic ?
+#tr.en: ... Adalal her name;
+# sic ?
+#tr.en: from ...,
+#tr.en: ...-migure,
+#tr.en: ... for 40 days,
+#tr.en: the silver: n + 1/3 shekel
+#tr.en: ...-bara will be repaid;
+#tr.en: ...
+#tr.en: to ... 7 ...
+#tr.en: of Lu-Ninnumušda
+#tr.en: he will weigh out;
+#tr.en: from month: Sowing, day 10 completed;
+#tr.en: 1 Dati, son of Lugal-sa,
+#tr.en: 1 Me-aya, the mayor,
+#tr.en: 1 Inima-dingir, the trade agent,
+#tr.en: 1 Ur-Numušda,
+#tr.en: are men at the place stationed;
+#tr.en: complete legal matter, son of Umma;
+#tr.en: year: “Amar-Suen, the king, Urbilum destroyed.”
+gurusz <count><interpretation modern_unit="" modern_value="6" system="cardinal" unit="" value="6"/>6(disz)-am3</count> a2 buru14 mu <count><interpretation modern_unit="" modern_value="2" system="cardinal" unit="" value="2"/>2(disz)-kam</count> 
+<com dist="1">ku3-bi</com> <count><interpretation modern_unit="" modern_value="0.025" system="cardinal" unit="" value="0.025"/>1(disz) 1/2(disz) gin2</count> 
+gurusz <count><interpretation modern_unit="" modern_value="12" system="cardinal" unit="" value="12"/>1(u) 2(disz)-am3</count> a2 en-te-na 
+<com dist="1">ku3-bi</com> <count><interpretation modern_unit="" modern_value="0.03333333333333333" system="cardinal" unit="" value="0.03333333333333333"/>2(disz) gin2</count> 
+x-x ib2-su-su 
+x geme2-{d}nin-mug-ga mu-bi2-im 
+x a-da-lal3 mu-bi2-im 
+x-ta 
+x-mi-gur-re 
+x u4 <count><interpretation modern_unit="" modern_value="40" system="cardinal" unit="" value="40"/>4(u)-kam</count> 
+<com dist="1">ku3-bi</com> n <count><interpretation modern_unit="" modern_value="0.005555555555555555" system="cardinal" unit="" value="0.005555555555555555"/>1/3(disz) gin2</count> 
+x-ba-ra su-su-dam 
+x <com dist="1">im-ta</com> ... 
+x <count><interpretation modern_unit="" modern_value="none" system="unknown" unit="" value="none"/>7(disz) x</count> 
+lu2-nin-nu-musz-da-ka-ra 
+in-na-la2-e 
+iti szu-numun-ta u4 <count><interpretation modern_unit="" modern_value="10" system="cardinal" unit="" value="10"/>1(u)-am3</count> ba-ra-zal 
+<count><interpretation modern_unit="" modern_value="1" system="cardinal" unit="" value="1"/>1(disz)</count> da-ti dumu lugal-sa6 
+<count><interpretation modern_unit="" modern_value="1" system="cardinal" unit="" value="1"/>1(disz)</count> me-a-a ha-za-num2 
+<count><interpretation modern_unit="" modern_value="1" system="cardinal" unit="" value="1"/>1(disz)</count> inim-ma-dingir dam-gar3 
+<count><interpretation modern_unit="" modern_value="1" system="cardinal" unit="" value="1"/>1(disz)</count> ur-{d}nu-musz-da 
+lu2 ki-ba gub-ba-me 
+di <com dist="1">til-la</com> dumu umma{ki} 
+mu {d}amar-{d}suen lugal-e ur-bi2-lum{ki} mu-hul 
+</commodities>

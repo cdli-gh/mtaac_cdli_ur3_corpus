@@ -1,0 +1,49 @@
+<commodities>
+#P337518 = OIM A03480 
+#atf: lang sux 
+... x 
+... <count><interpretation modern_unit="" modern_value="1" system="cardinal" unit="" value="1"/>1(disz)</count> 
+a-sza3 ... sar 
+... <count><interpretation modern_unit="" modern_value="60" system="cardinal" unit="" value="60"/>1(gesz2)</count> 
+... x-ta 
+a-sza3 ... sar 
+... <com dist="1">gid2</com> <count><interpretation modern_unit="" modern_value="0.05" system="cardinal" unit="" value="0.05"/>3(disz) gin2</count> 
+a-sza3 ... x sar 
+... x ak 
+...-x-ta 
+... sar 
+...-ak 
+... 
+a-sza3 ... 
+<count><interpretation modern_unit="m" modern_value="6" system="length" unit="gi" value="2"/>1(disz) ninda</count> <com dist="1">gid2</com> n gin2 
+<count><interpretation modern_unit="m" modern_value="54" system="length" unit="gi" value="18"/>9(disz) ninda</count> <com dist="1">gid2</com> n gin2 
+a-sza3 <count><interpretation modern_unit="bricks" modern_value="25920" system="bricks" unit="gin2" value="2160"/><interpretation modern_unit="m^2" modern_value="108.0" system="surface" unit="gin2" value="180"/><interpretation modern_unit="l" modern_value="54000" system="volume" unit="gin2" value="180"/>3(disz) sar</count> n gin2 
+<count><interpretation modern_unit="m" modern_value="150" system="length" unit="gi" value="50"/>2(u) 5(disz) ninda</count> <com dist="1">gid2</com> <count><interpretation modern_unit="" modern_value="0.05" system="cardinal" unit="" value="0.05"/>3(disz) gin2</count> 
+a-sza3 <count><interpretation modern_unit="bricks" modern_value="10800" system="bricks" unit="gin2" value="900"/><interpretation modern_unit="m^2" modern_value="45.0" system="surface" unit="gin2" value="75"/><interpretation modern_unit="l" modern_value="22500" system="volume" unit="gin2" value="75"/>1(disz) sar 1(u) 5(disz) gin2</count> 
+<count><interpretation modern_unit="m" modern_value="90" system="length" unit="gi" value="30"/>1(u) 5(disz) ninda</count> <com dist="1">gid2</com> <count><interpretation modern_unit="" modern_value="0.25" system="cardinal" unit="" value="0.25"/>1(u) 5(disz) gin2</count> 
+a-sza3 <count><interpretation modern_unit="bricks" modern_value="32400.0" system="bricks" unit="gin2" value="2700.0"/><interpretation modern_unit="m^2" modern_value="135.0" system="surface" unit="gin2" value="225.0"/><interpretation modern_unit="l" modern_value="67500.0" system="volume" unit="gin2" value="225.0"/>3(disz) 2/3(disz) sar 5(disz) gin2</count> 
+<count><interpretation modern_unit="m" modern_value="60" system="length" unit="gi" value="20"/>1(u) ninda</count> <com dist="1">gid2</com> <count><interpretation modern_unit="" modern_value="0.05" system="cardinal" unit="" value="0.05"/>3(disz) gin2</count> 
+a-sza3 <count><interpretation modern_unit="bricks" modern_value="4320.0" system="bricks" unit="gin2" value="360.0"/><interpretation modern_unit="m^2" modern_value="18.0" system="surface" unit="gin2" value="30.0"/><interpretation modern_unit="l" modern_value="9000.0" system="volume" unit="gin2" value="30.0"/>1/2(disz) sar</count> 
+<count><interpretation modern_unit="" modern_value="20" system="cardinal" unit="" value="20"/>2(u)</count> <com dist="1">gid2</com> <count><interpretation modern_unit="" modern_value="none" system="unknown" unit="" value="none"/>1(u) gin2 ...</count> 
+a-sza3 <count><interpretation modern_unit="bricks" modern_value="28800.0" system="bricks" unit="gin2" value="2400.0"/><interpretation modern_unit="m^2" modern_value="120.0" system="surface" unit="gin2" value="200.0"/><interpretation modern_unit="l" modern_value="60000.0" system="volume" unit="gin2" value="200.0"/>3(disz) 1/3(disz) sar</count> 
+<count><interpretation modern_unit="m" modern_value="180" system="length" unit="gi" value="60"/>3(u) ninda</count> <com dist="1">gid2</com> <count><interpretation modern_unit="" modern_value="none" system="unknown" unit="" value="none"/>3(disz) ...</count> 
+a-sza3 <count><interpretation modern_unit="" modern_value="none" system="unknown" unit="" value="none"/>2(disz) x ...</count> 
+<count><interpretation modern_unit="m" modern_value="3.0" system="length" unit="gi" value="1.0"/>1/2(disz) ninda</count> ka ... 
+<count><interpretation modern_unit="m" modern_value="120" system="length" unit="gi" value="40"/>2(u) ninda</count> <com dist="1">gid2</com> x ... 
+a-sza3 <count><interpretation modern_unit="bricks" modern_value="28800.0" system="bricks" unit="gin2" value="2400.0"/><interpretation modern_unit="m^2" modern_value="120.0" system="surface" unit="gin2" value="200.0"/><interpretation modern_unit="l" modern_value="60000.0" system="volume" unit="gin2" value="200.0"/>3(disz) 1/3(disz) sar</count> 
+<count><interpretation modern_unit="m" modern_value="61.0" system="length" unit="gi" value="20.333333333333332"/>1(u) ninda 1/3(disz)</count> sar 
+a-sza3 <count><interpretation modern_unit="bricks" modern_value="28800.0" system="bricks" unit="gin2" value="2400.0"/><interpretation modern_unit="m^2" modern_value="120.0" system="surface" unit="gin2" value="200.0"/><interpretation modern_unit="l" modern_value="60000.0" system="volume" unit="gin2" value="200.0"/>3(disz) 1/3(disz) sar</count> 
+<count><interpretation modern_unit="m" modern_value="120" system="length" unit="gi" value="40"/>2(u) ninda</count> <com dist="1">gid2</com> <count><interpretation modern_unit="" modern_value="none" system="unknown" unit="" value="none"/>1(u) 5(disz) ...</count> 
+a-sza3 <count><interpretation modern_unit="bricks" modern_value="43200" system="bricks" unit="gin2" value="3600"/><interpretation modern_unit="m^2" modern_value="180.0" system="surface" unit="gin2" value="300"/><interpretation modern_unit="l" modern_value="90000" system="volume" unit="gin2" value="300"/>5(disz) sar</count> 
+n <com dist="1">ninda</com> gid2 <count><interpretation modern_unit="" modern_value="none" system="unknown" unit="" value="none"/>3(disz) ...</count> 
+a-sza3 n sar ... 
+... 
+... sar 
+... ta 
+... sar 
+... <com dist="1">du</com> 
+... <count><interpretation modern_unit="" modern_value="0.16666666666666666" system="cardinal" unit="" value="0.16666666666666666"/>1(u) gin2</count> 
+... sar 
+... x ... 
+... x x 
+</commodities>

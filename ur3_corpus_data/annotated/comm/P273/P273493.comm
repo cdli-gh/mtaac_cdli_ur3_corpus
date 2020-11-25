@@ -1,0 +1,27 @@
+<commodities>
+#P273493 = RA 101, 47 16
+#atf: lang sux
+#tr.en: 35 long-baskets for dusu-service,
+#tr.en: 4 šerrum mats,
+#tr.en: their extent: 1 1/3 “garden”:
+# ca. 48 sq. meters
+#tr.en: for the palace, garment-boat covered;
+#tr.en: from ...
+#tr.en: ... received.
+#tr.en: Under official seal, under seal of Ikalla.
+#tr.en: Year: “Ḫuḫnuri was destroyed.”
+#tr.en: Ikalla,
+#tr.en: ...,
+#tr.en: ... .
+<count><interpretation modern_unit="" modern_value="35" system="cardinal" unit="" value="35"/>3(u) 5(disz)</count> <com dist="1">{gi}pisan</com> gid2-da dusu 
+<count><interpretation modern_unit="" modern_value="4" system="cardinal" unit="" value="4"/>4(disz)</count> <com dist="1">{gi}kid</com> szer7-ru-um 
+ki-la2-bi <count><interpretation modern_unit="bricks" modern_value="11520.0" system="bricks" unit="gin2" value="960.0"/><interpretation modern_unit="m^2" modern_value="48.0" system="surface" unit="gin2" value="80.0"/><interpretation modern_unit="l" modern_value="24000.0" system="volume" unit="gin2" value="80.0"/>1(disz) 1/3(disz) sar</count> 
+e2-gal-sze3 ma2 <com dist="1">tug2</com> ba-a-dul9 
+...-ta 
+... szu ba-ti 
+kiszib3 nam-sza3-tam kiszib3 i3-kal-la 
+mu hu-hu-nu-ri{ki} ba-hul 
+i3-kal-la 
+... 
+... 
+</commodities>

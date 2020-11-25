@@ -1,0 +1,31 @@
+<commodities>
+#P104686 = AUCT 3, 479
+#atf: lang sux
+#tr.en: Deficit: 1 Ur-Ištaran, son of Dudu,
+#tr.de: Fehlbetrag: 1 Ur-Ištaran, Sohn des
+#tr.en: 1 Ur-Emaḫ,
+#tr.de: 1 Ur-Emaḫ,
+#tr.en: or(?) Šeškalla,
+#tr.de: oder(?) Šeškalla,
+#tr.en: 1 Atu,
+#tr.de: 1 Atu,
+#tr.en: 1 Ur-Suen, fish-tither,
+#tr.de: 1 Ur-Suen, der Steuerverwalter,
+#tr.en: for 45 days, the labor: 2 shekels (silver per worker-year) each,
+#tr.de: über 45 Tage zu je 2 Sekel
+#tr.en: part of the bala;
+#tr.de: (Teil des) bala(-Diensts),
+#tr.en: under seal of Lugal-kugani;
+#tr.de: gesiegelte Tafel des Lugal-kugani;
+#tr.en: year: “For the 2nd time Šašrum was destroyed.”
+#tr.de: Jahr: “Zum 2. Mal Šašrum zerstört.”
+la2-ia3 <count><interpretation modern_unit="" modern_value="1" system="cardinal" unit="" value="1"/>1(disz)</count> ur-{d}isztaran dumu du-du 
+<count><interpretation modern_unit="" modern_value="1" system="cardinal" unit="" value="1"/>1(disz)</count> ur-e2-mah 
+<com dist="1">u3</com> szesz-kal-la 
+<count><interpretation modern_unit="" modern_value="1" system="cardinal" unit="" value="1"/>1(disz)</count> a-tu 
+<count><interpretation modern_unit="" modern_value="1" system="cardinal" unit="" value="1"/>1(disz)</count> ur-{d}suen enku 
+u4 <count><interpretation modern_unit="" modern_value="45" system="cardinal" unit="" value="45"/>4(u) 5(disz)-sze3</count> <com dist="1">a2-bi</com> <count><interpretation modern_unit="" modern_value="2" system="cardinal" unit="" value="2"/>2(disz)</count> gin2-ta 
+sza3 bala-a 
+kiszib3 lugal-ku3-ga-ni 
+mu a-ra2 <count><interpretation modern_unit="" modern_value="2" system="cardinal" unit="" value="2"/>2(disz)-kam</count> sza-asz-szu2-ru-um{ki} ba-hul 
+</commodities>

@@ -1,0 +1,15 @@
+<commodities>
+#P113248 = MVN 01, 215
+#atf: lang sux
+<count><interpretation modern_unit="g" modern_value="21600000.0" system="weight" unit="gin2" value="2592000"/>1(geszu) 2(gesz2) gu2</count> <com dist="1">szum2-sikil</com> 
+<count><interpretation modern_unit="l" modern_value="144" system="dry capacity" unit="sila3" value="144"/>2(barig) 2(ban2) 4(disz) sila3</count> sag <com dist="1">szum2-sikil</com> 
+<count><interpretation modern_unit="l" modern_value="7.333333333333334" system="liquid capacity" unit="sila3" value="7.333333333333334"/><interpretation modern_unit="l" modern_value="7.333333333333334" system="dry capacity" unit="sila3" value="7.333333333333334"/>1(asz) la2 8(disz) 1/3(disz) sila3</count> gu2-tur-tur 
+<count><interpretation modern_unit="l" modern_value="116.66666666666667" system="dry capacity" unit="sila3" value="116.66666666666667"/>2(barig) la2 3(disz) 1/3(disz) sila3</count> gu2-gal-gal 
+<count><interpretation modern_unit="l" modern_value="55" system="dry capacity" unit="sila3" value="55"/>1(barig) la2 5(disz) sila3</count> <com dist="1">{u2}gamun2</com> 
+<count><interpretation modern_unit="l" modern_value="150" system="dry capacity" unit="sila3" value="150"/>2(barig) 3(ban2)</count> sze-lu2 
+a-pi4-sal4{ki}-ta 
+giri3 x-x 
+... 
+... x 
+lu2-x-e2 <com dist="1">us2-a</com> 
+</commodities>

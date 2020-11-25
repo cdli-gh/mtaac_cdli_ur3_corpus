@@ -1,0 +1,54 @@
+<commodities>
+#P143155 = ITT 3, 06530
+#atf: lang sux
+# calculation: 57n x ((n + n) ÷ 2)n = n sar
+# calculation: 120n x ((n + 40) ÷ 2)n = n sar
+# calculation: 60n x ((40 + 23) ÷ 2)n = 1890 sar
+# calculation: 60n x ((23 + 76) ÷ 2)n = 2970 sar
+# calculation: 72n x ((76 + 90) ÷ 2)n = 5976 sar
+a. <count><interpretation modern_unit="" modern_value="57" system="cardinal" unit="" value="57"/>5(u) 7(disz)</count> 
+b.1. n 
+b.2. n 
+c. ... 
+a. <count><interpretation modern_unit="" modern_value="120" system="cardinal" unit="" value="120"/>2(gesz2)</count> 
+b.1. n 
+b.2. <count><interpretation modern_unit="" modern_value="40" system="cardinal" unit="" value="40"/>4(u)</count> 
+c. ... 
+a. <count><interpretation modern_unit="" modern_value="60" system="cardinal" unit="" value="60"/>1(gesz2)</count> 
+b.1. <count><interpretation modern_unit="" modern_value="40" system="cardinal" unit="" value="40"/>4(u)</count> 
+b.2. <count><interpretation modern_unit="" modern_value="23" system="cardinal" unit="" value="23"/>2(u) 3(disz)</count> 
+c. <count><interpretation modern_unit="m^2" modern_value="11.4" system="surface" unit="gin2" value="19"/>1(bur3) 1(iku)</count> hul-tag 
+a. <count><interpretation modern_unit="" modern_value="60" system="cardinal" unit="" value="60"/>1(gesz2)</count> 
+b.1. <count><interpretation modern_unit="" modern_value="23" system="cardinal" unit="" value="23"/>2(u) 3(disz)</count> 
+b.2. <count><interpretation modern_unit="" modern_value="76" system="cardinal" unit="" value="76"/>1(gesz2) 1(u) 6(disz)</count> 
+c. <count><interpretation modern_unit="m^2" modern_value="18.0" system="surface" unit="gin2" value="30"/><interpretation modern_unit="l" modern_value="54000000" system="volume" unit="gin2" value="180000"/>1(bur3) 2(esze3)</count> hul-tag 
+a. <count><interpretation modern_unit="" modern_value="72" system="cardinal" unit="" value="72"/>1(gesz2) 1(u) 2(disz)</count> 
+b.1. <count><interpretation modern_unit="" modern_value="76" system="cardinal" unit="" value="76"/>1(gesz2) 1(u) 6(disz)</count> 
+b.2. <count><interpretation modern_unit="" modern_value="90" system="cardinal" unit="" value="90"/>1(gesz2) 3(u)</count> 
+c.1. <count><interpretation modern_unit="m^2" modern_value="6.6" system="surface" unit="gin2" value="11"/>1(esze3) 5(iku)</count> hul-tag 
+c.2. <count><interpretation modern_unit="m^2" modern_value="29.099999999999998" system="surface" unit="gin2" value="48.5"/>2(bur3) 2(esze3) 1/2(iku)</count> hul-tag 
+a. <count><interpretation modern_unit="" modern_value="60" system="cardinal" unit="" value="60"/>1(gesz2)</count> 
+b.1. <count><interpretation modern_unit="m^2" modern_value="9.45" system="surface" unit="gin2" value="15.75"/>2(esze3) 3(iku) 1/2(iku) 1/4(iku)</count> 
+b.2. <count><interpretation modern_unit="" modern_value="none" system="unknown" unit="" value="none"/>1(u) 1(disz) x</count> 
+b.3. <count><interpretation modern_unit="m^2" modern_value="1.3499999999999999" system="surface" unit="gin2" value="2.25"/>2(iku) 1/4(iku)</count> 
+a. <count><interpretation modern_unit="" modern_value="11" system="cardinal" unit="" value="11"/>1(u) 1(disz)</count> 
+b. n 
+c. n ... 
+a. n 
+b. n 
+c. n ... 
+a. <count><interpretation modern_unit="" modern_value="10" system="cardinal" unit="" value="10"/>1(u)</count> 
+b. n 
+c. n ... 
+a. <count><interpretation modern_unit="" modern_value="45" system="cardinal" unit="" value="45"/>4(u) 5(disz)</count> 
+b. n 
+c. n ... 
+a. <count><interpretation modern_unit="" modern_value="369" system="cardinal" unit="" value="369"/>6(gesz2) 1(u) la2 1(disz)</count> 
+b. <count><interpretation modern_unit="" modern_value="60" system="cardinal" unit="" value="60"/>1(gesz2)</count> 
+c. n ... 
+...-pu2-pu2 
+...-da egir 
+... lu2-{d}nin-gir2-su 
+...-AN-a 
+... kusz2 ama 
+</commodities>

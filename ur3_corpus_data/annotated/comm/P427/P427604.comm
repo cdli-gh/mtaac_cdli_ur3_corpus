@@ -1,0 +1,38 @@
+<commodities>
+#P427604 = CUSAS 06, 224-226
+#atf: lang sux
+#tr.en: 1 piglet,
+#tr.en: of the month, 1st day passed;
+#tr.en: 1 grain-fed sheep,
+#tr.en: of the month, 10th day passed;
+#tr.en: 1 piglet,
+#tr.en: of the month, 15th day passed;
+#tr.en: 1 grain-fed sheep,
+#tr.en: of the month, 20th day passed;
+#tr.en: 1 grain-fed sheep,
+#tr.en: of the month, 28th day passed;
+#tr.en: rations of the libation place of Šukabta,
+#tr.en: out of Adad-tillati(’s account)
+#tr.en: booked;
+#tr.en: in Garšana;
+#tr.en: month “Festival of Ninazu;”
+#tr.en: year: “Šu-Suen, king of Ur, the house of Šara in Umma erected;”
+#tr.en: copy.
+<count><interpretation modern_unit="" modern_value="1" system="cardinal" unit="" value="1"/>1(disz)</count> szah2-ze2-da 
+iti u4 <count><interpretation modern_unit="" modern_value="1" system="cardinal" unit="" value="1"/>1(disz)</count> ba-zal 
+<count><interpretation modern_unit="" modern_value="1" system="cardinal" unit="" value="1"/>1(disz)</count> <com dist="1">udu</com> niga 
+iti u4 <count><interpretation modern_unit="" modern_value="10" system="cardinal" unit="" value="10"/>1(u)</count> ba-zal 
+<count><interpretation modern_unit="" modern_value="1" system="cardinal" unit="" value="1"/>1(disz)</count> szah2-ze2-da 
+iti u4 <count><interpretation modern_unit="" modern_value="15" system="cardinal" unit="" value="15"/>1(u) 5(disz)</count> ba-zal 
+<count><interpretation modern_unit="" modern_value="1" system="cardinal" unit="" value="1"/>1(disz)</count> <com dist="1">udu</com> niga 
+iti u4 <count><interpretation modern_unit="" modern_value="20" system="cardinal" unit="" value="20"/>2(u)</count> ba-zal 
+<count><interpretation modern_unit="" modern_value="1" system="cardinal" unit="" value="1"/>1(disz)</count> <com dist="1">udu</com> niga 
+iti u4 <count><interpretation modern_unit="" modern_value="28" system="cardinal" unit="" value="28"/>2(u) 8(disz)</count> ba-zal 
+sa2-du11 ki-a-nag szu-kab-ta2 
+<com dist="1">ki</com> {d}iszkur-illat-ta 
+ba-zi 
+sza3 gar-sza-an-na{ki} 
+iti ezem-{d}nin-a-zu 
+mu {d}szu-{d}suen lugal uri5{ki}-ma-ke4 e2 {d}szara2 umma{ki}-ka mu-du3 
+gaba-ri 
+</commodities>

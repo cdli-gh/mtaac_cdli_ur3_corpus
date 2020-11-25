@@ -1,0 +1,22 @@
+<commodities>
+#P345967 = CDLB 2012/2 §2.6
+#atf: lang sux
+#tr.en: 1 suckling lamb,
+#tr.en: 1 suckling female lamb,
+#tr.en: 1 suckling kid,
+#tr.en: new-borns;
+#tr.en: it is on the 29th day (of the month),
+#tr.en: Šulgi-ayamu took.
+#tr.en: Month: “šu’ešša.’
+#tr.en: Year: “King Amar-Suen destroyed Urbilum.”
+#tr.en: (Total:) 3.
+<count><interpretation modern_unit="" modern_value="1" system="cardinal" unit="" value="1"/>1(disz)</count> <com dist="1">sila4</com> ga 
+<count><interpretation modern_unit="" modern_value="1" system="cardinal" unit="" value="1"/>1(disz)</count> kir11 ga 
+<count><interpretation modern_unit="" modern_value="1" system="cardinal" unit="" value="1"/>1(disz)</count> masz2 ga 
+u3-tu-da 
+u4 <count><interpretation modern_unit="" modern_value="30" system="cardinal" unit="" value="30"/>3(u) la2</count> <count><interpretation modern_unit="" modern_value="1" system="cardinal" unit="" value="1"/>1(disz)-kam</count> 
+{d}szul-gi-a-a-mu i3-dab5 
+iti szu-esz-sza 
+mu {d}amar-{d}suen <com dist="1">lugal-e</com> ur-bi-lum{ki} mu-hul 
+<count><interpretation modern_unit="" modern_value="3" system="cardinal" unit="" value="3"/>3(disz)</count> 
+</commodities>

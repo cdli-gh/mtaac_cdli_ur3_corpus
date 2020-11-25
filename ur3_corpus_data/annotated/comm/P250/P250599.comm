@@ -1,0 +1,49 @@
+<commodities>
+#P250599 = MS 1938/1
+#atf: lang sux
+# calculation: 40 × (102 + 72)/2 = 3480n = 34.8 iku (text: 34.75)
+# NB 72 taken from next field side notation
+# calculation: 24.25 × 210 = 5092.5 = 16;4,5,2 1/2 sze (text: 17;0,0,0)
+# calculation: 40 × (72 + 74)/2 = 2920n = 29.2 iku (text: 29.25)
+# calculation: 29.25 × 600 = 17750 = 58;2,3,0 sze
+# calculation: 40 × (74 + 60)/2 = 2680n = 26.8 iku (text: 26.75)
+# calculation: 22.75 × 780 = 17745 = 59;0,4,5 sze
+# calculation: 46 × (60 + 35)/2 = 2185n = 21.85 iku (text: 22)
+# calculation: 14.5 × 480 = 6960 = 23;1,0,0 sze
+# calculation: 24.25 + 29.25 + 22.75 + 14.5 = 90.75 = 5b 3/4i (text 5b 2i)
+# calculation: 10.5 + 4 + 7.5 = 22 = 1b 4i (text 1b 3i ?)
+# calculation: 17;0,0 + 58;2,3 + 59;0,4,5 + 23;1,0,0 = 157;4,1,5
+a.1. <count><interpretation modern_unit="" modern_value="40" system="cardinal" unit="" value="40"/>4(u)</count> 
+a.2. <count><interpretation modern_unit="" modern_value="109" system="cardinal" unit="" value="109"/>1(gesz2) 4(u) 9(disz)</count> 
+b.1. <count><interpretation modern_unit="m^2" modern_value="87300.0" system="surface" unit="gin2" value="145500.0"/>1(bur3) 1(esze3) 1/4(iku) gan2</count> <com dist="1">sze</com> <count><interpretation modern_unit="l" modern_value="210" system="dry capacity" unit="sila3" value="210"/>3(barig) 3(ban2)</count> gur-ta 
+b.2. <count><interpretation modern_unit="m^2" modern_value="37800.0" system="surface" unit="gin2" value="63000.0"/>1(esze3) 4(iku) 1/2(iku) gan2</count> su3 ... 
+c. <count><interpretation modern_unit="l" modern_value="0.001574074074074074" system="dry capacity" unit="sila3" value="0.001574074074074074"/>1(u) 7(asz) sze gur</count> 
+d. x <com dist="1">gig</com> ... 
+a.1. <count><interpretation modern_unit="" modern_value="40" system="cardinal" unit="" value="40"/>4(u)</count> 
+a.2. <count><interpretation modern_unit="" modern_value="72" system="cardinal" unit="" value="72"/>1(gesz2) 1(u) 2(disz)</count> 
+b. <count><interpretation modern_unit="m^2" modern_value="17.55" system="surface" unit="gin2" value="29.25"/>1(bur3) 1(esze3) 5(iku) 1/4(iku)</count> <com dist="1">min</com> GAN2 sze3 <count><interpretation modern_unit="" modern_value="2" system="cardinal" unit="" value="2"/>2(asz)</count> gur-ta 
+c. <count><interpretation modern_unit="l" modern_value="17550" system="dry capacity" unit="sila3" value="17550"/>5(u) 8(asz) 2(barig) 3(ban2) gur</count> 
+d. ba-sa6-ga 
+a.1. <count><interpretation modern_unit="" modern_value="40" system="cardinal" unit="" value="40"/>4(u)</count> 
+a.2. <count><interpretation modern_unit="" modern_value="74" system="cardinal" unit="" value="74"/>1(gesz2) 1(u) 4(disz)</count> 
+b.1. <count><interpretation modern_unit="m^2" modern_value="81900.0" system="surface" unit="gin2" value="136500.0"/>1(bur3) 4(iku) 1/2(iku) 1/4(iku) gan2</count> <com dist="1">sze</com> <count><interpretation modern_unit="l" modern_value="780" system="dry capacity" unit="sila3" value="780"/>2(asz) 3(barig)</count> gur-ta 
+b.2. <count><interpretation modern_unit="m^2" modern_value="2.4" system="surface" unit="gin2" value="4"/>4(iku)</count> su3 <count><interpretation modern_unit="m^2" modern_value="0.6" system="surface" unit="gin2" value="1"/>1(iku)</count> ki 
+c. <count><interpretation modern_unit="l" modern_value="17745" system="dry capacity" unit="sila3" value="17745"/>5(u) 9(asz) 4(ban2) 5(disz) sila3 gur</count> 
+d. <com dist="1">{gesz}guzza-ni-gi</com> 
+a.1. <count><interpretation modern_unit="" modern_value="46" system="cardinal" unit="" value="46"/>4(u) 6(disz)</count> 
+a.2.a. <count><interpretation modern_unit="" modern_value="60" system="cardinal" unit="" value="60"/>1(gesz2)</count> 
+a.2.b. <count><interpretation modern_unit="" modern_value="35" system="cardinal" unit="" value="35"/>3(u) 5(disz)</count> 
+b.1. <count><interpretation modern_unit="m^2" modern_value="41400.0" system="surface" unit="gin2" value="69000.0"/>1(esze3) 5(iku) 1/2(iku) gan2</count> <com dist="1">sze</com> <count><interpretation modern_unit="l" modern_value="480" system="dry capacity" unit="sila3" value="480"/>1(asz) 3(barig)</count> gur-ta 
+b.2. <count><interpretation modern_unit="m^2" modern_value="1.7999999999999998" system="surface" unit="gin2" value="3"/>3(iku)</count> <com dist="1">bar</com> sze 
+b.3. <count><interpretation modern_unit="m^2" modern_value="4.5" system="surface" unit="gin2" value="7.5"/>1(esze3) 1(iku) 1/2(iku)</count> su3 ... 
+c. <count><interpretation modern_unit="l" modern_value="6960" system="dry capacity" unit="sila3" value="6960"/>2(u) 3(asz) 1(barig) gur</count> 
+d. <com dist="1">u2-da</com> ur4-ra 
+szunigin <count><interpretation modern_unit="m^2" modern_value="331200.0" system="surface" unit="gin2" value="552000"/>5(bur3) 2(iku) gan2</count> <com dist="1">sze</com> 
+<count><interpretation modern_unit="m^2" modern_value="75600.0" system="surface" unit="gin2" value="126000"/>1(bur3) 3(iku) gan2</count> su3 <count><interpretation modern_unit="m^2" modern_value="0.6" system="surface" unit="gin2" value="1"/>1(iku)</count> ki 
+szunigin <count><interpretation modern_unit="l" modern_value="47355" system="dry capacity" unit="sila3" value="47355"/>2(gesz2) 3(u) 7(asz) 4(barig) 1(ban2) 5(disz) sila3 sze gur</count> 
+du10-ga-x 
+a-sza3 me-en-kar2 
+ugula ur-{d}nin-su engar 
+giri3 lu2-i3-zu 
+mu a-ra2 <count><interpretation modern_unit="" modern_value="3" system="cardinal" unit="" value="3"/>3(disz)-kam</count> si-mu-rum{ki} ba-hul 
+</commodities>

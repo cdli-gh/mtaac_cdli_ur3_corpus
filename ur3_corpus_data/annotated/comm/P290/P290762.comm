@@ -1,0 +1,21 @@
+<commodities>
+#P290762 = BPOA 7, 1541
+#atf: lang sux
+<count><interpretation modern_unit="l" modern_value="30" system="dry capacity" unit="sila3" value="30"/>3(ban2)</count> <com dist="1">zi3</com> sig15 
+<count><interpretation modern_unit="l" modern_value="40" system="dry capacity" unit="sila3" value="40"/>4(ban2)</count> zi3-gu saga 
+<count><interpretation modern_unit="l" modern_value="230" system="dry capacity" unit="sila3" value="230"/>3(barig) 5(ban2)</count> <com dist="1">ninda</com> du 
+<count><interpretation modern_unit="l" modern_value="30" system="dry capacity" unit="sila3" value="30"/>3(ban2)</count> kasz saga 
+<count><interpretation modern_unit="l" modern_value="270" system="dry capacity" unit="sila3" value="270"/>4(barig) 3(ban2)</count> <com dist="1">kasz</com> du 
+<count><interpretation modern_unit="" modern_value="1" system="cardinal" unit="" value="1"/>1(asz)</count> zu2-lum gur 
+<count><interpretation modern_unit="" modern_value="10" system="cardinal" unit="" value="10"/>1(u)</count> <com dist="1">{gi}kaskal</com> ku6 <count><interpretation modern_unit="l" modern_value="60" system="dry capacity" unit="sila3" value="60"/>1(barig)-ta</count> 
+<count><interpretation modern_unit="l" modern_value="0.3333333333333333" system="liquid capacity" unit="sila3" value="0.3333333333333333"/><interpretation modern_unit="l" modern_value="0.3333333333333333" system="dry capacity" unit="sila3" value="0.3333333333333333"/>1/3(disz) sila3</count> <com dist="1">gazi</com> gaz 
+<count><interpretation modern_unit="l" modern_value="0.3333333333333333" system="liquid capacity" unit="sila3" value="0.3333333333333333"/><interpretation modern_unit="l" modern_value="0.3333333333333333" system="dry capacity" unit="sila3" value="0.3333333333333333"/>1/3(disz) sila3</count> <com dist="1">sze-lu2</com> gaz 
+<count><interpretation modern_unit="l" modern_value="0.5" system="liquid capacity" unit="sila3" value="0.5"/><interpretation modern_unit="l" modern_value="0.5" system="dry capacity" unit="sila3" value="0.5"/>1/2(disz) sila3</count> <com dist="1">bappir</com> saga gaz 
+<count><interpretation modern_unit="" modern_value="1" system="cardinal" unit="" value="1"/>1(disz)</count> <com dist="1">udu</com> niga <count><interpretation modern_unit="" modern_value="2" system="cardinal" unit="" value="2"/>2(disz)</count> udu u2 
+<count><interpretation modern_unit="" modern_value="5" system="cardinal" unit="" value="5"/>5(disz)</count> {gi}gur <count><interpretation modern_unit="l" modern_value="60" system="dry capacity" unit="sila3" value="60"/>1(barig)-ta</count> 
+<count><interpretation modern_unit="" modern_value="1" system="cardinal" unit="" value="1"/>1(disz)</count> <com dist="1">{gi}pisan</com> sila4 ga su-ba 
+<count><interpretation modern_unit="" modern_value="10" system="cardinal" unit="" value="10"/>1(u)</count> <com dist="1">{gi}kaskal</com> <count><interpretation modern_unit="l" modern_value="60" system="dry capacity" unit="sila3" value="60"/>1(barig)-ta</count> 
+sukkal-mah 
+iti {d}li9-si4 
+mu {d}szu-{d}suen <com dist="1">lugal-e</com> na-ru2-a-mah {d}en-lil2 {d}nin-lil2-ra mu-ne-du3 
+</commodities>

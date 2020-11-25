@@ -1,0 +1,15 @@
+<commodities>
+#P104999 = BBVO 11, 261, 4N-T208
+#atf: lang sux
+<count><interpretation modern_unit="" modern_value="30" system="cardinal" unit="" value="30"/>3(u)</count> <com dist="1">gurusz</com> <count><interpretation modern_unit="" modern_value="4" system="cardinal" unit="" value="4"/>4(disz)</count> ma-na-ta 
+<count><interpretation modern_unit="" modern_value="54" system="cardinal" unit="" value="54"/>5(u) 4(disz)</count> geme2 <count><interpretation modern_unit="" modern_value="3" system="cardinal" unit="" value="3"/>3(disz)</count> ma-na-ta 
+<count><interpretation modern_unit="" modern_value="5" system="cardinal" unit="" value="5"/>5(disz)</count> dumu <count><interpretation modern_unit="" modern_value="2" system="cardinal" unit="" value="2"/>2(disz)</count> ma-na-ta 
+<count><interpretation modern_unit="" modern_value="6" system="cardinal" unit="" value="6"/>6(disz)</count> dumu <count><interpretation modern_unit="" modern_value="1.5" system="cardinal" unit="" value="1.5"/>1(disz) 1/2(disz)</count> ma-na-ta 
+<count><interpretation modern_unit="" modern_value="2" system="cardinal" unit="" value="2"/>2(disz)</count> dumu <count><interpretation modern_unit="" modern_value="1" system="cardinal" unit="" value="1"/>1(disz)</count> ma-na-ta 
+<count><interpretation modern_unit="" modern_value="1" system="cardinal" unit="" value="1"/>1(disz)</count> dumu <count><interpretation modern_unit="g" modern_value="250.00000000000003" system="weight" unit="gin2" value="30.0"/>1/2(disz) ma-na</count> 
+geme2 dumu-me 
+<count><interpretation modern_unit="" modern_value="14" system="cardinal" unit="" value="14"/>1(u) 4(disz)</count> engar <count><interpretation modern_unit="" modern_value="4" system="cardinal" unit="" value="4"/>4(disz)</count> ma-na-ta 
+<count><interpretation modern_unit="" modern_value="1" system="cardinal" unit="" value="1"/>1(disz)</count> dumu engar <count><interpretation modern_unit="g" modern_value="1000.0000000000001" system="weight" unit="gin2" value="120"/>2(disz) ma-na</count> 
+szunigin <count><interpretation modern_unit="g" modern_value="26500.000000000004" system="weight" unit="gin2" value="3180"/>5(u) 3(disz) ma-na</count> 
+<com dist="1">siki</com> szu nu-ti-a 
+</commodities>

@@ -1,0 +1,174 @@
+<commodities>
+#P131771 = TCL 05, 6057
+#atf: lang sux
+#tr.en: 120 sheep, grain-fed, at 1 sila3 each,
+#tr.en: its barley: 6 gur,
+# calculation: 120 sheep × 15 days × 1 sila3 per day = 6;0,0
+#tr.en: for 15 days,
+#tr.en: month: “mineš;”
+#tr.en: 120 sheep, grain-fed, at 1 sila3 each,
+#tr.en: for 15 days,
+#tr.en: its barley: 6 gur,
+# calculation: 120 sheep × 15 days × 1 sila3 per day = 6;0,0
+#tr.en: 120 sheep, grain-fed, at 1 1/2 sila3 each,
+#tr.en: for 15 days,
+#tr.en: its barley: 9 gur,
+# calculation: 120 sheep × 15 days × 1 1/2 sila3 per day = 9;0,0
+#tr.en: month: “House month 6;”
+#tr.en: 120 sheep, grain-fed, at 1 1/2 sila3 each,
+#tr.en: its barley: 18 gur,
+# calculation: 120 sheep × 30 days × 1 1/2 sila3 per day = 18;0,0
+#tr.en: 90 sheep, grain-fed, at 1 sila3 each,
+#tr.en: its barley: 9 gur,
+# calculation: 90 sheep × 30 days × 1 sila3 per day = 9;0,0
+#tr.en: month: “Lisi;”
+#tr.en: 150 sheep, grain-fed, at 1 1/2 sila3 each,
+#tr.en: its barley: 22 gur 2 barig 3 ban2,
+# calculation: 120 sheep × 30 days × 1 1/2 sila3 per day = 22;2,3
+#tr.en: 60 sheep, grain-fed, at 1 sila3 each,
+#tr.en: its barley: 6 gur,
+# calculation: 60 sheep × 30 days × 1 sila3 per day = 6;0,0
+#tr.en: month: “Šulgi;”
+#tr.en: 150 sheep, grain-fed, at 1 1/2 sila3 each,
+#tr.en: its barley: 22 gur 2 barig 3 ban2,
+# calculation: 120 sheep × 30 days × 1 1/2 sila3 per day = 22;2,3
+#tr.en: 60 sheep, grain-fed, at 1 sila3 each,
+#tr.en: its barley: 6 gur,
+# calculation: 60 sheep × 30 days × 1 sila3 per day = 6;0,0
+#tr.en: month: “pa’u’e;”
+#tr.en: 150 sheep, grain-fed, at 1 1/2 sila3 each,
+#tr.en: its barley: 22 gur 2 barig 3 ban2,
+# calculation: 120 sheep × 30 days × 1 1/2 sila3 per day = 22;2,3
+#tr.en: 60 sheep, grain-fed, at 1 sila3 each,
+#tr.en: its barley: 6 gur,
+# calculation: 60 sheep × 30 days × 1 sila3 per day = 6;0,0
+#tr.en: month: “Dumuzi;”
+# some text moved to next line
+#tr.en: year: “mineš;”
+#tr.en: 150 sheep, grain-fed, at 1 1/2 sila3 each,
+#tr.en: its barley: 22 gur 2 barig 3 ban2,
+# calculation: 120 sheep × 30 days × 1 1/2 sila3 per day = 22;2,3
+#tr.en: 60 sheep, grain-fed, at 1 sila3 each,
+#tr.en: its barley: 6 gur,
+# calculation: 60 sheep × 30 days × 1 sila3 per day = 6;0,0
+#tr.en: month: “Harvest;”
+#tr.en: 150 sheep, grain-fed, at 1 1/2 sila3 each,
+#tr.en: its barley: 22 gur 2 barig 3 ban2,
+# calculation: 120 sheep × 30 days × 1 1/2 sila3 per day = 22;2,3
+#tr.en: 60 sheep, grain-fed, at 1 sila3 each,
+#tr.en: its barley: 6 gur,
+# calculation: 60 sheep × 30 days × 1 sila3 per day = 6;0,0
+#tr.en: month: “Bricks in the moulds set;”
+#tr.en: 150 sheep, grain-fed, at 1 1/2 sila3 each,
+#tr.en: its barley: 22 gur 2 barig 3 ban2,
+# calculation: 120 sheep × 30 days × 1 1/2 sila3 per day = 22;2,3
+#tr.en: 60 sheep, grain-fed, at 1 sila3 each,
+#tr.en: its barley: 6 gur,
+# calculation: 60 sheep × 30 days × 1 sila3 per day = 6;0,0
+#tr.en: month: “Barley at the dock;”
+#tr.en: 150 sheep, grain-fed, at 1 1/2 sila3 each,
+#tr.en: its barley: 22 gur 2 barig 3 ban2,
+# calculation: 120 sheep × 30 days × 1 1/2 sila3 per day = 22;2,3
+#tr.en: 60 sheep, grain-fed, at 1 sila3 each,
+#tr.en: its barley: 6 gur,
+# calculation: 60 sheep × 30 days × 1 sila3 per day = 6;0,0
+#tr.en: month: “First fruits;”
+#tr.en: 150 sheep, grain-fed, at 1 1/2 sila3 each,
+#tr.en: its barley: 22 gur 2 barig 3 ban2,
+# calculation: 120 sheep × 30 days × 1 1/2 sila3 per day = 22;2,3
+#tr.en: 60 sheep, grain-fed, at 1 sila3 each,
+#tr.en: its barley: 6 gur,
+# calculation: 60 sheep × 30 days × 1 sila3 per day = 6;0,0
+#tr.en: month: “Flight;”
+#tr.en: 150 sheep, grain-fed, at 1 1/2 sila3 each,
+#tr.en: its barley: 5 gur 3 barig 7 1/2 sila3,
+# calculation: 150 sheep × 7 1/2 (!) days × 1 1/2 sila3 per day = 5;3,0,7 1/2
+#tr.en: 60 sheep, grain-fed, at 1 sila3 each,
+#tr.en: its barley: 1 gur 2 barig 3 ban2,
+# calculation: 60 sheep × 7 1/2 (!) days × 1 sila3 per day = 1;2,3
+#tr.en: month: “Sowing;”
+#tr.en: year after: “The wall was erected;”
+#tr.en: total: 283 gur 3 ban2 7 1/2 sila3,
+# calculation:
+#tr.en: fodder of the sheep, grain-fed,
+#tr.en: via Ur-Nisaba,
+#tr.en: sheep, grain-fed, of the bala;
+#tr.en: via the official office (?);
+#tr.en: from the month: “mineš,”
+#tr.en: year: “The wall was erected,”
+#tr.en: to the month: “Sowing,”
+# some text moved to next line
+#tr.en: year after: “The wall was erected.”
+<count><interpretation modern_unit="" modern_value="120" system="cardinal" unit="" value="120"/>2(gesz2)</count> <com dist="1">udu</com> niga <count><interpretation modern_unit="" modern_value="1" system="cardinal" unit="" value="1"/>1(disz)</count> sila3-ta 
+<com dist="1">sze-bi</com> <count><interpretation modern_unit="l" modern_value="1800" system="dry capacity" unit="sila3" value="1800"/>6(asz) gur</count> 
+u4 <count><interpretation modern_unit="" modern_value="15" system="cardinal" unit="" value="15"/>1(u) 5(disz)-sze3</count> 
+iti min3-esz3 
+<count><interpretation modern_unit="" modern_value="120" system="cardinal" unit="" value="120"/>2(gesz2)</count> <com dist="1">udu</com> niga <count><interpretation modern_unit="" modern_value="1" system="cardinal" unit="" value="1"/>1(disz)</count> sila3-ta 
+u4 <count><interpretation modern_unit="" modern_value="15" system="cardinal" unit="" value="15"/>1(u) 5(disz)-sze3</count> 
+<com dist="1">sze-bi</com> <count><interpretation modern_unit="l" modern_value="1800" system="dry capacity" unit="sila3" value="1800"/>6(asz) gur</count> 
+<count><interpretation modern_unit="" modern_value="120" system="cardinal" unit="" value="120"/>2(gesz2)</count> <com dist="1">udu</com> niga <count><interpretation modern_unit="" modern_value="1.5" system="cardinal" unit="" value="1.5"/>1(disz) 1/2(disz)</count> sila3-ta 
+u4 <count><interpretation modern_unit="" modern_value="15" system="cardinal" unit="" value="15"/>1(u) 5(disz)-sze3</count> 
+<com dist="1">sze-bi</com> <count><interpretation modern_unit="l" modern_value="2700" system="dry capacity" unit="sila3" value="2700"/>9(asz) gur</count> 
+iti e2-iti-6(disz) 
+<count><interpretation modern_unit="" modern_value="120" system="cardinal" unit="" value="120"/>2(gesz2)</count> <com dist="1">udu</com> niga <count><interpretation modern_unit="" modern_value="1.5" system="cardinal" unit="" value="1.5"/>1(disz) 1/2(disz)</count> sila3-ta 
+<com dist="1">sze-bi</com> <count><interpretation modern_unit="l" modern_value="5400" system="dry capacity" unit="sila3" value="5400"/>1(u) 8(asz) gur</count> 
+<count><interpretation modern_unit="" modern_value="90" system="cardinal" unit="" value="90"/>1(gesz2) 3(u)</count> <com dist="1">udu</com> niga <count><interpretation modern_unit="" modern_value="1" system="cardinal" unit="" value="1"/>1(disz)</count> sila3-ta 
+<com dist="1">sze-bi</com> <count><interpretation modern_unit="l" modern_value="2700" system="dry capacity" unit="sila3" value="2700"/>9(asz) gur</count> 
+iti {d}li9-si4 
+<count><interpretation modern_unit="" modern_value="150" system="cardinal" unit="" value="150"/>2(gesz2) 3(u)</count> <com dist="1">udu</com> niga <count><interpretation modern_unit="" modern_value="1.5" system="cardinal" unit="" value="1.5"/>1(disz) 1/2(disz)</count> sila3-ta 
+<com dist="1">sze-bi</com> <count><interpretation modern_unit="l" modern_value="6750" system="dry capacity" unit="sila3" value="6750"/>2(u) 2(asz) 2(barig) 3(ban2)</count> 
+<count><interpretation modern_unit="" modern_value="60" system="cardinal" unit="" value="60"/>1(gesz2)</count> <com dist="1">udu</com> niga <count><interpretation modern_unit="" modern_value="1" system="cardinal" unit="" value="1"/>1(disz)</count> sila3-ta 
+<com dist="1">sze-bi</com> <count><interpretation modern_unit="l" modern_value="1800" system="dry capacity" unit="sila3" value="1800"/>6(asz) gur</count> 
+iti ezem-{d}szul-gi 
+<count><interpretation modern_unit="" modern_value="150" system="cardinal" unit="" value="150"/>2(gesz2) 3(u)</count> <com dist="1">udu</com> niga <count><interpretation modern_unit="" modern_value="1.5" system="cardinal" unit="" value="1.5"/>1(disz) 1/2(disz)</count> sila3-ta 
+<com dist="1">sze-bi</com> <count><interpretation modern_unit="l" modern_value="6750" system="dry capacity" unit="sila3" value="6750"/>2(u) 2(asz) 2(barig) 3(ban2) gur</count> 
+<count><interpretation modern_unit="" modern_value="60" system="cardinal" unit="" value="60"/>1(gesz2)</count> <com dist="1">udu</com> niga <count><interpretation modern_unit="" modern_value="1" system="cardinal" unit="" value="1"/>1(disz)</count> sila3-ta 
+<com dist="1">sze-bi</com> <count><interpretation modern_unit="l" modern_value="1800" system="dry capacity" unit="sila3" value="1800"/>6(asz) gur</count> 
+iti pa4-u2-e 
+<count><interpretation modern_unit="" modern_value="150" system="cardinal" unit="" value="150"/>2(gesz2) 3(u)</count> <com dist="1">udu</com> niga <count><interpretation modern_unit="" modern_value="1.5" system="cardinal" unit="" value="1.5"/>1(disz) 1/2(disz)</count> sila3-ta 
+<com dist="1">sze-bi</com> <count><interpretation modern_unit="l" modern_value="6750" system="dry capacity" unit="sila3" value="6750"/>2(u) 2(asz) 2(barig) 3(ban2) gur</count> 
+<count><interpretation modern_unit="" modern_value="60" system="cardinal" unit="" value="60"/>1(gesz2)</count> <com dist="1">udu</com> niga <count><interpretation modern_unit="" modern_value="1" system="cardinal" unit="" value="1"/>1(disz)</count> sila3-ta 
+<com dist="1">sze-bi</com> <count><interpretation modern_unit="l" modern_value="1800" system="dry capacity" unit="sila3" value="1800"/>6(asz) gur</count> 
+iti {d}dumu-zi 
+mu bad3 <com dist="1">ba-du3</com> 
+<count><interpretation modern_unit="" modern_value="150" system="cardinal" unit="" value="150"/>2(gesz2) 3(u)</count> udu niga <count><interpretation modern_unit="" modern_value="1.5" system="cardinal" unit="" value="1.5"/>1(disz) 1/2(disz)</count> sila3-ta 
+<com dist="1">sze-bi</com> <count><interpretation modern_unit="l" modern_value="6750" system="dry capacity" unit="sila3" value="6750"/>2(u) 2(asz) 2(barig) 3(ban2) gur</count> 
+<count><interpretation modern_unit="" modern_value="60" system="cardinal" unit="" value="60"/>1(gesz2)</count> <com dist="1">udu</com> niga <count><interpretation modern_unit="" modern_value="1" system="cardinal" unit="" value="1"/>1(disz)</count> sila3-ta 
+<com dist="1">sze-bi</com> <count><interpretation modern_unit="l" modern_value="1800" system="dry capacity" unit="sila3" value="1800"/>6(asz) gur</count> 
+iti sze-sag-ku5 
+<count><interpretation modern_unit="" modern_value="150" system="cardinal" unit="" value="150"/>2(gesz2) 3(u)</count> <com dist="1">udu</com> niga <count><interpretation modern_unit="" modern_value="1.5" system="cardinal" unit="" value="1.5"/>1(disz) 1/2(disz)</count> sila3-ta 
+<com dist="1">sze-bi</com> <count><interpretation modern_unit="l" modern_value="6750" system="dry capacity" unit="sila3" value="6750"/>2(u) 2(asz) 2(barig) 3(ban2) gur</count> 
+<count><interpretation modern_unit="" modern_value="60" system="cardinal" unit="" value="60"/>1(gesz2)</count> <com dist="1">udu</com> niga <count><interpretation modern_unit="" modern_value="1" system="cardinal" unit="" value="1"/>1(disz)</count> sila3-ta 
+<com dist="1">sze-bi</com> <count><interpretation modern_unit="l" modern_value="1800" system="dry capacity" unit="sila3" value="1800"/>6(asz) gur</count> 
+iti <com dist="1">sig4-{gesz}i3-szub-ga2-ra</com> 
+<count><interpretation modern_unit="" modern_value="150" system="cardinal" unit="" value="150"/>2(gesz2) 3(u)</count> udu niga <count><interpretation modern_unit="" modern_value="1.5" system="cardinal" unit="" value="1.5"/>1(disz) 1/2(disz)</count> sila3-ta 
+<com dist="1">sze-bi</com> <count><interpretation modern_unit="l" modern_value="6750" system="dry capacity" unit="sila3" value="6750"/>2(u) 2(asz) 2(barig) 3(ban2) gur</count> 
+<count><interpretation modern_unit="" modern_value="60" system="cardinal" unit="" value="60"/>1(gesz2)</count> <com dist="1">udu</com> niga <count><interpretation modern_unit="" modern_value="1" system="cardinal" unit="" value="1"/>1(disz)</count> sila3-ta 
+<com dist="1">sze-bi</com> <count><interpretation modern_unit="l" modern_value="1800" system="dry capacity" unit="sila3" value="1800"/>6(asz) gur</count> 
+iti sze-kar-ra-gal2-la 
+<count><interpretation modern_unit="" modern_value="150" system="cardinal" unit="" value="150"/>2(gesz2) 3(u)</count> <com dist="1">udu</com> niga <count><interpretation modern_unit="" modern_value="1.5" system="cardinal" unit="" value="1.5"/>1(disz) 1/2(disz)</count> sila3-ta 
+<com dist="1">sze-bi</com> <count><interpretation modern_unit="l" modern_value="6750" system="dry capacity" unit="sila3" value="6750"/>2(u) 2(asz) 2(barig) 3(ban2) gur</count> 
+<count><interpretation modern_unit="" modern_value="60" system="cardinal" unit="" value="60"/>1(gesz2)</count> <com dist="1">udu</com> niga <count><interpretation modern_unit="" modern_value="1" system="cardinal" unit="" value="1"/>1(disz)</count> sila3-ta 
+<com dist="1">sze-bi</com> <count><interpretation modern_unit="l" modern_value="1800" system="dry capacity" unit="sila3" value="1800"/>6(asz) gur</count> 
+iti nesag 
+<count><interpretation modern_unit="" modern_value="150" system="cardinal" unit="" value="150"/>2(gesz2) 3(u)</count> <com dist="1">udu</com> niga <count><interpretation modern_unit="" modern_value="1.5" system="cardinal" unit="" value="1.5"/>1(disz) 1/2(disz)</count> sila3-ta 
+<com dist="1">sze-bi</com> <count><interpretation modern_unit="l" modern_value="6750" system="dry capacity" unit="sila3" value="6750"/>2(u) 2(asz) 2(barig) 3(ban2) gur</count> 
+<count><interpretation modern_unit="" modern_value="60" system="cardinal" unit="" value="60"/>1(gesz2)</count> <com dist="1">udu</com> niga <count><interpretation modern_unit="" modern_value="1" system="cardinal" unit="" value="1"/>1(disz)</count> sila3-ta 
+<com dist="1">sze-bi</com> <count><interpretation modern_unit="l" modern_value="1800" system="dry capacity" unit="sila3" value="1800"/>6(asz) gur</count> 
+iti <com dist="1">dal</com> 
+<count><interpretation modern_unit="" modern_value="150" system="cardinal" unit="" value="150"/>2(gesz2) 3(u)</count> udu niga <count><interpretation modern_unit="" modern_value="1.5" system="cardinal" unit="" value="1.5"/>1(disz) 1/2(disz)</count> sila3-ta 
+<com dist="1">sze-bi</com> <count><interpretation modern_unit="l" modern_value="1687.5" system="dry capacity" unit="sila3" value="1687.5"/>5(asz) 3(barig) 7(disz) 1/2(disz) sila3 sila3 gur</count> 
+<count><interpretation modern_unit="" modern_value="60" system="cardinal" unit="" value="60"/>1(gesz2)</count> <com dist="1">udu</com> niga <count><interpretation modern_unit="" modern_value="1" system="cardinal" unit="" value="1"/>1(disz)</count> sila3-ta 
+<com dist="1">sze-bi</com> <count><interpretation modern_unit="l" modern_value="450" system="dry capacity" unit="sila3" value="450"/>1(asz) 2(barig) 3(ban2) gur</count> 
+iti szu-numun 
+mu us2-sa bad3 <com dist="1">ba-du3</com> 
+szunigin <count><interpretation modern_unit="l" modern_value="84937.5" system="dry capacity" unit="sila3" value="84937.5"/>4(gesz2) 4(u) 3(asz) 3(ban2) 7(disz) 1/2(disz) sila3 gur</count> 
+sza3-gal <com dist="1">udu</com> niga 
+giri3 ur-{d}nisaba 
+udu niga bala-a 
+giri3 nam-sza3-tam 
+iti min3-esz3 
+mu bad3 ba-du3-ta 
+iti szu-numun 
+mu us2-sa bad3 ba-du3-sze3 
+</commodities>

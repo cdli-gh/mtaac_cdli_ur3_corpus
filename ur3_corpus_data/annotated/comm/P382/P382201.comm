@@ -1,0 +1,23 @@
+<commodities>
+#P382201 = CDLJ 2008/2, §2.16
+#atf: lang sux
+#tr.en: 14 workmen for 15 days
+#tr.en: its labor: 210 worker(days);
+#tr.en: its labor of workmen, free days: 21 days;
+# calculation: 210 ÷ 10 = 21
+#tr.en: to the reservoir of the transversal canal
+#tr.en: the area(s) between the (canal) outlets to explore, sent back;
+#tr.en: out of Kuli(’s account)
+#tr.en: booked;
+#tr.en: ...,
+#tr.en: year after: “...”.
+<count><interpretation modern_unit="" modern_value="14" system="cardinal" unit="" value="14"/>1(u) 4(disz)</count> <com dist="1">gurusz</com> u4 <count><interpretation modern_unit="" modern_value="15" system="cardinal" unit="" value="15"/>1(u) 5(disz)-sze3</count> 
+<com dist="1">a2-bi</com> <count><interpretation modern_unit="" modern_value="210" system="cardinal" unit="" value="210"/>3(gesz2) 3(u)</count> gurusz 
+a2 gurusz u4-du8-a-bi <count><interpretation modern_unit="" modern_value="21" system="cardinal" unit="" value="21"/>2(u) 1(disz)</count> u4 <count><interpretation modern_unit="" modern_value="1" system="cardinal" unit="" value="1"/>1(disz)-sze3</count> 
+kun-zi-da i7 pa2-ri2-ik-tum-ma 
+a-sza3 dal-ba-na kun zu-de3 ba-gi4 
+ki ku-li-ta 
+ba-zi 
+... 
+mu us2-sa ... x <com dist="1">ti</com> ... 
+</commodities>

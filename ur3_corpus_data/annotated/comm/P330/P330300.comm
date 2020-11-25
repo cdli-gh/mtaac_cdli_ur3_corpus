@@ -1,0 +1,15 @@
+<commodities>
+#P330300 = ZA 101, 063 6N-T0153
+#atf: lang sux
+n dabin 
+esz3 tur-tur-bi <count><interpretation modern_unit="" modern_value="28" system="cardinal" unit="" value="28"/>2(u) 8(disz)</count> 
+nidba2 
+<count><interpretation modern_unit="l" modern_value="10" system="dry capacity" unit="sila3" value="10"/>1(ban2)</count> zi3-GAM 
+<count><interpretation modern_unit="l" modern_value="10" system="dry capacity" unit="sila3" value="10"/>1(ban2)</count> <com dist="1">zi3-gu</com> 
+dam ensi2 
+<count><interpretation modern_unit="l" modern_value="7" system="liquid capacity" unit="sila3" value="7"/><interpretation modern_unit="l" modern_value="7" system="dry capacity" unit="sila3" value="7"/>7(disz) sila3</count> <com dist="1">nig2-ar3-ra</com> saga 
+szuku-sze3(LAGAB) 
+szunigin <count><interpretation modern_unit="l" modern_value="68" system="dry capacity" unit="sila3" value="68"/>1(barig) 8(disz) sila3</count> <com dist="1">zi3-sig15</com> 
+szunigin <count><interpretation modern_unit="l" modern_value="30" system="dry capacity" unit="sila3" value="30"/>3(ban2)</count> <com dist="1">esza</com> 
+szunigin <count><interpretation modern_unit="l" modern_value="37" system="dry capacity" unit="sila3" value="37"/>3(ban2) 7(disz) sila3</count> <com dist="1">nig2-ar3-ra</com> saga 
+</commodities>

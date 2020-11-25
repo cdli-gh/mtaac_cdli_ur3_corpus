@@ -1,0 +1,17 @@
+<commodities>
+#P209082 = Nisaba 09, 127
+#atf: lang sux
+<count><interpretation modern_unit="" modern_value="2" system="cardinal" unit="" value="2"/>2(disz)</count> <com dist="1">gu4</com> niga saga 
+<count><interpretation modern_unit="l" modern_value="5" system="liquid capacity" unit="sila3" value="5"/><interpretation modern_unit="l" modern_value="5" system="dry capacity" unit="sila3" value="5"/>5(disz) sila3</count> <com dist="1">sze-ta</com> 
+<count><interpretation modern_unit="l" modern_value="15" system="dry capacity" unit="sila3" value="15"/>1(ban2) 5(disz) sila3</count> duh saga-ta 
+<count><interpretation modern_unit="l" modern_value="5" system="liquid capacity" unit="sila3" value="5"/><interpretation modern_unit="l" modern_value="5" system="dry capacity" unit="sila3" value="5"/>5(disz) sila3</count> <com dist="1">duh</com> du-ta 
+<count><interpretation modern_unit="" modern_value="4" system="cardinal" unit="" value="4"/>4(disz)</count> <com dist="1">gu4</com> niga us2 
+<count><interpretation modern_unit="l" modern_value="15" system="dry capacity" unit="sila3" value="15"/>1(ban2) 5(disz) sila3</count> duh saga-ta 
+<count><interpretation modern_unit="l" modern_value="5" system="liquid capacity" unit="sila3" value="5"/><interpretation modern_unit="l" modern_value="5" system="dry capacity" unit="sila3" value="5"/>5(disz) sila3</count> <com dist="1">duh</com> du-ta 
+u4 <count><interpretation modern_unit="" modern_value="30" system="cardinal" unit="" value="30"/>3(u)-sze3</count> 
+szunigin <count><interpretation modern_unit="l" modern_value="9.259259259259259e-05" system="dry capacity" unit="sila3" value="9.259259259259259e-05"/>1(asz) sze gur</count> 
+szunigin <count><interpretation modern_unit="" modern_value="9" system="cardinal" unit="" value="9"/>9(asz)</count> <com dist="1">duh</com> saga gur 
+szunigin <count><interpretation modern_unit="" modern_value="3" system="cardinal" unit="" value="3"/>3(asz)</count> <com dist="1">duh</com> du gur 
+iti sze-kar-ra-gal2-la 
+mu us2-sa si-ma-num2{ki} ba-hul 
+</commodities>

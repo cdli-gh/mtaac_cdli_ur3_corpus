@@ -1,0 +1,32 @@
+<commodities>
+#P115878 = MVN 10, 105
+#atf: lang sux
+i7 idigna-ta 
+<count><interpretation modern_unit="m" modern_value="4230" system="length" unit="gi" value="1410"/>1(geszu) 1(gesz2) 4(u) 5(disz) ninda</count> <com dist="1">gid2</com> 
+i7 ba-al-la 
+<count><interpretation modern_unit="m" modern_value="60" system="length" unit="gi" value="20"/>1(u) ninda</count> <com dist="1">gid2</com> <count><interpretation modern_unit="" modern_value="2" system="cardinal" unit="" value="2"/>2(disz)</count> sar-ta 
+kin-bi <count><interpretation modern_unit="bricks" modern_value="172800" system="bricks" unit="gin2" value="14400"/><interpretation modern_unit="m^2" modern_value="720.0" system="surface" unit="gin2" value="1200"/><interpretation modern_unit="l" modern_value="360000" system="volume" unit="gin2" value="1200"/>2(u) sar</count> 
+i3-ba-al-nu-ba-al 
+<count><interpretation modern_unit="m" modern_value="720" system="length" unit="gi" value="240"/>2(gesz2) ninda</count> <com dist="1">gid2</com> <count><interpretation modern_unit="" modern_value="3" system="cardinal" unit="" value="3"/>3(disz)</count> sar-ta 
+kin-bi <count><interpretation modern_unit="bricks" modern_value="51840" system="bricks" unit="gin2" value="4320"/><interpretation modern_unit="m^2" modern_value="216.0" system="surface" unit="gin2" value="360"/><interpretation modern_unit="l" modern_value="108000" system="volume" unit="gin2" value="360"/>6(disz) sar</count> 
+szunigin <count><interpretation modern_unit="bricks" modern_value="3283200" system="bricks" unit="gin2" value="273600"/><interpretation modern_unit="m^2" modern_value="13680.0" system="surface" unit="gin2" value="22800"/><interpretation modern_unit="l" modern_value="6840000" system="volume" unit="gin2" value="22800"/>6(gesz2) 2(u) sar</count> <com dist="1">sahar</com> 
+a2 <count><interpretation modern_unit="" modern_value="6" system="cardinal" unit="" value="6"/>6(disz)</count> sila3-ta 
+<com dist="1">sze-bi</com> <count><interpretation modern_unit="l" modern_value="13680" system="dry capacity" unit="sila3" value="13680"/>4(u) 5(asz) 3(barig) gur</count> 
+i7 e3-ri-a ga2-udu lugal-uszurx(|LAL2.TUG2|)-sze3 
+... x ... 
+<count><interpretation modern_unit="m" modern_value="660" system="length" unit="gi" value="220"/>1(gesz2) 5(u) ninda</count> <com dist="1">gid2</com> nu-tuku 
+{gesz}szinig ki-su7 {d}szul-pa-e3-sze3 
+<count><interpretation modern_unit="m" modern_value="150" system="length" unit="gi" value="50"/>2(u) 5(disz) ninda</count> <com dist="1">gid2</com> x sar-ta 
+kin-bi ... sar 
+<count><interpretation modern_unit="" modern_value="none" system="unknown" unit="" value="none"/>1(u) 5(disz) ninda ...</count> sar-ta 
+kin-bi ... sar 
+<count><interpretation modern_unit="" modern_value="none" system="unknown" unit="" value="none"/>6(disz) ninda ...</count> sar-ta 
+kin-bi ... sar 
+<count><interpretation modern_unit="" modern_value="none" system="unknown" unit="" value="none"/>1(u) 5(disz) ...</count> sar-ta 
+kin-bi ... x 
+<count><interpretation modern_unit="" modern_value="10" system="cardinal" unit="" value="10"/>1(u)</count> ...-ta 
+... 
+x x <count><interpretation modern_unit="" modern_value="none" system="unknown" unit="" value="none"/>4(u) 4(disz) ... x</count> 
+x <count><interpretation modern_unit="" modern_value="none" system="unknown" unit="" value="none"/>3(disz) ... x</count> 
+x {d}nin-ur4-ra igi-ga2-udu inim-ma-dingir iti ... 
+</commodities>

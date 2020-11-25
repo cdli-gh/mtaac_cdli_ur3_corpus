@@ -1,0 +1,16 @@
+<commodities>
+#P119977 = MVN 18, 616
+#atf: lang sux
+x {gesz}szinig ... 
+<count><interpretation modern_unit="" modern_value="3" system="cardinal" unit="" value="3"/>3(disz)</count> <com dist="1">{gesz}szinig</com> ... gu ... 
+<count><interpretation modern_unit="" modern_value="60" system="cardinal" unit="" value="60"/>1(gesz2)</count> <com dist="1">{gesz}szinig</com> ... 
+<count><interpretation modern_unit="" modern_value="120" system="cardinal" unit="" value="120"/>2(gesz2)</count> <com dist="1">{gesz}szinig</com> <count><interpretation modern_unit="" modern_value="none" system="unknown" unit="" value="none"/>4(u) ...</count> 
+<count><interpretation modern_unit="" modern_value="33" system="cardinal" unit="" value="33"/>3(u) 3(disz)</count> <com dist="1">{gesz}asal2</com> dur2 pisan gid2-da gid2 <count><interpretation modern_unit="m" modern_value="1.75" system="length" unit="gi" value="0.5833333333333334"/>3(disz) 1/2(disz) kusz3</count> 
+<count><interpretation modern_unit="" modern_value="336" system="cardinal" unit="" value="336"/>5(gesz2) 3(u) 6(disz)</count> <com dist="1">{gesz}asal2</com> dur2 pisan tab-ba gid2 <count><interpretation modern_unit="m" modern_value="0.75" system="length" unit="gi" value="0.25"/>1(disz) 1/2(disz) kusz3</count> 
+<count><interpretation modern_unit="" modern_value="1" system="cardinal" unit="" value="1"/>1(disz)</count> <com dist="1">{gesz}nu-uz-hum</com> 
+<count><interpretation modern_unit="g" modern_value="97833.33333333334" system="weight" unit="gin2" value="11740.0"/>3(asz) gu2 1(u) 5(disz) 2/3(disz) ma-na</count> bur2 
+<count><interpretation modern_unit="" modern_value="7200" system="cardinal" unit="" value="7200"/>2(szar2)</count> dala2 <com dist="1">{gesz}ma-nu</com> 
+<count><interpretation modern_unit="g" modern_value="180000.0" system="weight" unit="gin2" value="21600"/>6(asz) gu2</count> {gesz}u2-bil2-la 
+<count><interpretation modern_unit="" modern_value="none" system="unknown" unit="" value="none"/>1(geszu) 7(gesz2) 4(u) 6(asz) gu2 ...</count> 
+<count><interpretation modern_unit="g" modern_value="90000.0" system="weight" unit="gin2" value="10800"/>3(asz) gu2</count> <com dist="1">{gesz}...</com> 
+</commodities>

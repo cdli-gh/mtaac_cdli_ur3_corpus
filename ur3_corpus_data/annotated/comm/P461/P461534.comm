@@ -1,0 +1,76 @@
+<commodities>
+#P461534 = DIA 78.064
+#atf: lang sux
+#tr.en: 2 oxen, grain-fed, top grade,
+#tr.en: 4 oxen, grain-fed,
+#tr.en: “Temples” (ceremony), House-of-Day-7;
+#tr.en: the month, day 5 passed;
+#tr.en: 2 oxen, grain-fed, Inanna,
+#tr.en: the month, day 12 passed;
+#tr.en: 2 oxen, grain-fed, top grade,
+#tr.en: 9 oxen, grain-fed,
+#tr.en: “Temples” (ceremony), House-of-Day-15;
+#tr.en: the month, day 13 passed;
+#tr.en: in Nippur;
+#tr.en: 2 oxen, grain-fed, Inanna,
+#tr.en: the month, day 14 passed;
+#tr.en: 2 oxen, grain-fed, Inanna,
+#tr.en: the month, day 15 passed;
+#tr.en: 2 oxen, grain-fed, Inanna,
+#tr.en: the month, day 15 passed;
+#tr.en: 4 oxen, grain-fed, “Festival Boat-of-Heaven,”
+#tr.en: the zabardab (official) was enforcer;
+#tr.en: the month, day 23 passed;
+#tr.en: in Uruk;
+#tr.en: xxx
+#tr.en: 1 ox, grain-fed, Annunītum,
+#tr.en: 1 ox, grain-fed, Ulmašitum,
+#tr.en: Nanše-GIRgal was enforcer;
+#tr.en: the month, day 30 passed;
+#tr.en: in Ur;
+#tr.en: (total:) 32 (oxen);
+#tr.en: total: 4 oxen, grain-fed, top grade,
+#tr.en: total: 28 oxen, grain-fed,
+#tr.en: ..., bala (tax) of Namzitara, governorn of Kutha,
+#tr.en: did Beli-zu accept;
+#tr.en: from (the account of) Aḫuni
+#tr.en: booked out;
+#tr.en: month “Akītu”
+#tr.en: year: “Amar-Suen is king.”
+<count><interpretation modern_unit="" modern_value="2" system="cardinal" unit="" value="2"/>2(disz)</count> <com dist="1">gu4</com> niga sag-gu4 
+<count><interpretation modern_unit="" modern_value="4" system="cardinal" unit="" value="4"/>4(disz)</count> <com dist="1">gu4</com> niga 
+esz3-esz3 e2-u4-7(disz) 
+iti u4 <count><interpretation modern_unit="" modern_value="5" system="cardinal" unit="" value="5"/>5(disz)</count> ba-zal 
+<count><interpretation modern_unit="" modern_value="2" system="cardinal" unit="" value="2"/>2(disz)</count> <com dist="1">gu4</com> niga {d}inanna 
+iti u4 <count><interpretation modern_unit="" modern_value="12" system="cardinal" unit="" value="12"/>1(u) 2(disz)</count> ba-zal 
+<count><interpretation modern_unit="" modern_value="2" system="cardinal" unit="" value="2"/>2(disz)</count> <com dist="1">gu4</com> niga sag-gu4 
+<count><interpretation modern_unit="" modern_value="9" system="cardinal" unit="" value="9"/>1(u) la2 1(disz)</count> <com dist="1">gu4</com> niga 
+esz3-esz3 e2-u4-1(u) <count><interpretation modern_unit="" modern_value="5" system="cardinal" unit="" value="5"/>5(disz)</count> 
+iti u4 <count><interpretation modern_unit="" modern_value="13" system="cardinal" unit="" value="13"/>1(u) 3(disz)</count> ba-zal 
+sza3 nibru{ki} 
+<count><interpretation modern_unit="" modern_value="2" system="cardinal" unit="" value="2"/>2(disz)</count> <com dist="1">gu4</com> niga {d}inanna 
+iti u4 <count><interpretation modern_unit="" modern_value="14" system="cardinal" unit="" value="14"/>1(u) 4(disz)</count> ba-zal 
+<count><interpretation modern_unit="" modern_value="2" system="cardinal" unit="" value="2"/>2(disz)</count> <com dist="1">gu4</com> niga {d}inanna 
+iti u4 <count><interpretation modern_unit="" modern_value="15" system="cardinal" unit="" value="15"/>1(u) 5(disz)</count> ba-zal 
+<count><interpretation modern_unit="" modern_value="2" system="cardinal" unit="" value="2"/>2(disz)</count> <com dist="1">gu4</com> niga {d}inanna 
+iti u4 <count><interpretation modern_unit="" modern_value="17" system="cardinal" unit="" value="17"/>1(u) 7(disz)</count> ba-zal 
+<count><interpretation modern_unit="" modern_value="4" system="cardinal" unit="" value="4"/>4(disz)</count> <com dist="1">gu4</com> niga ezem-ma2-an-na 
+zabar-dab5 maszkim 
+iti u4 <count><interpretation modern_unit="" modern_value="23" system="cardinal" unit="" value="23"/>2(u) 3(disz)</count> ba-zal 
+sza3 unu{ki}-ga 
+<count><interpretation modern_unit="" modern_value="1" system="cardinal" unit="" value="1"/>1(disz)</count> <com dist="1">gu4</com> niga {d}nin-hur-sag nu-banda3 
+<count><interpretation modern_unit="" modern_value="1" system="cardinal" unit="" value="1"/>1(disz)</count> <com dist="1">gu4</com> niga an-nu-ni-tum 
+<count><interpretation modern_unit="" modern_value="1" system="cardinal" unit="" value="1"/>1(disz)</count> <com dist="1">gu4</com> niga {d}ul-ma-szi-tum 
+{d}nansze-GIR2-gal maszkim 
+iti u4 <count><interpretation modern_unit="" modern_value="30" system="cardinal" unit="" value="30"/>3(u)</count> ba-zal 
+sza3 uri5{ki}-ma 
+($ blank space $) <count><interpretation modern_unit="" modern_value="32" system="cardinal" unit="" value="32"/>3(u) 2(disz)</count> 
+szunigin <count><interpretation modern_unit="" modern_value="4" system="cardinal" unit="" value="4"/>4(disz)</count> <com dist="1">gu4</com> niga sag-gu4 
+szunigin <count><interpretation modern_unit="" modern_value="28" system="cardinal" unit="" value="28"/>2(u) 8(disz)</count> <com dist="1">gu4</com> niga 
+szu-la2-a bala nam-zi-tar-ra ensi2 gu2-du8-a{ki} 
+be-li2-a-zu i3-dab5 
+ki a-hu-ni-ta 
+ba-zi 
+iti a2-ki-ti 
+mu {d}amar-{d}suen lugal 
+</commodities>

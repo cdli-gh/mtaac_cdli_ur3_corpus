@@ -1,0 +1,27 @@
+<commodities>
+#P464343 = Kress 225
+#atf: lang sux
+#tr.en: n 2 1/2 sila3 x,
+#tr.en: 4 ban2 8 sila3 dried cheese,
+#tr.en: 18 gur 3 barig 3 ban2 5 sila3 dates,
+#tr.en: from Šu-Ešdar,
+#tr.en: ...
+#tr.en: received;
+# seal impression
+#tr.en: year: “Šu-Suen, king of Ur, the house of Šara in Umma erected.”
+#tr.en: Nūr-ilī,
+#tr.en: scribe,
+#tr.en: son of Ur-Dumuzi,
+#tr.en: scribe.
+n <count><interpretation modern_unit="" modern_value="none" system="unknown" unit="" value="none"/><interpretation modern_unit="" modern_value="none" system="unknown" unit="" value="none"/>2(disz) 1/2(disz) sila3 x</count> 
+<count><interpretation modern_unit="l" modern_value="48" system="dry capacity" unit="sila3" value="48"/>4(ban2) 8(disz) sila3</count> <com dist="1">ga-ar3</com> 
+<count><interpretation modern_unit="l" modern_value="5615" system="dry capacity" unit="sila3" value="5615"/>1(u) 8(asz) 3(barig) 3(ban2) 5(disz) sila3</count> zu2-lum gur 
+ki szu-esz18-dar-ta 
+... 
+<com dist="1">szu</com> ba-ti 
+mu {d}szu-{d}suen lugal uri5{ki}-ma-ke4 e2 {d}szara2 umma{ki} mu-du3 
+nu-ur2-i3-li2 
+dub-sar 
+dumu ur-{d}dumu-zi 
+dub-sar 
+</commodities>

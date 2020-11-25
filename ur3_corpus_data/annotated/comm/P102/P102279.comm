@@ -1,0 +1,31 @@
+<commodities>
+#P102279 = ASJ 09, 233 03
+#atf: lang sux
+#tr.en: 1 barig new barley,
+#tr.en: from New-mill;
+#tr.en: 180 gur barley,
+#tr.en: from the mouth of the river,
+#tr.en: its grain of bala,
+#tr.en: under seal of Bi-du-ga,
+#tr.en: ARAD received;
+#tr.en: via Lugal-nig-lagare.
+#tr.en: month: “pa’u’e,”
+# some text moved to next line
+#tr.en: year: “En-unugal-Inanna was installed.”
+#tr.en: ARAD-mu,
+#tr.en: scribe,
+#tr.en: son of Ur-nigar, the cattle manager.
+<count>1(barig) sze</count> gibil gur 
+e2-kikken-gibil-ta 
+<count><interpretation modern_unit="l" modern_value="0.016666666666666663" system="dry capacity" unit="sila3" value="0.016666666666666663"/>3(gesz2) sze gur</count> 
+ka i7-da-ta 
+<com dist="1">sze-bi</com> bala-a 
+kiszib3 bi2-du11-ga 
+ARAD2 szu ba-ti 
+giri3 lugal-nig2-lagar-e 
+iti pa4-u2-e 
+mu en-unu6-gal {d}inanna ba-hun 
+ARAD2-mu 
+dub-sar 
+dumu ur-nigar{gar} szusz3 
+</commodities>

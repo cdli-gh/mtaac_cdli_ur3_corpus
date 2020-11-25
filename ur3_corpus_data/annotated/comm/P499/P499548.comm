@@ -1,0 +1,242 @@
+<commodities>
+#P499548 = R1765/1
+#atf: lang sux
+# AS 9
+# SS 1
+# SS 2
+# SS 3
+# SS 4
+# SS 5
+# calculation: 63 - 54 = 9
+# calculation: 215 1/2 - 335 2/3 = 120 1/6
+# AS 9
+# SS 1
+# SS 2?
+# SS 3?
+# SS 4?
+# SS 5?
+# AS 9?
+# SS 1
+# SS 2
+# SS 3
+# calculation: 5 shekels × 12 mana/shekel = 60 mana
+# AS 9?
+# SS 1?
+# SS 2?
+# SS 3?
+# SS 4?
+# SS 5?
+# AS 9?
+# SS 1?
+# SS 2?
+# SS 3?
+# SS 4
+# calculation: 10 shekels × 12 mana/shekel = 120 mana
+# AS 9
+# SS 1?
+# SS 2?
+# SS 3?
+# SS 4?
+# SS 5?
+# AS 9
+# SS 1?
+# SS 2?
+# SS 3?
+# SS 4?
+# SS 5?
+# calculation: 4 1/3 shekels × 3 goats/shekel = 13 goats
+# calculation: 1/6 shekel × 10 sila3/shekel = 1 2/3 sila3
+# AS 9
+# SS 1?
+# SS 2?
+# SS 3?
+# SS 4?
+# SS 5?
+# AS 9
+# SS 1
+# SS 2?
+# SS 3?
+# SS 4?
+# SS 5?
+# calculation: n ga-szex(SIG7)-a ÷ 20 = n i3-nun
+# calculation: 3/2 × n  i3-nun = n ga-UD@g
+# AS 9
+# calculation: 1/9 shekel × 10 sila3/shekel = 1 6.67/60 shekels
+# calculation: 4 2/3 shekels × 3 goats/shekel = 14 goats
+# calculation: 390 ÷ 20 = 19 1/2
+# calculation: 19 1/2 × 3/2 = 29 1/4
+# SS 1
+# SS 2?
+# SS 3?
+# SS 4
+# calculation: 360 ÷ 20 = 18
+# calculation: 18 × 3/2 = 27
+# SS 5
+# blank space
+# AS 9
+# SS 5
+n ma-na siki la2-ia3 zu2-si 
+mu en-kar-zi-da ba-hun 
+n ma-na siki la2-ia3 zu2-si 
+mu {d}szu-{d}suen lugal 
+n udu 
+n ma-na siki udu la2-ia3 
+n ma-na siki la2-ia3 zu2-si 
+mu ma2 {d}en-ki 
+n udu 
+n ma-na siki udu la2-ia3 
+n ma-na siki la2-ia3 zu2-si 
+mu si-ma-num2{ki} 
+n <count><interpretation modern_unit="g" modern_value="2500.0" system="weight" unit="gin2" value="300"/>5(disz) ma-na</count> <com dist="1">siki</com> la2-ia3 zu2-si 
+mu bad3 mar-tu 
+n ma-na siki la2-ia3 zu2-si 
+mu us2-sa bad3 mar-tu 
+szunigin <count><interpretation modern_unit="" modern_value="63" system="cardinal" unit="" value="63"/>1(gesz2) 3(disz)</count> <com dist="1">udu</com> 
+szunigin <count><interpretation modern_unit="g" modern_value="107750.00000000001" system="weight" unit="gin2" value="12930.0"/>3(asz) gu2 3(u) 5(disz) 1/2(disz) ma-na</count> <com dist="1">siki</com> 
+sza3-bi-ta 
+... 
+... x x 
+szunigin <count><interpretation modern_unit="" modern_value="54" system="cardinal" unit="" value="54"/>5(u) 4(disz)</count> <com dist="1">udu</com> 
+szunigin <count><interpretation modern_unit="g" modern_value="167833.33333333334" system="weight" unit="gin2" value="20140.0"/>5(asz) gu2 3(u) 5(disz) 2/3(disz) ma-na</count> <com dist="1">siki</com> 
+zi-ga-am3 
+la2-ia3 <count><interpretation modern_unit="" modern_value="9" system="cardinal" unit="" value="9"/>9(disz)</count> <com dist="1">udu</com> 
+diri <count><interpretation modern_unit="g" modern_value="60083.333333333336" system="weight" unit="gin2" value="7210"/>2(asz) gu2 1(u) gin2</count> <com dist="1">siki</com> 
+lu2-kal-la na-gada 
+<count><interpretation modern_unit="g" modern_value="44583.333333333336" system="weight" unit="gin2" value="5350"/>1(asz) gu2 2(u) 9(disz) ma-na 1(u) gin2</count> <com dist="1">siki</com> la2-ia3 zu2-si 
+mu en kar-zi-da ba-hun 
+<count><interpretation modern_unit="" modern_value="5" system="cardinal" unit="" value="5"/>5(disz)</count> <com dist="1">udu</com> 
+<count><interpretation modern_unit="g" modern_value="5000.0" system="weight" unit="gin2" value="600"/>1(u) ma-na</count> siki udu la2-ia3 
+<count><interpretation modern_unit="g" modern_value="34500.0" system="weight" unit="gin2" value="4140"/>1(asz) gu2 9(disz) ma-na</count> <com dist="1">siki</com> la2-ia3 zu2-si 
+mu {d}szu-{d}suen lugal 
+<count><interpretation modern_unit="" modern_value="19" system="cardinal" unit="" value="19"/>2(u) la2 1(disz)</count> <com dist="1">udu</com> 
+<count><interpretation modern_unit="g" modern_value="18500.0" system="weight" unit="gin2" value="2220"/>3(u) 7(disz) ma-na</count> siki udu la2-ia3 
+<count><interpretation modern_unit="" modern_value="20" system="cardinal" unit="" value="20"/>2(u)</count> n <com dist="1">ma-na</com> siki la2-ia3 zu2-si 
+szunigin n udu 
+szunigin ... siki 
+sza3-bi-ta 
+n ma-na siki udu la2-ia3 
+n ma-na siki la2-ia3 zu2-si 
+mu {d}szu-{d}suen lugal 
+<count><interpretation modern_unit="" modern_value="7" system="cardinal" unit="" value="7"/>7(disz)</count> <com dist="1">udu</com> 
+<count><interpretation modern_unit="g" modern_value="7000.000000000001" system="weight" unit="gin2" value="840"/>1(u) 4(disz) ma-na</count> siki udu la2-ia3 
+<count><interpretation modern_unit="g" modern_value="3000.0" system="weight" unit="gin2" value="360"/>6(disz) ma-na</count> <com dist="1">siki</com> la2-ia3 zu2-si 
+mu ma2 {d}en-ki 
+<count><interpretation modern_unit="" modern_value="2" system="cardinal" unit="" value="2"/>2(disz)</count> <com dist="1">udu</com> 
+<count><interpretation modern_unit="g" modern_value="1000.0000000000001" system="weight" unit="gin2" value="120"/>2(disz) ma-na</count> siki udu la2-ia3 
+mu si-ma-num2{ki} 
+szunigin <count><interpretation modern_unit="" modern_value="9" system="cardinal" unit="" value="9"/>9(disz)</count> <com dist="1">udu</com> 
+szunigin <count><interpretation modern_unit="g" modern_value="55083.333333333336" system="weight" unit="gin2" value="6610"/>1(asz) gu2 5(u) ma-na 1(u) gin2</count> <com dist="1">siki</com> 
+sza3-bi-ta 
+<count><interpretation modern_unit="" modern_value="0.08333333333333333" system="cardinal" unit="" value="0.08333333333333333"/>5(disz) gin2</count> <com dist="1">ku3</com> 
+siki-bi <count><interpretation modern_unit="g" modern_value="30000.000000000004" system="weight" unit="gin2" value="3600"/>1(asz) gu2</count> 
+x ... 
+szunigin n <com dist="1">udu</com> 
+szunigin ... siki 
+zi-ga-am3 
+la2-ia3 n udu 
+la2-ia3 ... siki 
+... na-gada 
+<count><interpretation modern_unit="g" modern_value="10000.0" system="weight" unit="gin2" value="1200"/>2(u) ma-na</count> <com dist="1">siki</com> udu la2-ia3 
+<count><interpretation modern_unit="g" modern_value="20000.0" system="weight" unit="gin2" value="2400"/>4(u) ma-na</count> <com dist="1">siki</com> udu la2-ia3 
+mu bad3 mar-tu 
+szunigin <count><interpretation modern_unit="" modern_value="54" system="cardinal" unit="" value="54"/>5(u) 4(disz)</count> <com dist="1">udu</com> 
+szunigin <count><interpretation modern_unit="g" modern_value="115416.66666666667" system="weight" unit="gin2" value="13850.0"/>3(asz) gu2 5(u) 5/6(disz) ma-na</count> <com dist="1">siki</com> 
+sza3-bi-ta 
+<count><interpretation modern_unit="" modern_value="0.16666666666666666" system="cardinal" unit="" value="0.16666666666666666"/>1(u) gin2</count> <com dist="1">ku3</com> 
+siki-bi <count><interpretation modern_unit="g" modern_value="60000.00000000001" system="weight" unit="gin2" value="7200"/>2(asz) gu2</count> 
+<count><interpretation modern_unit="g" modern_value="24666.666666666668" system="weight" unit="gin2" value="2960.0"/>4(u) 9(disz) 1/3(disz) ma-na</count> <com dist="1">siki</com> udu la2-ia3 
+mu en kar-zi-da ba-hun 
+szunigin n udu 
+szunigin ... siki 
+zi-ga-am3 
+la2-ia3 n udu 
+la2-ia3 ... siki 
+... na-gada 
+szunigin n masz2 
+szunigin ... i3-nun 
+szunigin ... ga-UD 
+szunigin ... siki-ud5 
+sza3-bi-ta 
+<count><interpretation modern_unit="" modern_value="none" system="unknown" unit="" value="none"/>2(asz) gu2 ...</count> siki-ud5 
+kiszib3 x-... x ... 
+<count><interpretation modern_unit="" modern_value="0.07222222222222222" system="cardinal" unit="" value="0.07222222222222222"/>4(disz) 1/3(disz) gin2</count> <com dist="1">ku3</com> 
+masz2-bi <count><interpretation modern_unit="" modern_value="13" system="cardinal" unit="" value="13"/>1(u) 3(disz)</count> 
+<count><interpretation modern_unit="" modern_value="0.16666666666666666" system="cardinal" unit="" value="0.16666666666666666"/>igi-6(disz)-gal2</count> <com dist="1">ku3</com> 
+i3-nun-bi <count><interpretation modern_unit="l" modern_value="1.6666666666666665" system="liquid capacity" unit="sila3" value="1.6666666666666665"/><interpretation modern_unit="l" modern_value="1.6666666666666665" system="dry capacity" unit="sila3" value="1.6666666666666665"/>1(disz) 2/3(disz) sila3</count> 
+mu en kar-zi-da ba-hun 
+x x x 
+szunigin n <com dist="1">masz2</com> 
+szunigin ... i3-nun 
+szunigin ... ga-UD 
+szunigin ... siki-ud5 
+zi-ga-am3 
+la2-ia3 n masz2 
+la2-ia3-am3 
+diri <count><interpretation modern_unit="" modern_value="none" system="unknown" unit="" value="none"/>2(ban2) ...</count> n gin2 <com dist="1">i3-nun</com> 
+<count><interpretation modern_unit="g" modern_value="152750.0" system="weight" unit="gin2" value="18330.0"/>5(asz) gu2 5(disz) 1/2(disz) ma-na</count> siki-ud5 
+diri-ga-am3 
+{d}szara2-kam na-gada 
+<count><interpretation modern_unit="l" modern_value="17.333333333333332" system="dry capacity" unit="sila3" value="17.333333333333332"/>1(ban2) 7(disz) 1/3(disz) sila3</count> <com dist="1">i3-nun</com> 
+<count><interpretation modern_unit="l" modern_value="26" system="dry capacity" unit="sila3" value="26"/>2(ban2) 6(disz) sila3</count> ga-UD 
+<count><interpretation modern_unit="g" modern_value="14000.000000000002" system="weight" unit="gin2" value="1680"/>2(u) 8(disz) ma-na</count> siki-ud5 
+mu en kar-zi-da ba-hun 
+<count><interpretation modern_unit="l" modern_value="38" system="dry capacity" unit="sila3" value="38"/>3(ban2) 8(disz) sila3</count> <com dist="1">i3-nun</com> 
+<count><interpretation modern_unit="l" modern_value="57" system="dry capacity" unit="sila3" value="57"/>5(ban2) 7(disz) sila3</count> ga-UD 
+<count><interpretation modern_unit="g" modern_value="24500.0" system="weight" unit="gin2" value="2940"/>5(u) la2 1(disz) ma-na</count> siki-ud5 
+<count><interpretation modern_unit="" modern_value="4" system="cardinal" unit="" value="4"/>4(disz)</count> <com dist="1">masz2</com> 
+mu {d}szu-{d}suen lugal 
+x x x x x x 
+szunigin n masz2 
+szunigin ... i3-nun 
+szunigin ... ga-UD 
+szunigin ... siki-ud5 
+sza3-bi-ta 
+n ga-szex(SIG7)-a gur 
+i3-nun-bi ... 
+ga-UD-bi ... 
+sa2-du11 {d}amar-{d}suen 
+mu en kar-zi-da ba-hun 
+<count><interpretation modern_unit="" modern_value="0.0018518518518518517" system="cardinal" unit="" value="0.0018518518518518517"/>2(u) sze</count> <com dist="1">ku3</com> i3-nun-bi <count><interpretation modern_unit="l" modern_value="1.1111111111111112" system="liquid capacity" unit="sila3" value="1.1111111111111112"/><interpretation modern_unit="l" modern_value="1.1111111111111112" system="dry capacity" unit="sila3" value="1.1111111111111112"/>1(disz) sila3 6(disz) 2/3(disz) gin2</count> 
+<count><interpretation modern_unit="" modern_value="0.07777777777777778" system="cardinal" unit="" value="0.07777777777777778"/>4(disz) 2/3(disz) gin2</count> <com dist="1">ku3</com> 
+masz2-bi <count><interpretation modern_unit="" modern_value="14" system="cardinal" unit="" value="14"/>1(u) 4(disz)</count> 
+<count><interpretation modern_unit="l" modern_value="14.5" system="dry capacity" unit="sila3" value="14.5"/>1(ban2) 4(disz) 1/2(disz) sila3</count> <com dist="1">i3-nun</com> 
+<count><interpretation modern_unit="g" modern_value="28000.000000000004" system="weight" unit="gin2" value="3360"/>5(u) 6(disz) ma-na</count> siki-ud5 
+kiszib3 kas4 
+<count><interpretation modern_unit="l" modern_value="390" system="dry capacity" unit="sila3" value="390"/>1(asz) 1(barig) 3(ban2)</count> ga-szex(SIG7)-a gur 
+<com dist="1">i3-nun-bi</com> <count><interpretation modern_unit="l" modern_value="19.5" system="dry capacity" unit="sila3" value="19.5"/>2(ban2) la2 1/2(disz) sila3</count> 
+ga-UD-bi <count><interpretation modern_unit="l" modern_value="29.25" system="dry capacity" unit="sila3" value="29.25"/>2(ban2) 9(disz) sila3 1(u) 5(disz) gin2</count> 
+sa2-du11 {d}amar-{d}suen 
+mu {d}szu-{d}suen lugal 
+<count><interpretation modern_unit="g" modern_value="5000.0" system="weight" unit="gin2" value="600"/>1(u) ma-na</count> siki-ud5 
+kiszib3 lu2-{d}nagar-pa-e3 
+... 
+sa2-du11 {d}amar-{d}suen 
+mu bad3 mar-tu 
+<count><interpretation modern_unit="l" modern_value="12" system="dry capacity" unit="sila3" value="12"/>1(ban2) 2(disz) sila3</count> <com dist="1">i3-nun</com> 
+kiszib3 kas4 
+<count><interpretation modern_unit="g" modern_value="24250.0" system="weight" unit="gin2" value="2910.0"/>4(u) 8(disz) 1/2(disz) ma-na</count> siki-ud5 
+kiszib3 lu2-kal-la 
+<count><interpretation modern_unit="l" modern_value="360" system="dry capacity" unit="sila3" value="360"/>1(asz) 1(barig)</count> ga-szex(SIG7)-a gur 
+<com dist="1">i3-nun-bi</com> <count><interpretation modern_unit="l" modern_value="18" system="dry capacity" unit="sila3" value="18"/>1(ban2) 8(disz) sila3</count> 
+ga-UD-bi <count><interpretation modern_unit="l" modern_value="27" system="dry capacity" unit="sila3" value="27"/>2(ban2) 7(disz) sila3</count> 
+sa2-du11 {d}amar-{d}suen 
+mu us2-sa bad3 mar-tu 
+szunigin <count><interpretation modern_unit="" modern_value="14" system="cardinal" unit="" value="14"/>1(u) 4(disz)</count> <com dist="1">masz2</com> 
+szunigin <count><interpretation modern_unit="l" modern_value="187.02777777777777" system="dry capacity" unit="sila3" value="187.02777777777777"/>3(barig) 7(disz) sila3 1(disz) 2/3(disz) gin2</count> <com dist="1">i3-nun</com> 
+szunigin <count><interpretation modern_unit="l" modern_value="166.5" system="dry capacity" unit="sila3" value="166.5"/>2(barig) 4(ban2) 6(disz) 1/2(disz) sila3</count> ga-UD 
+szunigin <count><interpretation modern_unit="g" modern_value="170000.0" system="weight" unit="gin2" value="20400"/>5(asz) gu2 4(u) ma-na</count> siki-ud5 
+zi-ga-am3 
+la2-ia3 <count><interpretation modern_unit="" modern_value="51" system="cardinal" unit="" value="51"/>5(u) 1(disz)</count> <com dist="1">masz2</com> 
+<count><interpretation modern_unit="l" modern_value="6.394444444444445" system="liquid capacity" unit="sila3" value="6.394444444444445"/><interpretation modern_unit="l" modern_value="6.394444444444445" system="dry capacity" unit="sila3" value="6.394444444444445"/>6(disz) 1/3(disz) sila3 3(disz) 2/3(disz) gin2</count> i3-nun 
+<count><interpretation modern_unit="l" modern_value="105.5" system="dry capacity" unit="sila3" value="105.5"/>1(barig) 4(ban2) 5(disz) 1/2(disz) sila3</count> ga-UD 
+la2-ia3-am3 
+diri n <count><interpretation modern_unit="" modern_value="none" system="unknown" unit="" value="none"/>5(u) 3(disz) 2/3(disz) ma-na ...</count> siki-ud5 
+diri-ga-am3 
+... na-gada 
+nig2-ka9-ak <com dist="1">i3</com> siki 
+sipa-de3-ne 
+kas4 
+mu <count><interpretation modern_unit="" modern_value="6" system="cardinal" unit="" value="6"/>6(disz)-kam</count> 
+mu en {d}nanna kar-zi-da ba-hun-ta 
+mu us2-sa {d}szu-{d}suen lugal uri5{ki}-ma-ke4 bad3 mar-tu mu-ri-iq-ti-id-ni-im mu-du3-sze3 
+</commodities>

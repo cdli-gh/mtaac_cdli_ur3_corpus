@@ -1,0 +1,28 @@
+<commodities>
+#P459085 = Akkadica 134/1 §2.6
+#atf: lang sux
+#tr.en: n jugs of good quality wort, each 2 ban2,
+#tr.en: n jugs of ordinary wort, each 3 ban2,
+#tr.en: 2 ban2 good quality pea-flour,
+#tr.en: 2 barig semolina, 1 barig dates,
+#tr.en: 2 rams, 1 billy,
+#tr.en: 1 sila3 good sesame oil,
+#tr.en: 5 sila3 sesame oil,
+#tr.en: 3 gurdub (baskets),
+#tr.en: Nuḫi-ilum of Elam,
+#tr.en: received;
+#tr.en: month: “Dumuzi,”
+#tr.en: year after: “Šu-Suen, the king, the Amorite wall erected.”
+n dug dida saga <count><interpretation modern_unit="l" modern_value="20" system="dry capacity" unit="sila3" value="20"/>2(ban2)</count> 
+n dug <com dist="1">dida</com> du <count><interpretation modern_unit="l" modern_value="30" system="dry capacity" unit="sila3" value="30"/>3(ban2)</count> 
+<count><interpretation modern_unit="l" modern_value="20" system="dry capacity" unit="sila3" value="20"/>2(ban2)</count> <com dist="1">zi3-gu</com> saga 
+<count><interpretation modern_unit="l" modern_value="120" system="dry capacity" unit="sila3" value="120"/>2(barig)</count> <com dist="1">dabin</com> <count><interpretation modern_unit="l" modern_value="60" system="dry capacity" unit="sila3" value="60"/>1(barig)</count> zu2-lum 
+<count><interpretation modern_unit="" modern_value="2" system="cardinal" unit="" value="2"/>2(disz)</count> udu <count><interpretation modern_unit="" modern_value="1" system="cardinal" unit="" value="1"/>1(disz)</count> masz2 
+<count><interpretation modern_unit="l" modern_value="1" system="liquid capacity" unit="sila3" value="1"/><interpretation modern_unit="l" modern_value="1" system="dry capacity" unit="sila3" value="1"/>1(disz) sila3</count> i3-gesz du10-ga 
+<count><interpretation modern_unit="l" modern_value="5" system="liquid capacity" unit="sila3" value="5"/><interpretation modern_unit="l" modern_value="5" system="dry capacity" unit="sila3" value="5"/>5(disz) sila3</count> <com dist="1">i3-gesz</com> 
+<count><interpretation modern_unit="" modern_value="3" system="cardinal" unit="" value="3"/>3(disz)</count> {gi}gur-dub 
+nu-hi-lum elam 
+<com dist="1">szu</com> ba-ti 
+iti {d}dumu-zi 
+mu us2-sa {d}szu-{d}suen lugal-e bad3 mar-tu mu-du3 
+</commodities>

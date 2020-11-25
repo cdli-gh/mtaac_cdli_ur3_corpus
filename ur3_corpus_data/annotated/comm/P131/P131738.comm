@@ -1,0 +1,99 @@
+<commodities>
+#P131738 = TCL 05, 5667
+#atf: lang sux
+#tr.en: 77 oxen, grain-fed, 60 oxen, 2 years (old), grain-fed,
+#tr.en: 120 oxen, 2 years (old), grass-fed, 21 heifers, 2 years (old), grain-fed,
+#tr.en: 36 oxen, grass-fed, 6 heifers, 2 years (old), grass-fed,
+#tr.en: 240 ox calves, suckling,
+#tr.en: “booked-outs” of the bala;
+#tr.en: 12 oxen, regular offering of Šara;
+#tr.en: 6 oxen, royal sacrifice;
+#tr.en: 2 oxen, for Šulgi, in the Newhouse delivered;
+#tr.en: 1 ox, grain-fed, 1 ox, grass-fed, slaughtered,
+#tr.en: cultic meal of Šulgi;
+#tr.en: 1 ox, cultic meal of Šulgi of Ki’an;
+#tr.en: 4 oxen, grain-fed, royal “mašdare’a”, 2nd time;
+#tr.en: 5 “šu” oxen,
+#tr.en: royal “beer-poured” (ceremony);
+#tr.en: 6 oxen, slaughtered,
+#tr.en: under seal of the governor;
+#tr.en: 4 oxen, slaughtered,
+#tr.en: under seal of Dadaga;
+#tr.en: year: “Urbilum was destroyed;”
+#tr.en: 90 less 1 oxen, grain-fed,
+#tr.en: 27 heifers, 2 years (old), grain-fed,
+#tr.en: 7 oxen, 2 years (old), grain-fed,
+#  26 oxen, grass-fed,
+#tr.en: 2 heifers, 2 years (old), grass-fed,
+#tr.en: 2 oxen, 2 years (old), grass-fed,
+#tr.en: 4 oxewn calves, suckling,
+#tr.en: “booked-outs” of the bala;
+#tr.en: 1 ox, regular offering of Šara,
+#tr.en: 1 ox, royal sacrifice,
+#tr.en: festival “Harvest";
+#tr.en: 4 oxen, regular offering of Šara,
+#tr.en: 2 oxen, royal sacrifice,
+#tr.en: festival “First-fruits";
+#tr.en: 2 oxen, grain-fed, royal “mašdare’a”,
+#tr.en: festival “Harvest";
+#tr.en: set from outside;
+#tr.en: 5 oxen, under seal of Abbagina;
+#tr.en: 1 ox, cultic meal of Šulgi of Ki’an, year: “The high-priest of Inanna by extispicy was chosen,”
+#tr.en: via Lu-Suen;
+#tr.en: year after: “Urbilum was destroyed;”
+#tr.en: “booked outs” and “therefroms” of Nigarkidu, herdsman of oxen, grain-fed;
+#tr.en: (a period) of 16 months;
+# some text moved to next line
+#tr.en: from month “Harvest,”
+# some text moved to next line
+#tr.en: year: “Urbilum was destroyed,”
+#tr.en: to month “First-fruits,”
+# some text moved to next line
+#tr.en: year after: “Urbilum was destroyed.”
+<count><interpretation modern_unit="" modern_value="77" system="cardinal" unit="" value="77"/>1(gesz2) 1(u) 7(disz)</count> <com dist="1">gu4</com> niga <count><interpretation modern_unit="" modern_value="60" system="cardinal" unit="" value="60"/>1(gesz2)</count> gu4 mu <count><interpretation modern_unit="" modern_value="2" system="cardinal" unit="" value="2"/>2(asz)</count> niga 
+<count><interpretation modern_unit="" modern_value="120" system="cardinal" unit="" value="120"/>2(gesz2)</count> <com dist="1">gu4</com> mu <count><interpretation modern_unit="" modern_value="2" system="cardinal" unit="" value="2"/>2(asz)</count> u2 <count><interpretation modern_unit="" modern_value="21" system="cardinal" unit="" value="21"/>2(u) 1(disz)</count> ab2 mu <count><interpretation modern_unit="" modern_value="2" system="cardinal" unit="" value="2"/>2(asz)</count> niga 
+<count><interpretation modern_unit="" modern_value="36" system="cardinal" unit="" value="36"/>3(u) 6(disz)</count> <com dist="1">gu4</com> u2 <count><interpretation modern_unit="" modern_value="6" system="cardinal" unit="" value="6"/>6(disz)</count> ab2 mu <count><interpretation modern_unit="" modern_value="2" system="cardinal" unit="" value="2"/>2(asz)</count> u2 
+<count><interpretation modern_unit="" modern_value="240" system="cardinal" unit="" value="240"/>4(gesz2)</count> gu4 amar ga 
+zi-ga bala-a 
+<count><interpretation modern_unit="" modern_value="12" system="cardinal" unit="" value="12"/>1(u) 2(disz)</count> <com dist="1">gu4</com> sa2-du11 {d}szara2 
+<count><interpretation modern_unit="" modern_value="6" system="cardinal" unit="" value="6"/>6(disz)</count> <com dist="1">gu4</com> nig2-{gesz}tag-ga lugal 
+<count><interpretation modern_unit="" modern_value="2" system="cardinal" unit="" value="2"/>2(disz)</count> <com dist="1">gu4</com> {d}szul-gi e2-gibil-na kux(KWU147)-ra 
+<count><interpretation modern_unit="" modern_value="1" system="cardinal" unit="" value="1"/>1(disz)</count> <com dist="1">gu4</com> niga <count><interpretation modern_unit="" modern_value="1" system="cardinal" unit="" value="1"/>1(disz)</count> gu4 u2 ba-usz2 
+geszbun2 {d}szul-gi-ra 
+<count><interpretation modern_unit="" modern_value="1" system="cardinal" unit="" value="1"/>1(disz)</count> <com dist="1">gu4</com> geszbun2 {d}szul-gi |KI.AN|{ki} 
+<count><interpretation modern_unit="" modern_value="4" system="cardinal" unit="" value="4"/>4(disz)</count> <com dist="1">gu4</com> niga masz2-da-re6-a lugal a-ra2 <count><interpretation modern_unit="" modern_value="2" system="cardinal" unit="" value="2"/>2(disz)-kam</count> 
+<count><interpretation modern_unit="" modern_value="5" system="cardinal" unit="" value="5"/>5(disz)</count> <com dist="1">szu</com> gu4 
+kasz-de2-a lugal 
+<count><interpretation modern_unit="" modern_value="6" system="cardinal" unit="" value="6"/>6(disz)</count> <com dist="1">gu4</com> ba-usz2 
+kiszib3 ensi2-ka 
+<count><interpretation modern_unit="" modern_value="4" system="cardinal" unit="" value="4"/>4(disz)</count> <com dist="1">gu4</com> ba-usz2 
+kiszib3 da-da-ga 
+mu ur-bi2-lum{ki} ba-hul 
+<count><interpretation modern_unit="" modern_value="89" system="cardinal" unit="" value="89"/>1(gesz2) 3(u) la2 1(disz)</count> <com dist="1">gu4</com> niga 
+<count><interpretation modern_unit="" modern_value="27" system="cardinal" unit="" value="27"/>2(u) 7(disz)</count> <com dist="1">ab2</com> mu <count><interpretation modern_unit="" modern_value="2" system="cardinal" unit="" value="2"/>2(asz)</count> niga 
+<count><interpretation modern_unit="" modern_value="7" system="cardinal" unit="" value="7"/>7(disz)</count> <com dist="1">gu4</com> mu <count><interpretation modern_unit="" modern_value="2" system="cardinal" unit="" value="2"/>2(asz)</count> niga 
+<count><interpretation modern_unit="" modern_value="26" system="cardinal" unit="" value="26"/>2(u) 6(disz)</count> <com dist="1">gu4</com> u2 
+<count><interpretation modern_unit="" modern_value="2" system="cardinal" unit="" value="2"/>2(disz)</count> ab2 mu <count><interpretation modern_unit="" modern_value="2" system="cardinal" unit="" value="2"/>2(asz)</count> u2 
+<count><interpretation modern_unit="" modern_value="2" system="cardinal" unit="" value="2"/>2(disz)</count> gu4 mu <count><interpretation modern_unit="" modern_value="2" system="cardinal" unit="" value="2"/>2(asz)</count> u2 
+<count><interpretation modern_unit="" modern_value="4" system="cardinal" unit="" value="4"/>4(disz)</count> gu4 amar ga 
+zi-ga bala-a 
+<count><interpretation modern_unit="" modern_value="1" system="cardinal" unit="" value="1"/>1(disz)</count> <com dist="1">gu4</com> sa2-du11 {d}szara2 
+<count><interpretation modern_unit="" modern_value="1" system="cardinal" unit="" value="1"/>1(disz)</count> <com dist="1">gu4</com> nig2-{gesz}tag-ga lugal 
+ezem sze-sag11-ku5 
+<count><interpretation modern_unit="" modern_value="4" system="cardinal" unit="" value="4"/>4(disz)</count> <com dist="1">gu4</com> sa2-du11 {d}szara2 
+<count><interpretation modern_unit="" modern_value="2" system="cardinal" unit="" value="2"/>2(disz)</count> <com dist="1">gu4</com> nig2 gesz-tag-ga lugal 
+ezem nesag 
+<count><interpretation modern_unit="" modern_value="2" system="cardinal" unit="" value="2"/>2(disz)</count> <com dist="1">gu4</com> niga masz2-da-re6-a lugal 
+ezem sze-sag11-ku5 
+bar-ta gal2-la 
+<count><interpretation modern_unit="" modern_value="5" system="cardinal" unit="" value="5"/>5(disz)</count> gu4 kiszib3 ab-ba-gi-na 
+<count><interpretation modern_unit="" modern_value="1" system="cardinal" unit="" value="1"/>1(disz)</count> <com dist="1">gu4</com> geszbun2 {d}szul-gi |KI.AN|{ki} mu en {d}nanna masz2-e i3-pa3 
+giri3 lu2-{d}suen 
+mu us2-sa ur-bi2-lum{ki} ba-hul 
+zi-ga sza3-bi-ta nigar{gar}-ki-du10 sipa gu4 niga 
+iti <count><interpretation modern_unit="" modern_value="10" system="cardinal" unit="" value="10"/>1(u)</count> <count><interpretation modern_unit="" modern_value="6" system="cardinal" unit="" value="6"/>6(disz)-kam</count> 
+iti sze-sag11-ku5 
+mu ur-bi2-lum{ki} ba-hul-ta 
+iti nesag 
+mu us2-sa ur-bi2-lum{ki} ba-hul-sze3 
+</commodities>

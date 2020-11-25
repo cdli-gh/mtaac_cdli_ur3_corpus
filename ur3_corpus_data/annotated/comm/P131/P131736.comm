@@ -1,0 +1,67 @@
+<commodities>
+#P131736 = TCL 05, 5665
+#atf: lang sux
+#tr.en: 141 1/3 female laborers
+#tr.en: for 13 months,
+#tr.en: labor involved: 55,120 workdays,
+# calculation: 141 1/3 × (13 × 30) = 55,120
+#tr.en: from month “Harvest” (1st month, Umma calendar)
+#tr.en: to month “Extra”;
+#tr.en: 237 gur, 4 ban2, 1 sila3 dabin flour,
+#tr.en: labor involved: 8300, its 1/6th included,
+# calculation: 71,141 ÷ 10 (sila3 per day) = 7114.1; 7114.1 × 7/6 = 8299.783
+#tr.en: from ARAD;
+#tr.en: 60 gur of barley,
+#tr.en: labor involved: 5250 workdays;
+# calculation: 18,000 ÷ 4 (sila3 per day) = 4500; 4500 × 7/6 = 5250
+#tr.en: from the grain account of Lugal-ezem;
+#tr.en: 20 female laborers for 4 months 18 days,
+#tr.en: labor involved: 2760 workdays;
+# calculation: 20 × 138 days = 2760
+#tr.en: female laborers to bala-service gone;
+#tr.en: 3344 female laborer days,
+#tr.en: labor of flour milling,
+#tr.en: its 6th: 557 1/3
+# calculation: 3344 ÷ 6 = 557 1/3
+#tr.en: 363 female laborer days,
+#tr.en: labor booked out, various,
+#tr.en: from Lugal-niglagare, foreman of weavers;
+#tr.en: 206 regular guzza-garments,
+#tr.en: labor involved: 18,540 workdays.
+# calculation: 18,540 ÷ 90 (days per garment) = 206
+#tr.en: 494 gur, 3 barig, 3 ban2 dabin flour,
+#tr.en: labor involved: 17314 1/2 workdays,
+# calculation: 148,410 ÷ 10 (sila3 per day) = 14841; 14841 × 7/6 = 17314.5
+#tr.en: its 1/6th included;
+#tr.en: burden set (?) in Umma
+#tr.en: and in Apisal;
+#tr.en: year: “Nanna of Karzida was for the second time brought into Eanna” (Šulgi 36).
+<count><interpretation modern_unit="" modern_value="141.33333333333334" system="cardinal" unit="" value="141.33333333333334"/>2(gesz2) 2(u) 1(disz) 1/3(disz)</count> geme2 
+iti <count><interpretation modern_unit="" modern_value="13" system="cardinal" unit="" value="13"/>1(u) 3(disz)-sze3</count> 
+<com dist="1">a2-bi</com> u4 <count><interpretation modern_unit="" modern_value="55120" system="cardinal" unit="" value="55120"/>1(szar'u) 5(szar2) 1(geszu) 8(gesz2) 4(u)</count> 
+iti sze-sag11-ku5-ta 
+iti diri-sze3 
+<count><interpretation modern_unit="l" modern_value="71141" system="dry capacity" unit="sila3" value="71141"/>3(gesz2) 5(u) 7(asz) 4(ban2) 1(disz) sila3</count> <com dist="1">dabin</com> gur 
+a2-bi u4 <count><interpretation modern_unit="" modern_value="8300" system="cardinal" unit="" value="8300"/>2(szar2) 1(geszu) 8(gesz2) 2(u)</count> igi <count><interpretation modern_unit="" modern_value="6" system="cardinal" unit="" value="6"/>6(disz)-gal2-bi</count> i3-ib2-gar 
+<com dist="1">ki</com> ARAD2-ta 
+<count><interpretation modern_unit="l" modern_value="0.005555555555555555" system="dry capacity" unit="sila3" value="0.005555555555555555"/>1(gesz2) sze gur</count> 
+<com dist="1">a2-bi</com> u4 <count><interpretation modern_unit="" modern_value="5250" system="cardinal" unit="" value="5250"/>1(szar2) 2(geszu) 7(gesz2) 3(u)</count> 
+nig2-ka9 <com dist="1">sze</com> lugal-ezem-ta 
+<count><interpretation modern_unit="" modern_value="20" system="cardinal" unit="" value="20"/>2(u)</count> geme2 iti <count><interpretation modern_unit="" modern_value="4" system="cardinal" unit="" value="4"/>4(disz)</count> u4 <count><interpretation modern_unit="" modern_value="18" system="cardinal" unit="" value="18"/>1(u) 8(disz)-sze3</count> 
+<com dist="1">a2-bi</com> u4 <count><interpretation modern_unit="" modern_value="2760" system="cardinal" unit="" value="2760"/>4(geszu) 6(gesz2)</count> 
+geme2 bala-sze3 gen-na 
+<count><interpretation modern_unit="" modern_value="3344" system="cardinal" unit="" value="3344"/>5(geszu) 5(gesz2) 4(u) 4(disz)</count> geme2 u4 <count><interpretation modern_unit="" modern_value="1" system="cardinal" unit="" value="1"/>1(disz)-sze3</count> 
+a2 <com dist="1">zi3</com> ar3-a 
+igi <count><interpretation modern_unit="" modern_value="563.3333333333334" system="cardinal" unit="" value="563.3333333333334"/>6(disz)-gal2 9(gesz2) 1(u) 7(disz) 1/3(disz)</count> 
+<count><interpretation modern_unit="" modern_value="363" system="cardinal" unit="" value="363"/>6(gesz2) 3(disz)</count> geme2 u4 <count><interpretation modern_unit="" modern_value="1" system="cardinal" unit="" value="1"/>1(disz)-sze3</count> 
+a2 zi-ga didli 
+<com dist="1">ki</com> lugal-nig2-lagar-e ugula usz-bar-ta 
+<count><interpretation modern_unit="" modern_value="206" system="cardinal" unit="" value="206"/>3(gesz2) 2(u) 6(disz)</count> tug2 guz-za du 
+a2-bi u4 <count><interpretation modern_unit="" modern_value="18540" system="cardinal" unit="" value="18540"/>5(szar2) 9(gesz2)</count> 
+<count><interpretation modern_unit="l" modern_value="148410" system="dry capacity" unit="sila3" value="148410"/>8(gesz2) 1(u) 4(asz) 3(barig) 3(ban2)</count> <com dist="1">dabin</com> gur 
+a2-bi u4 <count><interpretation modern_unit="" modern_value="17314.5" system="cardinal" unit="" value="17314.5"/>4(szar2) 4(geszu) 8(gesz2) 3(u) 4(disz) 1/2(disz)</count> 
+igi <count><interpretation modern_unit="" modern_value="6" system="cardinal" unit="" value="6"/>6(disz)-gal2-bi</count> i3-ib2-gar 
+gu2 ga2-ra sza3 umma{ki} 
+<com dist="1">u3</com> sza3 a-pi4-sal4{ki} 
+mu {d}nanna kar-zi-da a-ra2 <count><interpretation modern_unit="" modern_value="2" system="cardinal" unit="" value="2"/>2(disz)-kam</count> e2-an-na ba-an-kux(KWU147) 
+</commodities>

@@ -1,0 +1,28 @@
+<commodities>
+#P313095 = NN 02
+#atf: lang sux
+#tr.en: 11 rams, barley-fed,
+#tr.en: 2 fat-tailed rams, barley-fed,
+#tr.en: 2 ewes, barley-fed,
+#tr.en: 1 fat-tailed ewe, barley-fed,
+#tr.en: 13 full-grown billy goats, barley-fed,
+#tr.en: regular offerings to Ninlil;
+#tr.en: 29th day (of the month);
+#tr.en: at Tummal(?),
+#tr.en: from ...;
+#tr.en: month: “...,”
+#tr.en: year: “...;”
+#tr.en: (total:) 30 less 1.
+<count><interpretation modern_unit="" modern_value="11" system="cardinal" unit="" value="11"/>1(u) 1(disz)</count> <com dist="1">udu</com> niga 
+<count><interpretation modern_unit="" modern_value="2" system="cardinal" unit="" value="2"/>2(disz)</count> <com dist="1">gukkal</com> niga 
+<count><interpretation modern_unit="" modern_value="2" system="cardinal" unit="" value="2"/>2(disz)</count> <com dist="1">u8</com> niga 
+<count><interpretation modern_unit="" modern_value="1" system="cardinal" unit="" value="1"/>1(disz)</count> <com dist="1">u8</com> gukkal niga 
+<count><interpretation modern_unit="" modern_value="13" system="cardinal" unit="" value="13"/>1(u) 3(disz)</count> <com dist="1">masz2-gal</com> niga 
+sa2-du11 {d}nin-lil2-la2 
+u4 <count><interpretation modern_unit="" modern_value="30" system="cardinal" unit="" value="30"/>3(u) la2</count> <count><interpretation modern_unit="" modern_value="1" system="cardinal" unit="" value="1"/>1(disz)-kam</count> 
+sza3 tum-ma-al 
+ki ...-ta 
+iti ...-x 
+mu ... 
+<count><interpretation modern_unit="" modern_value="29" system="cardinal" unit="" value="29"/>3(u) la2 1(disz)</count> 
+</commodities>

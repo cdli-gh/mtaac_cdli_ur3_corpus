@@ -1,0 +1,45 @@
+<commodities>
+#P107220 = BM 020054
+#atf: lang sux
+#tr.en: (Pise wall:) 199 ninda the length, 1 1/2 cubits the average width, 4 cubits the depth;
+#tr.en: per (running) ninda 1/2 (volume) sar,
+# calculation: 1 × 1.5/12 × 4 = 0.5
+#tr.en: work involved: 99 1/2 (volume) sar;
+# calculation: 199 ÷ 2 = 99 1/2
+#tr.en: per worker (day): 3 3/4 (volume) shekels;
+#tr.en: the labor: 1592 workdays;
+# calculation: 99.5 ÷ 3.75/60 = 1592
+#tr.en: disbursement per workerday: 6 sila3 (barley);
+#tr.en: the barley: 31 gur 4 barig 1 ban2 2 sila3;
+# calculation: 1592 × 6 ÷ 300 = 31;4,1,2
+#tr.en: they are hired men;
+#tr.en: (Pise wall:) 1 1/2 ninda the length, 1 1/2 cubits the width, 4 cubits the depth;
+#tr.en: work involved: 2/3 (volume) sar 5 (volume) shekels;
+# calculation: 1.5 × 1.5/12 × 4 = .75
+#tr.en: they are gantuš;
+#tr.en: pisé wall construction, drawn long,
+#tr.en: in the orchard of Baba-inim-sisa;
+#tr.en: of Garšum;
+#tr.en: responsible: Ur-Baba, son of the household manager,
+#tr.en: Lugal-musuda,
+#tr.en: and Lugal-baba son of Ur-Lamma;
+#tr.en: the year: “Ibbi-Suen is king.”
+<count><interpretation modern_unit="m" modern_value="1194" system="length" unit="gi" value="398"/>3(gesz2) 1(u) 9(disz) ninda</count> <com dist="1">gid2</com> <count><interpretation modern_unit="m" modern_value="0.75" system="length" unit="gi" value="0.25"/>1(disz) 1/2(disz) kusz3</count> dagal i3-hi <count><interpretation modern_unit="m" modern_value="2.0" system="length" unit="gi" value="0.6666666666666666"/>4(disz) kusz3</count> sukud 
+<count><interpretation modern_unit="" modern_value="1" system="cardinal" unit="" value="1"/>1(disz)</count> ninda-na <count><interpretation modern_unit="" modern_value="0.5" system="cardinal" unit="" value="0.5"/>1/2(disz)</count> sar-ta 
+kin-bi <count><interpretation modern_unit="bricks" modern_value="859680.0" system="bricks" unit="gin2" value="71640.0"/><interpretation modern_unit="m^2" modern_value="3582.0" system="surface" unit="gin2" value="5970.0"/><interpretation modern_unit="l" modern_value="1791000.0" system="volume" unit="gin2" value="5970.0"/>1(gesz2) 3(u) 9(disz) 1/2(disz) sar</count> 
+<com dist="1">gurusz</com> <count><interpretation modern_unit="" modern_value="7.061111111111111" system="cardinal" unit="" value="7.061111111111111"/>1(disz)-e 3(disz) 2/3(disz) gin2 1(disz) 5(disz)</count> sze-ta 
+a2-bi <count><interpretation modern_unit="" modern_value="1592" system="cardinal" unit="" value="1592"/>2(geszu) 6(gesz2) 3(u) 2(disz)</count> gurusz u4 <count><interpretation modern_unit="" modern_value="1" system="cardinal" unit="" value="1"/>1(disz)-sze3</count> 
+<com dist="1">gurusz</com> <count><interpretation modern_unit="" modern_value="1" system="cardinal" unit="" value="1"/>1(disz)-e</count> a2-ni <count><interpretation modern_unit="" modern_value="6" system="cardinal" unit="" value="6"/>6(disz)</count> sila3-ta 
+<com dist="1">sze-bi</com> <count><interpretation modern_unit="l" modern_value="9552" system="dry capacity" unit="sila3" value="9552"/>3(u) 1(asz) 4(barig) 1(ban2) 2(disz) sila3 gur</count> 
+lu2 hun-ga2-me 
+<count><interpretation modern_unit="m" modern_value="9.0" system="length" unit="gi" value="3.0"/>1(disz) 1/2(disz) ninda</count> <com dist="1">gid2</com> <count><interpretation modern_unit="m" modern_value="0.75" system="length" unit="gi" value="0.25"/>1(disz) 1/2(disz) kusz3</count> dagal <count><interpretation modern_unit="m" modern_value="2.0" system="length" unit="gi" value="0.6666666666666666"/>4(disz) kusz3</count> sukud 
+kin-bi <count><interpretation modern_unit="bricks" modern_value="6480.0" system="bricks" unit="gin2" value="540.0"/><interpretation modern_unit="m^2" modern_value="27.0" system="surface" unit="gin2" value="45.0"/><interpretation modern_unit="l" modern_value="13500.0" system="volume" unit="gin2" value="45.0"/>2/3(disz) sar 5(disz) gin2</count> 
+gan-tusz-me 
+<com dist="1">im</com> du8-a gid2-da 
+{gesz}kiri6 {d}ba-ba6-inim-si-sa2-a 
+sza3 gar-szum{ki}-ka 
+giri3 ur-{d}ba-ba6 dumu szabra-e2 
+lugal-mu-su-da 
+u3 lugal-{d}ba-ba6 dumu ur-{d}lamma 
+mu {d}i-bi2-{d}suen lugal 
+</commodities>

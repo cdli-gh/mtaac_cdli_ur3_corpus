@@ -1,0 +1,16 @@
+<commodities>
+#P137271 = UET 3, 0946
+#atf: lang sux
+n <count>2(asz) 4(barig) 5(ban2) sze gur</count> lugal 
+n sila3 <com dist="1">ziz2</com> 
+n la2 <count><interpretation modern_unit="l" modern_value="60" system="dry capacity" unit="sila3" value="60"/>1(barig)</count> <com dist="1">SZIM</com> du 
+n <count><interpretation modern_unit="l" modern_value="295" system="dry capacity" unit="sila3" value="295"/>4(barig) 5(ban2) 5(disz) sila3</count> <com dist="1">SZIM</com> zah3-hi-in 
+n <count><interpretation modern_unit="l" modern_value="15" system="dry capacity" unit="sila3" value="15"/>1(ban2) 5(disz) sila3</count> <com dist="1">nig2-ar3-ra</com> du 
+n munu4 si-e3 
+n bappir2 du8 
+n {gesz}pisan du8 
+... sza3 ma-da ambar-mah 
+...-zi-da 
+szu ba-ti 
+mu x x x 
+</commodities>

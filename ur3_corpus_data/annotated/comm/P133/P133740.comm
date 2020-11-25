@@ -1,0 +1,31 @@
+<commodities>
+#P133740 = TÉL 226
+#atf: lang sux
+# calculation: 8 months [vi-xiii] × 2 ban2/month = 14 ban2
+# calculation: 5 months [ix-xiii] × 1 barig/month = 5 barig
+# calculation: 2 months [xii-xiii] × 1 ban2/month = 2 ban2
+# calculation: 10 months [iv-xiii] × 2 ban2/month = 20 ban2
+usz2 <count>2(ban2) sze</count> {d}amar-{d}suen-{d}lamma-mu 
+iti ezem-{d}dumu-zi-ta 
+<com dist="1">sze-bi</com> <count><interpretation modern_unit="" modern_value="none" system="unknown" unit="" value="none"/>2(barig) 4(ban2) ...</count> amar-ku5 
+usz2 <count><interpretation modern_unit="l" modern_value="60" system="dry capacity" unit="sila3" value="60"/>1(barig)</count> ur-{d}... u3-kul 
+iti mu-szu-du7-ta 
+<com dist="1">sze-bi</com> <count><interpretation modern_unit="l" modern_value="300" system="dry capacity" unit="sila3" value="300"/>1(asz) gur</count> e2 {d}ga2-tum3-du10 
+usz2 <count><interpretation modern_unit="l" modern_value="10" system="dry capacity" unit="sila3" value="10"/>1(ban2)</count> lu2-nigar ... SIG7-a 
+iti sze-il2-la-ta 
+<com dist="1">sze-bi</com> <count><interpretation modern_unit="" modern_value="none" system="unknown" unit="" value="none"/>2(ban2) ...</count> 
+... 
+... 
+... 
+ki-es3-sa2{ki} 
+usz2 <count><interpretation modern_unit="l" modern_value="20" system="dry capacity" unit="sila3" value="20"/>2(ban2)</count> {d}amar-{d}suen-zi-kalam-ma 
+iti szu-numun-ta 
+<com dist="1">sze-bi</com> <count><interpretation modern_unit="l" modern_value="200" system="dry capacity" unit="sila3" value="200"/>3(barig) 2(ban2)</count> amar-ku5 
+<count><interpretation modern_unit="l" modern_value="200" system="dry capacity" unit="sila3" value="200"/>3(barig) 2(ban2)</count> 
+sza3 ki-nu-nir{ki} 
+szunigin <count><interpretation modern_unit="l" modern_value="2160" system="dry capacity" unit="sila3" value="2160"/>7(asz) 1(barig) gur</count> 
+<com dist="1">guru7-a</com> tak4-a siki-ba 
+giri3-se3-ga sza3 iri-ka 
+gu2 i7 nigin6{ki}-sze3-du 
+mu si-mu-ru{ki} ba-hul 
+</commodities>

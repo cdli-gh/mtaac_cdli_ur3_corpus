@@ -1,0 +1,13 @@
+<commodities>
+#P109146 = DCS 061
+#atf: lang sux
+<count><interpretation modern_unit="l" modern_value="660" system="dry capacity" unit="sila3" value="660"/>2(asz) 1(barig) gur</count> 
+e2 {d}nansze 
+<count><interpretation modern_unit="l" modern_value="480" system="dry capacity" unit="sila3" value="480"/>1(asz) 3(barig)</count> e2 {d}ga2-tum3-du10 
+<count><interpretation modern_unit="l" modern_value="480" system="dry capacity" unit="sila3" value="480"/>1(asz) 3(barig)</count> e2 ba-gara2 
+<count><interpretation modern_unit="l" modern_value="360" system="dry capacity" unit="sila3" value="360"/>1(asz) 1(barig)</count> e2 {d}nin-sun2 
+... e2 {d}dumu-zi 
+x <count><interpretation modern_unit="l" modern_value="60" system="dry capacity" unit="sila3" value="60"/>1(barig)</count> e2 uru11{ki} 
+szunigin <count><interpretation modern_unit="l" modern_value="4500" system="dry capacity" unit="sila3" value="4500"/>1(u) 5(asz) gur</count> 
+<com dist="1">sze</com> ur5-ra 
+</commodities>

@@ -1,0 +1,21 @@
+<commodities>
+#P432210 = RIME 3/2.01.02.50
+#atf: lang sux
+#tr.en: For Nanna,
+#tr.en: his master,
+#tr.en: did Šulgi,
+#tr.en: the mighty man,
+#tr.en: king of Ur,
+#tr.en: king of the four world quarters,
+#tr.en: (at the weight of) 1/2 mina
+#tr.en: standardize (this).
+# P226974: stone weight
+{d}nanna 
+lugal-a-ni 
+{d}szul-gi 
+nita kal-ga 
+lugal uri5{ki}-ma 
+lugal an ub-da limmu2-ba-ke4 
+<count><interpretation modern_unit="g" modern_value="250.00000000000003" system="weight" unit="gin2" value="30.0"/>1/2(disz) ma-na</count> 
+mu-na-gi-in 
+</commodities>

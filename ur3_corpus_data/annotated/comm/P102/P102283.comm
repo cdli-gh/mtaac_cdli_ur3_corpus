@@ -1,0 +1,24 @@
+<commodities>
+#P102283 = ASJ 09, 235 07
+#atf: lang sux
+#tr.en: 10 gur barley, royal (measure):
+#tr.en: Lugal-Emaḫe,
+#tr.en: 10 gur barley:
+#tr.en: Lugal-si-NE-e,
+#tr.en: 10 gur:
+#tr.en: Ur-gigir,
+#tr.en: barley for lard
+#tr.en: they received;
+#tr.en: month: “Harvest;”
+#tr.en: year: “Simurrum was destroyed.”
+<count><interpretation modern_unit="l" modern_value="0.0009259259259259259" system="dry capacity" unit="sila3" value="0.0009259259259259259"/>1(u) sze gur</count> lugal 
+lugal-e2-mah-e 
+<count><interpretation modern_unit="l" modern_value="0.0009259259259259259" system="dry capacity" unit="sila3" value="0.0009259259259259259"/>1(u) sze gur</count> 
+lugal-si-NE-e 
+<count><interpretation modern_unit="l" modern_value="3000" system="dry capacity" unit="sila3" value="3000"/>1(u) gur</count> 
+<com dist="1">ur-{gesz}gigir</com> 
+sze i3-szah2-ka-sze3 
+szu ba-ti-esz2 
+iti sze-sag-ku5 
+mu si-mu-ru-um{ki} ba-hul 
+</commodities>

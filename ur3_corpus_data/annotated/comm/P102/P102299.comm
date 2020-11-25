@@ -1,0 +1,37 @@
+<commodities>
+#P102299 = ASJ 09, 246 23
+#atf: lang sux
+#tr.en: 8 sar, grass and earth worked, water installation (in the field) Donkey-house;
+#tr.en: 12 2/3 sar, water installation (in the field) Cattle-herder-of-Nin-Arali;
+#tr.en: 4 sar, water installation (in the field) Oxen-boot;
+#tr.en: 19 sar 6 shekels, water installation (in the field) Abuka;
+#tr.en: 16 sar, water installation (in the field) Narām-Sin;
+#tr.en: 7 sar, water installation (in the field) Cattle-herder-of-Mulli;
+# with erased calculations
+#tr.en: 24 sar ...;
+#tr.en: 6 sar water installation ...;
+# seal impression
+#tr.en: total: 96 2/3 sar 6 shekels work, grass and earth worked;
+# calculation: 8 + 12 40/60 + 4 + 19 6/60 + 16 +7 + 24 + 6 = 96 46/60
+#tr.en: work, having left the household;
+#tr.en: under seal of Lu-Šara;
+#tr.en: year: “Ḫuḫnuri was destroyed;”
+#tr.en: Lu-Šara,
+#tr.en: scribe,
+#tr.en: son of Iri-bare.
+<count><interpretation modern_unit="bricks" modern_value="69120" system="bricks" unit="gin2" value="5760"/><interpretation modern_unit="m^2" modern_value="288.0" system="surface" unit="gin2" value="480"/><interpretation modern_unit="l" modern_value="144000" system="volume" unit="gin2" value="480"/>8(disz) sar</count> kin <com dist="1">u2</com> sahar-ba kab2-ku5 e2-ansze-ka 
+<count><interpretation modern_unit="bricks" modern_value="109440.0" system="bricks" unit="gin2" value="9120.0"/><interpretation modern_unit="m^2" modern_value="456.0" system="surface" unit="gin2" value="760.0"/><interpretation modern_unit="l" modern_value="228000.0" system="volume" unit="gin2" value="760.0"/>1(u) 2(disz) 2/3(disz) sar</count> kab2-ku5 u2-du-{d}nin-a-ra-li 
+<count><interpretation modern_unit="bricks" modern_value="34560" system="bricks" unit="gin2" value="2880"/><interpretation modern_unit="m^2" modern_value="144.0" system="surface" unit="gin2" value="240"/><interpretation modern_unit="l" modern_value="72000" system="volume" unit="gin2" value="240"/>4(disz) sar</count> kab2-ku5 gu4-suhub2 
+<count><interpretation modern_unit="bricks" modern_value="165024" system="bricks" unit="gin2" value="13752"/><interpretation modern_unit="m^2" modern_value="687.6" system="surface" unit="gin2" value="1146"/><interpretation modern_unit="l" modern_value="343800" system="volume" unit="gin2" value="1146"/>1(u) 9(disz) sar 6(disz) gin2</count> kab2-ku5 a-bu3-ka 
+<count><interpretation modern_unit="bricks" modern_value="138240" system="bricks" unit="gin2" value="11520"/><interpretation modern_unit="m^2" modern_value="576.0" system="surface" unit="gin2" value="960"/><interpretation modern_unit="l" modern_value="288000" system="volume" unit="gin2" value="960"/>1(u) 6(disz) sar</count> kab2-ku5 na-ra-am-{d}suen 
+<count><interpretation modern_unit="bricks" modern_value="60480" system="bricks" unit="gin2" value="5040"/><interpretation modern_unit="m^2" modern_value="252.0" system="surface" unit="gin2" value="420"/><interpretation modern_unit="l" modern_value="126000" system="volume" unit="gin2" value="420"/>7(disz) sar</count> kab2-ku5 u2-du-mu-ul-li 
+<count><interpretation modern_unit="" modern_value="none" system="unknown" unit="" value="none"/><interpretation modern_unit="" modern_value="none" system="unknown" unit="" value="none"/><interpretation modern_unit="" modern_value="none" system="unknown" unit="" value="none"/>2(u) 4(disz) sar ...</count> u2-... 
+<count><interpretation modern_unit="bricks" modern_value="51840" system="bricks" unit="gin2" value="4320"/><interpretation modern_unit="m^2" modern_value="216.0" system="surface" unit="gin2" value="360"/><interpretation modern_unit="l" modern_value="108000" system="volume" unit="gin2" value="360"/>6(disz) sar</count> kab2-ku5 ... 
+szunigin <count><interpretation modern_unit="bricks" modern_value="836064.0" system="bricks" unit="gin2" value="69672.0"/><interpretation modern_unit="m^2" modern_value="3483.6" system="surface" unit="gin2" value="5806.0"/><interpretation modern_unit="l" modern_value="1741800.0" system="volume" unit="gin2" value="5806.0"/>1(gesz2) 3(u) 6(disz) 2/3(disz) sar 6(disz) gin2</count> kin <com dist="1">u2</com> sahar-ba 
+kin e2-ta e3-a 
+kiszib3 lu2-{d}szara2 
+mu hu-uh2-nu-ri{ki} ba-hul 
+lu2-{d}szara2 
+dub-(sar) 
+dumu iri-bar-e 
+</commodities>

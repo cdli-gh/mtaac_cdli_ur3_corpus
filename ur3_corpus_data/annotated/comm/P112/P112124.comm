@@ -1,0 +1,64 @@
+<commodities>
+#P112124 = JCS 31, 242 16
+#atf: lang sux
+#tr.en: 32 male laborers, duaku,
+#tr.de: 32 duaku-Arbeiter,
+#tr.en: 1/3 shekel 3 grains each,
+#tr.de: zu je 1/3 Sekel 3 Gran;
+#tr.en: 15 male laborers, SIGa category,
+#tr.de: 15 SIGa-Arbeiter,
+#tr.en: 1/6 (shekel) 3 grains each,
+#tr.de: zu je 1/6 (Sekel) 3 Gran;
+#tr.en: its silver: 13 5/6 shekels, 21 grains;
+#tr.de: das dazugehörige Silber(äquivalent): 13 5/6 Sekel 21 Gran;
+# calculation: (32 × 63) + (15 × 33) = 13 171/180
+#tr.en: therefrom:
+#tr.de: davon:
+#tr.en: 10 shekels silver,
+#tr.de: 10 Sekel Silber
+#tr.en: delivery;
+#tr.de: abgeliefert;
+#tr.en: 3 shekels silver, exchange for red copper, of the debit its account not counted (?);
+#tr.de: 3 Sekel Tauschsilber für s-Kupfer, dessen Solleintragung wurde nicht gerechnet(?);
+#tr.en: under seal of Gududu;
+#tr.de: –gesiegelte Tafel des Gududu–
+#tr.en: 1/6 (shekel) 3 grains silver for salt-sumac,
+#tr.de: 1/6 (Sekel) 3 Gran Silber, “Salz-Gewürz”,
+#tr.en: for the courrier house,
+#tr.de: für das Botenhaus;
+# erasure
+#tr.en: booked out;
+#tr.de: abgebucht;
+#tr.en: the deficit: 2/3 shekel 18 grains silver,
+#tr.de: Fehlbetrag: 2/3 Sekel 18 Gran Silber,
+# calculation: 13 171/180 sze - (10 + 3 + 33/180) = 138/180
+#tr.en: its seal not seized;
+#tr.de: die dazugehörige gesiegelte Tafel nicht erfasst;
+#tr.en: account of salt-sumac
+#tr.de: Abrechnung über “Salz-Gewürz”
+#tr.en: in Apisal,
+#tr.de: in Apisal,
+#tr.en: via Lu-Haya;
+#tr.de: zuständig: Lu-Ḫaja;
+#tr.en: year: “Ibbi-Suen (is) king.”
+#tr.de: Jahr: “Ibbi-Sin (ist) König.”
+<count><interpretation modern_unit="" modern_value="32" system="cardinal" unit="" value="32"/>3(u) 2(disz)</count> <com dist="1">gurusz</com> du3-a-ku5 
+<count><interpretation modern_unit="" modern_value="3.0055555555555555" system="cardinal" unit="" value="3.0055555555555555"/>1/3(disz) gin2 3(disz)</count> <com dist="1">sze-ta</com> 
+<count><interpretation modern_unit="" modern_value="15" system="cardinal" unit="" value="15"/>1(u) 5(disz)</count> gurusz SIG7-a 
+<count><interpretation modern_unit="" modern_value="3.1666666666666665" system="cardinal" unit="" value="3.1666666666666665"/>igi-6(disz)-gal2 3(disz)</count> <com dist="1">sze-ta</com> 
+ku3-bi <count><interpretation modern_unit="" modern_value="0.23249999999999998" system="cardinal" unit="" value="0.23249999999999998"/>1(u) 3(disz) 5/6(disz) gin2 2(u) 1(disz) sze</count> 
+sza3-bi-ta 
+<count><interpretation modern_unit="" modern_value="0.16666666666666666" system="cardinal" unit="" value="0.16666666666666666"/>1(u) gin2</count> <com dist="1">ku3-babbar</com> 
+mu-kux(DU) 
+<count><interpretation modern_unit="" modern_value="0.05" system="cardinal" unit="" value="0.05"/>3(disz) gin2</count> <com dist="1">ku3</com> sa10-am3 uruda su4-um ugu2-a nig2-ka9-bi nu-um-SZID 
+kiszib3 gu-du-du 
+<count><interpretation modern_unit="" modern_value="0.16694444444444442" system="cardinal" unit="" value="0.16694444444444442"/>igi-6(disz)-gal2 3(disz) sze</count> <com dist="1">ku3</com> mun-gazi 
+e2-kas4-sze3 
+zi-ga-am3 
+la2-ia3 <count><interpretation modern_unit="" modern_value="0.012777777777777777" system="cardinal" unit="" value="0.012777777777777777"/>2/3(disz) gin2 1(u) 8(disz) sze</count> <com dist="1">ku3-babbar</com> 
+kiszib3-bi nu-ub-dab 
+nig2-ka9-ak mun-gazi 
+sza3 a-pi4-sal4{ki} 
+giri3 lu2-{d}ha-ia3 
+mu {d}i-bi2-{d}suen lugal 
+</commodities>

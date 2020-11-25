@@ -1,0 +1,29 @@
+<commodities>
+#P115654 = MVN 09, 011
+#atf: lang sux
+# calculation: 12 1/3 + 9 + 5 + 4 5/6 + 3 1/2 + 1 1/2 + 2 2/3 = 38 5/6
+# calculation: 30 × 270/300 = 27
+# calculation: 8 5/6 × 270/300 = 7 285/300
+# calculation: (30 + 8 5/6 =) 38 5/6 - 38 5/6 = 0
+<count><interpretation modern_unit="" modern_value="0.5333333333333333" system="cardinal" unit="" value="0.5333333333333333"/>1(u) 2(disz) gin2 igi-3(disz)-gal2</count> <com dist="1">ku3-babbar</com> 
+ki ur-{d}nansze dumu ur-{d}ba-ba6-ta 
+<count><interpretation modern_unit="" modern_value="0.15" system="cardinal" unit="" value="0.15"/>9(disz) gin2</count> ki nam-ha-ni-ta 
+<count><interpretation modern_unit="" modern_value="0.08333333333333333" system="cardinal" unit="" value="0.08333333333333333"/>5(disz) gin2</count> ki lu2-{d}nin-gir2-su dumu <com dist="1">sila4-mu-ta</com> 
+<count><interpretation modern_unit="" modern_value="0.08333333333333333" system="cardinal" unit="" value="0.08333333333333333"/>5(disz) gin2 la2 igi-6(disz)-gal2</count> ki ku-li dumu ki-ag2-mu-ta 
+<count><interpretation modern_unit="" modern_value="0.058333333333333334" system="cardinal" unit="" value="0.058333333333333334"/>3(disz) 1/2(disz) gin2</count> ki sa6-sa6-ga dumu ba-a-ta 
+<count><interpretation modern_unit="" modern_value="0.025" system="cardinal" unit="" value="0.025"/>1(disz) 1/2(disz) gin2</count> ki ur-{d}ba-ba6 dumu ur-dun-ta 
+<count><interpretation modern_unit="" modern_value="0.03333333333333333" system="cardinal" unit="" value="0.03333333333333333"/>2(disz) gin2</count> <count>2/3(|ninda2x(sze.2(asz))|)</count> ki ur-{d}x sza13-dub-ba-ta 
+szunigin <count><interpretation modern_unit="g" modern_value="323.61111111111114" system="weight" unit="gin2" value="38.833333333333336"/>1/2(disz) ma-na 9(disz) gin2 la2 igi-6(disz)-gal2</count> <com dist="1">ku3-babbar</com> 
+sza3-bi-ta 
+<count><interpretation modern_unit="g" modern_value="250.00000000000003" system="weight" unit="gin2" value="30.0"/>1/2(disz) ma-na</count> <com dist="1">ku3-babbar</com> <count><interpretation modern_unit="l" modern_value="270" system="dry capacity" unit="sila3" value="270"/>4(barig) 3(ban2)-ta</count> 
+sze-bi <count><interpretation modern_unit="l" modern_value="8100" system="dry capacity" unit="sila3" value="8100"/>2(u) 7(asz) gur</count> 
+kiszib3 ur-{d}nansze dumu ur-{d}ba-ba6 
+<count><interpretation modern_unit="" modern_value="0.016666666666666663" system="cardinal" unit="" value="0.016666666666666663"/>9(disz) gin2 la2 igi-6(disz)-gal2</count> 
+<com dist="1">sze-bi</com> <count><interpretation modern_unit="l" modern_value="2385" system="dry capacity" unit="sila3" value="2385"/>7(asz) 4(barig) 4(ban2) 5(disz) sila3 gur</count> 
+kiszib3 nam-ha-ni 
+ugu2-a ga2-ga2-dam 
+<com dist="1">ku3</com> a2 zi3 KA nu-ar3-ra 
+giri3 ur-ab-ba dumu ba-zi 
+iti sze-sag11-ku5 
+mu us2-sa ki-masz{ki} ba-hul 
+</commodities>

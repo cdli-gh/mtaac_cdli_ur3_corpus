@@ -1,0 +1,20 @@
+<commodities>
+#P120851 = NATN 153
+#atf: lang sux
+# text moved to next line
+x x x x x 
+szunigin sze-bi <count><interpretation modern_unit="l" modern_value="2120" system="dry capacity" unit="sila3" value="2120"/>7(asz) 2(ban2) gur</count> 
+ki ur-{d}dumu-zi-da-ta 
+<count><interpretation modern_unit="l" modern_value="90" system="dry capacity" unit="sila3" value="90"/>1(barig) 3(ban2)</count> <com dist="1">kasz</com> dida saga 
+<count><interpretation modern_unit="" modern_value="3" system="cardinal" unit="" value="3"/>3(asz)</count> <com dist="1">kasz</com> dida du gur 
+<count><interpretation modern_unit="l" modern_value="150" system="dry capacity" unit="sila3" value="150"/>2(barig) 3(ban2)</count> <com dist="1">nig2-ar3-ra</com> saga 
+<count><interpretation modern_unit="g" modern_value="15000.000000000002" system="weight" unit="gin2" value="1800"/>3(u) ma-na</count> <com dist="1">SZIM</com> saga 
+<count><interpretation modern_unit="g" modern_value="60000.00000000001" system="weight" unit="gin2" value="7200"/>2(asz) gu2</count> <com dist="1">SZIM</com> du 
+<count><interpretation modern_unit="l" modern_value="0.00018518518518518518" system="dry capacity" unit="sila3" value="0.00018518518518518518"/>2(asz) sze gur</count> 
+szunigin <com dist="1">sze-bi</com> <count><interpretation modern_unit="l" modern_value="2410" system="dry capacity" unit="sila3" value="2410"/>8(asz) 1(ban2)</count> 
+ki ur-{d}szu-mah-ta 
+... <com dist="1">nig2-ar3-ra</com> saga 
+... <count><interpretation modern_unit="" modern_value="none" system="unknown" unit="" value="none"/>1(u) ma-na ...</count> 
+... u4 <count><interpretation modern_unit="" modern_value="1" system="cardinal" unit="" value="1"/>1(disz)</count> ba-zal 
+mu si-mu-ru-um{ki} ba-hul 
+</commodities>

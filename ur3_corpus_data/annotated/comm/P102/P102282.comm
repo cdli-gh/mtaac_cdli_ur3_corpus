@@ -1,0 +1,50 @@
+<commodities>
+#P102282 = ASJ 09, 235 06
+#atf: lang sux
+#tr.en: ...
+#tr.en: 1 ban2...
+#tr.en: 1 ban2...
+#tr.en: oxen-manager ...
+#tr.en: 1 ban2 ...
+#tr.en: 1 ban2 ...
+#tr.en: 1 ban2 6 sila3: ...
+#tr.en: the oxen-manager ...-x
+#tr.en: 1 ban2 5 (sila3): the son of Lu-Ninšubur;
+#tr.en: 4 ban2: the son of Ur-Mami;
+#tr.en: 1 ban2 5 (sila3): the son of Ur-nam-anna,
+#tr.en: oxen-manager of Šeškalla, son of Gu-dun;
+#tr.en: 1 ban2: son of Uramma,
+#tr.en: the oxen-manager of Lugal-nesage;
+#tr.en: 2 ban2 5 (sila3): son of Ur-gigir,
+#tr.en: the oxen driver of Šeškalla, son of Dada;
+#tr.en: 2 ban2 5 (sila3): son of Adaga,
+#tr.en: the oxen-manager of Ur-lugal;
+#tr.en: total: 4 barig 5 ban2 1 sila3 old grain,
+#tr.en: barley rations of sons of oxen-drivers
+#tr.en: from the threshing floor of the field Nin-ura;
+#tr.en: month: “Dumuzi,”
+#tr.en: year: “the lands of Zabašali were destroyed.”
+... 
+<count><interpretation modern_unit="" modern_value="none" system="unknown" unit="" value="none"/>1(ban2) ...</count> 
+<count><interpretation modern_unit="" modern_value="none" system="unknown" unit="" value="none"/>1(ban2) ...</count> 
+nu-banda3-gu4 ... 
+<count><interpretation modern_unit="" modern_value="none" system="unknown" unit="" value="none"/>1(ban2) ...</count> 
+<count><interpretation modern_unit="" modern_value="none" system="unknown" unit="" value="none"/>1(ban2) ...</count> 
+<count><interpretation modern_unit="" modern_value="none" system="unknown" unit="" value="none"/>1(ban2) 6(disz) sila3 ...</count> 
+nu-banda3-gu4 ...-x 
+<count><interpretation modern_unit="l" modern_value="15" system="dry capacity" unit="sila3" value="15"/>1(ban2) 5(disz)</count> dumu lu2-{d}nin-szubur 
+<count><interpretation modern_unit="l" modern_value="40" system="dry capacity" unit="sila3" value="40"/>4(ban2)</count> dumu ur-{d}ma-mi 
+<count><interpretation modern_unit="l" modern_value="15" system="dry capacity" unit="sila3" value="15"/>1(ban2) 5(disz)</count> dumu ur-{d}nam2-an-na 
+nu-banda3-gu4 szesz-kal-la dumu gu-dun 
+<count><interpretation modern_unit="l" modern_value="10" system="dry capacity" unit="sila3" value="10"/>1(ban2)</count> dumu ur-am3-ma 
+nu-banda3-gu4 lugal-nesag-e 
+<count><interpretation modern_unit="l" modern_value="25" system="dry capacity" unit="sila3" value="25"/>2(ban2) 5(disz)</count> dumu <com dist="1">ur-{gesz}gigir</com> 
+nu-banda3-gu4 szesz-kal-la dumu da-da 
+<count><interpretation modern_unit="l" modern_value="25" system="dry capacity" unit="sila3" value="25"/>2(ban2) 5(disz)</count> dumu a-da-ga 
+nu-banda3-gu4 ur-lugal 
+szunigin <count><interpretation modern_unit="l" modern_value="245" system="dry capacity" unit="sila3" value="245"/>4(barig) 5(disz) sila3 sze</count> sumun gur 
+<com dist="1">sze-ba</com> dumu sza3-gu4 
+ki-su7 a-sza3 {d}nin-ur4-ra-ta 
+iti {d}dumu-zi 
+mu ma-da za-ab-sza-li{ki} ba-hul 
+</commodities>

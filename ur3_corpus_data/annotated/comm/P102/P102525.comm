@@ -1,0 +1,32 @@
+<commodities>
+#P102525 = ASJ 14, 101 5
+#atf: lang sux
+#tr.en: 10 gur, 1 barig 4 ban barley,
+#tr.en: barley of Hibaritum.
+#tr.en: 25 gur barley,
+#tr.en: barley of the new-SIG,
+#tr.en: filled into the storage house.
+#tr.en: 10 gur barley,
+#tr.en: hi-ba-ri2-tum{ki}
+#tr.en: 5 gur barley,
+#tr.en: barley of the new-SIG,
+#tr.en: Lu-dingira.
+#tr.en: Together: 50 gur, 1 barig, 4 ban barley,
+#tr.en: barley delivered from “above” in Umma, via dingir-igi-du.
+#tr.en: Month: “Dumuzi,”
+#tr.en: year: “The boat of Enki was caulked.”
+<count>1(u) 1(barig) 4(ban2) sze gur</count> 
+<com dist="1">sze</com> hi-ba-ri2-tum{ki} 
+<count><interpretation modern_unit="l" modern_value="0.0023148148148148147" system="dry capacity" unit="sila3" value="0.0023148148148148147"/>2(u) 5(asz) sze gur</count> 
+<com dist="1">sze</com> SIG7-gibil 
+e2-ur3-ra-ka si-ga 
+<count><interpretation modern_unit="l" modern_value="0.0009259259259259259" system="dry capacity" unit="sila3" value="0.0009259259259259259"/>1(u) sze gur</count> 
+<com dist="1">sze</com> hi-ba-ri2-tum{ki} 
+<count><interpretation modern_unit="l" modern_value="1500" system="dry capacity" unit="sila3" value="1500"/>5(asz) gur</count> 
+<com dist="1">sze</com> SIG7-gibil 
+lu2-dingir-ra 
+szunigin <count>5(u) 1(barig) 4(ban2) sze gur</count> 
+<com dist="1">sze</com> igi-nim-ta de6-a sza3 umma{ki} giri3 dingir-igi-du 
+iti {d}dumu-zi 
+mu ma2 {d}en-ki ba-ab-du8 
+</commodities>

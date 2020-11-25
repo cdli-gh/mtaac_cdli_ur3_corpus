@@ -1,0 +1,27 @@
+<commodities>
+#P101022 = AnOr 01, 031 
+#atf: lang sux 
+#tr.en: 2 barig: wages of the hirelings of Šū-Mama; 
+#tr.en: 1 gur 1 barig: Igi-Sasa, grain of Puzriš-Suen; 
+#tr.en: 2 barig fodder for sheep: Igisasa; 
+#tr.en: 1 barig barley for birds: Adda-bani; 
+#tr.en: 1 barig barley for sheep: Zani; 
+#tr.en: 1 gur, its goat is 1; house of Na-silim the fuller ...; 
+#tr.en: 1 barig, ...um-bani; 
+#tr.en: ... 
+#tr.en: ... are 90; 
+# calculation unclear; perhaps the amount of grain eaten by the animals during transport? 
+#tr.en: from Tummal ... 
+#tr.en: month: “Great festival” it will be added. 
+<count><interpretation modern_unit="l" modern_value="120" system="dry capacity" unit="sila3" value="120"/>2(barig)</count> a2 hun-ga2 szu-ma-ma 
+<count><interpretation modern_unit="l" modern_value="360" system="dry capacity" unit="sila3" value="360"/>1(asz) 1(barig) gur</count> igi-sa6-sa6 <com dist="1">sze</com> puzur4-{d}suen 
+<count><interpretation modern_unit="l" modern_value="120" system="dry capacity" unit="sila3" value="120"/>2(barig)</count> sza3-gal <com dist="1">udu</com> igi-sa6-sa6 
+<count>1(barig) sze</count> <com dist="1">muszen</com> {d}iszkur-ba-ni 
+<count>1(barig) sze</count> <com dist="1">udu</com> za-ni 
+<count><interpretation modern_unit="l" modern_value="300" system="dry capacity" unit="sila3" value="300"/>1(asz) gur</count> <com dist="1">masz2-bi</com> <count><interpretation modern_unit="" modern_value="1" system="cardinal" unit="" value="1"/>1(disz)-kam</count> e2 na-silim azlag2 asz 
+<count><interpretation modern_unit="" modern_value="none" system="unknown" unit="" value="none"/>1(barig) ...</count> x-um-ba-ni 
+...-x{ki} 
+ka-lu <count><interpretation modern_unit="" modern_value="90" system="cardinal" unit="" value="90"/>1(gesz2) 3(u)-am3</count> 
+tum-ma-al-ta i3-dub 
+iti ezem-mah e-dah-he 
+</commodities>

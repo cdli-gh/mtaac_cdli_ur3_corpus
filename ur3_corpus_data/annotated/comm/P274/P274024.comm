@@ -1,0 +1,35 @@
+<commodities>
+#P274024 = Dissertation SB Nelson p.50 Smith 514
+#version: 0.1
+#atf: lang sux
+#lem: n; sila[lamb]; DN
+#lem: n; sila[lamb]; DN
+#lem: muDU[delivery]; PN
+#lem: n; sila[lamb]; DN
+#lem: n; sila[lamb]; DN
+#lem: muDU[delivery]; ensik[ruler]; GN
+#lem: zabardab[official]; maszkim[administrator]
+#lem: n; ab[cow]; n; udu[sheep]
+#lem: n; u[ewe]; n; masz[goat]
+#lem: n; uzud[goat]
+#lem: szugid[~animal]; e[house]; muhaldim[cook]
+#lem: ud[day]; n; n
+#lem: ki[place]; PN; zig[issue]
+#lem: itud[month]; MN
+#lem: mu[year]; us[follow]; GN; hulu[destroy]
+<count><interpretation modern_unit="" modern_value="1" system="cardinal" unit="" value="1"/>1(disz)</count> <com dist="1">sila4</com> {d}en-lil2 
+<count><interpretation modern_unit="" modern_value="1" system="cardinal" unit="" value="1"/>1(disz)</count> <com dist="1">sila4</com> {d}nin-lil2 
+mu-DU szesz-da-da 
+<count><interpretation modern_unit="" modern_value="1" system="cardinal" unit="" value="1"/>1(disz)</count> <com dist="1">sila4</com> {d}nusku 
+<count><interpretation modern_unit="" modern_value="1" system="cardinal" unit="" value="1"/>1(disz)</count> <com dist="1">sila4</com> {d}nin-urta 
+mu-DU ensi2 nibru{ki} 
+zabar-dab5 maszkim 
+<count><interpretation modern_unit="" modern_value="2" system="cardinal" unit="" value="2"/>2(disz)</count> <com dist="1">ab2</com> <count><interpretation modern_unit="" modern_value="9" system="cardinal" unit="" value="9"/>9(disz)</count> udu 
+<count><interpretation modern_unit="" modern_value="8" system="cardinal" unit="" value="8"/>8(disz)</count> u8 <count><interpretation modern_unit="" modern_value="4" system="cardinal" unit="" value="4"/>4(disz)</count> masz2 
+<count><interpretation modern_unit="" modern_value="3" system="cardinal" unit="" value="3"/>3(disz)</count> ud5 
+szu-gid2 e2 muhaldim-sze3 
+u4 <count><interpretation modern_unit="" modern_value="20" system="cardinal" unit="" value="20"/>2(u)</count> <count><interpretation modern_unit="" modern_value="6" system="cardinal" unit="" value="6"/>6(disz)-kam</count> 
+ki na-sa6-ta ba-zi 
+iti ezem-me-ki-gal2 
+mu us2-sa ki-masz{ki} ba-hul 
+</commodities>
