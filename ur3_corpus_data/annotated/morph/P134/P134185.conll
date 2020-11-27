@@ -1,0 +1,27 @@
+#new_text=P134185
+FORM	SEGM	XPOSTAG	XPOSTAG	POS
+5(disz)	5(disz)[one]	NU	NU	D
+udu	udu[sheep]	N	N	D
+a-lum	aslum[sheep_type]	N	N	D
+1(disz)	1(disz)[one]	NU	NU	D
+sila3	sila[unit]	N	N	D
+sze-ta	sze[barley]-ta	N	N.ABL	D
+2(disz)	2(disz)[one]	NU	NU	D
+gukkal	gukkal[fat-tailed_sheep]	N	N	D
+3(disz)	3(disz)[one]	NU	NU	D
+udu	udu[sheep]	N	N	D
+a-lum	aslum[sheep_type]	N	N	D
+1/2(disz)	1/2(disz)[one]	NU	NU	D
+sila3	sila[unit]	N	N	D
+sze-ta	sze[barley]-ta	N	N.ABL	D
+iti	iti[month]	N	N	D
+min-esz3	Minesz[1][-'a]	MN	MN.L1	D
+u4	ud[day]	N	N	D
+7(disz)-ta	7(disz)[one]-ta	NU	NU.ABL	D
+ki	ki[place]	N	N	D
+...-ta	_[_]-ta	PN	PN.GEN.ABL	D
+ur-{d}szara2	Urszara[1]	PN	PN	D
+mu	mu[year]	N	N	D
+en	en[priest]	N	N	D
+...	_[_]	PN	N	D
+unu{ki}	Unug[1][-ak][-ak][-ø]	SN	SN.GEN.L1	D

@@ -1,0 +1,23 @@
+#new_text=P128306
+FORM	SEGM	XPOSTAG	XPOSTAG	POS
+5(u)	5(u)[ten]	NU	NU	D
+8(asz)	8(asz)[one]	NU	NU	D
+2(barig)	2(bariga)[unit]	NU	N	D
+sze	sze[barley]	N	N	D
+gur	gur[unit]	N	N	D
+lugal	lugal[king]	N	N	D
+sza3-gal	szaggal[food]	N	N	D
+udu	udu[sheep]	N	N	D
+ur3-ra	ur[level_off]-a	V	NF.V.PT	D
+ki	ki[place]	N	N	D
+ur-{d}szara2-ta	Urszara[1][-ak]-ta	PN	PN.GEN.ABL	D
+kiszib3	kiszib[seal]	N	N	D
+la-ni-mu	Lanimu[1]	PN	PN	D
+giri3	giri[foot]	N	N	D
+gu2-tar	_	PN	PN.GEN	Iabcdefgh
+iti	iti[month]	N	N	D
+nesag	Nesag[1][-'a]	N	MN.L1	D
+mu	mu[year]	N	N	D
+us2-sa	us[follow]-a	V	NF.V.PT	D
+ki-masz{ki}	Kimasz[1]	SN	SN.ABS	D
+ba-hul	ba-hulu[destroy][-ø]	V	MID.V.3-SG-S	D

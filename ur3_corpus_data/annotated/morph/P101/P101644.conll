@@ -1,0 +1,25 @@
+#new_text=P101644
+FORM	SEGM	XPOSTAG	XPOSTAG	POS
+1(bur3)	1(bur)[unit]	NU	N	D
+x	_[_]	N	N	D
+x	_[_]	N	N	D
+...	_[_]	PN	N	D
+x	_[_]	N	N	D
+...	_[_]	PN	N	D
+x	_[_]	N	N	D
+...	_[_]	PN	N	D
+	_	_
+x	_[_]	N	N	D
+a-sza3	aszag[field]	N	N	D
+du6-{d}szara2	_	FN	FN	POS
+iti	iti[month]	N	N	D
+min3-esz3	Minesz[1][-'a]	MN	MN.L1	D
+mu	mu[year]	N	N	D
+si-mu-ru-um	Simurum[1]	GN	SN	D
+u3	u[and]	CNJ	CNJ	D
+lu-lu-bum2	_	PN	PN	POS
+ba-hul	ba-hulu[destroy][-ø]	V	MID.V.3-SG-S	D
+a-kal-la	Akala[1]	PN	PN	D
+dub-sar	dubsar[scribe]	N	N	D
+dumu	dumu[child]	N	N	D
+lugal-nesag-e	Lugalnesage[1][-e]	PN	PN	D

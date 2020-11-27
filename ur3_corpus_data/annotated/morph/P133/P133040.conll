@@ -1,0 +1,22 @@
+#new_text=P133040
+FORM	SEGM	XPOSTAG	XPOSTAG	POS
+1(u)	1(u)[ten]	NU	NU	D
+5(disz)	5(disz)[one]	NU	NU	D
+{kusz}KU-KA-x	_	N	N	POS
+bil2-ga-sze3	_	V	V	POS
+ki	ki[place]	N	N	D
+lu2-sa6-ga-ta	_	PN	PN.GEN.ABL	Iab
+kiszib3	kiszib[seal]	N	N	D
+lu2-{d}ig-alim	_	PN	PN	D
+lu2	lu[person]	N	N	D
+ur3-ka	_	N	N.GEN.GEN.TERM	Iabcdefg
+iti	iti[month]	N	N	D
+szu-numun-na	_	MN	MN	POS
+mu	mu[year]	N	N	D
+{d}szu-{d}suen	Szusuen[1]	RN	RN	D
+lugal	lugal[king]	N	N	D
+lu2-{d}ig-alim	_	PN	PN	D
+dumu	dumu[child]	N	N	D
+nam-ha-ni	Namhani[1]	N	PN	D
+lu2	lu[person]	N	N	D
+ur3-ra	ur[level_off]-a	V	NF.V.PT	D

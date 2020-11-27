@@ -1,0 +1,25 @@
+#new_text=P201239
+FORM	SEGM	XPOSTAG	XPOSTAG	POS
+2(ban2)	2(ban)[unit]	NU	N	D
+kasz	kasz[beer]	N	N	D
+ninda	ninda[bread]	N	N	D
+1/3(disz)	1/3(disz)[one]	NU	NU	D
+sila	sila[unit]	N	N	D
+i3	i[oil]	N	N	D
+...	_[_]	PN	N	D
+2(ban2)	2(ban)[unit]	NU	N	D
+kasz	kasz[beer]	N	N	D
+ninda	ninda[bread]	N	N	D
+...	_[_]	PN	N	D
+4(disz)	4(disz)[one]	NU	NU	D
+sila3	sila[unit]	N	N	D
+...	_[_]	PN	N	D
+{d}dam-gal-nun-ama-mu	_	PN	PN.DAT-H	Iabcdefgh
+elam	Elam[1][-ak]	EN	GN.GEN	D
+...	_[_]	PN	N	D
+szu-...	_	PN	PN.DAT-H	Iab
+u4	ud[day]	N	N	D
+2(u)	2(u)[ten]	NU	NU	D
+4(disz)-kam	4(disz)[one]-ak-am[-'a]	NU	NU.GEN.COP-3-SG	D
+iti	iti[month]	N	N	D
+sze-sag11-ku5	Szesagku[1][-'a]	MN	MN.L1	D

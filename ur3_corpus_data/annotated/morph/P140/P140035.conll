@@ -1,0 +1,24 @@
+#new_text=P140035
+FORM	SEGM	XPOSTAG	XPOSTAG	POS
+4(gesz'u)	4(gesz'u)[six_hundred]	NU	NU	D
+3(u)	3(u)[ten]	NU	NU	D
+{gesz}dusu	_	N	N	Ia
+1(gesz'u)	1(gesz'u)[six_hundred]	NU	NU	D
+4(gesz2)	4(gesz)[sixty]	NU	NU	D
+1(u)	1(u)[ten]	NU	NU	D
+{u2}gug4	_	N	N	POS
+5(asz)	5(asz)[one]	NU	NU	D
+gu2	gun[unit]	N	N	D
+{u2}bur2	_	N	N	Ia
+2(barig)	2(bariga)[unit]	NU	N	D
+3(ban2)	3(ban)[unit]	NU	N	D
+gazi	gazi[condiment]	N	N	D
+ki	ki[place]	N	N	D
+ur-e2-masz	Uremasz[1]	PN	PN	D
+gaba-ri	gabari[copy]	N	N	D
+kiszib3	kiszib[seal]	N	N	D
+nu-ra-a	Nuraya[1][-ak]	PN	PN.GEN	D
+mu	mu[year]	N	N	D
+ma-da	mada[land][-ak][-ø]	N	N	D
+za-ab-sze-li{ki}	_	SN	SN.GEN	Iabcde
+ba-hul	ba-hulu[destroy][-ø]	V	MID.V.3-SG-S	D

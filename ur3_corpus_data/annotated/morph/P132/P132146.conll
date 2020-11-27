@@ -1,0 +1,27 @@
+#new_text=P132146
+FORM	SEGM	XPOSTAG	XPOSTAG	POS
+2(u)	2(u)[ten]	NU	NU	D
+5(disz)	5(disz)[one]	NU	NU	D
+{gi}gur-dub	gurdub[basket_type]	N	N	D
+1(gesz2)-ta	_	NU	NU	Iabcdefgh
+nig2-dab5	nigdab[requisitions]	N	N	D
+du6-ku3-ga	dukug[locus]-ak	PN	N.GEN	D
+ba-an-si-si	_	V	V	POS
+1(u)	1(u)[ten]	NU	NU	D
+{gi}gur-dub	gurdub[basket_type]	N	N	D
+1(gesz2)-ta	_	NU	NU	Iabcdefgh
+ki	ki[place]	N	N	D
+a-gu-ta	Agu[1][-ak]-ta	PN	PN.GEN.ABL	D
+nig2-dab5	nigdab[requisitions]	N	N	D
+ma2	ma[ship]	N	N	D
+nesag-NE	_	N	N	POS
+ba-an-si-si	_	V	V	POS
+kiszib3	kiszib[seal]	N	N	D
+lugal-nig2-lagar-e	Lugalniglagare[1][-ak]	PN	PN.GEN	D
+mu	mu[year]	N	N	D
+sza-asz-szu-ru-um{ki}	_	SN	SN.GEN.ABS	Iabcdef
+ba-hul	ba-hulu[destroy][-ø]	V	MID.V.3-SG-S	D
+lugal-ze2-ni-e	_	PN	PN	Iabcdefgh
+dub-sar	dubsar[scribe]	N	N	D
+dumu	dumu[child]	N	N	D
+lugal-ki-sal	_	PN	PN.GEN.ABL	Iabcdefgh

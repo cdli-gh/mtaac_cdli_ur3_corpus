@@ -1,0 +1,10 @@
+#new_text=P200512
+FORM	SEGM	XPOSTAG	XPOSTAG	POS
+sze	sze[barley]	N	N	D
+gur	gur[unit]	N	N	D
+lu2	lu[person]	N	N	D
+ma-ri2{ki}-me	_	SN	SN.GEN.ABS.COP-3-PL	Iabcdefg
+lu2-igi-ma	_	PN	PN.GEN.ABL	Iabcdefgh
+dub-sar	dubsar[scribe]	N	N	D
+dumu	dumu[child]	N	N	D
+...	_[_]	PN	N	D

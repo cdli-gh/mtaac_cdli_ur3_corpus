@@ -1,0 +1,26 @@
+#new_text=P136364
+FORM	SEGM	XPOSTAG	XPOSTAG	POS
+2(u)	2(u)[ten]	NU	NU	D
+8(asz)	8(asz)[one]	NU	NU	D
+sze	sze[barley]	N	N	D
+gur	gur[unit]	N	N	D
+la2-ia3	la'u[arrears]	N	N	D
+szu-an-ta-mu-ag2-ka	_	V	V	POS
+i3-sa6-ga-a	_	PN	PN	POS
+im-ta-e3	_	V	V	POS
+mu	mu[year]	N	N	D
+sze	sze[barley]	N	N	D
+gu3-de2-a-sze3	_	PN	PN.GEN.TERM	Iabcdef
+szesz-kal-la	Szeszkala[1][-ra]	PN	PN	D
+...	_[_]	PN	N	D
+i3-na-bala	_	PN	PN	POS
+ur-{d}nin-gal	_	PN	PN	Ia
+enku	enkud[tax_collector][-ak]	N	N.GEN	D
+ur-{d}nin-gal	_	PN	PN	Ia
+egir	_	N	N.ABS	D
+szabra	szabra[chief_administrator][-ak]	N	N	D
+ur-{d}nun-gal	Urnungal[1][-ak]	PN	PN.GEN	D
+gu-za-la2	guzala[throne_bearer]	N	N	D
+szesz-kal-la	Szeszkala[1][-ra]	PN	PN	D
+ka-guru7	kaguruk[supervisor][-e]	PN	N	D
+lu2-inim-ma-bi-me-esz2	_	PN	PN	POS

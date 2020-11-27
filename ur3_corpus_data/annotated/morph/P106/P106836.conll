@@ -1,0 +1,25 @@
+#new_text=P106836
+FORM	SEGM	XPOSTAG	XPOSTAG	POS
+1(asz)	1(asz)[one]	NU	NU	D
+2(barig)	2(bariga)[unit]	NU	N	D
+1(ban2)	1(ban)[unit]	NU	N	D
+2(disz)	2(disz)[one]	NU	NU	D
+sila3	sila[unit]	N	N	D
+sze	sze[barley]	N	N	D
+lugal	lugal[king]	N	N	D
+sze	sze[barley]	N	N	D
+gurx(|SZE.KIN|)-gurx(|SZE.KIN|)-sze3	_	V	NF.V.PT.TERM	Iabcdef
+ki	ki[place]	N	N	D
+ur-e11-e-ta	Ure'e[1][-ak]-ta	PN	PN.GEN.ABL	D
+da-du-mu	Dadumu[1][-ak]	PN	PN.GEN	D
+u3	u[and]	CNJ	CNJ	D
+ur-su4-su4	_	PN	PN.DAT-H	Iab
+szu	szu[hand][-e]	N	N.L3-NH	D
+ba-ti	ba[-n]-teg[accept][-ø]	V	MID.3-SG-H-A.V.3-SG-P	D
+guru7	guru[grain_heap]	N	N	D
+a-u2-da-ta	A'uda[1][-ak]-ta	FN	FN.GEN.ABL	D
+iti	iti[month]	N	N	D
+{d}dumu-zi	Dumuzi[1][-'a]	MN	MN.L1	D
+mu	mu[year]	N	N	D
+an-sza-an{ki}	Anszan[1][-ø]	GN	GN.ABS	D
+ba-hul	ba-hulu[destroy][-ø]	V	MID.V.3-SG-S	D

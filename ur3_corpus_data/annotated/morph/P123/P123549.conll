@@ -1,0 +1,25 @@
+#new_text=P123549
+FORM	SEGM	XPOSTAG	XPOSTAG	POS
+2(disz)	2(disz)[one]	NU	NU	D
+masz2	masz[goat]	N	N	D
+1(disz)	1(disz)[one]	NU	NU	D
+u8	u[ewe]	N	N	D
+1(disz)	1(disz)[one]	NU	NU	D
+kir11	kir[female_lamb]	N	N	D
+2(disz)	2(disz)[one]	NU	NU	D
+sila4	sila[lamb]	N	N	D
+sa2-du11	sadug[offerings]	N	N	D
+{d}be-la-at-suh-ner	Belatsuhner[1]	DN	DN	D
+{d}be-la-at-dar-ba-an	_	PN	PN	POS
+an-nu-ni-tum	Annunitum[1][-ra]	PN	PN.DAT-H	D
+u3	u[and]	CNJ	CNJ	D
+{d}ul-ma-si-tum	_	PN	PN	POS
+iti	iti[month]	N	N	D
+ezem-an-na	Ezemanna[1][-'a]	MN	MN.L1	D
+mu	mu[year]	N	N	D
+us2-sa	us[follow]-a	V	NF.V.PT	D
+e2	e[house]	N	N	D
+puzur4-isz-{d}da-gan	Puzuriszdagan[1][-ø]	SN	SN.ABS	D
+ba-du3	ba-du[build][-ø]	V	MID.V.3-SG-S	D
+mu	mu[year]	N	N	D
+us2-sa-bi	us[follow]-a-bi	V	NF.V.PT.3-SG-NH-POSS	D

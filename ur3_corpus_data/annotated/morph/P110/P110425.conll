@@ -1,0 +1,24 @@
+#new_text=P110425
+FORM	SEGM	XPOSTAG	XPOSTAG	POS
+1(ban2)	1(ban)[unit]	NU	N	D
+zi3	zid[flour]	N	N	D
+sig15	sig[flour_type]	V	N	D
+lugal	lugal[king]	N	N	D
+1(ban2)	1(ban)[unit]	NU	N	D
+zi3-gu	zidgu[flour_type]	N	N	D
+5(disz)	5(disz)[one]	NU	NU	D
+sila3	sila[unit]	N	N	D
+zi3	zid[flour]	N	N	D
+dub-dub	dubdub[flour_designation]	N	N	D
+2(disz)	2(disz)[one]	NU	NU	D
+sila3	sila[unit]	N	N	D
+nig2-ar3-ra	nigara[groats]	N	N	D
+szu-sal	_	PN	PN	POS
+ki	ki[place]	N	N	D
+{d}iszkur-sze3	_	PN	PN.GEN.TERM	Iabcdef
+giri3	giri[foot]	N	N	D
+sipa-da-ri2	_	PN	PN.	Iabc
+sagi(SILA3-GAB)	_	PN	PN	POS
+zi-ga	zig[expend]-a	V	NF.V.PT	D
+iti	iti[month]	N	N	D
+sze-sag11-ku5	Szesagku[1][-'a]	MN	MN.L1	D

@@ -1,0 +1,21 @@
+#new_text=P412635
+FORM	SEGM	XPOSTAG	XPOSTAG	POS
+3(disz)	3(disz)[one]	NU	NU	D
+sila3	sila[unit]	N	N	D
+kasz	kasz[beer]	N	N	D
+2(disz)	2(disz)[one]	NU	NU	D
+sila3	sila[unit]	N	N	D
+ninda	ninda[bread]	N	N	D
+2(disz)	2(disz)[one]	NU	NU	D
+gin2	gig[unit]	N	N	D
+i3-gesz	igesz[oil]	V	N	D
+en-u2-mi-li2	_	PN	PN	Iabcde
+lu2-{gesz}tukul	_	N	N	POS
+zi-ga	zig[expend]-a	V	NF.V.PT	D
+a-kal-la	Akala[1]	PN	PN	D
+iti	iti[month]	N	N	D
+mu-szu-du7	Muszudu[1][-'a]	MN	MN.L1	D
+mu	mu[year]	N	N	D
+en	en[priest]	N	N	D
+eridu{ki}	Eridug[1][-ak][-ø]	SN	SN.GEN.ABS	D
+ba-a-hun	ba-hug[hire][-ø]	V	MID.V.3-SG-S	D

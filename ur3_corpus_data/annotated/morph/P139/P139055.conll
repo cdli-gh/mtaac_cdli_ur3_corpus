@@ -1,0 +1,25 @@
+#new_text=P139055
+FORM	SEGM	XPOSTAG	XPOSTAG	POS
+5(asz)	5(asz)[one]	NU	NU	D
+2(barig)	2(bariga)[unit]	NU	N	D
+ninda	ninda[bread]	N	N	D
+gur	gur[unit]	N	N	D
+2(barig)	2(bariga)[unit]	NU	N	D
+4(ban2)	4(ban)[unit]	NU	N	D
+2(disz)	2(disz)[one]	NU	NU	D
+sila3	sila[unit]	N	N	D
+DUB	_	V	V	POS
+2(ban2)	2(ban)[unit]	NU	N	D
+...	_[_]	PN	N	D
+...	_[_]	PN	N	D
+n	_(_)[_]	NU	NU	D
+sila3	sila[unit]	N	N	D
+muru13	Muru[1]	FN	FN	D
+sza3	szag[heart]	N	N	D
+e2-gal	egal[palace][-ak][-'a]	N	N	D
+{d}nin-gal	Ningal[1]	DN	DN	D
+{d}hendur-x	_	DN	DN	Iabcdefgh
+zi-ga	zig[expend]-a	V	NF.V.PT	D
+KA-x	_	PN	PN.DAT-H	Iab
+iti	iti[month]	N	N	D
+u5-bi2{muszen}-gu7	Ubigu[1][-'a]	MN	MN.L1	D

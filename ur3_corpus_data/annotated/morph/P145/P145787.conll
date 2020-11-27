@@ -1,0 +1,27 @@
+#new_text=P145787
+FORM	SEGM	XPOSTAG	XPOSTAG	POS
+2(gesz'u)	2(gesz'u)[six_hundred]	NU	NU	D
+5(gesz2)	5(gesz)[sixty]	NU	NU	D
+sze	sze[barley]	N	N	D
+gur	gur[unit]	N	N	D
+lugal	lugal[king]	N	N	D
+sze	sze[barley]	N	N	D
+sumun	sumun[old][-ø]	N	NF.V.ABS	D
+5(gesz2)	5(gesz)[sixty]	NU	NU	D
+gur	gur[unit]	N	N	D
+sze	sze[barley]	N	N	D
+gibil	gibil[new][-ø]	V	NF.V.ABS	D
+szunigin	szunigin[total]	N	N	D
+3(gesz'u)	3(gesz'u)[six_hundred]	NU	NU	D
+gur	gur[unit]	N	N	D
+sze	sze[barley]	N	N	D
+szuku	szukur[prebend_land]	N	N	D
+e2-kam	_	PN	PN	POS
+ka-guru7-ke4	_	N	N	POS
+he2-mu-gi4-gi4	_	V	V	POS
+ga-na-ab-bala	_	PN	PN	Iabcdefgh
+u3	u[and]	CNJ	CNJ	D
+e2	e[house]	N	N	D
+{d}nin-gir2-su-ka	_	DN	DN.GEN	D
+du3-a-bi	_	V	NF.V.PT.3-SG-NH-POSS	Iabcdef
+ga-an-na-ab-sa2	_	PN	PN	POS

@@ -1,0 +1,29 @@
+#new_text=P138586
+FORM	SEGM	XPOSTAG	XPOSTAG	POS
+...	_[_]	PN	N	D
+gesz	gesz[tree]	N	N	D
+bad3	bad[wall]	N	N	D
+...	_[_]	PN	N	D
+...	_[_]	PN	N	D
+x	_[_]	N	N	D
+...	_[_]	PN	N	D
+...	_[_]	PN	N	D
+x	_[_]	N	N	D
+gesz	gesz[tree]	N	N	D
+bad3	bad[wall]	N	N	D
+x	_[_]	N	N	D
+...	_[_]	PN	N	D
+...-x-e	_	PN	PN.DAT-H	Iabcdef
+ba-ab-x	_	PN	PN	POS
+...-bu-um	_	 	 	POS
+...-asz-ti	_	PN	PN.GEN	Iabcdefgh
+iti	iti[month]	N	N	D
+masz-ku3-gu7	Maszkugu[1][-'a]	MN	MN.L1	D
+...	_[_]	PN	N	D
+...	_[_]	PN	N	D
+x	_[_]	N	N	D
+x	_[_]	N	N	D
+EN	_	PN	PN	Iabcdefgh
+...	_[_]	PN	N	D
+...	_[_]	PN	N	D
+ba-...	_	PN	PN.GEN	Iabcdefgh

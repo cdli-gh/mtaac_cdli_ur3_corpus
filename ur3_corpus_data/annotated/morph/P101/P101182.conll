@@ -1,0 +1,20 @@
+#new_text=P101182
+FORM	SEGM	XPOSTAG	XPOSTAG	POS
+3(gesz2)	3(gesz)[sixty]	NU	NU	D
+5(u)	5(u)[ten]	NU	NU	D
+1(disz)	1(disz)[one]	NU	NU	D
+1/2(disz)	1/2(disz)[one]	NU	NU	D
+gurusz	gurusz[male]	N	N	D
+u4	ud[day]	N	N	D
+1(disz)-sze3	1(disz)[one]-sze	NU	NU.TERM	D
+lu2	lu[person]	N	N	D
+azlag2-me	_	PN	PN.	Iabc
+ki	ki[place]	N	N	D
+ur-{d}nin-tu	Urnintu[1][-ak]	PN	PN	D
+u3	u[and]	CNJ	CNJ	D
+dingir-ra-ta	Dingirra[1][-ak]-ta	PN	PN.GEN.ABL	D
+lugal-e-ba-an-sa6	Lugalebansa[1][-ra]	PN	PN	D
+i3-dab5	i[-n]-dab[seize][-ø]	V	FIN.3-SG-H-A.V.3-SG-P	D
+mu	mu[year]	N	N	D
+bad3	bad[wall]	N	N	D
+ba-du3	ba-du[build][-ø]	V	MID.V.3-SG-S	D

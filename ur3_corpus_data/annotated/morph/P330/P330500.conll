@@ -1,0 +1,25 @@
+#new_text=P330500
+FORM	SEGM	XPOSTAG	XPOSTAG	POS
+2(u)	2(u)[ten]	NU	NU	D
+2(disz)	2(disz)[one]	NU	NU	D
+gurusz	gurusz[male]	N	N	D
+u2-ad2-ta	_	N	N	POS
+1(u)	1(u)[ten]	NU	NU	D
+2(disz)	2(disz)[one]	NU	NU	D
+sar	sar[unit]	N	N	D
+u4	ud[day]	N	N	D
+1(disz)-sze3	1(disz)[one]-sze	NU	NU.TERM	D
+a2	a[time]	N	N	D
+sza3-sahar-ra	_	N	N.GEN.GEN.L1	Iabcdef
+ugula	ugula[overseer][-ø]	N	N	D
+lugal-ma2-gur8-re	Lugalmagure[1][-ø]	PN	PN	D
+kiszib3	kiszib[seal]	N	N	D
+da-a-ge	_	PN	PN	Ia
+a-sza3	aszag[field]	N	N	D
+amar-{gesz}kiszi17	_	FN	FN	POS
+mu	mu[year]	N	N	D
+{d}amar-{d}suen	Amarsuen[1]	RN	RN	D
+lugal	lugal[king]	N	N	D
+da-a-ge	_	PN	PN	Ia
+dub-sar	dubsar[scribe]	N	N	D
+...	_[_]	PN	N	D

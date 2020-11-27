@@ -1,0 +1,21 @@
+#new_text=P500248
+FORM	SEGM	XPOSTAG	XPOSTAG	POS
+1(asz)	1(asz)[one]	NU	NU	D
+sze	sze[barley]	N	N	D
+gur	gur[unit]	N	N	D
+lugal	lugal[king]	N	N	D
+ki	ki[place]	N	N	D
+ARAD2-mu-ta	_	PN	PN.GEN.ABL	Iab
+kiszib3	kiszib[seal]	N	N	D
+lu2-nigin6{ki}	_	PN	PN.GEN.ERG	Iabcdefgh
+ma2	ma[ship]	N	N	D
+ur-li-kal-la	_	PN	PN	POS
+iti	iti[month]	N	N	D
+mu-szu-du7	Muszudu[1][-'a]	MN	MN.L1	D
+mu	mu[year]	N	N	D
+{d}amar-{d}suen	Amarsuen[1]	RN	RN	D
+lugal	lugal[king]	N	N	D
+lu2-nigin6{ki}	_	PN	PN.GEN.ERG	Iabcdefgh
+dub-sar	dubsar[scribe]	N	N	D
+dumu	dumu[child]	N	N	D
+ur-{d}nansze	Urnansze[1]	PN	PN	D

@@ -1,0 +1,15 @@
+#new_text=P110480
+FORM	SEGM	XPOSTAG	XPOSTAG	POS
+1(u)	1(u)[ten]	NU	NU	D
+6(asz)	6(asz)[one]	NU	NU	D
+3(barig)	3(bariga)[unit]	NU	N	D
+5(ban2)	5(ban)[unit]	NU	N	D
+dabin	dabin[semolina]	N	N	D
+gur	gur[unit]	N	N	D
+7(gesz2)	7(gesz)[sixty]	NU	NU	D
+4(u)	4(u)[ten]	NU	NU	D
+zi3	zid[flour]	N	N	D
+sig15	sig[flour_type]	V	N	D
+...	_[_]	PN	N	D
+2(u)	2(u)[ten]	NU	NU	D
+4(disz)	4(disz)[one]	NU	NU	D

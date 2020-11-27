@@ -1,0 +1,29 @@
+#new_text=P110556
+FORM	SEGM	XPOSTAG	XPOSTAG	POS
+9(asz)	9(asz)[one]	NU	NU	D
+2(barig)	2(bariga)[unit]	NU	N	D
+sze	sze[barley]	N	N	D
+gur	gur[unit]	N	N	D
+lugal	lugal[king]	N	N	D
+i3-dub	idub[granary]	N	N	D
+nag-esir2	_	FN	FN	POS
+2(u)	2(u)[ten]	NU	NU	D
+7(asz)	7(asz)[one]	NU	NU	D
+4(barig)	4(bariga)[unit]	NU	N	D
+4(ban2)	4(ban)[unit]	NU	N	D
+5(disz)	5(disz)[one]	NU	NU	D
+sila3	sila[unit]	N	N	D
+gur	gur[unit]	N	N	D
+ki	ki[place]	N	N	D
+al-la-ta	Ala[1][-ak]-ta	V	PN.GEN.ABL	D
+zi3	zid[flour]	N	N	D
+KA-sze3	KA[flour type]-sze	N	N.TERM	D
+ki	ki[place]	N	N	D
+gu3-de2-a-ta	_	PN	PN.GEN.ABL	Iabcdef
+ur-{d}nin-gesz-zi-da	_	PN	PN.GEN.ABS	D
+x-{d}nin-gesz-zi-da	_	PN	PN.GEN.GEN.ABS	Iabcdefg
+szu	szu[hand][-e]	N	N.L3-NH	D
+ba-ti	ba[-n]-teg[accept][-ø]	V	MID.3-SG-H-A.V.3-SG-P	D
+mu	mu[year]	N	N	D
+si-ma-num2{ki}	Simanum[1][-ø]	GN	SN.ABS	D
+ba-hul	ba-hulu[destroy][-ø]	V	MID.V.3-SG-S	D

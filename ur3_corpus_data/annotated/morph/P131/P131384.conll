@@ -1,0 +1,17 @@
+#new_text=P131384
+FORM	SEGM	XPOSTAG	XPOSTAG	POS
+5(disz)	5(disz)[one]	NU	NU	D
+geme2	geme[female_worker]	N	N	D
+u4	ud[day]	N	N	D
+1(disz)-sze3	1(disz)[one]-sze	NU	NU.TERM	D
+a2	a[time]	N	N	D
+zi3	zid[flour]	N	N	D
+ar3(TE)-a	_	NU	NU	POS
+erin2-ka	_	N	N	POS
+ki	ki[place]	N	N	D
+lugal-igi-husz-ta	_	PN	PN	Iabcdefgh
+kiszib3	kiszib[seal]	N	N	D
+lugal-gu2-gal	_	PN	PN	Iabcde
+mu	mu[year]	N	N	D
+sza-asz-ru-um{ki}	Szaszrum[1][-ø]	GN	SN.ABS	D
+ba-hul	ba-hulu[destroy][-ø]	V	MID.V.3-SG-S	D

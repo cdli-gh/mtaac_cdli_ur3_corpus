@@ -1,0 +1,24 @@
+#new_text=P109874
+FORM	SEGM	XPOSTAG	XPOSTAG	POS
+3(gesz2)	3(gesz)[sixty]	NU	NU	D
+3(u)	3(u)[ten]	NU	NU	D
+2(disz)	2(disz)[one]	NU	NU	D
+a2	a[time]	N	N	D
+gurusz	gurusz[male]	N	N	D
+u4	ud[day]	N	N	D
+1(disz)-sze3	1(disz)[one]-sze	NU	NU.TERM	D
+u4	ud[day]	N	N	D
+kas4	kas[runner][-ra]	N	N.DAT-H	D
+lu2	lu[person]	N	N	D
+mar-ha-szi{ki}-ke4	_	GN	GN.GEN.ERG	Iabcdefg
+iri	iri[city]	N	N	D
+mu-nigin2-na-a	_	V	V	POS
+isin2{si}{ki}	_	SN	SN.GEN.ABS.COP-3-PL	Iabcdefgh
+gurum2-ma	_	N	N.GEN	Ia
+gub-ba	gub[assigned]-a[-ak][-ø]	V	NF.V.PT	D
+...	_[_]	PN	N	D
+mu	mu[year]	N	N	D
+en-unu6-gal	Enunugal[1]	PN	PN	D
+{d}inanna	Inanna[1][-ak]	DN	DN	D
+unu{ki}	Unug[1][-ak][-ak][-ø]	SN	SN.GEN.L1	D
+ba-hun	ba-hug[hire][-ø]	V	MID.V.3-SG-S	D

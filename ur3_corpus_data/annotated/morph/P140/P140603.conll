@@ -1,0 +1,25 @@
+#new_text=P140603
+FORM	SEGM	XPOSTAG	XPOSTAG	POS
+1(gesz2)	1(gesz)[sixty]	NU	NU	D
+4(disz)	4(disz)[one]	NU	NU	D
+1/2(disz)	1/2(disz)[one]	NU	NU	D
+gurusz	gurusz[male]	N	N	D
+u4	ud[day]	N	N	D
+1(disz)-sze3	1(disz)[one]-sze	NU	NU.TERM	D
+sze	sze[barley]	N	N	D
+gurx(|SZE.KIN|)-a	gur[reap]-a	V	NF.V.PT	D
+a-sza3	aszag[field]	N	N	D
+{d}nin-ur4-ra	Ninura[1][-ak]	DN	DN.GEN	D
+ugula	ugula[overseer][-ø]	N	N	D
+a-kal-la	Akala[1]	PN	PN	D
+kiszib3	kiszib[seal]	N	N	D
+a-du-mu	Adumu[1][-ra]	PN	PN.GEN	D
+mu	mu[year]	N	N	D
+ma2	ma[ship]	N	N	D
+{d}en-ki	Enki[1][-ak][-ø]	DN	DN.GEN.ABS	D
+ba-ab-du8	ba-b-du[caulk][-ø]	V	MID.3-SG-NH-L3.V.3-SG-S	D
+ur-{d}suen	Ursuen[1]	PN	PN	D
+dub-sar	dubsar[scribe]	N	N	D
+dumu	dumu[child]	N	N	D
+ur-{gesz}gigir	Urgigir[1]	PN	PN	D
+sza3-tam	_	N	N.ABS	D

@@ -1,0 +1,13 @@
+#new_text=P113130
+FORM	SEGM	XPOSTAG	XPOSTAG	POS
+1(u)	1(u)[ten]	NU	NU	D
+gurusz	gurusz[male]	N	N	D
+u4	ud[day]	N	N	D
+1(disz)-sze3	1(disz)[one]-sze	NU	NU.TERM	D
+{u2}|KI.KAL|	_	N	N	Ia
+mu2-a	_	V	VEN.3-SG-H-A.V.3-SG-P.SUB.3-SG-H-POSS.GEN	Iabcdef
+kesz2-a-ra	_	V	V	POS
+ra-ni	_	PN	PN	POS
+dub-sar	dubsar[scribe]	N	N	D
+dumu	dumu[child]	N	N	D
+ur-{gesz}gigir	Urgigir[1]	PN	PN	D

@@ -1,0 +1,25 @@
+#new_text=P110578
+FORM	SEGM	XPOSTAG	XPOSTAG	POS
+2(u)	2(u)[ten]	NU	NU	D
+6(disz)	6(disz)[one][-sze]	NU	NU	D
+gu4	gud[ox]	N	N	D
+apin	apin[plow]	N	N	D
+u4	ud[day]	N	N	D
+1(disz)-sze3	1(disz)[one]-sze	NU	NU.TERM	D
+tug2-gurx(|SZE.KIN|)	tuggur[plow][-a][-ak]	V	NF.V.PT.GEN	D
+4(ban2)-ta	_	NU	NU	POS
+a-sza3	aszag[field]	N	N	D
+gi-gara2	_	FN	FN	POS
+ugula	ugula[overseer][-ø]	N	N	D
+ur-{d}nin-mar{ki}	_	PN	PN	D
+gu4	gud[ox]	N	N	D
+{d}nin-mar{ki}-ka	_	PN	DN.GEN.ABS	D
+kiszib3	kiszib[seal]	N	N	D
+lu2-{d}nin-dar-a	Lunindara[1]	PN	PN	D
+dumu	dumu[child]	N	N	D
+lu2-{d}utu	Lu'utu[1]	PN	PN	D
+iti	iti[month]	N	N	D
+szu-numun	Szunumun[1][-'a]	MN	MN.L1	D
+lu2-{d}nin-dar-a	Lunindara[1]	PN	PN	D
+dumu	dumu[child]	N	N	D
+lu2-{d}utu	Lu'utu[1]	PN	PN	D

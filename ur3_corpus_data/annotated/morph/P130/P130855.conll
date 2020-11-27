@@ -1,0 +1,20 @@
+#new_text=P130855
+FORM	SEGM	XPOSTAG	XPOSTAG	POS
+5(u)	5(u)[ten]	NU	NU	D
+5(disz)	5(disz)[one]	NU	NU	D
+gurusz	gurusz[male]	N	N	D
+u4	ud[day]	N	N	D
+1(disz)-sze3	1(disz)[one]-sze	NU	NU.TERM	D
+mar-sa	marsa[shipyard]	PN	N	D
+gub-ba	gub[assigned]-a[-ak][-ø]	V	NF.V.PT	D
+kiszib3	kiszib[seal]	N	N	D
+nig2-lagar-e	Niglagare[1]	N	PN	D
+iti	iti[month]	N	N	D
+{d}dumu-zi	Dumuzi[1][-'a]	MN	MN.L1	D
+ugula	ugula[overseer][-ø]	N	N	D
+u3-ra-ga	_	PN	PN	Iabcde
+mu	mu[year]	N	N	D
+us2-sa	us[follow]-a	V	NF.V.PT	D
+ha-ar-szi	Harszi[1][-ø]	PN	SN.ABS	D
+ki-masz{ki}	Kimasz[1]	SN	SN.ABS	D
+ba-hul	ba-hulu[destroy][-ø]	V	MID.V.3-SG-S	D

@@ -1,0 +1,22 @@
+#new_text=P248789
+FORM	SEGM	XPOSTAG	XPOSTAG	POS
+1(gesz2)	1(gesz)[sixty]	NU	NU	D
+5(asz)	5(asz)[one]	NU	NU	D
+1(barig)	1(bariga)[unit]	NU	N	D
+sze	sze[barley]	N	N	D
+gur	gur[unit]	N	N	D
+1(u)	1(u)[ten]	NU	NU	D
+3(asz)	3(asz)[one]	NU	NU	D
+1(barig)	1(bariga)[unit]	NU	N	D
+3(ban2)	3(ban)[unit]	NU	N	D
+gig	gig[resin_type]	N	N	D
+gur	gur[unit]	N	N	D
+na-ga-ab-tum	nakabtum[stockyard][-'a]	FN	N.L1	D
+x-x	_[_]	PN	N.2-SG-POSS.ABS	D
+giri3	giri[foot]	N	N	D
+a-da-ga	Adaga[1]	PN	PN	D
+iti	iti[month]	N	N	D
+dal	Dal[1][-'a]	MN	MN.L1	D
+mu	mu[year]	N	N	D
+sza-asz-ru-um{ki}	Szaszrum[1][-ø]	GN	SN.ABS	D
+ba-hul	ba-hulu[destroy][-ø]	V	MID.V.3-SG-S	D

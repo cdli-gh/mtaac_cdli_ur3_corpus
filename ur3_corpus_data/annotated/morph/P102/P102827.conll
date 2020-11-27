@@ -1,0 +1,25 @@
+#new_text=P102827
+FORM	SEGM	XPOSTAG	XPOSTAG	POS
+6(asz)	6(asz)[one]	NU	NU	D
+gig	gig[resin_type]	N	N	D
+gur	gur[unit]	N	N	D
+mu	mu[year]	N	N	D
+gig-sze3	_	V	V	POS
+ki	ki[place]	N	N	D
+ba-mu-ka	_	PN	PN.GEN	Iab
+tur-am-i3-li2	_	PN	PN	Iabcde
+lu2	lu[person]	N	N	D
+ba-mu	Bamu[1][-ak]	V	PN.GEN	D
+szu	szu[hand][-e]	N	N.L3-NH	D
+ba-ti	ba[-n]-teg[accept][-ø]	V	MID.3-SG-H-A.V.3-SG-P	D
+mu	mu[year]	N	N	D
+mu	mu[year]	N	N	D
+us2-sa	us[follow]-a	V	NF.V.PT	D
+bad3	bad[wall]	N	N	D
+ba-du3-sze3	_	V	V	POS
+mu	mu[year]	N	N	D
+e2	e[house]	N	N	D
+puzur4-da-gan	Puzurdagan[1][-ø]	SN	SN.ABS	D
+ba-du3	ba-du[build][-ø]	V	MID.V.3-SG-S	D
+szu	szu[hand][-e]	N	N.L3-NH	D
+ba-ti	ba[-n]-teg[accept][-ø]	V	MID.3-SG-H-A.V.3-SG-P	D

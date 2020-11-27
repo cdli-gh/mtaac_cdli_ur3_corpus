@@ -1,0 +1,27 @@
+#new_text=P111062
+FORM	SEGM	XPOSTAG	XPOSTAG	POS
+1(u)	1(u)[ten]	NU	NU	D
+giri3-lam	girlam[basket_type]	N	N	D
+5(disz)	5(disz)[one]	NU	NU	D
+sila3	sila[unit]	N	N	D
+{gesz}pesz3-ta	_	N	N	POS
+4(disz)	4(disz)[one]	NU	NU	D
+giri3-lam	girlam[basket_type]	N	N	D
+3(disz)	3(disz)[one]	NU	NU	D
+sila3	sila[unit]	N	N	D
+{gesz}pesz3-ta	_	N	N	POS
+{d}sag-szu-hal-ba	_	DN	DN	POS
+zabalax(|MUSZ3.UNUG.ZA|)-sze3	_	N	N.3-SG-H-POSS.TERM	Iabcdef
+de6-a	de[bring]-a	V	NF.V.PT	D
+zi-ga	zig[expend]-a	V	NF.V.PT	D
+iti	iti[month]	N	N	D
+ezem-{d}li9-si4	_	MN	MN	POS
+mu	mu[year]	N	N	D
+us2-sa	us[follow]-a	V	NF.V.PT	D
+{d}szu-{d}suen	Szusuen[1]	RN	RN	D
+lugal	lugal[king]	N	N	D
+uri5{ki}-ma-ke4	Urim[1]-ak-e	SN	SN.GEN.ERG	D
+bad3	bad[wall]	N	N	D
+mar-tu	Martu[1][-ø]	EN	EN.ABS	D
+mu-ri-iq-ti-id-ni-im	Muriqtidnim[1][-ø]	ON	ON.ABS	D
+mu-du3	mu[-n]-du[build][-ø]	V	VEN.3-SG-H-A.V.3-SG-P	D

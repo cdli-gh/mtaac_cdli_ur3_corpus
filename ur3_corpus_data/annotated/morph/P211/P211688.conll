@@ -1,0 +1,24 @@
+#new_text=P211688
+FORM	SEGM	XPOSTAG	XPOSTAG	POS
+1(gesz2)	1(gesz)[sixty]	NU	NU	D
+2(u)	2(u)[ten]	NU	NU	D
+6(disz)	6(disz)[one][-sze]	NU	NU	D
+a2	a[time]	N	N	D
+gurusz	gurusz[male]	N	N	D
+ug3-IL2-sze3	_	N	N.3-SG-H-POSS.TERM	Iabcdef
+1(gesz2)	1(gesz)[sixty]	NU	NU	D
+3(u)	3(u)[ten]	NU	NU	D
+4(disz)	4(disz)[one]	NU	NU	D
+2/3(disz)	2/3(disz)[one]	NU	NU	D
+a2	a[time]	N	N	D
+du8-a	du[spread][-a][-ø]	V	NF.V.PT.ABS	D
+u4	ud[day]	N	N	D
+1(disz)-sze3	1(disz)[one]-sze	NU	NU.TERM	D
+u4	ud[day]	N	N	D
+du8-a	du[spread][-a][-ø]	V	NF.V.PT.ABS	D
+ki	ki[place]	N	N	D
+szu-{d}iszkur-ta	_	PN	PN.GEN.ABL	Iabcdef
+ba-zi	ba-zig[expend][-ø]	PN	MID.V.3-SG-S	D
+mu	mu[year]	N	N	D
+ki-masz{ki}	Kimasz[1]	SN	SN.ABS	D
+ba-hul	ba-hulu[destroy][-ø]	V	MID.V.3-SG-S	D

@@ -1,0 +1,26 @@
+#new_text=P145206
+FORM	SEGM	XPOSTAG	XPOSTAG	POS
+2(gesz2)	2(gesz)[sixty]	NU	NU	D
+4(u)	4(u)[ten]	NU	NU	D
+sig4	szeg[brick]	N	N	D
+gir	_	N	N	POS
+1(gesz2)	1(gesz)[sixty]	NU	NU	D
+2(u)	2(u)[ten]	NU	NU	D
+pa	pa[branch]	N	N.ABS	D
+geszimmar	gesznimbar[date_palm][-ak]	N	N.GEN	D
+1(gesz2)	1(gesz)[sixty]	NU	NU	D
+sa	sa[bundle]	N	N	D
+{u2}|ZI&ZI|-sze3	_	N	N.3-SG-H-POSS.TERM	Iabcdef
+e2-kiszib3-ba-sze3	ekiszibak[storeroom]-sze	TN	N.TERM	D
+ki	ki[place]	N	N	D
+gu-du-du-ta	_	PN	PN.GEN.ABL	Iabcdef
+kiszib3	kiszib[seal]	N	N	D
+a-gu	Agu[1][-ak]	PN	PN	D
+mu	mu[year]	N	N	D
+en-am-gal-an-na	_	PN	PN	Ia
+{d}inanna	Inanna[1][-ak]	DN	DN	D
+ba-hun	ba-hug[hire][-ø]	V	MID.V.3-SG-S	D
+a-gu	Agu[1][-ak]	PN	PN	D
+dub-sar	dubsar[scribe]	N	N	D
+dumu	dumu[child]	N	N	D
+lugal-e2-mah-e	Lugalemahe[1]	N	PN	D

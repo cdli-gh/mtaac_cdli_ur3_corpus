@@ -1,0 +1,26 @@
+#new_text=P131044
+FORM	SEGM	XPOSTAG	XPOSTAG	POS
+4(u)	4(u)[ten]	NU	NU	D
+1(disz)	1(disz)[one]	NU	NU	D
+udu	udu[sheep]	N	N	D
+2(disz)	2(disz)[one]	NU	NU	D
+sila4	sila[lamb]	N	N	D
+3(u)	3(u)[ten]	NU	NU	D
+6(disz)	6(disz)[one][-sze]	NU	NU	D
+masz2	masz[goat]	N	N	D
+szu-gid2	szugid[animal_designation][-ø]	N	N	D
+ki	ki[place]	N	N	D
+ba-ba-ti-ta	_	PN	PN	Iabcdefgh
+ur-ku3-nun-na	Urkununa[1][-e]	PN	PN	D
+i3-dab5	i[-n]-dab[seize][-ø]	V	FIN.3-SG-H-A.V.3-SG-P	D
+giri3	giri[foot]	N	N	D
+du10-i3-li2	_	PN	PN	POS
+iti	iti[month]	N	N	D
+ezem-{d}szu-{d}suen	_	MN	MN	POS
+mu	mu[year]	N	N	D
+{d}szu-{d}suen	Szusuen[1]	RN	RN	D
+lugal	lugal[king]	N	N	D
+uri5{ki}-ma-ke4	Urim[1]-ak-e	SN	SN.GEN.ERG	D
+ma-da	mada[land][-ak][-ø]	N	N	D
+za-ab-sza-li{ki}	Zabszali[1][-ak][-ø]	GN	SN.GEN.ABS	D
+mu-hul	mu[-n]-hulu[destroy][-ø]	V	VEN.3-SG-H-A.V.3-SG-P	D

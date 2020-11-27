@@ -1,0 +1,23 @@
+#new_text=P141781
+FORM	SEGM	XPOSTAG	XPOSTAG	POS
+x	_[_]	N	N	D
+2(barig)	2(bariga)[unit]	NU	N	D
+ur-ga2	_	N	N	POS
+4(ban2)	4(ban)[unit]	NU	N	D
+ur-ga2	_	N	N	POS
+1(ban2)	1(ban)[unit]	NU	N	D
+ur-ga2	_	N	N	POS
+inim-gi-na	_	PN	PN	Iabcde
+ur-ga2	_	N	N	POS
+1(barig)	1(bariga)[unit]	NU	N	D
+2(ban2)	2(ban)[unit]	NU	N	D
+lu2-ga-a	_	PN	PN.GEN.L1	Iabcdefg
+4(ban2)	4(ban)[unit]	NU	N	D
+lu2-ga-a	_	PN	PN.GEN.L1	Iabcdefg
+dumu	dumu[child]	N	N	D
+ur-ga2	_	N	N	POS
+3(disz)	3(disz)[one]	NU	NU	D
+3(ban2)	3(ban)[unit]	NU	N	D
+ses	_	V	V	POS
+ur-ga2	_	N	N	POS
+ur-ga2-na	_	PN	PN	Iabcdefgh

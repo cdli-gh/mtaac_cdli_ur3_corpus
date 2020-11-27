@@ -1,0 +1,27 @@
+#new_text=P499373
+FORM	SEGM	XPOSTAG	XPOSTAG	POS
+2(disz)	2(disz)[one]	NU	NU	D
+sila3	sila[unit]	N	N	D
+kasz	kasz[beer]	N	N	D
+...	_[_]	PN	N	D
+kal-la	Kala[1]	PN	PN	D
+lu2	lu[person]	N	N	D
+x-maszkim	_	PN	PN	Iabcde
+2(disz)	2(disz)[one]	NU	NU	D
+sila3	sila[unit]	N	N	D
+kasz	kasz[beer]	N	N	D
+HAR	_	PN	PN	POS
+x	_[_]	N	N	D
+ur-dam	_	PN	PN.GEN.COP-3-SG	Iabcdef
+dumu	dumu[child]	N	N	D
+ur-{d}nansze	Urnansze[1]	PN	PN	D
+maszkim	maszkim[administrator]	N	N.ABS	D
+inim-{d}szara2	Inimszara[1][-ak][-ra]	PN	PN	D
+sa12-du5	sagDUN[land_recorder][-ak]	N	N	D
+zi-ga	zig[expend]-a	V	NF.V.PT	D
+iti	iti[month]	N	N	D
+ezem-{d}szul-gi	Ezemszulgir[1][-'a]	MN	MN.L1	D
+mu	mu[year]	N	N	D
+en	en[priest]	N	N	D
+eridu{ki}	Eridug[1][-ak][-ø]	SN	SN.GEN.ABS	D
+ba-a-hun	ba-hug[hire][-ø]	V	MID.V.3-SG-S	D

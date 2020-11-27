@@ -1,0 +1,21 @@
+#new_text=P200739
+FORM	SEGM	XPOSTAG	XPOSTAG	POS
+1(u)	1(u)[ten]	NU	NU	D
+2(disz)	2(disz)[one]	NU	NU	D
+gurusz	gurusz[male]	N	N	D
+u4	ud[day]	N	N	D
+1(disz)-sze3	1(disz)[one]-sze	NU	NU.TERM	D
+ka	kag[mouth]	N	N	D
+i7	id[river]	N	N	D
+ma2-gur8-ra	_	N	N	POS
+sahar	sahar[earth][-ø]	N	N.GEN	D
+si-ga	sig[load]-a	N	NF.V.PT	D
+ugula	ugula[overseer][-ø]	N	N	D
+lugal-igi-husz	Lugaligihusz[1][-ra]	PN	PN	D
+kiszib3	kiszib[seal]	N	N	D
+{d}szara2-he2-gal2	Szarahegal[1][-ak]	FN	PN.GEN	D
+mu	mu[year]	N	N	D
+us2-sa	us[follow]-a	V	NF.V.PT	D
+bad3	bad[wall]	N	N	D
+...	_[_]	PN	N	D
+ba-du3	ba-du[build][-ø]	V	MID.V.3-SG-S	D

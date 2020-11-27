@@ -1,0 +1,17 @@
+#new_text=P100085
+FORM	SEGM	XPOSTAG	XPOSTAG	POS
+2(gesz2)	2(gesz)[sixty]	NU	NU	D
+3(asz)	3(asz)[one]	NU	NU	D
+sze	sze[barley]	N	N	D
+gur	gur[unit]	N	N	D
+1(gesz2)	1(gesz)[sixty]	NU	NU	D
+1(u)	1(u)[ten]	NU	NU	D
+5(disz)	5(disz)[one]	NU	NU	D
+sila3-ta	sila[unit]-ta	N	N.ABL	D
+sze	sze[barley]	N	N	D
+gub-ba	gub[assigned]-a[-ak][-ø]	V	NF.V.PT	D
+ki	ki[place]	N	N	D
+da-da-ta	Dada[1][-ak]-ta	PN	PN.GEN.ABL	D
+x	_[_]	N	N	D
+...	_[_]	PN	N	D
+x-ka	_	DN	DN	POS

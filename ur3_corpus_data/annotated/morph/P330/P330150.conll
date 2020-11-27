@@ -1,0 +1,26 @@
+#new_text=P330150
+FORM	SEGM	XPOSTAG	XPOSTAG	POS
+n	_(_)[_]	NU	NU	D
+...	_[_]	PN	N	D
+sze	sze[barley]	N	N	D
+...	_[_]	PN	N	D
+ma2	ma[ship]	N	N	D
+si-ga	sig[load]-a	N	NF.V.PT	D
+ki	ki[place]	N	N	D
+SI-A-a-ta	_	PN	PN.GEN.ABL	Iabcdef
+a-bu-um-dingir	_	PN	PN	Iabcde
+dumu	dumu[child]	N	N	D
+ku-bu-nu-um	_	PN	PN	Ia
+szu	szu[hand][-e]	N	N.L3-NH	D
+ba-ti	ba[-n]-teg[accept][-ø]	V	MID.3-SG-H-A.V.3-SG-P	D
+igi	igi[eye][-ø]	N	N	D
+ba-kum-sze3	_	V	MID.L2.V.3-SG-S.TERM	Iabcdefg
+igi	igi[eye][-ø]	N	N	D
+x-ur-gu	_	DN	DN	POS
+iti	iti[month]	N	N	D
+nig2-{d}en-lil2-la2	_	MN	MN	POS
+mu	mu[year]	N	N	D
+{d}i-bi2-{d}suen	Ibbisuen[1]	RN	RN	D
+lugal	lugal[king]	N	N	D
+a-bu-um-dingir-ma	_	PN	PN.DAT-H	Iab
+dub-sar	dubsar[scribe]	N	N	D

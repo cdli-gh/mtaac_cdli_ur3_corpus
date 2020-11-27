@@ -1,0 +1,16 @@
+#new_text=P139117
+FORM	SEGM	XPOSTAG	XPOSTAG	POS
+2(disz)	2(disz)[one]	NU	NU	D
+sila3	sila[unit]	N	N	D
+i3-gesz	igesz[oil]	V	N	D
+lugal-x-x-x	_	PN	PN.DAT-H	Iabcdefgh
+2(disz)	2(disz)[one]	NU	NU	D
+sila3	sila[unit]	N	N	D
+ku3-{d}x	_	PN	PN	Iabcdefgh
+lu2	lu[person]	N	N	D
+TAG-x	_	 	 	POS
+ki	ki[place]	N	N	D
+ga-ti-e-ta	_	PN	PN.GEN.ABL	Iab
+...	_[_]	PN	N	D
+szu	szu[hand][-e]	N	N.L3-NH	D
+ba-an-ti	ba-n-teg[accept][-ø]	V	MID.3-SG-H-A.V.3-SG-P	D

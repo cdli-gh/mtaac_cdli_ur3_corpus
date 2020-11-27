@@ -1,0 +1,26 @@
+#new_text=P100601
+FORM	SEGM	XPOSTAG	XPOSTAG	POS
+4(u)	4(u)[ten]	NU	NU	D
+8(disz)	8(disz)[one]	NU	NU	D
+geme2	geme[female_worker]	N	N	D
+3(ban2)	3(ban)[unit]	NU	N	D
+u4	ud[day]	N	N	D
+1(disz)-sze3	1(disz)[one]-sze	NU	NU.TERM	D
+e2-usz-bar	_	N	N.TERM	Iabcdefgh
+ur4-a	_	V	NF.V.PT	Iabcdefgh
+ki	ki[place]	N	N	D
+ur-{d}nin-tu-ta	_	PN	PN.GEN.ABL	Iab
+da-da-ga	Dadaga[1][-ak]	PN	PN	D
+i3-dab5	i[-n]-dab[seize][-ø]	V	FIN.3-SG-H-A.V.3-SG-P	D
+kiszib3	kiszib[seal]	N	N	D
+a-du	Adu[1][-ak]	PN	PN.GEN	D
+sza3	szag[heart]	N	N	D
+bala-a	bala[tax][-ak]-'a	N	N.GEN.L1	D
+mu	mu[year]	N	N	D
+ha-ar-szi	Harszi[1][-ø]	PN	SN.ABS	D
+ki-masz{ki}	Kimasz[1]	SN	SN.ABS	D
+ba-hul	ba-hulu[destroy][-ø]	V	MID.V.3-SG-S	D
+...	_[_]	PN	N	D
+dub-sar	dubsar[scribe]	N	N	D
+dumu	dumu[child]	N	N	D
+ur-...	_[1][-ak]	PN	PN.GEN.ABS	D

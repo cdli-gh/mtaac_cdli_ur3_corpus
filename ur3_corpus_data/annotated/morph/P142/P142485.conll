@@ -1,0 +1,22 @@
+#new_text=P142485
+FORM	SEGM	XPOSTAG	XPOSTAG	POS
+4(u)	4(u)[ten]	NU	NU	D
+6(disz)	6(disz)[one][-sze]	NU	NU	D
+{gesz}pesz3	pesz[fig]	N	N	D
+ma2	ma[ship]	N	N	D
+2(u)	2(u)[ten]	NU	NU	D
+{gesz}u3-suh5	usuh[tree]	N	N	D
+{gesz}|GU2xESZ|-ga	_	N	N	Ia
+e2-masz-ta	_	GN	GN	POS
+ki	ki[place]	N	N	D
+ur-sag-ku5-ta	_	PN	PN.GEN.ABL	Iabcdefg
+2(disz)	2(disz)[one]	NU	NU	D
+{gesz}murgu2	_	N	N	Ia
+geszimmar	gesznimbar[date_palm][-ak]	N	N.GEN	D
+ki	ki[place]	N	N	D
+lu2-me-lam2-ta	_	PN	PN.GEN.ABL	Ia
+mar-sa-asz	marsa[military_depot]-sze	PN	N.TERM	D
+mu	mu[year]	N	N	D
+hu-uh2-nu-ri{ki}	Huhnuri[1][-ø]	GN	SN.ABS	D
+nu-ri-ki	_	GN	GN	POS
+ba-hul	ba-hulu[destroy][-ø]	V	MID.V.3-SG-S	D

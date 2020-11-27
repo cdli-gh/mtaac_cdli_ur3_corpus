@@ -1,0 +1,23 @@
+#new_text=P337729
+FORM	SEGM	XPOSTAG	XPOSTAG	POS
+1(asz)	1(asz)[one]	NU	NU	D
+sze	sze[barley]	N	N	D
+gur	gur[unit]	N	N	D
+lugal	lugal[king]	N	N	D
+sza3-gal	szaggal[food]	N	N	D
+{ansze}kunga2	kunga[equid_type][-ak][-ø]	N	N.GEN.ABS	D
+e2-kikken-ta	_	TN	TN	POS
+ki	ki[place]	N	N	D
+ARAD2-ta	Arad[1][-ak]-ta	PN	PN.GEN.ABL	D
+kiszib3	kiszib[seal]	N	N	D
+igi-{d}szara2-sze3	Igiszarasze[1][-ak]	PN	PN.GEN	D
+iti	iti[month]	N	N	D
+ezem-{d}szul-gi	Ezemszulgir[1][-'a]	MN	MN.L1	D
+mu	mu[year]	N	N	D
+ku3	kug[silver]	N	N	D
+gu-za	guza[chair][-ø]	N	N	D
+{d}en-lil2-la2	Enlil[1][-ak][-ø]	DN	DN.GEN	D
+ba-dim2	ba-dim[create][-ø]	V	MID.V.3-SG-S	D
+igi-{d}szara2-sze3	Igiszarasze[1][-ak]	PN	PN.GEN	D
+ARAD2	arad[slave]	N	N	D
+{d}szara2	Szara[1][-ak]	DN	DN	D

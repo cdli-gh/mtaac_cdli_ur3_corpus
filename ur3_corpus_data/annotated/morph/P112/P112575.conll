@@ -1,0 +1,36 @@
+#new_text=P112575
+FORM	SEGM	XPOSTAG	XPOSTAG	POS
+1(disz)	1(disz)[one]	NU	NU	D
+kusz	kusz[leather]	N	N	D
+gu4	gud[ox]	N	N	D
+u2-hab2	_	PN	PN	Iabcde
+1(disz)	1(disz)[one]	NU	NU	D
+gurusz	gurusz[male]	N	N	D
+u4	ud[day]	N	N	D
+8(disz)-sze3	8(disz)[one]-sze	NU	NU.TERM	D
+ma2-gur8	magur[barge]	N	N	D
+lugal-ka	_	DN	N.GEN.GEN.ABS	D
+nibru{ki}-ta	Nibru[1]-ta	SN	SN.ABL	D
+1(disz)	1(disz)[one]	NU	NU	D
+kusz	kusz[leather]	N	N	D
+udu	udu[sheep]	N	N	D
+babbar2	_	FN	FN	POS
+{kusz}du10-gan	duggan[leather_bag]	N	N	D
+la-um-sze3	_	N	N	POS
+1(disz)	1(disz)[one]	NU	NU	D
+{kusz}du10-gan	duggan[leather_bag]	N	N	D
+dabin	dabin[semolina]	N	N	D
+...	_[_]	PN	N	D
+1(disz)	1(disz)[one]	NU	NU	D
+{kusz}du10-gan	duggan[leather_bag]	N	N	D
+gesztin	gesztin[vine]	N	N	D
+da-ne-...	_	 	 	POS
+x	_[_]	N	N	D
+{kusz}du10-gan	duggan[leather_bag]	N	N	D
+...	_[_]	PN	N	D
+da-da-ga	Dadaga[1][-ak]	PN	PN	D
+mu	mu[year]	N	N	D
+en	en[priest]	N	N	D
+{d}nanna	Nanna[1][-ak]	DN	DN	D
+masz-e	masz[goat]-e	N	N.L3-NH	D
+i3-pa3	i-pad[find][-ø]	V	FIN.V.3-SG-S	D

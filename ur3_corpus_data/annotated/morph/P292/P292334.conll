@@ -1,0 +1,20 @@
+#new_text=P292334
+FORM	SEGM	XPOSTAG	XPOSTAG	POS
+1(gesz2)	1(gesz)[sixty]	NU	NU	D
+3(u)	3(u)[ten]	NU	NU	D
+6(disz)	6(disz)[one][-sze]	NU	NU	D
+ur2	_	N	N	POS
+{gesz}{d}nisaba	_	PN	PN.GEN	Iabcdefgh
+3(u)	3(u)[ten]	NU	NU	D
+6(disz)	6(disz)[one][-sze]	NU	NU	D
+{gesz}ab	_	N	N	Ia
+{gesz}dim2	_	N	N.ABS	Iabcdefghij
+pu2-sza-la	_	N	N	POS
+anzu2{muszen}	_	DN	DN	POS
+ki	ki[place]	N	N	D
+ur-nigar{gar}-ta	Urnigar[1][-ak]-ta	PN	PN.GEN.ABL	D
+ur-{d}szara2	Urszara[1]	PN	PN	D
+i3-dab5	i[-n]-dab[seize][-ø]	V	FIN.3-SG-H-A.V.3-SG-P	D
+mu	mu[year]	N	N	D
+si-mu-ru-um	Simurum[1]	GN	SN	D
+ba-hul-a	ba-hulu[destroy][-ø]-a	V	MID.V.3-SG-S.SUB	D

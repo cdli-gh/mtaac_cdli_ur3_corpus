@@ -1,0 +1,25 @@
+#new_text=P139777
+FORM	SEGM	XPOSTAG	XPOSTAG	POS
+1(gesz2)	1(gesz)[sixty]	NU	NU	D
+6(disz)	6(disz)[one][-sze]	NU	NU	D
+gurusz	gurusz[male]	N	N	D
+u4	ud[day]	N	N	D
+2(disz)-sze3	2(disz)[one]-sze	NU	NU.TERM	D
+sze	sze[barley]	N	N	D
+gesz	gesz[tree]	N	N	D
+ra-a	ra[beat]-a	V	NF.V.PT	D
+ki-su7	kisur[threshing_floor]	N	N	D
+gu2-de3-na-ka	_	GN	GN	POS
+gub-ba	gub[assigned]-a[-ak][-ø]	V	NF.V.PT	D
+ugula	ugula[overseer][-ø]	N	N	D
+lu2-bala-saga	_	PN	PN	Ia
+kiszib3	kiszib[seal]	N	N	D
+lugal-ku3-zu	Lugalkuzu[1]	PN	PN	D
+mu	mu[year]	N	N	D
+{d}szu-{d}suen	Szusuen[1]	RN	RN	D
+lugal	lugal[king]	N	N	D
+lugal-ku3-zu	Lugalkuzu[1]	PN	PN	D
+dub-sar	dubsar[scribe]	N	N	D
+dumu	dumu[child]	N	N	D
+ur-nigar{gar}	Urnigar[1]	PN	PN	D
+szusz3	kusz[cattle_manager][-ak]	N	N.GEN	D

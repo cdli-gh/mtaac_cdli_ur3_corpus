@@ -1,0 +1,27 @@
+#new_text=P139908
+FORM	SEGM	XPOSTAG	XPOSTAG	POS
+1(asz)	1(asz)[one]	NU	NU	D
+1(barig)	1(bariga)[unit]	NU	N	D
+sze	sze[barley]	N	N	D
+gur	gur[unit]	N	N	D
+sze	sze[barley]	N	N	D
+kasz	kasz[beer]	N	N	D
+mu-kux(DU)	mukur[delivery][-ø]	N	N	D
+1(asz)	1(asz)[one]	NU	NU	D
+1(barig)	1(bariga)[unit]	NU	N	D
+gur	gur[unit]	N	N	D
+nig2-diri	_	N	N	POS
+gu3-de2	_	PN	PN	Iabcde
+du-u2-du11	Du'udu[1]	PN	PN	D
+igi-du8	igidua[priestess][-ak]	N	N.GEN	D
+ki	ki[place]	N	N	D
+ka-sa6-ta	_	PN	PN.GEN.ABL	Iabcdefgh
+kiszib3	kiszib[seal]	N	N	D
+lugal-nir	Lugalnir[1][-ak][-ta]	PN	PN	D
+mu	mu[year]	N	N	D
+{d}szu-{d}suen	Szusuen[1]	RN	RN	D
+lugal-nir	Lugalnir[1][-ak][-ta]	PN	PN	D
+dub-sar	dubsar[scribe]	N	N	D
+dumu	dumu[child]	N	N	D
+ur-{d}szara2	Urszara[1]	PN	PN	D
+sza13-dub-ba-ka	bisagdubak[archivist][-ak]	N	N.GEN	D

@@ -1,0 +1,20 @@
+#new_text=P136397
+FORM	SEGM	XPOSTAG	XPOSTAG	POS
+1(u)	1(u)[ten]	NU	NU	D
+3(disz)	3(disz)[one]	NU	NU	D
+dug	dug[pot]	N	N	D
+ninda	ninda[bread]	N	N	D
+5(disz)	5(disz)[one]	NU	NU	D
+sila3	sila[unit]	N	N	D
+4(disz)	4(disz)[one]	NU	NU	D
+dug	dug[pot]	N	N	D
+ninda	ninda[bread]	N	N	D
+4(disz)	4(disz)[one]	NU	NU	D
+sila3	sila[unit]	N	N	D
+ezem	ezem[festival]	N	N	D
+{d}szul-gi	Szulgir[1]	RN	RN	D
+ba-ak	_	V	V	POS
+ur-{d}nin-gubalag	_	PN	PN	Iabcdefgh
+i3-zi	_	V	V	POS
+iti	iti[month]	N	N	D
+ezem-{d}szul-gi	Ezemszulgir[1][-'a]	MN	MN.L1	D

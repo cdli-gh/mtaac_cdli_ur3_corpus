@@ -1,0 +1,22 @@
+#new_text=P133277
+FORM	SEGM	XPOSTAG	XPOSTAG	POS
+8(asz)	8(asz)[one]	NU	NU	D
+2(barig)	2(bariga)[unit]	NU	N	D
+sze	sze[barley]	N	N	D
+gur	gur[unit]	N	N	D
+lugal	lugal[king]	N	N	D
+erin2	erin[people]	N	N	D
+e2	e[house]	N	N	D
+{d}nansze-me	_	DN	DN.GEN.DAT-H	Iabcdefg
+ma2	ma[ship]	N	N	D
+{d}nin-mar{ki}-ka-ta	_	DN	DN.GEN.GEN.GEN.ABL	Iabcdefg
+ur-{d}al-la	_	PN	PN	Iabcde
+szu	szu[hand][-e]	N	N.L3-NH	D
+ba-ti	ba[-n]-teg[accept][-ø]	V	MID.3-SG-H-A.V.3-SG-P	D
+iti	iti[month]	N	N	D
+diri	diri[intercalary_month]	N	N	D
+sze-sag11-ku5	Szesagku[1][-'a]	MN	MN.L1	D
+mu	mu[year]	N	N	D
+en	en[priest]	N	N	D
+ga-esz{ki}	Ga'esz[1][-ak][-ø]	SN	SN.GEN.ABS	D
+ba-hun	ba-hug[hire][-ø]	V	MID.V.3-SG-S	D

@@ -1,0 +1,25 @@
+#new_text=P118270
+FORM	SEGM	XPOSTAG	XPOSTAG	POS
+8(gesz2)	8(gesz2)[sixty]	NU	NU	D
+5(u)	5(u)[ten]	NU	NU	D
+5(asz)	5(asz)[one]	NU	NU	D
+gu2	gun[unit]	N	N	D
+esir2	esir[bitumen]	N	N	D
+hur-sag	_	N	N	D
+1(gesz2)	1(gesz)[sixty]	NU	NU	D
+1(u)	1(u)[ten]	NU	NU	D
+{gesz}mar-da-um	_	N	N	POS
+{gesz}ma-nu	manu[wood_type][-ø]	FN	N.ABS	D
+e2	e[house]	N	N	D
+szu-szum2-ma	szuszuma[consignment][-ak]	N	N.GEN	D
+u4	ud[day]	N	N	D
+2(disz)-kam	2(disz)[one]-ak-am	NU	NU.GEN.COP-3-SG	D
+giri3	giri[foot]	N	N	D
+{d}szara2-mu-tum2	_	PN	PN	Iabcdefgh
+szesz-a-ni	Szeszani[1][-ak]	PN	PN	D
+iti	iti[month]	N	N	D
+pa4-u2-e	Pa'u'e[1][-'a]	MN	MN.L1	D
+mu	mu[year]	N	N	D
+en	en[priest]	N	N	D
+eridu{ki}	Eridug[1][-ak][-ø]	SN	SN.GEN.ABS	D
+ba-hun	ba-hug[hire][-ø]	V	MID.V.3-SG-S	D

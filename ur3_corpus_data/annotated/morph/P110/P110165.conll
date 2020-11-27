@@ -1,0 +1,25 @@
+#new_text=P110165
+FORM	SEGM	XPOSTAG	XPOSTAG	POS
+4(u)	4(u)[ten]	NU	NU	D
+3(disz)	3(disz)[one]	NU	NU	D
+uz-tur	_	PN	PN	POS
+a2	a[time]	N	N	D
+gesz-gar-ra	geszgar[assign]-a	N	NF.V.PT	D
+{d}inanna-ka	_	PN	PN.ABS	D
+ki	ki[place]	N	N	D
+gu3-de2-a-ta	_	PN	PN.GEN.ABL	Iabcdef
+kiszib3	kiszib[seal]	N	N	D
+lu2-dingir-ra	Ludingira[1][-ra]	PN	PN	D
+dumu	dumu[child]	N	N	D
+ab-ba-mu	Abbamu[1][-ak][-ak]	PN	PN.GEN.GEN	D
+iti	iti[month]	N	N	D
+ezem-{d}ba-ba6	Ezembaba[1][-'a]	MN	MN.L1	D
+mu	mu[year]	N	N	D
+en	en[priest]	N	N	D
+{d}inanna	Inanna[1][-ak]	DN	DN	D
+unu{ki}	Unug[1][-ak][-ak][-ø]	SN	SN.GEN.L1	D
+masz-e	masz[goat]-e	N	N.L3-NH	D
+i3-pa3	i-pad[find][-ø]	V	FIN.V.3-SG-S	D
+...	_[_]	PN	N	D
+...-{d}inanna	_	PN	PN	Iabcde
+x	_[_]	N	N	D

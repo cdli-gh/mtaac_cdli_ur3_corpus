@@ -1,0 +1,18 @@
+#new_text=P333760
+FORM	SEGM	XPOSTAG	XPOSTAG	POS
+1(u)	1(u)[ten]	NU	NU	D
+gurusz	gurusz[male]	N	N	D
+x	_[_]	N	N	D
+u4	ud[day]	N	N	D
+1(u)	1(u)[ten]	NU	NU	D
+5(disz)-ta	_	NU	NU.ABL	Iab
+x-x-{d}amar-{d}suen-sze3	_	DN	DN	POS
+ki	ki[place]	N	N	D
+x-x-da	_	PN	PN	Ia
+iti	iti[month]	N	N	D
+szu-gar-gal	Szugargal[1][-'a]	MN	MN.L1	D
+mu	mu[year]	N	N	D
+us2-sa	us[follow]-a	V	NF.V.PT	D
+en	en[priest]	N	N	D
+eridu{ki}	Eridug[1][-ak][-ø]	SN	SN.GEN.ABS	D
+ba-hun	ba-hug[hire][-ø]	V	MID.V.3-SG-S	D

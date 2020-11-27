@@ -1,0 +1,27 @@
+#new_text=P105292
+FORM	SEGM	XPOSTAG	XPOSTAG	POS
+4(gesz2)	4(gesz)[sixty]	NU	NU	D
+5(disz)	5(disz)[one]	NU	NU	D
+geme2	geme[female_worker]	N	N	D
+u4	ud[day]	N	N	D
+1(disz)-sze3	1(disz)[one]-sze	NU	NU.TERM	D
+...	_[_]	PN	N	D
+du	gin[quality_designation][-ø]	V	NF.V.ABS	D
+a	a[water][-ø]	N	N.ABS	D
+ga2	ga[house]	N	N	D
+...	_[_]	PN	N	D
+x	_[_]	N	N	D
+gub-ba	gub[assigned]-a[-ak][-ø]	V	NF.V.PT	D
+...	_[_]	PN	N	D
+x	_[_]	N	N	D
+saga	saga[good][-ø]	V	NF.V.ABS	D
+kiszib3	kiszib[seal]	N	N	D
+lu2-{d}ha-ia3(IR)	_	NU	NU	POS
+iti	iti[month]	N	N	D
+{d}dumu-zi	Dumuzi[1][-'a]	MN	MN.L1	D
+mu	mu[year]	N	N	D
+en	en[priest]	N	N	D
+{d}inanna	Inanna[1][-ak]	DN	DN	D
+unu{ki}	Unug[1][-ak][-ak][-ø]	SN	SN.GEN.L1	D
+masz2-e	masz[goat]-e	N	N.L3-NH	D
+i3-pa3	i-pad[find][-ø]	V	FIN.V.3-SG-S	D

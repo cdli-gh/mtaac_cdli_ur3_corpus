@@ -1,0 +1,21 @@
+#new_text=P209341
+FORM	SEGM	XPOSTAG	XPOSTAG	POS
+4(asz)	4(asz)[one]	NU	NU	D
+2(barig)	2(bariga)[unit]	NU	N	D
+sze	sze[barley]	N	N	D
+gur	gur[unit]	N	N	D
+lugal	lugal[king]	N	N	D
+KA	ka[mouth]	N	N	D
+iri	iri[city]	N	N	D
+ur-nigar{gar}	Urnigar[1]	PN	PN	D
+dam-gar3	damgar[merchant][-ak]	N	N	D
+ugu2	ugu[capital]	N	N	D
+al-la	Alla[1]	PN	PN	D
+ensi2-ka	ensik[ruler]-ak	N	N.GEN	D
+ga2-ga2-dam	gar-gar[place]-ed-am	V	NF.V.RDP.F.COP-3-SG	D
+ma-ni-ra	_	PN	PN	POS
+zi-zi-dam	_	V	V	POS
+mu	mu[year]	N	N	D
+en	en[priest]	N	N	D
+eridu{ki}	Eridug[1][-ak][-ø]	SN	SN.GEN.ABS	D
+ba-a-hun	ba-hug[hire][-ø]	V	MID.V.3-SG-S	D

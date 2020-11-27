@@ -1,0 +1,22 @@
+#new_text=P101920
+FORM	SEGM	XPOSTAG	XPOSTAG	POS
+1(gesz'u)	1(gesz'u)[six_hundred]	NU	NU	D
+2(gesz2)	2(gesz)[sixty]	NU	NU	D
+5(u)	5(u)[ten]	NU	NU	D
+7(asz)	7(asz)[one]	NU	NU	D
+2(barig)	2(bariga)[unit]	NU	N	D
+x	_[_]	N	N	D
+sze	sze[barley]	N	N	D
+gur	gur[unit]	N	N	D
+si-sa2	_	V	V	POS
+ur-e2-an-na	_	PN	PN	D
+engar	engar[farmer]	N	N	D
+x	_[_]	N	N	D
+x	_[_]	N	N	D
+iri-di	_	PN	PN	POS
+nu-banda3-gu4	nubandagu[ox_overseer][-ak][-ak][-ak]	N	N	D
+sze	sze[barley]	N	N	D
+gesz	gesz[tree]	N	N	D
+e3-a	e[leave]-a	V	NF.V.PT	D
+a-sza3	aszag[field]	N	N	D
+{d}nin-gir2-su-a2-zi-da-{d}nansze	_	FN	FN	POS

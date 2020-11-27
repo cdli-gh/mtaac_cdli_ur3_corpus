@@ -1,0 +1,26 @@
+#new_text=P102740
+FORM	SEGM	XPOSTAG	XPOSTAG	POS
+1(u)	1(u)[ten]	NU	NU	D
+gurusz	gurusz[male]	N	N	D
+nagar	nagar[carpenter]	N	N	D
+iti	iti[month]	N	N	D
+2(disz)	2(disz)[one]	NU	NU	D
+u4	ud[day]	N	N	D
+3(disz)-sze3	3(disz)[one]-sze	NU	NU.TERM	D
+{d}lamma	_	N	N	D
+{d}szu-{d}suen	Szusuen[1]	RN	RN	D
+ak	ak[excavate][-a][-ak]	V	NF.V.PT	D
+sza3	szag[heart]	N	N	D
+e2-masz	_	FN	FN	POS
+ugula	ugula[overseer][-ø]	N	N	D
+a-gu	Agu[1][-ak]	PN	PN	D
+kiszib3	kiszib[seal]	N	N	D
+nam-sza3-tam	namszatam[administration]	N	N	D
+{d}szara2-kam	Szarakam[1]	PN	PN	D
+mu	mu[year]	N	N	D
+{d}szu-{d}suen	Szusuen[1]	RN	RN	D
+lugal	lugal[king]	N	N	D
+{d}szara2-kam	Szarakam[1]	PN	PN	D
+dub-sar	dubsar[scribe]	N	N	D
+dumu	dumu[child]	N	N	D
+lugal-{gesz}kiri6	Lugalkiri[1]	PN	PN	D

@@ -1,0 +1,27 @@
+#new_text=P121422
+FORM	SEGM	XPOSTAG	XPOSTAG	POS
+1(ban2)	1(ban)[unit]	NU	N	D
+2(disz)	2(disz)[one]	NU	NU	D
+sila3	sila[unit]	N	N	D
+esza	esza[flour]	N	N	D
+1(ban2)	1(ban)[unit]	NU	N	D
+5(disz)	5(disz)[one]	NU	NU	D
+sila3	sila[unit]	N	N	D
+zi3	zid[flour]	N	N	D
+sig15	sig[flour_type]	V	N	D
+3(ban2)	3(ban)[unit]	NU	N	D
+3(disz)	3(disz)[one]	NU	NU	D
+sila3	sila[unit]	N	N	D
+dabin	dabin[semolina]	N	N	D
+ki	ki[place]	N	N	D
+im-ti-dam-ta	_	PN	PN.GEN.ABL	Iabcdefgh
+kiszib3	kiszib[seal]	N	N	D
+ur-e2-an-na	_	PN	PN	D
+x	_[_]	N	N	D
+...	_[_]	PN	N	D
+1(asz)	1(asz)[one]	NU	NU	D
+...	_[_]	PN	N	D
+ur-e2-an-na	_	PN	PN	D
+dub-sar	dubsar[scribe]	N	N	D
+dumu	dumu[child]	N	N	D
+li-bur-be-li2	_	PN	PN.GEN.ABS	Iab

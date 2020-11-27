@@ -1,0 +1,22 @@
+#new_text=P303590
+FORM	SEGM	XPOSTAG	XPOSTAG	POS
+1(u)	1(u)[ten]	NU	NU	D
+3(disz)	3(disz)[one]	NU	NU	D
+gurusz	gurusz[male]	N	N	D
+u4	ud[day]	N	N	D
+4(disz)-sze3	4(disz)[one]-sze	NU	NU.TERM	D
+i7	id[river]	N	N	D
+{d}nin-nig2-gal-sag	_	WN	WN	POS
+a	a[water][-ø]	N	N.ABS	D
+u3-usz2-a	_	V	ANT.3-SG-H-A.V.3-SG-P	Iabcdefghi
+ugula	ugula[overseer][-ø]	N	N	D
+lugal-ma2-gur8-re	Lugalmagure[1][-ø]	PN	PN	D
+giri3	giri[foot]	N	N	D
+ur-{d}en-lil2-la2	Urenlilak[1][-ak][-'a]	PN	PN.DAT-H	D
+mu	mu[year]	N	N	D
+ki-masz{ki}	Kimasz[1]	SN	SN.ABS	D
+ba-hul	ba-hulu[destroy][-ø]	V	MID.V.3-SG-S	D
+ur-{d}en-lil2-la2	Urenlilak[1][-ak][-'a]	PN	PN.DAT-H	D
+dub-sar	dubsar[scribe]	N	N	D
+dumu	dumu[child]	N	N	D
+lugal-ku3-ga-ni	Lugalkugani[1][-ak]	PN	PN.GEN	D

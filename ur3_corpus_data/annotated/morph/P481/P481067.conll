@@ -1,0 +1,24 @@
+#new_text=P481067
+FORM	SEGM	XPOSTAG	XPOSTAG	POS
+1(u)	1(u)[ten]	NU	NU	D
+2(asz)	2(asz)[one]	NU	NU	D
+sze	sze[barley]	N	N	D
+gur	gur[unit]	N	N	D
+lugal	lugal[king]	N	N	D
+diri	diri[intercalary_month]	N	N	D
+nig2-ka9-ak	nigSZID[account]	N	N	D
+mu	mu[year]	N	N	D
+bad3	bad[wall]	N	N	D
+ma-da	mada[land][-ak][-ø]	N	N	D
+ba-du3-ta	ba-du[build][-ø]-ta	V	MID.V.3-SG-S.ABL	D
+mu	mu[year]	N	N	D
+us2-sa	us[follow]-a	V	NF.V.PT	D
+e2	e[house]	N	N	D
+puzur4-isz-{d}da-gan	Puzuriszdagan[1][-ø]	SN	SN.ABS	D
+ba-du3-sze3	_	V	V	POS
+ki	ki[place]	N	N	D
+szesz-kal-la-ta	Szeszkala[1][-ak]-ta	N	PN.GEN.ABL	D
+ku-li	Kuli[1]	PN	PN	D
+szu	szu[hand][-e]	N	N.L3-NH	D
+ba-ti	ba[-n]-teg[accept][-ø]	V	MID.3-SG-H-A.V.3-SG-P	D
+su-su-dam	sug-sug[repay]-ed[-ø]-am	PN	NF.V.RDP.F.ABS.COP-3-SG	D

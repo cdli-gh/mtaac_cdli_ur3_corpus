@@ -1,0 +1,24 @@
+#new_text=P139150
+FORM	SEGM	XPOSTAG	XPOSTAG	POS
+3(ban2)	3(ban)[unit]	NU	N	D
+dug	dug[pot]	N	N	D
+dida	dida[sweet_wort]	N	N	D
+saga	saga[good][-ø]	V	NF.V.ABS	D
+1(ban2)	1(ban)[unit]	NU	N	D
+5(disz)	5(disz)[one]	NU	NU	D
+dug	dug[pot]	N	N	D
+dida	dida[sweet_wort]	N	N	D
+du	gin[quality_designation][-ø]	V	NF.V.ABS	D
+siskur2	siszkur[offering]	N	N	D
+sza3	szag[heart]	N	N	D
+pad-da	_	V	V	POS
+x	_[_]	N	N	D
+x	_[_]	N	N	D
+4(ban2)	4(ban)[unit]	NU	N	D
+...-DU	_	PN	PN	Iabcdefgh
+...	_[_]	PN	N	D
+x	_[_]	N	N	D
+...	_[_]	PN	N	D
+siskur2	siszkur[offering]	N	N	D
+ma2	ma[ship]	N	N	D
+an-na-ka	_	PN	PN.GEN.GEN.GEN	Iabcdefg

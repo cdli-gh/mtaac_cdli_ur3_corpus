@@ -1,0 +1,23 @@
+#new_text=P120075
+FORM	SEGM	XPOSTAG	XPOSTAG	POS
+1(gesz2)	1(gesz)[sixty]	NU	NU	D
+1(u)	1(u)[ten]	NU	NU	D
+2(disz)	2(disz)[one]	NU	NU	D
+gurusz	gurusz[male]	N	N	D
+u4	ud[day]	N	N	D
+1(disz)-sze3	1(disz)[one]-sze	NU	NU.TERM	D
+kab2-ku5	kabkul[water_installation]	N	N	D
+x	_[_]	N	N	D
+x	_[_]	N	N	D
+...	_[_]	PN	N	D
+gub-ba	gub[assigned]-a[-ak][-ø]	V	NF.V.PT	D
+ugula	ugula[overseer][-ø]	N	N	D
+ur-gu2-...	_	PN	PN	Ia
+mu	mu[year]	N	N	D
+en	en[priest]	N	N	D
+ga-esz{ki}	Ga'esz[1][-ak][-ø]	SN	SN.GEN.ABS	D
+ba-hun	ba-hug[hire][-ø]	V	MID.V.3-SG-S	D
+da-a-ga	_	PN	PN	Ia
+dub-sar	dubsar[scribe]	N	N	D
+dumu	dumu[child]	N	N	D
+ur-gesz-sza3-ga	_	PN	PN	Iabcde

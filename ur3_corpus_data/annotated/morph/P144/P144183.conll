@@ -1,0 +1,24 @@
+#new_text=P144183
+FORM	SEGM	XPOSTAG	XPOSTAG	POS
+3(asz)	3(asz)[one]	NU	NU	D
+1(barig)	1(bariga)[unit]	NU	N	D
+3(ban2)	3(ban)[unit]	NU	N	D
+sze	sze[barley]	N	N	D
+gur	gur[unit]	N	N	D
+sze-ba	szeba[ration]	N	N	D
+mu	mu[year]	N	N	D
+sze	sze[barley]	N	N	D
+ur5-ra-sze3	_	DET	DET	POS
+guru7-a	guru[store]-'a	N	N.L1	D
+tuku-a	_	V	NF.V.PT.GEN	Iabcdef
+lugal-giri17-zal	_	PN	PN	Iabcde
+giri3	giri[foot]	N	N	D
+lu2-dingir-ra	Ludingira[1][-ra]	PN	PN	D
+gu-za-la2	guzala[throne_bearer]	N	N	D
+iti	iti[month]	N	N	D
+ezem-{d}amar-{d}suen	_	MN	MN	Iabcdefgh
+mu	mu[year]	N	N	D
+{d}amar-{d}suen	Amarsuen[1]	RN	RN	D
+lugal	lugal[king]	N	N	D
+sza-asz-szu2-ru	_	V	V	POS
+ba-hul	ba-hulu[destroy][-ø]	V	MID.V.3-SG-S	D

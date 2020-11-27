@@ -1,0 +1,24 @@
+#new_text=P332279
+FORM	SEGM	XPOSTAG	XPOSTAG	POS
+1(asz)	1(asz)[one]	NU	NU	D
+sze	sze[barley]	N	N	D
+gur	gur[unit]	N	N	D
+a2	a[time]	N	N	D
+hun-ga2	hug[hire]-a	V	NF.V.PT	D
+a-sza3	aszag[field]	N	N	D
+gibil-e	_	V	V	POS
+i3-dub	idub[granary]	N	N	D
+a-sza3	aszag[field]	N	N	D
+tir	tir[forester][-ak]	N	N.GEN	D
+ma-nu	manu[wood_type]	FN	N	D
+ki	ki[place]	N	N	D
+{d}lamma-iri-na-ta	_	PN	PN.GEN.ABL	Iab
+kiszib3	kiszib[seal]	N	N	D
+lugal-{gesz}gigir-re	Lugalgigire[1][-ra]	PN	PN.DAT-H	D
+mu	mu[year]	N	N	D
+{d}i-bi2-{d}suen	Ibbisuen[1]	RN	RN	D
+lugal	lugal[king]	N	N	D
+lugal-{gesz}gigir-re	Lugalgigire[1][-ra]	PN	PN.DAT-H	D
+dub-sar	dubsar[scribe]	N	N	D
+dumu	dumu[child]	N	N	D
+lu2-{d}gesz-bar-e3	_	PN	PN	Iabcde

@@ -1,0 +1,14 @@
+#new_text=P384801
+FORM	SEGM	XPOSTAG	XPOSTAG	POS
+5(u)	5(u)[ten]	NU	NU	D
+7(asz)	7(asz)[one]	NU	NU	D
+sze	sze[barley]	N	N	D
+gur	gur[unit]	N	N	D
+lugal	lugal[king]	N	N	D
+numun	numun[seed]	N	N	D
+5(gesz2)	5(gesz)[sixty]	NU	NU	D
+5(u)	5(u)[ten]	NU	NU	D
+5(asz)	5(asz)[one]	NU	NU	D
+3(barig)	3(bariga)[unit]	NU	N	D
+gur	gur[unit]	N	N	D
+e2-kiszib3-ba-sze3	ekiszibak[storeroom]-sze	TN	N.TERM	D

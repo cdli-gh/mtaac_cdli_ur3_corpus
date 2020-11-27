@@ -1,0 +1,24 @@
+#new_text=P340365
+FORM	SEGM	XPOSTAG	XPOSTAG	POS
+1(u)	1(u)[ten]	NU	NU	D
+1(asz)	1(asz)[one]	NU	NU	D
+2(barig)	2(bariga)[unit]	NU	N	D
+3(ban2)	3(ban)[unit]	NU	N	D
+5(disz)	5(disz)[one]	NU	NU	D
+sila3	sila[unit]	N	N	D
+sze	sze[barley]	N	N	D
+gur	gur[unit]	N	N	D
+sila3	sila[unit]	N	N	D
+1(barig)	1(bariga)[unit]	NU	N	D
+1(ban2)	1(ban)[unit]	NU	N	D
+5(disz)	5(disz)[one]	NU	NU	D
+sila3-ta	sila[unit]-ta	N	N.ABL	D
+GAN2	gana[field]	N	N	D
+gal5-la2-gal	_	N	N	POS
+ki	ki[place]	N	N	D
+ba-sa6-ga-ta	_	PN	PN.GEN.ABL	Iab
+e2-kikken	_	TN	TN	POS
+si-ga	sig[load]-a	N	NF.V.PT	D
+mu	mu[year]	N	N	D
+3(disz)-kam	3(disz)[one]-ak-am	NU	NU.GEN.COP-3-SG	D
+us2	us[follow][-ø]	V	NF.V.ABS	D

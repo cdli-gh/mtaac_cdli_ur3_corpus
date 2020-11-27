@@ -1,0 +1,25 @@
+#new_text=P381678
+FORM	SEGM	XPOSTAG	XPOSTAG	POS
+1(u)	1(u)[ten]	NU	NU	D
+5(disz)	5(disz)[one]	NU	NU	D
+ha-bu-da	_	V	V	POS
+uruda	urud[copper][-ak]	N	N	D
+dub-sag	_	N	N	Ia
+5(u)	5(u)[ten]	NU	NU	D
+5(disz)	5(disz)[one]	NU	NU	D
+ha-bu-da	_	V	V	POS
+uruda	urud[copper][-ak]	N	N	D
+szunigin	szunigin[total]	N	N	D
+1(gesz2)	1(gesz)[sixty]	NU	NU	D
+1(u)	1(u)[ten]	NU	NU	D
+ha-bu-da{uruda}	_	V	V	POS
+ki	ki[place]	N	N	D
+ad-da-kal-la-ta	_	PN	PN.GEN.ABL	Iab
+ur-tum-al	_	PN	PN.GEN.DAT-H	Iabcdef
+szu	szu[hand][-e]	N	N.L3-NH	D
+ba-ti	ba[-n]-teg[accept][-ø]	V	MID.3-SG-H-A.V.3-SG-P	D
+mu	mu[year]	N	N	D
+us2-a	us[follow]-a	V	NF.V.PT	D
+bad3	bad[wall]	N	N	D
+mar-tu	Martu[1][-ø]	EN	EN.ABS	D
+ba-du3	ba-du[build][-ø]	V	MID.V.3-SG-S	D

@@ -1,0 +1,25 @@
+#new_text=P330603
+FORM	SEGM	XPOSTAG	XPOSTAG	POS
+2(disz)	2(disz)[one]	NU	NU	D
+gurusz	gurusz[male]	N	N	D
+sza3-gu4	szagu[ox-driver]	PN	N	D
+gu	gu[cord]	N	N	D
+x	_[_]	N	N	D
+ri-ri	_	V	NF.V.PT.GEN	Iabcdef
+u4	ud[day]	N	N	D
+5(u)	5(u)[ten]	NU	NU	D
+5(disz)-sze3	5(disz)[one]-sze	NU	NU.TERM	D
+a-sza3	aszag[field]	N	N	D
+{d}nin-hur-sag-ka	Ninhursag[1]-ak-ak[-ak][-'a]	DN	DN.GEN.L1	D
+u3	u[and]	CNJ	CNJ	D
+a-sza3	aszag[field]	N	N	D
+AB{ki}	_	FN	FN	POS
+ugula	ugula[overseer][-ø]	N	N	D
+lugal-{d}isztaran	_	PN	PN	Iabcde
+mu	mu[year]	N	N	D
+{d}amar-{d}suen	Amarsuen[1]	RN	RN	D
+lugal	lugal[king]	N	N	D
+sza3-ku3-ge	Szakuge[1][-e]	PN	PN.ERG	D
+dub-sar	dubsar[scribe]	N	N	D
+dumu	dumu[child]	N	N	D
+{d}szara2-ga2	_	PN	PN.GEN.L1	Iabcdefgh

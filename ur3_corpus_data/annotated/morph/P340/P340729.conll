@@ -1,0 +1,33 @@
+#new_text=P340729
+FORM	SEGM	XPOSTAG	XPOSTAG	POS
+1(u)	1(u)[ten]	NU	NU	D
+1(disz)	1(disz)[one]	NU	NU	D
+gurusz	gurusz[male]	N	N	D
+u4	ud[day]	N	N	D
+2(disz)-sze3	2(disz)[one]-sze	NU	NU.TERM	D
+e2-masz-a	_	N	N	POS
+siki	siki[wool][-'a]	N	N	D
+la2-a-ta	_	V	NF.V.ABS.ABL	Iabcdef
+u3	u[and]	CNJ	CNJ	D
+sza3-ze2	_	PN	PN	POS
+szid-da	szid[count]-a	V	NF.V.PT	D
+1(u)	1(u)[ten]	NU	NU	D
+1(disz)	1(disz)[one]	NU	NU	D
+gurusz	gurusz[male]	N	N	D
+u4	ud[day]	N	N	D
+1(disz)-sze3	1(disz)[one]-sze	NU	NU.TERM	D
+kam-a-bar-ka	_	PN	PN	POS
+gi	gi[reed][-ø]	N	N	D
+SZID-da	_	 	 	POS
+ugula	ugula[overseer][-ø]	N	N	D
+lu2-dingir-ra	Ludingira[1][-ra]	PN	PN	D
+kiszib3	kiszib[seal]	N	N	D
+a-kal-la	Akala[1]	PN	PN	D
+mu	mu[year]	N	N	D
+sza-asz-szu2-ru{ki}	Szaszszuru[1]	SN	SN	D
+ba-hul	ba-hulu[destroy][-ø]	V	MID.V.3-SG-S	D
+a-kal-la	Akala[1]	PN	PN	D
+dub-sar	dubsar[scribe]	N	N	D
+dumu	dumu[child]	N	N	D
+ur-nigar{gar}	Urnigar[1]	PN	PN	D
+szusz3	kusz[cattle_manager][-ak]	N	N.GEN	D

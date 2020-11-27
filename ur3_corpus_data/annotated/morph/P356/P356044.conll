@@ -1,0 +1,31 @@
+#new_text=P356044
+FORM	SEGM	XPOSTAG	XPOSTAG	POS
+2(disz)	2(disz)[one]	NU	NU	D
+sila3	sila[unit]	N	N	D
+kasz	kasz[beer]	N	N	D
+2(disz)	2(disz)[one]	NU	NU	D
+sila3	sila[unit]	N	N	D
+ninda	ninda[bread]	N	N	D
+2(disz)	2(disz)[one]	NU	NU	D
+gin2	gig[unit]	N	N	D
+i3	i[oil]	N	N	D
+bu-la-lum	_	PN	PN	Iabcde
+lu2	lu[person]	N	N	D
+kas4	kas[runner][-ra]	N	N.DAT-H	D
+a-dam-szah2{ki}-ta	_	SN	SN.GEN.ABL	Iabcdef
+du-ni	du[go][-ed]-ani[-'a]	V	NF.V.PF.F.3-SG-H-POSS.L1	D
+2(disz)	2(disz)[one]	NU	NU	D
+sila3	sila[unit]	N	N	D
+kasz	kasz[beer]	N	N	D
+2(disz)	2(disz)[one]	NU	NU	D
+sila3	sila[unit]	N	N	D
+ninda	ninda[bread]	N	N	D
+2(disz)	2(disz)[one]	NU	NU	D
+gin2	gig[unit]	N	N	D
+i3	i[oil]	N	N	D
+sza3-iri	Sza'iri[1][-ra]	PN	PN.DAT-H	D
+...	_[_]	PN	N	D
+RA	_	 	 	POS
+u4	ud[day]	N	N	D
+5(disz)	5(disz)[one]	NU	NU	D
+ba-zal	ba-zal[pass][-ø][-a][-'a]	V	MID.V.3-SG-S.SUB	D

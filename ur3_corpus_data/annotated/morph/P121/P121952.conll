@@ -1,0 +1,25 @@
+#new_text=P121952
+FORM	SEGM	XPOSTAG	XPOSTAG	POS
+1(asz)	1(asz)[one]	NU	NU	D
+sze	sze[barley]	N	N	D
+gur	gur[unit]	N	N	D
+lugal	lugal[king]	N	N	D
+e2-kikken-ta	_	TN	TN	POS
+2(asz)	2(asz)[one]	NU	NU	D
+2(ban2)	2(ban)[unit]	NU	N	D
+e2-szu-tum-ta	_	PN	PN.GEN.ABL	Iabcdefgh
+sza3-gal	szaggal[food]	N	N	D
+{ansze}kunga2	kunga[equid_type][-ak][-ø]	N	N.GEN.ABS	D
+ki	ki[place]	N	N	D
+ARAD2-ta	Arad[1][-ak]-ta	PN	PN.GEN.ABL	D
+kiszib3	kiszib[seal]	N	N	D
+{d}szara2-kam	Szarakam[1]	PN	PN	D
+iti	iti[month]	N	N	D
+nesag	Nesag[1][-'a]	N	MN.L1	D
+mu	mu[year]	N	N	D
+us2-sa	us[follow]-a	V	NF.V.PT	D
+{d}amar-{d}suen	Amarsuen[1]	RN	RN	D
+lugal	lugal[king]	N	N	D
+{d}szara2-kam	Szarakam[1]	PN	PN	D
+dumu	dumu[child]	N	N	D
+x-e2-x	_	PN	PN	Ia

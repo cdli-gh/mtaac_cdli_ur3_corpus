@@ -1,0 +1,26 @@
+#new_text=P137157
+FORM	SEGM	XPOSTAG	XPOSTAG	POS
+1(disz)	1(disz)[one]	NU	NU	D
+gesz	gesz[tree]	N	N	D
+...	_[_]	PN	N	D
+1(disz)	1(disz)[one]	NU	NU	D
+{gesz}apin	apin[plow]	N	N	D
+...	_[_]	PN	N	D
+2(disz)	2(disz)[one]	NU	NU	D
+{gesz}x	_	PN	PN	POS
+...	_[_]	PN	N	D
+2(disz)	2(disz)[one]	NU	NU	D
+{gesz}e2-da	_	PN	PN	POS
+a-gid2	_	V	V	POS
+5(disz)	5(disz)[one]	NU	NU	D
+{gesz}u3-suh5	usuh[tree]	N	N	D
+3(u)	3(u)[ten]	NU	NU	D
+5(disz)	5(disz)[one]	NU	NU	D
+{gesz}sag-ga2-ra	_	PN	PN	POS
+n	_(_)[_]	NU	NU	D
+{gesz}bar-da	_	N	N	POS
+gag	_	N	N	Ia
+n	_(_)[_]	NU	NU	D
+{gesz}ig	ig[door]	N	N	D
+dab	_	V	V	POS
+...	_[_]	PN	N	D

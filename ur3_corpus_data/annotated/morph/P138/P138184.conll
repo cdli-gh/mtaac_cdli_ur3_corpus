@@ -1,0 +1,48 @@
+#new_text=P138184
+FORM	SEGM	XPOSTAG	XPOSTAG	POS
+...	_[_]	PN	N	D
+x	_[_]	N	N	D
+...-ab-ba	_	PN	PN	POS
+...	_[_]	PN	N	D
+NA	_	 	 	POS
+IGI	_	 	 	POS
+...	_[_]	PN	N	D
+A	_	 	 	POS
+x	_[_]	N	N	D
+x	_[_]	N	N	D
+...	_[_]	PN	N	D
+...	_[_]	PN	N	D
+...	_[_]	PN	N	D
+x	_[_]	N	N	D
+...	_[_]	PN	N	D
+5(ban2)	5(ban)[unit]	NU	N	D
+a-hu-ba-qar	_	PN	PN	Ia
+...	_[_]	PN	N	D
+...	_[_]	PN	N	D
+x	_[_]	N	N	D
+...	_[_]	PN	N	D
+4(ban2)	4(ban)[unit]	NU	N	D
+{d}ku3-nun	_	PN	PN	POS
+...	_[_]	PN	N	D
+du11-ga-ni-zi	_	V	V	POS
+dumu	dumu[child]	N	N	D
+...	_[_]	PN	N	D
+muszen-du3-me	_	N	N.ABS.COP-3-PL	Iabcde
+	_	_
+giri3-se3-ga	girsiga[attendant]	N	N	D
+{d}nanna	Nanna[1][-ak]	DN	DN	D
+GA	_	 	 	POS
+AN	_[_]	PN	PN.DAT-H	Iabcdefgh
+x	_[_]	N	N	D
+...	_[_]	PN	N	D
+NI	_	PN	PN	POS
+...-ta	_[_]-ta	PN	PN.GEN.ABL	D
+...	_[_]	PN	N	D
+x	_[_]	N	N	D
+NI	_	PN	PN	POS
+...	_[_]	PN	N	D
+AN	_[_]	PN	PN.DAT-H	Iabcdefgh
+...	_[_]	PN	N	D
+x	_[_]	N	N	D
+NI	_	PN	PN	POS
+...-ta	_[_]-ta	PN	PN.GEN.ABL	D

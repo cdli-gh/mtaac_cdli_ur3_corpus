@@ -1,0 +1,21 @@
+#new_text=P104554
+FORM	SEGM	XPOSTAG	XPOSTAG	POS
+...	_[_]	PN	N	D
+x	_[_]	N	N	D
+...-bi	_[1][-e]	PN	PN.ERG	D
+x	_[_]	N	N	D
+...	_[_]	PN	N	D
+x-ta	_	PN	PN.GEN.ABL	Iabcdef
+puzur4-esz18-dar	Puzureszdar[1][-ak][-ra]	PN	PN	D
+szu	szu[hand][-e]	N	N.L3-NH	D
+ba-an-ti	ba-n-teg[accept][-ø]	V	MID.3-SG-H-A.V.3-SG-P	D
+iti	iti[month]	N	N	D
+diri	diri[intercalary_month]	N	N	D
+mu	mu[year]	N	N	D
+{d}szu-{d}suen	Szusuen[1]	RN	RN	D
+lugal	lugal[king]	N	N	D
+puzur4-esz18-dar	Puzureszdar[1][-ak][-ra]	PN	PN	D
+lu2	lu[person]	N	N	D
+...	_[_]	PN	N	D
+ARAD2	arad[slave]	N	N	D
+sza3-ku3-ge	Szakuge[1][-e]	PN	PN.ERG	D

@@ -1,0 +1,27 @@
+#new_text=P481078
+FORM	SEGM	XPOSTAG	XPOSTAG	POS
+2(gesz2)	2(gesz)[sixty]	NU	NU	D
+1(asz)	1(asz)[one]	NU	NU	D
+1(barig)	1(bariga)[unit]	NU	N	D
+3(ban2)	3(ban)[unit]	NU	N	D
+5(disz)	5(disz)[one]	NU	NU	D
+sila3	sila[unit]	N	N	D
+sze	sze[barley]	N	N	D
+gur	gur[unit]	N	N	D
+lugal	lugal[king]	N	N	D
+sze	sze[barley]	N	N	D
+GAN2-gu4	GANAgud[1][-ak]	N	FN.GEN	D
+ba-gi-na-ta	_	V	V	POS
+zi-zi-dam	_	V	V	POS
+9(asz)	9(asz)[one]	NU	NU	D
+3(barig)	3(bariga)[unit]	NU	N	D
+gur	gur[unit]	N	N	D
+sze	sze[barley]	N	N	D
+apin-la2	apinla[tenancy]	N	N	D
+ba-gi-na-ta	_	V	V	POS
+zi-zi-dam	_	V	V	POS
+im	im[clay][-ø]	N	N	D
+lu2-gi-na	Lugina[1][-ak][-ak]	PN	PN.GEN	D
+ba-na-gi-na-ta	_	V	MID.V.3-SG-S.ABL	Iabcdefg
+zi-zi-dam	_	V	V	POS
+mu	mu[year]	N	N	D

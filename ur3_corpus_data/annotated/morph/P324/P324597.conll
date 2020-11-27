@@ -1,0 +1,22 @@
+#new_text=P324597
+FORM	SEGM	XPOSTAG	XPOSTAG	POS
+1(gesz2)	1(gesz)[sixty]	NU	NU	D
+5(u)	5(u)[ten]	NU	NU	D
+3(disz)	3(disz)[one]	NU	NU	D
+sar	sar[unit]	N	N	D
+1(u)	1(u)[ten]	NU	NU	D
+6(disz)	6(disz)[one][-sze]	NU	NU	D
+gin2	gig[unit]	N	N	D
+sig4	szeg[brick]	N	N	D
+bi2-gu7-bi	_	N	N	POS
+nu-zi	nu-zi[cut][-a]	V	NEG.NF.V.PT	D
+...-ir	_	PN	PN.DAT-H	Iabcdef
+2(disz)-kam	2(disz)[one]-ak-am	NU	NU.GEN.COP-3-SG	D
+x-da	_[_]	PN	PN	Ia
+giri3	giri[foot]	N	N	D
+e2-a-szar	_	PN	PN	Ia
+iti	iti[month]	N	N	D
+a2-ki-ti	Akiti[1][-'a]	N	MN.L1	D
+mu	mu[year]	N	N	D
+ma2-gur8-mah	magurmah[great_barge][-ø]	N	N.ABS	D
+ba-dim2	ba-dim[create][-ø]	V	MID.V.3-SG-S	D

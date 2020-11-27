@@ -1,0 +1,21 @@
+#new_text=P110031
+FORM	SEGM	XPOSTAG	XPOSTAG	POS
+1(u)	1(u)[ten]	NU	NU	D
+5(disz)	5(disz)[one]	NU	NU	D
+gu4	gud[ox]	N	N	D
+1(disz)-ta	1(disz)[one]-ta	NU	NU.ABL	D
+2(disz)	2(disz)[one]	NU	NU	D
+ansze	ansze[donkey]	N	N	D
+igi	igi[eye][-ø]	N	N	D
+3(disz)	3(disz)[one]	NU	NU	D
+sila3	sila[unit]	N	N	D
+x	_[_]	N	N	D
+ki	ki[place]	N	N	D
+szid-szid-da	_	PN	PN	POS
+ba-a-gar	ba-e-gar[place][-ø]	V	MID.L2.V.3-SG-S	D
+temen	_	N	N	POS
+ezem-ma	_	N	N	POS
+GAN2-masz-sze3	_	MN	MN.TERM	Iabcdefg
+ba-ta-e3	_	V	MID.3-SG-H.DAT.V.3-SG-S	Iabcdefg
+iti	iti[month]	N	N	D
+GAN2-masz	GANmasz[1][-'a]	MN	MN.L1	D

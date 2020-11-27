@@ -1,0 +1,22 @@
+#new_text=P378438
+FORM	SEGM	XPOSTAG	XPOSTAG	POS
+5(gesz2)	5(gesz)[sixty]	NU	NU	D
+5(u)	5(u)[ten]	NU	NU	D
+9(asz)	9(asz)[one]	NU	NU	D
+3(ban2)	3(ban)[unit]	NU	N	D
+sze	sze[barley]	N	N	D
+gur	gur[unit]	N	N	D
+lugal	lugal[king]	N	N	D
+sze-ba	szeba[ration]	N	N	D
+geme2	geme[female_worker]	N	N	D
+kikken2	_	N	N.GEN.GEN.ABS	D
+u3	u[and]	CNJ	CNJ	D
+he2-dab5	hedab[worker]	V	N.DAT-H	D
+ki	ki[place]	N	N	D
+lugal-igi-husz-ta	_	PN	PN	Iabcdefgh
+lu2-kal-la	Lukala[1][-ra]	PN	PN.GEN	D
+szu	szu[hand][-e]	N	N.L3-NH	D
+ba-ti	ba[-n]-teg[accept][-ø]	V	MID.3-SG-H-A.V.3-SG-P	D
+mu	mu[year]	N	N	D
+sza-asz-ru-um{ki}	Szaszrum[1][-ø]	GN	SN.ABS	D
+ba-hul	ba-hulu[destroy][-ø]	V	MID.V.3-SG-S	D

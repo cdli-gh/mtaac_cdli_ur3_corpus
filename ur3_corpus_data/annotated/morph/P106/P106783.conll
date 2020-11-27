@@ -1,0 +1,13 @@
+#new_text=P106783
+FORM	SEGM	XPOSTAG	XPOSTAG	POS
+3(asz)	3(asz)[one]	NU	NU	D
+4(barig)	4(bariga)[unit]	NU	N	D
+4(ban2)	4(ban)[unit]	NU	N	D
+5(disz)	5(disz)[one]	NU	NU	D
+sila3	sila[unit]	N	N	D
+gig	gig[resin_type]	N	N	D
+gur	gur[unit]	N	N	D
+kiszib3	kiszib[seal]	N	N	D
+a-ab-ba-ta	_	PN	PN.GEN.ABL	Iab
+szu	szu[hand][-e]	N	N.L3-NH	D
+ur3-dam	_	V	V	POS

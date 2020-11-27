@@ -1,0 +1,24 @@
+#new_text=P133732
+FORM	SEGM	XPOSTAG	XPOSTAG	POS
+5(u)	5(u)[ten]	NU	NU	D
+9(disz)	9(disz)[one]	NU	NU	D
+gurusz	gurusz[male]	N	N	D
+iti	iti[month]	N	N	D
+2(disz)-sze3	2(disz)[one]-sze	NU	NU.TERM	D
+lu2	lu[person]	N	N	D
+sa-kisal-me	_	N	N	POS
+3(u)	3(u)[ten]	NU	NU	D
+8(disz)	8(disz)[one]	NU	NU	D
+gurusz	gurusz[male]	N	N	D
+iti	iti[month]	N	N	D
+3(disz)-sze3	3(disz)[one]-sze	NU	NU.TERM	D
+ha-dab5-me	_	N	N.ABS.COP-3-PL	Iabcdefgh
+...	_[_]	PN	N	D
+...	_[_]	PN	N	D
+iti	iti[month]	N	N	D
+munu4-gu7	Munugu[1][-'a]	MN	MN.L1	D
+mu	mu[year]	N	N	D
+en-mah-gal-an-na	Enmahgalana[1]	PN	PN	D
+en	en[priest]	N	N	D
+{d}nanna	Nanna[1][-ak]	DN	DN	D
+ba-a-hun	ba-hug[hire][-ø]	V	MID.V.3-SG-S	D

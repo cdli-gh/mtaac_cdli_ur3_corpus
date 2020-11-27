@@ -1,0 +1,6 @@
+#new_text=P500141
+FORM	SEGM	XPOSTAG	XPOSTAG	POS
+{d}utu-an	_	PN	PN	Iabcde
+ba-ba-gig-du	_	PN	PN	Iabcde
+dumu	dumu[child]	N	N	D
+{d}iszkur-ba-ni	Iszkurbani[1][-ra]	PN	PN.DAT-H	D

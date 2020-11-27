@@ -1,0 +1,25 @@
+#new_text=P108134
+FORM	SEGM	XPOSTAG	XPOSTAG	POS
+1(u)	1(u)[ten]	NU	NU	D
+1(disz)	1(disz)[one]	NU	NU	D
+gurusz	gurusz[male]	N	N	D
+sza3-gu4	szagu[ox-driver]	PN	N	D
+u4	ud[day]	N	N	D
+2(disz)-sze3	2(disz)[one]-sze	NU	NU.TERM	D
+kar	_	N	N	POS
+umma{ki}-ka	Umma[1]-ak-ak[-ø]	FN	SN.GEN.GEN.ABS	D
+ziz2	ziz[emmer]	N	N	D
+de2-a	de[pour]-a	V	NF.V.PT	D
+ugula	ugula[overseer][-ø]	N	N	D
+i7-pa-e3	Ipa'e[1][-ø]	PN	PN	D
+kiszib3	kiszib[seal]	N	N	D
+{d}szara2{+ra}-i3-zu	_	PN	PN	Iabcde
+mu	mu[year]	N	N	D
+ma-da	mada[land][-ak][-ø]	N	N	D
+za-ab-sza-li{ki}	Zabszali[1][-ak][-ø]	GN	SN.GEN.ABS	D
+ba-hul	ba-hulu[destroy][-ø]	V	MID.V.3-SG-S	D
+{d}szara2-i3-zu	_	PN	PN.DAT-H	Iabcdefgh
+dub-sar	dubsar[scribe]	N	N	D
+dumu	dumu[child]	N	N	D
+ARAD2	arad[slave]	N	N	D
+ka-guru7-ka	_	N	N	POS

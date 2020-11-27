@@ -1,0 +1,23 @@
+#new_text=P137727
+FORM	SEGM	XPOSTAG	XPOSTAG	POS
+2(u)	2(u)[ten]	NU	NU	D
+2(disz)	2(disz)[one]	NU	NU	D
+x	_[_]	N	N	D
+1(u)	1(u)[ten]	NU	NU	D
+7(disz)	7(disz)[one][-sze]	NU	NU	D
+x	_[_]	N	N	D
+2(disz)	2(disz)[one]	NU	NU	D
+ma-na	mana[unit]	N	N	D
+x	_[_]	N	N	D
+nig2-ba	nigba[gift]	N	N	D
+geme2	geme[female_worker]	N	N	D
+...	_[_]	PN	N	D
+u3	u[and]	CNJ	CNJ	D
+geme2	geme[female_worker]	N	N	D
+...	_[_]	PN	N	D
+...	_[_]	PN	N	D
+mu	mu[year]	N	N	D
+{d}i-bi2-{d}suen	Ibbisuen[1]	RN	RN	D
+lugal-e	lugal[king]-e	N	N.ERG	D
+si-mu-ru-um{ki}	Simurrum[1]	SN	SN.ABS	D
+mu-hul	mu[-n]-hulu[destroy][-ø]	V	VEN.3-SG-H-A.V.3-SG-P	D

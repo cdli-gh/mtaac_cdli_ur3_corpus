@@ -1,0 +1,27 @@
+#new_text=P101509
+FORM	SEGM	XPOSTAG	XPOSTAG	POS
+(x)	_[_]	N	N	POS
+3(gesz2)	3(gesz)[sixty]	NU	NU	D
+3(u)	3(u)[ten]	NU	NU	D
+5(disz)	5(disz)[one]	NU	NU	D
+geme2	geme[female_worker]	N	N	D
+kikken-na	kikken[miller]-ak	N	N.GEN	D
+u4	ud[day]	N	N	D
+1(disz)-sze3	1(disz)[one]-sze	NU	NU.TERM	D
+sze	sze[barley]	N	N	D
+gur10-a	gur[reap]-a	N	NF.V.PT	D
+a-nir	_	N	N.TERM	Iabcdefgh
+GAN2-mah-ta-du2-a	_	PN	PN	POS
+a-sza3	aszag[field]	N	N	D
+GAN2-mah	GANmah[1]	FN	FN	D
+ugula	ugula[overseer][-ø]	N	N	D
+hu-wa-wa	Huwawa[1][-ak]	DN	PN.GEN	D
+kiszib3	kiszib[seal]	N	N	D
+lugal-ku3-ga-ni	Lugalkugani[1][-ak]	PN	PN.GEN	D
+mu	mu[year]	N	N	D
+en	en[priest]	N	N	D
+ga-esz{ki}	Ga'esz[1][-ak][-ø]	SN	SN.GEN.ABS	D
+ba-hun	ba-hug[hire][-ø]	V	MID.V.3-SG-S	D
+lugal-ku3-ga-ni	Lugalkugani[1][-ak]	PN	PN.GEN	D
+dumu	dumu[child]	N	N	D
+ur-mes	Urmes[1]	PN	PN	D

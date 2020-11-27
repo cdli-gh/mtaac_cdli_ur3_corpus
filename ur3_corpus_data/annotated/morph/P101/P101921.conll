@@ -1,0 +1,23 @@
+#new_text=P101921
+FORM	SEGM	XPOSTAG	XPOSTAG	POS
+4(gesz2)	4(gesz)[sixty]	NU	NU	D
+2(u)	2(u)[ten]	NU	NU	D
+7(asz)	7(asz)[one]	NU	NU	D
+2(barig)	2(bariga)[unit]	NU	N	D
+sze	sze[barley]	N	N	D
+gur	gur[unit]	N	N	D
+si-sa2	_	V	V	POS
+1(u)	1(u)[ten]	NU	NU	D
+7(asz)	7(asz)[one]	NU	NU	D
+2(barig)	2(bariga)[unit]	NU	N	D
+ziz2	ziz[emmer]	N	N	D
+gur	gur[unit]	N	N	D
+si-sa2	_	V	V	POS
+sze	sze[barley]	N	N	D
+szuku-ra	szukur[ration]-ak	N	N.GEN	D
+sza3-ba	szag[heart]-bi-'a	N	N.3-SG-NH-POSS.L1	D
+i3-gal2	i[-ni]-gal[be][-ø]	V	FIN.L1.V.3-SG-S	D
+a-sza3	aszag[field]	N	N	D
+ambar-lagasz{ki}	_	FN	FN	POS
+ab-ba-kal-la	Abbakala[1][-ak][-ak]	PN	PN	D
+engar	engar[farmer]	N	N	D

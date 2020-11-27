@@ -1,0 +1,25 @@
+#new_text=P379003
+FORM	SEGM	XPOSTAG	XPOSTAG	POS
+1(u)	1(u)[ten]	NU	NU	D
+6(asz)	6(asz)[one]	NU	NU	D
+3(barig)	3(bariga)[unit]	NU	N	D
+3(ban2)	3(ban)[unit]	NU	N	D
+...	_[_]	PN	N	D
+sila3	sila[unit]	N	N	D
+dabin	dabin[semolina]	N	N	D
+ninda	ninda[bread]	N	N	D
+gur	gur[unit]	N	N	D
+lugal	lugal[king]	N	N	D
+si-i3-tum	situm[balance]	N	N	D
+nig2-ka9-ak	nigSZID[account]	N	N	D
+ARAD2-mu	Aradmu[1]	PN	PN	D
+dumu	dumu[child]	N	N	D
+he2-sa6-ke4	_	PN	PN.GEN.ERG	Iabcdefg
+su-su-dam	sug-sug[repay]-ed[-ø]-am	PN	NF.V.RDP.F.ABS.COP-3-SG	D
+sza3	szag[heart]	N	N	D
+e2	e[house]	N	N	D
+kikken2	_	N	N.GEN.GEN.ABS	D
+mu	mu[year]	N	N	D
+us2-sa	us[follow]-a	V	NF.V.PT	D
+ki-masz{ki}	Kimasz[1]	SN	SN.ABS	D
+ba-hul	ba-hulu[destroy][-ø]	V	MID.V.3-SG-S	D

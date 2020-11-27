@@ -1,0 +1,36 @@
+#new_text=P139274
+FORM	SEGM	XPOSTAG	XPOSTAG	POS
+x	_[_]	N	N	D
+x	_[_]	N	N	D
+HI	_	 	 	POS
+2(u)	2(u)[ten]	NU	NU	D
+1(disz)	1(disz)[one]	NU	NU	D
+gurusz	gurusz[male]	N	N	D
+gesz-gid2-da	_	N	N	POS
+u4	ud[day]	N	N	D
+1(disz)-sze3	1(disz)[one]-sze	NU	NU.TERM	D
+x	_[_]	N	N	D
+x	_[_]	N	N	D
+NI	_	PN	PN	POS
+ga	ga[milk]	N	N	D
+...	_[_]	PN	N	D
+n	_(_)[_]	NU	NU	D
+1(disz)	1(disz)[one]	NU	NU	D
+2/3(disz)	2/3(disz)[one]	NU	NU	D
+sila3	sila[unit]	N	N	D
+gur	gur[unit]	N	N	D
+x-x	_[_]	PN	N.2-SG-POSS.ABS	D
+engar	engar[farmer]	N	N	D
+SAR	_	 	 	POS
+...-ka-ke4	_	DN	DN	POS
+...	_[_]	PN	N	D
+x	_[_]	N	N	D
+x	_[_]	N	N	D
+iti	iti[month]	N	N	D
+1(u)	1(u)[ten]	NU	NU	D
+2(disz)-kam	2(disz)[one]-ak-am	NU	NU.GEN.COP-3-SG	D
+mu	mu[year]	N	N	D
+gu-za	guza[chair][-ø]	N	N	D
+mah	mah[great][-ø][-ø]	V	NF.V	D
+{d}en-lil2-la2	Enlil[1][-ak][-ø]	DN	DN.GEN	D
+ba-dim2	ba-dim[create][-ø]	V	MID.V.3-SG-S	D

@@ -1,0 +1,20 @@
+#new_text=P332456
+FORM	SEGM	XPOSTAG	XPOSTAG	POS
+6(asz)	6(asz)[one]	NU	NU	D
+...	_[_]	PN	N	D
+sze	sze[barley]	N	N	D
+gur	gur[unit]	N	N	D
+ki	ki[place]	N	N	D
+i-gi-bu-ni-ta	_	PN	PN.GEN.ABL	Iab
+a-wi-li-a	_	PN	PN	POS
+szu	szu[hand][-e]	N	N.L3-NH	D
+ba-ti	ba[-n]-teg[accept][-ø]	V	MID.3-SG-H-A.V.3-SG-P	D
+iti	iti[month]	N	N	D
+si2-li2-li2-tum	_	MN	MN	POS
+mu	mu[year]	N	N	D
+{d}szu-{d}suen	Szusuen[1]	RN	RN	D
+lugal	lugal[king]	N	N	D
+uri5{ki}-ma-ke4	Urim[1]-ak-e	SN	SN.GEN.ERG	D
+mu-ma-da	_	N	N	POS
+za-ab-sza-li	_	PN	PN	Iabcdefgh
+mu-hul	mu[-n]-hulu[destroy][-ø]	V	VEN.3-SG-H-A.V.3-SG-P	D

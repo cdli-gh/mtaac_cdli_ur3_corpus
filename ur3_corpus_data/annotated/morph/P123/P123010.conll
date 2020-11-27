@@ -1,0 +1,27 @@
+#new_text=P123010
+FORM	SEGM	XPOSTAG	XPOSTAG	POS
+2(u)	2(u)[ten]	NU	NU	D
+5(asz)	5(asz)[one]	NU	NU	D
+3(barig)	3(bariga)[unit]	NU	N	D
+sze	sze[barley]	N	N	D
+gur	gur[unit]	N	N	D
+lugal	lugal[king]	N	N	D
+sze	sze[barley]	N	N	D
+e2	e[house]	N	N	D
+kin-ga2	_	N	N	POS
+i3-dub	idub[granary]	N	N	D
+me-luh-ha	_	PN	PN	POS
+sze	sze[barley]	N	N	D
+ur5-ra	urra[loan]	N	N	D
+ki	ki[place]	N	N	D
+szesz-kal-la-ta	Szeszkala[1][-ak]-ta	N	PN.GEN.ABL	D
+lu2-{d}lamma	_	PN	PN	Ia
+dumu	dumu[child]	N	N	D
+ga-ni	_	PN	PN	POS
+...	_[_]	PN	N	D
+szu	szu[hand][-e]	N	N.L3-NH	D
+ba-ti	ba[-n]-teg[accept][-ø]	V	MID.3-SG-H-A.V.3-SG-P	D
+mu	mu[year]	N	N	D
+gu-za	guza[chair][-ø]	N	N	D
+{d}en-lil2-la2	Enlil[1][-ak][-ø]	DN	DN.GEN	D
+ba-dim2	ba-dim[create][-ø]	V	MID.V.3-SG-S	D

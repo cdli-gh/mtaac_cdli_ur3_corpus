@@ -1,0 +1,26 @@
+#new_text=P123042
+FORM	SEGM	XPOSTAG	XPOSTAG	POS
+2(gesz2)	2(gesz)[sixty]	NU	NU	D
+4(u)	4(u)[ten]	NU	NU	D
+5(disz)	5(disz)[one]	NU	NU	D
+ad7	_	N	N	POS
+udu	udu[sheep]	N	N	D
+1(gesz2)	1(gesz)[sixty]	NU	NU	D
+5(u)	5(u)[ten]	NU	NU	D
+8(disz)	8(disz)[one]	NU	NU	D
+ad7	_	N	N	POS
+udu	udu[sheep]	N	N	D
+mu	mu[year]	N	N	D
+geme2	geme[female_worker]	N	N	D
+usz-bar-sze3	_	N	N.GEN.TERM	Iabcdefg
+ki	ki[place]	N	N	D
+ur-{d}ig-alim-ta	_	PN	PN.GEN.GEN.ABL	Iab
+lugal-iri-da	Lugalirida[1][-e]	PN	PN.ERG	D
+szu	szu[hand][-e]	N	N.L3-NH	D
+ba-ti	ba[-n]-teg[accept][-ø]	V	MID.3-SG-H-A.V.3-SG-P	D
+egir	_	N	N.ABS	D
+zu2-si-ka-ta	_	N	N	POS
+mu	mu[year]	N	N	D
+gu-za	guza[chair][-ø]	N	N	D
+{d}en-lil2-la2	Enlil[1][-ak][-ø]	DN	DN.GEN	D
+ba-dim2	ba-dim[create][-ø]	V	MID.V.3-SG-S	D

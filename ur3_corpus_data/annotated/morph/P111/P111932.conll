@@ -1,0 +1,21 @@
+#new_text=P111932
+FORM	SEGM	XPOSTAG	XPOSTAG	POS
+1(disz)	1(disz)[one]	NU	NU	D
+ma2	ma[ship]	N	N	D
+3(u)	3(u)[ten]	NU	NU	D
+gur	gur[unit]	N	N	D
+6(disz)	6(disz)[one][-sze]	NU	NU	D
+sila3-ta	sila[unit]-ta	N	N.ABL	D
+u4	ud[day]	N	N	D
+4(u)	4(u)[ten]	NU	NU	D
+5(disz)-sze3	5(disz)[one]-sze	NU	NU.TERM	D
+sze-bi	sze[barley]-bi[-ø]	N	N.3-SG-NH-POSS.ABS	D
+4(u)	4(u)[ten]	NU	NU	D
+3(disz)	3(disz)[one]	NU	NU	D
+bala	bala[turn][-'a]	N	N.L1	D
+ensi2	ensik[ruler]	N	N	D
+ka-zal-lu-ka{ki}	_	SN	SN.GEN.ABS	Iabcd
+mu	mu[year]	N	N	D
+si-mu-ru-um{ki}	Simurrum[1]	SN	SN.ABS	D
+lu-lu-bu	Lulubu[1][-ø]	SN	SN.ABS	D
+ba-hul	ba-hulu[destroy][-ø]	V	MID.V.3-SG-S	D

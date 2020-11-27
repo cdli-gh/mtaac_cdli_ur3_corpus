@@ -1,0 +1,27 @@
+#new_text=P104678
+FORM	SEGM	XPOSTAG	XPOSTAG	POS
+5(disz)	5(disz)[one]	NU	NU	D
+masz2	masz[goat]	N	N	D
+na-x	_	PN	PN	Iabcde
+7(disz)	7(disz)[one][-sze]	NU	NU	D
+masz2	masz[goat]	N	N	D
+{d}su-nun	_	PN	PN	Iabcde
+sipa	sipa[shepherd]	N	N	D
+tum-ma-al{ki}	_	SN	SN	Iabc
+szu-{d}iszkur	Szu'iszkur[1][-ak]	PN	PN	D
+TUM	_	 	 	POS
+...	_[_]	PN	N	D
+nig2-ka9-ak	nigSZID[account]	N	N	D
+mu	mu[year]	N	N	D
+us2-sa	us[follow]-a	V	NF.V.PT	D
+bad3	bad[wall]	N	N	D
+ma-da	mada[land][-ak][-ø]	N	N	D
+ba-du3	ba-du[build][-ø]	V	MID.V.3-SG-S	D
+x	_[_]	N	N	D
+ezem	ezem[festival]	N	N	D
+x	_[_]	N	N	D
+x	_[_]	N	N	D
+szu-{d}...	_	PN	PN	Iabcde
+dub-sar	dubsar[scribe]	N	N	D
+dumu	dumu[child]	N	N	D
+szu-{d}...	_	PN	PN	Iabcde

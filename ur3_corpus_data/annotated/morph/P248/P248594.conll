@@ -1,0 +1,50 @@
+#new_text=P248594
+FORM	SEGM	XPOSTAG	XPOSTAG	POS
+4(gesz2)	4(gesz)[sixty]	NU	NU	D
+kusz	kusz[leather]	N	N	D
+ab2	ab[cow][-ø]	N	N	D
+4(gesz2)	4(gesz)[sixty]	NU	NU	D
+kusz	kusz[leather]	N	N	D
+gu4	gud[ox]	N	N	D
+mu	mu[year]	N	N	D
+1(asz)	1(asz)[one]	NU	NU	D
+1(u)	1(u)[ten]	NU	NU	D
+la2	la[hang][-ø]	V	NF.V.ABS	D
+1(disz)	1(disz)[one]	NU	NU	D
+sa	sa[bundle]	N	N	D
+gu4	gud[ox]	N	N	D
+HI	_	 	 	POS
+lugal-ku3-ga-ni	Lugalkugani[1][-ak]	PN	PN.GEN	D
+unu3	_	GN	GN	POS
+8(gesz2)	8(gesz2)[sixty]	NU	NU	D
+kusz	kusz[leather]	N	N	D
+gu4	gud[ox]	N	N	D
+8(gesz2)	8(gesz2)[sixty]	NU	NU	D
+sa	sa[bundle]	N	N	D
+gu4	gud[ox]	N	N	D
+HI	_	 	 	POS
+ur-nigar{gar}	Urnigar[1]	PN	PN	D
+unu3	_	GN	GN	POS
+...	_[_]	PN	N	D
+gu4	gud[ox]	N	N	D
+...	_[_]	PN	N	D
+dam	dam[spouse]	N	N	D
+unu3	_	GN	GN	POS
+x	_[_]	N	N	D
+kusz	kusz[leather]	N	N	D
+gu4	gud[ox]	N	N	D
+1(disz)	1(disz)[one]	NU	NU	D
+1/2(disz)	1/2(disz)[one]	NU	NU	D
+sa	sa[bundle]	N	N	D
+gu4	gud[ox]	N	N	D
+HI	_	 	 	POS
+x-gi	_	PN	PN.GEN.ABS	Iabcdefgh
+unu3	_	GN	GN	POS
+ki	ki[place]	N	N	D
+unu3-e-ne-ta	_	PN	PN	POS
+iti	iti[month]	N	N	D
+nesag	Nesag[1][-'a]	N	MN.L1	D
+mu	mu[year]	N	N	D
+us2-sa	us[follow]-a	V	NF.V.PT	D
+an-sza-an{ki}	Anszan[1][-ø]	GN	GN.ABS	D
+ba-hul	ba-hulu[destroy][-ø]	V	MID.V.3-SG-S	D

@@ -1,0 +1,29 @@
+#new_text=P337187
+FORM	SEGM	XPOSTAG	XPOSTAG	POS
+1(gesz2)	1(gesz)[sixty]	NU	NU	D
+5(u)	5(u)[ten]	NU	NU	D
+2(disz)	2(disz)[one]	NU	NU	D
+sa	sa[bundle]	N	N	D
+gi	gi[reed][-ø]	N	N	D
+gu-nigin2-ba	gunigin[bale]-bi-'a	N	N.3-SG-NH-POSS.L1	D
+6(disz)	6(disz)[one][-sze]	NU	NU	D
+sa-ta	sa[bundle]-ta	N	N.ABL	D
+sza3-gal	szaggal[food]	N	N	D
+udu	udu[sheep]	N	N	D
+niga	niga[fattened][-ø]	V	NF.V.ABS	D
+ki	ki[place]	N	N	D
+ur-e2-mah-ta	_	PN	PN	Ia
+kiszib3	kiszib[seal]	N	N	D
+ur-{d}ma-mi	Urmami[1][-ra]	PN	PN.DAT-H	D
+iti	iti[month]	N	N	D
+{d}dumu-zi	Dumuzi[1][-'a]	MN	MN.L1	D
+mu	mu[year]	N	N	D
+us2-sa	us[follow]-a	V	NF.V.PT	D
+bad3	bad[wall]	N	N	D
+mar-tu	Martu[1][-ø]	EN	EN.ABS	D
+mu-du3-...	_	 	 	POS
+ur-{d}ma-mi	Urmami[1][-ra]	PN	PN.DAT-H	D
+dumu	dumu[child]	N	N	D
+ur-{d}...	_[1][-ra]	PN	PN.GEN	D
+kuruszda	kuruszda[animal_fattener][-ø]	N	N.GEN.ABS	D
+{d}...	_[1][-'a]	MN	DN.GEN	D

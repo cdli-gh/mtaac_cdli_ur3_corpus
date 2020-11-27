@@ -1,0 +1,27 @@
+#new_text=P137519
+FORM	SEGM	XPOSTAG	XPOSTAG	POS
+1(disz)	1(disz)[one]	NU	NU	D
+ab2-mah2	abmah[mature_cow]	N	N	D
+1(disz)	1(disz)[one]	NU	NU	D
+ab2	ab[cow][-ø]	N	N	D
+mu	mu[year]	N	N	D
+2(asz)	2(asz)[one]	NU	NU	D
+1(disz)	1(disz)[one]	NU	NU	D
+gu4-gesz	gudgesz[draught_ox]	N	N.ABS	D
+1(disz)	1(disz)[one]	NU	NU	D
+gu4	gud[ox]	N	N	D
+mu	mu[year]	N	N	D
+3(asz)	3(asz)[one]	NU	NU	D
+3(disz)	3(disz)[one]	NU	NU	D
+dur3-gesz	_	PN	PN	POS
+8(asz)	8(asz)[one]	NU	NU	D
+sze	sze[barley]	N	N	D
+gur	gur[unit]	N	N	D
+i3-bi2-za	_	N	N.TERM	Iabcdefgh
+ARAD2-{d}nanna	Aradnanna[1]	PN	PN	D
+dam-gar3	damgar[merchant][-ak]	N	N	D
+ga-a-ga-a	_	PN	PN.GEN.GEN.L1	Iabcdefg
+i3-da-gal2	_	V	FIN.3-SG-H-A.V.3-SG-P.SUB.ERG	Iabcdefg
+mu	mu[year]	N	N	D
+sza-asz-ru{ki}	Szaszru[1][-ø]	SN	SN.ABS	D
+ba-hul	ba-hulu[destroy][-ø]	V	MID.V.3-SG-S	D

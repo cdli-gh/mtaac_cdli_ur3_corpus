@@ -1,0 +1,26 @@
+#new_text=P106872
+FORM	SEGM	XPOSTAG	XPOSTAG	POS
+1(u)	1(u)[ten]	NU	NU	D
+la2	la[hang][-ø]	V	NF.V.ABS	D
+1(disz)	1(disz)[one]	NU	NU	D
+kasz	kasz[beer]	N	N	D
+saga	saga[good][-ø]	V	NF.V.ABS	D
+x-na	_	DN	DN	POS
+e2-masz-me	_	N	N	POS
+4(disz)	4(disz)[one]	NU	NU	D
+lu2-{d}x	_	PN	PN	POS
+3(disz)	3(disz)[one]	NU	NU	D
+i3-li2	_	PN	PN	Iabcde
+SZIM	szim[beer_malt]	N	N	D
+2(disz)	2(disz)[one]	NU	NU	D
+nam-ha-ni	Namhani[1]	N	PN	D
+2(disz)	2(disz)[one]	NU	NU	D
+i-lul-dingir	_	PN	PN	Iabcde
+4(disz)	4(disz)[one]	NU	NU	D
+sag-dingir-hub2	_	PN	PN.GEN.GEN	Iabcde
+2(disz)	2(disz)[one]	NU	NU	D
+bi-du	_	PN	PN.GEN.ABS	Iabcdefgh
+2/3(disz)	2/3(disz)[one]	NU	NU	D
+i3-li2-zu	_	PN	PN.GEN.ABS	Iabcdef
+e3	e[leave][-a]	V	NF.V.PT	D
+KA-zu-zu	_	PN	PN.ABS	Iab

@@ -1,0 +1,21 @@
+#new_text=P332439
+FORM	SEGM	XPOSTAG	XPOSTAG	POS
+1(asz)	1(asz)[one]	NU	NU	D
+sze	sze[barley]	N	N	D
+ur5-ra	urra[loan]	N	N	D
+gur	gur[unit]	N	N	D
+mu	mu[year]	N	N	D
+il-la-la	_	PN	PN	Ia
+1(barig)	1(bariga)[unit]	NU	N	D
+bi-la-a	_	PN	PN.GEN	Iabc
+...	_[_]	PN	N	D
+si-mu-ut	_	PN	PN	Iabcdefgh
+...	_[_]	PN	N	D
+a-wa-sza	_	PN	PN	Iabcdefgh
+-ma	_	PN	PN	POS
+1(barig)	1(bariga)[unit]	NU	N	D
+i-din-a-bu-um	_	PN	PN	Ia
+...	_[_]	PN	N	D
+x	_[_]	N	N	D
+szu-esz18-dar	Szu'eszdar[1][-ak]	PN	PN	D
+...	_[_]	PN	N	D

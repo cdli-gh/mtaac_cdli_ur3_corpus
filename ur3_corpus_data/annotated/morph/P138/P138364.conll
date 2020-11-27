@@ -1,0 +1,24 @@
+#new_text=P138364
+FORM	SEGM	XPOSTAG	XPOSTAG	POS
+n	_(_)[_]	NU	NU	D
+tug2	tug[textile]	N	N	D
+gesztux(|PI.TUG2|)	_	N	N	Ia
+	_	_
+us2	us[follow][-ø]	V	NF.V.ABS	D
+e2-ba-an	eban[pair][-ø]	PN	N.ABS	D
+lu2-zu	_	N	N	POS
+ki	ki[place]	N	N	D
+ur-dingir-ra-ta	_	PN	PN.GEN.ABL	Iab
+NE-ga-x	_	PN	PN	POS
+x	_[_]	N	N	D
+...	_[_]	PN	N	D
+...	_[_]	PN	N	D
+iti	iti[month]	N	N	D
+x-x	_[_]	PN	N.2-SG-POSS.ABS	D
+...	_[_]	PN	N	D
+mu	mu[year]	N	N	D
+dumu-munus	dumumunus[daughter]	N	N	D
+lugal	lugal[king]	N	N	D
+ensi2	ensik[ruler]	N	N	D
+za-ab-sza-li{ki}-ke4	_	SN	SN.GEN.GEN.ERG	Iabcdef
+ba-an-tuku	_	V	MID.3-SG-H.DAT.V.3-SG-S	Iabcdefg

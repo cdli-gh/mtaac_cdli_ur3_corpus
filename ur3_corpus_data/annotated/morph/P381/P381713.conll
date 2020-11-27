@@ -1,0 +1,27 @@
+#new_text=P381713
+FORM	SEGM	XPOSTAG	XPOSTAG	POS
+6(disz)	6(disz)[one][-sze]	NU	NU	D
+ninda	ninda[bread]	N	N	D
+x	_[_]	N	N	D
+...	_[_]	PN	N	D
+1(u)	1(u)[ten]	NU	NU	D
+...	_[_]	PN	N	D
+4(disz)	4(disz)[one]	NU	NU	D
+...	_[_]	PN	N	D
+1(disz)	1(disz)[one]	NU	NU	D
+ma-na	mana[unit]	N	N	D
+3(disz)	3(disz)[one]	NU	NU	D
+...	_[_]	PN	N	D
+ki-x-...-ka	_	PN	PN	POS
+a-kal-la	Akala[1]	PN	PN	D
+lu2-sa6-i3-zu	Lusa'izu[1]	PN	PN.GEN	D
+dumu	dumu[child]	N	N	D
+gu-u2-gu	_	PN	PN	Iabcde
+szu	szu[hand][-e]	N	N.L3-NH	D
+ba-ti	ba[-n]-teg[accept][-ø]	V	MID.3-SG-H-A.V.3-SG-P	D
+iti	iti[month]	N	N	D
+szu-numun	Szunumun[1][-'a]	MN	MN.L1	D
+mu	mu[year]	N	N	D
+us2-sa	us[follow]-a	V	NF.V.PT	D
+an-sza-an{ki}	Anszan[1][-ø]	GN	GN.ABS	D
+ba-hul	ba-hulu[destroy][-ø]	V	MID.V.3-SG-S	D

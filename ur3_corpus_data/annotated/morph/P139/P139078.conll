@@ -1,0 +1,37 @@
+#new_text=P139078
+FORM	SEGM	XPOSTAG	XPOSTAG	POS
+TUR	_	 	 	POS
+BI	_	PN	PN	POS
+NI	_	PN	PN	POS
+...	_[_]	PN	N	D
+x	_[_]	N	N	D
+x	_[_]	N	N	D
+...	_[_]	PN	N	D
+2(u)	2(u)[ten]	NU	NU	D
+7(disz)	7(disz)[one][-sze]	NU	NU	D
+{gesz}...	_[_]	N	N	Ia
+1(gesz2)	1(gesz)[sixty]	NU	NU	D
+1(u)	1(u)[ten]	NU	NU	D
+8(disz)	8(disz)[one]	NU	NU	D
+{gesz}...	_[_]	N	N	Ia
+zu2-lum-bi	_	N	N.3-SG-NH-POSS.ABS	Iabcde
+...	_[_]	PN	N	D
+na-bi2-i3-li2	_	PN	PN	Ia
+...	_[_]	PN	N	D
+...	_[_]	PN	N	D
+x	_[_]	N	N	D
+...	_[_]	PN	N	D
+3(u)	3(u)[ten]	NU	NU	D
+2(disz)	2(disz)[one]	NU	NU	D
+PA	ugula[overseer][-ø]	N	N.ABS	D
+...	_[_]	PN	N	D
+1(gesz2)	1(gesz)[sixty]	NU	NU	D
+5(u)	5(u)[ten]	NU	NU	D
+5(disz)	5(disz)[one]	NU	NU	D
+{gesz}...	_[_]	N	N	Ia
+zu2-lum-bi	_	N	N.3-SG-NH-POSS.ABS	Iabcde
+2(asz)	2(asz)[one]	NU	NU	D
+...	_[_]	PN	N	D
+5(disz)	5(disz)[one]	NU	NU	D
+sila3	sila[unit]	N	N	D
+gur	gur[unit]	N	N	D

@@ -1,0 +1,24 @@
+#new_text=P120303
+FORM	SEGM	XPOSTAG	XPOSTAG	POS
+5(gesz2)	5(gesz)[sixty]	NU	NU	D
+2(u)	2(u)[ten]	NU	NU	D
+2(disz)	2(disz)[one]	NU	NU	D
+gurusz	gurusz[male]	N	N	D
+u4	ud[day]	N	N	D
+1(disz)-sze3	1(disz)[one]-sze	NU	NU.TERM	D
+ki-su7	kisur[threshing_floor]	N	N	D
+{d}amar-{d}suen-{d}szara2-ki-ag2	_	FN	FN	POS
+gub-ba	gub[assigned]-a[-ak][-ø]	V	NF.V.PT	D
+ugula	ugula[overseer][-ø]	N	N	D
+lugal-nesag-e	Lugalnesage[1][-e]	PN	PN	D
+kiszib3	kiszib[seal]	N	N	D
+lugal-e2-mah-e	Lugalemahe[1]	N	PN	D
+giri3	giri[foot]	N	N	D
+nimgir-an-ne2	Nimgirane[1][-ak]	PN	PN.GEN	D
+mu	mu[year]	N	N	D
+hu-hu-nu-ri{ki}	Huhunuri[1][-ø]	GN	SN.ABS	D
+ba-hul	ba-hulu[destroy][-ø]	V	MID.V.3-SG-S	D
+lugal-e2-mah-e	Lugalemahe[1]	N	PN	D
+dub-sar	dubsar[scribe]	N	N	D
+dumu	dumu[child]	N	N	D
+lugal-ku3-ga-ni	Lugalkugani[1][-ak]	PN	PN.GEN	D

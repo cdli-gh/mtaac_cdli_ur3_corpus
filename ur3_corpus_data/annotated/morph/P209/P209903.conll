@@ -1,0 +1,22 @@
+#new_text=P209903
+FORM	SEGM	XPOSTAG	XPOSTAG	POS
+1(u)	1(u)[ten]	NU	NU	D
+6(disz)	6(disz)[one][-sze]	NU	NU	D
+gesz-gal	_	N	N	POS
+asalx(|A.TU.LISZ|)	_	N	N	Ia
+3(u)	3(u)[ten]	NU	NU	D
+2(disz)	2(disz)[one]	NU	NU	D
+{gesz}e2-da	_	PN	PN	POS
+4(disz)	4(disz)[one]	NU	NU	D
+{gesz}sag-apin	_	N	N	Ia
+2(disz)	2(disz)[one]	NU	NU	D
+{gesz}da-apin	_	N	N	Ia
+4(disz)	4(disz)[one]	NU	NU	D
+{gesz}szu2-tug2-ma2	_	PN	PN	POS
+1(gesz2)	1(gesz)[sixty]	NU	NU	D
+3(u)	3(u)[ten]	NU	NU	D
+{gesz}u2-bil2-la	_	N	N	POS
+szid-da	szid[count]-a	V	NF.V.PT	D
+sza3	szag[heart]	N	N	D
+e2-duru5	eduru[village]	N	N	D
+{d}szul-gi-a-bi2	Szulgi'abi[1][-e]	PN	PN.ERG	D

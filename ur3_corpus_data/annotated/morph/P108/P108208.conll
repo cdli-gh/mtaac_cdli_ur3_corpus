@@ -1,0 +1,26 @@
+#new_text=P108208
+FORM	SEGM	XPOSTAG	XPOSTAG	POS
+2(asz)	2(asz)[one]	NU	NU	D
+3(barig)	3(bariga)[unit]	NU	N	D
+5(ban2)	5(ban)[unit]	NU	N	D
+sze	sze[barley]	N	N	D
+ur5-ra	urra[loan]	N	N	D
+gur	gur[unit]	N	N	D
+szesz-kal-la	Szeszkala[1][-ra]	PN	PN	D
+sza3-gu4-ka	_	PN	PN	POS
+...	_[_]	PN	N	D
+ki-su7	kisur[threshing_floor]	N	N	D
+{d}amar-{d}suen-{d}szara2-ki-ag2	_	FN	FN	POS
+ki	ki[place]	N	N	D
+szesz-kal-la-ta	Szeszkala[1][-ak]-ta	N	PN.GEN.ABL	D
+kiszib3	kiszib[seal]	N	N	D
+da-da-ga	Dadaga[1][-ak]	PN	PN	D
+mu	mu[year]	N	N	D
+en	en[priest]	N	N	D
+ga-esz{ki}	Ga'esz[1][-ak][-ø]	SN	SN.GEN.ABS	D
+ba-hun	ba-hug[hire][-ø]	V	MID.V.3-SG-S	D
+da-da-ga	Dadaga[1][-ak]	PN	PN	D
+dub-sar	dubsar[scribe]	N	N	D
+dumu	dumu[child]	N	N	D
+ur-nigar{gar}	Urnigar[1]	PN	PN	D
+szusz3	kusz[cattle_manager][-ak]	N	N.GEN	D

@@ -1,0 +1,24 @@
+#new_text=P337285
+FORM	SEGM	XPOSTAG	XPOSTAG	POS
+1(disz)	1(disz)[one]	NU	NU	D
+gurusz	gurusz[male]	N	N	D
+lu2	lu[person]	N	N	D
+azlag2	azlag[fuller][-ra]	N	N.DAT-H	D
+ki	ki[place]	N	N	D
+...	_[_]	PN	N	D
+u3-dag-ga-ta	_	PN	PN.GEN.ABL	Iab
+iti	iti[month]	N	N	D
+{d}dumu-zi-ta	_	MN	MN	POS
+u4	ud[day]	N	N	D
+1(u)	1(u)[ten]	NU	NU	D
+1(disz)-am3	_	NU	NU.GEN.COP-3-SG	Iabcdef
+ba-ra-zal-ta	_	V	NF.V.PT.GEN.GEN.ABL	Iabcdefg
+lugal-ur2-ra-ni	_	PN	PN.GEN.ABS	D
+i3-dab5	i[-n]-dab[seize][-ø]	V	FIN.3-SG-H-A.V.3-SG-P	D
+mu	mu[year]	N	N	D
+ha-ar-szi	Harszi[1][-ø]	PN	SN.ABS	D
+ki-masz{ki}	Kimasz[1]	SN	SN.ABS	D
+ba-hul	ba-hulu[destroy][-ø]	V	MID.V.3-SG-S	D
+lugal-ur2-ra-ni	_	PN	PN.GEN.ABS	D
+dumu	dumu[child]	N	N	D
+lugal-x-...	_	PN	PN.DAT-H	Iabcdefgh

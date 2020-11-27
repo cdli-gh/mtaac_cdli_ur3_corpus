@@ -1,0 +1,20 @@
+#new_text=P205610
+FORM	SEGM	XPOSTAG	XPOSTAG	POS
+8(disz)	8(disz)[one]	NU	NU	D
+sila3	sila[unit]	N	N	D
+i3-gesz	igesz[oil]	V	N	D
+i3-ba	iba[oil_ration]	N	N	D
+a2-pi5-li2	_	PN	PN	Iabcde
+giri3	giri[foot]	N	N	D
+szu-e2-dub	_	PN	PN	Iabcde
+aga3-us2	aga'us[soldier]	N	N	D
+a2-pi5-li2	_	PN	PN	Iabcde
+e-lak-ra	_	PN	PN	Iabcde
+...	_[_]	PN	N	D
+maszkim	maszkim[administrator]	N	N.ABS	D
+iti	iti[month]	N	N	D
+sze-il2-la	Sze'ila[1][-'a]	MN	MN.L1	D
+mu	mu[year]	N	N	D
+na	na[stone_weight]	V	N	D
+...	_[_]	PN	N	D
+ba-du3	ba-du[build][-ø]	V	MID.V.3-SG-S	D

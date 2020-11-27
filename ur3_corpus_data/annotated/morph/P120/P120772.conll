@@ -1,0 +1,19 @@
+#new_text=P120772
+FORM	SEGM	XPOSTAG	XPOSTAG	POS
+1(u)	1(u)[ten]	NU	NU	D
+2(disz)	2(disz)[one]	NU	NU	D
+gurusz	gurusz[male]	N	N	D
+u4	ud[day]	N	N	D
+1(disz)-sze3	1(disz)[one]-sze	NU	NU.TERM	D
+iti	iti[month]	N	N	D
+diri	diri[intercalary_month]	N	N	D
+sze-sag11-ku5	Szesagku[1][-'a]	MN	MN.L1	D
+u4	ud[day]	N	N	D
+1(u)	1(u)[ten]	NU	NU	D
+ba-zal-ta	_	V	MID.V.3-SG-S.ABL	Iabcdefg
+a-sza3-ga	aszag[field]-ak	N	N.GEN	D
+gub-ba	gub[assigned]-a[-ak][-ø]	V	NF.V.PT	D
+ugula	ugula[overseer][-ø]	N	N	D
+{d}en-lil2-la2	Enlil[1][-ak][-ø]	DN	DN.GEN	D
+a-sza3	aszag[field]	N	N	D
+{gesz}u2-ummux(|EDIN.LAL.A|)	_	FN	FN	POS

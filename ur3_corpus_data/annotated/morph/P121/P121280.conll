@@ -1,0 +1,16 @@
+#new_text=P121280
+FORM	SEGM	XPOSTAG	XPOSTAG	POS
+1(gesz2)	1(gesz)[sixty]	NU	NU	D
+5(u)	5(u)[ten]	NU	NU	D
+2(asz)	2(asz)[one]	NU	NU	D
+...	_[_]	PN	N	D
+gur	gur[unit]	N	N	D
+ki	ki[place]	N	N	D
+giri3-ni-i3-sa6-ta	_	PN	PN.GEN.ABL	Iab
+bu-ga-an	_	PN	PN.GEN.ABS	Iabcdef
+mu	mu[year]	N	N	D
+lugal-ma2-gur8-re-sze3	_	N	N	POS
+mu	mu[year]	N	N	D
+us2-sa	us[follow]-a	V	NF.V.PT	D
+ma2-dara3-abzu	Madara'abzu[1]	ON	ON	D
+ba-dim2	ba-dim[create][-ø]	V	MID.V.3-SG-S	D

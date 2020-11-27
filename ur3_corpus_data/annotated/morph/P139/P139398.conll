@@ -1,0 +1,17 @@
+#new_text=P139398
+FORM	SEGM	XPOSTAG	XPOSTAG	POS
+...-ma	_	PN	PN	Iabcde
+...-ni	_	PN	PN.GEN.ABS	Iabcdef
+...-ti	_[_]	PN	PN.GEN.ABL	Iabcdefgh
+...-ta	_[_]-ta	PN	PN.GEN.ABL	D
+...	_[_]	PN	N	D
+du	gin[quality_designation][-ø]	V	NF.V.ABS	D
+...-ma	_	PN	PN	Iabcde
+...	_[_]	PN	N	D
+1/2(disz)	1/2(disz)[one]	NU	NU	D
+ma-na	mana[unit]	N	N	D
+...	_[_]	PN	N	D
+ma-na	mana[unit]	N	N	D
+szu	szu[hand][-e]	N	N.L3-NH	D
+ba-an-ti	ba-n-teg[accept][-ø]	V	MID.3-SG-H-A.V.3-SG-P	D
+...-ta	_[_]-ta	PN	PN.GEN.ABL	D

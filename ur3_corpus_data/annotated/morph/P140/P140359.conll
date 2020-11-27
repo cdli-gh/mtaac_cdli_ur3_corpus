@@ -1,0 +1,26 @@
+#new_text=P140359
+FORM	SEGM	XPOSTAG	XPOSTAG	POS
+1(u)	1(u)[ten]	NU	NU	D
+dug	dug[pot]	N	N	D
+1(ban2)	1(ban)[unit]	NU	N	D
+5(disz)	5(disz)[one]	NU	NU	D
+sila3	sila[unit]	N	N	D
+he2-dab5	hedab[worker]	V	N.DAT-H	D
+sig4	szeg[brick]	N	N	D
+du8-de3	du[bake]-ed	V	NF.V.F	D
+szu	szu[hand][-e]	N	N.L3-NH	D
+ba-ab-ti	ba-b-teg[accept][-ø]	V	MID.3-SG-NH-A.V.3-SG-P	D
+ki	ki[place]	N	N	D
+{d}szara2-kam-ta	Szarakam[1][-ak]-ta	PN	PN.GEN.ABL	D
+kiszib3	kiszib[seal]	N	N	D
+lu2(LUGAL)-{d}suen	_	NU	NU	POS
+gu-za-la2	guzala[throne_bearer]	N	N	D
+iti	iti[month]	N	N	D
+sze-kar-ra-gal2-la	Szekaragala[1][-'a]	MN	MN.L1	D
+mu	mu[year]	N	N	D
+{d}szu-{d}suen	Szusuen[1]	RN	RN	D
+lugal	lugal[king]	N	N	D
+lu2-{d}suen	Lusuen[1]	PN	PN	D
+...-gal	_	PN	PN	Iabcde
+dumu	dumu[child]	N	N	D
+zu-ga-li2	_	PN	PN	Iabcde

@@ -1,0 +1,27 @@
+#new_text=P131459
+FORM	SEGM	XPOSTAG	XPOSTAG	POS
+1(u)	1(u)[ten]	NU	NU	D
+2(asz)	2(asz)[one]	NU	NU	D
+sze	sze[barley]	N	N	D
+gur	gur[unit]	N	N	D
+lugal	lugal[king]	N	N	D
+sza3-gal	szaggal[food]	N	N	D
+erin2	erin[people]	N	N	D
+...	_[_]	PN	N	D
+e2	e[house]	N	N	D
+{d}ga2-tum3-du10	_	DN	DN	D
+i3-dub	idub[granary]	N	N	D
+elam-e-ne	_	PN	PN	POS
+ki	ki[place]	N	N	D
+szu-esz-dar-ta	_	PN	PN	POS
+kiszib3	kiszib[seal]	N	N	D
+lugal-geszkim-zi	_	PN	PN	Iabcde
+nu-banda3	nubanda[overseer][-ø]	N	N	D
+su-szim-a	_	PN	PN	POS
+mu	mu[year]	N	N	D
+ki-masz{ki}	Kimasz[1]	SN	SN.ABS	D
+ba-hul	ba-hulu[destroy][-ø]	V	MID.V.3-SG-S	D
+lugal-geszkim-zi	_	PN	PN	Iabcde
+dub-sar	dubsar[scribe]	N	N	D
+dumu	dumu[child]	N	N	D
+lugal-lagasz{ki}	_	PN	PN	Iabcdefgh

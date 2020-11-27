@@ -1,0 +1,16 @@
+#new_text=P143222
+FORM	SEGM	XPOSTAG	XPOSTAG	POS
+2(barig)	2(bariga)[unit]	NU	N	D
+sze	sze[barley]	N	N	D
+lugal	lugal[king]	N	N	D
+sze-ba	szeba[ration]	N	N	D
+za3-mu	Zamu[1][-ak]	PN	N	D
+lugal-{gesz}gigir-re	Lugalgigire[1][-ra]	PN	PN.DAT-H	D
+i3-du8	idu[doorkeeper][-ø]	PN	N.GEN.ABS	D
+szu	szu[hand][-e]	N	N.L3-NH	D
+ba-ti	ba[-n]-teg[accept][-ø]	V	MID.3-SG-H-A.V.3-SG-P	D
+e2-kikken-ta	_	TN	TN	POS
+iti	iti[month]	N	N	D
+diri	diri[intercalary_month]	N	N	D
+mu	mu[year]	N	N	D
+dumu-lugal	_	N	N	Ia

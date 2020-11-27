@@ -1,0 +1,20 @@
+#new_text=P291012
+FORM	SEGM	XPOSTAG	XPOSTAG	POS
+1(gesz2)	1(gesz)[sixty]	NU	NU	D
+4(u)	4(u)[ten]	NU	NU	D
+6(disz)	6(disz)[one][-sze]	NU	NU	D
+szu-nir	szunir[emblem][-sze]	N	N	D
+mu	mu[year]	N	N	D
+i3	i[oil]	N	N	D
+szu-nir-ka-sze3	_	N	N	POS
+kiszib3	kiszib[seal]	N	N	D
+a-ab-ba-ni	_	PN	PN.GEN.GEN.ABS	Iabcdefg
+mu	mu[year]	N	N	D
+{d}amar-{d}suen	Amarsuen[1]	RN	RN	D
+lugal	lugal[king]	N	N	D
+a-ab-ba-ni	_	PN	PN.GEN.GEN.ABS	Iabcdefg
+dub-sar	dubsar[scribe]	N	N	D
+szabra	szabra[chief_administrator][-ak]	N	N	D
+{d}nin-ur4-ra-ka	_	FN	FN	POS
+dumu	dumu[child]	N	N	D
+ur-{gesz}gigir	Urgigir[1]	PN	PN	D

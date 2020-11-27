@@ -1,0 +1,21 @@
+#new_text=P458443
+FORM	SEGM	XPOSTAG	XPOSTAG	POS
+{d}tiszpak	_	PN	PN	POS
+lugal	lugal[king]	N	N	D
+da-num2	_	PN	PN	D
+lugal	lugal[king]	N	N	D
+ma-at	_	PN	PN	Iabc
+wa-ri-im	_	PN	PN.GEN.ABS	Iabcdef
+lugal	lugal[king]	N	N	D
+ki-ib-ra-at	_	PN	PN	Iabcdefgh
+ar-ba-im	_	PN	PN	POS
+{d}szu-i3-li2-a	_	PN	PN	D
+ugula-szu	_	PN	PN	Iabc
+na-ra-am	_	N	N	POS
+{d}be-la-at-te-ra-ba-an	_	PN	PN	POS
+{d}be-la-at-suh-ner	Belatsuhner[1]	DN	DN	D
+{d}iszkur	_	DN	DN	POS
+u3	u[and]	CNJ	CNJ	D
+{d}...	_[1][-'a]	MN	DN.GEN	D
+i-...	_	PN	PN	D
+mu-usz-te-mi-qum	_	PN	PN	POS

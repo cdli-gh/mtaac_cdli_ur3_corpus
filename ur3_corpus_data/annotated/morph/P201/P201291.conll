@@ -1,0 +1,23 @@
+#new_text=P201291
+FORM	SEGM	XPOSTAG	XPOSTAG	POS
+6(disz)	6(disz)[one][-sze]	NU	NU	D
+sila3	sila[unit]	N	N	D
+kasz	kasz[beer]	N	N	D
+du	gin[quality_designation][-ø]	V	NF.V.ABS	D
+4(disz)	4(disz)[one]	NU	NU	D
+sila3	sila[unit]	N	N	D
+zi3-gu	zidgu[flour_type]	N	N	D
+2(disz)	2(disz)[one]	NU	NU	D
+gin2	gig[unit]	N	N	D
+i3-gesz	igesz[oil]	V	N	D
+u-bar-um	_	PN	PN.GEN.ABL	Iabcdefgh
+lu2	lu[person]	N	N	D
+kas4	kas[runner][-ra]	N	N.DAT-H	D
+u3	u[and]	CNJ	CNJ	D
+e2-a-ba-ni	E'abani[1][-ra]	PN	PN	D
+lu2	lu[person]	N	N	D
+kas4	kas[runner][-ra]	N	N.DAT-H	D
+szuszin{ki}-ta	Szuszin[1]-ta	SN	SN.ABL	D
+du-ni	du[go][-ed]-ani[-'a]	V	NF.V.PF.F.3-SG-H-POSS.L1	D
+iti	iti[month]	N	N	D
+szu-numun	Szunumun[1][-'a]	MN	MN.L1	D

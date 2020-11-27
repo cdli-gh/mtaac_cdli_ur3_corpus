@@ -1,0 +1,22 @@
+#new_text=P102958
+FORM	SEGM	XPOSTAG	XPOSTAG	POS
+1(disz)	1(disz)[one]	NU	NU	D
+udu	udu[sheep]	N	N	D
+u2	u[grass]	N	N	D
+6(disz)	6(disz)[one][-sze]	NU	NU	D
+udu	udu[sheep]	N	N	D
+a-lum	aslum[sheep_type]	N	N	D
+u2	u[grass]	N	N	D
+6(disz)	6(disz)[one][-sze]	NU	NU	D
+masz2-gal	maszgal[billy_goat]	N	N	D
+u2	u[grass]	N	N	D
+u4	ud[day]	N	N	D
+2(u)	2(u)[ten]	NU	NU	D
+1(disz)-kam	1(disz)[one]-ak-am	NU	NU.GEN.COP-3-SG	D
+lu2-...	_[1][-ra]	PN	PN	D
+i3-dab5	i[-n]-dab[seize][-ø]	V	FIN.3-SG-H-A.V.3-SG-P	D
+iti	iti[month]	N	N	D
+ezem-{d}szu-{d}suen	_	MN	MN	POS
+mu	mu[year]	N	N	D
+{d}i-bi2-{d}suen	Ibbisuen[1]	RN	RN	D
+lugal	lugal[king]	N	N	D

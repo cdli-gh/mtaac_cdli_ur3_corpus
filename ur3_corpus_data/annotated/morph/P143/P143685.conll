@@ -1,0 +1,22 @@
+#new_text=P143685
+FORM	SEGM	XPOSTAG	XPOSTAG	POS
+1(disz)	1(disz)[one]	NU	NU	D
+u8	u[ewe]	N	N	D
+sila4	sila[lamb]	N	N	D
+nu2-a	_	V	V	POS
+e2-uz-ga	e'uzga[building_type][-ak][-sze]	N	N.GEN.TERM	D
+mu-kux(DU)	mukur[delivery][-ø]	N	N	D
+te-ze2-en6-ma-ma	_	PN	PN	POS
+da-a-a-ni	_	PN	PN.GEN.ABS	Iabcdef
+maszkim	maszkim[administrator]	N	N.ABS	D
+zi-ga	zig[expend]-a	V	NF.V.PT	D
+u4	ud[day]	N	N	D
+1(u)	1(u)[ten]	NU	NU	D
+5(disz)-kam	5(disz)[one]-ak-am[-ak][-ø]	NU	NU.GEN.COP-3-SG	D
+iti	iti[month]	N	N	D
+ezem-mah	Ezemmah[1][-'a]	MN	MN.L1	D
+mu	mu[year]	N	N	D
+ki-masz{ki}	Kimasz[1]	SN	SN.ABS	D
+u3	u[and]	CNJ	CNJ	D
+hu-ur5-ti{ki}	Hurti[1][-ø]	GN	SN.ABS	D
+ba-hul	ba-hulu[destroy][-ø]	V	MID.V.3-SG-S	D

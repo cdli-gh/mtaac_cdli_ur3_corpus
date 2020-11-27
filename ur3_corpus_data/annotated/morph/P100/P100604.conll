@@ -1,0 +1,25 @@
+#new_text=P100604
+FORM	SEGM	XPOSTAG	XPOSTAG	POS
+2(disz)	2(disz)[one]	NU	NU	D
+geme2	geme[female_worker]	N	N	D
+3(ban2)	3(ban)[unit]	NU	N	D
+u4	ud[day]	N	N	D
+3(u)-sze3	3(u)[ten]-sze	NU	NU.TERM	D
+e2-mah	Emah[1][-sze]	FN	TN	D
+{d}inanna	Inanna[1][-ak]	DN	DN	D
+zabala{ki}-ka	_	SN	SN	POS
+szu	szu[hand][-e]	N	N.L3-NH	D
+tag-a	_	V	NF.V.3-SG-NH-POSS.GEN	Iabcdef
+ki	ki[place]	N	N	D
+ur-{d}nin-tu-ta	_	PN	PN.GEN.ABL	Iab
+kiszib3	kiszib[seal]	N	N	D
+al-ba-ni-du11	_	PN	PN	Iabcdefgh
+gudu4	gudug[priest]	N	N	D
+iti	iti[month]	N	N	D
+ezem-{d}szul-gi	Ezemszulgir[1][-'a]	MN	MN.L1	D
+mu	mu[year]	N	N	D
+us2-sa	us[follow]-a	V	NF.V.PT	D
+mu	mu[year]	N	N	D
+us2-sa	us[follow]-a	V	NF.V.PT	D
+mu	mu[year]	N	N	D
+us2-sa-bi	us[follow]-a-bi	V	NF.V.PT.3-SG-NH-POSS	D

@@ -1,0 +1,13 @@
+#new_text=P432333
+FORM	SEGM	XPOSTAG	XPOSTAG	POS
+{d}nanna	Nanna[1][-ak]	DN	DN	D
+dumu	dumu[child]	N	N	D
+sag	sag[head]	N	N	D
+{d}en-lil2-la2	Enlil[1][-ak][-ø]	DN	DN.GEN	D
+...	_[_]	PN	N	D
+x	_[_]	N	N	D
+lugal	lugal[king]	N	N	D
+uri5{ki}-ma-ke4	Urim[1]-ak-e	SN	SN.GEN.ERG	D
+e2-kisz-nu-gal2-sze3	_	TN	TN.TERM	D
+a	a[water][-ø]	N	N.ABS	D
+mu-na-ru	mu-nn-a[-n]-ru[dedicate][-ø]	V	VEN.3-SG-H.DAT.3-SG-H-A.V.3-SG-P	D

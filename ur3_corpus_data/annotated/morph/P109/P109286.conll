@@ -1,0 +1,24 @@
+#new_text=P109286
+FORM	SEGM	XPOSTAG	XPOSTAG	POS
+1(asz)	1(asz)[one]	NU	NU	D
+1(barig)	1(bariga)[unit]	NU	N	D
+sze	sze[barley]	N	N	D
+gur	gur[unit]	N	N	D
+a2	a[time]	N	N	D
+hun-ga2	hug[hire]-a	V	NF.V.PT	D
+...	_[_]	PN	N	D
+x	_[_]	N	N	D
+iti	iti[month]	N	N	D
+3(disz)-kam	3(disz)[one]-ak-am	NU	NU.GEN.COP-3-SG	D
+...	_[_]	PN	N	D
+x	_[_]	N	N	D
+du8	_	V	NF.V.ABS	Iabcdef
+...	_[_]	PN	N	D
+x-na	_	DN	DN	POS
+...	_[_]	PN	N	D
+x-ta	_	PN	PN.GEN.ABL	Iabcdef
+...	_[_]	PN	N	D
+x-si-ba	_	 	 	POS
+mu	mu[year]	N	N	D
+hu-uh2-nu-ri{ki}	Huhnuri[1][-ø]	GN	SN.ABS	D
+ba-hul	ba-hulu[destroy][-ø]	V	MID.V.3-SG-S	D

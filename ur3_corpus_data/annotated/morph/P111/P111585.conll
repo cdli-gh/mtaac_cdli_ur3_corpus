@@ -1,0 +1,26 @@
+#new_text=P111585
+FORM	SEGM	XPOSTAG	XPOSTAG	POS
+1(disz)	1(disz)[one]	NU	NU	D
+nagar	nagar[carpenter]	N	N	D
+u4	ud[day]	N	N	D
+3(u)-sze3	3(u)[ten]-sze	NU	NU.TERM	D
+{gesz}bala	_	N	N	Ia
+{gesz}x	_	PN	PN	POS
+{gesz}ab-ba	_	N	N	Ia
+kid7-a	_	N	N	POS
+1(disz)	1(disz)[one]	NU	NU	D
+nagar	nagar[carpenter]	N	N	D
+u4	ud[day]	N	N	D
+1(disz)-sze3	1(disz)[one]-sze	NU	NU.TERM	D
+bala-a	bala[tax][-ak]-'a	N	N.GEN.L1	D
+gub-ba	gub[assigned]-a[-ak][-ø]	V	NF.V.PT	D
+ki	ki[place]	N	N	D
+lu2-{d}nin-gir2-su-ta	Luningirsu[1][-ak]-ta	PN	PN.GEN.ABL	D
+kiszib3	kiszib[seal]	N	N	D
+ur-...	_[1][-ak]	PN	PN.GEN.ABS	D
+dumu	dumu[child]	N	N	D
+...	_[_]	PN	N	D
+mu	mu[year]	N	N	D
+en	en[priest]	N	N	D
+eridu{ki}	Eridug[1][-ak][-ø]	SN	SN.GEN.ABS	D
+ba-hun	ba-hug[hire][-ø]	V	MID.V.3-SG-S	D

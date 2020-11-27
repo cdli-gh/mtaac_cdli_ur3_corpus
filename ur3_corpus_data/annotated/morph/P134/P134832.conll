@@ -1,0 +1,24 @@
+#new_text=P134832
+FORM	SEGM	XPOSTAG	XPOSTAG	POS
+1(disz)	1(disz)[one]	NU	NU	D
+u8	u[ewe]	N	N	D
+x	_[_]	N	N	D
+mu	mu[year]	N	N	D
+sza-asz-ru{ki}-ta	_	SN	SN.GEN.ABL	Iabcdefg
+1(disz)	1(disz)[one]	NU	NU	D
+u8	u[ewe]	N	N	D
+mu	mu[year]	N	N	D
+si-mu-ru-um	Simurum[1]	GN	SN	D
+lu-lu-bu-um{ki}	Lulubum[1][-ø]	SN	SN.ABS	D
+ki	ki[place]	N	N	D
+{d}nansze-kam-ta	_	PN	PN	POS
+a2-{d}suen	_	PN	PN	Iabcde
+i3-dab5	i[-n]-dab[seize][-ø]	V	FIN.3-SG-H-A.V.3-SG-P	D
+mu	mu[year]	N	N	D
+si-mu-ru-um	Simurum[1]	GN	SN	D
+u3	u[and]	CNJ	CNJ	D
+lu-lu-bu-um	_	PN	PN	Iabcdefgh
+a-ra2	ara[times]	N	N	D
+1(u)	1(u)[ten]	NU	NU	D
+la2	la[hang][-ø]	V	NF.V.ABS	D
+1(disz)-kam-asz	_	NU	NU.GEN.COP-3-SG.TERM	Iab

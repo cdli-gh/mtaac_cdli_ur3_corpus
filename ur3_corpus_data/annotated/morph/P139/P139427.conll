@@ -1,0 +1,20 @@
+#new_text=P139427
+FORM	SEGM	XPOSTAG	XPOSTAG	POS
+1(asz)	1(asz)[one]	NU	NU	D
+1(barig)	1(bariga)[unit]	NU	N	D
+3(ban2)	3(ban)[unit]	NU	N	D
+5(disz)	5(disz)[one]	NU	NU	D
+sila3	sila[unit]	N	N	D
+...	_[_]	PN	N	D
+1(u)	1(u)[ten]	NU	NU	D
+4(asz)	4(asz)[one]	NU	NU	D
+2(barig)	2(bariga)[unit]	NU	N	D
+1(ban2)	1(ban)[unit]	NU	N	D
+5/6(disz)	5/6(disz)[one]	NU	NU	D
+...	_[_]	PN	N	D
+iti	iti[month]	N	N	D
+ki-siki-{d}nin-a-zu	Kisikininazu[1][-'a]	MN	MN.L1	D
+1(barig)	1(bariga)[unit]	NU	N	D
+5(disz)	5(disz)[one]	NU	NU	D
+iti	iti[month]	N	N	D
+ezem-{d}nin-a-zu	Ezemninazu[1][-'a]	MN	MN.L1	D

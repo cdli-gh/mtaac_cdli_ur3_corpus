@@ -1,0 +1,36 @@
+#new_text=P141142
+FORM	SEGM	XPOSTAG	XPOSTAG	POS
+3(ban2)	3(ban)[unit]	NU	N	D
+6(disz)	6(disz)[one][-sze]	NU	NU	D
+sila3	sila[unit]	N	N	D
+i3-szah2	iszah[lard][-ø]	N	N	D
+usz-bar	uszbar[weaver][-ak]	N	N	D
+geme2	geme[female_worker]	N	N	D
+kikken2-na	_	N	N.GEN	Iabc
+u3	u[and]	CNJ	CNJ	D
+he2-dab5	hedab[worker]	V	N.DAT-H	D
+ib2-szesz4	i-b-szesz[anoint][-ø]	V	FIN.3-SG-NH-A.V.3-SG-P	D
+ki	ki[place]	N	N	D
+ur-{d}szul-pa-e3-ta	Urszulpa'e[1][-ak]-ta	PN	PN.GEN.ABL	D
+kiszib3	kiszib[seal]	N	N	D
+ensi2-ka	ensik[ruler]-ak	N	N.GEN	D
+iti-...	_	 	 	POS
+iti	iti[month]	N	N	D
+sze-sag11-ku5	Szesagku[1][-'a]	MN	MN.L1	D
+mu	mu[year]	N	N	D
+en-unu6-gal	Enunugal[1]	PN	PN	D
+{d}inanna	Inanna[1][-ak]	DN	DN	D
+ba-hun	ba-hug[hire][-ø]	V	MID.V.3-SG-S	D
+{d}amar-{d}suen	Amarsuen[1]	RN	RN	D
+nita	nita[male]	N	N	D
+kal-ga	kalag[strong]-a	V	NF.V.SUB	D
+lugal	lugal[king]	N	N	D
+uri5{ki}-ma	Urim[1]-ak	SN	SN.GEN	D
+lugal	lugal[king]	N	N	D
+an	An[1][-ra]	N	N	D
+ub-da	_	N	N	D
+limmu2-ba	limmu[four]-bi-ak[-ø]	V	NF.V.3-SG-NH-POSS.GEN.ABS	D
+ur-{d}li9-si4	Urlisi[1]	PN	PN	D
+ensi2	ensik[ruler]	N	N	D
+umma{ki}	Umma[1][-ak][-ø]	SN	SN.GEN.ABS	D
+ARAD2-zu	arad[slave]-zu[-ø]	PN	N.2-SG-POSS.ABS	D

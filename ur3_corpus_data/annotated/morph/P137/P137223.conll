@@ -1,0 +1,22 @@
+#new_text=P137223
+FORM	SEGM	XPOSTAG	XPOSTAG	POS
+...	_[_]	PN	N	D
+zi3	zid[flour]	N	N	D
+sig15	sig[flour_type]	V	N	D
+...	_[_]	PN	N	D
+szum2-sikil	_	V	V	POS
+abzu-sze3	_	PN	PN.GEN.TERM	Iabcdefgh
+1(ban2)	1(ban)[unit]	NU	N	D
+5(disz)	5(disz)[one]	NU	NU	D
+sila3	sila[unit]	N	N	D
+zi3	zid[flour]	N	N	D
+sig15	sig[flour_type]	V	N	D
+1(ban2)	1(ban)[unit]	NU	N	D
+5(disz)	5(disz)[one]	NU	NU	D
+sila3	sila[unit]	N	N	D
+dabin	dabin[semolina]	N	N	D
+{d}nin-uri5{ki}-ma-ke4	_	DN	DN	Iabcdefgh
+lu2-tu5-a	_	PN	PN	Iabcde
+iti	iti[month]	N	N	D
+ezem-{d}nin-a-zu	Ezemninazu[1][-'a]	MN	MN.L1	D
+ba-zi	ba-zig[expend][-ø]	PN	MID.V.3-SG-S	D

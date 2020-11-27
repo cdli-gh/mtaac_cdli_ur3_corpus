@@ -1,0 +1,26 @@
+#new_text=P139301
+FORM	SEGM	XPOSTAG	XPOSTAG	POS
+5(disz)	5(disz)[one]	NU	NU	D
+...	_[_]	PN	N	D
+1(disz)	1(disz)[one]	NU	NU	D
+ma2	ma[ship]	N	N	D
+3(u)	3(u)[ten]	NU	NU	D
+gur	gur[unit]	N	N	D
+al-su-a	_	V	V	POS
+1(disz)	1(disz)[one]	NU	NU	D
+du6-ezem{ki}	_	GN	GN	POS
+n	_(_)[_]	NU	NU	D
+2(disz)	2(disz)[one]	NU	NU	D
+ma2	ma[ship]	N	N	D
+2(u)	2(u)[ten]	NU	NU	D
+gur	gur[unit]	N	N	D
+gub-ba	gub[assigned]-a[-ak][-ø]	V	NF.V.PT	D
+n	_(_)[_]	NU	NU	D
+1(disz)	1(disz)[one]	NU	NU	D
+ma2	ma[ship]	N	N	D
+4(u)	4(u)[ten]	NU	NU	D
+gur	gur[unit]	N	N	D
+al-su-a	_	V	V	POS
+ki	ki[place]	N	N	D
+lu2-{d}en-lil2-la2	Lu'enlila[1]	PN	PN	D
+x	_[_]	N	N	D

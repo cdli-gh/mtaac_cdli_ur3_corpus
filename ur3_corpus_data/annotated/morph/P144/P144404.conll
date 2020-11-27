@@ -1,0 +1,20 @@
+#new_text=P144404
+FORM	SEGM	XPOSTAG	XPOSTAG	POS
+1(u)	1(u)[ten]	NU	NU	D
+9(asz)	9(asz)[one]	NU	NU	D
+2(barig)	2(bariga)[unit]	NU	N	D
+3(ban2)	3(ban)[unit]	NU	N	D
+sze	sze[barley]	N	N	D
+gur	gur[unit]	N	N	D
+sa2-du11	sadug[offerings]	N	N	D
+{d}szara2	Szara[1][-ak]	DN	DN	D
+|KI.AN|{ki}	Ki'an[1][-ak][-ra]	SN	SN.GEN.DAT-H	D
+kiszib3	kiszib[seal]	N	N	D
+lugal-a2-zi-da	Lugalazida[1]	PN	PN	D
+e2-kikken	_	TN	TN	POS
+sumun-ta	_	N	N	POS
+iti	iti[month]	N	N	D
+diri	diri[intercalary_month]	N	N	D
+mu	mu[year]	N	N	D
+{d}szu-{d}suen	Szusuen[1]	RN	RN	D
+lugal	lugal[king]	N	N	D

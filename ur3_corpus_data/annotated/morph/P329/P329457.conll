@@ -1,0 +1,26 @@
+#new_text=P329457
+FORM	SEGM	XPOSTAG	XPOSTAG	POS
+5(disz)	5(disz)[one]	NU	NU	D
+gurusz	gurusz[male]	N	N	D
+szitim	_	N	N	Ia
+4(disz)	4(disz)[one]	NU	NU	D
+...	_[_]	PN	N	D
+...	_[_]	PN	N	D
+...	_[_]	PN	N	D
+u3	u[and]	CNJ	CNJ	D
+puzur4-{d}nin-kar-ke3	_	PN	PN.GEN.TERM	Iabcdef
+dub-sar	dubsar[scribe]	N	N	D
+sza3	szag[heart]	N	N	D
+gar-sza-an-na{ki}	_	SN	SN.GEN	Ia
+iti	iti[month]	N	N	D
+ezem-{d}szul-gi	Ezemszulgir[1][-'a]	MN	MN.L1	D
+mu	mu[year]	N	N	D
+{d}szu-{d}suen	Szusuen[1]	RN	RN	D
+lugal-e	lugal[king]-e	N	N.ERG	D
+na-ru2-a-mah	naruamah[magnificent_stele][-ø]	PN	N.ABS	D
+{d}en-lil2	Enlil[1]	DN	DN	D
+{d}nin-lil2-ra	Ninlil[1]-ra	DN	DN.DAT-H	D
+mu-ne-du3	mu-nnee[-a][-n]-du[build][-ø]	V	VEN.3-PL.DAT.3-SG-H-A.V.3-SG-P	D
+u4	ud[day]	N	N	D
+2(u)	2(u)[ten]	NU	NU	D
+3(disz)-kam	3(disz)[one]-ak-am	NU	NU.GEN.COP-3-SG	D

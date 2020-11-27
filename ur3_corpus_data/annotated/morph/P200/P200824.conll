@@ -1,0 +1,26 @@
+#new_text=P200824
+FORM	SEGM	XPOSTAG	XPOSTAG	POS
+1(u)	1(u)[ten]	NU	NU	D
+8(disz)	8(disz)[one]	NU	NU	D
+gurusz	gurusz[male]	N	N	D
+u4	ud[day]	N	N	D
+2(disz)-sze3	2(disz)[one]-sze	NU	NU.TERM	D
+ga2-nun	_	N	N	D
+gaba	gaba[frontier][-ak]	N	N	D
+kar-ra	_	V	V	POS
+gi	gi[reed][-ø]	N	N	D
+e3-a	e[leave]-a	V	NF.V.PT	D
+u3	u[and]	CNJ	CNJ	D
+ma2-la2-a	_	N	N	POS
+kesz2-ra2	keszed[bind]-a	V	N	D
+ugula	ugula[overseer][-ø]	N	N	D
+lu2-bala-saga	_	PN	PN	Ia
+kiszib3	kiszib[seal]	N	N	D
+ukken-ne2	_	PN	PN	POS
+mu	mu[year]	N	N	D
+szu-{d}suen	Szusuen[1]	PN	RN	D
+lugal	lugal[king]	N	N	D
+ukken-ne2	_	PN	PN	POS
+dub-sar	dubsar[scribe]	N	N	D
+dumu	dumu[child]	N	N	D
+ur-{gesz}gigir	Urgigir[1]	PN	PN	D

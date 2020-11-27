@@ -1,0 +1,23 @@
+#new_text=P138998
+FORM	SEGM	XPOSTAG	XPOSTAG	POS
+4(disz)	4(disz)[one]	NU	NU	D
+sila3	sila[unit]	N	N	D
+i3-gesz	igesz[oil]	V	N	D
+i3-ba	iba[oil_ration]	N	N	D
+{d}nanna-kam	Nannakam[1]	DN	PN	D
+dub-sar	dubsar[scribe]	N	N	D
+szu	szu[hand][-e]	N	N.L3-NH	D
+3(disz)	3(disz)[one]	NU	NU	D
+sila3	sila[unit]	N	N	D
+{d}nanna-kam	Nannakam[1]	DN	PN	D
+min	_	N	N	POS
+5(disz)	5(disz)[one]	NU	NU	D
+sila3	sila[unit]	N	N	D
+i3-ba	iba[oil_ration]	N	N	D
+lugal-nimgir	_	PN	PN	Iabcde
+iti	iti[month]	N	N	D
+ezem-{d}szul-gi	Ezemszulgir[1][-'a]	MN	MN.L1	D
+mu	mu[year]	N	N	D
+us2-sa	us[follow]-a	V	NF.V.PT	D
+bad3-gal	badgal[great_wall][-ø]	N	N.ABS	D
+ba-du3	ba-du[build][-ø]	V	MID.V.3-SG-S	D

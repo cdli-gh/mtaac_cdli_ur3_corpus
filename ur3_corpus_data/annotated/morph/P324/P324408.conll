@@ -1,0 +1,23 @@
+#new_text=P324408
+FORM	SEGM	XPOSTAG	XPOSTAG	POS
+1(disz)	1(disz)[one]	NU	NU	D
+har	_	N	N	POS
+{gesz}asal2	_	N	N	Ia
+u4-a	_	N	N	POS
+6(disz)	6(disz)[one][-sze]	NU	NU	D
+har	_	N	N	POS
+{gesz}asal2	_	N	N	Ia
+u4	ud[day]	N	N	D
+1(disz)-ta	1(disz)[one]-ta	NU	NU.ABL	D
+{gesz}kiri6-ta	_	N	N	POS
+{d}iszkur-illat-ta	Iszkurillat[1][-ak]-ta	PN	PN.GEN.ABL	D
+...	_[_]	PN	N	D
+...	_[_]	PN	N	D
+iti	iti[month]	N	N	D
+...	_[_]	PN	N	D
+mu	mu[year]	N	N	D
+ma-da	mada[land][-ak][-ø]	N	N	D
+za-ab-sza-li{ki}	Zabszali[1][-ak][-ø]	GN	SN.GEN.ABS	D
+mu-hul	mu[-n]-hulu[destroy][-ø]	V	VEN.3-SG-H-A.V.3-SG-P	D
+nu-gal2	_	V	NEG.NF.V.RDP.F	Iabcdefghi
+gaba-ri	gabari[copy]	N	N	D

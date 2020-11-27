@@ -1,0 +1,25 @@
+#new_text=P120172
+FORM	SEGM	XPOSTAG	XPOSTAG	POS
+5(disz)	5(disz)[one]	NU	NU	D
+sila3	sila[unit]	N	N	D
+kasz	kasz[beer]	N	N	D
+5(disz)	5(disz)[one]	NU	NU	D
+sila3	sila[unit]	N	N	D
+ninda	ninda[bread]	N	N	D
+2(disz)	2(disz)[one]	NU	NU	D
+gin2	gig[unit]	N	N	D
+i3	i[oil]	N	N	D
+ki	ki[place]	N	N	D
+DI-x	_	 	 	POS
+x	_[_]	N	N	D
+...	_[_]	PN	N	D
+a	a[water][-ø]	N	N.ABS	D
+bu	bu[unknown]	 	 	POS
+x	_[_]	N	N	D
+...	_[_]	PN	N	D
+zi-ga	zig[expend]-a	V	NF.V.PT	D
+u4	ud[day]	N	N	D
+1(u)	1(u)[ten]	NU	NU	D
+3(disz)-kam	3(disz)[one]-ak-am	NU	NU.GEN.COP-3-SG	D
+iti	iti[month]	N	N	D
+szu-numun	Szunumun[1][-'a]	MN	MN.L1	D

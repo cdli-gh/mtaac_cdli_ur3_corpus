@@ -1,0 +1,23 @@
+#new_text=P145124
+FORM	SEGM	XPOSTAG	XPOSTAG	POS
+2(gesz2)	2(gesz)[sixty]	NU	NU	D
+3(u)	3(u)[ten]	NU	NU	D
+3(asz)	3(asz)[one]	NU	NU	D
+1(barig)	1(bariga)[unit]	NU	N	D
+4(ban2)	4(ban)[unit]	NU	N	D
+5(disz)	5(disz)[one]	NU	NU	D
+sila3	sila[unit]	N	N	D
+sze	sze[barley]	N	N	D
+gur	gur[unit]	N	N	D
+sze-ba	szeba[ration]	N	N	D
+iti-da	itud[worker_category][-sze]	N	N	D
+ki-su7	kisur[threshing_floor]	N	N	D
+HI-a-bar-ra-ta	_	PN	PN	POS
+iti	iti[month]	N	N	D
+pa4-u2-e	Pa'u'e[1][-'a]	MN	MN.L1	D
+mu	mu[year]	N	N	D
+didli	didli[several][-ø][-ak]	V	NF.V.ABS	D
+du12-du12	_	V	V	POS
+mu	mu[year]	N	N	D
+{d}i-bi2-{d}suen	Ibbisuen[1]	RN	RN	D
+lugal	lugal[king]	N	N	D

@@ -1,0 +1,26 @@
+#new_text=P100326
+FORM	SEGM	XPOSTAG	XPOSTAG	POS
+1(gesz2)	1(gesz)[sixty]	NU	NU	D
+3(u)	3(u)[ten]	NU	NU	D
+3(asz)	3(asz)[one]	NU	NU	D
+3(barig)	3(bariga)[unit]	NU	N	D
+4(ban2)	4(ban)[unit]	NU	N	D
+2(disz)	2(disz)[one]	NU	NU	D
+sila3	sila[unit]	N	N	D
+sze	sze[barley]	N	N	D
+gur	gur[unit]	N	N	D
+4(asz)	4(asz)[one]	NU	NU	D
+dabin	dabin[semolina]	N	N	D
+gur	gur[unit]	N	N	D
+ki	ki[place]	N	N	D
+lugal-ezem-ta	Lugalezem[1][-ak]-ta	PN	PN.GEN.ABL	D
+lugal-e-ba-an-sa6	Lugalebansa[1][-ra]	PN	PN	D
+szu	szu[hand][-e]	N	N.L3-NH	D
+ba-ti	ba[-n]-teg[accept][-ø]	V	MID.3-SG-H-A.V.3-SG-P	D
+a2	a[time]	N	N	D
+ma2	ma[ship]	N	N	D
+hun-ga2-sze3	_	V	NF.V.ABS.TERM	Iabcdefg
+mu	mu[year]	N	N	D
+e2	e[house]	N	N	D
+puzur4-da-gan	Puzurdagan[1][-ø]	SN	SN.ABS	D
+ba-du3	ba-du[build][-ø]	V	MID.V.3-SG-S	D

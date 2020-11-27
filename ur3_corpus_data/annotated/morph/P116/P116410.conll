@@ -1,0 +1,27 @@
+#new_text=P116410
+FORM	SEGM	XPOSTAG	XPOSTAG	POS
+5(asz)	5(asz)[one]	NU	NU	D
+4(barig)	4(bariga)[unit]	NU	N	D
+3(ban2)	3(ban)[unit]	NU	N	D
+sze	sze[barley]	N	N	D
+gur	gur[unit]	N	N	D
+lugal	lugal[king]	N	N	D
+sze-ba	szeba[ration]	N	N	D
+{gesz}tukul-e-dab5-ba	_	FN	FN	POS
+e2	e[house]	N	N	D
+{d}dumu-zi-da	_	DN	DN	POS
+u3	u[and]	CNJ	CNJ	D
+e2	e[house]	N	N	D
+{d}nin-dar-a	_	DN	DN	D
+ki	ki[place]	N	N	D
+ur-{d}nansze-ta	Urnansze[1][-ak]-ta	PN	PN.GEN.ABL	D
+lu2-usz-gi-na	_	PN	PN	D
+szu	szu[hand][-e]	N	N.L3-NH	D
+ba-ti	ba[-n]-teg[accept][-ø]	V	MID.3-SG-H-A.V.3-SG-P	D
+ugula	ugula[overseer][-ø]	N	N	D
+lugal-ra-gaba	_	N	N	POS
+iti	iti[month]	N	N	D
+sze-il2-la	Sze'ila[1][-'a]	MN	MN.L1	D
+mu	mu[year]	N	N	D
+ki-masz{ki}	Kimasz[1]	SN	SN.ABS	D
+ba-hul	ba-hulu[destroy][-ø]	V	MID.V.3-SG-S	D

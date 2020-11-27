@@ -1,0 +1,22 @@
+#new_text=P121376
+FORM	SEGM	XPOSTAG	XPOSTAG	POS
+1(u)	1(u)[ten]	NU	NU	D
+5(disz)	5(disz)[one]	NU	NU	D
+{gesz}pesz3	pesz[fig]	N	N	D
+sze-er-gu	szergu[string]	N	N	D
+2(ban2)	2(ban)[unit]	NU	N	D
+5(disz)	5(disz)[one]	NU	NU	D
+sila3	sila[unit]	N	N	D
+...	_[_]	PN	N	D
+...	_[_]	PN	N	D
+ki	ki[place]	N	N	D
+x-gi4-x	_	PN	PN.GEN.ABS	Iabcdefgh
+gal2-la	gal[be]-a[-ø]	V	NF.V.PT	D
+iti	iti[month]	N	N	D
+szu-numun	Szunumun[1][-'a]	MN	MN.L1	D
+mu	mu[year]	N	N	D
+us2-sa	us[follow]-a	V	NF.V.PT	D
+en	en[priest]	N	N	D
+{d}en-ki	Enki[1][-ak][-ø]	DN	DN.GEN.ABS	D
+eridu{ki}	Eridug[1][-ak][-ø]	SN	SN.GEN.ABS	D
+ba-hun	ba-hug[hire][-ø]	V	MID.V.3-SG-S	D

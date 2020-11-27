@@ -1,0 +1,19 @@
+#new_text=P101944
+FORM	SEGM	XPOSTAG	XPOSTAG	POS
+7(gesz2)	7(gesz)[sixty]	NU	NU	D
+3(u)	3(u)[ten]	NU	NU	D
+6(asz)	6(asz)[one]	NU	NU	D
+3(barig)	3(bariga)[unit]	NU	N	D
+sze	sze[barley]	N	N	D
+gesz	gesz[tree]	N	N	D
+e3	e[leave][-a]	V	NF.V.PT	D
+1(gesz2)	1(gesz)[sixty]	NU	NU	D
+1(u)	1(u)[ten]	NU	NU	D
+1(asz)	1(asz)[one]	NU	NU	D
+1(barig)	1(bariga)[unit]	NU	N	D
+x	_[_]	N	N	D
+...	_[_]	PN	N	D
+igi-sa6-sa6	Igisasa[1]	PN	PN	D
+engar	engar[farmer]	N	N	D
+a-sza3	aszag[field]	N	N	D
+gi-x	_	FN	FN	POS

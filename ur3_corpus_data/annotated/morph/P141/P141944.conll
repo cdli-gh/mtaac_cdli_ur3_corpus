@@ -1,0 +1,19 @@
+#new_text=P141944
+FORM	SEGM	XPOSTAG	XPOSTAG	POS
+4(gesz2)	4(gesz)[sixty]	NU	NU	D
+3(u)	3(u)[ten]	NU	NU	D
+5(disz)	5(disz)[one]	NU	NU	D
+gurusz	gurusz[male]	N	N	D
+nagar	nagar[carpenter]	N	N	D
+u4	ud[day]	N	N	D
+1(disz)-sze3	1(disz)[one]-sze	NU	NU.TERM	D
+nagar	nagar[carpenter]	N	N	D
+bar-ra	bar[outside]-ak	V	N.GEN	D
+kar	_	N	N	POS
+ki	ki[place]	N	N	D
+ARAD2-ta	Arad[1][-ak]-ta	PN	PN.GEN.ABL	D
+mu	mu[year]	N	N	D
+us2-sa	us[follow]-a	V	NF.V.PT	D
+e2	e[house]	N	N	D
+puzur4-{d}da-gan	Puzurdagan[1][-ø]	SN	SN.ABS	D
+ba-du3	ba-du[build][-ø]	V	MID.V.3-SG-S	D

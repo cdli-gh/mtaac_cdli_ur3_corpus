@@ -1,0 +1,22 @@
+#new_text=P320224
+FORM	SEGM	XPOSTAG	XPOSTAG	POS
+5(disz)	5(disz)[one]	NU	NU	D
+sila3	sila[unit]	N	N	D
+kasz	kasz[beer]	N	N	D
+3(disz)	3(disz)[one]	NU	NU	D
+sila3	sila[unit]	N	N	D
+ninda	ninda[bread]	N	N	D
+4(disz)	4(disz)[one]	NU	NU	D
+gin2	gig[unit]	N	N	D
+i3-gesz	igesz[oil]	V	N	D
+{d}nanna-mu	_	DN	DN	POS
+sukkal	sukkal[secretary][-ak][-ra]	N	N	D
+szuszin{ki}-ta	Szuszin[1]-ta	SN	SN.ABL	D
+...	_[_]	PN	N	D
+uri5{ki}-sze3	Urim[1]-sze	SN	SN.TERM	D
+gen-na	gen[go]-a	V	NF.V.PT	D
+iti	iti[month]	N	N	D
+ezem-{d}li9-si4	_	MN	MN	POS
+mu	mu[year]	N	N	D
+{d}amar-{d}suen	Amarsuen[1]	RN	RN	D
+lugal	lugal[king]	N	N	D

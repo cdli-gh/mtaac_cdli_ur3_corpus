@@ -1,0 +1,25 @@
+#new_text=P128469
+FORM	SEGM	XPOSTAG	XPOSTAG	POS
+1(ban2)	1(ban)[unit]	NU	N	D
+2(disz)	2(disz)[one]	NU	NU	D
+sila3	sila[unit]	N	N	D
+gu2-gal-gal	_	PN	PN	POS
+1(ban2)	1(ban)[unit]	NU	N	D
+2(disz)	2(disz)[one]	NU	NU	D
+sila3	sila[unit]	N	N	D
+gu2-tur-tur	_	PN	PN	Iabcdefgh
+1(disz)	1(disz)[one]	NU	NU	D
+sila3	sila[unit]	N	N	D
+{u2}gamun2	_	N	N	POS
+5(disz)	5(disz)[one]	NU	NU	D
+sila3	sila[unit]	N	N	D
+sze-lu2	_	N	N	POS
+5(disz)	5(disz)[one]	NU	NU	D
+sila3	sila[unit]	N	N	D
+gazi	gazi[condiment]	N	N	D
+ki-a-nag	ki'anag[place_of_libations]	N	N	D
+lugal-lugal-ne	_	PN	PN	Iabcdefgh
+iti	iti[month]	N	N	D
+ezem-{d}dumu-zi	Ezemdumuzi[1][-'a]	MN	MN.L1	D
+zi-ga	zig[expend]-a	V	NF.V.PT	D
+ka-sa6-sa6	_	PN	PN	POS

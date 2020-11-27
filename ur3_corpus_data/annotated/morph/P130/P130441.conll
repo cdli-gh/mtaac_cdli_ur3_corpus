@@ -1,0 +1,23 @@
+#new_text=P130441
+FORM	SEGM	XPOSTAG	XPOSTAG	POS
+5(asz)	5(asz)[one]	NU	NU	D
+4(barig)	4(bariga)[unit]	NU	N	D
+4(ban2)	4(ban)[unit]	NU	N	D
+sze	sze[barley]	N	N	D
+gur	gur[unit]	N	N	D
+e2	e[house]	N	N	D
+ensi2-ka	ensik[ruler]-ak	N	N.GEN	D
+sza3-gal	szaggal[food]	N	N	D
+udu	udu[sheep]	N	N	D
+niga	niga[fattened][-ø]	V	NF.V.ABS	D
+saga-ta	saga[good][-ø]-ta	V	NF.V.ABS.ABL	D
+mu-kux(DU)	mukur[delivery][-ø]	N	N	D
+sza3	szag[heart]	N	N	D
+e2	e[house]	N	N	D
+masz-sze3	_	N	N	POS
+iti	iti[month]	N	N	D
+diri	diri[intercalary_month]	N	N	D
+mu	mu[year]	N	N	D
+e2	e[house]	N	N	D
+{d}szara2	Szara[1][-ak]	DN	DN	D
+ba-du3	ba-du[build][-ø]	V	MID.V.3-SG-S	D

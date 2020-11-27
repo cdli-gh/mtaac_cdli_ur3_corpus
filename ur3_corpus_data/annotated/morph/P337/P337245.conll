@@ -1,0 +1,21 @@
+#new_text=P337245
+FORM	SEGM	XPOSTAG	XPOSTAG	POS
+1(asz)	1(asz)[one]	NU	NU	D
+1(barig)	1(bariga)[unit]	NU	N	D
+5(ban2)	5(ban)[unit]	NU	N	D
+gur	gur[unit]	N	N	D
+sze-ba	szeba[ration]	N	N	D
+lu2-bu3	_	PN	PN	Iabcde
+nar	_	N	N	POS
+4(asz)	4(asz)[one]	NU	NU	D
+gur	gur[unit]	N	N	D
+sa6-sa6-ga	_	PN	PN	POS
+szu	szu[hand][-e]	N	N.L3-NH	D
+ba-ti	ba[-n]-teg[accept][-ø]	V	MID.3-SG-H-A.V.3-SG-P	D
+sza3	szag[heart]	N	N	D
+u4-ga	_	N	N.GEN.GEN	Iabcdefg
+iti	iti[month]	N	N	D
+min-esz3	Minesz[1][-'a]	MN	MN.L1	D
+mu	mu[year]	N	N	D
+si-mu-ru-um{ki}	Simurrum[1]	SN	SN.ABS	D
+ba-hul	ba-hulu[destroy][-ø]	V	MID.V.3-SG-S	D

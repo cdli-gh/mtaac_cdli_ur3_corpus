@@ -1,0 +1,19 @@
+#new_text=P111489
+FORM	SEGM	XPOSTAG	XPOSTAG	POS
+1(asz)	1(asz)[one]	NU	NU	D
+2(barig)	2(bariga)[unit]	NU	N	D
+3(ban2)	3(ban)[unit]	NU	N	D
+kasz	kasz[beer]	N	N	D
+du	gin[quality_designation][-ø]	V	NF.V.ABS	D
+gur	gur[unit]	N	N	D
+1(asz)	1(asz)[one]	NU	NU	D
+2(barig)	2(bariga)[unit]	NU	N	D
+3(ban2)	3(ban)[unit]	NU	N	D
+dabin	dabin[semolina]	N	N	D
+gur	gur[unit]	N	N	D
+be-li2-a-ri2-ik	_	PN	PN	Ia
+ensi2	ensik[ruler]	N	N	D
+szuszin{ki}	_	SN	SN.GEN.ABS	D
+szuszin{ki}-ta	Szuszin[1]-ta	SN	SN.ABL	D
+du-ni	du[go][-ed]-ani[-'a]	V	NF.V.PF.F.3-SG-H-POSS.L1	D
+...-x	_[_]	WN	RN	D

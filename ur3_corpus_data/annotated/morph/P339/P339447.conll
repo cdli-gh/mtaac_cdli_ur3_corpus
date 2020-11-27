@@ -1,0 +1,17 @@
+#new_text=P339447
+FORM	SEGM	XPOSTAG	XPOSTAG	POS
+2(asz)	2(asz)[one]	NU	NU	D
+1(barig)	1(bariga)[unit]	NU	N	D
+3(ban2)	3(ban)[unit]	NU	N	D
+sze	sze[barley]	N	N	D
+ur5-ra	urra[loan]	N	N	D
+gur	gur[unit]	N	N	D
+ur-nigar{gar}	Urnigar[1]	PN	PN	D
+nig2-lagar	_	N	N	POS
+SZIM	szim[beer_malt]	N	N	D
+1(asz)	1(asz)[one]	NU	NU	D
+4(barig)	4(bariga)[unit]	NU	N	D
+gur	gur[unit]	N	N	D
+kas4	kas[runner][-ra]	N	N.DAT-H	D
+1(barig)	1(bariga)[unit]	NU	N	D
+nig2-mu-me-en8	_	PN	PN	POS

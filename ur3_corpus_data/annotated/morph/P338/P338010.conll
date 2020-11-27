@@ -1,0 +1,8 @@
+#new_text=P338010
+FORM	SEGM	XPOSTAG	XPOSTAG	POS
+{d}en	_	DN	DN	Iabcde
+...	_[_]	PN	N	D
+iri	iri[city]	N	N	D
+...	_[_]	PN	N	D
+{gesz}x	_	PN	PN	POS
+...	_[_]	PN	N	D

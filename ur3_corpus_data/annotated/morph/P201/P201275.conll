@@ -1,0 +1,18 @@
+#new_text=P201275
+FORM	SEGM	XPOSTAG	XPOSTAG	POS
+2(u)	2(u)[ten]	NU	NU	D
+9(asz)	9(asz)[one]	NU	NU	D
+3(barig)	3(bariga)[unit]	NU	N	D
+3(ban2)	3(ban)[unit]	NU	N	D
+sze	sze[barley]	N	N	D
+gur	gur[unit]	N	N	D
+lugal	lugal[king]	N	N	D
+si-i3-tum	situm[balance]	N	N	D
+nig2-ka9-ak	nigSZID[account]	N	N	D
+ur-{d}szul-pa-e3	Urszulpa'e[1]	PN	PN	D
+mu	mu[year]	N	N	D
+si-mu-ru-um	Simurum[1]	GN	SN	D
+a-ra2	ara[times]	N	N	D
+3(disz)-kam-asz	3(disz)[one]-ak-am-sze	NU	NU.GEN.COP-3-SG.TERM	D
+...	_[_]	PN	N	D
+ba-hul	ba-hulu[destroy][-ø]	V	MID.V.3-SG-S	D

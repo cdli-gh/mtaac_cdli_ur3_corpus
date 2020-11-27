@@ -1,0 +1,27 @@
+#new_text=P453970
+FORM	SEGM	XPOSTAG	XPOSTAG	POS
+2(ban2)	2(ban)[unit]	NU	N	D
+kasz	kasz[beer]	N	N	D
+4(ban2)	4(ban)[unit]	NU	N	D
+ninda	ninda[bread]	N	N	D
+1(disz)	1(disz)[one]	NU	NU	D
+sila3	sila[unit]	N	N	D
+nig2-i3-de2-a	_	N	N	Ia
+ba-ba-lum	_	PN	PN	Ia
+szusz3	kusz[cattle_manager][-ak]	N	N.GEN	D
+u4	ud[day]	N	N	D
+ma-sza-lum	_	PN	PN	Iabcde
+ku3-babbar	kugbabbar[silver]	N	N	D
+a-ru-a	_	GN	GN	POS
+{d}nin-hur-sag	Ninhursagak[1][-ra]	DN	DN	D
+in-ku4-ra-a	_	V	V	POS
+iti	iti[month]	N	N	D
+nig2-e-ga	_	PN	PN	POS
+mu	mu[year]	N	N	D
+{d}i-bi2-{d}suen	Ibbisuen[1]	RN	RN	D
+lugal	lugal[king]	N	N	D
+...	_[_]	PN	N	D
+dub-sar	dubsar[scribe]	N	N	D
+...	_[_]	PN	N	D
+dumu	dumu[child]	N	N	D
+dingir-...	_	PN	PN	Iabcde

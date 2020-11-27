@@ -1,0 +1,22 @@
+#new_text=P340602
+FORM	SEGM	XPOSTAG	XPOSTAG	POS
+2(u)	2(u)[ten]	NU	NU	D
+sze	sze[barley]	N	N	D
+gur	gur[unit]	N	N	D
+lugal	lugal[king]	N	N	D
+ki	ki[place]	N	N	D
+gu3-de2-a-ta	_	PN	PN.GEN.ABL	Iabcdef
+mu	mu[year]	N	N	D
+erin2-na-sze3	erin[people]-ak-sze	N	N.GEN.TERM	D
+u3-ma-ni	Umani[1]	V	PN	D
+szu	szu[hand][-e]	N	N.L3-NH	D
+ba-ti	ba[-n]-teg[accept][-ø]	V	MID.3-SG-H-A.V.3-SG-P	D
+sze	sze[barley]	N	N	D
+...	_[_]	PN	N	D
+IG-da	_	 	 	POS
+mu	mu[year]	N	N	D
+ma2	ma[ship]	N	N	D
+dara4	_	V	V	POS
+abzu	_	PN	N	D
+{d}en-ki	Enki[1][-ak][-ø]	DN	DN.GEN.ABS	D
+ba-ab-du8	ba-b-du[caulk][-ø]	V	MID.3-SG-NH-L3.V.3-SG-S	D

@@ -1,0 +1,27 @@
+#new_text=P113798
+FORM	SEGM	XPOSTAG	XPOSTAG	POS
+3(u)	3(u)[ten]	NU	NU	D
+2(asz)	2(asz)[one]	NU	NU	D
+4(barig)	4(bariga)[unit]	NU	N	D
+3(ban2)	3(ban)[unit]	NU	N	D
+2(disz)	2(disz)[one]	NU	NU	D
+sila3	sila[unit]	N	N	D
+sze	sze[barley]	N	N	D
+gur	gur[unit]	N	N	D
+lugal	lugal[king]	N	N	D
+sza3-gal	szaggal[food]	N	N	D
+erin2	erin[people]	N	N	D
+ebih{ki}	_	GN	GN	POS
+ki	ki[place]	N	N	D
+ur-{d}en-lil2-la2-ta	_	PN	PN.GEN.GEN.ABL	Iabcdefg
+kiszib3	kiszib[seal]	N	N	D
+lu2-nigin6{ki}	_	PN	PN.GEN.ERG	Iabcdefgh
+dumu	dumu[child]	N	N	D
+ur-{d}nansze	Urnansze[1]	PN	PN	D
+iti	iti[month]	N	N	D
+ezem-{d}ba-ba6-ta	_	MN	MN.GEN.ABL	Iabcdefg
+iti	iti[month]	N	N	D
+sze-sag11-ku5-sze3	Szesagku[1]-sze	MN	MN.TERM	D
+mu	mu[year]	N	N	D
+hu-uh2-nu-ri{ki}	Huhnuri[1][-ø]	GN	SN.ABS	D
+ba-hul	ba-hulu[destroy][-ø]	V	MID.V.3-SG-S	D

@@ -1,0 +1,27 @@
+#new_text=P211928
+FORM	SEGM	XPOSTAG	XPOSTAG	POS
+4(u)	4(u)[ten]	NU	NU	D
+8(disz)	8(disz)[one]	NU	NU	D
+geme2	geme[female_worker]	N	N	D
+u4	ud[day]	N	N	D
+1(disz)-sze3	1(disz)[one]-sze	NU	NU.TERM	D
+u4	ud[day]	N	N	D
+tusz-a	tusz[dewell]-a	V	NF.V.PT	D
+geme2	geme[female_worker]	N	N	D
+kikken2	_	N	N.GEN.GEN.ABS	D
+a2	a[time]	N	N	D
+sag-nig2-gur11-ra-ta	_	PN	PN	POS
+zi-ga	zig[expend]-a	V	NF.V.PT	D
+szu-a-gi-na	_	PN	PN.GEN	Iabcdef
+u3-ub-ta-zi	_	PN	PN	POS
+ib2-tak4	_	N	N	POS
+BA	_	 	 	POS
+u4	ud[day]	N	N	D
+tusz-a	tusz[dewell]-a	V	NF.V.PT	D
+he2-eb2-de6	_	V	MOD1.FIN.3-NH.L2-SYN.V.3-SG-S	Iabcdefg
+ki	ki[place]	N	N	D
+pu3-lu5-lu5-ta	_	PN	PN.GEN.GEN.ABL	Iabcdefg
+ba-zi	ba-zig[expend][-ø]	PN	MID.V.3-SG-S	D
+mu	mu[year]	N	N	D
+{d}amar-{d}suen	Amarsuen[1]	RN	RN	D
+lugal	lugal[king]	N	N	D

@@ -1,0 +1,12 @@
+#new_text=P111736
+FORM	SEGM	XPOSTAG	XPOSTAG	POS
+6(gesz2)	6(gesz)[sixty]	NU	NU	D
+5(u)	5(u)[ten]	NU	NU	D
+3(disz)	3(disz)[one]	NU	NU	D
+gurusz	gurusz[male]	N	N	D
+u4	ud[day]	N	N	D
+1(disz)-sze3	1(disz)[one]-sze	NU	NU.TERM	D
+gi	gi[reed][-ø]	N	N	D
+ze2-a	ze[cut]-a	V	NF.V.PT	D
+gil-nigin2-esz3-a-bi	_	N	N	POS
+sur-ra	_	V	NF.V.RDP.ABS.GEN.GEN.ABL	Iabcdefghi

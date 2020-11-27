@@ -1,0 +1,17 @@
+#new_text=P145095
+FORM	SEGM	XPOSTAG	XPOSTAG	POS
+1(asz)	1(asz)[one]	NU	NU	D
+2(barig)	2(bariga)[unit]	NU	N	D
+3(ban2)	3(ban)[unit]	NU	N	D
+{gesz}pesz3	pesz[fig]	N	N	D
+gur	gur[unit]	N	N	D
+{gesz}kiri6	kiri[orchard][-'a][-ø]	N	N	D
+{d}nin-ildu3-ma	Ninilduma[1][-ak]	DN	PN.GEN	D
+lugal-ma2-gur8-re	Lugalmagure[1][-ø]	PN	PN	D
+mu	mu[year]	N	N	D
+{d}szu-{d}suen	Szusuen[1]	RN	RN	D
+lugal-e	lugal[king]-e	N	N.ERG	D
+e2	e[house]	N	N	D
+{d}szara2	Szara[1][-ak]	DN	DN	D
+umma{ki}	Umma[1][-ak][-ø]	SN	SN.GEN.ABS	D
+ba-du3	ba-du[build][-ø]	V	MID.V.3-SG-S	D

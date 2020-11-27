@@ -1,0 +1,17 @@
+#new_text=P340102
+FORM	SEGM	XPOSTAG	XPOSTAG	POS
+5(u)	5(u)[ten]	NU	NU	D
+5(asz)	5(asz)[one]	NU	NU	D
+2(barig)	2(bariga)[unit]	NU	N	D
+2(ban2)	2(ban)[unit]	NU	N	D
+8(disz)	8(disz)[one]	NU	NU	D
+sila3	sila[unit]	N	N	D
+sze-gesz-i3	szegeszi[sesame_seed]	PN	N	D
+gur	gur[unit]	N	N	D
+sze-ta	sze[barley]-ta	N	N.ABL	D
+sa10	_	V	NF.V.3-SG-NH-POSS.GEN	Iabcdef
+giri3	giri[foot]	N	N	D
+lugal-uszur3	_	PN	PN.DAT-H	Iab
+mu	mu[year]	N	N	D
+{d}szu-{d}suen	Szusuen[1]	RN	RN	D
+lugal	lugal[king]	N	N	D

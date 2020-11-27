@@ -1,0 +1,23 @@
+#new_text=P322621
+FORM	SEGM	XPOSTAG	XPOSTAG	POS
+n	_(_)[_]	NU	NU	D
+kasz	kasz[beer]	N	N	D
+du	gin[quality_designation][-ø]	V	NF.V.ABS	D
+szitim-e-ne	_	PN	PN	POS
+ib2-nag	_	V	V	POS
+ki	ki[place]	N	N	D
+i3-li2-uz-ra-ni-ta	_	PN	PN.GEN.ABL	Iabcdef
+ba-zi	ba-zig[expend][-ø]	PN	MID.V.3-SG-S	D
+giri3	giri[foot]	N	N	D
+{d}iszkur-illat	_	PN	PN	D
+szabra	szabra[chief_administrator][-ak]	N	N	D
+u3	u[and]	CNJ	CNJ	D
+puzur4-{d}nin-kar-ke3	_	PN	PN.GEN.TERM	Iabcdef
+dub-sar	dubsar[scribe]	N	N	D
+sza3	szag[heart]	N	N	D
+gar-sza-an-na{ki}	_	SN	SN.GEN	Ia
+iti	iti[month]	N	N	D
+a2-ki-ti	Akiti[1][-'a]	N	MN.L1	D
+mu	mu[year]	N	N	D
+{d}szu-{d}suen	Szusuen[1]	RN	RN	D
+...	_[_]	PN	N	D

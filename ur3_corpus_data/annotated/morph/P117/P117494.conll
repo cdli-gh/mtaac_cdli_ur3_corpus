@@ -1,0 +1,27 @@
+#new_text=P117494
+FORM	SEGM	XPOSTAG	XPOSTAG	POS
+2(asz)	2(asz)[one]	NU	NU	D
+1(barig)	1(bariga)[unit]	NU	N	D
+3(disz)	3(disz)[one]	NU	NU	D
+1/3(disz)	1/3(disz)[one]	NU	NU	D
+sila3	sila[unit]	N	N	D
+dabin	dabin[semolina]	N	N	D
+gur	gur[unit]	N	N	D
+zi3	zid[flour]	N	N	D
+a-gar-ka	_	PN	PN	Iabcdefgh
+ki	ki[place]	N	N	D
+szesz-saga-ta	_	PN	PN.GEN.ABL	Iabcdefg
+nigar{gar}-ki-du10	Nigarkidu[1][-ak][-ø]	PN	PN	D
+szu	szu[hand][-e]	N	N.L3-NH	D
+ba-ti	ba[-n]-teg[accept][-ø]	V	MID.3-SG-H-A.V.3-SG-P	D
+kiszib3	kiszib[seal]	N	N	D
+lu2-kal-la	Lukala[1][-ra]	PN	PN.GEN	D
+mu	mu[year]	N	N	D
+sza-asz-szu2-ru-um	_	GN	GN	POS
+a-ra2	ara[times]	N	N	D
+2(disz)-kam	2(disz)[one]-ak-am	NU	NU.GEN.COP-3-SG	D
+ba-hul	ba-hulu[destroy][-ø]	V	MID.V.3-SG-S	D
+lu2-kal-la	Lukala[1][-ra]	PN	PN.GEN	D
+dub-sar	dubsar[scribe]	N	N	D
+dumu	dumu[child]	N	N	D
+...	_[_]	PN	N	D

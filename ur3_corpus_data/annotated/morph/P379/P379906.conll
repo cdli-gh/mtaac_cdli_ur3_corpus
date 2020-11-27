@@ -1,0 +1,22 @@
+#new_text=P379906
+FORM	SEGM	XPOSTAG	XPOSTAG	POS
+5(asz)	5(asz)[one]	NU	NU	D
+gu2	gun[unit]	N	N	D
+5(u)	5(u)[ten]	NU	NU	D
+1(disz)	1(disz)[one]	NU	NU	D
+2/3(disz)	2/3(disz)[one]	NU	NU	D
+ma-na	mana[unit]	N	N	D
+siki-gi	sikigi[wool_type]	N	N	D
+ki	ki[place]	N	N	D
+ur-dam-ta	_	PN	PN.GEN.ABL	Iab
+nig2-gur11	nigGA[property]	N	N	D
+szu	szu[hand][-e]	N	N.L3-NH	D
+ba-ti	ba[-n]-teg[accept][-ø]	V	MID.3-SG-H-A.V.3-SG-P	D
+giri3	giri[foot]	N	N	D
+sanga	sagga[temple_administrator]	N	N	D
+{d}nin-gir2-su	Ningirsu[1][-ak][-ak]	DN	DN	D
+iti	iti[month]	N	N	D
+...	_[_]	PN	N	D
+mu	mu[year]	N	N	D
+{d}amar-{d}suen	Amarsuen[1]	RN	RN	D
+lugal	lugal[king]	N	N	D

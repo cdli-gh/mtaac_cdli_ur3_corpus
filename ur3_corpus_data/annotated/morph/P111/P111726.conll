@@ -1,0 +1,19 @@
+#new_text=P111726
+FORM	SEGM	XPOSTAG	XPOSTAG	POS
+8(asz)	8(asz)[one]	NU	NU	D
+sze	sze[barley]	N	N	D
+gur	gur[unit]	N	N	D
+gur	gur[unit]	N	N	D
+zabar-ta	_	N	N.ABL	Iabcde
+i3-dub	idub[granary]	N	N	D
+a-sza3	aszag[field]	N	N	D
+a-ba-al-la-ta	_	FN	FN.GEN.ABL	Iabcdef
+ki	ki[place]	N	N	D
+lu2-du10-ga-ta	_	PN	PN.GEN.ABL	Iab
+...	_[_]	PN	N	D
+lugal-kar-zi-da	_	PN	PN	POS
+iti	iti[month]	N	N	D
+ezem-{d}szul-gi	Ezemszulgir[1][-'a]	MN	MN.L1	D
+mu	mu[year]	N	N	D
+{d}i-bi2-{d}suen	Ibbisuen[1]	RN	RN	D
+mu-hul	mu[-n]-hulu[destroy][-ø]	V	VEN.3-SG-H-A.V.3-SG-P	D

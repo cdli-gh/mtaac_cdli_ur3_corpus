@@ -1,0 +1,26 @@
+#new_text=P121808
+FORM	SEGM	XPOSTAG	XPOSTAG	POS
+5(u)	5(u)[ten]	NU	NU	D
+5(disz)	5(disz)[one]	NU	NU	D
+gurusz	gurusz[male]	N	N	D
+u4	ud[day]	N	N	D
+1(disz)-sze3	1(disz)[one]-sze	NU	NU.TERM	D
+a-sza3-ge	aszag[field]-e	N	N.L3-NH	D
+a	a[water][-ø]	N	N.ABS	D
+du11-ga	dug[irrigate]-a	V	PN	D
+a-sza3	aszag[field]	N	N	D
+{gesz}ma-nu	manu[wood_type][-ø]	FN	N.ABS	D
+a-sza3	aszag[field]	N	N	D
+GAN2-ur-e2	_	FN	FN	POS
+...	_[_]	PN	N	D
+x	_[_]	N	N	D
+ugula	ugula[overseer][-ø]	N	N	D
+lugal-ku3-zu	Lugalkuzu[1]	PN	PN	D
+kiszib3	kiszib[seal]	N	N	D
+nam-sza3-tam	namszatam[administration]	N	N	D
+ur-{d}nisaba	Urnisaba[1][-ak]	PN	PN.GEN	D
+mu	mu[year]	N	N	D
+{d}szu-{d}suen	Szusuen[1]	RN	RN	D
+lugal-e	lugal[king]-e	N	N.ERG	D
+na-mah	namah[magnificent_stone][-ø]	N	N.ABS	D
+mu-du3	mu[-n]-du[build][-ø]	V	VEN.3-SG-H-A.V.3-SG-P	D

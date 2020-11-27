@@ -1,0 +1,15 @@
+#new_text=P337891
+FORM	SEGM	XPOSTAG	XPOSTAG	POS
+2(asz)	2(asz)[one]	NU	NU	D
+4(barig)	4(bariga)[unit]	NU	N	D
+sze	sze[barley]	N	N	D
+gur	gur[unit]	N	N	D
+lugal	lugal[king]	N	N	D
+gur	gur[unit]	N	N	D
+zabar	zabar[bright][-ø][-ø]	N	N	D
+ki	ki[place]	N	N	D
+ARAD2-ta	Arad[1][-ak]-ta	PN	PN.GEN.ABL	D
+ukken-ne2	_	PN	PN	POS
+dub-sar	dubsar[scribe]	N	N	D
+szu	szu[hand][-e]	N	N.L3-NH	D
+ba-ti	ba[-n]-teg[accept][-ø]	V	MID.3-SG-H-A.V.3-SG-P	D

@@ -1,0 +1,23 @@
+#new_text=P143292
+FORM	SEGM	XPOSTAG	XPOSTAG	POS
+1(gesz2)	1(gesz)[sixty]	NU	NU	D
+4(u)	4(u)[ten]	NU	NU	D
+gurusz	gurusz[male]	N	N	D
+u4	ud[day]	N	N	D
+1(disz)-sze3	1(disz)[one]-sze	NU	NU.TERM	D
+kar-sze3	kar[harbor]-sze	N	N.TERM	D
+ga6-ga2	gag[carry]-a	V	NF.V.PT	D
+u3	u[and]	CNJ	CNJ	D
+nig2-gu2-na	_	N	N.GEN	Iabcde
+ga6-ga2	gag[carry]-a	V	NF.V.PT	D
+giri3	giri[foot]	N	N	D
+ur-zu	Urzu[1][-ak][-ra]	PN	PN.GEN.DAT-H	D
+ugula	ugula[overseer][-ø]	N	N	D
+a-kal-la	Akala[1]	PN	PN	D
+mu	mu[year]	N	N	D
+an-sza-an	_	GN	GN	POS
+ba-hul	ba-hulu[destroy][-ø]	V	MID.V.3-SG-S	D
+ur-zu	Urzu[1][-ak][-ra]	PN	PN.GEN.DAT-H	D
+dub-sar	dubsar[scribe]	N	N	D
+dumu	dumu[child]	N	N	D
+a2-zi-da	Azida[1][-ra]	PN	PN.DAT-H	D

@@ -1,0 +1,27 @@
+#new_text=P143645
+FORM	SEGM	XPOSTAG	XPOSTAG	POS
+2(ban2)	2(ban)[unit]	NU	N	D
+4(disz)	4(disz)[one]	NU	NU	D
+sila3	sila[unit]	N	N	D
+sze	sze[barley]	N	N	D
+lugal	lugal[king]	N	N	D
+sza3-gal	szaggal[food]	N	N	D
+ansze	ansze[donkey]	N	N	D
+{d}szul-gi-ra	Szulgir[1]-ak	DN	DN.GEN	D
+e2-kikken-ta	_	TN	TN	POS
+ki	ki[place]	N	N	D
+ARAD2-ta	Arad[1][-ak]-ta	PN	PN.GEN.ABL	D
+mu	mu[year]	N	N	D
+lugal-sa-bar-re	_	PN	PN	Iabcde
+ama-ka-sze3	_	N	N	POS
+ur-{u2}gug4	Urgug[1][-ak]	PN	PN.GEN	D
+szu	szu[hand][-e]	N	N.L3-NH	D
+ba-ti	ba[-n]-teg[accept][-ø]	V	MID.3-SG-H-A.V.3-SG-P	D
+giri3	giri[foot]	N	N	D
+{d}dumu-zi	Dumuzi[1][-'a]	MN	MN.L1	D
+mu	mu[year]	N	N	D
+ur-bi2-i3-lum{ki}	_	GN	GN	POS
+ba-hul	ba-hulu[destroy][-ø]	V	MID.V.3-SG-S	D
+ur-{u2}gug4	Urgug[1][-ak]	PN	PN.GEN	D
+ARAD2	arad[slave]	N	N	D
+{d}nin-ur4-ra	Ninura[1][-ak]	DN	DN.GEN	D

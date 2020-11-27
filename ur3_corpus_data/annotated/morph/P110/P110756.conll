@@ -1,0 +1,23 @@
+#new_text=P110756
+FORM	SEGM	XPOSTAG	XPOSTAG	POS
+1(u)	1(u)[ten]	NU	NU	D
+2(asz)	2(asz)[one]	NU	NU	D
+sze	sze[barley]	N	N	D
+gur	gur[unit]	N	N	D
+lugal	lugal[king]	N	N	D
+sza3-gal	szaggal[food]	N	N	D
+szitim-ma-sze3	_	N	N	POS
+ki	ki[place]	N	N	D
+gu3-de2-a-ta	_	PN	PN.GEN.ABL	Iabcdef
+du-du	Dudu[1]	PN	PN	D
+szu	szu[hand][-e]	N	N.L3-NH	D
+ba-ti	ba[-n]-teg[accept][-ø]	V	MID.3-SG-H-A.V.3-SG-P	D
+ugula	ugula[overseer][-ø]	N	N	D
+nig2-{d}ba-ba6	Nigbaba[1][-e]	PN	PN.ERG	D
+giri3	giri[foot]	N	N	D
+lu2-dingir-ra	Ludingira[1][-ra]	PN	PN	D
+iti	iti[month]	N	N	D
+mu-szu-du7	Muszudu[1][-'a]	MN	MN.L1	D
+mu	mu[year]	N	N	D
+si-ma-{nu}num2{ki}	_	GN	GN	POS
+ba-hul	ba-hulu[destroy][-ø]	V	MID.V.3-SG-S	D

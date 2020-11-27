@@ -1,0 +1,19 @@
+#new_text=P111734
+FORM	SEGM	XPOSTAG	XPOSTAG	POS
+...	_[_]	PN	N	D
+1(szar2)	1(szar)[unit]	NU	N	D
+1(gesz'u)	1(gesz'u)[six_hundred]	NU	NU	D
+1(gesz2)	1(gesz)[sixty]	NU	NU	D
+4(u)	4(u)[ten]	NU	NU	D
+2(disz)	2(disz)[one]	NU	NU	D
+geme2	geme[female_worker]	N	N	D
+u4	ud[day]	N	N	D
+1(disz)-sze3	1(disz)[one]-sze	NU	NU.TERM	D
+a-e3-a	_	PN	PN	Iabcde
+kun-zi-da	kunzida[weir]	N	N	D
+sa-ri2-lum-ma	_	V	V	POS
+u3	u[and]	CNJ	CNJ	D
+kun-zi-da	kunzida[weir]	N	N	D
+i7	id[river]	N	N	D
+nigar	_	V	V	POS
+gub-ba	gub[assigned]-a[-ak][-ø]	V	NF.V.PT	D

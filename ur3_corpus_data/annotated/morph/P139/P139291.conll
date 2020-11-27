@@ -1,0 +1,27 @@
+#new_text=P139291
+FORM	SEGM	XPOSTAG	XPOSTAG	POS
+1(barig)	1(bariga)[unit]	NU	N	D
+{d}szul-gi	Szulgir[1]	RN	RN	D
+1(barig)	1(bariga)[unit]	NU	N	D
+{d}szu-{d}suen	Szusuen[1]	RN	RN	D
+3(ban2)	3(ban)[unit]	NU	N	D
+{d}nin-hur-sag	Ninhursagak[1][-ra]	DN	DN	D
+1(ban2)	1(ban)[unit]	NU	N	D
+...	_[_]	PN	N	D
+1(ban2)	1(ban)[unit]	NU	N	D
+al-...	_	FN	PN	D
+1(ban2)	1(ban)[unit]	NU	N	D
+ku3	kug[silver]	N	N	D
+ASZ	_	PN	PN	POS
+ASZ	_	PN	PN	POS
+x	_[_]	N	N	D
+5(disz)	5(disz)[one]	NU	NU	D
+sila3	sila[unit]	N	N	D
+NI	_	PN	PN	POS
+u3	u[and]	CNJ	CNJ	D
+x	_[_]	N	N	D
+sze-ba	szeba[ration]	N	N	D
+iti	iti[month]	N	N	D
+ezem-an-na	Ezemanna[1][-'a]	MN	MN.L1	D
+u4	ud[day]	N	N	D
+1(u)-kam	1(u)[ten]-ak-am	NU	NU.GEN.COP-3-SG	D

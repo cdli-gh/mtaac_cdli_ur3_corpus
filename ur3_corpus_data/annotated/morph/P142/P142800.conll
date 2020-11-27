@@ -1,0 +1,18 @@
+#new_text=P142800
+FORM	SEGM	XPOSTAG	XPOSTAG	POS
+1(barig)	1(bariga)[unit]	NU	N	D
+sze-ba	szeba[ration]	N	N	D
+lugal	lugal[king]	N	N	D
+lugal-nesag-e	Lugalnesage[1][-e]	PN	PN	D
+bahar3	bahar[potter]	N	N	D
+1(barig)	1(bariga)[unit]	NU	N	D
+szu2-gu2	_	V	V	POS
+ma2-lah6	_	PN	PN	POS
+sze-ba	szeba[ration]	N	N	D
+...	_[_]	PN	N	D
+e2-kikken-x	_	PN	PN.DAT-H	Iabcdefgh
+iti	iti[month]	N	N	D
+{d}dumu-zi	Dumuzi[1][-'a]	MN	MN.L1	D
+mu	mu[year]	N	N	D
+ur-bi2-lum{ki}	Urbilum[1][-ø]	GN	SN.ABS	D
+ba-hul	ba-hulu[destroy][-ø]	V	MID.V.3-SG-S	D

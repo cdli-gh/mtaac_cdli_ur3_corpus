@@ -1,0 +1,23 @@
+#new_text=P131017
+FORM	SEGM	XPOSTAG	XPOSTAG	POS
+2(u)	2(u)[ten]	NU	NU	D
+3(asz)	3(asz)[one]	NU	NU	D
+5(ban2)	5(ban)[unit]	NU	N	D
+gig	gig[resin_type]	N	N	D
+gur	gur[unit]	N	N	D
+sila3	sila[unit]	N	N	D
+1(gesz2)	1(gesz)[sixty]	NU	NU	D
+1(u)	1(u)[ten]	NU	NU	D
+5(disz)-ta	_	NU	NU.ABL	Iab
+2(u)	2(u)[ten]	NU	NU	D
+3(asz)	3(asz)[one]	NU	NU	D
+2(barig)	2(bariga)[unit]	NU	N	D
+5(ban2)	5(ban)[unit]	NU	N	D
+gur	gur[unit]	N	N	D
+sila3	sila[unit]	N	N	D
+1(gesz2)	1(gesz)[sixty]	NU	NU	D
+1(u)	1(u)[ten]	NU	NU	D
+5(disz)-ta	_	NU	NU.ABL	Iab
+lu2-ga-mu	_	PN	PN.GEN	Iabcdef
+szu-a	_	N	N	POS
+gi4-gi4-dam	_	V	V	POS

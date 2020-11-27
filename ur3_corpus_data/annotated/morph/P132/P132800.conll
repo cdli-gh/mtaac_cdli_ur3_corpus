@@ -1,0 +1,24 @@
+#new_text=P132800
+FORM	SEGM	XPOSTAG	XPOSTAG	POS
+2(gesz2)	2(gesz)[sixty]	NU	NU	D
+4(asz)	4(asz)[one]	NU	NU	D
+2(barig)	2(bariga)[unit]	NU	N	D
+sze	sze[barley]	N	N	D
+gur	gur[unit]	N	N	D
+sze-ba	szeba[ration]	N	N	D
+geme2	geme[female_worker]	N	N	D
+usz-bar	uszbar[weaver][-ak]	N	N	D
+ki	ki[place]	N	N	D
+na-na-ta	_	PN	PN.GEN.ABL	Iab
+mu	mu[year]	N	N	D
+ur-{d}nin-mar{ki}-sze3	_	PN	PN	Iabcdefgh
+kiszib3	kiszib[seal]	N	N	D
+lu2-dingir-ra	Ludingira[1][-ra]	PN	PN	D
+ugu2	ugu[capital]	N	N	D
+tul2-ta	Tulta[1][-ak][-ak]	PN	PN.GEN.GEN	D
+iti	iti[month]	N	N	D
+GAN2-masz	GANmasz[1][-'a]	MN	MN.L1	D
+mu	mu[year]	N	N	D
+us2-sa	us[follow]-a	V	NF.V.PT	D
+ma2-gur8-mah	magurmah[great_barge][-ø]	N	N.ABS	D
+ba-dim2	ba-dim[create][-ø]	V	MID.V.3-SG-S	D

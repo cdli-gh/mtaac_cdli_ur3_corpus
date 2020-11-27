@@ -1,0 +1,17 @@
+#new_text=P143339
+FORM	SEGM	XPOSTAG	XPOSTAG	POS
+2(disz)	2(disz)[one]	NU	NU	D
+gurusz	gurusz[male]	N	N	D
+u4	ud[day]	N	N	D
+1(disz)-sze3	1(disz)[one]-sze	NU	NU.TERM	D
+tir	tir[forester][-ak]	N	N.GEN	D
+da-gu-na-ta	_	SN	SN	POS
+{gesz}za-ra	_	N	N	Ia
+im-a	_	V	V	POS
+il2-la	_	V	V	POS
+iti	iti[month]	N	N	D
+dal	Dal[1][-'a]	MN	MN.L1	D
+mu	mu[year]	N	N	D
+us2-sa	us[follow]-a	V	NF.V.PT	D
+an-sza-an{ki}	Anszan[1][-ø]	GN	GN.ABS	D
+ba-hul	ba-hulu[destroy][-ø]	V	MID.V.3-SG-S	D

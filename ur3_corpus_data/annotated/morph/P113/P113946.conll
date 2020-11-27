@@ -1,0 +1,16 @@
+#new_text=P113946
+FORM	SEGM	XPOSTAG	XPOSTAG	POS
+7(asz)	7(asz)[one]	NU	NU	D
+2(barig)	2(bariga)[unit]	NU	N	D
+3(ban2)	3(ban)[unit]	NU	N	D
+sze	sze[barley]	N	N	D
+gur	gur[unit]	N	N	D
+sze	sze[barley]	N	N	D
+a2	a[time]	N	N	D
+1(gesz2)	1(gesz)[sixty]	NU	NU	D
+iti	iti[month]	N	N	D
+diri-ta	_	V	V	POS
+iti	iti[month]	N	N	D
+sig4-{gesz}i3-szub(U3)-ba-ga2-ra-ta	_	MN	MN.GEN.ABL	Iabcdef
+iti-bi	iti[month]-bi[-ø]	N	N.3-SG-NH-POSS.ABS	D
+3(disz)-am3	3(disz)[one][-ø]-am	NU	NU.ABS.COP-3-SG	D

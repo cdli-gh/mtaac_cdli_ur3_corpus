@@ -1,0 +1,21 @@
+#new_text=P105599
+FORM	SEGM	XPOSTAG	XPOSTAG	POS
+1(u)	1(u)[ten]	NU	NU	D
+2(barig)	2(bariga)[unit]	NU	N	D
+SZIM	szim[beer_malt]	N	N	D
+du	gin[quality_designation][-ø]	V	NF.V.ABS	D
+ki	ki[place]	N	N	D
+lugal-uszur4-ta	_	PN	PN.GEN.ABL	Iab
+nig2-kal-la	Nigkala[1][-ra]	PN	PN	D
+szu	szu[hand][-e]	N	N.L3-NH	D
+ba-ti	ba[-n]-teg[accept][-ø]	V	MID.3-SG-H-A.V.3-SG-P	D
+iti	iti[month]	N	N	D
+gan-gan-e3	_	PN	PN	POS
+u4	ud[day]	N	N	D
+2(u)	2(u)[ten]	NU	NU	D
+ba-zal	ba-zal[pass][-ø][-a][-'a]	V	MID.V.3-SG-S.SUB	D
+mu	mu[year]	N	N	D
+en-unu6-gal	Enunugal[1]	PN	PN	D
+en	en[priest]	N	N	D
+{d}inanna	Inanna[1][-ak]	DN	DN	D
+ba-hun	ba-hug[hire][-ø]	V	MID.V.3-SG-S	D

@@ -1,0 +1,27 @@
+#new_text=P338055
+FORM	SEGM	XPOSTAG	XPOSTAG	POS
+1(barig)	1(bariga)[unit]	NU	N	D
+3(ban2)	3(ban)[unit]	NU	N	D
+kasz	kasz[beer]	N	N	D
+du	gin[quality_designation][-ø]	V	NF.V.ABS	D
+1(barig)	1(bariga)[unit]	NU	N	D
+ninda	ninda[bread]	N	N	D
+1(disz)	1(disz)[one]	NU	NU	D
+sila3	sila[unit]	N	N	D
+i3-gesz	igesz[oil]	V	N	D
+1(u)	1(u)[ten]	NU	NU	D
+5(disz)	5(disz)[one]	NU	NU	D
+sa	sa[bundle]	N	N	D
+szum2	szum[garlic]	N	N	D
+x	_[_]	N	N	D
+x	_[_]	N	N	D
+gu-za-ni	Guzani[1][-e]	PN	PN.GEN	D
+lu2-kin-gi4-a	_	N	N	POS
+...-x-sal4{ki}	_	SN	SN	POS
+iti	iti[month]	N	N	D
+szu-numun	Szunumun[1][-'a]	MN	MN.L1	D
+mu	mu[year]	N	N	D
+e2	e[house]	N	N	D
+{d}szara2	Szara[1][-ak]	DN	DN	D
+umma{ki}	Umma[1][-ak][-ø]	SN	SN.GEN.ABS	D
+ba-du3	ba-du[build][-ø]	V	MID.V.3-SG-S	D

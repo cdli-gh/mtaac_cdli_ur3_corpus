@@ -1,0 +1,15 @@
+#new_text=P500347
+FORM	SEGM	XPOSTAG	XPOSTAG	POS
+x	_[_]	N	N	D
+x	_[_]	N	N	D
+...	_[_]	PN	N	D
+i3-gesz	igesz[oil]	V	N	D
+...-{d}nin-szubur	_	PN	PN	Iabcde
+...-ak	_	PN	PN	POS
+...	_[_]	PN	N	D
+ur-{d}lamma	Urlamma[1]	PN	PN	D
+dumu	dumu[child]	N	N	D
+a-tu	Atu[1][-ak]	PN	PN	D
+zi-ga	zig[expend]-a	V	NF.V.PT	D
+iti	iti[month]	N	N	D
+ezem-{d}szul-gi	Ezemszulgir[1][-'a]	MN	MN.L1	D

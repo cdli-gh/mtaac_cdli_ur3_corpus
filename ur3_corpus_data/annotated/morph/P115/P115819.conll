@@ -1,0 +1,24 @@
+#new_text=P115819
+FORM	SEGM	XPOSTAG	XPOSTAG	POS
+1(disz)	1(disz)[one]	NU	NU	D
+sila3	sila[unit]	N	N	D
+gesztin	gesztin[vine]	N	N	D
+had2	had[pure][-ø]	V	NF.V.ABS	D
+x	_[_]	N	N	D
+zu2-lum	zulum[date]	N	N	D
+...-x-ta	_	PN	PN.GEN.ABL	Iabcdef
+...	_[_]	PN	N	D
+x	_[_]	N	N	D
+...	_[_]	PN	N	D
+x	_[_]	N	N	D
+...	_[_]	PN	N	D
+x-NI	_	PN	PN	Iabcde
+{gesz}guzza-ni	_	PN	PN.GEN	Iabcdefgh
+ba-an-dabx(U8)	_	V	V	POS
+iti	iti[month]	N	N	D
+ezem-{d}ba-ba6	Ezembaba[1][-'a]	MN	MN.L1	D
+mu	mu[year]	N	N	D
+us2-sa	us[follow]-a	V	NF.V.PT	D
+en	en[priest]	N	N	D
+eridu{ki}	Eridug[1][-ak][-ø]	SN	SN.GEN.ABS	D
+ba-hun	ba-hug[hire][-ø]	V	MID.V.3-SG-S	D

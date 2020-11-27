@@ -1,0 +1,19 @@
+#new_text=P109070
+FORM	SEGM	XPOSTAG	XPOSTAG	POS
+2(u)	2(u)[ten]	NU	NU	D
+5(asz)	5(asz)[one]	NU	NU	D
+3(barig)	3(bariga)[unit]	NU	N	D
+3(ban2)	3(ban)[unit]	NU	N	D
+6(disz)	6(disz)[one][-sze]	NU	NU	D
+sila3	sila[unit]	N	N	D
+kiszib3	kiszib[seal]	N	N	D
+tuku	tuku[acquire][-a]	V	NF.V.PT	D
+1(u)	1(u)[ten]	NU	NU	D
+2(barig)	2(bariga)[unit]	NU	N	D
+3(ban2)	3(ban)[unit]	NU	N	D
+kiszib3	kiszib[seal]	N	N	D
+nu-tuku	nu-tuku[acquire][-a]	V	NEG.NF.V.PT	D
+kiszib3	kiszib[seal]	N	N	D
+ur-{d}ba-ba6	Urbaba[1]	PN	PN	D
+lu2	lu[person]	N	N	D
+en	en[priest]	N	N	D

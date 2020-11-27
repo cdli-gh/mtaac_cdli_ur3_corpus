@@ -1,0 +1,18 @@
+#new_text=P132781
+FORM	SEGM	XPOSTAG	XPOSTAG	POS
+2(disz)	2(disz)[one]	NU	NU	D
+sila3	sila[unit]	N	N	D
+kasz	kasz[beer]	N	N	D
+2(disz)	2(disz)[one]	NU	NU	D
+sila3	sila[unit]	N	N	D
+ninda	ninda[bread]	N	N	D
+1(disz)	1(disz)[one]	NU	NU	D
+id-gur2	idgurum[ladle]	N	N	D
+i3	i[oil]	N	N	D
+e-la-ni	_	V	V	POS
+lu2	lu[person]	N	N	D
+{gesz}tukul	tukul[weapon][-'a]	N	N	D
+szuszin{ki}-ta	Szuszin[1]-ta	SN	SN.ABL	D
+du-ni	du[go][-ed]-ani[-'a]	V	NF.V.PF.F.3-SG-H-POSS.L1	D
+iti	iti[month]	N	N	D
+mu-szu-du8	_	MN	MN.L1	Iabcdefgh

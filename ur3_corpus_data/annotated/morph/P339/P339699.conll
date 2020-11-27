@@ -1,0 +1,26 @@
+#new_text=P339699
+FORM	SEGM	XPOSTAG	XPOSTAG	POS
+2(barig)	2(bariga)[unit]	NU	N	D
+5(ban2)	5(ban)[unit]	NU	N	D
+6(disz)	6(disz)[one][-sze]	NU	NU	D
+sila3	sila[unit]	N	N	D
+igi-sag	igisag[choose][-a]	N	NF.V.PT	D
+szum2	szum[garlic]	N	N	D
+gaz	gaz[type_of_garlic][-ak]	N	N	D
+1(gesz2)	1(gesz)[sixty]	NU	NU	D
+3(u)	3(u)[ten]	NU	NU	D
+nigin2	nigin[bundle]	N	N	D
+szum2	szum[garlic]	N	N	D
+gaz	gaz[type_of_garlic][-ak]	N	N	D
+e2-kas4-sze3	_	TN	TN	Iabcdefgh
+ki	ki[place]	N	N	D
+lugal-nig2-lagar-e-ta	Lugalniglagare[1][-ak]-ta	PN	PN.GEN.ABL	D
+kiszib3	kiszib[seal]	N	N	D
+gur4-za-an	_	PN	PN	POS
+mu	mu[year]	N	N	D
+{d}szu-{d}suen	Szusuen[1]	RN	RN	D
+lugal	lugal[king]	N	N	D
+gur8-za-an	_	PN	PN	POS
+muhaldim	_	N	N	D
+dumu	dumu[child]	N	N	D
+du-la-bi	_	PN	PN	Iabcdefgh

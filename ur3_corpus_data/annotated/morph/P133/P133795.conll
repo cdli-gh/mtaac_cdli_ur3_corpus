@@ -1,0 +1,30 @@
+#new_text=P133795
+FORM	SEGM	XPOSTAG	XPOSTAG	POS
+3(bur3)	3(bur)[unit]	NU	N	D
+GAN2	gana[field]	N	N	D
+a-sza3	aszag[field]	N	N	D
+gi4-a-e2-esz3	_	FN	FN	POS
+a-sza3	aszag[field]	N	N	D
+bara2-si-ga	baragsiga[shrine]	N	N	D
+igi-nim	_	N	N	POS
+un-sa6-ga{ki}	_	GN	GN	POS
+1(bur3)	1(bur)[unit]	NU	N	D
+GAN2	gana[field]	N	N	D
+a-sza3	aszag[field]	N	N	D
+bara2-si-ga	baragsiga[shrine]	N	N	D
+igi-nim	_	N	N	POS
+un-sa6-ga{ki}	_	GN	GN	POS
+...	_[_]	PN	N	D
+e2	e[house]	N	N	D
+tur-tur	_	V	V	POS
+2(bur3)	2(bur)[unit]	NU	N	D
+GAN2	gana[field]	N	N	D
+gaba	gaba[frontier][-ak]	N	N	D
+a-sza3	aszag[field]	N	N	D
+ul4-ul4	_	FN	FN	POS
+nig2	_	N	N	D
+nam-dub-...	_	 	 	POS
+...	_[_]	PN	N	D
+5(bur3)	5(bur)[unit]	NU	N	D
+GAN2	gana[field]	N	N	D
+...	_[_]	PN	N	D

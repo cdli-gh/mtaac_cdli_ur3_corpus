@@ -1,0 +1,36 @@
+#new_text=P130564
+FORM	SEGM	XPOSTAG	XPOSTAG	POS
+1(bur3)	1(bur)[unit]	NU	N	D
+2(esze3)	2(esze)[unit]	NU	N	D
+GAN2	gana[field]	N	N	D
+tug2-gurx(|SZE.KIN|)	tuggur[plow][-a][-ak]	V	NF.V.PT.GEN	D
+tug2-gur8	_	N	N	Ia
+1/2(iku)	1/2(iku)[unit]	NU	N	D
+1/4(iku)	1/4(iku)[unit]	NU	N	D
+GAN2-ta	gana[field]-ta	N	N.ABL	D
+gesz-ur3-ra	geszur[harrow]-a	V	NF.V.PT	D
+a-ra2	ara[times]	N	N	D
+x	_[_]	N	N	D
+1(esze3)	1(esze)[unit]	NU	N	D
+GAN2-ta	gana[field]-ta	N	N.ABL	D
+1(u)	1(u)[ten]	NU	NU	D
+1(disz)	1(disz)[one]	NU	NU	D
+x-...	_[_]	PN	PN	D
+gesz-ur3-...	_	 	 	POS
+a-sza3	aszag[field]	N	N	D
+{d}nin-ur4-ra	Ninura[1][-ak]	DN	DN.GEN	D
+a-sza3	aszag[field]	N	N	D
+an-ne2	Anne[1][-ra]	DN	DN.ERG	D
+ga2-ra	_	V	V	POS
+ugula	ugula[overseer][-ø]	N	N	D
+gu2-tar	_	PN	PN.GEN	Iabcdefgh
+kiszib3	kiszib[seal]	N	N	D
+a-kal-la	Akala[1]	PN	PN	D
+mu	mu[year]	N	N	D
+en	en[priest]	N	N	D
+eridu{ki}	Eridug[1][-ak][-ø]	SN	SN.GEN.ABS	D
+ba-hul	ba-hulu[destroy][-ø]	V	MID.V.3-SG-S	D
+a-kal-la	Akala[1]	PN	PN	D
+dub-sar	dubsar[scribe]	N	N	D
+dumu	dumu[child]	N	N	D
+lugal-e2-mah-e	Lugalemahe[1]	N	PN	D

@@ -1,0 +1,23 @@
+#new_text=P125117
+FORM	SEGM	XPOSTAG	XPOSTAG	POS
+1(asz)	1(asz)[one]	NU	NU	D
+sze	sze[barley]	N	N	D
+gur	gur[unit]	N	N	D
+lugal	lugal[king]	N	N	D
+sza3-gal	szaggal[food]	N	N	D
+{ansze}kunga2	kunga[equid_type][-ak][-ø]	N	N.GEN.ABS	D
+e2-kikken-ta	_	TN	TN	POS
+ki	ki[place]	N	N	D
+ARAD2-ta	Arad[1][-ak]-ta	PN	PN.GEN.ABL	D
+kiszib3	kiszib[seal]	N	N	D
+lu2-banda3{da}	Lubanda[1]	PN	PN	D
+iti	iti[month]	N	N	D
+sig4-{gesz}i3-szub-ga2-ra	_	MN	MN	Iabcde
+mu	mu[year]	N	N	D
+us2-sa	us[follow]-a	V	NF.V.PT	D
+e2	e[house]	N	N	D
+puzur4-{d}da-gan	Puzurdagan[1][-ø]	SN	SN.ABS	D
+mu	mu[year]	N	N	D
+us2-sa-a-ba	_	V	NF.V.SUB.DEM2.GEN	Iabcdefg
+mu	mu[year]	N	N	D
+us2-sa-a-bi	us[follow]-a-bi	V	NF.V.PT.3-SG-NH-POSS	D

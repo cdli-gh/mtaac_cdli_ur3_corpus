@@ -1,0 +1,32 @@
+#new_text=P429662
+FORM	SEGM	XPOSTAG	XPOSTAG	POS
+7(asz)	7(asz)[one]	NU	NU	D
+2(barig)	2(bariga)[unit]	NU	N	D
+sze	sze[barley]	N	N	D
+	_	_
+gur	gur[unit]	N	N	D
+lugal	lugal[king]	N	N	D
+2(u)	2(u)[ten]	NU	NU	D
+8(asz)	8(asz)[one]	NU	NU	D
+1(barig)	1(bariga)[unit]	NU	N	D
+3(ban2)	3(ban)[unit]	NU	N	D
+zi3	zid[flour]	N	N	D
+sig15	sig[flour_type]	V	N	D
+x	_[_]	N	N	D
+1(u)	1(u)[ten]	NU	NU	D
+sila3	sila[unit]	N	N	D
+i3-gesz	igesz[oil]	V	N	D
+2(u)	2(u)[ten]	NU	NU	D
+tug2	tug[textile]	N	N	D
+usz-bar	uszbar[weaver][-ak]	N	N	D
+5(gesz2)	5(gesz)[sixty]	NU	NU	D
+sa	sa[bundle]	N	N	D
+{gesz}ma-nu	manu[wood_type][-ø]	FN	N.ABS	D
+ki	ki[place]	N	N	D
+dub-ba	[dub-ba]	N	dub[tablet]-ak	D
+sza3-da	_	PN	PN	POS
+zi-ga	zig[expend]-a	V	NF.V.PT	D
+x	_[_]	N	N	D
+x-x	_[_]	PN	N.2-SG-POSS.ABS	D
+szu	szu[hand][-e]	N	N.L3-NH	D
+ba-ti	ba[-n]-teg[accept][-ø]	V	MID.3-SG-H-A.V.3-SG-P	D

@@ -1,0 +1,22 @@
+#new_text=P132452
+FORM	SEGM	XPOSTAG	XPOSTAG	POS
+1(asz)	1(asz)[one]	NU	NU	D
+3(barig)	3(bariga)[unit]	NU	N	D
+sze	sze[barley]	N	N	D
+gur	gur[unit]	N	N	D
+mur-gu4	murgu[fodder]	N	N	D
+dusu2	_	N	N	POS
+ki	ki[place]	N	N	D
+lu2-du10-ga-ta	_	PN	PN.GEN.ABL	Iab
+mu	mu[year]	N	N	D
+sanga	sagga[temple_administrator]	N	N	D
+{d}ig-alim-sze3	_	DN	DN.GEN.TERM	Iabcdef
+kiszib3	kiszib[seal]	N	N	D
+{d}utu-bar-ra	Utubara[1][-e]	PN	PN.ERG	D
+engar	engar[farmer]	N	N	D
+ib2-ra	_	PN	PN	POS
+iti	iti[month]	N	N	D
+ezem-{d}szul-gi	Ezemszulgir[1][-'a]	MN	MN.L1	D
+mu	mu[year]	N	N	D
+{d}i-bi2-{d}suen	Ibbisuen[1]	RN	RN	D
+lugal	lugal[king]	N	N	D

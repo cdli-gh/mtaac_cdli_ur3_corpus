@@ -1,0 +1,26 @@
+#new_text=P381671
+FORM	SEGM	XPOSTAG	XPOSTAG	POS
+2(u)	2(u)[ten]	NU	NU	D
+4(asz)	4(asz)[one]	NU	NU	D
+2(barig)	2(bariga)[unit]	NU	N	D
+sze	sze[barley]	N	N	D
+gur	gur[unit]	N	N	D
+engar	engar[farmer]	N	N	D
+lugal-u2-szim-e	_	PN	PN	Iabcdefgh
+3(u)	3(u)[ten]	NU	NU	D
+gur	gur[unit]	N	N	D
+engar	engar[farmer]	N	N	D
+pa3-da	Pada[1]	PN	NF.V.SUB	D
+9(asz)	9(asz)[one]	NU	NU	D
+4(barig)	4(bariga)[unit]	NU	N	D
+gur	gur[unit]	N	N	D
+gu4-gu4	_	N	N	Ia
+ib2-tak4	_	N	N	POS
+ki	ki[place]	N	N	D
+e2-a-kal	_	PN	PN.DAT-H	Iab
+mu	mu[year]	N	N	D
+en	en[priest]	N	N	D
+{d}inanna	Inanna[1][-ak]	DN	DN	D
+unu{ki}	Unug[1][-ak][-ak][-ø]	SN	SN.GEN.L1	D
+masz2-e	masz[goat]-e	N	N.L3-NH	D
+i3-pa3	i-pad[find][-ø]	V	FIN.V.3-SG-S	D

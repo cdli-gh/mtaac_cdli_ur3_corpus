@@ -1,0 +1,32 @@
+#new_text=P132302
+FORM	SEGM	XPOSTAG	XPOSTAG	POS
+1(u)	1(u)[ten]	NU	NU	D
+5(asz)	5(asz)[one]	NU	NU	D
+1(barig)	1(bariga)[unit]	NU	N	D
+3(ban2)	3(ban)[unit]	NU	N	D
+sze	sze[barley]	N	N	D
+gur	gur[unit]	N	N	D
+sze	sze[barley]	N	N	D
+KA-a	_	 	 	POS
+engar	engar[farmer]	N	N	D
+1(u)	1(u)[ten]	NU	NU	D
+4(asz)	4(asz)[one]	NU	NU	D
+3(barig)	3(bariga)[unit]	NU	N	D
+gur	gur[unit]	N	N	D
+i3-bi2-za	_	N	N.TERM	Iabcdefgh
+sze	sze[barley]	N	N	D
+...	_[_]	PN	N	D
+...	_[_]	PN	N	D
+...	_[_]	PN	N	D
+x	_[_]	N	N	D
+...	_[_]	PN	N	D
+ha-za-num2	_	PN	PN	Ia
+szu	szu[hand][-e]	N	N.L3-NH	D
+ba-ti	ba[-n]-teg[accept][-ø]	V	MID.3-SG-H-A.V.3-SG-P	D
+giri3	giri[foot]	N	N	D
+ur-e2-ninnu	_	PN	PN	D
+sza3	szag[heart]	N	N	D
+ambar{ki}	Ambar[1][-ak][-'a]	SN	SN.GEN.L1	D
+mu	mu[year]	N	N	D
+{d}i-bi2-{d}suen	Ibbisuen[1]	RN	RN	D
+lugal	lugal[king]	N	N	D

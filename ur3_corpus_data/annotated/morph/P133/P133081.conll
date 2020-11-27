@@ -1,0 +1,24 @@
+#new_text=P133081
+FORM	SEGM	XPOSTAG	XPOSTAG	POS
+9(gesz2)	9(gesz)[sixty]	NU	NU	D
+3(u)	3(u)[ten]	NU	NU	D
+geme2	geme[female_worker]	N	N	D
+u4	ud[day]	N	N	D
+1(disz)-sze3	1(disz)[one]-sze	NU	NU.TERM	D
+a2	a[time]	N	N	D
+geme2	geme[female_worker]	N	N	D
+nig2-ar3-ra	nigara[groats]	N	N	D
+ki	ki[place]	N	N	D
+lugal-igi-husz-ta	_	PN	PN	Iabcdefgh
+kiszib3	kiszib[seal]	N	N	D
+x-{d}lamma	_	PN	PN.DAT-H	Ia
+lu2	lu[person]	N	N	D
+lunga	lungak[brewer][-ak]	N	N.GEN	D
+mu	mu[year]	N	N	D
+hu-hu-nu-ri{ki}	Huhunuri[1][-ø]	GN	SN.ABS	D
+ba-hul	ba-hulu[destroy][-ø]	V	MID.V.3-SG-S	D
+...	_[_]	PN	N	D
+dumu	dumu[child]	N	N	D
+ur-...	_[1][-ak]	PN	PN.GEN.ABS	D
+lu2	lu[person]	N	N	D
+lunga	lungak[brewer][-ak]	N	N.GEN	D

@@ -1,0 +1,27 @@
+#new_text=P142386
+FORM	SEGM	XPOSTAG	XPOSTAG	POS
+1(gesz2)	1(gesz)[sixty]	NU	NU	D
+3(u)	3(u)[ten]	NU	NU	D
+sze	sze[barley]	N	N	D
+gur	gur[unit]	N	N	D
+sila3	sila[unit]	N	N	D
+1(gesz2)	1(gesz)[sixty]	NU	NU	D
+1(u)	1(u)[ten]	NU	NU	D
+2(disz)-ta	2(disz)[one]-ta	NU	NU.ABL	D
+sila3	sila[unit]	N	N	D
+U	_	 	 	POS
+{d}utu-bi2-du11	_	PN	PN.GEN	Iabcdef
+sze	sze[barley]	N	N	D
+zi3	zid[flour]	N	N	D
+|ZI&ZI|-sze3	_	N	N.3-SG-H-POSS.TERM	Iabcdef
+x	_[_]	N	N	D
+ki	ki[place]	N	N	D
+lugal-{gesz}kiri6-ta	_	PN	PN.GEN.ABL	Iab
+e2-kikken	_	TN	TN	POS
+kux(KWU147)-ra	kur[enter]-a	V	NF.V.PT	D
+mu	mu[year]	N	N	D
+nig2-ka9-ak	nigSZID[account]	N	N	D
+al-la-ka	_	N	N	POS
+mu	mu[year]	N	N	D
+3(disz)-kam	3(disz)[one]-ak-am	NU	NU.GEN.COP-3-SG	D
+us2-sa-bi	us[follow]-a-bi	V	NF.V.PT.3-SG-NH-POSS	D

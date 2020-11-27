@@ -1,0 +1,27 @@
+#new_text=P291310
+FORM	SEGM	XPOSTAG	XPOSTAG	POS
+4(disz)	4(disz)[one]	NU	NU	D
+gesz	gesz[tree]	N	N	D
+gal	gal[big][-ø]	V	NF.V.ABS	D
+ad	_	N	N	POS
+ma2	ma[ship]	N	N	D
+a	a[water][-ø]	N	N.ABS	D
+e3-a-ka-sze3	_	V	NF.V.3-SG-NH-POSS.GEN.GEN.TERM	Iabcdef
+ba-gul	_	V	V	POS
+3(disz)	3(disz)[one]	NU	NU	D
+gesz	gesz[tree]	N	N	D
+gal	gal[big][-ø]	V	NF.V.ABS	D
+bar-da	_	N	N	POS
+ig-sze3	_	N	N	POS
+ba-zi-ge	_	PN	PN.GEN.DAT-H	Iabcdefg
+bi2-in-gul	_	V	3-NH.L2.3-SG-H-A.V.3-SG-P	Iabcdefgh
+ki	ki[place]	N	N	D
+nigar{gar}-ki-du10-ta	Nigarkidu[1][-ak]-ta	PN	PN.GEN.ABL	D
+zi-ga-am3	zig[expend]-a[-ø]-am	N	NF.V.PT.ABS.COP-3-SG	D
+iti	iti[month]	N	N	D
+diri	diri[intercalary_month]	N	N	D
+mu	mu[year]	N	N	D
+us2-sa	us[follow]-a	V	NF.V.PT	D
+lu-lu-bu	Lulubu[1][-ø]	SN	SN.ABS	D
+si-mu-ru-um{ki}	Simurrum[1]	SN	SN.ABS	D
+ba-hul	ba-hulu[destroy][-ø]	V	MID.V.3-SG-S	D

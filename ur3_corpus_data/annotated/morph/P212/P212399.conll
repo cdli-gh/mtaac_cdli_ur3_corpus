@@ -1,0 +1,27 @@
+#new_text=P212399
+FORM	SEGM	XPOSTAG	XPOSTAG	POS
+2(u)	2(u)[ten]	NU	NU	D
+6(asz)	6(asz)[one]	NU	NU	D
+sze	sze[barley]	N	N	D
+gur	gur[unit]	N	N	D
+lugal	lugal[king]	N	N	D
+sze-ba	szeba[ration]	N	N	D
+lu2	lu[person]	N	N	D
+li-ig-ri2{ki}-me	_	SN	SN	POS
+ki	ki[place]	N	N	D
+te-te	_	V	NF.V.PT.GEN	Iabcdef
+giri3	giri[foot]	N	N	D
+dingir-su2-ba-ni	_	PN	PN	POS
+ki	ki[place]	N	N	D
+lu2-gi-na-ta	Lugina[1][-ak]-ta	PN	PN.GEN.ABL	D
+iti	iti[month]	N	N	D
+diri	diri[intercalary_month]	N	N	D
+sze-sag11-ku5	Szesagku[1][-'a]	MN	MN.L1	D
+mu	mu[year]	N	N	D
+ki-masz{ki}	Kimasz[1]	SN	SN.ABS	D
+hu-ur-ti{ki}	Hurti[1]	SN	SN	D
+ba-hul	ba-hulu[destroy][-ø]	V	MID.V.3-SG-S	D
+ur-{d}ba-ba6	Urbaba[1]	PN	PN	D
+dub-sar	dubsar[scribe]	N	N	D
+dumu	dumu[child]	N	N	D
+na-mu	_	PN	PN.GEN.ABS	D

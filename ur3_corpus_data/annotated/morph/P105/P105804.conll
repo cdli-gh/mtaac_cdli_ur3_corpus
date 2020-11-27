@@ -1,0 +1,12 @@
+#new_text=P105804
+FORM	SEGM	XPOSTAG	XPOSTAG	POS
+3(gesz2)	3(gesz)[sixty]	NU	NU	D
+3(disz)	3(disz)[one]	NU	NU	D
+gurusz	gurusz[male]	N	N	D
+u4	ud[day]	N	N	D
+1(disz)-sze3	1(disz)[one]-sze	NU	NU.TERM	D
+a2	a[time]	N	N	D
+gul	_	V	V	POS
+gi4-a	_	V	V	POS
+a2	a[time]	N	N	D
+da-da	Dada[1][-ak]	PN	PN	D

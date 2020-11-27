@@ -1,0 +1,26 @@
+#new_text=P201234
+FORM	SEGM	XPOSTAG	XPOSTAG	POS
+2(barig)	2(bariga)[unit]	NU	N	D
+1(ban2)	1(ban)[unit]	NU	N	D
+sze	sze[barley]	N	N	D
+2(ban2)	2(ban)[unit]	NU	N	D
+zi3-gu	zidgu[flour_type]	N	N	D
+4(ban2)	4(ban)[unit]	NU	N	D
+dabin	dabin[semolina]	N	N	D
+5(disz)	5(disz)[one]	NU	NU	D
+sila3	sila[unit]	N	N	D
+zi3	zid[flour]	N	N	D
+gu2-nida	_	N	N.GEN	Iabcdef
+3(disz)	3(disz)[one]	NU	NU	D
+sila3	sila[unit]	N	N	D
+esza	esza[flour]	N	N	D
+ki	ki[place]	N	N	D
+er3-ra-ba-ni-ta	_	PN	PN.GEN.ABL	Iab
+ba-zi	ba-zig[expend][-ø]	PN	MID.V.3-SG-S	D
+kiszib3	kiszib[seal]	N	N	D
+du-szu-mu-um	_	PN	PN	Iabcde
+iti	iti[month]	N	N	D
+sze-sag11-ku5	Szesagku[1][-'a]	MN	MN.L1	D
+mu	mu[year]	N	N	D
+{d}i-bi2-{d}suen	Ibbisuen[1]	RN	RN	D
+lugal	lugal[king]	N	N	D

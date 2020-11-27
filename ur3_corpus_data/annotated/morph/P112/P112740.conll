@@ -1,0 +1,27 @@
+#new_text=P112740
+FORM	SEGM	XPOSTAG	XPOSTAG	POS
+1(u)	1(u)[ten]	NU	NU	D
+5(disz)	5(disz)[one]	NU	NU	D
+gurusz	gurusz[male]	N	N	D
+u4	ud[day]	N	N	D
+2(disz)-sze3	2(disz)[one]-sze	NU	NU.TERM	D
+kab2-ku5	kabkul[water_installation]	N	N	D
+i7	id[river]	N	N	D
+sal4-la{ki}	_	WN	WN	POS
+gub-ba	gub[assigned]-a[-ak][-ø]	V	NF.V.PT	D
+ugula	ugula[overseer][-ø]	N	N	D
+ur-{d}szul-pa-e3	Urszulpa'e[1]	PN	PN	D
+kiszib3	kiszib[seal]	N	N	D
+a-szi-an	Aszi'an[1][-ak]	PN	PN.GEN	D
+iti	iti[month]	N	N	D
+sze-sag11-ku5	Szesagku[1][-'a]	MN	MN.L1	D
+mu	mu[year]	N	N	D
+us2-sa	us[follow]-a	V	NF.V.PT	D
+en	en[priest]	N	N	D
+eridu{ki}	Eridug[1][-ak][-ø]	SN	SN.GEN.ABS	D
+ba-hun	ba-hug[hire][-ø]	V	MID.V.3-SG-S	D
+a-szi-an	Aszi'an[1][-ak]	PN	PN.GEN	D
+ARAD2	arad[slave]	N	N	D
+{d}szara2	Szara[1][-ak]	DN	DN	D
+dumu	dumu[child]	N	N	D
+lugal-sa6-ga	Lugalsaga[1][-ak]	PN	PN.GEN	D

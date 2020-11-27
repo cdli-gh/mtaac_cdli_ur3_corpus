@@ -1,0 +1,26 @@
+#new_text=P139037
+FORM	SEGM	XPOSTAG	XPOSTAG	POS
+1(u)	1(u)[ten]	NU	NU	D
+2(disz)	2(disz)[one]	NU	NU	D
+ma-na	mana[unit]	N	N	D
+5(disz)	5(disz)[one]	NU	NU	D
+gin2	gig[unit]	N	N	D
+uruda	urud[copper][-ak]	N	N	D
+nig2-sa10-ma	_	N	N.3-SG-H-POSS.GEN	Iabcdef
+zu2-lum	zulum[date]	N	N	D
+4(barig)	4(bariga)[unit]	NU	N	D
+5(ban2)-kam	_	NU	NU.GEN.COP-3-SG	Iabcde
+sze-ba	szeba[ration]	N	N	D
+...	_[_]	PN	N	D
+iti	iti[month]	N	N	D
+...	_[_]	PN	N	D
+x	_[_]	N	N	D
+mu	mu[year]	N	N	D
+{d}i-bi2-{d}suen	Ibbisuen[1]	RN	RN	D
+lugal	lugal[king]	N	N	D
+uri5{ki}	Urim[1][-ak]	SN	SN.GEN	D
+ma-ke4	_	N	N	POS
+{d}nin-igi-zi-bar-ra	_	DN	DN	POS
+{d}inanna	Inanna[1][-ak]	DN	DN	D
+balag	_	N	N	POS
+mu-na-dim2	mu-nn-a-dim[create][-ø]	V	VEN.3-SG-H.DAT.3-SG-H-A.V.3-SG-P	D

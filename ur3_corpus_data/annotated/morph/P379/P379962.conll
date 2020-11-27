@@ -1,0 +1,27 @@
+#new_text=P379962
+FORM	SEGM	XPOSTAG	XPOSTAG	POS
+1(gesz2)	1(gesz)[sixty]	NU	NU	D
+2(u)	2(u)[ten]	NU	NU	D
+2(asz)	2(asz)[one]	NU	NU	D
+3(barig)	3(bariga)[unit]	NU	N	D
+3(ban2)	3(ban)[unit]	NU	N	D
+sze	sze[barley]	N	N	D
+gur	gur[unit]	N	N	D
+lugal	lugal[king]	N	N	D
+ugula	ugula[overseer][-ø]	N	N	D
+...	_[_]	PN	N	D
+zi-ga-ta	_	N	N	POS
+kiszib3	kiszib[seal]	N	N	D
+ur-{d}nin-gesz-zi-da	_	PN	PN.GEN.ABS	D
+dumu	dumu[child]	N	N	D
+lugal-sa6-ga	Lugalsaga[1][-ak]	PN	PN.GEN	D
+i3-dub	idub[granary]	N	N	D
+muszen-du3--ne-ta	_	N	N.GEN.PL.ABL	Iabcde
+mu	mu[year]	N	N	D
+us2-sa	us[follow]-a	V	NF.V.PT	D
+ki-masz{ki}	Kimasz[1]	SN	SN.ABS	D
+ba-hul	ba-hulu[destroy][-ø]	V	MID.V.3-SG-S	D
+ur-{d}nin-gesz-zi-da	_	PN	PN.GEN.ABS	D
+dub-sar	dubsar[scribe]	N	N	D
+dumu	dumu[child]	N	N	D
+lugal-sa6-ga	Lugalsaga[1][-ak]	PN	PN.GEN	D

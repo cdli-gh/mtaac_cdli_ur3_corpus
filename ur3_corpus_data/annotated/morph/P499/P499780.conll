@@ -1,0 +1,24 @@
+#new_text=P499780
+FORM	SEGM	XPOSTAG	XPOSTAG	POS
+1(u)	1(u)[ten]	NU	NU	D
+5(asz)	5(asz)[one]	NU	NU	D
+2(barig)	2(bariga)[unit]	NU	N	D
+1(ban2)	1(ban)[unit]	NU	N	D
+sze	sze[barley]	N	N	D
+gur	gur[unit]	N	N	D
+sze	sze[barley]	N	N	D
+lu2-su4	Lusu[1]	PN	PN	D
+ib2-tak4	_	N	N	POS
+ki	ki[place]	N	N	D
+ARAD2-mu	Aradmu[1]	PN	PN	D
+gur	gur[unit]	N	N	D
+1(asz)	1(asz)[one]	NU	NU	D
+iti-da-ta	_	N	N	POS
+ARAD2-mu	Aradmu[1]	PN	PN	D
+lu2-su4	Lusu[1]	PN	PN	D
+an-na-ag2-e	_	PN	DN.GEN.GEN.L1|PN.GEN.GEN.L1	Iabcdefg
+iti	iti[month]	N	N	D
+udru{duru5}	_	N	N	Ia
+u4	ud[day]	N	N	D
+7(disz)	7(disz)[one][-sze]	NU	NU	D
+ba-zal	ba-zal[pass][-ø][-a][-'a]	V	MID.V.3-SG-S.SUB	D

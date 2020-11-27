@@ -1,0 +1,25 @@
+#new_text=P341986
+FORM	SEGM	XPOSTAG	XPOSTAG	POS
+2(iku)	2(iku)[unit]	NU	N	D
+1/4(iku)	1/4(iku)[unit]	NU	N	D
+GAN2	gana[field]	N	N	D
+sze-ba	szeba[ration]	N	N	D
+u3	u[and]	CNJ	CNJ	D
+kasz	kasz[beer]	N	N	D
+1(barig)	1(bariga)[unit]	NU	N	D
+3(ban2)	3(ban)[unit]	NU	N	D
+1(esze3)	1(esze)[unit]	NU	N	D
+GAN2	gana[field]	N	N	D
+1(asz)	1(asz)[one]	NU	NU	D
+2(barig)	2(bariga)[unit]	NU	N	D
+3(ban2)	3(ban)[unit]	NU	N	D
+a-sza3	aszag[field]	N	N	D
+a-ba-gal-gu-la	_	FN	FN	POS
+kiszib3	kiszib[seal]	N	N	D
+lu2-sza-lim	Luszalim[1]	PN	PN	D
+mu	mu[year]	N	N	D
+us2-sa	us[follow]-a	V	NF.V.PT	D
+ur-i3-bi2-lum	_	PN	PN	Iabc
+lu2-du-x	_	PN	PN.DAT-H	Iab
+dumu	dumu[child]	N	N	D
+x-x	_[_]	PN	N.2-SG-POSS.ABS	D

@@ -1,0 +1,19 @@
+#new_text=P123539
+FORM	SEGM	XPOSTAG	XPOSTAG	POS
+...	_[_]	PN	N	D
+ni-zi	_	PN	PN	Iabc
+...	_[_]	PN	N	D
+ARAD2-mu	Aradmu[1]	PN	PN	D
+...	_[_]	PN	N	D
+x-ri-ni	_	 	 	POS
+...	_[_]	PN	N	D
+...-da-ga	_	PN	PN	Iabcde
+da	da[unknown]	N	N	POS
+...	_[_]	PN	N	D
+szimaszgi	szimaszigi[sheep_designation][-ø]	N	N	D
+iti	iti[month]	N	N	D
+ezem-mah	Ezemmah[1][-'a]	MN	MN.L1	D
+mu	mu[year]	N	N	D
+us2-sa	us[follow]-a	V	NF.V.PT	D
+ki-masz{ki}	Kimasz[1]	SN	SN.ABS	D
+ba-hul	ba-hulu[destroy][-ø]	V	MID.V.3-SG-S	D

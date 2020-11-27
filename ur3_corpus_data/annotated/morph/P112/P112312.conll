@@ -1,0 +1,21 @@
+#new_text=P112312
+FORM	SEGM	XPOSTAG	XPOSTAG	POS
+2(disz)	2(disz)[one]	NU	NU	D
+ab2-mah2	abmah[mature_cow]	N	N	D
+1(disz)	1(disz)[one]	NU	NU	D
+ab2	ab[cow][-ø]	N	N	D
+amar	amar[calf][-ak]	N	N	D
+ga	ga[milk]	N	N	D
+1(disz)	1(disz)[one]	NU	NU	D
+gu4	gud[ox]	N	N	D
+amar	amar[calf][-ak]	N	N	D
+ga	ga[milk]	N	N	D
+nesag	Nesag[1][-'a]	N	MN.L1	D
+{d}en-lil2-la2-sze3	Enlil[1]-ak-sze	DN	DN.GEN.TERM	D
+nig2-dab5	nigdab[requisitions]	N	N	D
+za3-mu-ka	zagmuk[new_year][-ak]	N	N.GEN	D
+ki	ki[place]	N	N	D
+kas4-ta	Kas[1][-ak]-ta	PN	PN.GEN.ABL	D
+mu	mu[year]	N	N	D
+{d}amar-suen	_	PN	PN	POS
+lugal	lugal[king]	N	N	D

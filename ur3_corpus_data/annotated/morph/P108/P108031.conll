@@ -1,0 +1,24 @@
+#new_text=P108031
+FORM	SEGM	XPOSTAG	XPOSTAG	POS
+1(ban2)	1(ban)[unit]	NU	N	D
+9(disz)	9(disz)[one]	NU	NU	D
+sila3	sila[unit]	N	N	D
+kasz	kasz[beer]	N	N	D
+du	gin[quality_designation][-ø]	V	NF.V.ABS	D
+u4	ud[day]	N	N	D
+2(u)	2(u)[ten]	NU	NU	D
+4(disz)-kam	4(disz)[one]-ak-am[-'a]	NU	NU.GEN.COP-3-SG	D
+2(disz)	2(disz)[one]	NU	NU	D
+kasz	kasz[beer]	N	N	D
+du	gin[quality_designation][-ø]	V	NF.V.ABS	D
+u4	ud[day]	N	N	D
+2(u)	2(u)[ten]	NU	NU	D
+8(disz)-kam	8(disz)[one]-ak-am	NU	NU.GEN.COP-3-SG	D
+a-a-kal-la	Ayakala[1]	PN	PN	D
+ugula	ugula[overseer][-ø]	N	N	D
+kas4-me	_	N	N.3-SG-NH-POSS.ABS.COP-3-PL	Iabcdef
+iti	iti[month]	N	N	D
+szu-esz-sza	Szu'eszsza[1][-'a]	MN	MN.L1	D
+a-a-kal-la	Ayakala[1]	PN	PN	D
+...	_[_]	PN	N	D
+...	_[_]	PN	N	D

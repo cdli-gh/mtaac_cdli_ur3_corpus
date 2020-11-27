@@ -1,0 +1,24 @@
+#new_text=P481049
+FORM	SEGM	XPOSTAG	XPOSTAG	POS
+1(u)	1(u)[ten]	NU	NU	D
+2(asz)	2(asz)[one]	NU	NU	D
+sze	sze[barley]	N	N	D
+gur	gur[unit]	N	N	D
+lugal	lugal[king]	N	N	D
+sza3-gal	szaggal[food]	N	N	D
+{ansze}kunga2	kunga[equid_type][-ak][-ø]	N	N.GEN.ABS	D
+ki-su7	kisur[threshing_floor]	N	N	D
+a-sza3	aszag[field]	N	N	D
+{gesz}ma-nu-ta	_	FN	FN	POS
+...-ta	_[_]-ta	PN	PN.GEN.ABL	D
+...	_[_]	PN	N	D
+szu	szu[hand][-e]	N	N.L3-NH	D
+ba-ti	ba[-n]-teg[accept][-ø]	V	MID.3-SG-H-A.V.3-SG-P	D
+iti	iti[month]	N	N	D
+ezem-{d}szul-gi	Ezemszulgir[1][-'a]	MN	MN.L1	D
+mu	mu[year]	N	N	D
+an-sza-an{ki}	Anszan[1][-ø]	GN	GN.ABS	D
+ba-hul	ba-hulu[destroy][-ø]	V	MID.V.3-SG-S	D
+...-{d}...	_[_]	PN	PN	Iabcde
+dumu	dumu[child]	N	N	D
+du-...	_	PN	PN	Iabcde

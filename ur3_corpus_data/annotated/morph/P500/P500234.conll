@@ -1,0 +1,23 @@
+#new_text=P500234
+FORM	SEGM	XPOSTAG	XPOSTAG	POS
+5(u)	5(u)[ten]	NU	NU	D
+1(asz)	1(asz)[one]	NU	NU	D
+2(ban2)	2(ban)[unit]	NU	N	D
+sze	sze[barley]	N	N	D
+gur	gur[unit]	N	N	D
+lugal	lugal[king]	N	N	D
+a2	a[time]	N	N	D
+lu2	lu[person]	N	N	D
+hun-ga2	hug[hire]-a	V	NF.V.PT	D
+a-sza3	aszag[field]	N	N	D
+a2-masz	_	FN	FN	POS
+giri3	giri[foot]	N	N	D
+a-ha-ma-ti	_	PN	PN	Ia
+nu-banda3	nubanda[overseer][-ø]	N	N	D
+gu4	gud[ox]	N	N	D
+u3	u[and]	CNJ	CNJ	D
+ur-{d}ig-alim	Urigalim[1]	FN	PN	D
+szesz-a-ni	Szeszani[1][-ak]	PN	PN	D
+mu	mu[year]	N	N	D
+ha--szi{ki}	_	GN	GN	POS
+ba-hul	ba-hulu[destroy][-ø]	V	MID.V.3-SG-S	D

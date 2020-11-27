@@ -1,0 +1,26 @@
+#new_text=P235084
+FORM	SEGM	XPOSTAG	XPOSTAG	POS
+3(gesz'u)	3(gesz'u)[six_hundred]	NU	NU	D
+8(gesz2)	8(gesz2)[sixty]	NU	NU	D
+2(u)	2(u)[ten]	NU	NU	D
+sa	sa[bundle]	N	N	D
+1(u)	1(u)[ten]	NU	NU	D
+8(disz)-ta	_	NU	NU.ABL	Iab
+gu-nigin2-bi	_	N	N.3-SG-NH-POSS.ABS	Iabcdefg
+2(gesz2)	2(gesz)[sixty]	NU	NU	D
+1(u)	1(u)[ten]	NU	NU	D
+1(disz)-am3	_	NU	NU.GEN.COP-3-SG	Iabcdef
+nu-banda3	nubanda[overseer][-ø]	N	N	D
+szu-{d}nin-szubur	_	DN	DN	POS
+ugula	ugula[overseer][-ø]	N	N	D
+ba-bi2-li2-a	_	PN	PN	Ia
+giri3	giri[foot]	N	N	D
+e2-a-su-ur	_	PN	PN	Iabcde
+szu-ma-ma	Szumama[1][-e]	PN	PN.DAT-H	D
+bu-u2-zu	_	PN	PN	Ia
+dingir-ra-bi2	Dingirrabi[1][-ra]	PN	PN.DAT-H	D
+u3	u[and]	CNJ	CNJ	D
+ur-e-bu-ra	_	PN	PN	Iabcde
+mu	mu[year]	N	N	D
+si-mu-ru-um{ki}	Simurrum[1]	SN	SN.ABS	D
+ba-hul	ba-hulu[destroy][-ø]	V	MID.V.3-SG-S	D

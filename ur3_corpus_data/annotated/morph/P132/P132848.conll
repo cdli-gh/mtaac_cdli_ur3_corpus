@@ -1,0 +1,25 @@
+#new_text=P132848
+FORM	SEGM	XPOSTAG	XPOSTAG	POS
+5(disz)	5(disz)[one]	NU	NU	D
+gurusz	gurusz[male]	N	N	D
+u4	ud[day]	N	N	D
+2(u)-sze3	_	NU	NU.TERM	Iab
+{gesz}szu	_	N	N.ABS	Iabcdefgh
+{uruda}gur10	_	N	N.ABS	Iabcde
+kid7-a	_	N	N	POS
+ma2-a	ma[ship]-'a	N	N.L1	D
+gar-ra	_	V	V	POS
+{gesz}ab-ba{ki}-dun-ta	_	GN	GN	POS
+u3	u[and]	CNJ	CNJ	D
+gir2-su{ki}-ta	Girsu[1][-ak][-ak]-ta	SN	SN.GEN.GEN.ABL	D
+e2-gu-za-la2-me	_	N	N.GEN.DAT-H	Iabcdefg
+ugula	ugula[overseer][-ø]	N	N	D
+ur-{d}lamma	Urlamma[1]	PN	PN	D
+giri3	giri[foot]	N	N	D
+ur-usz-gid2-da	_	PN	PN.GEN.ABL	Iabcdefgh
+iti	iti[month]	N	N	D
+sze-sag11-ku5	Szesagku[1][-'a]	MN	MN.L1	D
+mu	mu[year]	N	N	D
+en	en[priest]	N	N	D
+eridu{ki}	Eridug[1][-ak][-ø]	SN	SN.GEN.ABS	D
+ba-a-hun	ba-hug[hire][-ø]	V	MID.V.3-SG-S	D

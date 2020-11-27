@@ -1,0 +1,25 @@
+#new_text=P202809
+FORM	SEGM	XPOSTAG	XPOSTAG	POS
+1(u)	1(u)[ten]	NU	NU	D
+7(asz)	7(asz)[one]	NU	NU	D
+2(barig)	2(bariga)[unit]	NU	N	D
+3(ban2)	3(ban)[unit]	NU	N	D
+sze	sze[barley]	N	N	D
+gur	gur[unit]	N	N	D
+lugal	lugal[king]	N	N	D
+ki	ki[place]	N	N	D
+du-du-ta	_	V	V	POS
+ma-an-szum2-e	_	V	V	POS
+szu	szu[hand][-e]	N	N.L3-NH	D
+ba-ti	ba[-n]-teg[accept][-ø]	V	MID.3-SG-H-A.V.3-SG-P	D
+sze	sze[barley]	N	N	D
+zi3	zid[flour]	N	N	D
+KA-sze3	KA[flour type]-sze	N	N.TERM	D
+sza3	szag[heart]	N	N	D
+a-...-ka	_	 	 	POS
+iti	iti[month]	N	N	D
+ezem-{d}li9-si4	_	MN	MN	POS
+mu	mu[year]	N	N	D
+us2-sa	us[follow]-a	V	NF.V.PT	D
+mu	mu[year]	N	N	D
+us2-sa-bi	us[follow]-a-bi	V	NF.V.PT.3-SG-NH-POSS	D

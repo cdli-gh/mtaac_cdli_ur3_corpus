@@ -1,0 +1,27 @@
+#new_text=P132620
+FORM	SEGM	XPOSTAG	XPOSTAG	POS
+1(u)	1(u)[ten]	NU	NU	D
+1(asz)	1(asz)[one]	NU	NU	D
+2(barig)	2(bariga)[unit]	NU	N	D
+1(ban2)	1(ban)[unit]	NU	N	D
+6(disz)	6(disz)[one][-sze]	NU	NU	D
+sila3	sila[unit]	N	N	D
+sze	sze[barley]	N	N	D
+gur	gur[unit]	N	N	D
+sag	sag[head]	N	N	D
+7(gesz2)	7(gesz)[sixty]	NU	NU	D
+4(asz)	4(asz)[one]	NU	NU	D
+gur-kam	_	V	V	POS
+ba-ri2-ga	_	V	NF.V.ABS.GEN.GEN	Iabcdefg
+ba-ri2-ga	_	V	NF.V.ABS.GEN.GEN	Iabcdefg
+1(disz)-e	_	NU	NU	POS
+sag	sag[head]	N	N	D
+1(disz)	1(disz)[one]	NU	NU	D
+1/2(disz)	1/2(disz)[one]	NU	NU	D
+sila3	sila[unit]	N	N	D
+7(disz)	7(disz)[one][-sze]	NU	NU	D
+gin2-ta	gig[unit]-ta	N	N.ABL	D
+im-de6	_	V	FIN.V.3-SG-S	Iabcdefg
+sze	sze[barley]	N	N	D
+a-sza3	aszag[field]	N	N	D
+{u2}|KI.KAL|	_	N	N	Ia

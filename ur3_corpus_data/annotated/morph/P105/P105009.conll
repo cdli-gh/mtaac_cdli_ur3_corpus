@@ -1,0 +1,27 @@
+#new_text=P105009
+FORM	SEGM	XPOSTAG	XPOSTAG	POS
+1(disz)	1(disz)[one]	NU	NU	D
+sag	sag[head]	N	N	D
+nita	nita[male]	N	N	D
+dingir-sukkal	_	PN	PN.GEN	Iabcde
+mu-ni	_	V	N.3-SG-H-POSS.ABS	D
+ur-abul-ke4	_	PN	PN.GEN.ERG	Iab
+inim	inim[word]	N	N	D
+nu-ga2-ga2-da	_	V	NEG.NF.V.RDP.PT.ABS	Iabcdefg
+lugal-engar-ra	_	N	N	POS
+mu	mu[year]	N	N	D
+lugal-bi	_	N	N	POS
+in-na-pa3	_	PN	PN	POS
+a2-la-mu	_	PN	PN	Ia
+a2-lah5	_	N	N	POS
+lugal-a2-zi-da	Lugalazida[1]	PN	PN	D
+szesz-kal-la	Szeszkala[1][-ra]	PN	PN	D
+dumu	dumu[child]	N	N	D
+ur-{d}utu	Urutu[1]	PN	PN	D
+lu2-inim-ma-bi-me	lu'inimak[witness]-bi[-ø]-mesz	N	N.3-SG-NH-POSS.ABS.COP-3-PL	D
+mu	mu[year]	N	N	D
+dumu-munus	dumumunus[daughter]	N	N	D
+lugal	lugal[king]	N	N	D
+ensi2	ensik[ruler]	N	N	D
+za-ab-sza-li{ki}-e	_	SN	SN.GEN.L3-NH	Iabcdefg
+ba-tuku	_	V	MID.3-SG-H.DAT.V.3-SG-S	Iabcdefg

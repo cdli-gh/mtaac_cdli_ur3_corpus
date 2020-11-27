@@ -1,0 +1,7 @@
+#new_text=P458352
+FORM	SEGM	XPOSTAG	XPOSTAG	POS
+{d}szara2-a-mu	Szara'amu[1]	PN	PN	D
+dumu	dumu[child]	N	N	D
+ur-{d}...	_[1][-ra]	PN	PN.GEN	D
+...	_[_]	PN	N	D
+kuruszda	kuruszda[animal_fattener][-ø]	N	N.GEN.ABS	D

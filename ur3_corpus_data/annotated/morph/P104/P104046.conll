@@ -1,0 +1,26 @@
+#new_text=P104046
+FORM	SEGM	XPOSTAG	XPOSTAG	POS
+1(asz)	1(asz)[one]	NU	NU	D
+3(barig)	3(bariga)[unit]	NU	N	D
+2(ban2)	2(ban)[unit]	NU	N	D
+sze	sze[barley]	N	N	D
+gur	gur[unit]	N	N	D
+masz2	masz[goat]	N	N	D
+gur-ra	gur[unit]-ak	V	NF.V.PT	D
+1(barig)	1(bariga)[unit]	NU	N	D
+4(ban2)-ta	_	NU	NU	POS
+ki	ki[place]	N	N	D
+lugal-me-du10-ga-ta	_	PN	PN.GEN.ABL	Iab
+ba-zi-ge	_	PN	PN.GEN.DAT-H	Iabcdefg
+szu	szu[hand][-e]	N	N.L3-NH	D
+ba-ti	ba[-n]-teg[accept][-ø]	V	MID.3-SG-H-A.V.3-SG-P	D
+1(disz)	1(disz)[one]	NU	NU	D
+lu2-{d}en-lil2	Luyenlil[1][-ak]	PN	PN.GEN	D
+1(disz)	1(disz)[one]	NU	NU	D
+an-ne2-kusz2	_	PN	PN.GEN.GEN.DAT-H	Iabcdefg
+lu2-inim-ma-bi	_	PN	PN	POS
+iti	iti[month]	N	N	D
+kin-{d}inanna	Kin-Inanna[1].[-’a]MN.L1	MN	MN.L1	D
+mu	mu[year]	N	N	D
+ma2-gur8-mah	magurmah[great_barge][-ø]	N	N.ABS	D
+ba-ab-du8	ba-b-du[caulk][-ø]	V	MID.3-SG-NH-L3.V.3-SG-S	D

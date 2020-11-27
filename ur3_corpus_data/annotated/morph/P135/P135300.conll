@@ -1,0 +1,23 @@
+#new_text=P135300
+FORM	SEGM	XPOSTAG	XPOSTAG	POS
+1(barig)	1(bariga)[unit]	NU	N	D
+sze	sze[barley]	N	N	D
+a2	a[time]	N	N	D
+gurusz	gurusz[male]	N	N	D
+u4	ud[day]	N	N	D
+1(disz)-sze3	1(disz)[one]-sze	NU	NU.TERM	D
+a-sza3	aszag[field]	N	N	D
+bad3-da-ka	_	N	N.GEN.GEN	Iab
+a	a[water][-ø]	N	N.ABS	D
+de2-de3	_	V	NF.V.PT.GEN	Iabcdefg
+gen-na	gen[go]-a	V	NF.V.PT	D
+ki	ki[place]	N	N	D
+ku-li	Kuli[1]	PN	PN	D
+szabra-ta	_	N	N.ABL	Iabcde
+ba-zi	ba-zig[expend][-ø]	PN	MID.V.3-SG-S	D
+mu	mu[year]	N	N	D
+{d}amar-{d}suen	Amarsuen[1]	RN	RN	D
+lugal-e	lugal[king]-e	N	N.ERG	D
+gu-za	guza[chair][-ø]	N	N	D
+{d}en-lil2-la2	Enlil[1][-ak][-ø]	DN	DN.GEN	D
+in-dim2	_	V	FIN.3-SG-H.DAT.3-SG-H-A.V.3-SG-P	Iabcdefg

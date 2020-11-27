@@ -1,0 +1,24 @@
+#new_text=P101680
+FORM	SEGM	XPOSTAG	XPOSTAG	POS
+la2-ia3	la'u[arrears]	N	N	D
+2(barig)	2(bariga)[unit]	NU	N	D
+1(ban2)	1(ban)[unit]	NU	N	D
+x	_[_]	N	N	D
+sila3	sila[unit]	N	N	D
+sag	sag[head]	N	N	D
+szum2-sikil	_	V	V	POS
+1(barig)	1(bariga)[unit]	NU	N	D
+2(ban2)	2(ban)[unit]	NU	N	D
+7(disz)	7(disz)[one][-sze]	NU	NU	D
+sila3	sila[unit]	N	N	D
+...	_[_]	PN	N	D
+la2-ia3	la'u[arrears]	N	N	D
+su-su	sug-sug[repay][-ed]	V	NF.V.RDP.PF	D
+...	_[_]	PN	N	D
+{d}...	_[1][-'a]	MN	DN.GEN	D
+lu2	lu[person]	N	N	D
+szum2	szum[garlic]	N	N	D
+mu	mu[year]	N	N	D
+ha-ar-szi{ki}	Harszi[1]	SN	SN	D
+ki-masz{ki}	Kimasz[1]	SN	SN.ABS	D
+ba-hul	ba-hulu[destroy][-ø]	V	MID.V.3-SG-S	D

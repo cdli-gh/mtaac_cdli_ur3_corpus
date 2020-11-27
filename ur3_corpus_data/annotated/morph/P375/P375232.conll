@@ -1,0 +1,22 @@
+#new_text=P375232
+FORM	SEGM	XPOSTAG	XPOSTAG	POS
+8(asz)	8(asz)[one]	NU	NU	D
+2(barig)	2(bariga)[unit]	NU	N	D
+2(ban2)	2(ban)[unit]	NU	N	D
+6(disz)	6(disz)[one][-sze]	NU	NU	D
+sila3	sila[unit]	N	N	D
+sze	sze[barley]	N	N	D
+gur	gur[unit]	N	N	D
+lugal	lugal[king]	N	N	D
+mu	mu[year]	N	N	D
+ur-mes-sze3	_	PN	PN.GEN.TERM	Iabcdefg
+kiszib3	kiszib[seal]	N	N	D
+ku5-da-mu	Kudamu[1][-ak][-ak]	PN	PN	D
+dumu	dumu[child]	N	N	D
+sanga	sagga[temple_administrator]	N	N	D
+uru11{ki}	_	SN	SN.GEN.ABS	D
+ki	ki[place]	N	N	D
+ku5-da-mu-ta	_	V	V	POS
+mu	mu[year]	N	N	D
+ha-ar-szi{ki}	Harszi[1]	SN	SN	D
+ba-hul	ba-hulu[destroy][-ø]	V	MID.V.3-SG-S	D

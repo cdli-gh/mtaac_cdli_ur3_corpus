@@ -1,0 +1,27 @@
+#new_text=P102051
+FORM	SEGM	XPOSTAG	XPOSTAG	POS
+5(u)	5(u)[ten]	NU	NU	D
+2(asz)	2(asz)[one]	NU	NU	D
+sze	sze[barley]	N	N	D
+gur	gur[unit]	N	N	D
+lugal	lugal[king]	N	N	D
+sze-ba	szeba[ration]	N	N	D
+geme2	geme[female_worker]	N	N	D
+usz-bar	uszbar[weaver][-ak]	N	N	D
+i3-dub	idub[granary]	N	N	D
+a-sza3	aszag[field]	N	N	D
+du6-lugal-...-tusz-a-ta	_	FN	FN	POS
+ugula	ugula[overseer][-ø]	N	N	D
+ur-{d}ba-ba6	Urbaba[1]	PN	PN	D
+iti	iti[month]	N	N	D
+mu-szu-du7-ta	_	MN	MN.GEN.ABL	Iabcdefg
+iti	iti[month]	N	N	D
+ezem-{d}li9-si4-sze3	_	MN	MN.TERM	Iab
+mu	mu[year]	N	N	D
+si-mu-ur4-ru-um{ki}	Simurrum[1][-ø]	SN	SN.ABS	D
+lu-lu-bu-um{ki}	Lulubum[1][-ø]	SN	SN.ABS	D
+a-ra2	ara[times]	N	N	D
+1(u)	1(u)[ten]	NU	NU	D
+la2	la[hang][-ø]	V	NF.V.ABS	D
+1(disz)-kam-asz	_	NU	NU.GEN.COP-3-SG.TERM	Iab
+ba-hul	ba-hulu[destroy][-ø]	V	MID.V.3-SG-S	D

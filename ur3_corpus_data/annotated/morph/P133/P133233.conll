@@ -1,0 +1,25 @@
+#new_text=P133233
+FORM	SEGM	XPOSTAG	XPOSTAG	POS
+1(ban2)	1(ban)[unit]	NU	N	D
+zi3	zid[flour]	N	N	D
+sig15	sig[flour_type]	V	N	D
+1(ban2)	1(ban)[unit]	NU	N	D
+zi3-gu	zidgu[flour_type]	N	N	D
+5(disz)	5(disz)[one]	NU	NU	D
+sila3	sila[unit]	N	N	D
+zi3	zid[flour]	N	N	D
+dub-dub	dubdub[flour_designation]	N	N	D
+3(disz)	3(disz)[one]	NU	NU	D
+sila3	sila[unit]	N	N	D
+esza	esza[flour]	N	N	D
+siskur2	siszkur[offering]	N	N	D
+i7	id[river]	N	N	D
+nigin6{ki}-sze3-du	Niginszedu[1][-ak][-'a]	WN	WN.GEN.L1	D
+usz2-a	_	V	NF.V.ABS.GEN	Iabcdef
+zi-ga	zig[expend]-a	V	NF.V.PT	D
+iti	iti[month]	N	N	D
+mu-szu-du7	Muszudu[1][-'a]	MN	MN.L1	D
+mu	mu[year]	N	N	D
+e2	e[house]	N	N	D
+{d}szara2	Szara[1][-ak]	DN	DN	D
+ba-du3	ba-du[build][-ø]	V	MID.V.3-SG-S	D

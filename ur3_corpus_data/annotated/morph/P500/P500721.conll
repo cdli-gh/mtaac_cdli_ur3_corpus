@@ -1,0 +1,23 @@
+#new_text=P500721
+FORM	SEGM	XPOSTAG	XPOSTAG	POS
+1(szar2)	1(szar)[unit]	NU	N	D
+2(gesz2)	2(gesz)[sixty]	NU	NU	D
+4(u)	4(u)[ten]	NU	NU	D
+2(asz)	2(asz)[one]	NU	NU	D
+sze	sze[barley]	N	N	D
+gur	gur[unit]	N	N	D
+kiszib3	kiszib[seal]	N	N	D
+lu2-gu-la	Lugula[1][-ak][-ra]	PN	PN	D
+sanga	sagga[temple_administrator]	N	N	D
+{d}dumu-zi	Dumuzi[1][-'a]	MN	MN.L1	D
+ur-nig2-e	_	N	N	POS
+tum3-dam	_	V	V	POS
+mu	mu[year]	N	N	D
+en	en[priest]	N	N	D
+{d}inanna	Inanna[1][-ak]	DN	DN	D
+masz2-e	masz[goat]-e	N	N.L3-NH	D
+i3-pa3	i-pad[find][-ø]	V	FIN.V.3-SG-S	D
+ur-nig2	_	PN	PN	Iabcde
+dub-sar	dubsar[scribe]	N	N	D
+dumu	dumu[child]	N	N	D
+lugal-gaba	Lugalgaba[1]	PN	PN	D

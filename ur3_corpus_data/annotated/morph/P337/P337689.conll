@@ -1,0 +1,27 @@
+#new_text=P337689
+FORM	SEGM	XPOSTAG	XPOSTAG	POS
+...	_[_]	PN	N	D
+...	_[_]	PN	N	D
+x	_[_]	N	N	D
+x	_[_]	N	N	D
+x	_[_]	N	N	D
+...	_[_]	PN	N	D
+sza3-ku3-ge	Szakuge[1][-e]	PN	PN.ERG	D
+...	_[_]	PN	N	D
+a2	a[time]	N	N	D
+ma2	ma[ship]	N	N	D
+e	eg[levee]	N	N	D
+x	_[_]	N	N	D
+x	_[_]	N	N	D
+...	_[_]	PN	N	D
+x	_[_]	N	N	D
+e-x	_	PN	PN	Iabcde
+x	_[_]	N	N	D
+...	_[_]	PN	N	D
+x	_[_]	N	N	D
+tug2	tug[textile]	N	N	D
+mul	_	N	N	POS
+...	_[_]	PN	N	D
+x	_[_]	N	N	D
+x	_[_]	N	N	D
+...	_[_]	PN	N	D

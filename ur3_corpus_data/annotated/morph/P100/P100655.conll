@@ -1,0 +1,22 @@
+#new_text=P100655
+FORM	SEGM	XPOSTAG	XPOSTAG	POS
+5(u)	5(u)[ten]	NU	NU	D
+6(asz)	6(asz)[one]	NU	NU	D
+4(barig)	4(bariga)[unit]	NU	N	D
+dabin	dabin[semolina]	N	N	D
+gur	gur[unit]	N	N	D
+lugal	lugal[king]	N	N	D
+zi3	zid[flour]	N	N	D
+e2-da-na-ka	_	N	N.GEN.GEN	Iabcde
+bala-a	bala[tax][-ak]-'a	N	N.GEN.L1	D
+kiszib3	kiszib[seal]	N	N	D
+nu-ra-a	Nuraya[1][-ak]	PN	PN.GEN	D
+lugal-uszur3	_	PN	PN.DAT-H	Iab
+ki	ki[place]	N	N	D
+lugal-ma2-gur8-re-ta	_	PN	PN.GEN.ABL	Iabcdef
+iti	iti[month]	N	N	D
+{d}pa4-u2-e	Pa'u'e[1][-'a]	MN	MN.L1	D
+mu	mu[year]	N	N	D
+us2-sa	us[follow]-a	V	NF.V.PT	D
+ki-masz{ki}	Kimasz[1]	SN	SN.ABS	D
+ba-hul	ba-hulu[destroy][-ø]	V	MID.V.3-SG-S	D

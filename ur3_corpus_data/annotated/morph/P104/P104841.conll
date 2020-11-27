@@ -1,0 +1,26 @@
+#new_text=P104841
+FORM	SEGM	XPOSTAG	XPOSTAG	POS
+3(gesz2)	3(gesz)[sixty]	NU	NU	D
+1(u)	1(u)[ten]	NU	NU	D
+6(asz)	6(asz)[one]	NU	NU	D
+1(barig)	1(bariga)[unit]	NU	N	D
+sze	sze[barley]	N	N	D
+gur	gur[unit]	N	N	D
+sag	sag[head]	N	N	D
+a2-na	_	PN	PN	Iabcdefgh
+3(gesz2)	3(gesz)[sixty]	NU	NU	D
+4(asz)	4(asz)[one]	NU	NU	D
+1(barig)	1(bariga)[unit]	NU	N	D
+gur	gur[unit]	N	N	D
+ur-a-nimgir-za	_	PN	PN.GEN	Iabcde
+3(gesz2)	3(gesz)[sixty]	NU	NU	D
+3(u)	3(u)[ten]	NU	NU	D
+6(asz)	6(asz)[one]	NU	NU	D
+gur	gur[unit]	N	N	D
+sza3-igi-saga	_	PN	PN	Iabc
+4(gesz2)	4(gesz)[sixty]	NU	NU	D
+1(u)	1(u)[ten]	NU	NU	D
+5(asz)	5(asz)[one]	NU	NU	D
+1(barig)	1(bariga)[unit]	NU	N	D
+gur	gur[unit]	N	N	D
+lugal-e2-mah-e	Lugalemahe[1]	N	PN	D

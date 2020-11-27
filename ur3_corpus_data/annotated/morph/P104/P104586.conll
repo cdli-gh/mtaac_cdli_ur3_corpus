@@ -1,0 +1,26 @@
+#new_text=P104586
+FORM	SEGM	XPOSTAG	XPOSTAG	POS
+4(asz)	4(asz)[one]	NU	NU	D
+gu2	gun[unit]	N	N	D
+SZIM	szim[beer_malt]	N	N	D
+ki	ki[place]	N	N	D
+ur4-sza3-ki-du10-ta	Urszakidu[1][-ak]-ta	PN	PN.GEN.ABL	D
+er3-ra-dan-e	_	PN	PN.GEN.ERG	Iabcdefg
+szu	szu[hand][-e]	N	N.L3-NH	D
+ba-ti	ba[-n]-teg[accept][-ø]	V	MID.3-SG-H-A.V.3-SG-P	D
+x	_[_]	N	N	D
+x	_[_]	N	N	D
+x	_[_]	N	N	D
+x	_[_]	N	N	D
+x	_[_]	N	N	D
+x	_[_]	N	N	D
+x	_[_]	N	N	D
+x	_[_]	N	N	D
+x-ra	_	DN	DN	POS
+iti	iti[month]	N	N	D
+sze-kar-ra-gal2-la	Szekaragala[1][-'a]	MN	MN.L1	D
+mu	mu[year]	N	N	D
+us2-sa	us[follow]-a	V	NF.V.PT	D
+{d}szu-{d}suen	Szusuen[1]	RN	RN	D
+lugal	lugal[king]	N	N	D
+puzur4-er3-ra	_	PN	PN	Ia

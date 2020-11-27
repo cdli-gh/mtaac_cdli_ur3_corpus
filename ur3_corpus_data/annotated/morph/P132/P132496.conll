@@ -1,0 +1,21 @@
+#new_text=P132496
+FORM	SEGM	XPOSTAG	XPOSTAG	POS
+1(asz)	1(asz)[one]	NU	NU	D
+1(barig)	1(bariga)[unit]	NU	N	D
+sze	sze[barley]	N	N	D
+gur	gur[unit]	N	N	D
+ki	ki[place]	N	N	D
+ur-e2-ninnu-ta	_	PN	PN.GEN.ABL	Iabcdef
+lu2	lu[person]	N	N	D
+{gesz}tukul-e	_	N	N.DAT-H	Iabcde
+szu	szu[hand][-e]	N	N.L3-NH	D
+ba-ti	ba[-n]-teg[accept][-ø]	V	MID.3-SG-H-A.V.3-SG-P	D
+mu	mu[year]	N	N	D
+a2-gul-la-sze3	_	PN	PN	POS
+a2-gul-asz	_	PN	PN	POS
+ur-{d}nin-pirig-sze3	_	PN	PN.GEN.TERM	Iabcdef
+mu	mu[year]	N	N	D
+en	en[priest]	N	N	D
+{d}inanna	Inanna[1][-ak]	DN	DN	D
+unu{ki}	Unug[1][-ak][-ak][-ø]	SN	SN.GEN.L1	D
+ba-a-hun	ba-hug[hire][-ø]	V	MID.V.3-SG-S	D

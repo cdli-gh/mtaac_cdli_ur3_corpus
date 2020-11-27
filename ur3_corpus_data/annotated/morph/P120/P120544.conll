@@ -1,0 +1,25 @@
+#new_text=P120544
+FORM	SEGM	XPOSTAG	XPOSTAG	POS
+2(barig)	2(bariga)[unit]	NU	N	D
+sze	sze[barley]	N	N	D
+sza3	szag[heart]	N	N	D
+...	_[_]	PN	N	D
+pesz2-...	_	PN	PN	POS
+1(barig)	1(bariga)[unit]	NU	N	D
+sze	sze[barley]	N	N	D
+ur-{d}nin-su	_	PN	PN	Iabcde
+kiszib3	kiszib[seal]	N	N	D
+ab-ba-saga	Abbasaga[1]	PN	PN	D
+dumu-na	dumu[child]-ani-ak	N	N.3-SG-H-POSS.GEN	D
+mu	mu[year]	N	N	D
+en-unu6-gal	Enunugal[1]	PN	PN	D
+{d}inanna	Inanna[1][-ak]	DN	DN	D
+ba-hun	ba-hug[hire][-ø]	V	MID.V.3-SG-S	D
+ab-ba-sa6-ga	Abbasaga[1][-e]	PN	PN.ERG	D
+dumu	dumu[child]	N	N	D
+da-du-mu	Dadumu[1][-ak]	PN	PN.GEN	D
+nu-banda3-gu4	nubandagu[ox_overseer][-ak][-ak][-ak]	N	N	D
+da-du-mu	Dadumu[1][-ak]	PN	PN.GEN	D
+nu-banda3-gu4	nubandagu[ox_overseer][-ak][-ak][-ak]	N	N	D
+dumu	dumu[child]	N	N	D
+lugal-iri-na	_	PN	PN.ERG	Iabcdefgh

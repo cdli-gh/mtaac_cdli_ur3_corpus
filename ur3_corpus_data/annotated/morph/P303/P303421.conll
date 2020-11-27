@@ -1,0 +1,20 @@
+#new_text=P303421
+FORM	SEGM	XPOSTAG	XPOSTAG	POS
+1(gesz2)	1(gesz)[sixty]	NU	NU	D
+3(u)	3(u)[ten]	NU	NU	D
+8(disz)	8(disz)[one]	NU	NU	D
+gesz-ur3	geszur[harrow]	N	N	D
+{gesz}asal2	_	N	N	Ia
+e2-da	_	PN	PN	POS
+7(disz)	7(disz)[one][-sze]	NU	NU	D
+kusz3-ta	kusz[unit]-ta	N	N.ABL	D
+ki	ki[place]	N	N	D
+ur-{d}su4-an-na	Ursu'anak[1][-ra]	PN	PN.DAT-H	D
+dam-gar3-ta	_	N	N.GEN.ABL	Iabcdef
+un-da-ga	_	PN	PN	POS
+szu	szu[hand][-e]	N	N.L3-NH	D
+ba-an-ti	ba-n-teg[accept][-ø]	V	MID.3-SG-H-A.V.3-SG-P	D
+e2-sukkal	_	PN	PN	POS
+...	_[_]	PN	N	D
+mu	mu[year]	N	N	D
+...	_[_]	PN	N	D

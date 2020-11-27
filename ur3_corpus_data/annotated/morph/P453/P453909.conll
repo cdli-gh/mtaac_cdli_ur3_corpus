@@ -1,0 +1,24 @@
+#new_text=P453909
+FORM	SEGM	XPOSTAG	XPOSTAG	POS
+1(gesz2)	1(gesz)[sixty]	NU	NU	D
+1(u)	1(u)[ten]	NU	NU	D
+6(asz)	6(asz)[one]	NU	NU	D
+2(barig)	2(bariga)[unit]	NU	N	D
+3(ban2)	3(ban)[unit]	NU	N	D
+sze	sze[barley]	N	N	D
+gur	gur[unit]	N	N	D
+sze-ba	szeba[ration]	N	N	D
+u3	u[and]	CNJ	CNJ	D
+apin-la2	apinla[tenancy]	N	N	D
+me-{d}nin-sun2	_	PN	PN	Iabcdefgh
+dingir-a-su	_	PN	PN	POS
+szu	szu[hand][-e]	N	N.L3-NH	D
+ba-ti	ba[-n]-teg[accept][-ø]	V	MID.3-SG-H-A.V.3-SG-P	D
+mu	mu[year]	N	N	D
+{d}szu-{d}suen	Szusuen[1]	RN	RN	D
+lugal	lugal[king]	N	N	D
+uri5{ki}-ma-ke4	Urim[1]-ak-e	SN	SN.GEN.ERG	D
+e2	e[house]	N	N	D
+{d}szara2	Szara[1][-ak]	DN	DN	D
+umma{ki}-ka	Umma[1]-ak-ak[-ø]	FN	SN.GEN.GEN.ABS	D
+mu-du3	mu[-n]-du[build][-ø]	V	VEN.3-SG-H-A.V.3-SG-P	D

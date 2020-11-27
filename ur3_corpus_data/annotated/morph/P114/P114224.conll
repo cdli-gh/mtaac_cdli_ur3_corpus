@@ -1,0 +1,25 @@
+#new_text=P114224
+FORM	SEGM	XPOSTAG	XPOSTAG	POS
+4(gesz'u)	4(gesz'u)[six_hundred]	NU	NU	D
+5(gesz2)	5(gesz)[sixty]	NU	NU	D
+3(u)	3(u)[ten]	NU	NU	D
+6(disz)	6(disz)[one][-sze]	NU	NU	D
+sa	sa[bundle]	N	N	D
+gi	gi[reed][-ø]	N	N	D
+SZID	_	N	N.ABS	Iabcdefghij
+2(gesz'u)	2(gesz'u)[six_hundred]	NU	NU	D
+6(gesz2)	6(gesz)[sixty]	NU	NU	D
+sa	sa[bundle]	N	N	D
+gi	gi[reed][-ø]	N	N	D
+NE	ne[unknown]	MN	MN	POS
+ki	ki[place]	N	N	D
+szesz-kal-la-ta	Szeszkala[1][-ak]-ta	N	PN.GEN.ABL	D
+an-gu-gu	_	PN	PN.GEN	Iabcd
+szu	szu[hand][-e]	N	N.L3-NH	D
+ba-ti	ba[-n]-teg[accept][-ø]	V	MID.3-SG-H-A.V.3-SG-P	D
+iti	iti[month]	N	N	D
+e2-iti-6(disz)	E'iti6[1][-'a]	NU	MN.L1	D
+mu	mu[year]	N	N	D
+e2	e[house]	N	N	D
+puzur4-da-gan	Puzurdagan[1][-ø]	SN	SN.ABS	D
+ba-du3	ba-du[build][-ø]	V	MID.V.3-SG-S	D

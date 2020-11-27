@@ -1,0 +1,24 @@
+#new_text=P209599
+FORM	SEGM	XPOSTAG	XPOSTAG	POS
+1(esze3)	1(esze)[unit]	NU	N	D
+2(iku)	2(iku)[unit]	NU	N	D
+GAN2	gana[field]	N	N	D
+a-sza3	aszag[field]	N	N	D
+bala-a	bala[tax][-ak]-'a	N	N.GEN.L1	D
+9(disz)-ta	_	NU	NU.ABL	Iabcdefg
+a-sza3	aszag[field]	N	N	D
+a-ba-gal-pisan-i3-szub-ba	_	FN	FN	POS
+GAN2	gana[field]	N	N	D
+engar-zi	_	PN	PN	POS
+nu-banda3-gu4	nubandagu[ox_overseer][-ak][-ak][-ak]	N	N	D
+szesz-kal-la	Szeszkala[1][-ra]	PN	PN	D
+kiszib3	kiszib[seal]	N	N	D
+ur-am3-ma	Uramma[1][-ak]	PN	PN	D
+mu	mu[year]	N	N	D
+e2	e[house]	N	N	D
+{d}szara2	Szara[1][-ak]	DN	DN	D
+ba-du3	ba-du[build][-ø]	V	MID.V.3-SG-S	D
+ur-am3-ma	Uramma[1][-ak]	PN	PN	D
+dumu	dumu[child]	N	N	D
+lugal-{gesz}gigir	_	PN	PN.DAT-H	Iabcdefgh
+...	_[_]	PN	N	D

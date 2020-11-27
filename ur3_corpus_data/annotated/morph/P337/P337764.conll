@@ -1,0 +1,21 @@
+#new_text=P337764
+FORM	SEGM	XPOSTAG	XPOSTAG	POS
+2(asz)	2(asz)[one]	NU	NU	D
+2(barig)	2(bariga)[unit]	NU	N	D
+nig2-ar3-ra	nigara[groats]	N	N	D
+du	gin[quality_designation][-ø]	V	NF.V.ABS	D
+gur	gur[unit]	N	N	D
+1(barig)-ta	bariga[unit]-ta	NU	N.ABL	D
+2(asz)	2(asz)[one]	NU	NU	D
+nig2-ar3-ra	nigara[groats]	N	N	D
+saga	saga[good][-ø]	V	NF.V.ABS	D
+5(asz)	5(asz)[one]	NU	NU	D
+munu4	munu[malt]	N	N	D
+gur	gur[unit]	N	N	D
+e2-munus-sze3	_	PN	PN	POS
+szu	szu[hand][-e]	N	N.L3-NH	D
+ba-ti	ba[-n]-teg[accept][-ø]	V	MID.3-SG-H-A.V.3-SG-P	D
+ma-szum2	_	V	V	POS
+sza3	szag[heart]	N	N	D
+...	_[_]	PN	N	D
+x-sze3	_	PN	PN.GEN.TERM	Iabcdef

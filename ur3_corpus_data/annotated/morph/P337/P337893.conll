@@ -1,0 +1,19 @@
+#new_text=P337893
+FORM	SEGM	XPOSTAG	XPOSTAG	POS
+1(asz)	1(asz)[one]	NU	NU	D
+n	_(_)[_]	NU	NU	D
+...	_[_]	PN	N	D
+4(disz)	4(disz)[one]	NU	NU	D
+gesz	gesz[tree]	N	N	D
+...	_[_]	PN	N	D
+2(barig)	2(bariga)[unit]	NU	N	D
+mu	mu[year]	N	N	D
+...	_[_]	PN	N	D
+3(asz)	3(asz)[one]	NU	NU	D
+...	_[_]	PN	N	D
+lu2-dingir-ra	Ludingira[1][-ra]	PN	PN	D
+...	_[_]	PN	N	D
+szu	szu[hand][-e]	N	N.L3-NH	D
+ba-ti	ba[-n]-teg[accept][-ø]	V	MID.3-SG-H-A.V.3-SG-P	D
+iti	iti[month]	N	N	D
+ezem-{d}...	_	MN	MN	Iabcde

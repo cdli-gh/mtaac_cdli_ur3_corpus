@@ -1,0 +1,19 @@
+#new_text=P132837
+FORM	SEGM	XPOSTAG	XPOSTAG	POS
+1(ban2)	1(ban)[unit]	NU	N	D
+zi3	zid[flour]	N	N	D
+sig15	sig[flour_type]	V	N	D
+1(ban2)	1(ban)[unit]	NU	N	D
+zi3-gu	zidgu[flour_type]	N	N	D
+nig2-siskur2-ra	_	DET	DET	POS
+e2	e[house]	N	N	D
+{d}iszkur-sze3	_	PN	PN.GEN.TERM	Iabcdef
+bur-sag-ta	_	PN	PN	POS
+giri3	giri[foot]	N	N	D
+ur-nigar{gar}	Urnigar[1]	PN	PN	D
+iti	iti[month]	N	N	D
+sze-sag11-ku5	Szesagku[1][-'a]	MN	MN.L1	D
+mu	mu[year]	N	N	D
+e2	e[house]	N	N	D
+{d}szara2	Szara[1][-ak]	DN	DN	D
+ba-du3	ba-du[build][-ø]	V	MID.V.3-SG-S	D

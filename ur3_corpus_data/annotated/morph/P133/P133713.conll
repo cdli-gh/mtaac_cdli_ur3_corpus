@@ -1,0 +1,16 @@
+#new_text=P133713
+FORM	SEGM	XPOSTAG	XPOSTAG	POS
+1(gesz2)	1(gesz)[sixty]	NU	NU	D
+3(u)	3(u)[ten]	NU	NU	D
+2(asz)	2(asz)[one]	NU	NU	D
+1(barig)	1(bariga)[unit]	NU	N	D
+4(ban2)	4(ban)[unit]	NU	N	D
+sze	sze[barley]	N	N	D
+gur	gur[unit]	N	N	D
+sa2-du11	sadug[offerings]	N	N	D
+e2-kas4	_	TN	TN	Iabcde
+i3-dub	idub[granary]	N	N	D
+{gesz}tir-ma-nu-ta	_	N	N.ABL	Iabcde
+ki	ki[place]	N	N	D
+ur-nigar{gar}-ta	Urnigar[1][-ak]-ta	PN	PN.GEN.ABL	D
+...	_[_]	PN	N	D

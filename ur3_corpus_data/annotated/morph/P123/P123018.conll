@@ -1,0 +1,35 @@
+#new_text=P123018
+FORM	SEGM	XPOSTAG	XPOSTAG	POS
+2(gesz'u)	2(gesz'u)[six_hundred]	NU	NU	D
+8(gesz2)	8(gesz2)[sixty]	NU	NU	D
+2(u)	2(u)[ten]	NU	NU	D
+7(asz)	7(asz)[one]	NU	NU	D
+sze	sze[barley]	N	N	D
+gur	gur[unit]	N	N	D
+lugal	lugal[king]	N	N	D
+x	_[_]	N	N	D
+...	_[_]	PN	N	D
+ri	_	V	NF.V.PT.ABS	Iabcdef
+...	_[_]	PN	N	D
+gen-na	gen[go]-a	V	NF.V.PT	D
+ki	ki[place]	N	N	D
+lu2-dingir-ra	Ludingira[1][-ra]	PN	PN	D
+szabra	szabra[chief_administrator][-ak]	N	N	D
+ur-ezem-ma	_	PN	PN	Iabcde
+mu	mu[year]	N	N	D
+zabar-dab5-sze3	_	N	N	POS
+szu	szu[hand][-e]	N	N.L3-NH	D
+ba-ti	ba[-n]-teg[accept][-ø]	V	MID.3-SG-H-A.V.3-SG-P	D
+bala	bala[turn][-'a]	N	N.L1	D
+ezem-mah	Ezemmah[1][-'a]	MN	MN.L1	D
+un-su	_	V	V	POS
+gi4-gi4-de3(BA)	_	NU	NU	POS
+mu	mu[year]	N	N	D
+lugal-bi	_	N	N	POS
+i3-pa3	i-pad[find][-ø]	V	FIN.V.3-SG-S	D
+mu	mu[year]	N	N	D
+en-mah-gal-an-na	Enmahgalana[1]	PN	PN	D
+en	en[priest]	N	N	D
+{d}nanna	Nanna[1][-ak]	DN	DN	D
+	_	_
+ba-hun	ba-hug[hire][-ø]	V	MID.V.3-SG-S	D

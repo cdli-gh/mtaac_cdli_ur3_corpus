@@ -1,0 +1,20 @@
+#new_text=P112673
+FORM	SEGM	XPOSTAG	XPOSTAG	POS
+2(szar2)	2(szar)[thirty-six_hundred]	NU	NU	D
+3(gesz'u)	3(gesz'u)[six_hundred]	NU	NU	D
+8(gesz2)	8(gesz2)[sixty]	NU	NU	D
+4(u)	4(u)[ten]	NU	NU	D
+6(disz)	6(disz)[one][-sze]	NU	NU	D
+gurusz	gurusz[male]	N	N	D
+u4	ud[day]	N	N	D
+1(disz)-sze3	1(disz)[one]-sze	NU	NU.TERM	D
+la2-ia3	la'u[arrears]	N	N	D
+a2	a[time]	N	N	D
+gul-la	_	V	V	POS
+a-sza3	aszag[field]	N	N	D
+ambar-sur-ra	_	N	N	POS
+ur-{d}lamma	Urlamma[1]	PN	PN	D
+mu	mu[year]	N	N	D
+us2-sa	us[follow]-a	V	NF.V.PT	D
+mu	mu[year]	N	N	D
+us2-sa-bi	us[follow]-a-bi	V	NF.V.PT.3-SG-NH-POSS	D

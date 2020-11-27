@@ -1,0 +1,23 @@
+#new_text=P126527
+FORM	SEGM	XPOSTAG	XPOSTAG	POS
+...	_[_]	PN	N	D
+...	_[_]	PN	N	D
+iti	iti[month]	N	N	D
+ezem-{d}szul-gi	Ezemszulgir[1][-'a]	MN	MN.L1	D
+u4	ud[day]	N	N	D
+5(disz)	5(disz)[one]	NU	NU	D
+zal-la-ta	zal[pass]-a-ta	V	NF.V.PT.ABL	D
+iti	iti[month]	N	N	D
+ezem-mah	Ezemmah[1][-'a]	MN	MN.L1	D
+u4	ud[day]	N	N	D
+2(u)	2(u)[ten]	NU	NU	D
+zal-la-asz	_	V	NF.V.PT.TERM	Iabcdefg
+a2-bi	a[labor]-bi	N	N.3-SG-NH-POSS.ABS	D
+u4	ud[day]	N	N	D
+2(gesz2)	2(gesz)[sixty]	NU	NU	D
+...	_[_]	PN	N	D
+...-bi	_[1][-e]	PN	PN.ERG	D
+1(u)	1(u)[ten]	NU	NU	D
+3(disz)	3(disz)[one]	NU	NU	D
+...	_[_]	PN	N	D
+x	_[_]	N	N	D

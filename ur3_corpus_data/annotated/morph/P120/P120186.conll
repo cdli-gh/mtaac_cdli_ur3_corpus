@@ -1,0 +1,11 @@
+#new_text=P120186
+FORM	SEGM	XPOSTAG	XPOSTAG	POS
+2(gesz'u)	2(gesz'u)[six_hundred]	NU	NU	D
+3(gesz2)	3(gesz)[sixty]	NU	NU	D
+2(u)	2(u)[ten]	NU	NU	D
+6(disz)	6(disz)[one][-sze]	NU	NU	D
+5/6(disz)	5/6(disz)[one]	NU	NU	D
+gurusz	gurusz[male]	N	N	D
+u4	ud[day]	N	N	D
+1(disz)-sze3	1(disz)[one]-sze	NU	NU.TERM	D
+sa-KU-x	_	PN	PN.DAT-H	Iabcdefgh

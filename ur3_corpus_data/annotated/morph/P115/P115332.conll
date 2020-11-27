@@ -1,0 +1,25 @@
+#new_text=P115332
+FORM	SEGM	XPOSTAG	XPOSTAG	POS
+2(gesz'u)	2(gesz'u)[six_hundred]	NU	NU	D
+2(gesz2)	2(gesz)[sixty]	NU	NU	D
+7(asz)	7(asz)[one]	NU	NU	D
+3(barig)	3(bariga)[unit]	NU	N	D
+1(disz)	1(disz)[one]	NU	NU	D
+sila3	sila[unit]	N	N	D
+sze	sze[barley]	N	N	D
+gur	gur[unit]	N	N	D
+lugal	lugal[king]	N	N	D
+ki	ki[place]	N	N	D
+ur-{gesz}gigir-ta	_	PN	PN.GEN.ABL	Iab
+mu	mu[year]	N	N	D
+lu2-{d}igi-ma-sze3	Lu'igimasze[1]	PN	PN	D
+nu-banda3	nubanda[overseer][-ø]	N	N	D
+kuruszda-sze3	_	N	N.3-SG-H-POSS.TERM	Iabcdef
+lu2-kal-la	Lukala[1][-ra]	PN	PN.GEN	D
+szu	szu[hand][-e]	N	N.L3-NH	D
+ba-ti	ba[-n]-teg[accept][-ø]	V	MID.3-SG-H-A.V.3-SG-P	D
+mu	mu[year]	N	N	D
+si-mu-ur4-ru-um{ki}	Simurrum[1][-ø]	SN	SN.ABS	D
+a-ra2	ara[times]	N	N	D
+3(disz)-kam-asz	3(disz)[one]-ak-am-sze	NU	NU.GEN.COP-3-SG.TERM	D
+ba-hul	ba-hulu[destroy][-ø]	V	MID.V.3-SG-S	D

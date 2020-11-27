@@ -1,0 +1,22 @@
+#new_text=P210112
+FORM	SEGM	XPOSTAG	XPOSTAG	POS
+1(u)	1(u)[ten]	NU	NU	D
+5(disz)	5(disz)[one]	NU	NU	D
+gurusz	gurusz[male]	N	N	D
+1(ban2)	1(ban)[unit]	NU	N	D
+5(disz)	5(disz)[one]	NU	NU	D
+sila3	sila[unit]	N	N	D
+ku6-ta	_	N	N	POS
+sze-ba	szeba[ration]	N	N	D
+erin2	erin[people]	N	N	D
+{gesz}gaba-tab	_	N	N.L3-NH	Iabcdefgh
+a-sza3	aszag[field]	N	N	D
+a-{gesz}banszur-ra-sze3	_	FN	FN	POS
+e-ra-ne	_	V	V	POS
+he2-ne-eb2-szum2-mu	_	V	MOD.FIN.3-SG-H.DAT.3-SG-NH-P.V.3-SG-A	Iab
+iti	iti[month]	N	N	D
+ezem-mah	Ezemmah[1][-'a]	MN	MN.L1	D
+mu	mu[year]	N	N	D
+us2-sa	us[follow]-a	V	NF.V.PT	D
+bad3-gal	badgal[great_wall][-ø]	N	N.ABS	D
+ba-du3	ba-du[build][-ø]	V	MID.V.3-SG-S	D

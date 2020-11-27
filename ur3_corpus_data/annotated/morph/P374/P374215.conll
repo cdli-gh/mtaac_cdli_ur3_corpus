@@ -1,0 +1,27 @@
+#new_text=P374215
+FORM	SEGM	XPOSTAG	XPOSTAG	POS
+1(u)	1(u)[ten]	NU	NU	D
+6(asz)	6(asz)[one]	NU	NU	D
+sze	sze[barley]	N	N	D
+gur	gur[unit]	N	N	D
+lugal	lugal[king]	N	N	D
+zi3	zid[flour]	N	N	D
+KA-sze3	KA[flour type]-sze	N	N.TERM	D
+e2-udu	e'udu[sheephouse]	N	N	D
+e2-gal-ta	egal[palace]-ta	N	N.ABL	D
+ki	ki[place]	N	N	D
+a-hu-a-ta	_	PN	PN.GEN.ABL	Iabcdef
+kiszib3	kiszib[seal]	N	N	D
+nam-ha-ni	Namhani[1]	N	PN	D
+dumu	dumu[child]	N	N	D
+hu-wa-wa	Huwawa[1][-ak]	DN	PN.GEN	D
+giri3	giri[foot]	N	N	D
+ur-{d}nun-gal	Urnungal[1][-ak]	PN	PN.GEN	D
+dumu	dumu[child]	N	N	D
+da-da	Dada[1][-ak]	PN	PN	D
+iti	iti[month]	N	N	D
+diri	diri[intercalary_month]	N	N	D
+sze-sag11-ku5	Szesagku[1][-'a]	MN	MN.L1	D
+mu	mu[year]	N	N	D
+ki-masz{ki}	Kimasz[1]	SN	SN.ABS	D
+ba-hul	ba-hulu[destroy][-ø]	V	MID.V.3-SG-S	D

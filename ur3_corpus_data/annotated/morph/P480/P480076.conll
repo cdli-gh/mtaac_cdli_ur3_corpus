@@ -1,0 +1,25 @@
+#new_text=P480076
+FORM	SEGM	XPOSTAG	XPOSTAG	POS
+1(u)	1(u)[ten]	NU	NU	D
+5(disz)	5(disz)[one]	NU	NU	D
+gurusz	gurusz[male]	N	N	D
+u4	ud[day]	N	N	D
+1(disz)-sze3	1(disz)[one]-sze	NU	NU.TERM	D
+ka-giri3-da	_	N	N.GEN	Iabcde
+bar-la2	_	N	N	Ia
+dub-la2-{d}utu	_	FN	FN	POS
+gub-ba	gub[assigned]-a[-ak][-ø]	V	NF.V.PT	D
+ugula	ugula[overseer][-ø]	N	N	D
+lugal-iti-da	Lugalitida[1]	PN	PN	D
+kiszib3	kiszib[seal]	N	N	D
+szesz-a-ni	Szeszani[1][-ak]	PN	PN	D
+mu	mu[year]	N	N	D
+{d}szu-{d}suen	Szusuen[1]	RN	RN	D
+lugal-e	lugal[king]-e	N	N.ERG	D
+na-ru2-mah	_	PN	PN	POS
+	_	_
+mu-du3	mu[-n]-du[build][-ø]	V	VEN.3-SG-H-A.V.3-SG-P	D
+szesz-a-ni	Szeszani[1][-ak]	PN	PN	D
+dub-sar	dubsar[scribe]	N	N	D
+dumu	dumu[child]	N	N	D
+da-da	Dada[1][-ak]	PN	PN	D

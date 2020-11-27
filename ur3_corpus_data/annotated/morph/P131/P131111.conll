@@ -1,0 +1,23 @@
+#new_text=P131111
+FORM	SEGM	XPOSTAG	XPOSTAG	POS
+4(gesz2)	4(gesz)[sixty]	NU	NU	D
+2(u)	2(u)[ten]	NU	NU	D
+5(asz)	5(asz)[one]	NU	NU	D
+3(barig)	3(bariga)[unit]	NU	N	D
+1(ban2)	1(ban)[unit]	NU	N	D
+3(disz)	3(disz)[one]	NU	NU	D
+sila3	sila[unit]	N	N	D
+sze	sze[barley]	N	N	D
+gur	gur[unit]	N	N	D
+lugal	lugal[king]	N	N	D
+sza3-gal	szaggal[food]	N	N	D
+gu4	gud[ox]	N	N	D
+udu-sze3	_	N	N	POS
+ki	ki[place]	N	N	D
+a-hu-a-ta	_	PN	PN.GEN.ABL	Iabcdef
+lugal-gu2-gal	_	PN	PN	Iabcde
+szu	szu[hand][-e]	N	N.L3-NH	D
+ba-ti	ba[-n]-teg[accept][-ø]	V	MID.3-SG-H-A.V.3-SG-P	D
+mu	mu[year]	N	N	D
+ki-masz{ki}	Kimasz[1]	SN	SN.ABS	D
+ba-hul	ba-hulu[destroy][-ø]	V	MID.V.3-SG-S	D

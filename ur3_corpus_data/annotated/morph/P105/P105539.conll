@@ -1,0 +1,20 @@
+#new_text=P105539
+FORM	SEGM	XPOSTAG	XPOSTAG	POS
+1(disz)	1(disz)[one]	NU	NU	D
+gurusz	gurusz[male]	N	N	D
+nagar	nagar[carpenter]	N	N	D
+2(u)	2(u)[ten]	NU	NU	D
+5(disz)	5(disz)[one]	NU	NU	D
+SZE3	_	PN	PN	POS
+x	_[_]	N	N	D
+x	_[_]	N	N	D
+mu	mu[year]	N	N	D
+x-ta	_	PN	PN.GEN.ABL	Iabcdef
+a-ab-ba	_	PN	PN	Iabcde
+i3-dab5	i[-n]-dab[seize][-ø]	V	FIN.3-SG-H-A.V.3-SG-P	D
+mu	mu[year]	N	N	D
+us2-sa	us[follow]-a	V	NF.V.PT	D
+e2	e[house]	N	N	D
+puzur4-...	_	PN	PN	D
+mu	mu[year]	N	N	D
+us2-sa-a-bi	us[follow]-a-bi	V	NF.V.PT.3-SG-NH-POSS	D

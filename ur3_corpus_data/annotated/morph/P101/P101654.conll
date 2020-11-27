@@ -1,0 +1,26 @@
+#new_text=P101654
+FORM	SEGM	XPOSTAG	XPOSTAG	POS
+5(u)	5(u)[ten]	NU	NU	D
+5(disz)	5(disz)[one]	NU	NU	D
+ma-na	mana[unit]	N	N	D
+1(u)	1(u)[ten]	NU	NU	D
+gin2	gig[unit]	N	N	D
+siki	siki[wool][-'a]	N	N	D
+tug2	tug[textile]	N	N	D
+szar3	szar[cloth_designation][-ø]	V	NF.V.ABS	D
+1(asz)	1(asz)[one]	NU	NU	D
+gu2	gun[unit]	N	N	D
+3(u)	3(u)[ten]	NU	NU	D
+5(disz)	5(disz)[one]	NU	NU	D
+5/6(disz)	5/6(disz)[one]	NU	NU	D
+ma-na	mana[unit]	N	N	D
+5(disz)	5(disz)[one]	NU	NU	D
+gin2	gig[unit]	N	N	D
+tug2	tug[textile]	N	N	D
+us2	us[follow][-ø]	V	NF.V.ABS	D
+zu2-si	Zusi[1][-’a]	MN	MN.L1	D
+gir2-su{ki}-ta	Girsu[1][-ak][-ak]-ta	SN	SN.GEN.GEN.ABL	D
+...	_[_]	PN	N	D
+zi	_	N	NF.V	D
+...	_[_]	PN	N	D
+x	_[_]	N	N	D

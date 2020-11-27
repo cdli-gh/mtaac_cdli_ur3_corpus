@@ -1,0 +1,19 @@
+#new_text=P137178
+FORM	SEGM	XPOSTAG	XPOSTAG	POS
+4(gesz2)	4(gesz)[sixty]	NU	NU	D
+4(u)	4(u)[ten]	NU	NU	D
+3(disz)	3(disz)[one]	NU	NU	D
+sa	sa[bundle]	N	N	D
+gi	gi[reed][-ø]	N	N	D
+NE	ne[unknown]	MN	MN	POS
+{gesz}ma-nu	manu[wood_type][-ø]	FN	N.ABS	D
+a-a2	_	PN	PN	Ia
+e3-e3-de3	_	V	NF.V.F.DAT-NH	Iabcdef
+gir4-e	_	N	N	POS
+ba-ab-gu7	_	V	MID.V.3-SG-S.SUB.L1	Iabcdefg
+ba-zi	ba-zig[expend][-ø]	PN	MID.V.3-SG-S	D
+iti	iti[month]	N	N	D
+ezem-mah	Ezemmah[1][-'a]	MN	MN.L1	D
+mu	mu[year]	N	N	D
+sza-asz-ru{ki}	Szaszru[1][-ø]	SN	SN.ABS	D
+ba-hul	ba-hulu[destroy][-ø]	V	MID.V.3-SG-S	D

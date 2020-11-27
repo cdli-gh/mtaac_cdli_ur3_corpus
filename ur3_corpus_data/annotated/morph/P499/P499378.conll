@@ -1,0 +1,20 @@
+#new_text=P499378
+FORM	SEGM	XPOSTAG	XPOSTAG	POS
+1(u)	1(u)[ten]	NU	NU	D
+5(asz)	5(asz)[one]	NU	NU	D
+3(ban2)	3(ban)[unit]	NU	N	D
+5(disz)	5(disz)[one]	NU	NU	D
+sila3	sila[unit]	N	N	D
+sze	sze[barley]	N	N	D
+gesz-i3	geszi[sesame]	N	N	D
+gur	gur[unit]	N	N	D
+a2-gesz-gar-ra	_	N	N	POS
+ki	ki[place]	N	N	D
+lu2-tur-ta	_	PN	PN.GEN.ABL	Iabcdef
+ur-ab-ba	Urabba[1][-ak]	PN	PN.GEN	D
+szu	szu[hand][-e]	N	N.L3-NH	D
+ba-ti	ba[-n]-teg[accept][-ø]	V	MID.3-SG-H-A.V.3-SG-P	D
+mu	mu[year]	N	N	D
+ma-da	mada[land][-ak][-ø]	N	N	D
+za-ab-sza-li{ki}	Zabszali[1][-ak][-ø]	GN	SN.GEN.ABS	D
+ba-hul	ba-hulu[destroy][-ø]	V	MID.V.3-SG-S	D

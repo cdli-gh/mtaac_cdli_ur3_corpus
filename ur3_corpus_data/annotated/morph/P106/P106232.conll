@@ -1,0 +1,32 @@
+#new_text=P106232
+FORM	SEGM	XPOSTAG	XPOSTAG	POS
+2(disz)	2(disz)[one]	NU	NU	D
+gurusz	gurusz[male]	N	N	D
+sag-dub	_	N	N	POS
+aszgab	aszgab[leatherworker]	N	N	D
+HI	_	 	 	POS
+iti	iti[month]	N	N	D
+masz-da3-gu7-ta	Maszdagu[1]-ta	MN	MN.ABL	D
+iti	iti[month]	N	N	D
+ses-da-gu7-sze3	_	MN	MN.TERM	Iabcdefg
+a2-bi	a[labor]-bi	N	N.3-SG-NH-POSS.ABS	D
+2(gesz2)	2(gesz)[sixty]	NU	NU	D
+gurusz	gurusz[male]	N	N	D
+aszgab	aszgab[leatherworker]	N	N	D
+HI	_	 	 	POS
+u4	ud[day]	N	N	D
+1(disz)-sze3	1(disz)[one]-sze	NU	NU.TERM	D
+a-bala	abala[hire][-a][-ak]	V	NF.V.PT.GEN	D
+{gesz}szinig-sze3	_	N	N.3-SG-H-POSS.TERM	Iabcdefg
+be-li2-a-zu	Beli’azu[1][-e]	PN	PN.ERG	D
+he2-dab5	hedab[worker]	V	N.DAT-H	D
+giri3	giri[foot]	N	N	D
+lugal-iri-mu	_	PN	PN.ERG	Iabcdefgh
+ki	ki[place]	N	N	D
+lu2-gi-na-ta	Lugina[1][-ak]-ta	PN	PN.GEN.ABL	D
+ba-zi	ba-zig[expend][-ø]	PN	MID.V.3-SG-S	D
+mu	mu[year]	N	N	D
+en-mah-gal-an-na	Enmahgalana[1]	PN	PN	D
+en	en[priest]	N	N	D
+{d}nanna	Nanna[1][-ak]	DN	DN	D
+ba-hun	ba-hug[hire][-ø]	V	MID.V.3-SG-S	D

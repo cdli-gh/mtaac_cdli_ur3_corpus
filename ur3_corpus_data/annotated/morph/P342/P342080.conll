@@ -1,0 +1,18 @@
+#new_text=P342080
+FORM	SEGM	XPOSTAG	XPOSTAG	POS
+4(u)	4(u)[ten]	NU	NU	D
+2(disz)	2(disz)[one]	NU	NU	D
+gu4	gud[ox]	N	N	D
+1(gesz2)	1(gesz)[sixty]	NU	NU	D
+n(u)	_	N	N	POS
+6(disz)	6(disz)[one][-sze]	NU	NU	D
+udu	udu[sheep]	N	N	D
+1(gesz2)	1(gesz)[sixty]	NU	NU	D
+...	_[_]	PN	N	D
+masz2	masz[goat]	N	N	D
+...	_[_]	PN	N	D
+ti	_	N	N	Ia
+mu	mu[year]	N	N	D
+en	en[priest]	N	N	D
+eridu{ki}	Eridug[1][-ak][-ø]	SN	SN.GEN.ABS	D
+ba-hun	ba-hug[hire][-ø]	V	MID.V.3-SG-S	D

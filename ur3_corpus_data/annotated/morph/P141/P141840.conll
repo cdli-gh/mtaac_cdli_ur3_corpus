@@ -1,0 +1,23 @@
+#new_text=P141840
+FORM	SEGM	XPOSTAG	XPOSTAG	POS
+1(disz)	1(disz)[one]	NU	NU	D
+ma-na	mana[unit]	N	N	D
+1(u)	1(u)[ten]	NU	NU	D
+5(disz)	5(disz)[one]	NU	NU	D
+gin2	gig[unit]	N	N	D
+siki	siki[wool][-'a]	N	N	D
+gu2	gun[unit]	N	N	D
+udu	udu[sheep]	N	N	D
+saga	saga[good][-ø]	V	NF.V.ABS	D
+4(disz)	4(disz)[one]	NU	NU	D
+1/2(disz)	1/2(disz)[one]	NU	NU	D
+ma-na	mana[unit]	N	N	D
+siki	siki[wool][-'a]	N	N	D
+gu2	gun[unit]	N	N	D
+udu	udu[sheep]	N	N	D
+us2	us[follow][-ø]	V	NF.V.ABS	D
+siki	siki[wool][-'a]	N	N	D
+u2-gu	_	N	N	POS
+de2-a	de[pour]-a	V	NF.V.PT	D
+gurdub	_	V	V	POS
+ur-ki-gu-la-ka-ta	_	PN	PN.GEN.GEN.ABL	Iabcdef

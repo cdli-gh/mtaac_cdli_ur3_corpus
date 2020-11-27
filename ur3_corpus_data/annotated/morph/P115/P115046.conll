@@ -1,0 +1,24 @@
+#new_text=P115046
+FORM	SEGM	XPOSTAG	XPOSTAG	POS
+1(bur3)	1(bur)[unit]	NU	N	D
+GAN2	gana[field]	N	N	D
+sza3-ku3-ge	Szakuge[1][-e]	PN	PN.ERG	D
+1(asz)	1(asz)[one]	NU	NU	D
+ma-an-szum2	Manszum[1][-ak]	PN	PN.GEN	D
+1(asz)	1(asz)[one]	NU	NU	D
+lu2-{d}igi-ma-sze3	Lu'igimasze[1]	PN	PN	D
+4(asz)	4(asz)[one]	NU	NU	D
+dumu	dumu[child]	N	N	D
+gir2-nun-ta-me	_	V	V	POS
+7(bur3)	_	NU	NU.GEN	Iabcdef
+GAN2	gana[field]	N	N	D
+...	_[_]	PN	N	D
+NE	ne[unknown]	MN	MN	POS
+li	_	AJ	AJ	POS
+...	_[_]	PN	N	D
+sanga	sagga[temple_administrator]	N	N	D
+{d}nansze	Nansze[1]	DN	DN	D
+mu	mu[year]	N	N	D
+en	en[priest]	N	N	D
+{d}inanna	Inanna[1][-ak]	DN	DN	D
+ba-hun	ba-hug[hire][-ø]	V	MID.V.3-SG-S	D

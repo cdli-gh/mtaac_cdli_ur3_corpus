@@ -1,0 +1,25 @@
+#new_text=P140712
+FORM	SEGM	XPOSTAG	XPOSTAG	POS
+3(disz)	3(disz)[one]	NU	NU	D
+{gi}kaskal	kaskal[travel_basket]	N	N	D
+1(barig)-ta	bariga[unit]-ta	NU	N.ABL	D
+1(disz)	1(disz)[one]	NU	NU	D
+{gi}si-ig-da	_	N	N	Ia
+esir2	esir[bitumen]	N	N	D
+su-ba	su[body]-bi-'a	V	NF.V.PT	D
+a2	a[time]	N	N	D
+u4	ud[day]	N	N	D
+2(disz)	2(disz)[one]	NU	NU	D
+ki	ki[place]	N	N	D
+a-gu-ta	Agu[1][-ak]-ta	PN	PN.GEN.ABL	D
+kiszib3	kiszib[seal]	N	N	D
+ur-x-sal4	_	PN	PN	Iabcde
+sanga-gar-ka	_	N	N.GEN.GEN.GEN	Iabcde
+iti	iti[month]	N	N	D
+diri	diri[intercalary_month]	N	N	D
+mu	mu[year]	N	N	D
+si-ma-num2{ki}	Simanum[1][-ø]	GN	SN.ABS	D
+...	_[_]	PN	N	D
+...	_[_]	PN	N	D
+...	_[_]	PN	N	D
+umma{ki}-ka	Umma[1]-ak-ak[-ø]	FN	SN.GEN.GEN.ABS	D

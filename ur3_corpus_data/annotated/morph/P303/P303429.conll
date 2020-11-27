@@ -1,0 +1,23 @@
+#new_text=P303429
+FORM	SEGM	XPOSTAG	XPOSTAG	POS
+1(asz)	1(asz)[one]	NU	NU	D
+2(barig)	2(bariga)[unit]	NU	N	D
+2(ban2)	2(ban)[unit]	NU	N	D
+5(disz)	5(disz)[one]	NU	NU	D
+sila3	sila[unit]	N	N	D
+sze	sze[barley]	N	N	D
+gur	gur[unit]	N	N	D
+lugal	lugal[king]	N	N	D
+si-i3-tum	situm[balance]	N	N	D
+nig2-ka9-ak	nigSZID[account]	N	N	D
+ki	ki[place]	N	N	D
+ur-szu-ga-lam-ma-ta	_	PN	PN.GEN.GEN.ABL	Iabcdefg
+ma-an-na	_	PN	PN.GEN.GEN	Iab
+szu	szu[hand][-e]	N	N.L3-NH	D
+ba-an-ti	ba-n-teg[accept][-ø]	V	MID.3-SG-H-A.V.3-SG-P	D
+iti	iti[month]	N	N	D
+ezem-{d}me-ki-gal2	Ezemmekigal[1]-['a]	MN	MN.L1	D
+mu	mu[year]	N	N	D
+ma-da	mada[land][-ak][-ø]	N	N	D
+za-ab-sza-li{ki}	Zabszali[1][-ak][-ø]	GN	SN.GEN.ABS	D
+ba-hul	ba-hulu[destroy][-ø]	V	MID.V.3-SG-S	D

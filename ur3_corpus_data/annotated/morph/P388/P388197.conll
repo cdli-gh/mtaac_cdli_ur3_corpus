@@ -1,0 +1,19 @@
+#new_text=P388197
+FORM	SEGM	XPOSTAG	XPOSTAG	POS
+5(disz)	5(disz)[one]	NU	NU	D
+{na4}ur5	_	N	N	Ia
+x	_[_]	N	N	D
+e2	e[house]	N	N	D
+...	_[_]	PN	N	D
+ki	ki[place]	N	N	D
+...	_[_]	PN	N	D
+lu2	lu[person]	N	N	D
+...	_[_]	PN	N	D
+x	_[_]	N	N	D
+...	_[_]	PN	N	D
+iti	iti[month]	N	N	D
+...	_[_]	PN	N	D
+mu	mu[year]	N	N	D
+ki-masz{ki}	Kimasz[1]	SN	SN.ABS	D
+hu-ur-ti{ki}	Hurti[1]	SN	SN	D
+ba-hul	ba-hulu[destroy][-ø]	V	MID.V.3-SG-S	D

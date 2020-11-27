@@ -1,0 +1,16 @@
+#new_text=P103610
+FORM	SEGM	XPOSTAG	XPOSTAG	POS
+1(disz)	1(disz)[one]	NU	NU	D
+masz2	masz[goat]	N	N	D
+gaba	gaba[frontier][-ak]	N	N	D
+siskur2	siszkur[offering]	N	N	D
+{d}iszkur	_	DN	DN	POS
+sza3	szag[heart]	N	N	D
+kaskal	kaskal[journey][-sze]	N	N.TERM	D
+unu	_	SN	SN.GEN	Iabcdef
+iti	iti[month]	N	N	D
+e2-iti-6(disz)	E'iti6[1][-'a]	NU	MN.L1	D
+mu	mu[year]	N	N	D
+us2-sa	us[follow]-a	V	NF.V.PT	D
+{d}szu-{d}suen	Szusuen[1]	RN	RN	D
+lugal	lugal[king]	N	N	D

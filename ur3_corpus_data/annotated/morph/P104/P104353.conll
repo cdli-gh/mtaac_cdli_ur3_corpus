@@ -1,0 +1,27 @@
+#new_text=P104353
+FORM	SEGM	XPOSTAG	XPOSTAG	POS
+1(disz)	1(disz)[one]	NU	NU	D
+udu	udu[sheep]	N	N	D
+1(disz)	1(disz)[one]	NU	NU	D
+sila4	sila[lamb]	N	N	D
+1(disz)	1(disz)[one]	NU	NU	D
+kir11	kir[female_lamb]	N	N	D
+1(disz)	1(disz)[one]	NU	NU	D
+masz2-gal	maszgal[billy_goat]	N	N	D
+3(disz)	3(disz)[one]	NU	NU	D
+{munus}asz2-gar3	aszgar[female_kid]	PN	N	D
+szu-gid2	szugid[animal_designation][-ø]	N	N	D
+ki	ki[place]	N	N	D
+ta2-hi-isz-a-tal-ta	Tahiszatal[1][-ak]-ta	PN	PN.GEN.ABL	D
+du11-ga	dug[irrigate]-a	V	PN	D
+i3-dab5	i[-n]-dab[seize][-ø]	V	FIN.3-SG-H-A.V.3-SG-P	D
+iti	iti[month]	N	N	D
+ezem-{d}nin-a-zu	Ezemninazu[1][-'a]	MN	MN.L1	D
+mu	mu[year]	N	N	D
+ma2	ma[ship]	N	N	D
+{d}en-ki	Enki[1][-ak][-ø]	DN	DN.GEN.ABS	D
+ba-dim2	ba-dim[create][-ø]	V	MID.V.3-SG-S	D
+ur-mes	Urmes[1]	PN	PN	D
+dumu	dumu[child]	N	N	D
+la-na	Lana[1]	PN	PN	D
+kuruszda	kuruszda[animal_fattener][-ø]	N	N.GEN.ABS	D

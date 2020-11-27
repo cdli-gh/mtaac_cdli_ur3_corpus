@@ -1,0 +1,25 @@
+#new_text=P115231
+FORM	SEGM	XPOSTAG	XPOSTAG	POS
+ba-ba-mu	_	PN	PN	Iabcde
+lu2	lu[person]	N	N	D
+szabra	szabra[chief_administrator][-ak]	N	N	D
+5(disz)	5(disz)[one]	NU	NU	D
+sila3	sila[unit]	N	N	D
+kasz	kasz[beer]	N	N	D
+2(ban2)	2(ban)[unit]	NU	N	D
+ka5-a	Kaya[1]	PN	PN	D
+lu2	lu[person]	N	N	D
+sukkal-mah	_	PN	N	D
+1(disz)	1(disz)[one]	NU	NU	D
+kasz	kasz[beer]	N	N	D
+dida	dida[sweet_wort]	N	N	D
+2(ban2)	2(ban)[unit]	NU	N	D
+da-da	Dada[1][-ak]	PN	PN	D
+szesz	szesz[brother]	N	N	D
+szabra	szabra[chief_administrator][-ak]	N	N	D
+1(u)	1(u)[ten]	NU	NU	D
+sila3	sila[unit]	N	N	D
+kasz	kasz[beer]	N	N	D
+lu2-{d}nin-x	_	PN	PN.DAT-H	Iab
+x	_[_]	N	N	D
+...	_[_]	PN	N	D

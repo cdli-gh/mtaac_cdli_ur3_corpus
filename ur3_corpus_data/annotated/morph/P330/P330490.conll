@@ -1,0 +1,26 @@
+#new_text=P330490
+FORM	SEGM	XPOSTAG	XPOSTAG	POS
+1(u)	1(u)[ten]	NU	NU	D
+1(disz)	1(disz)[one]	NU	NU	D
+gurusz	gurusz[male]	N	N	D
+u4	ud[day]	N	N	D
+1(disz)-sze3	1(disz)[one]-sze	NU	NU.TERM	D
+{gesz}ma-nu	manu[wood_type][-ø]	FN	N.ABS	D
+kar-ta	_	FN	FN	POS
+ga6-a	_	PN	PN	POS
+e2	e[house]	N	N	D
+{d}szara2-sze3	_	DN	DN	POS
+ugula	ugula[overseer][-ø]	N	N	D
+ukken-ne2	_	PN	PN	POS
+kiszib3	kiszib[seal]	N	N	D
+lu2-{d}nin-szubur	Luninszubur[1][-ra]	PN	PN	D
+iti	iti[month]	N	N	D
+pa4-u2-e	Pa'u'e[1][-'a]	MN	MN.L1	D
+mu	mu[year]	N	N	D
+ki-masz{ki}	Kimasz[1]	SN	SN.ABS	D
+ba-hul	ba-hulu[destroy][-ø]	V	MID.V.3-SG-S	D
+lu2-{d}nin-szubur	Luninszubur[1][-ra]	PN	PN	D
+dub-sar	dubsar[scribe]	N	N	D
+dumu	dumu[child]	N	N	D
+du10-ga	dug[good]-a	V	NF.V.PT	D
+szabra	szabra[chief_administrator][-ak]	N	N	D

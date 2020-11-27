@@ -1,0 +1,33 @@
+#new_text=P112218
+FORM	SEGM	XPOSTAG	XPOSTAG	POS
+1(u)	1(u)[ten]	NU	NU	D
+2(disz)	2(disz)[one]	NU	NU	D
+1/2(disz)	1/2(disz)[one]	NU	NU	D
+gin2	gig[unit]	N	N	D
+4(disz)	4(disz)[one]	NU	NU	D
+sze	sze[barley]	N	N	D
+ku3-babbar	kugbabbar[silver]	N	N	D
+ki	ki[place]	N	N	D
+tu-ra-am-i3-li2	Turamili[1][-ak]	PN	PN.GEN	D
+isz-ma-dingir	_	PN	PN.GEN.GEN.DAT-H	Iabcdefg
+szu	szu[hand][-e]	N	N.L3-NH	D
+ba-ti	ba[-n]-teg[accept][-ø]	V	MID.3-SG-H-A.V.3-SG-P	D
+igi	igi[eye][-ø]	N	N	D
+{d}asz3-gi5-ta-di3-in	_	DN	DN	POS
+dumu	dumu[child]	N	N	D
+dingir-ra-bi2	Dingirrabi[1][-ra]	PN	PN.DAT-H	D
+igi	igi[eye][-ø]	N	N	D
+szu-esz18-dar	Szu'eszdar[1][-ak]	PN	PN	D
+dumu	dumu[child]	N	N	D
+i3-li2-di-x	_	PN	PN	Iabcdefgh
+kuruszda	kuruszda[animal_fattener][-ø]	N	N.GEN.ABS	D
+igi	igi[eye][-ø]	N	N	D
+x-hu-ni	_	 	 	POS
+x	_[_]	N	N	D
+...	_[_]	PN	N	D
+NI	_	PN	PN	POS
+NI	_	PN	PN	POS
+zu	_	V	V	POS
+x	_[_]	N	N	D
+iti	iti[month]	N	N	D
+ezem-a-bi	_	MN	MN.ABL	Iabcdefghij

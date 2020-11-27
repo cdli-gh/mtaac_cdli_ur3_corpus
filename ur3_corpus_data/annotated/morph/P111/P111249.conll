@@ -1,0 +1,20 @@
+#new_text=P111249
+FORM	SEGM	XPOSTAG	XPOSTAG	POS
+2(disz)	2(disz)[one]	NU	NU	D
+gur	gur[unit]	N	N	D
+udu	udu[sheep]	N	N	D
+1(disz)	1(disz)[one]	NU	NU	D
+masz2	masz[goat]	N	N	D
+ki-sumun	_	N	N	POS
+a-sza3	aszag[field]	N	N	D
+nin-nig2-erim2(NE-NIG2)-bi	_	NU	NU	POS
+sza3	szag[heart]	N	N	D
+gu2-ab-ba{ki}	Gu'abba[1][-ak][-'a]	GN	SN.GEN.L1	D
+1(disz)	1(disz)[one]	NU	NU	D
+udu	udu[sheep]	N	N	D
+dub-sar	dubsar[scribe]	N	N	D
+ki-sumun	_	N	N	POS
+a-sza3	aszag[field]	N	N	D
+ambar-es3	_	FN	FN	POS
+sza3	szag[heart]	N	N	D
+nigin6{ki}	_	SN	SN.GEN.GEN.TERM	Iabcdefgh

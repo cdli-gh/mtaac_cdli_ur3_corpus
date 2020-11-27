@@ -1,0 +1,25 @@
+#new_text=P100515
+FORM	SEGM	XPOSTAG	XPOSTAG	POS
+1(u)	1(u)[ten]	NU	NU	D
+2(disz)	2(disz)[one]	NU	NU	D
+gurusz	gurusz[male]	N	N	D
+u4	ud[day]	N	N	D
+2(disz)-sze3	2(disz)[one]-sze	NU	NU.TERM	D
+e2	e[house]	N	N	D
+sukkal-mah-ta	_	N	N	POS
+gi	gi[reed][-ø]	N	N	D
+szu-a	_	N	N	POS
+bala-a	bala[tax][-ak]-'a	N	N.GEN.L1	D
+sza3	szag[heart]	N	N	D
+nibru{ki}	Nibru[1][-'a]	SN	SN.GEN.ABS	D
+kiszib3	kiszib[seal]	N	N	D
+szesz-kal-la	Szeszkala[1][-ra]	PN	PN	D
+iti	iti[month]	N	N	D
+{d}dumu-zi	Dumuzi[1][-'a]	MN	MN.L1	D
+mu	mu[year]	N	N	D
+ur-bi2-lum{ki}	Urbilum[1][-ø]	GN	SN.ABS	D
+mu-hul	mu[-n]-hulu[destroy][-ø]	V	VEN.3-SG-H-A.V.3-SG-P	D
+szesz-kal-la	Szeszkala[1][-ra]	PN	PN	D
+dub-sar	dubsar[scribe]	N	N	D
+dumu	dumu[child]	N	N	D
+...	_[_]	PN	N	D

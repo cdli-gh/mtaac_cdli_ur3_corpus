@@ -1,0 +1,27 @@
+#new_text=P208505
+FORM	SEGM	XPOSTAG	XPOSTAG	POS
+1(u)	1(u)[ten]	NU	NU	D
+la2	la[hang][-ø]	V	NF.V.ABS	D
+1(ban2)	1(ban)[unit]	NU	N	D
+5(disz)	5(disz)[one]	NU	NU	D
+sze	sze[barley]	N	N	D
+gur	gur[unit]	N	N	D
+lugal	lugal[king]	N	N	D
+4(asz)	4(asz)[one]	NU	NU	D
+1(barig)	1(bariga)[unit]	NU	N	D
+2(ban2)	2(ban)[unit]	NU	N	D
+ziz2	ziz[emmer]	N	N	D
+gur	gur[unit]	N	N	D
+5(asz)	5(asz)[one]	NU	NU	D
+1(barig)	1(bariga)[unit]	NU	N	D
+la2	la[hang][-ø]	V	NF.V.ABS	D
+6(disz)	6(disz)[one][-sze]	NU	NU	D
+sila3	sila[unit]	N	N	D
+gig	gig[resin_type]	N	N	D
+gur	gur[unit]	N	N	D
+la2-ia3-am3	_	V	V	POS
+lu2-uru11{ki}	Lu'uru[1]	PN	PN	D
+mu	mu[year]	N	N	D
+{d}lugal-ba-gara2	_	PN	PN	POS
+e2-a	e[house][-ak]-'a	GN	N.L1	D
+ba-ku4	_	V	MID.L1-SYN.V.3-SG-S	Iabcde

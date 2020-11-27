@@ -1,0 +1,27 @@
+#new_text=P140486
+FORM	SEGM	XPOSTAG	XPOSTAG	POS
+3(u)	3(u)[ten]	NU	NU	D
+1(disz)	1(disz)[one]	NU	NU	D
+1/2(disz)	1/2(disz)[one]	NU	NU	D
+gurusz	gurusz[male]	N	N	D
+u4	ud[day]	N	N	D
+1(disz)-sze3	1(disz)[one]-sze	NU	NU.TERM	D
+bar-la2	_	N	N	Ia
+u3	u[and]	CNJ	CNJ	D
+bad-da	_	V	V	POS
+da	da[unknown]	N	N	POS
+e2-duru5	eduru[village]	N	N	D
+be-li2-a-ri2-ik	_	PN	PN	Ia
+gub-ba	gub[assigned]-a[-ak][-ø]	V	NF.V.PT	D
+ugula	ugula[overseer][-ø]	N	N	D
+a-kal-la	Akala[1]	PN	PN	D
+kiszib3	kiszib[seal]	N	N	D
+a-gu-gu	Agugu[1][-ak]	PN	PN.GEN	D
+mu	mu[year]	N	N	D
+en	en[priest]	N	N	D
+eridu{ki}	Eridug[1][-ak][-ø]	SN	SN.GEN.ABS	D
+ba-hun	ba-hug[hire][-ø]	V	MID.V.3-SG-S	D
+lugal-ezem	Lugalezem[1]	PN	PN	D
+dub-sar	dubsar[scribe]	N	N	D
+dumu	dumu[child]	N	N	D
+da-da	Dada[1][-ak]	PN	PN	D

@@ -1,0 +1,11 @@
+#new_text=P315439
+FORM	SEGM	XPOSTAG	XPOSTAG	POS
+{d}nin-...	_[1]	PN	DN	D
+x	_[_]	N	N	D
+x	_[_]	N	N	D
+...	_[_]	PN	N	D
+u3	u[and]	CNJ	CNJ	D
+a-ab-ba	_	PN	PN	Iabcde
+ARAD2-da-a-ne2	_	PN	PN	POS
+a	a[water][-ø]	N	N.ABS	D
+mu-na-ru	mu-nn-a[-n]-ru[dedicate][-ø]	V	VEN.3-SG-H.DAT.3-SG-H-A.V.3-SG-P	D

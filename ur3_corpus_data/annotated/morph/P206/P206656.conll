@@ -1,0 +1,18 @@
+#new_text=P206656
+FORM	SEGM	XPOSTAG	XPOSTAG	POS
+1(gesz2)	1(gesz)[sixty]	NU	NU	D
+3(u)	3(u)[ten]	NU	NU	D
+4(asz)	4(asz)[one]	NU	NU	D
+4(barig)	4(bariga)[unit]	NU	N	D
+sze	sze[barley]	N	N	D
+gur	gur[unit]	N	N	D
+lugal	lugal[king]	N	N	D
+e2-kiszib3-ba	ekiszibak[storeroom]-ak	PN	TN.L1	D
+ba-gara2	_	PN	PN	Iabcde
+sze-da	_	V	V	POS
+lugal	lugal[king]	N	N	D
+3(asz)	3(asz)[one]	NU	NU	D
+1(barig)	1(bariga)[unit]	NU	N	D
+gur	gur[unit]	N	N	D
+kiszib3	kiszib[seal]	N	N	D
+ur-{d}ig-alim	Urigalim[1]	FN	PN	D

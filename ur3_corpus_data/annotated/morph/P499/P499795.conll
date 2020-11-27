@@ -1,0 +1,20 @@
+#new_text=P499795
+FORM	SEGM	XPOSTAG	XPOSTAG	POS
+4(asz)	4(asz)[one]	NU	NU	D
+3(barig)	3(bariga)[unit]	NU	N	D
+sze	sze[barley]	N	N	D
+gur	gur[unit]	N	N	D
+lugal	lugal[king]	N	N	D
+ib2-tak4	_	N	N	POS
+ki	ki[place]	N	N	D
+lugal-u2-szim	_	PN	PN	Iabcde
+engar	engar[farmer]	N	N	D
+iti	iti[month]	N	N	D
+sig4-ga	Sigga[1][-'a]	MN	MN.L1	D
+a-ag2-e	_	N	N	POS
+mu	mu[year]	N	N	D
+lugal-bi	_	N	N	POS
+in-pax(|IGI.PA|)	_	V	FIN.3-SG-H-A.V.3-SG-P	Iabcdefgh
+mu	mu[year]	N	N	D
+hux(RI)-uh3-nu-ri{ki}	_	SN	SN	POS
+ba-hul-a	ba-hulu[destroy][-ø]-a	V	MID.V.3-SG-S.SUB	D

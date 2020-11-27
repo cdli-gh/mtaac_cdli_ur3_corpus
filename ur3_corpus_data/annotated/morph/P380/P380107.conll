@@ -1,0 +1,18 @@
+#new_text=P380107
+FORM	SEGM	XPOSTAG	XPOSTAG	POS
+1(barig)	1(bariga)[unit]	NU	N	D
+3(ban2)	3(ban)[unit]	NU	N	D
+sze	sze[barley]	N	N	D
+lugal	lugal[king]	N	N	D
+sza3-gal	szaggal[food]	N	N	D
+lu2	lu[person]	N	N	D
+{gesz}tukul-	_	N	N.DEM2.ABS	Iabcdefg
+dab5-ba	dab[seize]-a	V	N	D
+uri5{ki}-ta	_	SN	SN.ABL	Iabcd
+gen-na	gen[go]-a	V	NF.V.PT	D
+zi-ga	zig[expend]-a	V	NF.V.PT	D
+iti	iti[month]	N	N	D
+amar-a-a-si	Amarayasi[1][-'a]	MN	MN.L1	D
+mu	mu[year]	N	N	D
+si-ma-num2{ki}	Simanum[1][-ø]	GN	SN.ABS	D
+ba-hul	ba-hulu[destroy][-ø]	V	MID.V.3-SG-S	D

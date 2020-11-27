@@ -1,0 +1,21 @@
+#new_text=P144272
+FORM	SEGM	XPOSTAG	XPOSTAG	POS
+3(u)	3(u)[ten]	NU	NU	D
+6(disz)	6(disz)[one][-sze]	NU	NU	D
+geme2	geme[female_worker]	N	N	D
+u4	ud[day]	N	N	D
+5(disz)-sze3	5(disz)[one]-sze	NU	NU.TERM	D
+bala-sze3	_	N	N	POS
+gen-na	gen[go]-a	V	NF.V.PT	D
+u3	u[and]	CNJ	CNJ	D
+bala-ta	_	N	N.GEN.ABL	Iabcdef
+gur-ra	gur[unit]-ak	V	NF.V.PT	D
+a2-bi	a[labor]-bi	N	N.3-SG-NH-POSS.ABS	D
+u4	ud[day]	N	N	D
+3(gesz2)-kam	_	NU	NU.GEN.COP-3-SG	Iab
+ugula	ugula[overseer][-ø]	N	N	D
+ur-{d}nin-tu	Urnintu[1][-ak]	PN	PN	D
+mu	mu[year]	N	N	D
+en	en[priest]	N	N	D
+eridu{ki}	Eridug[1][-ak][-ø]	SN	SN.GEN.ABS	D
+ba-hun	ba-hug[hire][-ø]	V	MID.V.3-SG-S	D

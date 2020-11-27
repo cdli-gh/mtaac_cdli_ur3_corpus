@@ -1,0 +1,18 @@
+#new_text=P111738
+FORM	SEGM	XPOSTAG	XPOSTAG	POS
+1(u)	1(u)[ten]	NU	NU	D
+2(disz)	2(disz)[one]	NU	NU	D
+gurusz	gurusz[male]	N	N	D
+u4	ud[day]	N	N	D
+2(u)-sze3	_	NU	NU.TERM	Iab
+ma2	ma[ship]	N	N	D
+sze	sze[barley]	N	N	D
+szu-{d}suen	Szusuen[1]	PN	RN	D
+nibru{ki}-sze3	Nibru[1]-sze	SN	SN.TERM	D
+gid2-da	gid[lengthen]-a[-ø]	V	NF.V.PT	D
+ka-sahar-ta	_	PN	PN	POS
+nigin2-na	_	V	V	POS
+ma2	ma[ship]	N	N	D
+ba-al-la	bala[transfer]-a	V	NF.V.PT	D
+gir2-su{ki}-sze3	_	SN	SN.GEN.GEN.TERM	Iabcdefg
+gid2-da	gid[lengthen]-a[-ø]	V	NF.V.PT	D

@@ -1,0 +1,27 @@
+#new_text=P107106
+FORM	SEGM	XPOSTAG	XPOSTAG	POS
+5(asz)	5(asz)[one]	NU	NU	D
+gu2	gun[unit]	N	N	D
+5(u)	5(u)[ten]	NU	NU	D
+1(disz)	1(disz)[one]	NU	NU	D
+2/3(disz)	2/3(disz)[one]	NU	NU	D
+ma-na	mana[unit]	N	N	D
+siki-gi	sikigi[wool_type]	N	N	D
+ki	ki[place]	N	N	D
+ur-dam-ta	_	PN	PN.GEN.ABL	Iab
+e2	e[house]	N	N	D
+ur-dun-ta	_	PN	PN.GEN.ABL	Iabcdef
+giri3	giri[foot]	N	N	D
+sanga	sagga[temple_administrator]	N	N	D
+{d}nin-gir2-su	Ningirsu[1][-ak][-ak]	DN	DN	D
+iti	iti[month]	N	N	D
+ezem-{d}li9-si4	_	MN	MN	POS
+mu	mu[year]	N	N	D
+{d}amar-{d}suen	Amarsuen[1]	RN	RN	D
+lugal	lugal[king]	N	N	D
+ur-bi2-lum{ki}	Urbilum[1][-ø]	GN	SN.ABS	D
+ba-hul	ba-hulu[destroy][-ø]	V	MID.V.3-SG-S	D
+ur-nigar{gar}	Urnigar[1]	PN	PN	D
+dumu	dumu[child]	N	N	D
+ur-sa6-ga	Ursaga[1][-ak]	PN	PN	D
+dam-gar3	damgar[merchant][-ak]	N	N	D

@@ -1,0 +1,25 @@
+#new_text=P100501
+FORM	SEGM	XPOSTAG	XPOSTAG	POS
+2(disz)	2(disz)[one]	NU	NU	D
+gurusz	gurusz[male]	N	N	D
+u4	ud[day]	N	N	D
+1(gesz2)	1(gesz)[sixty]	NU	NU	D
+3(u)-sze3	3(u)[ten]-sze	NU	NU.TERM	D
+ma2-da-ga-asz	Madaga[1]-sze	N	SN.TERM	D
+ma2	ma[ship]	N	N	D
+gid2-da	gid[lengthen]-a[-ø]	V	NF.V.PT	D
+1(disz)	1(disz)[one]	NU	NU	D
+gurusz	gurusz[male]	N	N	D
+nagar	nagar[carpenter]	N	N	D
+u4	ud[day]	N	N	D
+2(u)	2(u)[ten]	NU	NU	D
+5(disz)	5(disz)[one]	NU	NU	D
+...-sze3	_	PN	PN.GEN.TERM	Iabcdefg
+...	_[_]	PN	N	D
+ki	ki[place]	N	N	D
+lu2-...	_[1][-ra]	PN	PN	D
+kiszib3	kiszib[seal]	N	N	D
+lugal-...	_[1][-ra]	PN	PN	D
+mu	mu[year]	N	N	D
+ki-masz{ki}	Kimasz[1]	SN	SN.ABS	D
+ba-hul	ba-hulu[destroy][-ø]	V	MID.V.3-SG-S	D

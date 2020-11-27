@@ -1,0 +1,24 @@
+#new_text=P110188
+FORM	SEGM	XPOSTAG	XPOSTAG	POS
+6(disz)	6(disz)[one][-sze]	NU	NU	D
+ma2	ma[ship]	N	N	D
+1(gesz2)	1(gesz)[sixty]	NU	NU	D
+gur	gur[unit]	N	N	D
+ma2	ma[ship]	N	N	D
+sze	sze[barley]	N	N	D
+usz-bar	uszbar[weaver][-ak]	N	N	D
+gir2-su{ki}	Girsu[1][-ak]	SN	SN.GEN	D
+3(disz)	3(disz)[one]	NU	NU	D
+ma2	ma[ship]	N	N	D
+1(gesz2)	1(gesz)[sixty]	NU	NU	D
+gur	gur[unit]	N	N	D
+ma2	ma[ship]	N	N	D
+sze	sze[barley]	N	N	D
+szabra-e2	_	PN	N	D
+nibru{ki}-sze3	Nibru[1]-sze	SN	SN.TERM	D
+iti	iti[month]	N	N	D
+amar-a-a-si	Amarayasi[1][-'a]	MN	MN.L1	D
+mu	mu[year]	N	N	D
+en	en[priest]	N	N	D
+eridu{ki}	Eridug[1][-ak][-ø]	SN	SN.GEN.ABS	D
+ba-hun	ba-hug[hire][-ø]	V	MID.V.3-SG-S	D

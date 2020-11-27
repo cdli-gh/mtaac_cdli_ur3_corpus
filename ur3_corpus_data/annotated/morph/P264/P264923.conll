@@ -1,0 +1,21 @@
+#new_text=P264923
+FORM	SEGM	XPOSTAG	XPOSTAG	POS
+x	_[_]	N	N	D
+...	_[_]	PN	N	D
+mu	mu[year]	N	N	D
+sag	sag[head]	N	N	D
+...	_[_]	PN	N	D
+e-...	_	 	 	POS
+{d}...	_[1][-'a]	MN	DN.GEN	D
+en	en[priest]	N	N	D
+...	_[_]	PN	N	D
+x	_[_]	N	N	D
+...	_[_]	PN	N	D
+ma-...	_	V	V	POS
+ME	_	PN	PN	Iabcdefgh
+...	_[_]	PN	N	D
+dumu-x	_	PN	PN.DAT-H	Iabcdefgh
+{d}en-lil2	Enlil[1]	DN	DN	D
+tu	_	PN	PN	POS
+kar	_	N	N	POS
+bi	_	V	3-NH.L2.3-SG-NH-P.V.3-SG-A.SUB.ABS	Iabcdef

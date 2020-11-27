@@ -1,0 +1,25 @@
+#new_text=P210272
+FORM	SEGM	XPOSTAG	XPOSTAG	POS
+5(u)	5(u)[ten]	NU	NU	D
+7(disz)	7(disz)[one][-sze]	NU	NU	D
+{gesz}kab2-kul	kabkul[container][-ak]	PN	N.GEN	D
+3(disz)	3(disz)[one]	NU	NU	D
+{gesz}a2	_	N	N	Ia
+apin	apin[plow]	N	N	D
+2(gesz2)	2(gesz)[sixty]	NU	NU	D
+2(disz)	2(disz)[one]	NU	NU	D
+{gesz}zu2	_	N	N	Ia
+{gesz}GAN2-ur3	_	PN	PN	POS
+1(gesz2)	1(gesz)[sixty]	NU	NU	D
+5(u)	5(u)[ten]	NU	NU	D
+1(disz)	1(disz)[one]	NU	NU	D
+{gesz}zu2	_	N	N	Ia
+al	al[hoeing]	N	N	D
+1(disz)	1(disz)[one]	NU	NU	D
+a2	a[time]	N	N	D
+apin	apin[plow]	N	N	D
+ur-{d}nin-gesz-zi-da	_	PN	PN.GEN.ABS	D
+1(disz)	1(disz)[one]	NU	NU	D
+a2	a[time]	N	N	D
+apin	apin[plow]	N	N	D
+a2-sa6-ga	_	PN	PN	Iabcde

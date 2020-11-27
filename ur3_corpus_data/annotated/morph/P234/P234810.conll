@@ -1,0 +1,23 @@
+#new_text=P234810
+FORM	SEGM	XPOSTAG	XPOSTAG	POS
+9(asz)	9(asz)[one]	NU	NU	D
+2(barig)	2(bariga)[unit]	NU	N	D
+3(ban2)	3(ban)[unit]	NU	N	D
+sze	sze[barley]	N	N	D
+gur	gur[unit]	N	N	D
+lugal	lugal[king]	N	N	D
+sze	sze[barley]	N	N	D
+ur5-ra	urra[loan]	N	N	D
+engar	engar[farmer]	N	N	D
+nu-banda3-gu4-sze3	_	N	N	POS
+i3-dub	idub[granary]	N	N	D
+e2-a	e[house][-ak]-'a	GN	N.L1	D
+{d}ga2-tum3-du10	_	DN	DN	D
+...	_[_]	PN	N	D
+x	_[_]	N	N	D
+...	_[_]	PN	N	D
+x	_[_]	N	N	D
+...	_[_]	PN	N	D
+mu	mu[year]	N	N	D
+...	_[_]	PN	N	D
+ba-hul	ba-hulu[destroy][-ø]	V	MID.V.3-SG-S	D

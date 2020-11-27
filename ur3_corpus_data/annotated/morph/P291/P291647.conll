@@ -1,0 +1,25 @@
+#new_text=P291647
+FORM	SEGM	XPOSTAG	XPOSTAG	POS
+2(asz)	2(asz)[one]	NU	NU	D
+3(barig)	3(bariga)[unit]	NU	N	D
+1/2(disz)	1/2(disz)[one]	NU	NU	D
+geme2	geme[female_worker]	N	N	D
+3(ban2)	3(ban)[unit]	NU	N	D
+u4	ud[day]	N	N	D
+1(disz)-sze3	1(disz)[one]-sze	NU	NU.TERM	D
+szu	szu[hand][-e]	N	N.L3-NH	D
+ur3-ra	ur[level_off]-a	V	NF.V.PT	D
+zar3	zar[sheaf]	N	N	D
+tab-ba	tab[grasp]-a	V	NF.V.PT	D
+a-sza3	aszag[field]	N	N	D
+ki-usz2	_	PN	PN	POS
+ki	ki[place]	N	N	D
+ur-{d}szara2-ta	Urszara[1][-ak]-ta	PN	PN.GEN.ABL	D
+giri3	giri[foot]	N	N	D
+da-da	Dada[1][-ak]	PN	PN	D
+szabra	szabra[chief_administrator][-ak]	N	N	D
+iti	iti[month]	N	N	D
+sig4-{gesz}i3-szub-ba-ga2-ra	_	MN	MN.L1	Iabcdefgh
+mu	mu[year]	N	N	D
+an-sza-an{ki}	Anszan[1][-ø]	GN	GN.ABS	D
+ba-hul	ba-hulu[destroy][-ø]	V	MID.V.3-SG-S	D

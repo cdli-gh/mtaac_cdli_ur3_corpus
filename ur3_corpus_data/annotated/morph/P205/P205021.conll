@@ -1,0 +1,26 @@
+#new_text=P205021
+FORM	SEGM	XPOSTAG	XPOSTAG	POS
+1(u)	1(u)[ten]	NU	NU	D
+1(disz)	1(disz)[one]	NU	NU	D
+gurusz	gurusz[male]	N	N	D
+1(u)	1(u)[ten]	NU	NU	D
+gin2	gig[unit]	N	N	D
+i3-ta	_	N	N	POS
+i3-bi	_	N	N.GEN.3-SG-NH-POSS.ABS	Iabcdefg
+1(disz)	1(disz)[one]	NU	NU	D
+5/6(disz)	5/6(disz)[one]	NU	NU	D
+sila3	sila[unit]	N	N	D
+i3-ba	iba[oil_ration]	N	N	D
+{gesz}tukul-e	_	N	N.DAT-H	Iabcde
+dab5-ba	dab[seize]-a	V	N	D
+ma2	ma[ship]	N	N	D
+gid2	gid[length]	V	N	D
+zi-gum2-ma	_	V	V	POS
+gub-ba	gub[assigned]-a[-ak][-ø]	V	NF.V.PT	D
+zi-ga	zig[expend]-a	V	NF.V.PT	D
+iti	iti[month]	N	N	D
+gu4-ra2	_	N	N	POS
+bi2-mu2	_	V	V	POS
+mu	mu[year]	N	N	D
+en-nun-e-{d}amar-{d}suen-ra-ki-ag2	_	PN	PN.GEN	Iabcdef
+ba-hun	ba-hug[hire][-ø]	V	MID.V.3-SG-S	D

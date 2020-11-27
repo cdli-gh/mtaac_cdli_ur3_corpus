@@ -1,0 +1,24 @@
+#new_text=P109998
+FORM	SEGM	XPOSTAG	XPOSTAG	POS
+2(asz)	2(asz)[one]	NU	NU	D
+sze	sze[barley]	N	N	D
+gur	gur[unit]	N	N	D
+zi3	zid[flour]	N	N	D
+KA-sze3	KA[flour type]-sze	N	N.TERM	D
+1(asz)	1(asz)[one]	NU	NU	D
+sze	sze[barley]	N	N	D
+szuku-ra	szukur[ration]-ak	N	N.GEN	D
+engar-ne	_	N	N.PL	Iabcde
+i3-dub	idub[granary]	N	N	D
+a-sza3	aszag[field]	N	N	D
+sag-du3	_	FN	FN	POS
+ki	ki[place]	N	N	D
+ab-ba-kal-la-ta	_	PN	PN.GEN.ABL	Iab
+mu	mu[year]	N	N	D
+lugal-{d}szul-gi-sze3	_	PN	PN	Iabcdefgh
+kiszib3	kiszib[seal]	N	N	D
+{d}nanna-dalla	_	DN	DN	POS
+nu-banda3-gu4	nubandagu[ox_overseer][-ak][-ak][-ak]	N	N	D
+mu	mu[year]	N	N	D
+{d}i-bi2-{d}suen	Ibbisuen[1]	RN	RN	D
+lugal	lugal[king]	N	N	D

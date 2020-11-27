@@ -1,0 +1,25 @@
+#new_text=P105448
+FORM	SEGM	XPOSTAG	XPOSTAG	POS
+3(u)	3(u)[ten]	NU	NU	D
+5(asz)	5(asz)[one]	NU	NU	D
+1(ban2)	1(ban)[unit]	NU	N	D
+1(disz)	1(disz)[one]	NU	NU	D
+sila3	sila[unit]	N	N	D
+sze	sze[barley]	N	N	D
+gur	gur[unit]	N	N	D
+lugal	lugal[king]	N	N	D
+sze	sze[barley]	N	N	D
+GAN2-gu4	GANAgud[1][-ak]	N	FN.GEN	D
+mu-kux(DU)	mukur[delivery][-ø]	N	N	D
+sze	sze[barley]	N	N	D
+szuku	szukur[prebend_land]	N	N	D
+{d}nin-ur4-ra	Ninura[1][-ak]	DN	DN.GEN	D
+ki	ki[place]	N	N	D
+a-ab-ba-ni-ta	Ayabbani[1][-ak]-ta	PN	PN.GEN.ABL	D
+ur-{d}li9-si4	Urlisi[1]	PN	PN	D
+i3-dab5	i[-n]-dab[seize][-ø]	V	FIN.3-SG-H-A.V.3-SG-P	D
+mu	mu[year]	N	N	D
+us2-sa	us[follow]-a	V	NF.V.PT	D
+en	en[priest]	N	N	D
+eridu{ki}	Eridug[1][-ak][-ø]	SN	SN.GEN.ABS	D
+ba-hun-ga2	ba-hug[hire][-ø]	V	MID.V.3-SG-S	D

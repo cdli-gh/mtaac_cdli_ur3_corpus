@@ -1,0 +1,26 @@
+#new_text=P322618
+FORM	SEGM	XPOSTAG	XPOSTAG	POS
+3(gesz2)	3(gesz)[sixty]	NU	NU	D
+gesz-ur3	geszur[harrow]	N	N	D
+asal2	_	N	N	Ia
+3(gesz2)	3(gesz)[sixty]	NU	NU	D
+{gesz}e2-da	_	PN	PN	POS
+asal2	_	N	N	Ia
+2(gesz2)	2(gesz)[sixty]	NU	NU	D
+1(u)	1(u)[ten]	NU	NU	D
+{gesz}eme-sig	_	N	N	POS
+al-dub2-ba	_	V	V	POS
+ki	ki[place]	N	N	D
+suhusz-ki-in-ta	_	N	N.GEN.ABL	Iabcde
+{d}iszkur-illat	_	PN	PN	D
+szu	szu[hand][-e]	N	N.L3-NH	D
+ba-an-ti	ba-n-teg[accept][-ø]	V	MID.3-SG-H-A.V.3-SG-P	D
+giri3	giri[foot]	N	N	D
+i-ku-nu-um	_	PN	PN	Ia
+iti	iti[month]	N	N	D
+szu-esz-sza	Szu'eszsza[1][-'a]	MN	MN.L1	D
+mu	mu[year]	N	N	D
+ma-da	mada[land][-ak][-ø]	N	N	D
+za-ab-sza-li{ki}	Zabszali[1][-ak][-ø]	GN	SN.GEN.ABS	D
+mu-hul	mu[-n]-hulu[destroy][-ø]	V	VEN.3-SG-H-A.V.3-SG-P	D
+...	_[_]	PN	N	D

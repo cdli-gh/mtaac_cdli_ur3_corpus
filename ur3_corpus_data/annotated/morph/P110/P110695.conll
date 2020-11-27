@@ -1,0 +1,23 @@
+#new_text=P110695
+FORM	SEGM	XPOSTAG	XPOSTAG	POS
+n	_(_)[_]	NU	NU	D
+2(u)	2(u)[ten]	NU	NU	D
+1(asz)	1(asz)[one]	NU	NU	D
+3(barig)	3(bariga)[unit]	NU	N	D
+5(ban2)	5(ban)[unit]	NU	N	D
+4(disz)	4(disz)[one]	NU	NU	D
+sila3	sila[unit]	N	N	D
+kiszib3	kiszib[seal]	N	N	D
+tuku	tuku[acquire][-a]	V	NF.V.PT	D
+n	_(_)[_]	NU	NU	D
+7(asz)	7(asz)[one]	NU	NU	D
+1(barig)	1(bariga)[unit]	NU	N	D
+kiszib3	kiszib[seal]	N	N	D
+nu-tuku	nu-tuku[acquire][-a]	V	NEG.NF.V.PT	D
+kiszib3	kiszib[seal]	N	N	D
+sig4-zi	_	PN	PN	POS
+lu2	lu[person]	N	N	D
+zi-gum2	_	PN	PN	POS
+u3	u[and]	CNJ	CNJ	D
+sipa	sipa[shepherd]	N	N	D
+szaganx(AMA){gan}-me	_	N	N	POS

@@ -1,0 +1,19 @@
+#new_text=P500298
+FORM	SEGM	XPOSTAG	XPOSTAG	POS
+5(disz)	5(disz)[one]	NU	NU	D
+sila3	sila[unit]	N	N	D
+zi3-gu	zidgu[flour_type]	N	N	D
+sza3	szag[heart]	N	N	D
+iri	iri[city]	N	N	D
+5(disz)	5(disz)[one]	NU	NU	D
+sila3	sila[unit]	N	N	D
+zi3	zid[flour]	N	N	D
+kaskal-sze3	kaskal[journey]-sze	N	N.TERM	D
+tab-ba-ni	_	PN	PN	POS
+dumu	dumu[child]	N	N	D
+ur-i3-li2	_	PN	PN.GEN.ABL	Iabcdefgh
+szuszin{ki}-sze3	Szuszin[1]-sze	SN	SN.TERM	D
+du-ni	du[go][-ed]-ani[-'a]	V	NF.V.PF.F.3-SG-H-POSS.L1	D
+zi-ga	zig[expend]-a	V	NF.V.PT	D
+iti	iti[month]	N	N	D
+gu4-ra2-bi2-mu2-mu2	Gurabimumu[1][-'a]	MN	MN.L1	D

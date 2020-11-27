@@ -1,0 +1,23 @@
+#new_text=P110405
+FORM	SEGM	XPOSTAG	XPOSTAG	POS
+2(asz)	2(asz)[one]	NU	NU	D
+1(barig)	1(bariga)[unit]	NU	N	D
+dabin	dabin[semolina]	N	N	D
+gur	gur[unit]	N	N	D
+lugal	lugal[king]	N	N	D
+e2-kikken2	ekinkin[mill]	GN	N	D
+gu-la-ta	_	V	NF.V.ABS.GEN.GEN.ABL	Iabcdefg
+ki	ki[place]	N	N	D
+lu2-{d}nin-szubur-ta	Luninszubur[1][-ak]-ta	PN	PN.GEN.ABL	D
+ur-{d}ig-alim	Urigalim[1]	FN	PN	D
+dumu	dumu[child]	N	N	D
+lu2-gu-la	Lugula[1][-ak][-ra]	PN	PN	D
+szu	szu[hand][-e]	N	N.L3-NH	D
+ba-ti	ba[-n]-teg[accept][-ø]	V	MID.3-SG-H-A.V.3-SG-P	D
+ga-esz{ki}-sze3	_	SN	SN.GEN.GEN.TERM	Iabcdefg
+iti	iti[month]	N	N	D
+ezem-{d}dumu-zi	Ezemdumuzi[1][-'a]	MN	MN.L1	D
+mu	mu[year]	N	N	D
+amar-{d}suen	_	RN	RN	POS
+sza-asz-ru-um{ki}	Szaszrum[1][-ø]	GN	SN.ABS	D
+ba-hul	ba-hulu[destroy][-ø]	V	MID.V.3-SG-S	D

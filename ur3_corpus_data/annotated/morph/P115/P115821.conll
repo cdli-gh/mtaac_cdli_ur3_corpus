@@ -1,0 +1,25 @@
+#new_text=P115821
+FORM	SEGM	XPOSTAG	XPOSTAG	POS
+3(barig)	3(bariga)[unit]	NU	N	D
+3(ban2)	3(ban)[unit]	NU	N	D
+6(disz)	6(disz)[one][-sze]	NU	NU	D
+sila3	sila[unit]	N	N	D
+zu2-lum	zulum[date]	N	N	D
+lugal	lugal[king]	N	N	D
+ki	ki[place]	N	N	D
+lugal-iti-da-ta	_	PN	PN.GEN.ABL	Iab
+ki	ki[place]	N	N	D
+ensi2-ka-a	_	PN	PN	POS
+a-kal-la	Akala[1]	PN	PN	D
+szu	szu[hand][-e]	N	N.L3-NH	D
+ba-ti	ba[-n]-teg[accept][-ø]	V	MID.3-SG-H-A.V.3-SG-P	D
+iti	iti[month]	N	N	D
+min3-esz3	Minesz[1][-'a]	MN	MN.L1	D
+mu	mu[year]	N	N	D
+us2-sa	us[follow]-a	V	NF.V.PT	D
+an-sza-an{ki}	Anszan[1][-ø]	GN	GN.ABS	D
+ba-hul	ba-hulu[destroy][-ø]	V	MID.V.3-SG-S	D
+...	_[_]	PN	N	D
+...	_[_]	PN	N	D
+dumu	dumu[child]	N	N	D
+...	_[_]	PN	N	D

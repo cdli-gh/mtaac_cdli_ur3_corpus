@@ -1,0 +1,20 @@
+#new_text=P102438
+FORM	SEGM	XPOSTAG	XPOSTAG	POS
+szunigin	szunigin[total]	N	N	D
+1(bur3)	1(bur)[unit]	NU	N	D
+2(esze3)	2(esze)[unit]	NU	N	D
+2(iku)	2(iku)[unit]	NU	N	D
+GAN2	gana[field]	N	N	D
+2(u)	2(u)[ten]	NU	NU	D
+1(disz)	1(disz)[one]	NU	NU	D
+1/2(iku)	1/2(iku)[unit]	NU	N	D
+sar	sar[unit]	N	N	D
+a-sza3	aszag[field]	N	N	D
+gibil	gibil[new][-ø]	V	NF.V.ABS	D
+lugal-inim-gi-na	Lugalinimgina[1][-ak]	PN	PN	D
+iti	iti[month]	N	N	D
+bara2-za3-gar	_	MN	MN	POS
+mu	mu[year]	N	N	D
+us2-sa	us[follow]-a	V	NF.V.PT	D
+ma2-dara3-abzu	Madara'abzu[1]	ON	ON	D
+ba-ab-du8-a	_	V	MID.V.3-SG-S.ABL	Iabcdefg

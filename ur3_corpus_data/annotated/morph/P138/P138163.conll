@@ -1,0 +1,20 @@
+#new_text=P138163
+FORM	SEGM	XPOSTAG	XPOSTAG	POS
+1(disz)	1(disz)[one]	NU	NU	D
+gurusz	gurusz[male]	N	N	D
+2(ban2)	2(ban)[unit]	NU	N	D
+2(u)	2(u)[ten]	NU	NU	D
+gurusz	gurusz[male]	N	N	D
+5(disz)	5(disz)[one]	NU	NU	D
+sila3	sila[unit]	N	N	D
+i3-ta	_	N	N	POS
+nar	_	N	N	POS
+a-ru-a	_	GN	GN	POS
+{d}szu-{d}suen-ka	_	PN	PN	Ia
+min	_	N	N	POS
+iti	iti[month]	N	N	D
+ezem-{d}szul-gi	Ezemszulgir[1][-'a]	MN	MN.L1	D
+mu	mu[year]	N	N	D
+us2-sa	us[follow]-a	V	NF.V.PT	D
+bad3-gal	badgal[great_wall][-ø]	N	N.ABS	D
+ba-du3	ba-du[build][-ø]	V	MID.V.3-SG-S	D

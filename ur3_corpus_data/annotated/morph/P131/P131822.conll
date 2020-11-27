@@ -1,0 +1,26 @@
+#new_text=P131822
+FORM	SEGM	XPOSTAG	XPOSTAG	POS
+3(u)	3(u)[ten]	NU	NU	D
+8(disz)	8(disz)[one]	NU	NU	D
+geme2	geme[female_worker]	N	N	D
+u4	ud[day]	N	N	D
+1(disz)-sze3	1(disz)[one]-sze	NU	NU.TERM	D
+a-e3-a	_	PN	PN	Iabcde
+a-ba-gal	_	FN	FN	POS
+gub-ba	gub[assigned]-a[-ak][-ø]	V	NF.V.PT	D
+ugula	ugula[overseer][-ø]	N	N	D
+ur-{d}suen	Ursuen[1]	PN	PN	D
+kiszib3	kiszib[seal]	N	N	D
+a-kal-la	Akala[1]	PN	PN	D
+iti	iti[month]	N	N	D
+diri	diri[intercalary_month]	N	N	D
+mu	mu[year]	N	N	D
+sza-asz-ru-um{ki}	Szaszrum[1][-ø]	GN	SN.ABS	D
+a-ra2	ara[times]	N	N	D
+2(disz)	2(disz)[one]	NU	NU	D
+ba-hul	ba-hulu[destroy][-ø]	V	MID.V.3-SG-S	D
+a-kal-la	Akala[1]	PN	PN	D
+dub-sar	dubsar[scribe]	N	N	D
+dumu	dumu[child]	N	N	D
+ur-nigar{gar}	Urnigar[1]	PN	PN	D
+szusz3	kusz[cattle_manager][-ak]	N	N.GEN	D

@@ -1,0 +1,26 @@
+#new_text=P337214
+FORM	SEGM	XPOSTAG	XPOSTAG	POS
+3(gesz2)	3(gesz)[sixty]	NU	NU	D
+2(u)	2(u)[ten]	NU	NU	D
+sa	sa[bundle]	N	N	D
+pa	pa[branch]	N	N.ABS	D
+ku5	ku[fish]	N	N	D
+{gesz}asalx(|A.TU.NIR|)	_	N	N	Ia
+gu-nigin2-ba	gunigin[bale]-bi-'a	N	N.3-SG-NH-POSS.L1	D
+3(disz)-ta	_	NU	NU.ABL	Iab
+3(u)	3(u)[ten]	NU	NU	D
+gu2	gun[unit]	N	N	D
+{gesz}u2-bil-la	_	N	N.2-SG-POSS.ABS	Iabcdef
+sa2-du11	sadug[offerings]	N	N	D
+{d}szara2	Szara[1][-ak]	DN	DN	D
+ki	ki[place]	N	N	D
+ur-{d}szara2-ta	Urszara[1][-ak]-ta	PN	PN.GEN.ABL	D
+kiszib3	kiszib[seal]	N	N	D
+a-lu5-lu5	Alulu[1][-ak]	PN	PN.GEN	D
+iti	iti[month]	N	N	D
+{d}dumu-zi	Dumuzi[1][-'a]	MN	MN.L1	D
+mu	mu[year]	N	N	D
+en-mah-gal-an-na	Enmahgalana[1]	PN	PN	D
+en	en[priest]	N	N	D
+...	_[_]	PN	N	D
+ba-hun	ba-hug[hire][-ø]	V	MID.V.3-SG-S	D

@@ -1,0 +1,27 @@
+#new_text=P133486
+FORM	SEGM	XPOSTAG	XPOSTAG	POS
+2(gesz'u)	2(gesz'u)[six_hundred]	NU	NU	D
+4(gesz2)	4(gesz)[sixty]	NU	NU	D
+2(u)	2(u)[ten]	NU	NU	D
+IL2	_	PN	PN	POS
+1(szar2)	1(szar)[unit]	NU	N	D
+3(gesz'u)	3(gesz'u)[six_hundred]	NU	NU	D
+1(gesz2)	1(gesz)[sixty]	NU	NU	D
+3(u)	3(u)[ten]	NU	NU	D
+4(disz)	4(disz)[one]	NU	NU	D
+sa	sa[bundle]	N	N	D
+u2-gesz	_	N	N	POS
+a2	a[time]	N	N	D
+gesz-gar-ra	geszgar[assign]-a	N	NF.V.PT	D
+lu2	lu[person]	N	N	D
+{gesz}tir	_	N	N.GEN	Iabcde
+e2-gibil4	_	PN	PN	POS
+ki	ki[place]	N	N	D
+ur-nigar{gar}-ta	Urnigar[1][-ak]-ta	PN	PN.GEN.ABL	D
+kiszib3	kiszib[seal]	N	N	D
+nin-a-na	_	PN	PN	POS
+...	_[_]	PN	N	D
+lu2-{d}nin-gir2-su	Luningirsu[1]	PN	PN	D
+dub-sar	dubsar[scribe]	N	N	D
+dumu	dumu[child]	N	N	D
+ur-e2-...	_	PN	PN.GEN.ABS	Iab

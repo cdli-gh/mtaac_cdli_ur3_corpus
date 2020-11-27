@@ -1,0 +1,26 @@
+#new_text=P290365
+FORM	SEGM	XPOSTAG	XPOSTAG	POS
+4(barig)	4(bariga)[unit]	NU	N	D
+3(ban2)	3(ban)[unit]	NU	N	D
+sze	sze[barley]	N	N	D
+gur	gur[unit]	N	N	D
+sza3-gal	szaggal[food]	N	N	D
+{ansze}kunga2	kunga[equid_type][-ak][-ø]	N	N.GEN.ABS	D
+{d}szara2	Szara[1][-ak]	DN	DN	D
+|KI.AN|{ki}	Ki'an[1][-ak][-ra]	SN	SN.GEN.DAT-H	D
+ki-su7	kisur[threshing_floor]	N	N	D
+{d}amar-{d}suen-{d}szara2-ki-ag2-ta	_	DN	DN	POS
+ki	ki[place]	N	N	D
+gu-gu-du-ta	_	PN	PN.GEN.ABL	Iabcdefg
+kiszib3	kiszib[seal]	N	N	D
+ur-dingir-ra	_	PN	PN	D
+iti	iti[month]	N	N	D
+pa4-u2-e	Pa'u'e[1][-'a]	MN	MN.L1	D
+mu	mu[year]	N	N	D
+ma2-gur8-mah	magurmah[great_barge][-ø]	N	N.ABS	D
+ba-dim2	ba-dim[create][-ø]	V	MID.V.3-SG-S	D
+ur-dingir-ra	_	PN	PN	D
+szusz3	kusz[cattle_manager][-ak]	N	N.GEN	D
+ensi2-ka	ensik[ruler]-ak	N	N.GEN	D
+dumu	dumu[child]	N	N	D
+a-zi-da	_	PN	PN	Iabcdefgh

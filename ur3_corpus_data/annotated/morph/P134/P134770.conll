@@ -1,0 +1,27 @@
+#new_text=P134770
+FORM	SEGM	XPOSTAG	XPOSTAG	POS
+2(u)	2(u)[ten]	NU	NU	D
+9(asz)	9(asz)[one]	NU	NU	D
+2(barig)	2(bariga)[unit]	NU	N	D
+3(ban2)	3(ban)[unit]	NU	N	D
+8(disz)	8(disz)[one]	NU	NU	D
+1/2(disz)	1/2(disz)[one]	NU	NU	D
+sila3	sila[unit]	N	N	D
+sze	sze[barley]	N	N	D
+gur	gur[unit]	N	N	D
+sza3-gal	szaggal[food]	N	N	D
+gu4	gud[ox]	N	N	D
+udu	udu[sheep]	N	N	D
+niga-sze3	_	V	NF.V.3-SG-NH-POSS.GEN.GEN.TERM	Iabcdefg
+ki	ki[place]	N	N	D
+{d}nisaba-an-dul3-ta	_	PN	PN	POS
+er3-ra-ba-ni	Erabani[1]	PN	PN	D
+szu	szu[hand][-e]	N	N.L3-NH	D
+ba-ti	ba[-n]-teg[accept][-ø]	V	MID.3-SG-H-A.V.3-SG-P	D
+kiszib3	kiszib[seal]	N	N	D
+nu-u3-ub-ta	_	PN	PN	POS
+iti	iti[month]	N	N	D
+ezem-an-na	Ezemanna[1][-'a]	MN	MN.L1	D
+mu	mu[year]	N	N	D
+hu-uh2-nu-ri{ki}	Huhnuri[1][-ø]	GN	SN.ABS	D
+ba-hul	ba-hulu[destroy][-ø]	V	MID.V.3-SG-S	D

@@ -1,0 +1,25 @@
+#new_text=P201463
+FORM	SEGM	XPOSTAG	XPOSTAG	POS
+6(disz)	6(disz)[one][-sze]	NU	NU	D
+masz2	masz[goat]	N	N	D
+ga	ga[milk]	N	N	D
+iti	iti[month]	N	N	D
+ezem-{d}...	_	MN	MN	Iabcde
+3(disz)	3(disz)[one]	NU	NU	D
+masz2	masz[goat]	N	N	D
+ga	ga[milk]	N	N	D
+iti	iti[month]	N	N	D
+ezem-an-na	Ezemanna[1][-'a]	MN	MN.L1	D
+4(disz)	4(disz)[one]	NU	NU	D
+masz2	masz[goat]	N	N	D
+ga	ga[milk]	N	N	D
+iti	iti[month]	N	N	D
+ezem-me-ki-gal2	Ezemmekigal[1][-ø]	MN	MN.L1	D
+u3-tu-da	_	PN	PN	Iabcdefgh
+ki	ki[place]	N	N	D
+ur-ku3-nun-na	Urkununa[1][-e]	PN	PN	D
+ta	ta[unknown]	N	N	D
+mu	mu[year]	N	N	D
+us2-sa	us[follow]-a	V	NF.V.PT	D
+ki-masz{ki}	Kimasz[1]	SN	SN.ABS	D
+ba-hul	ba-hulu[destroy][-ø]	V	MID.V.3-SG-S	D

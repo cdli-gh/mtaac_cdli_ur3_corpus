@@ -1,0 +1,16 @@
+#new_text=P340833
+FORM	SEGM	XPOSTAG	XPOSTAG	POS
+1(asz)	1(asz)[one]	NU	NU	D
+sze	sze[barley]	N	N	D
+gur	gur[unit]	N	N	D
+sze-ba-sze3	_	N	N.TERM	Iabcde
+bar-ta	bar[outside]-ta	N	N.ABL	D
+gal2-la	gal[be]-a[-ø]	V	NF.V.PT	D
+e2	e[house]	N	N	D
+im-sar	_	V	V	POS
+us2-sa-ta	_	V	NF.V.PT.GEN.ABL	Iabcdefg
+iti	iti[month]	N	N	D
+szu-numun	Szunumun[1][-'a]	MN	MN.L1	D
+mu	mu[year]	N	N	D
+sza-asz-szu2-ru	_	V	V	POS
+mu-hul	mu[-n]-hulu[destroy][-ø]	V	VEN.3-SG-H-A.V.3-SG-P	D

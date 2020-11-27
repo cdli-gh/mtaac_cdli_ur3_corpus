@@ -1,0 +1,27 @@
+#new_text=P135629
+FORM	SEGM	XPOSTAG	XPOSTAG	POS
+1(disz)	1(disz)[one]	NU	NU	D
+ab2-mah2	abmah[mature_cow]	N	N	D
+3(disz)	3(disz)[one]	NU	NU	D
+gu4-gesz	gudgesz[draught_ox]	N	N.ABS	D
+4(disz)	4(disz)[one]	NU	NU	D
+dur3	_	N	N	POS
+gu4	gud[ox]	N	N	D
+ansze	ansze[donkey]	N	N	D
+ku3-ta	_	N	N	POS
+sa10-a	_	V	NF.V.PT	Iabc
+apin	apin[plow]	N	N	D
+{d}szul-gi	Szulgir[1]	RN	RN	D
+ki	ki[place]	N	N	D
+ur-{d}szul-pa-e3-ta	Urszulpa'e[1][-ak]-ta	PN	PN.GEN.ABL	D
+kiszib3	kiszib[seal]	N	N	D
+ur-esz3-lil2-la2	_	PN	PN.GEN.ABS	Iabcdefgh
+iti	iti[month]	N	N	D
+ezem-{d}dumu-zi	Ezemdumuzi[1][-'a]	MN	MN.L1	D
+mu	mu[year]	N	N	D
+{d}szu-{d}suen	Szusuen[1]	RN	RN	D
+lugal	lugal[king]	N	N	D
+uri5{ki}-ma-ke4	Urim[1]-ak-e	SN	SN.GEN.ERG	D
+na-ru2-a-mah	naruamah[magnificent_stele][-ø]	PN	N.ABS	D
+{d}en-lil2-la2	Enlil[1][-ak][-ø]	DN	DN.GEN	D
+ba-du3	ba-du[build][-ø]	V	MID.V.3-SG-S	D

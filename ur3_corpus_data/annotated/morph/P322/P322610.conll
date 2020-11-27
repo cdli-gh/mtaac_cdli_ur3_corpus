@@ -1,0 +1,24 @@
+#new_text=P322610
+FORM	SEGM	XPOSTAG	XPOSTAG	POS
+5(disz)	5(disz)[one]	NU	NU	D
+sila3	sila[unit]	N	N	D
+kasz	kasz[beer]	N	N	D
+du	gin[quality_designation][-ø]	V	NF.V.ABS	D
+szitim-e-ne	_	PN	PN	POS
+ib2-nag	_	V	V	POS
+ki	ki[place]	N	N	D
+{d}iszkur-illat-ta	Iszkurillat[1][-ak]-ta	PN	PN.GEN.ABL	D
+ba-zi	ba-zig[expend][-ø]	PN	MID.V.3-SG-S	D
+giri3	giri[foot]	N	N	D
+puzur4-{d}nin-kar-ke3	_	PN	PN.GEN.TERM	Iabcdef
+dub-sar	dubsar[scribe]	N	N	D
+iti	iti[month]	N	N	D
+ki-siki	_	N	N	POS
+{d}nin-a-zu	Ninazu[1][-ra]	DN	DN	D
+mu	mu[year]	N	N	D
+{d}szu-{d}suen	Szusuen[1]	RN	RN	D
+lugal-e	lugal[king]-e	N	N.ERG	D
+ma-da	mada[land][-ak][-ø]	N	N	D
+za-ab-sza-li{ki}	Zabszali[1][-ak][-ø]	GN	SN.GEN.ABS	D
+mu-hul	mu[-n]-hulu[destroy][-ø]	V	VEN.3-SG-H-A.V.3-SG-P	D
+gaba-ri	gabari[copy]	N	N	D

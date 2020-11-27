@@ -1,0 +1,16 @@
+#new_text=P102476
+FORM	SEGM	XPOSTAG	XPOSTAG	POS
+1(u)	1(u)[ten]	NU	NU	D
+sze	sze[barley]	N	N	D
+gur	gur[unit]	N	N	D
+a-sza3	aszag[field]	N	N	D
+al-ak-ga	_	FN	FN	POS
+a-na	_	DET	DET	POS
+SIG7	sig[class_of_worker]	PN	N	D
+e2-gal	egal[palace][-ak][-'a]	N	N	D
+ki	ki[place]	N	N	D
+szu-ga-ga	_	PN	PN	POS
+szu-{d}nisaba	_	PN	PN.GEN	Iab
+szu	szu[hand][-e]	N	N.L3-NH	D
+ba-ti	ba[-n]-teg[accept][-ø]	V	MID.3-SG-H-A.V.3-SG-P	D
+...	_[_]	PN	N	D

@@ -1,0 +1,9 @@
+#new_text=P120234
+FORM	SEGM	XPOSTAG	XPOSTAG	POS
+...	_[_]	PN	N	D
+x-ta	_	PN	PN.GEN.ABL	Iabcdef
+...	_[_]	PN	N	D
+x-ga-zu-ud	_	PN	PN.GEN.ABS	Iabcdefgh
+...	_[_]	PN	N	D
+ba	ba[animal][-ak]	N	N.GEN	D
+...-ha-da	_	PN	PN	Iabcde

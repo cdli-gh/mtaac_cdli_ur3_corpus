@@ -1,0 +1,26 @@
+#new_text=P101072
+FORM	SEGM	XPOSTAG	XPOSTAG	POS
+x	_[_]	N	N	D
+1(gesz'u)	1(gesz'u)[six_hundred]	NU	NU	D
+1(gesz2)	1(gesz)[sixty]	NU	NU	D
+2(u)	2(u)[ten]	NU	NU	D
+8(disz)	8(disz)[one]	NU	NU	D
+...-sze3	_	PN	PN.GEN.TERM	Iabcdefg
+x	_[_]	N	N	D
+x	_[_]	N	N	D
+x	_[_]	N	N	D
+x	_[_]	N	N	D
+x	_[_]	N	N	D
+x	_[_]	N	N	D
+da	da[unknown]	N	N	POS
+mu	mu[year]	N	N	D
+pa	pa[branch]	N	N.ABS	D
+mu	mu[year]	N	N	D
+{d}amar-{d}suen	Amarsuen[1]	RN	RN	D
+lugal-e	lugal[king]-e	N	N.ERG	D
+ur-bi2-lum{ki}	Urbilum[1][-ø]	GN	SN.ABS	D
+mu-hul	mu[-n]-hulu[destroy][-ø]	V	VEN.3-SG-H-A.V.3-SG-P	D
+ur-{d}li9-si4	Urlisi[1]	PN	PN	D
+ensi2	ensik[ruler]	N	N	D
+ur-{d}da-mu	Urdamu[1]	PN	PN	D
+ARAD2-zu	arad[slave]-zu[-ø]	PN	N.2-SG-POSS.ABS	D

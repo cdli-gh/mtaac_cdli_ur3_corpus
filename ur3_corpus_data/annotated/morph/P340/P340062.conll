@@ -1,0 +1,26 @@
+#new_text=P340062
+FORM	SEGM	XPOSTAG	XPOSTAG	POS
+1(disz)	1(disz)[one]	NU	NU	D
+gurusz	gurusz[male]	N	N	D
+iti	iti[month]	N	N	D
+3(disz)-sze3	3(disz)[one]-sze	NU	NU.TERM	D
+4(disz)	4(disz)[one]	NU	NU	D
+gurusz	gurusz[male]	N	N	D
+iti	iti[month]	N	N	D
+2(disz)-sze3	2(disz)[one]-sze	NU	NU.TERM	D
+ki	ki[place]	N	N	D
+bi2-du11-ga	Biduga[1][-ak]	PN	PN.GEN	D
+kiszib3	kiszib[seal]	N	N	D
+nig2-u2-rum	Nigurum[1][-e]	N	PN	D
+kaskal-sze3	kaskal[journey]-sze	N	N.TERM	D
+ma2	ma[ship]	N	N	D
+ib2-gid2	i-b-gid[survey][-ø]	V	FIN.3-SG-NH-L3.V.3-SG-S	D
+mu	mu[year]	N	N	D
+{d}nanna	Nanna[1][-ak]	DN	DN	D
+kar-zi-da	Karzida[1][-ak][-ak][-ø]	SN	SN.GEN.GEN.ABS	D
+e2-a-na	Eana[1][-'a]	TN	TN.L1	D
+ba-ku4	_	V	MID.L1-SYN.V.3-SG-S	Iabcde
+nig2-u2-rum	Nigurum[1][-e]	N	PN	D
+dub-sar	dubsar[scribe]	N	N	D
+dumu	dumu[child]	N	N	D
+{d}nanna-uri3	_	PN	PN.ERG	Iab

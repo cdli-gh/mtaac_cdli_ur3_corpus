@@ -1,0 +1,28 @@
+#new_text=P115949
+FORM	SEGM	XPOSTAG	XPOSTAG	POS
+1(asz)	1(asz)[one]	NU	NU	D
+4(barig)	4(bariga)[unit]	NU	N	D
+5(disz)	5(disz)[one]	NU	NU	D
+sila3	sila[unit]	N	N	D
+sze	sze[barley]	N	N	D
+gur	gur[unit]	N	N	D
+sze-ba	szeba[ration]	N	N	D
+geme2	geme[female_worker]	N	N	D
+ARAD2	arad[slave]	N	N	D
+ur-{d}a-szar2	_	PN	PN	Ia
+szu	szu[hand][-e]	N	N.L3-NH	D
+ba-ti	ba[-n]-teg[accept][-ø]	V	MID.3-SG-H-A.V.3-SG-P	D
+ki	ki[place]	N	N	D
+a-tu-ta	Atu[1][-ak]-ta	PN	PN.GEN.ABL	D
+ha-ma-ti	Hamati[1][-ra]	V	PN	D
+szu	szu[hand][-e]	N	N.L3-NH	D
+ba-ti	ba[-n]-teg[accept][-ø]	V	MID.3-SG-H-A.V.3-SG-P	D
+iti	iti[month]	N	N	D
+MI	_	 	 	POS
+ISZ	isz[flour_type]	N	N	D
+mu	mu[year]	N	N	D
+si-mu-ru-um	Simurum[1]	GN	SN	D
+ba-hul	ba-hulu[destroy][-ø]	V	MID.V.3-SG-S	D
+ha-ma-ti	Hamati[1][-ra]	V	PN	D
+...	_[_]	PN	N	D
+...	_[_]	PN	N	D

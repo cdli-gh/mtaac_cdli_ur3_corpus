@@ -1,0 +1,26 @@
+#new_text=P416118
+FORM	SEGM	XPOSTAG	XPOSTAG	POS
+5(disz)	5(disz)[one]	NU	NU	D
+gurusz	gurusz[male]	N	N	D
+u4	ud[day]	N	N	D
+1(u)	1(u)[ten]	NU	NU	D
+5(disz)-sze3	5(disz)[one]-sze	NU	NU.TERM	D
+ma2	ma[ship]	N	N	D
+sze	sze[barley]	N	N	D
+gid2-da	gid[lengthen]-a[-ø]	V	NF.V.PT	D
+giri3	giri[foot]	N	N	D
+lu2-gesz-lugal-ka	_	PN	PN.GEN.GEN	Iabcdef
+kiszib3	kiszib[seal]	N	N	D
+ni-a-ni	_	PN	PN.GEN.ABS	Iabcde
+nibru{ki}-sze3	Nibru[1]-sze	SN	SN.TERM	D
+ugula	ugula[overseer][-ø]	N	N	D
+ur-{d}lamma	Urlamma[1]	PN	PN	D
+e2	e[house]	N	N	D
+gu-za-la2	guzala[throne_bearer]	N	N	D
+iti	iti[month]	N	N	D
+ezem-{d}ba-ba6	Ezembaba[1][-'a]	MN	MN.L1	D
+mu	mu[year]	N	N	D
+{d}szu-{d}suen	Szusuen[1]	RN	RN	D
+lugal	lugal[king]	N	N	D
+ni-a-ni	_	PN	PN.GEN.ABS	Iabcde
+...	_[_]	PN	N	D

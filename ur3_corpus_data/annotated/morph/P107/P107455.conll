@@ -1,0 +1,25 @@
+#new_text=P107455
+FORM	SEGM	XPOSTAG	XPOSTAG	POS
+4(barig)	4(bariga)[unit]	NU	N	D
+3(ban2)	3(ban)[unit]	NU	N	D
+sze	sze[barley]	N	N	D
+lugal	lugal[king]	N	N	D
+e2-kikken-ta	_	TN	TN	POS
+1(asz)	1(asz)[one]	NU	NU	D
+2(barig)	2(bariga)[unit]	NU	N	D
+3(ban2)	3(ban)[unit]	NU	N	D
+ziz2	ziz[emmer]	N	N	D
+e2	e[house]	N	N	D
+szu-tum-ta	_	PN	PN.GEN.ABL	Iab
+ki	ki[place]	N	N	D
+ARAD2-ta	Arad[1][-ak]-ta	PN	PN.GEN.ABL	D
+mu	mu[year]	N	N	D
+ur-{d}suen-sze3	_	PN	PN	Iabcdefgh
+kiszib3	kiszib[seal]	N	N	D
+ur-{d}ma-mi	Urmami[1][-ra]	PN	PN.DAT-H	D
+i3-gal2	i[-ni]-gal[be][-ø]	V	FIN.L1.V.3-SG-S	D
+iti	iti[month]	N	N	D
+diri	diri[intercalary_month]	N	N	D
+mu	mu[year]	N	N	D
+ki-masz{ki}	Kimasz[1]	SN	SN.ABS	D
+ba-hul	ba-hulu[destroy][-ø]	V	MID.V.3-SG-S	D

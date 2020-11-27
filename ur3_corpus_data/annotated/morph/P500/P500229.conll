@@ -1,0 +1,27 @@
+#new_text=P500229
+FORM	SEGM	XPOSTAG	XPOSTAG	POS
+8(asz)	8(asz)[one]	NU	NU	D
+sze	sze[barley]	N	N	D
+gur	gur[unit]	N	N	D
+lugal	lugal[king]	N	N	D
+sze-numun	szenumun[seed]	N	N	D
+a-sza3	aszag[field]	N	N	D
+ambar	_	FN	FN	POS
+lagasz{ki}-sze3	_	SN	SN.GEN.TERM	Iabcd
+ki	ki[place]	N	N	D
+ba-zi-ta	_	PN	PN.GEN.DAT-H	Iabcdefg
+inim	inim[word]	N	N	D
+{d}utu-bar-ra-ta	_	DN	DN	POS
+kiszib3	kiszib[seal]	N	N	D
+lu2-{d}nin-gir2-su	Luningirsu[1]	PN	PN	D
+dumu	dumu[child]	N	N	D
+szabra-e2	_	PN	N	D
+ugula	ugula[overseer][-ø]	N	N	D
+sanga	sagga[temple_administrator]	N	N	D
+{d}szul-gi	Szulgir[1]	RN	RN	D
+i3-dub	idub[granary]	N	N	D
+sag-ub3{ki}	_	GN	GN	POS
+mu	mu[year]	N	N	D
+us2-sa	us[follow]-a	V	NF.V.PT	D
+ki-masz{ki}	Kimasz[1]	SN	SN.ABS	D
+ba-hul	ba-hulu[destroy][-ø]	V	MID.V.3-SG-S	D

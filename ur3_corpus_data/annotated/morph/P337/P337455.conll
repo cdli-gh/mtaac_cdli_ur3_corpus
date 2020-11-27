@@ -1,0 +1,23 @@
+#new_text=P337455
+FORM	SEGM	XPOSTAG	XPOSTAG	POS
+1(gesz2)	1(gesz)[sixty]	NU	NU	D
+1(disz)	1(disz)[one]	NU	NU	D
+...	_[_]	PN	N	D
+x	_[_]	N	N	D
+gurusz	gurusz[male]	N	N	D
+u4	ud[day]	N	N	D
+1(disz)-sze3	1(disz)[one]-sze	NU	NU.TERM	D
+igi	igi[eye][-ø]	N	N	D
+...	_[_]	PN	N	D
+alan	alan[statue]	N	N	D
+ak	ak[excavate][-a][-ak]	V	NF.V.PT	D
+giri3	giri[foot]	N	N	D
+...-x-ga	_	PN	PN	Iabcde
+...-sar	_	PN	PN.GEN.GEN	Iabcde
+ki	ki[place]	N	N	D
+bu3-lu5-lu5-ta	_	PN	PN.GEN.ABL	Iab
+ba-zi	ba-zig[expend][-ø]	PN	MID.V.3-SG-S	D
+mu	mu[year]	N	N	D
+gu-za	guza[chair][-ø]	N	N	D
+{d}en-lil2-la2	Enlil[1][-ak][-ø]	DN	DN.GEN	D
+ba-dim2	ba-dim[create][-ø]	V	MID.V.3-SG-S	D

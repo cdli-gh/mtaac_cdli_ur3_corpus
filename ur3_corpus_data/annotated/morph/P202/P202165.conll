@@ -1,0 +1,24 @@
+#new_text=P202165
+FORM	SEGM	XPOSTAG	XPOSTAG	POS
+1(disz)	1(disz)[one]	NU	NU	D
+gurusz	gurusz[male]	N	N	D
+iti	iti[month]	N	N	D
+1(disz)	1(disz)[one]	NU	NU	D
+u4	ud[day]	N	N	D
+1(u)	1(u)[ten]	NU	NU	D
+5(disz)-sze3	5(disz)[one]-sze	NU	NU.TERM	D
+ma2	ma[ship]	N	N	D
+ur	_	PN	N	D
+gid2-da	gid[lengthen]-a[-ø]	V	NF.V.PT	D
+giri3	giri[foot]	N	N	D
+ba-al-tu2-sza-ri2	_	PN	PN	POS
+gu2-du8-a-sze3	_	PN	PN	POS
+iti	iti[month]	N	N	D
+ezem-{d}szul-gi	Ezemszulgir[1][-'a]	MN	MN.L1	D
+mu	mu[year]	N	N	D
+us2-sa	us[follow]-a	V	NF.V.PT	D
+an-sza-an{ki}	Anszan[1][-ø]	GN	GN.ABS	D
+ba-hul	ba-hulu[destroy][-ø]	V	MID.V.3-SG-S	D
+ba-al-tu2-sza-ri2	_	PN	PN	POS
+dub-sar	dubsar[scribe]	N	N	D
+x-x	_[_]	PN	N.2-SG-POSS.ABS	D

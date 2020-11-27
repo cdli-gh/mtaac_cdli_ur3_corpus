@@ -1,0 +1,26 @@
+#new_text=P342035
+FORM	SEGM	XPOSTAG	XPOSTAG	POS
+1(u)	1(u)[ten]	NU	NU	D
+6(disz)	6(disz)[one][-sze]	NU	NU	D
+gurusz	gurusz[male]	N	N	D
+u4	ud[day]	N	N	D
+3(disz)-sze3	3(disz)[one]-sze	NU	NU.TERM	D
+a-sza3	aszag[field]	N	N	D
+amar-{gesz}kiszi17	_	FN	FN	POS
+a	a[water][-ø]	N	N.ABS	D
+de2-a	de[pour]-a	V	NF.V.PT	D
+ugula	ugula[overseer][-ø]	N	N	D
+lugal-ma2-gur8-re	Lugalmagure[1][-ø]	PN	PN	D
+kiszib3	kiszib[seal]	N	N	D
+gu2-tar	_	PN	PN.GEN	Iabcdefgh
+x	_[_]	N	N	D
+mu	mu[year]	N	N	D
+{d}amar-{d}suen	Amarsuen[1]	RN	RN	D
+lugal	lugal[king]	N	N	D
+dadag-ga	_	V	V	POS
+dumu	dumu[child]	N	N	D
+ur-{d}szul-pa-e3	Urszulpa'e[1]	PN	PN	D
+dam	dam[spouse]	N	N	D
+gu2-tar-la2	_	PN	PN	POS
+dumu	dumu[child]	N	N	D
+lugal-u4-da-u2	_	PN	PN.GEN.ERG	Iabcdef

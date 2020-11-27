@@ -1,0 +1,27 @@
+#new_text=P253661
+FORM	SEGM	XPOSTAG	XPOSTAG	POS
+1(disz)	1(disz)[one]	NU	NU	D
+2/3(disz)	2/3(disz)[one]	NU	NU	D
+gurusz	gurusz[male]	N	N	D
+aszgab	aszgab[leatherworker]	N	N	D
+u4	ud[day]	N	N	D
+2(disz)-sze3	2(disz)[one]-sze	NU	NU.TERM	D
+a	a[water][-ø]	N	N.ABS	D
+bala-e-de3	_	V	NF.V.PF.DAT-NH	Iabcde
+gub-ba	gub[assigned]-a[-ak][-ø]	V	NF.V.PT	D
+{gesz}kiri6	kiri[orchard][-'a][-ø]	N	N	D
+sza3	szag[heart]	N	N	D
+gar-sza-an-na{ki}	_	SN	SN.GEN	Ia
+ki	ki[place]	N	N	D
+a-na-ah-i3-li2-ta	_	PN	PN	POS
+ba-zi	ba-zig[expend][-ø]	PN	MID.V.3-SG-S	D
+iti	iti[month]	N	N	D
+ki-siki-{d}nin-a-zu	Kisikininazu[1][-'a]	MN	MN.L1	D
+mu	mu[year]	N	N	D
+{d}szu-{d}suen	Szusuen[1]	RN	RN	D
+lugal	lugal[king]	N	N	D
+uri5{ki}-ma	Urim[1]-ak	SN	SN.GEN	D
+na-ru2-a-mah	naruamah[magnificent_stele][-ø]	PN	N.ABS	D
+{d}en-lil2	Enlil[1]	DN	DN	D
+{d}nin-lil2-ka	_	DN	DN.GEN.GEN	Iabcdefg
+mu-ne-du3	mu-nnee[-a][-n]-du[build][-ø]	V	VEN.3-PL.DAT.3-SG-H-A.V.3-SG-P	D

@@ -1,0 +1,27 @@
+#new_text=P132337
+FORM	SEGM	XPOSTAG	XPOSTAG	POS
+2(u)	2(u)[ten]	NU	NU	D
+5(asz)	5(asz)[one]	NU	NU	D
+sze	sze[barley]	N	N	D
+gur	gur[unit]	N	N	D
+lugal	lugal[king]	N	N	D
+a2	a[time]	N	N	D
+lu2	lu[person]	N	N	D
+hun-ga2	hug[hire]-a	V	NF.V.PT	D
+ki	ki[place]	N	N	D
+a-kal-la-ta	Akala[1][-ak]-ta	PN	PN.GEN.ABL	D
+i3-dub	idub[granary]	N	N	D
+ensi2-ta	ensik[ruler][-ak]-ta	N	N.GEN.ABL	D
+kiszib3	kiszib[seal]	N	N	D
+nimgir-ki-ag2	_	PN	PN	Iabcde
+iti	iti[month]	N	N	D
+munu4-gu7	Munugu[1][-'a]	MN	MN.L1	D
+u3	u[and]	CNJ	CNJ	D
+{d}...	_[1][-'a]	MN	DN.GEN	D
+iti	iti[month]	N	N	D
+{d}...	_[1][-'a]	MN	DN.GEN	D
+mu	mu[year]	N	N	D
+en	en[priest]	N	N	D
+{d}inanna	Inanna[1][-ak]	DN	DN	D
+masz-e	masz[goat]-e	N	N.L3-NH	D
+i3-pa3	i-pad[find][-ø]	V	FIN.V.3-SG-S	D

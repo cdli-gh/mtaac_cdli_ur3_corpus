@@ -1,0 +1,25 @@
+#new_text=P102421
+FORM	SEGM	XPOSTAG	XPOSTAG	POS
+...	_[_]	PN	N	D
+2(u)	2(u)[ten]	NU	NU	D
+6(asz)	6(asz)[one]	NU	NU	D
+3(barig)	3(bariga)[unit]	NU	N	D
+3(ban2)	3(ban)[unit]	NU	N	D
+6(disz)	6(disz)[one][-sze]	NU	NU	D
+dabin	dabin[semolina]	N	N	D
+gur	gur[unit]	N	N	D
+lugal	lugal[king]	N	N	D
+ki	ki[place]	N	N	D
+ur-nigar{gar}-ta	Urnigar[1][-ak]-ta	PN	PN.GEN.ABL	D
+lu2	lu[person]	N	N	D
+mar-sa	marsa[shipyard]	PN	N	D
+szu	szu[hand][-e]	N	N.L3-NH	D
+ba-ti	ba[-n]-teg[accept][-ø]	V	MID.3-SG-H-A.V.3-SG-P	D
+iti	iti[month]	N	N	D
+diri	diri[intercalary_month]	N	N	D
+sze-sag11-ku5-ta	Szesagku[1]-ta	MN	MN.ABL	D
+iti	iti[month]	N	N	D
+sze-il2-la-asz	_	MN	MN.TERM	Iab
+mu	mu[year]	N	N	D
+us2-sa	us[follow]-a	V	NF.V.PT	D
+ki-masz{ki}	Kimasz[1]	SN	SN.ABS	D

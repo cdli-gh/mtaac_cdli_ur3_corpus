@@ -1,0 +1,25 @@
+#new_text=P137730
+FORM	SEGM	XPOSTAG	XPOSTAG	POS
+8(disz)	8(disz)[one]	NU	NU	D
+erin2	erin[people]	N	N	D
+...	_[_]	PN	N	D
+BAD	_	PN	PN	POS
+BI	_	PN	PN	POS
+...	_[_]	PN	N	D
+da6-da6-...	_	PN	PN	Iabcde
+u2-tul2-ma-ma	_	PN	PN	Iabcde
+ha-za-...	_	PN	PN	Iabcde
+ba-szi-x	_	PN	PN	POS
+mu	mu[year]	N	N	D
+lugal	lugal[king]	N	N	D
+sze	sze[barley]	N	N	D
+...	_[_]	PN	N	D
+iti	iti[month]	N	N	D
+a2-ki-ti	Akiti[1][-'a]	N	MN.L1	D
+mu	mu[year]	N	N	D
+en	en[priest]	N	N	D
+eridu{ki}	Eridug[1][-ak][-ø]	SN	SN.GEN.ABS	D
+ba-hun	ba-hug[hire][-ø]	V	MID.V.3-SG-S	D
+u2-tul2-ma-ma	_	PN	PN	Iabcde
+dumu	dumu[child]	N	N	D
+x-x-mi	_	PN	PN.GEN.DAT-H	Iabcdef

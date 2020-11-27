@@ -1,0 +1,17 @@
+#new_text=P111725
+FORM	SEGM	XPOSTAG	XPOSTAG	POS
+4(asz)	4(asz)[one]	NU	NU	D
+gu2	gun[unit]	N	N	D
+siki-gi	sikigi[wool_type]	N	N	D
+siki-ba	_	V	V	POS
+dumu-gu4-gur	dumugugur[worker][-ak]	N	N.GEN	D
+e2	e[house]	N	N	D
+{d}nansze(ZI2)	_	DN	DN	POS
+ki	ki[place]	N	N	D
+lu2-kal-la-ta	Lukala[1][-ak]-ta	PN	PN.GEN.ABL	D
+lu2-{d}dumu-zi	_	PN	PN.GEN.TERM	Iabcdefg
+szu	szu[hand][-e]	N	N.L3-NH	D
+ba-ti	ba[-n]-teg[accept][-ø]	V	MID.3-SG-H-A.V.3-SG-P	D
+mu	mu[year]	N	N	D
+si-mu-ru-um{ki}	Simurrum[1]	SN	SN.ABS	D
+ba-hul	ba-hulu[destroy][-ø]	V	MID.V.3-SG-S	D

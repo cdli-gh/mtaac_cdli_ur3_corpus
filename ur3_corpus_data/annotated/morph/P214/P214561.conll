@@ -1,0 +1,20 @@
+#new_text=P214561
+FORM	SEGM	XPOSTAG	XPOSTAG	POS
+2(asz)	2(asz)[one]	NU	NU	D
+sila3	sila[unit]	N	N	D
+i3-gesz	igesz[oil]	V	N	D
+i3	i[oil]	N	N	D
+masz	masz[interest]	N	N	D
+szu-i	szu'i[barber][-ak]	N	N.ABS	D
+|SZU2+1(ASZ@90)|	_	NU	NU	POS
+sila3	sila[unit]	N	N	D
+i3	i[oil]	N	N	D
+gesz-szid-de3-bara2	_	PN	PN.GEN.ABS	Iabcdefgh
+ib2-ak	_	V	V	POS
+zi-ga	zig[expend]-a	V	NF.V.PT	D
+iti	iti[month]	N	N	D
+UR	_	MN	MN	POS
+2(u)	2(u)[ten]	NU	NU	D
+2(disz)	2(disz)[one]	NU	NU	D
+u4	ud[day]	N	N	D
+ba-zal	ba-zal[pass][-ø][-a][-'a]	V	MID.V.3-SG-S.SUB	D

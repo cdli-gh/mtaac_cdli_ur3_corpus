@@ -1,0 +1,22 @@
+#new_text=P235578
+FORM	SEGM	XPOSTAG	XPOSTAG	POS
+x	_[_]	N	N	D
+...	_[_]	PN	N	D
+mu	mu[year]	N	N	D
+...	_[_]	PN	N	D
+sza3	szag[heart]	N	N	D
+x	_[_]	N	N	D
+...	_[_]	PN	N	D
+ki	ki[place]	N	N	D
+x-...-e-ta	_	 	 	POS
+kiszib3	kiszib[seal]	N	N	D
+ur-{d}szara2	Urszara[1]	PN	PN	D
+sza13-dub-ba	bisagdubak[archivist]	N	N	D
+mu	mu[year]	N	N	D
+si-mu-ru-um{ki}	Simurrum[1]	SN	SN.ABS	D
+lu-lu-bu-um{ki}	Lulubum[1][-ø]	SN	SN.ABS	D
+a-ra2	ara[times]	N	N	D
+1(u)	1(u)[ten]	NU	NU	D
+la2	la[hang][-ø]	V	NF.V.ABS	D
+1(disz)-kam-asz	_	NU	NU.GEN.COP-3-SG.TERM	Iab
+ba-hul	ba-hulu[destroy][-ø]	V	MID.V.3-SG-S	D

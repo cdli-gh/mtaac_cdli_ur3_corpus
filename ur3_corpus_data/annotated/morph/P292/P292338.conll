@@ -1,0 +1,25 @@
+#new_text=P292338
+FORM	SEGM	XPOSTAG	XPOSTAG	POS
+6(disz)	6(disz)[one][-sze]	NU	NU	D
+sila3	sila[unit]	N	N	D
+bappir2	_	N	N	Ia
+du	gin[quality_designation][-ø]	V	NF.V.ABS	D
+2(asz)	2(asz)[one]	NU	NU	D
+4(barig)	4(bariga)[unit]	NU	N	D
+kasz	kasz[beer]	N	N	D
+saga	saga[good][-ø]	V	NF.V.ABS	D
+gur	gur[unit]	N	N	D
+2(asz)	2(asz)[one]	NU	NU	D
+1(barig)	1(bariga)[unit]	NU	N	D
+kasz	kasz[beer]	N	N	D
+du	gin[quality_designation][-ø]	V	NF.V.ABS	D
+gur	gur[unit]	N	N	D
+ki	ki[place]	N	N	D
+ur4-sza3-ki-du10-ta	Urszakidu[1][-ak]-ta	PN	PN.GEN.ABL	D
+la-ni-mu	Lanimu[1]	PN	PN	D
+szu	szu[hand][-e]	N	N.L3-NH	D
+ba-ti	ba[-n]-teg[accept][-ø]	V	MID.3-SG-H-A.V.3-SG-P	D
+mu	mu[year]	N	N	D
+si-mu-ru-um{ki}	Simurrum[1]	SN	SN.ABS	D
+lu-lu-bum2{ki}	_	SN	SN	Ia
+ba-hul	ba-hulu[destroy][-ø]	V	MID.V.3-SG-S	D

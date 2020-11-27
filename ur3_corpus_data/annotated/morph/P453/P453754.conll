@@ -1,0 +1,24 @@
+#new_text=P453754
+FORM	SEGM	XPOSTAG	XPOSTAG	POS
+1(asz)	1(asz)[one]	NU	NU	D
+1(barig)	1(bariga)[unit]	NU	N	D
+1(ban2)	1(ban)[unit]	NU	N	D
+sze	sze[barley]	N	N	D
+gur	gur[unit]	N	N	D
+sze-ba	szeba[ration]	N	N	D
+muhaldim-e-ne-sze3	_	PN	PN	POS
+ki	ki[place]	N	N	D
+puzur4-{d}li9-si4-ta	_	PN	PN	Iabcdefgh
+mu	mu[year]	N	N	D
+da-da-ga-sze3	_	PN	PN.GEN.TERM	Iabcdefg
+ur-{d}ig-alim	Urigalim[1]	FN	PN	D
+szu	szu[hand][-e]	N	N.L3-NH	D
+ba-ti	ba[-n]-teg[accept][-ø]	V	MID.3-SG-H-A.V.3-SG-P	D
+mu	mu[year]	N	N	D
+{d}szu-{d}suen	Szusuen[1]	RN	RN	D
+lugal	lugal[king]	N	N	D
+uri5{ki}-ma-ke4	Urim[1]-ak-e	SN	SN.GEN.ERG	D
+bad3	bad[wall]	N	N	D
+mar-tu	Martu[1][-ø]	EN	EN.ABS	D
+mu-ri-iq-ti-id-ni-im	Muriqtidnim[1][-ø]	ON	ON.ABS	D
+mu-ne-du3	mu-nnee[-a][-n]-du[build][-ø]	V	VEN.3-PL.DAT.3-SG-H-A.V.3-SG-P	D

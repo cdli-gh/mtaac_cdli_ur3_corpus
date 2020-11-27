@@ -1,0 +1,23 @@
+#new_text=P121746
+FORM	SEGM	XPOSTAG	XPOSTAG	POS
+3(u)	3(u)[ten]	NU	NU	D
+1(asz)	1(asz)[one]	NU	NU	D
+4(barig)	4(bariga)[unit]	NU	N	D
+2(ban2)	2(ban)[unit]	NU	N	D
+sze	sze[barley]	N	N	D
+gur	gur[unit]	N	N	D
+lugal	lugal[king]	N	N	D
+sa2-du11	sadug[offerings]	N	N	D
+ensi2-ka	ensik[ruler]-ak	N	N.GEN	D
+ki	ki[place]	N	N	D
+ur-{d}li9-si4-ta	_	PN	PN.GEN.ABL	Iabcdefg
+ur-nigar{gar}	Urnigar[1]	PN	PN	D
+szu	szu[hand][-e]	N	N.L3-NH	D
+ba-ti	ba[-n]-teg[accept][-ø]	V	MID.3-SG-H-A.V.3-SG-P	D
+iti	iti[month]	N	N	D
+diri	diri[intercalary_month]	N	N	D
+mu	mu[year]	N	N	D
+a-ra2	ara[times]	N	N	D
+3(disz)-kam	3(disz)[one]-ak-am	NU	NU.GEN.COP-3-SG	D
+si-mu-ru-um{ki}	Simurrum[1]	SN	SN.ABS	D
+ba-hul	ba-hulu[destroy][-ø]	V	MID.V.3-SG-S	D

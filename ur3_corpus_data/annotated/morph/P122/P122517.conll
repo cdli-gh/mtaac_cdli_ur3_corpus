@@ -1,0 +1,24 @@
+#new_text=P122517
+FORM	SEGM	XPOSTAG	XPOSTAG	POS
+1(asz)	1(asz)[one]	NU	NU	D
+2(ban2)	2(ban)[unit]	NU	N	D
+sze	sze[barley]	N	N	D
+gur	gur[unit]	N	N	D
+mu-kux(DU)	mukur[delivery][-ø]	N	N	D
+szesz-kal-la	Szeszkala[1][-ra]	PN	PN	D
+u3	u[and]	CNJ	CNJ	D
+szesz-da-da	Szeszdada[1]	PN	PN	D
+iti	iti[month]	N	N	D
+szu-numun-a	_	MN	MN.L1	Iabcdefgh
+u4	ud[day]	N	N	D
+2(u)	2(u)[ten]	NU	NU	D
+la2	la[hang][-ø]	V	NF.V.ABS	D
+1(disz)	1(disz)[one]	NU	NU	D
+ba-zal	ba-zal[pass][-ø][-a][-'a]	V	MID.V.3-SG-S.SUB	D
+mu	mu[year]	N	N	D
+{d}szu-{d}suen	Szusuen[1]	RN	RN	D
+lugal	lugal[king]	N	N	D
+uri5{ki}-ma-ke4	Urim[1]-ak-e	SN	SN.GEN.ERG	D
+ma-da	mada[land][-ak][-ø]	N	N	D
+za-ab-sza-li{ki}	Zabszali[1][-ak][-ø]	GN	SN.GEN.ABS	D
+mu-hul(DU)	_	V	VEN.3-SG-H-DAT.L1.3-SG-H-A.V.3-PL	Iabcdefg

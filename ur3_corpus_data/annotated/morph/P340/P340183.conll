@@ -1,0 +1,23 @@
+#new_text=P340183
+FORM	SEGM	XPOSTAG	XPOSTAG	POS
+1(asz)	1(asz)[one]	NU	NU	D
+1(barig)	1(bariga)[unit]	NU	N	D
+kasz	kasz[beer]	N	N	D
+du	gin[quality_designation][-ø]	V	NF.V.ABS	D
+gur	gur[unit]	N	N	D
+{u2}|U.EN|	_	N	N	Ia
+sa2-du11	sadug[offerings]	N	N	D
+lugal	lugal[king]	N	N	D
+ba-ra-sze6	_	V	MID.ABL.3-SG-H-A.V.3-SG-P	Iabcdefghi
+sza3	szag[heart]	N	N	D
+umma{ki}	Umma[1][-ak][-ø]	SN	SN.GEN.ABS	D
+giri3	giri[foot]	N	N	D
+lu2-{d}en-ki	_	PN	PN	Ia
+ki	ki[place]	N	N	D
+ur-{d}szul-pa-e3-ta	Urszulpa'e[1][-ak]-ta	PN	PN.GEN.ABL	D
+kiszib3	kiszib[seal]	N	N	D
+lu2-kal-la	Lukala[1][-ra]	PN	PN.GEN	D
+mu	mu[year]	N	N	D
+ma2	ma[ship]	N	N	D
+{d}en-ki	Enki[1][-ak][-ø]	DN	DN.GEN.ABS	D
+ba-ab-du8	ba-b-du[caulk][-ø]	V	MID.3-SG-NH-L3.V.3-SG-S	D

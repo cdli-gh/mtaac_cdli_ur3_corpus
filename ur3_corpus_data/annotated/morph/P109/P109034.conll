@@ -1,0 +1,26 @@
+#new_text=P109034
+FORM	SEGM	XPOSTAG	XPOSTAG	POS
+1(gesz2)	1(gesz)[sixty]	NU	NU	D
+3(u)	3(u)[ten]	NU	NU	D
+5(asz)	5(asz)[one]	NU	NU	D
+gu2	gun[unit]	N	N	D
+4(u)	4(u)[ten]	NU	NU	D
+5(disz)	5(disz)[one]	NU	NU	D
+1/2(disz)	1/2(disz)[one]	NU	NU	D
+ma-na	mana[unit]	N	N	D
+siki	siki[wool][-'a]	N	N	D
+ki	ki[place]	N	N	D
+lugal-ti-ra-asz2-e	_	PN	PN	POS
+dumu	dumu[child]	N	N	D
+na-mu-ta	_	PN	PN.GEN.GEN.ABL	Iabcdefg
+lu2-usz-gi-na	_	PN	PN	D
+szu	szu[hand][-e]	N	N.L3-NH	D
+ba-ti	ba[-n]-teg[accept][-ø]	V	MID.3-SG-H-A.V.3-SG-P	D
+gaba-ri	gabari[copy]	N	N	D
+kiszib3-ba	kiszib[seal]-a	V	N	D
+mu	mu[year]	N	N	D
+{d}szu-{d}suen	Szusuen[1]	RN	RN	D
+lugal	lugal[king]	N	N	D
+uri5{ki}-ma-ke4	Urim[1]-ak-e	SN	SN.GEN.ERG	D
+na-ru2-a-mah	naruamah[magnificent_stele][-ø]	PN	N.ABS	D
+mu-du3	mu[-n]-du[build][-ø]	V	VEN.3-SG-H-A.V.3-SG-P	D

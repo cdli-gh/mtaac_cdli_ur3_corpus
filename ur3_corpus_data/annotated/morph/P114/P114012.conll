@@ -1,0 +1,20 @@
+#new_text=P114012
+FORM	SEGM	XPOSTAG	XPOSTAG	POS
+1(gesz2)	1(gesz)[sixty]	NU	NU	D
+2(u)	2(u)[ten]	NU	NU	D
+6(asz)	6(asz)[one]	NU	NU	D
+...	_[_]	PN	N	D
+ziz2	ziz[emmer]	N	N	D
+gur	gur[unit]	N	N	D
+1(gesz2)	1(gesz)[sixty]	NU	NU	D
+1(u)	1(u)[ten]	NU	NU	D
+5(disz)	5(disz)[one]	NU	NU	D
+sila3-ta	sila[unit]-ta	N	N.ABL	D
+2(u)	2(u)[ten]	NU	NU	D
+7(asz)	7(asz)[one]	NU	NU	D
+2(barig)	2(bariga)[unit]	NU	N	D
+gig	gig[resin_type]	N	N	D
+gur	gur[unit]	N	N	D
+e11-e	_	PN	PN	POS
+gu2-edin-na-ta	_	PN	PN	POS
+zi-ga-am3	zig[expend]-a[-ø]-am	N	NF.V.PT.ABS.COP-3-SG	D

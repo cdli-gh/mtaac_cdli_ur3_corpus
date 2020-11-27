@@ -1,0 +1,21 @@
+#new_text=P132615
+FORM	SEGM	XPOSTAG	XPOSTAG	POS
+5(disz)	5(disz)[one]	NU	NU	D
+tug2	tug[textile]	N	N	D
+...	_[_]	PN	N	D
+tug2-ba	_	N	N	Ia
+lu2	lu[person]	N	N	D
+hu-bu7{bu}	_	V	V	POS
+1(disz)	1(disz)[one]	NU	NU	D
+tug2-ba	_	N	N	Ia
+he2-dab5	hedab[worker]	V	N.DAT-H	D
+ki	ki[place]	N	N	D
+e2-i7-lu2-ru-ta	_	PN	PN.GEN.ABL	Iab
+e2	e[house]	N	N	D
+ba-gara2	_	PN	PN	Iabcde
+kiszib3	kiszib[seal]	N	N	D
+szesz-szesz-mu	_	PN	PN	Iabc
+mu	mu[year]	N	N	D
+ma-da	mada[land][-ak][-ø]	N	N	D
+za-ab-sza-li{ki}	Zabszali[1][-ak][-ø]	GN	SN.GEN.ABS	D
+ba-hul	ba-hulu[destroy][-ø]	V	MID.V.3-SG-S	D

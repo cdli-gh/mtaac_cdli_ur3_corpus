@@ -1,0 +1,22 @@
+#new_text=P342100
+FORM	SEGM	XPOSTAG	XPOSTAG	POS
+4(disz)	4(disz)[one]	NU	NU	D
+gurusz	gurusz[male]	N	N	D
+u4	ud[day]	N	N	D
+8(disz)-sze3	8(disz)[one]-sze	NU	NU.TERM	D
+a-sza3	aszag[field]	N	N	D
+szul-ki-gam-ma-da	_	FN	FN	POS
+gub-ba	gub[assigned]-a[-ak][-ø]	V	NF.V.PT	D
+ugula	ugula[overseer][-ø]	N	N	D
+ur-mes	Urmes[1]	PN	PN	D
+kiszib3	kiszib[seal]	N	N	D
+nam-sza3-tam	namszatam[administration]	N	N	D
+a:szi-an	_	PN	PN.GEN	Iab
+mu	mu[year]	N	N	D
+{d}amar-{d}suen	Amarsuen[1]	RN	RN	D
+lugal-am3	_	N	N	POS
+a-szi-an	Aszi'an[1][-ak]	PN	PN.GEN	D
+ARAD2	arad[slave]	N	N	D
+{d}szara2	Szara[1][-ak]	DN	DN	D
+dumu	dumu[child]	N	N	D
+lugal-sa6-ga	Lugalsaga[1][-ak]	PN	PN.GEN	D

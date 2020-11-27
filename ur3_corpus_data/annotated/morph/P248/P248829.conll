@@ -1,0 +1,27 @@
+#new_text=P248829
+FORM	SEGM	XPOSTAG	XPOSTAG	POS
+1(disz)	1(disz)[one]	NU	NU	D
+ma-na	mana[unit]	N	N	D
+3(disz)	3(disz)[one]	NU	NU	D
+1/3(disz)	1/3(disz)[one]	NU	NU	D
+gin2	gig[unit]	N	N	D
+2(u)	2(u)[ten]	NU	NU	D
+2(disz)	2(disz)[one]	NU	NU	D
+1/2(disz)	1/2(disz)[one]	NU	NU	D
+sze	sze[barley]	N	N	D
+ku3-babbar	kugbabbar[silver]	N	N	D
+masz	masz[interest]	N	N	D
+a-sza3-ga	aszag[field]-ak	N	N.GEN	D
+a-pi4-sal4{ki}	Apisal[1][-ak]	GN	FN.L1	D
+ki	ki[place]	N	N	D
+x-an-x-ta	_	PN	PN	POS
+...-du	_[_]	PN	PN	Iabcde
+szu	szu[hand][-e]	N	N.L3-NH	D
+ba-ti	ba[-n]-teg[accept][-ø]	V	MID.3-SG-H-A.V.3-SG-P	D
+mu	mu[year]	N	N	D
+{d}szu-{d}suen	Szusuen[1]	RN	RN	D
+lugal	lugal[king]	N	N	D
+uri5{ki}-ma-ke4	Urim[1]-ak-e	SN	SN.GEN.ERG	D
+ma-da	mada[land][-ak][-ø]	N	N	D
+za-ab-sza-li{ki}	Zabszali[1][-ak][-ø]	GN	SN.GEN.ABS	D
+mu-hul	mu[-n]-hulu[destroy][-ø]	V	VEN.3-SG-H-A.V.3-SG-P	D

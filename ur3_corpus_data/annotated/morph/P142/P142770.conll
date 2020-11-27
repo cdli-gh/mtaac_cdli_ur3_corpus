@@ -1,0 +1,23 @@
+#new_text=P142770
+FORM	SEGM	XPOSTAG	XPOSTAG	POS
+1(u)	1(u)[ten]	NU	NU	D
+5(disz)	5(disz)[one]	NU	NU	D
+gurusz	gurusz[male]	N	N	D
+u4	ud[day]	N	N	D
+1(disz)-sze3	1(disz)[one]-sze	NU	NU.TERM	D
+nig2-gu2-na	_	N	N.GEN	Iabcde
+kasz-de2-a	kaszdea[banquet][-sze]	N	N	D
+ba-al-la	bala[transfer]-a	V	NF.V.PT	D
+kiszib3	kiszib[seal]	N	N	D
+ARAD2-mu	Aradmu[1]	PN	PN	D
+ugula	ugula[overseer][-ø]	N	N	D
+lugal-ma2-gur8-re	Lugalmagure[1][-ø]	PN	PN	D
+mu	mu[year]	N	N	D
+en-unu6-gal	Enunugal[1]	PN	PN	D
+{d}inanna	Inanna[1][-ak]	DN	DN	D
+...	_[_]	PN	N	D
+ur-{d}dumu-zi-da	Urdumuzida[1][-e]	PN	PN.GEN.ABS	D
+dub-sar	dubsar[scribe]	N	N	D
+dumu	dumu[child]	N	N	D
+ur-nigar{gar}	Urnigar[1]	PN	PN	D
+kuruszda	kuruszda[animal_fattener][-ø]	N	N.GEN.ABS	D

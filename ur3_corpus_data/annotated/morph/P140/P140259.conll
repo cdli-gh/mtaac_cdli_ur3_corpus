@@ -1,0 +1,26 @@
+#new_text=P140259
+FORM	SEGM	XPOSTAG	XPOSTAG	POS
+1(gesz2)	1(gesz)[sixty]	NU	NU	D
+nigin2	nigin[bundle]	N	N	D
+pa-ku5	pakud[stave][-ø]	N	N	D
+2(gesz2)	2(gesz)[sixty]	NU	NU	D
+{gesz}dim	_	N	N	Ia
+{gesz}dim2	_	N	N.ABS	Iabcdefghij
+1(u)	1(u)[ten]	NU	NU	D
+5(disz)	5(disz)[one]	NU	NU	D
+nigin2	nigin[bundle]	N	N	D
+pa-ku5	pakud[stave][-ø]	N	N	D
+{gesz}...	_[_]	N	N	Ia
+ki	ki[place]	N	N	D
+lu2-...	_[1][-ra]	PN	PN	D
+kiszib3	kiszib[seal]	N	N	D
+inim-ma-ni	_	N	N	POS
+iti	iti[month]	N	N	D
+szu-numun	Szunumun[1][-'a]	MN	MN.L1	D
+mu	mu[year]	N	N	D
+{d}szu-{d}suen	Szusuen[1]	RN	RN	D
+lugal	lugal[king]	N	N	D
+inim-ma-ni	_	N	N	POS
+ma2-lah5	malah[sailor]	N	N	D
+dumu	dumu[child]	N	N	D
+ur-mes	Urmes[1]	PN	PN	D

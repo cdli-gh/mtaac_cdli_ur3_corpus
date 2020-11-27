@@ -1,0 +1,21 @@
+#new_text=P340951
+FORM	SEGM	XPOSTAG	XPOSTAG	POS
+3(ban2)	3(ban)[unit]	NU	N	D
+sze-ba	szeba[ration]	N	N	D
+geme2-{d}suen	Gemesuen[1][-ra]	PN	PN	D
+1(barig)	1(bariga)[unit]	NU	N	D
+1(ban2)	1(ban)[unit]	NU	N	D
+5(disz)	5(disz)[one]	NU	NU	D
+sila3	sila[unit]	N	N	D
+ur-{d}gilgamesx(|BIL3.GA.MES|)	Urgilgamesx[1][-ra]	PN	PN.DAT-H	D
+giri3-se3-ga	girsiga[attendant]	N	N	D
+e2-mah	Emah[1][-sze]	FN	TN	D
+1(barig)	1(bariga)[unit]	NU	N	D
+sa2-du11	sadug[offerings]	N	N	D
+{d}nin-e2-gal	Ninegal[1][-ra]	DN	DN.DAT-H	D
+iti	iti[month]	N	N	D
+e2-iti-6(disz)	E'iti6[1][-'a]	NU	MN.L1	D
+mu	mu[year]	N	N	D
+en	en[priest]	N	N	D
+eridu{ki}	Eridug[1][-ak][-ø]	SN	SN.GEN.ABS	D
+ba-hun	ba-hug[hire][-ø]	V	MID.V.3-SG-S	D

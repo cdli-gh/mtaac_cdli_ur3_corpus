@@ -1,0 +1,26 @@
+#new_text=P341009
+FORM	SEGM	XPOSTAG	XPOSTAG	POS
+1(u)	1(u)[ten]	NU	NU	D
+4(asz)	4(asz)[one]	NU	NU	D
+2(barig)	2(bariga)[unit]	NU	N	D
+sze	sze[barley]	N	N	D
+gur	gur[unit]	N	N	D
+sze-ba	szeba[ration]	N	N	D
+SIG7-a	SIGa[1][-ra]	N	PN.DAT-H	D
+mu	mu[year]	N	N	D
+3(disz)-kam	3(disz)[one]-ak-am	NU	NU.GEN.COP-3-SG	D
+mu	mu[year]	N	N	D
+{gesz}kiri6	kiri[orchard][-'a][-ø]	N	N	D
+gu2-de3-na	Gudena[1][-ak]	PN	PN.GEN	D
+ba-hul	ba-hulu[destroy][-ø]	V	MID.V.3-SG-S	D
+{gesz}kiri6	kiri[orchard][-'a][-ø]	N	N	D
+usz-mu	Uszmu[1]	PN	PN	D
+en3-bi	en[word]-bi[-ø]	N	N.3-SG-H-POSS.ABS	D
+nu-un-tar-ra-sze3	_	V	V	POS
+e2-gal-e-si	Egalesi[1][-ak]	PN	PN.GEN	D
+su-su-dam	sug-sug[repay]-ed[-ø]-am	PN	NF.V.RDP.F.ABS.COP-3-SG	D
+mu	mu[year]	N	N	D
+{d}szu-{d}suen	Szusuen[1]	RN	RN	D
+lugal-e	lugal[king]-e	N	N.ERG	D
+na-ru2-a-mah	naruamah[magnificent_stele][-ø]	PN	N.ABS	D
+in-du3	_	V	FIN.3-SG-H-A.V.3-SG-P	Iabcdefg

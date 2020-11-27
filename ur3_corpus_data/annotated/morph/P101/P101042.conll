@@ -1,0 +1,26 @@
+#new_text=P101042
+FORM	SEGM	XPOSTAG	XPOSTAG	POS
+1(gesz2)	1(gesz)[sixty]	NU	NU	D
+2(u)	2(u)[ten]	NU	NU	D
+4(asz)	4(asz)[one]	NU	NU	D
+1(barig)	1(bariga)[unit]	NU	N	D
+2(ban2)	2(ban)[unit]	NU	N	D
+8(disz)	8(disz)[one]	NU	NU	D
+1/3(disz)	1/3(disz)[one]	NU	NU	D
+sila3	sila[unit]	N	N	D
+sze	sze[barley]	N	N	D
+gur	gur[unit]	N	N	D
+sza3-gal	szaggal[food]	N	N	D
+amar	amar[calf][-ak]	N	N	D
+ki	ki[place]	N	N	D
+ur-e11-e-ta	Ure'e[1][-ak]-ta	PN	PN.GEN.ABL	D
+kiszib3	kiszib[seal]	N	N	D
+a-tu	Atu[1][-ak]	PN	PN	D
+mu	mu[year]	N	N	D
+si-mu-ru-um{ki}	Simurrum[1]	SN	SN.ABS	D
+lu-lu-bu-um{ki}	Lulubum[1][-ø]	SN	SN.ABS	D
+a-ra2	ara[times]	N	N	D
+1(u)	1(u)[ten]	NU	NU	D
+la2	la[hang][-ø]	V	NF.V.ABS	D
+1(disz)-kam-asz	_	NU	NU.GEN.COP-3-SG.TERM	Iab
+ba-hul	ba-hulu[destroy][-ø]	V	MID.V.3-SG-S	D

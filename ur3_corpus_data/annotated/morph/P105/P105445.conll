@@ -1,0 +1,22 @@
+#new_text=P105445
+FORM	SEGM	XPOSTAG	XPOSTAG	POS
+1/2(disz)	1/2(disz)[one]	NU	NU	D
+ma-na	mana[unit]	N	N	D
+su-he2	_	N	N.ABS	Iabcde
+ki	ki[place]	N	N	D
+lu2-eb-gal-ta	_	PN	PN.DAT-H	Iab
+ugu2	ugu[capital]	N	N	D
+ur-nigar{gar}	Urnigar[1]	PN	PN	D
+ga2-ga2-de3	_	V	NF.V.ABS.GEN.GEN	Iabcdefg
+ur-{d}szara2-ke4	_	RN	RN	POS
+ba-an-dab5	_	V	V	POS
+kiszib3	kiszib[seal]	N	N	D
+ur-{d}nun-gal	Urnungal[1][-ak]	PN	PN.GEN	D
+iti	iti[month]	N	N	D
+...	_[_]	PN	N	D
+mu	mu[year]	N	N	D
+...	_[_]	PN	N	D
+ur-{d}nun-gal	Urnungal[1][-ak]	PN	PN.GEN	D
+dub-sar	dubsar[scribe]	N	N	D
+dumu	dumu[child]	N	N	D
+lugal-uszur3	_	PN	PN.DAT-H	Iab

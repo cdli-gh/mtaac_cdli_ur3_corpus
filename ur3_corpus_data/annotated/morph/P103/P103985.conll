@@ -1,0 +1,20 @@
+#new_text=P103985
+FORM	SEGM	XPOSTAG	XPOSTAG	POS
+1(u)	1(u)[ten]	NU	NU	D
+2(disz)	2(disz)[one]	NU	NU	D
+...	_[_]	PN	N	D
+3(gesz2)	3(gesz)[sixty]	NU	NU	D
+x	_[_]	N	N	D
+x	_[_]	N	N	D
+nam-ra-ak-me	_	N	N.ABS.COP-3-PL	Iabcdefg
+ki	ki[place]	N	N	D
+ARAD2-{d}amar-{d}suen-ta	_	PN	PN.GEN.ABL	Iabcdef
+gen-na-me	gen[go]-a-mesz	V	NF.V.PT.COP-3-PL	D
+ki	ki[place]	N	N	D
+li-i3-si-in-ta	_	PN	PN.GEN.GEN.ABL	Iabcdef
+kiszib3	kiszib[seal]	N	N	D
+e2-a-ra-bi2	_	PN	PN	Ia
+iti	iti[month]	N	N	D
+ezem-mah	Ezemmah[1][-'a]	MN	MN.L1	D
+mu	mu[year]	N	N	D
+...	_[_]	PN	N	D

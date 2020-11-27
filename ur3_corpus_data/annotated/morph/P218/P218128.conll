@@ -1,0 +1,25 @@
+#new_text=P218128
+FORM	SEGM	XPOSTAG	XPOSTAG	POS
+4(gesz2)	4(gesz)[sixty]	NU	NU	D
+4(u)	4(u)[ten]	NU	NU	D
+8(asz)	8(asz)[one]	NU	NU	D
+1(barig)	1(bariga)[unit]	NU	N	D
+sze	sze[barley]	N	N	D
+gur	gur[unit]	N	N	D
+lugal	lugal[king]	N	N	D
+ki	ki[place]	N	N	D
+nigar{gar}-ki-du10-ta	Nigarkidu[1][-ak]-ta	PN	PN.GEN.ABL	D
+mu	mu[year]	N	N	D
+ab-ba-sze3	_	PN	PN.GEN.TERM	Iabcdef
+nin9-tur-tur-e	_	N	N	POS
+szu	szu[hand][-e]	N	N.L3-NH	D
+ba-ti	ba[-n]-teg[accept][-ø]	V	MID.3-SG-H-A.V.3-SG-P	D
+ab-ba-mu	Abbamu[1][-ak][-ak]	PN	PN.GEN.GEN	D
+nigar{gar}-ki-du10-ra	_	PN	PN.GEN.ABL	Iabcdefgh
+su-su-dam	sug-sug[repay]-ed[-ø]-am	PN	NF.V.RDP.F.ABS.COP-3-SG	D
+iti	iti[month]	N	N	D
+nesag	Nesag[1][-'a]	N	MN.L1	D
+mu	mu[year]	N	N	D
+us2-sa	us[follow]-a	V	NF.V.PT	D
+kar2-har{ki}	_	GN	SN.GEN	D
+ba-hul	ba-hulu[destroy][-ø]	V	MID.V.3-SG-S	D

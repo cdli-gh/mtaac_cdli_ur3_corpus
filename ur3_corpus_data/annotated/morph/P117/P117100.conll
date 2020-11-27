@@ -1,0 +1,23 @@
+#new_text=P117100
+FORM	SEGM	XPOSTAG	XPOSTAG	POS
+1(u)	1(u)[ten]	NU	NU	D
+gurusz	gurusz[male]	N	N	D
+u4	ud[day]	N	N	D
+3(disz)-sze3	3(disz)[one]-sze	NU	NU.TERM	D
+a-e3-a	_	PN	PN	Iabcde
+a	a[water][-ø]	N	N.ABS	D
+x	_[_]	N	N	D
+x	_[_]	N	N	D
+x-lu5-lu5	_	PN	PN.DAT-H	Iab
+...-ma	_	PN	PN	Iabcde
+...	_[_]	PN	N	D
+x	_[_]	N	N	D
+...-x	_[_]	WN	RN	D
+mu	mu[year]	N	N	D
+si-mu-ru-um	Simurum[1]	GN	SN	D
+lu-lu-bu	Lulubu[1][-ø]	SN	SN.ABS	D
+a-ra2	ara[times]	N	N	D
+1(u)	1(u)[ten]	NU	NU	D
+la2	la[hang][-ø]	V	NF.V.ABS	D
+1(disz)-kam	1(disz)[one]-ak-am	NU	NU.GEN.COP-3-SG	D
+ba-hul	ba-hulu[destroy][-ø]	V	MID.V.3-SG-S	D

@@ -1,0 +1,24 @@
+#new_text=P105752
+FORM	SEGM	XPOSTAG	XPOSTAG	POS
+3(asz)	3(asz)[one]	NU	NU	D
+8(disz)	8(disz)[one]	NU	NU	D
+sila3	sila[unit]	N	N	D
+zu2-lum	zulum[date]	N	N	D
+gur	gur[unit]	N	N	D
+5(ban2)	5(ban)[unit]	NU	N	D
+5(disz)	5(disz)[one]	NU	NU	D
+sila3	sila[unit]	N	N	D
+{gesz}gesztin	_	N	N	POS
+4(ban2)	4(ban)[unit]	NU	N	D
+5(disz)	5(disz)[one]	NU	NU	D
+sila3	sila[unit]	N	N	D
+{gesz}pesz3	pesz[fig]	N	N	D
+duru5	_	V	V	POS
+zi-ga	zig[expend]-a	V	NF.V.PT	D
+ki	ki[place]	N	N	D
+ur-{d}nin-mug-ta	_	PN	PN	Iabcdefgh
+kiszib3	kiszib[seal]	N	N	D
+ur-nig2	_	PN	PN	Iabcde
+mu	mu[year]	N	N	D
+hu-hu-nu-ri{ki}	Huhunuri[1][-ø]	GN	SN.ABS	D
+ba-hul	ba-hulu[destroy][-ø]	V	MID.V.3-SG-S	D

@@ -1,0 +1,25 @@
+#new_text=P209755
+FORM	SEGM	XPOSTAG	XPOSTAG	POS
+2(asz)	2(asz)[one]	NU	NU	D
+2(barig)	2(bariga)[unit]	NU	N	D
+sze	sze[barley]	N	N	D
+gur	gur[unit]	N	N	D
+{d}szara2-za-me	Szarazame[1][-ak]	PN	PN.GEN	D
+3(asz)	3(asz)[one]	NU	NU	D
+2(barig)	2(bariga)[unit]	NU	N	D
+gur	gur[unit]	N	N	D
+ur-{d}en-lil2	_	PN	PN	Iabcde
+1(asz)	1(asz)[one]	NU	NU	D
+1(barig)	1(bariga)[unit]	NU	N	D
+gur	gur[unit]	N	N	D
+lugal-e2-mah-e	Lugalemahe[1]	N	PN	D
+1(asz)	1(asz)[one]	NU	NU	D
+gur	gur[unit]	N	N	D
+lu2-bala-saga	_	PN	PN	Ia
+mu-sza	_	PN	PN	POS
+iti	iti[month]	N	N	D
+ezem-{d}szul-gi	Ezemszulgir[1][-'a]	MN	MN.L1	D
+mu	mu[year]	N	N	D
+en	en[priest]	N	N	D
+ga-esz{ki}	Ga'esz[1][-ak][-ø]	SN	SN.GEN.ABS	D
+ba-hun	ba-hug[hire][-ø]	V	MID.V.3-SG-S	D

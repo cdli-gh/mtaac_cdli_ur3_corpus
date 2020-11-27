@@ -1,0 +1,11 @@
+#new_text=P332821
+FORM	SEGM	XPOSTAG	XPOSTAG	POS
+3(gesz2)	3(gesz)[sixty]	NU	NU	D
+5(u)	5(u)[ten]	NU	NU	D
+x	_[_]	N	N	D
+sag	sag[head]	N	N	D
+u4	ud[day]	N	N	D
+1(disz)-sze3	1(disz)[one]-sze	NU	NU.TERM	D
+si-i3-tum	situm[balance]	N	N	D
+nig2-ka9-ak	nigSZID[account]	N	N	D
+ur-gu-la	_	PN	PN	Ia

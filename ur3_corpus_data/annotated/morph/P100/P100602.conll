@@ -1,0 +1,24 @@
+#new_text=P100602
+FORM	SEGM	XPOSTAG	XPOSTAG	POS
+5(disz)	5(disz)[one]	NU	NU	D
+gurusz	gurusz[male]	N	N	D
+u4	ud[day]	N	N	D
+3(u)-sze3	3(u)[ten]-sze	NU	NU.TERM	D
+sza3-gu4	szagu[ox-driver]	PN	N	D
+e2-gal	egal[palace][-ak][-'a]	N	N	D
+kam-sal4-la-ka	_	N	N.GEN	Iabcde
+gub-ba	gub[assigned]-a[-ak][-ø]	V	NF.V.PT	D
+ugula	ugula[overseer][-ø]	N	N	D
+gu2-tar	_	PN	PN.GEN	Iabcdefgh
+kiszib3	kiszib[seal]	N	N	D
+lugal-ukken-ne2	Lugalukkene[1][-ø]	PN	PN.DAT-H	D
+iti	iti[month]	N	N	D
+{d}dumu-zi	Dumuzi[1][-'a]	MN	MN.L1	D
+mu	mu[year]	N	N	D
+{d}amar-{d}suen	Amarsuen[1]	RN	RN	D
+lugal	lugal[king]	N	N	D
+lugal-ukken-ne2	Lugalukkene[1][-ø]	PN	PN.DAT-H	D
+szabra	szabra[chief_administrator][-ak]	N	N	D
+dumu	dumu[child]	N	N	D
+lugal-nig2-lagar-e	Lugalniglagare[1][-ak]	PN	PN.GEN	D
+nu-banda3-gu4	nubandagu[ox_overseer][-ak][-ak][-ak]	N	N	D

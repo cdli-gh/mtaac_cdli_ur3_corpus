@@ -1,0 +1,14 @@
+#new_text=P332522
+FORM	SEGM	XPOSTAG	XPOSTAG	POS
+5(u)	5(u)[ten]	NU	NU	D
+5(asz)	5(asz)[one]	NU	NU	D
+1(barig)	1(bariga)[unit]	NU	N	D
+sze	sze[barley]	N	N	D
+gur	gur[unit]	N	N	D
+diri	diri[intercalary_month]	N	N	D
+nig2-ka9-ak	nigSZID[account]	N	N	D
+mu	mu[year]	N	N	D
+e2	e[house]	N	N	D
+{d}szara2	Szara[1][-ak]	DN	DN	D
+ba-du3	ba-du[build][-ø]	V	MID.V.3-SG-S	D
+lu2-{d}nanna	Lunanna[1]	PN	PN	D

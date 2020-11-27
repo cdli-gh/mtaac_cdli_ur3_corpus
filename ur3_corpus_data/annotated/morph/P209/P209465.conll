@@ -1,0 +1,23 @@
+#new_text=P209465
+FORM	SEGM	XPOSTAG	XPOSTAG	POS
+1(asz)	1(asz)[one]	NU	NU	D
+sze	sze[barley]	N	N	D
+gur	gur[unit]	N	N	D
+lugal	lugal[king]	N	N	D
+sza3-gal	szaggal[food]	N	N	D
+gu4	gud[ox]	N	N	D
+niga	niga[fattened][-ø]	V	NF.V.ABS	D
+|KI.AN|{ki}-ta	_[1]-ta	SN	SN.ABL	D
+ki	ki[place]	N	N	D
+ARAD2-ta	Arad[1][-ak]-ta	PN	PN.GEN.ABL	D
+en-u2-szim-e	_	PN	PN	Iabcdefgh
+iti	iti[month]	N	N	D
+diri	diri[intercalary_month]	N	N	D
+mu	mu[year]	N	N	D
+ki-masz{ki}	Kimasz[1]	SN	SN.ABS	D
+ba-hul	ba-hulu[destroy][-ø]	V	MID.V.3-SG-S	D
+en-u2-szim-e	_	PN	PN	Iabcdefgh
+dumu	dumu[child]	N	N	D
+ARAD2-dam	Aradam[1][-ak]	PN	PN.GEN	D
+sanga	sagga[temple_administrator]	N	N	D
+{d}nin-e11-e	_	DN	DN	Iabcde

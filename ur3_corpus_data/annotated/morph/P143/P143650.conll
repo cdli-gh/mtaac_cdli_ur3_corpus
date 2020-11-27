@@ -1,0 +1,21 @@
+#new_text=P143650
+FORM	SEGM	XPOSTAG	XPOSTAG	POS
+1(szar2)	1(szar)[unit]	NU	N	D
+2(gesz'u)	2(gesz'u)[six_hundred]	NU	NU	D
+2(gesz2)	2(gesz)[sixty]	NU	NU	D
+3(u)	3(u)[ten]	NU	NU	D
+7(disz)	7(disz)[one][-sze]	NU	NU	D
+gurusz	gurusz[male]	N	N	D
+u4	ud[day]	N	N	D
+1(disz)-sze3	1(disz)[one]-sze	NU	NU.TERM	D
+a2	a[time]	N	N	D
+buru14	_	N	N	Ia
+iti	iti[month]	N	N	D
+4(disz)-kam	4(disz)[one]-ak-am[-'a]	NU	NU.GEN.COP-3-SG	D
+iti	iti[month]	N	N	D
+sze-sag-ku5-ta	Szesagku[1]-ta	MN	MN.ABL	D
+iti	iti[month]	N	N	D
+nesag-sze3	nesag[first_fruit_offering]-sze	MN	N.TERM	D
+mu	mu[year]	N	N	D
+ur-bi2-i3-lum{ki}	_	GN	GN	POS
+ba-hul	ba-hulu[destroy][-ø]	V	MID.V.3-SG-S	D

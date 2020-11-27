@@ -1,0 +1,25 @@
+#new_text=P337963
+FORM	SEGM	XPOSTAG	XPOSTAG	POS
+4(disz)	4(disz)[one]	NU	NU	D
+geme2	geme[female_worker]	N	N	D
+3(ban2)	3(ban)[unit]	NU	N	D
+u4	ud[day]	N	N	D
+1(disz)-sze3	1(disz)[one]-sze	NU	NU.TERM	D
+a-sza3	aszag[field]	N	N	D
+e2-masz-ka-lu	_	FN	FN	POS
+...	_[_]	PN	N	D
+ur4-ra	_	V	V	POS
+ki	ki[place]	N	N	D
+ur-{d}nin-tu-ta	_	PN	PN.GEN.ABL	Iab
+kiszib3	kiszib[seal]	N	N	D
+en-kas4	_	PN	PN.GEN.ABS	Iabcdefgh
+iti	iti[month]	N	N	D
+min3-esz3	Minesz[1][-'a]	MN	MN.L1	D
+mu	mu[year]	N	N	D
+en	en[priest]	N	N	D
+ga-esz{ki}	Ga'esz[1][-ak][-ø]	SN	SN.GEN.ABS	D
+ba-hun-ga2	ba-hug[hire][-ø]	V	MID.V.3-SG-S	D
+en-kas4	_	PN	PN.GEN.ABS	Iabcdefgh
+dub-sar	dubsar[scribe]	N	N	D
+dumu	dumu[child]	N	N	D
+ur-{d}isztaran	Urisztaran[1]	PN	PN.GEN.ABS	D

@@ -1,0 +1,15 @@
+#new_text=P380089
+FORM	SEGM	XPOSTAG	XPOSTAG	POS
+1(u)	1(u)[ten]	NU	NU	D
+2(disz)	2(disz)[one]	NU	NU	D
+{gesz}ur2	_	N	N	Ia
+{gesz}gu-za	guza[chair]	N	N	D
+6(disz)	6(disz)[one][-sze]	NU	NU	D
+{gesz}dal	dal[crossbar]	N	N	D
+{gesz}gu-za	guza[chair]	N	N	D
+...	_[_]	PN	N	D
+...	_[_]	PN	N	D
+{gesz}szu	_	N	N.ABS	Iabcdefgh
+gur10	_	V	NF.V.PT	Ia
+al-la-sa6-ga	_	PN	PN	Ia
+nagar	nagar[carpenter]	N	N	D

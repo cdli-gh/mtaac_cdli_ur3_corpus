@@ -1,0 +1,21 @@
+#new_text=P130000
+FORM	SEGM	XPOSTAG	XPOSTAG	POS
+5(asz)	5(asz)[one]	NU	NU	D
+2(barig)	2(bariga)[unit]	NU	N	D
+1(ban2)	1(ban)[unit]	NU	N	D
+sze-gesz-i3	szegeszi[sesame_seed]	PN	N	D
+gur	gur[unit]	N	N	D
+lugal	lugal[king]	N	N	D
+si-i3-tum	situm[balance]	N	N	D
+nig2-ka9-ak	nigSZID[account]	N	N	D
+gesz-i3	geszi[sesame]	N	N	D
+e2	e[house]	N	N	D
+szu-szum2-ma	szuszuma[consignment][-ak]	N	N.GEN	D
+{d}nin-mar{ki}-ka	_	PN	DN.GEN.ABS	D
+u3	u[and]	CNJ	CNJ	D
+ab-ba-kal-la	Abbakala[1][-ak][-ak]	PN	PN	D
+su-su-dam	sug-sug[repay]-ed[-ø]-am	PN	NF.V.RDP.F.ABS.COP-3-SG	D
+mu	mu[year]	N	N	D
+gu-za	guza[chair][-ø]	N	N	D
+x	_[_]	N	N	D
+ba-du3	ba-du[build][-ø]	V	MID.V.3-SG-S	D

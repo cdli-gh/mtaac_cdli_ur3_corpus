@@ -1,0 +1,12 @@
+#new_text=P500145
+FORM	SEGM	XPOSTAG	XPOSTAG	POS
+lu2-ki-x	_	PN	PN	Iabcdefgh
+x-x-x	_[1]	PN	PN	D
+ki-ur-AN	_	PN	PN	POS
+1(disz)	1(disz)[one]	NU	NU	D
+mu	mu[year]	N	N	D
+x-DU	_	PN	PN	Iabcdefgh
+x-ba	_[_]	DN	N.DEM2.X	D
+x-bala	_	PN	PN	POS
+mu	mu[year]	N	N	D
+{d}szu-x	_	PN	PN	POS

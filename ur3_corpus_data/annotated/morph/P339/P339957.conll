@@ -1,0 +1,26 @@
+#new_text=P339957
+FORM	SEGM	XPOSTAG	XPOSTAG	POS
+5(gesz'u)	5(gesz'u)[six_hundred]	NU	NU	D
+1(gesz2)	1(gesz)[sixty]	NU	NU	D
+1(u)	1(u)[ten]	NU	NU	D
+8(disz)	8(disz)[one]	NU	NU	D
+geme2	geme[female_worker]	N	N	D
+u4	ud[day]	N	N	D
+1(disz)-sze3	1(disz)[one]-sze	NU	NU.TERM	D
+a2	a[time]	N	N	D
+zi3	zid[flour]	N	N	D
+ar3(HI)-a	_	NU	NU	POS
+usz-bar	uszbar[weaver][-ak]	N	N	D
+ki	ki[place]	N	N	D
+ur-{d}nin-tu-ta	_	PN	PN.GEN.ABL	Iab
+kiszib3	kiszib[seal]	N	N	D
+lu2-kal-la	Lukala[1][-ra]	PN	PN.GEN	D
+mu	mu[year]	N	N	D
+en-unu6-gal	Enunugal[1]	PN	PN	D
+{d}inanna	Inanna[1][-ak]	DN	DN	D
+ba-hun	ba-hug[hire][-ø]	V	MID.V.3-SG-S	D
+lu2-kal-la	Lukala[1][-ra]	PN	PN.GEN	D
+dub-sar	dubsar[scribe]	N	N	D
+dumu	dumu[child]	N	N	D
+ur-e11-e	Ure'e[1][-ak]	PN	PN	D
+szusz3	kusz[cattle_manager][-ak]	N	N.GEN	D

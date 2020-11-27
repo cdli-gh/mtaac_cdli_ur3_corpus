@@ -1,0 +1,25 @@
+#new_text=P211724
+FORM	SEGM	XPOSTAG	XPOSTAG	POS
+4(barig)	4(bariga)[unit]	NU	N	D
+8(disz)	8(disz)[one]	NU	NU	D
+sila3	sila[unit]	N	N	D
+kasz	kasz[beer]	N	N	D
+dida	dida[sweet_wort]	N	N	D
+saga	saga[good][-ø]	V	NF.V.ABS	D
+4(u)	4(u)[ten]	NU	NU	D
+2(disz)	2(disz)[one]	NU	NU	D
+kasz	kasz[beer]	N	N	D
+dida	dida[sweet_wort]	N	N	D
+du	gin[quality_designation][-ø]	V	NF.V.ABS	D
+siskur2	siszkur[offering]	N	N	D
+e2	e[house]	N	N	D
+{d}en-lil2	Enlil[1]	DN	DN	D
+ki	ki[place]	N	N	D
+ku3-ga-ni-ta	_	PN	PN	Iabcdefgh
+ugu2	ugu[capital]	N	N	D
+lu2-{d}nin-szubur	Luninszubur[1][-ra]	PN	PN	D
+ba-a-gar	ba-e-gar[place][-ø]	V	MID.L2.V.3-SG-S	D
+mu	mu[year]	N	N	D
+ma2	ma[ship]	N	N	D
+{d}en-ki	Enki[1][-ak][-ø]	DN	DN.GEN.ABS	D
+ba-ab-du8	ba-b-du[caulk][-ø]	V	MID.3-SG-NH-L3.V.3-SG-S	D

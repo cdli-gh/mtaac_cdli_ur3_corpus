@@ -1,0 +1,27 @@
+#new_text=P378586
+FORM	SEGM	XPOSTAG	XPOSTAG	POS
+1(gesz2)	1(gesz)[sixty]	NU	NU	D
+1(u)	1(u)[ten]	NU	NU	D
+5(asz)	5(asz)[one]	NU	NU	D
+3(ban2)	3(ban)[unit]	NU	N	D
+5(disz)	5(disz)[one]	NU	NU	D
+sila3	sila[unit]	N	N	D
+sze	sze[barley]	N	N	D
+gur	gur[unit]	N	N	D
+ki	ki[place]	N	N	D
+lugal-{d}szul-gi-ta	_	PN	PN	Iabcdefgh
+ur-{d}ba-ba6	Urbaba[1]	PN	PN	D
+dumu	dumu[child]	N	N	D
+ur-li	Urli[1][-ra]	PN	PN	D
+lu2	lu[person]	N	N	D
+lunga	lungak[brewer][-ak]	N	N.GEN	D
+szu	szu[hand][-e]	N	N.L3-NH	D
+ba-ti	ba[-n]-teg[accept][-ø]	V	MID.3-SG-H-A.V.3-SG-P	D
+i3-dub	idub[granary]	N	N	D
+a-sza3	aszag[field]	N	N	D
+iri-ul	_	FN	FN	POS
+iti	iti[month]	N	N	D
+ezem-{d}li9-si4	_	MN	MN	POS
+mu	mu[year]	N	N	D
+sza-asz-ru{ki}	Szaszru[1][-ø]	SN	SN.ABS	D
+ba-hul	ba-hulu[destroy][-ø]	V	MID.V.3-SG-S	D

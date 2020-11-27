@@ -1,0 +1,21 @@
+#new_text=P120050
+FORM	SEGM	XPOSTAG	XPOSTAG	POS
+2(gesz2)	2(gesz)[sixty]	NU	NU	D
+5(u)	5(u)[ten]	NU	NU	D
+5(disz)	5(disz)[one]	NU	NU	D
+geme2	geme[female_worker]	N	N	D
+u4	ud[day]	N	N	D
+1(disz)-sze3	1(disz)[one]-sze	NU	NU.TERM	D
+kun-zi-da	kunzida[weir]	N	N	D
+u3-dag-ga	_	PN	PN	Iabcde
+gub-ba	gub[assigned]-a[-ak][-ø]	V	NF.V.PT	D
+iti	iti[month]	N	N	D
+{d}dumu-zi	Dumuzi[1][-'a]	MN	MN.L1	D
+mu	mu[year]	N	N	D
+e2	e[house]	N	N	D
+{d}szara2	Szara[1][-ak]	DN	DN	D
+ba-du3	ba-du[build][-ø]	V	MID.V.3-SG-S	D
+lu2-{d}szakkan2	_	PN	PN	Iabcde
+dub-sar	dubsar[scribe]	N	N	D
+dumu	dumu[child]	N	N	D
+...	_[_]	PN	N	D

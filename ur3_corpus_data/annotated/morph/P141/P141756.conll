@@ -1,0 +1,23 @@
+#new_text=P141756
+FORM	SEGM	XPOSTAG	XPOSTAG	POS
+2(szar2)	2(szar)[thirty-six_hundred]	NU	NU	D
+3(gesz2)	3(gesz)[sixty]	NU	NU	D
+3(disz)	3(disz)[one]	NU	NU	D
+2/3(disz)	2/3(disz)[one]	NU	NU	D
+geme2	geme[female_worker]	N	N	D
+u4	ud[day]	N	N	D
+1(disz)-sze3	1(disz)[one]-sze	NU	NU.TERM	D
+diri	diri[intercalary_month]	N	N	D
+nig2-ka9-ak	nigSZID[account]	N	N	D
+ki	ki[place]	N	N	D
+ur-abul-ta	_	PN	PN	Iabcdefgh
+ur-...	_[1][-ak]	PN	PN.GEN.ABS	D
+su	_	N	N	Ia
+ba-ti	ba[-n]-teg[accept][-ø]	V	MID.3-SG-H-A.V.3-SG-P	D
+x	_[_]	N	N	D
+...	_[_]	PN	N	D
+iti	iti[month]	N	N	D
+ab-e3	_	MN	MN	POS
+mu	mu[year]	N	N	D
+hu-hu-nu-ri{ki}	Huhunuri[1][-ø]	GN	SN.ABS	D
+ba-hul	ba-hulu[destroy][-ø]	V	MID.V.3-SG-S	D

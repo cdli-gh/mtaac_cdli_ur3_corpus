@@ -1,0 +1,14 @@
+#new_text=P225786
+FORM	SEGM	XPOSTAG	XPOSTAG	POS
+szunigin	szunigin[total]	N	N	D
+2(asz)	2(asz)[one]	NU	NU	D
+sze	sze[barley]	N	N	D
+gur	gur[unit]	N	N	D
+lugal	lugal[king]	N	N	D
+x	_[_]	N	N	D
+a2	a[time]	N	N	D
+lu2	lu[person]	N	N	D
+hun-ga2	hug[hire]-a	V	NF.V.PT	D
+gurx(|SZE.KIN|)	_	V	NF.V.PT.GEN	Iabcdef
+...-lugal	_	PN	PN	Iabcde
+...-kal-la	_	PN	PN	POS

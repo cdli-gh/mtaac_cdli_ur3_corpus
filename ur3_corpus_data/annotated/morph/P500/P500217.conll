@@ -1,0 +1,25 @@
+#new_text=P500217
+FORM	SEGM	XPOSTAG	XPOSTAG	POS
+2(u)	2(u)[ten]	NU	NU	D
+sze-kur	_	N	N	POS
+gur	gur[unit]	N	N	D
+sze-numun	szenumun[seed]	N	N	D
+a-sza3	aszag[field]	N	N	D
+...	_[_]	PN	N	D
+i3-dub	idub[granary]	N	N	D
+a-sza3	aszag[field]	N	N	D
+hub2-e	_	N	N	POS
+gar-ra	_	V	V	POS
+ki	ki[place]	N	N	D
+ba-zi-ta	_	PN	PN.GEN.DAT-H	Iabcdefg
+mu	mu[year]	N	N	D
+tul2-ta-sze3	_	PN	PN.GEN.TERM	Iab
+nimgir-an-ne2	Nimgirane[1][-ak]	PN	PN.GEN	D
+szu	szu[hand][-e]	N	N.L3-NH	D
+ba-ti	ba[-n]-teg[accept][-ø]	V	MID.3-SG-H-A.V.3-SG-P	D
+iti	iti[month]	N	N	D
+ezem-{d}ba-ba6	Ezembaba[1][-'a]	MN	MN.L1	D
+mu	mu[year]	N	N	D
+us2-sa	us[follow]-a	V	NF.V.PT	D
+ki-masz{ki}	Kimasz[1]	SN	SN.ABS	D
+ba-hul	ba-hulu[destroy][-ø]	V	MID.V.3-SG-S	D

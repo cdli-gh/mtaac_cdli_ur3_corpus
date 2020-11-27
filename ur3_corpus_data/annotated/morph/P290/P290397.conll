@@ -1,0 +1,19 @@
+#new_text=P290397
+FORM	SEGM	XPOSTAG	XPOSTAG	POS
+1(barig)	1(bariga)[unit]	NU	N	D
+1(ban2)	1(ban)[unit]	NU	N	D
+kasz	kasz[beer]	N	N	D
+saga	saga[good][-ø]	V	NF.V.ABS	D
+szar3	szar[cloth_designation][-ø]	V	NF.V.ABS	D
+3(barig)	3(bariga)[unit]	NU	N	D
+3(ban2)	3(ban)[unit]	NU	N	D
+kasz	kasz[beer]	N	N	D
+du	gin[quality_designation][-ø]	V	NF.V.ABS	D
+ki	ki[place]	N	N	D
+da-da-a-ta	_	PN	PN.GEN.GEN.ABL	Iab
+{d}nin-e2-gal-igi-du	_	PN	PN	POS
+szu	szu[hand][-e]	N	N.L3-NH	D
+ba-ti	ba[-n]-teg[accept][-ø]	V	MID.3-SG-H-A.V.3-SG-P	D
+sza3	szag[heart]	N	N	D
+dub-ba	[dub-ba]	N	dub[tablet]-ak	D
+{d}nin-e2-gal-igi-du	_	PN	PN	POS

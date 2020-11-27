@@ -1,0 +1,29 @@
+#new_text=P204301
+FORM	SEGM	XPOSTAG	XPOSTAG	POS
+4(gesz2)	4(gesz)[sixty]	NU	NU	D
+...	_[_]	PN	N	D
+2(u)	2(u)[ten]	NU	NU	D
+2(disz)	2(disz)[one]	NU	NU	D
+udu	udu[sheep]	N	N	D
+niga	niga[fattened][-ø]	V	NF.V.ABS	D
+...	_[_]	PN	N	D
+1(gesz2)	1(gesz)[sixty]	NU	NU	D
+5(u)	5(u)[ten]	NU	NU	D
+5(disz)	5(disz)[one]	NU	NU	D
+udu	udu[sheep]	N	N	D
+...	_[_]	PN	N	D
+szu-gid2	szugid[animal_designation][-ø]	N	N	D
+...-x-ta	_	PN	PN.GEN.ABL	Iabcdef
+...-x-kal-...-ta	_	 	 	POS
+...-x-KU	_	PN	PN	Iabcde
+x	_[_]	N	N	D
+x	_[_]	N	N	D
+nig2-ezem-ma	nigezema[festival_material]	PN	N	D
+dingir-re-ne-sze3	_	PN	PN	POS
+iti	iti[month]	N	N	D
+GAN2-masz-ta	Ganmasz[1][-ak]-ta	MN	MN.GEN.ABL	D
+iti	iti[month]	N	N	D
+sze-i3-la-sze3	_	MN	MN.TERM	Iab
+mu	mu[year]	N	N	D
+{d}amar-{d}suen	Amarsuen[1]	RN	RN	D
+lugal	lugal[king]	N	N	D

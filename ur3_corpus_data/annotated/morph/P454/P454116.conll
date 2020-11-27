@@ -1,0 +1,27 @@
+#new_text=P454116
+FORM	SEGM	XPOSTAG	XPOSTAG	POS
+4(gesz'u)	4(gesz'u)[six_hundred]	NU	NU	D
+4(gesz2)	4(gesz)[sixty]	NU	NU	D
+4(u)	4(u)[ten]	NU	NU	D
+2(disz)	2(disz)[one]	NU	NU	D
+gurusz	gurusz[male]	N	N	D
+u4	ud[day]	N	N	D
+1(disz)-sze3	1(disz)[one]-sze	NU	NU.TERM	D
+sze-gesz-i3	szegeszi[sesame_seed]	PN	N	D
+ib2-ur4	_	V	V	POS
+ib2-tab	_	V	V	POS
+u3	u[and]	CNJ	CNJ	D
+gesz	gesz[tree]	N	N	D
+bi2-ib2-ra	_	V	V	POS
+iri-sa12-rig7{ki}-sze3	_	SN	SN.GEN.TERM	Iabcd
+ib2-il2	_	V	V	POS
+ugula	ugula[overseer][-ø]	N	N	D
+a-li2-ni-su	_	PN	PN	D
+giri3	giri[foot]	N	N	D
+lugal-im-ru-a	_	PN	PN	Iabcde
+mu	mu[year]	N	N	D
+en	en[priest]	N	N	D
+{d}inanna	Inanna[1][-ak]	DN	DN	D
+unu{ki}-ga	Unug[1]-ak[-ak][-ø]	SN	SN.GEN	D
+masz2-e	masz[goat]-e	N	N.L3-NH	D
+i3-pa3	i-pad[find][-ø]	V	FIN.V.3-SG-S	D

@@ -1,0 +1,26 @@
+#new_text=P291145
+FORM	SEGM	XPOSTAG	XPOSTAG	POS
+1(u)	1(u)[ten]	NU	NU	D
+6(disz)	6(disz)[one][-sze]	NU	NU	D
+geme2	geme[female_worker]	N	N	D
+u4	ud[day]	N	N	D
+1(disz)-sze3	1(disz)[one]-sze	NU	NU.TERM	D
+sze	sze[barley]	N	N	D
+e2-szu-tum-sze3	_	PN	PN	POS
+ga6-ga2	gag[carry]-a	V	NF.V.PT	D
+ki	ki[place]	N	N	D
+{d}szara2-za-me-ta	_	PN	PN.GEN.ABL	Iab
+kiszib3	kiszib[seal]	N	N	D
+ARAD2	arad[slave]	N	N	D
+iti	iti[month]	N	N	D
+nesag	Nesag[1][-'a]	N	MN.L1	D
+mu	mu[year]	N	N	D
+{d}amar-{d}suen	Amarsuen[1]	RN	RN	D
+lugal	lugal[king]	N	N	D
+ur-bi2-lum{ki}	Urbilum[1][-ø]	GN	SN.ABS	D
+mu-hul	mu[-n]-hulu[destroy][-ø]	V	VEN.3-SG-H-A.V.3-SG-P	D
+ARAD2-mu	Aradmu[1]	PN	PN	D
+dub-sar	dubsar[scribe]	N	N	D
+dumu	dumu[child]	N	N	D
+ur-nigar{gar}	Urnigar[1]	PN	PN	D
+szusz3	kusz[cattle_manager][-ak]	N	N.GEN	D

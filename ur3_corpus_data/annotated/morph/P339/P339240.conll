@@ -1,0 +1,24 @@
+#new_text=P339240
+FORM	SEGM	XPOSTAG	XPOSTAG	POS
+3(asz)	3(asz)[one]	NU	NU	D
+1(barig)	1(bariga)[unit]	NU	N	D
+dabin	dabin[semolina]	N	N	D
+gur	gur[unit]	N	N	D
+2(barig)	2(bariga)[unit]	NU	N	D
+sze	sze[barley]	N	N	D
+sza3-gal	szaggal[food]	N	N	D
+ansze	ansze[donkey]	N	N	D
+aga3-us2	aga'us[soldier]	N	N	D
+lugal	lugal[king]	N	N	D
+giri3	giri[foot]	N	N	D
+ha-ab-ru-sza	_	PN	PN	Iabcdefgh
+kiszib3	kiszib[seal]	N	N	D
+lugal-inim-gi-na	Lugalinimgina[1][-ak]	PN	PN	D
+sukkal	sukkal[secretary][-ak][-ra]	N	N	D
+maszkim	maszkim[administrator]	N	N.ABS	D
+iti	iti[month]	N	N	D
+ezem-{d}szul-gi	Ezemszulgir[1][-'a]	MN	MN.L1	D
+mu	mu[year]	N	N	D
+en-unu6-gal	Enunugal[1]	PN	PN	D
+{d}inanna	Inanna[1][-ak]	DN	DN	D
+ba-hun	ba-hug[hire][-ø]	V	MID.V.3-SG-S	D

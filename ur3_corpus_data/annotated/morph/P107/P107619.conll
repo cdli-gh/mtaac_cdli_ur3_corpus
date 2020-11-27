@@ -1,0 +1,27 @@
+#new_text=P107619
+FORM	SEGM	XPOSTAG	XPOSTAG	POS
+1(disz)	1(disz)[one]	NU	NU	D
+gu4	gud[ox]	N	N	D
+2(disz)	2(disz)[one]	NU	NU	D
+ab2	ab[cow][-ø]	N	N	D
+gu4-gesz	gudgesz[draught_ox]	N	N.ABS	D
+1(disz)-sze3	1(disz)[one]-sze	NU	NU.TERM	D
+larsa{ki}-sze3	_	SN	SN	POS
+giri3	giri[foot]	N	N	D
+i3-lum-a-bi	_	PN	PN	Iabcdefgh
+lu2	lu[person]	N	N	D
+ma-ri2{ki}	_	SN	SN.GEN.GEN.L1	Iabcdefg
+iti	iti[month]	N	N	D
+u4	ud[day]	N	N	D
+2(u)	2(u)[ten]	NU	NU	D
+5(disz)	5(disz)[one]	NU	NU	D
+ba-zal	ba-zal[pass][-ø][-a][-'a]	V	MID.V.3-SG-S.SUB	D
+ki	ki[place]	N	N	D
+lu2-dingir-ra-ta	Ludingira[1][-ak]-ta	PN	PN.GEN.ABL	D
+na-sa6	Nasa[1][-e]	PN	PN.ERG	D
+i3-dab5	i[-n]-dab[seize][-ø]	V	FIN.3-SG-H-A.V.3-SG-P	D
+iti	iti[month]	N	N	D
+ki-siki-{d}nin-a-zu	Kisikininazu[1][-'a]	MN	MN.L1	D
+mu	mu[year]	N	N	D
+hu-ur5-ti{ki}	Hurti[1][-ø]	GN	SN.ABS	D
+ba-hul	ba-hulu[destroy][-ø]	V	MID.V.3-SG-S	D

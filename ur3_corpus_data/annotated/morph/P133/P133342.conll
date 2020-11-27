@@ -1,0 +1,36 @@
+#new_text=P133342
+FORM	SEGM	XPOSTAG	XPOSTAG	POS
+8(gesz2)	8(gesz2)[sixty]	NU	NU	D
+2(u)	2(u)[ten]	NU	NU	D
+1(disz)	1(disz)[one]	NU	NU	D
+udu	udu[sheep]	N	N	D
+2(u)	2(u)[ten]	NU	NU	D
+5(disz)	5(disz)[one]	NU	NU	D
+masz2	masz[goat]	N	N	D
+a2-u2-u2	_	PN	PN	Iabcdefgh
+sipa	sipa[shepherd]	N	N	D
+udu	udu[sheep]	N	N	D
+lu2-kal-kal-la	_	PN	PN	Iabcde
+szabra	szabra[chief_administrator][-ak]	N	N	D
+1(gesz2)	1(gesz)[sixty]	NU	NU	D
+2(disz)	2(disz)[one]	NU	NU	D
+udu	udu[sheep]	N	N	D
+5(disz)	5(disz)[one]	NU	NU	D
+masz2	masz[goat]	N	N	D
+udu	udu[sheep]	N	N	D
+lu2-x-x-i3-x-(x)	_	PN	PN	Iabcde
+3(u)	3(u)[ten]	NU	NU	D
+3(disz)	3(disz)[one]	NU	NU	D
+x	_[_]	N	N	D
+udu	udu[sheep]	N	N	D
+2(u)	2(u)[ten]	NU	NU	D
+1(disz)	1(disz)[one]	NU	NU	D
+masz2	masz[goat]	N	N	D
+udu	udu[sheep]	N	N	D
+TAR-...	_	 	 	POS
+nig2-ka9-ak	nigSZID[account]	N	N	D
+a-sza3	aszag[field]	N	N	D
+du-a-bi	_	FN	FN	POS
+mu	mu[year]	N	N	D
+si-mu-ru-um{ki}	Simurrum[1]	SN	SN.ABS	D
+ba-hul	ba-hulu[destroy][-ø]	V	MID.V.3-SG-S	D

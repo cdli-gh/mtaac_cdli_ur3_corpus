@@ -1,0 +1,24 @@
+#new_text=P105222
+FORM	SEGM	XPOSTAG	XPOSTAG	POS
+pisan-dub-ba	bisagdubak[filing_basket]	N	N	D
+e2-tum	bitum[administrative_term]	PN	N	D
+sag-nig2-gur11-ra	sagnigGArak[available_assets]	N	N	D
+u3	u[and]	CNJ	CNJ	D
+zi-ga	zig[expend]-a	V	NF.V.PT	D
+ta2-hi-isz-a-tal	Tahiszatal[1][-ak]	PN	PN	D
+iti	iti[month]	N	N	D
+ezem-{d}nin-a-zu	Ezemninazu[1][-'a]	MN	MN.L1	D
+u4	ud[day]	N	N	D
+1(u)	1(u)[ten]	NU	NU	D
+8(disz)	8(disz)[one]	NU	NU	D
+zal-la-ta	zal[pass]-a-ta	V	NF.V.PT.ABL	D
+iti	iti[month]	N	N	D
+sze-sag11-ku5-sze3	Szesagku[1]-sze	MN	MN.TERM	D
+iti	iti[month]	N	N	D
+7(disz)	7(disz)[one][-sze]	NU	NU	D
+u4	ud[day]	N	N	D
+1(u)	1(u)[ten]	NU	NU	D
+2(disz)-kam	2(disz)[one]-ak-am	NU	NU.GEN.COP-3-SG	D
+mu	mu[year]	N	N	D
+sza-asz-ru{ki}	Szaszru[1][-ø]	SN	SN.ABS	D
+ba-hul	ba-hulu[destroy][-ø]	V	MID.V.3-SG-S	D

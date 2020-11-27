@@ -1,0 +1,27 @@
+#new_text=P143351
+FORM	SEGM	XPOSTAG	XPOSTAG	POS
+1(disz)	1(disz)[one]	NU	NU	D
+gurusz	gurusz[male]	N	N	D
+iti	iti[month]	N	N	D
+2(disz)	2(disz)[one]	NU	NU	D
+u4	ud[day]	N	N	D
+8(disz)-sze3	8(disz)[one]-sze	NU	NU.TERM	D
+iti	iti[month]	N	N	D
+ezem-{d}szul-gi	Ezemszulgir[1][-'a]	MN	MN.L1	D
+iti	iti[month]	N	N	D
+pa4-u2-e	Pa'u'e[1][-'a]	MN	MN.L1	D
+u3	u[and]	CNJ	CNJ	D
+iti	iti[month]	N	N	D
+{d}dumu-zi	Dumuzi[1][-'a]	MN	MN.L1	D
+u4	ud[day]	N	N	D
+2(u)	2(u)[ten]	NU	NU	D
+2(disz)	2(disz)[one]	NU	NU	D
+im-da-gal2-sze3	_	PN	PN	POS
+ugula	ugula[overseer][-ø]	N	N	D
+ur-e2-an-na	_	PN	PN	D
+mu	mu[year]	N	N	D
+{d}nanna	Nanna[1][-ak]	DN	DN	D
+lu2-kal-la	Lukala[1][-ra]	PN	PN.GEN	D
+dub-sar	dubsar[scribe]	N	N	D
+dumu	dumu[child]	N	N	D
+lugal-en-nun	Lugalennun[1][-ak]	PN	PN.GEN	D

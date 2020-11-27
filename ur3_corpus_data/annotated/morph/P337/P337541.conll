@@ -1,0 +1,22 @@
+#new_text=P337541
+FORM	SEGM	XPOSTAG	XPOSTAG	POS
+6(disz)	6(disz)[one][-sze]	NU	NU	D
+nigin	_	N	N	Ia
+szum2	szum[garlic]	N	N	D
+gaz	gaz[type_of_garlic][-ak]	N	N	D
+2(barig)	2(bariga)[unit]	NU	N	D
+sze	sze[barley]	N	N	D
+lu2	lu[person]	N	N	D
+2(barig)	2(bariga)[unit]	NU	N	D
+gazi	gazi[condiment]	N	N	D
+2(gesz'u)	2(gesz'u)[six_hundred]	NU	NU	D
+2(gesz2)	2(gesz)[sixty]	NU	NU	D
+sa	sa[bundle]	N	N	D
+{u2}en	_	N	N	Ia
+...	_[_]	PN	N	D
+ensi2-ka-sze3	ensik[ruler]-ak-sze	N	N.GEN.TERM	D
+ki	ki[place]	N	N	D
+ur-{d}szul-pa-e3-ta	Urszulpa'e[1][-ak]-ta	PN	PN.GEN.ABL	D
+mu	mu[year]	N	N	D
+hu-uh2-nu-ri{ki}	Huhnuri[1][-ø]	GN	SN.ABS	D
+ba-hul	ba-hulu[destroy][-ø]	V	MID.V.3-SG-S	D

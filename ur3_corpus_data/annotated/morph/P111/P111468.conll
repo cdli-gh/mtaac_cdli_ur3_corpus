@@ -1,0 +1,15 @@
+#new_text=P111468
+FORM	SEGM	XPOSTAG	XPOSTAG	POS
+...	_[_]	PN	N	D
+kusz	kusz[leather]	N	N	D
+udu	udu[sheep]	N	N	D
+...	_[_]	PN	N	D
+x-sze3	_	PN	PN.GEN.TERM	Iabcdef
+...	_[_]	PN	N	D
+kusz	kusz[leather]	N	N	D
+masz2	masz[goat]	N	N	D
+...	_[_]	PN	N	D
+x-sze3	_	PN	PN.GEN.TERM	Iabcdef
+...	_[_]	PN	N	D
+x-lu2	_	PN	PN.DAT-H	Iab
+...-ti	_[_]	PN	PN.GEN.ABL	Iabcdefgh

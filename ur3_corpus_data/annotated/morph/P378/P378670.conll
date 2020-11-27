@@ -1,0 +1,28 @@
+#new_text=P378670
+FORM	SEGM	XPOSTAG	XPOSTAG	POS
+1(ban2)	1(ban)[unit]	NU	N	D
+8(disz)	8(disz)[one]	NU	NU	D
+sila3	sila[unit]	N	N	D
+za-ha-din	_	FN	FN	POS
+mu	mu[year]	N	N	D
+szum2	szum[garlic]	N	N	D
+gaz-sze3	_	V	V	POS
+1(ban2)	1(ban)[unit]	NU	N	D
+7(disz)	7(disz)[one][-sze]	NU	NU	D
+1/2(disz)	1/2(disz)[one]	NU	NU	D
+sila3	sila[unit]	N	N	D
+szum2	szum[garlic]	N	N	D
+gaz	gaz[type_of_garlic][-ak]	N	N	D
+	_	_
+ki	ki[place]	N	N	D
+a-gi4-ta	_	PN	PN	POS
+kiszib3	kiszib[seal]	N	N	D
+lugal-ur-sag	_	PN	PN.DAT-H	Iab
+giri3	giri[foot]	N	N	D
+ur-{d}ba-ba6	Urbaba[1]	PN	PN	D
+iti	iti[month]	N	N	D
+amar-a-a-si	Amarayasi[1][-'a]	MN	MN.L1	D
+mu	mu[year]	N	N	D
+bad3	bad[wall]	N	N	D
+mar-tu	Martu[1][-ø]	EN	EN.ABS	D
+ba-du3	ba-du[build][-ø]	V	MID.V.3-SG-S	D

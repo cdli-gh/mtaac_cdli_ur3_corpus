@@ -1,0 +1,20 @@
+#new_text=P110006
+FORM	SEGM	XPOSTAG	XPOSTAG	POS
+9(asz)	9(asz)[one]	NU	NU	D
+gu2	gun[unit]	N	N	D
+3(u)	3(u)[ten]	NU	NU	D
+2/3(disz)	2/3(disz)[one]	NU	NU	D
+ma-na	mana[unit]	N	N	D
+siki-gi	sikigi[wool_type]	N	N	D
+e2	e[house]	N	N	D
+ur-dun-ta	_	PN	PN.GEN.ABL	Iabcdef
+ki	ki[place]	N	N	D
+ur-dam-ta	_	PN	PN.GEN.ABL	Iab
+ur-gu-la	_	PN	PN	Ia
+szu	szu[hand][-e]	N	N.L3-NH	D
+ba-ti	ba[-n]-teg[accept][-ø]	V	MID.3-SG-H-A.V.3-SG-P	D
+...-na-gu4-sze3	_	 	 	POS
+mu	mu[year]	N	N	D
+{gesz}gu-za-mah	_	N	N.3-SG-H-POSS.ABS	Iabcdefg
+{d}en-lil2-la2	Enlil[1][-ak][-ø]	DN	DN.GEN	D
+ba-dim2	ba-dim[create][-ø]	V	MID.V.3-SG-S	D

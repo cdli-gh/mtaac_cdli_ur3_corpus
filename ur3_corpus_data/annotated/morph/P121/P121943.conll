@@ -1,0 +1,11 @@
+#new_text=P121943
+FORM	SEGM	XPOSTAG	XPOSTAG	POS
+1(gesz2)	1(gesz)[sixty]	NU	NU	D
+2(u)	2(u)[ten]	NU	NU	D
+sze	sze[barley]	N	N	D
+gur	gur[unit]	N	N	D
+{d}eb-gal	_	DN	DN	Iabcde
+u3	u[and]	CNJ	CNJ	D
+{d}en-ki	Enki[1][-ak][-ø]	DN	DN.GEN.ABS	D
+sze	sze[barley]	N	N	D
+gu2-edin-na	Gu'edina[1][-ak][-'a]	SN	SN.GEN.L1	D

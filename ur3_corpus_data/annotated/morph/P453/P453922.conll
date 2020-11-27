@@ -1,0 +1,24 @@
+#new_text=P453922
+FORM	SEGM	XPOSTAG	XPOSTAG	POS
+1(barig)	1(bariga)[unit]	NU	N	D
+1(ban2)	1(ban)[unit]	NU	N	D
+8(disz)	8(disz)[one]	NU	NU	D
+sila3	sila[unit]	N	N	D
+kasz	kasz[beer]	N	N	D
+u4	ud[day]	N	N	D
+1(disz)-kam	1(disz)[one]-ak-am	NU	NU.GEN.COP-3-SG	D
+u4	ud[day]	N	N	D
+3(u)-sze3	3(u)[ten]-sze	NU	NU.TERM	D
+kasz-bi	_	N	N.3-SG-NH-POSS.ABS	Iabcde
+2(barig)	2(bariga)[unit]	NU	N	D
+gur	gur[unit]	N	N	D
+...-e-ne	_	V	V	POS
+ib2-nag	_	V	V	POS
+ugula*	_	N	N.ABS	Iabcdefghij
+a*-li2-ni-szu	_	PN	PN	Ia
+zi-ga	zig[expend]-a	V	NF.V.PT	D
+iti	iti[month]	N	N	D
+szu-gar-gal	Szugargal[1][-'a]	MN	MN.L1	D
+mu	mu[year]	N	N	D
+{d}i-bi2-{d}suen	Ibbisuen[1]	RN	RN	D
+lugal	lugal[king]	N	N	D

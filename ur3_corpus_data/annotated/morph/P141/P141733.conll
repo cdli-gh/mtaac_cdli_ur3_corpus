@@ -1,0 +1,25 @@
+#new_text=P141733
+FORM	SEGM	XPOSTAG	XPOSTAG	POS
+7(gesz2)	7(gesz)[sixty]	NU	NU	D
+3(u)	3(u)[ten]	NU	NU	D
+8(disz)	8(disz)[one]	NU	NU	D
+1/2(disz)	1/2(disz)[one]	NU	NU	D
+a2	a[time]	N	N	D
+gurusz	gurusz[male]	N	N	D
+dumu-gi7	dumugi[citizen]	N	N	D
+u4	ud[day]	N	N	D
+1(disz)-sze3	1(disz)[one]-sze	NU	NU.TERM	D
+5(gesz2)	5(gesz)[sixty]	NU	NU	D
+1(u)	1(u)[ten]	NU	NU	D
+2(disz)	2(disz)[one]	NU	NU	D
+a2	a[time]	N	N	D
+geme2	geme[female_worker]	N	N	D
+u4	ud[day]	N	N	D
+1(disz)-sze3	1(disz)[one]-sze	NU	NU.TERM	D
+la2-ia3	la'u[arrears]	N	N	D
+su-ga-ni	_	N	N	POS
+lu2-gi-na	Lugina[1][-ak][-ak]	PN	PN.GEN	D
+i3-dab5	i[-n]-dab[seize][-ø]	V	FIN.3-SG-H-A.V.3-SG-P	D
+mu	mu[year]	N	N	D
+sza-asz-ru{ki}	Szaszru[1][-ø]	SN	SN.ABS	D
+ba-hul	ba-hulu[destroy][-ø]	V	MID.V.3-SG-S	D

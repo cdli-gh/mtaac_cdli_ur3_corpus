@@ -1,0 +1,25 @@
+#new_text=P119446
+FORM	SEGM	XPOSTAG	XPOSTAG	POS
+1(gesz2)	1(gesz)[sixty]	NU	NU	D
+1(u)	1(u)[ten]	NU	NU	D
+6(disz)	6(disz)[one][-sze]	NU	NU	D
+geme2	geme[female_worker]	N	N	D
+u4	ud[day]	N	N	D
+1(disz)-sze3	1(disz)[one]-sze	NU	NU.TERM	D
+zar3	zar[sheaf]	N	N	D
+tab-ba	tab[grasp]-a	V	NF.V.PT	D
+szu	szu[hand][-e]	N	N.L3-NH	D
+ur3-ra	ur[level_off]-a	V	NF.V.PT	D
+a-sza3	aszag[field]	N	N	D
+a-gesztin-na	_	FN	FN	POS
+ugula	ugula[overseer][-ø]	N	N	D
+lugal-e2-mah-e	Lugalemahe[1]	N	PN	D
+kiszib3	kiszib[seal]	N	N	D
+nimgir-an-ne2	Nimgirane[1][-ak]	PN	PN.GEN	D
+mu	mu[year]	N	N	D
+hu-uh2-nu-ri{ki}	Huhnuri[1][-ø]	GN	SN.ABS	D
+ba-hul	ba-hulu[destroy][-ø]	V	MID.V.3-SG-S	D
+nimgir-an-ne2	Nimgirane[1][-ak]	PN	PN.GEN	D
+dub-sar	dubsar[scribe]	N	N	D
+dumu	dumu[child]	N	N	D
+inim-{d}szara2	Inimszara[1][-ak][-ra]	PN	PN	D

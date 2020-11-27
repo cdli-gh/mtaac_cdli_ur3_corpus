@@ -1,0 +1,18 @@
+#new_text=P139980
+FORM	SEGM	XPOSTAG	XPOSTAG	POS
+8(disz)	8(disz)[one]	NU	NU	D
+gurusz	gurusz[male]	N	N	D
+u4	ud[day]	N	N	D
+7(disz)-sze3	7(disz)[one]-sze	NU	NU.TERM	D
+ga2-nun	_	N	N	D
+du3-a	du[build]-a	V	NF.V.PT	D
+u3	u[and]	CNJ	CNJ	D
+us2	us[follow][-ø]	V	NF.V.ABS	D
+kar-ra	_	V	V	POS
+ugula	ugula[overseer][-ø]	N	N	D
+ba-sa6	Basa[1][-ak]	PN	PN.GEN	D
+kiszib3	kiszib[seal]	N	N	D
+szesz-kal-la	Szeszkala[1][-ra]	PN	PN	D
+mu	mu[year]	N	N	D
+{d}szu-{d}suen	Szusuen[1]	RN	RN	D
+lugal	lugal[king]	N	N	D

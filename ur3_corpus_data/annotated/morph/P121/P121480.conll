@@ -1,0 +1,27 @@
+#new_text=P121480
+FORM	SEGM	XPOSTAG	XPOSTAG	POS
+5(disz)	5(disz)[one]	NU	NU	D
+sila3	sila[unit]	N	N	D
+zi3	zid[flour]	N	N	D
+sig15	sig[flour_type]	V	N	D
+2(disz)	2(disz)[one]	NU	NU	D
+sila3	sila[unit]	N	N	D
+esza	esza[flour]	N	N	D
+2(disz)	2(disz)[one]	NU	NU	D
+sila3	sila[unit]	N	N	D
+dabin	dabin[semolina]	N	N	D
+{d}ne3-eri11-gal	_	DN	DN.GEN.DAT-H	Iabcdefgh
+ur-mes	Urmes[1]	PN	PN	D
+ki	ki[place]	N	N	D
+lu2-bala-sa6-ga-ta	_	PN	PN.GEN.ABL	Iab
+ba-zi	ba-zig[expend][-ø]	PN	MID.V.3-SG-S	D
+iti	iti[month]	N	N	D
+ab-e3	_	MN	MN	POS
+u4	ud[day]	N	N	D
+1(u)	1(u)[ten]	NU	NU	D
+1(disz)	1(disz)[one]	NU	NU	D
+ba-zal	ba-zal[pass][-ø][-a][-'a]	V	MID.V.3-SG-S.SUB	D
+mu	mu[year]	N	N	D
+e2	e[house]	N	N	D
+{d}szara2	Szara[1][-ak]	DN	DN	D
+ba-du3	ba-du[build][-ø]	V	MID.V.3-SG-S	D

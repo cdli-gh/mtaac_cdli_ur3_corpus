@@ -1,0 +1,21 @@
+#new_text=P137226
+FORM	SEGM	XPOSTAG	XPOSTAG	POS
+2(ban2)	2(ban)[unit]	NU	N	D
+zi3	zid[flour]	N	N	D
+sig15	sig[flour_type]	V	N	D
+5(disz)	5(disz)[one]	NU	NU	D
+sila3	sila[unit]	N	N	D
+zi3	zid[flour]	N	N	D
+gazx(KUM)	gaz[thresh][-ø]	V	NF.V.PT	D
+5(disz)	5(disz)[one]	NU	NU	D
+sila3	sila[unit]	N	N	D
+zi3-gu	zidgu[flour_type]	N	N	D
+saga	saga[good][-ø]	V	NF.V.ABS	D
+e2-kiszib3-ba-ta	_	TN	TN	POS
+ki	ki[place]	N	N	D
+nin-sze3	_	PN	PN.GEN.TERM	Iabcdef
+giri3	giri[foot]	N	N	D
+szar-ru-um-i3-li2	Szarrumili[1][-ak]	PN	PN.GEN	D
+iti	iti[month]	N	N	D
+a2-ki-ti	Akiti[1][-'a]	N	MN.L1	D
+ba-zi	ba-zig[expend][-ø]	PN	MID.V.3-SG-S	D

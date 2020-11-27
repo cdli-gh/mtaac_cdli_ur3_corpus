@@ -1,0 +1,22 @@
+#new_text=P329426
+FORM	SEGM	XPOSTAG	XPOSTAG	POS
+4(disz)	4(disz)[one]	NU	NU	D
+geme2	geme[female_worker]	N	N	D
+u4	ud[day]	N	N	D
+1(disz)-sze3	1(disz)[one]-sze	NU	NU.TERM	D
+sze	sze[barley]	N	N	D
+2(disz)	2(disz)[one]	NU	NU	D
+sila3-ta	sila[unit]-ta	N	N.ABL	D
+u4	ud[day]	N	N	D
+1(disz)-sze3	1(disz)[one]-sze	NU	NU.TERM	D
+...	_[_]	PN	N	D
+x-za-x-x-x	_	DN	DN	POS
+x-gu-na	_	DN	DN	POS
+x-du3	_	PN	PN	Iabcde
+mu	mu[year]	N	N	D
+ma-da	mada[land][-ak][-ø]	N	N	D
+za-ab-sza-li{ki}	Zabszali[1][-ak][-ø]	GN	SN.GEN.ABS	D
+mu-hul	mu[-n]-hulu[destroy][-ø]	V	VEN.3-SG-H-A.V.3-SG-P	D
+{d}ma-lik-ba-ni	_	PN	PN.DAT-H	Iabcdefgh
+ARAD2	arad[slave]	N	N	D
+na-ra-am-i3-li2	Naramili[1]	PN	PN	D

@@ -1,0 +1,26 @@
+#new_text=P103782
+FORM	SEGM	XPOSTAG	XPOSTAG	POS
+3(u)	3(u)[ten]	NU	NU	D
+8(asz)	8(asz)[one]	NU	NU	D
+sze	sze[barley]	N	N	D
+gur	gur[unit]	N	N	D
+sze	sze[barley]	N	N	D
+ur5-ra	urra[loan]	N	N	D
+{d}nin-urta	Ninurta[1][-ra]	DN	DN	D
+ki	ki[place]	N	N	D
+lugal-he2-gal2	Lugalhegal[1]	PN	PN	D
+erin2-tur	_	N	N	POS
+{d}en-lil2-ta	_	DN	DN.GEN.GEN.GEN.ABL	Iabcdefg
+...	_[_]	PN	N	D
+ugula	ugula[overseer][-ø]	N	N	D
+ma-an-szum2	Manszum[1][-ak]	PN	PN.GEN	D
+iti	iti[month]	N	N	D
+udru{duru5}	_	N	N	Ia
+u4	ud[day]	N	N	D
+2(u)	2(u)[ten]	NU	NU	D
+7(disz)	7(disz)[one][-sze]	NU	NU	D
+ba-zal	ba-zal[pass][-ø][-a][-'a]	V	MID.V.3-SG-S.SUB	D
+mu	mu[year]	N	N	D
+en	en[priest]	N	N	D
+ga-esz-a{ki}	_	SN	SN.GEN.ABS	Ia
+ba-hun	ba-hug[hire][-ø]	V	MID.V.3-SG-S	D

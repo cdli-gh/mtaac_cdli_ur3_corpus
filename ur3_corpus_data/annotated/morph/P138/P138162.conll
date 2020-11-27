@@ -1,0 +1,27 @@
+#new_text=P138162
+FORM	SEGM	XPOSTAG	XPOSTAG	POS
+2(disz)	2(disz)[one]	NU	NU	D
+x	_[_]	N	N	D
+1(disz)	1(disz)[one]	NU	NU	D
+szu	szu[hand][-e]	N	N.L3-NH	D
+a2	a[time]	N	N	D
+dab	_	V	V	POS
+...	_[_]	PN	N	D
+sze	sze[barley]	N	N	D
+a	a[water][-ø]	N	N.ABS	D
+...	_[_]	PN	N	D
+ki	ki[place]	N	N	D
+x-x-szu	_	PN	PN	Ia
+zadim	zadim[stone_cutter]	N	N	D
+x-ta	_	PN	PN.GEN.ABL	Iabcdef
+masz-da3	maszda[gazelle][-ø]	N	N	D
+{d}iszkur-ba:ni	_	PN	PN.DAT-H	Iabcdefgh
+i3-dab5	i[-n]-dab[seize][-ø]	V	FIN.3-SG-H-A.V.3-SG-P	D
+...	_[_]	PN	N	D
+iti	iti[month]	N	N	D
+ezem-an-na	Ezemanna[1][-'a]	MN	MN.L1	D
+mu	mu[year]	N	N	D
+...	_[_]	PN	N	D
+gal	gal[big][-ø]	V	NF.V.ABS	D
+ba-du3	ba-du[build][-ø]	V	MID.V.3-SG-S	D
+...	_[_]	PN	N	D

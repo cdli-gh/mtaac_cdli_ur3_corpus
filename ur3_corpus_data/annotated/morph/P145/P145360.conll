@@ -1,0 +1,23 @@
+#new_text=P145360
+FORM	SEGM	XPOSTAG	XPOSTAG	POS
+2(gesz2)	2(gesz)[sixty]	NU	NU	D
+2(u)	2(u)[ten]	NU	NU	D
+6(disz)	6(disz)[one][-sze]	NU	NU	D
+{gesz}e2-da	_	PN	PN	POS
+1(u)	1(u)[ten]	NU	NU	D
+7(disz)	7(disz)[one][-sze]	NU	NU	D
+gesz	gesz[tree]	N	N	D
+gal	gal[big][-ø]	V	NF.V.ABS	D
+3(disz)	3(disz)[one]	NU	NU	D
+{gesz}ig	ig[door]	N	N	D
+du8-a	du[spread][-a][-ø]	V	NF.V.PT.ABS	D
+3(disz)	3(disz)[one]	NU	NU	D
+{gesz}ig	ig[door]	N	N	D
+kid	kid[mat]	N	N	D
+e2-gu-la	_	FN	FN	POS
+1(u)	1(u)[ten]	NU	NU	D
+8(disz)	8(disz)[one]	NU	NU	D
+{gesz}e2-da	_	PN	PN	POS
+9(disz)	9(disz)[one]	NU	NU	D
+gesz	gesz[tree]	N	N	D
+gal	gal[big][-ø]	V	NF.V.ABS	D

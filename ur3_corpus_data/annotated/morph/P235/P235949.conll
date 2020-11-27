@@ -1,0 +1,24 @@
+#new_text=P235949
+FORM	SEGM	XPOSTAG	XPOSTAG	POS
+4(asz)	4(asz)[one]	NU	NU	D
+1(barig)	1(bariga)[unit]	NU	N	D
+1(ban2)	1(ban)[unit]	NU	N	D
+5(disz)	5(disz)[one]	NU	NU	D
+sila3	sila[unit]	N	N	D
+sze	sze[barley]	N	N	D
+gur	gur[unit]	N	N	D
+sze-ba	szeba[ration]	N	N	D
+dah-hu	_	PN	PN	Iabcde
+li-bur-be-li2	_	PN	PN.GEN.ABS	Iab
+dub-sar	dubsar[scribe]	N	N	D
+ki	ki[place]	N	N	D
+ku-li	Kuli[1]	PN	PN	D
+szabra-ta	_	N	N.ABL	Iabcde
+ba-zi	ba-zig[expend][-ø]	PN	MID.V.3-SG-S	D
+iti	iti[month]	N	N	D
+a2-ki-ti	Akiti[1][-'a]	N	MN.L1	D
+mu	mu[year]	N	N	D
+{d}amar-{d}suen	Amarsuen[1]	RN	RN	D
+lugal-e	lugal[king]-e	N	N.ERG	D
+ur-bi2-lum{ki}	Urbilum[1][-ø]	GN	SN.ABS	D
+mu-hul	mu[-n]-hulu[destroy][-ø]	V	VEN.3-SG-H-A.V.3-SG-P	D

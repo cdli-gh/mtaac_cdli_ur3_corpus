@@ -1,0 +1,27 @@
+#new_text=P210390
+FORM	SEGM	XPOSTAG	XPOSTAG	POS
+1(gesz2)	1(gesz)[sixty]	NU	NU	D
+4(u)	4(u)[ten]	NU	NU	D
+3(disz)	3(disz)[one]	NU	NU	D
+gurusz	gurusz[male]	N	N	D
+u4	ud[day]	N	N	D
+1(disz)-sze3	1(disz)[one]-sze	NU	NU.TERM	D
+a-sza3-ge	aszag[field]-e	N	N.L3-NH	D
+kin	kig[work]	N	N	D
+ak	ak[excavate][-a][-ak]	V	NF.V.PT	D
+ugu2	ugu[capital]	N	N	D
+lugal-{d}isztaran	_	PN	PN	Iabcde
+ba-gar-ra	_	V	V	POS
+ugula	ugula[overseer][-ø]	N	N	D
+ARAD2-mu	Aradmu[1]	PN	PN	D
+kiszib3	kiszib[seal]	N	N	D
+lugal-{d}isztaran	_	PN	PN	Iabcde
+mu	mu[year]	N	N	D
+sza-asz-szu2-ru-um{ki}	Szaszszurum[1][-ø]	SN	SN.ABS	D
+a-ra2	ara[times]	N	N	D
+2(disz)-kam	2(disz)[one]-ak-am	NU	NU.GEN.COP-3-SG	D
+ba-hul	ba-hulu[destroy][-ø]	V	MID.V.3-SG-S	D
+lugal-{d}isztaran	_	PN	PN	Iabcde
+dub-sar	dubsar[scribe]	N	N	D
+dumu	dumu[child]	N	N	D
+lu2-banda3{da}	Lubanda[1]	PN	PN	D

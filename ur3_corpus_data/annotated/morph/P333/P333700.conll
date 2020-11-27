@@ -1,0 +1,21 @@
+#new_text=P333700
+FORM	SEGM	XPOSTAG	XPOSTAG	POS
+5(asz)	5(asz)[one]	NU	NU	D
+sze	sze[barley]	N	N	D
+gur	gur[unit]	N	N	D
+sza3-gal	szaggal[food]	N	N	D
+gu4-sze3	_	N	N	POS
+ki	ki[place]	N	N	D
+{d}{asz}aszgi{gi4}-al-su-ta	_	PN	PN.GEN.ABL	Iabcdefgh
+giri3	giri[foot]	N	N	D
+x-mu-mu-x	_	PN	PN.DAT-H	Iab
+na-gada	nagada[herdsman][-ak]	N	N.GEN	D
+ba-a-ga	Bayaga[1]	PN	PN	D
+kuruszda	kuruszda[animal_fattener][-ø]	N	N.GEN.ABS	D
+szu	szu[hand][-e]	N	N.L3-NH	D
+ba-ti	ba[-n]-teg[accept][-ø]	V	MID.3-SG-H-A.V.3-SG-P	D
+iti	iti[month]	N	N	D
+ezem-a-bi	_	MN	MN.ABL	Iabcdefghij
+mu	mu[year]	N	N	D
+si-mu-ru-um{ki}	Simurrum[1]	SN	SN.ABS	D
+ba-hul	ba-hulu[destroy][-ø]	V	MID.V.3-SG-S	D

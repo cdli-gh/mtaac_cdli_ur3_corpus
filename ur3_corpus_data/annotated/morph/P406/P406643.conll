@@ -1,0 +1,22 @@
+#new_text=P406643
+FORM	SEGM	XPOSTAG	XPOSTAG	POS
+1(u)	1(u)[ten]	NU	NU	D
+2(disz)	2(disz)[one]	NU	NU	D
+{gesz}e2-da	_	PN	PN	POS
+5(disz)	5(disz)[one]	NU	NU	D
+{gesz}eme-sig	_	N	N	POS
+4(u)	4(u)[ten]	NU	NU	D
+6(disz)	6(disz)[one][-sze]	NU	NU	D
+{gesz}u2-bil	_	PN	PN	Iabcdefgh
+n	_(_)[_]	NU	NU	D
+	_	_
+x	_[_]	N	N	D
+x	_[_]	N	N	D
+x	_[_]	N	N	D
+kiszib3	kiszib[seal]	N	N	D
+szesz-ba-ni-tum	_	PN	PN.DAT-H	Iab
+giri3	giri[foot]	N	N	D
+gu3-de2-a	Gude'a[1][-ra]	PN	PN	D
+ur-{d}ba-ba6	Urbaba[1]	PN	PN	D
+u3	u[and]	CNJ	CNJ	D
+nam-zi-tar-ra	_	PN	PN	D

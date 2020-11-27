@@ -1,0 +1,17 @@
+#new_text=P100457
+FORM	SEGM	XPOSTAG	XPOSTAG	POS
+1(u)	1(u)[ten]	NU	NU	D
+gesz	gesz[tree]	N	N	D
+ab-ba	abba[father]	PN	PN	D
+{gesz}al-sze3	_	N	N.TERM	Iabcde
+ki	ki[place]	N	N	D
+ur-sila-luh-ta	Ursilaluh[1][-ak]-ta	PN	PN.GEN.ABL	D
+kiszib3	kiszib[seal]	N	N	D
+...-ba	_	PN	PN.ERG	Iabcdefgh
+iti	iti[month]	N	N	D
+...	_[_]	PN	N	D
+mu	mu[year]	N	N	D
+{d}szul-gi	Szulgir[1]	RN	RN	D
+lugal-e	lugal[king]-e	N	N.ERG	D
+bad3	bad[wall]	N	N	D
+ma-da	mada[land][-ak][-ø]	N	N	D

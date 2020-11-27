@@ -1,0 +1,22 @@
+#new_text=P123017
+FORM	SEGM	XPOSTAG	XPOSTAG	POS
+SZIM	szim[beer_malt]	N	N	D
+6(asz)	6(asz)[one]	NU	NU	D
+dug	dug[pot]	N	N	D
+utul2	_	N	N	POS
+SZIM	szim[beer_malt]	N	N	D
+tug2	tug[textile]	N	N	D
+ur	_	PN	N	D
+2(disz)	2(disz)[one]	NU	NU	D
+{d}nin-gir2-su-ka	_	DN	DN.GEN	D
+ki	ki[place]	N	N	D
+nig2-gur11-ta	_	PN	PN	POS
+ur-{d}nin-gesz-zi-da	_	PN	PN.GEN.ABS	D
+szu	szu[hand][-e]	N	N.L3-NH	D
+ba-ti	ba[-n]-teg[accept][-ø]	V	MID.3-SG-H-A.V.3-SG-P	D
+iti	iti[month]	N	N	D
+munu4-gu7	Munugu[1][-'a]	MN	MN.L1	D
+mu	mu[year]	N	N	D
+{gesz}gu-za	guza[chair]	N	N	D
+{d}en-lil2-la2	Enlil[1][-ak][-ø]	DN	DN.GEN	D
+ba-dim2	ba-dim[create][-ø]	V	MID.V.3-SG-S	D

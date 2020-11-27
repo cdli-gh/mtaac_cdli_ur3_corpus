@@ -1,0 +1,26 @@
+#new_text=P116754
+FORM	SEGM	XPOSTAG	XPOSTAG	POS
+4(asz)	4(asz)[one]	NU	NU	D
+2(barig)	2(bariga)[unit]	NU	N	D
+sze	sze[barley]	N	N	D
+gur	gur[unit]	N	N	D
+sze	sze[barley]	N	N	D
+zi3	zid[flour]	N	N	D
+KA-sze3	KA[flour type]-sze	N	N.TERM	D
+ki	ki[place]	N	N	D
+ha-bu3-bu3-ta	_	V	V	POS
+lugal-abzu-ta	_	PN	PN.GEN.ABL	Iab
+szu	szu[hand][-e]	N	N.L3-NH	D
+ba-ti	ba[-n]-teg[accept][-ø]	V	MID.3-SG-H-A.V.3-SG-P	D
+mu	mu[year]	N	N	D
+lugal-abzu-ta-sze3	_	PN	PN.GEN.TERM	Iab
+kiszib3	kiszib[seal]	N	N	D
+lugal-{d}szul-gi	_	PN	PN	Iabcde
+mu	mu[year]	N	N	D
+e2	e[house]	N	N	D
+{d}szara2	Szara[1][-ak]	DN	DN	D
+ba-du3	ba-du[build][-ø]	V	MID.V.3-SG-S	D
+lugal-{d}szul-gi	_	PN	PN	Iabcde
+dub-sar	dubsar[scribe]	N	N	D
+dumu	dumu[child]	N	N	D
+{d}utu-mu	Utumu[1][-ø]	PN	PN.DAT-H	D

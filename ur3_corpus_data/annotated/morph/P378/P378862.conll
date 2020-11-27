@@ -1,0 +1,24 @@
+#new_text=P378862
+FORM	SEGM	XPOSTAG	XPOSTAG	POS
+1(gesz2)	1(gesz)[sixty]	NU	NU	D
+3(u)	3(u)[ten]	NU	NU	D
+1(asz)	1(asz)[one]	NU	NU	D
+...	_[_]	PN	N	D
+sze	sze[barley]	N	N	D
+gur	gur[unit]	N	N	D
+kiszib3	kiszib[seal]	N	N	D
+asz-a	_	NU	NF.V.L1	D
+ki	ki[place]	N	N	D
+ur-nigar{gar}-ta	Urnigar[1][-ak]-ta	PN	PN.GEN.ABL	D
+kiszib3	kiszib[seal]	N	N	D
+{d}utu-a	_	PN	PN	Iabcde
+iti	iti[month]	N	N	D
+ezem-{d}ba-ba6	Ezembaba[1][-'a]	MN	MN.L1	D
+u3	u[and]	CNJ	CNJ	D
+iti	iti[month]	N	N	D
+mu-szu-du7	Muszudu[1][-'a]	MN	MN.L1	D
+mu	mu[year]	N	N	D
+en-am-gal-an-na	_	PN	PN	Ia
+en	en[priest]	N	N	D
+{d}inanna	Inanna[1][-ak]	DN	DN	D
+ba-hun	ba-hug[hire][-ø]	V	MID.V.3-SG-S	D

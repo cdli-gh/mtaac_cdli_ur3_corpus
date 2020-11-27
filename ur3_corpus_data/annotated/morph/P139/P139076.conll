@@ -1,0 +1,26 @@
+#new_text=P139076
+FORM	SEGM	XPOSTAG	XPOSTAG	POS
+1(gesz'u)	1(gesz'u)[six_hundred]	NU	NU	D
+2(gesz2)	2(gesz)[sixty]	NU	NU	D
+1(u)	1(u)[ten]	NU	NU	D
+8(asz)	8(asz)[one]	NU	NU	D
+4(ban2)	4(ban)[unit]	NU	N	D
+x	_[_]	N	N	D
+sila3	sila[unit]	N	N	D
+sze	sze[barley]	N	N	D
+gur	gur[unit]	N	N	D
+lugal	lugal[king]	N	N	D
+1(u)	1(u)[ten]	NU	NU	D
+2(asz)	2(asz)[one]	NU	NU	D
+1(barig)	1(bariga)[unit]	NU	N	D
+4(ban2)	4(ban)[unit]	NU	N	D
+5(disz)	5(disz)[one]	NU	NU	D
+sila3	sila[unit]	N	N	D
+ziz2	ziz[emmer]	N	N	D
+gur	gur[unit]	N	N	D
+n	_(_)[_]	NU	NU	D
+4(barig)	4(bariga)[unit]	NU	N	D
+5(ban2)	5(ban)[unit]	NU	N	D
+gig	gig[resin_type]	N	N	D
+gur	gur[unit]	N	N	D
+...-mar-da	_	PN	PN.ABS	Iab

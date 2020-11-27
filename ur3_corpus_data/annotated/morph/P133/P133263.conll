@@ -1,0 +1,24 @@
+#new_text=P133263
+FORM	SEGM	XPOSTAG	XPOSTAG	POS
+1(asz)	1(asz)[one]	NU	NU	D
+4(barig)	4(bariga)[unit]	NU	N	D
+4(ban2)	4(ban)[unit]	NU	N	D
+sze	sze[barley]	N	N	D
+gur	gur[unit]	N	N	D
+lugal	lugal[king]	N	N	D
+sza3-gal	szaggal[food]	N	N	D
+aga3-us2	aga'us[soldier]	N	N	D
+ma2-u4-zal-la	_	PN	PN	POS
+ki	ki[place]	N	N	D
+ur-{d}ig-alim-ta	_	PN	PN.GEN.GEN.ABL	Iab
+kiszib3	kiszib[seal]	N	N	D
+ur-{d}ig-alim	Urigalim[1]	FN	PN	D
+ra-gaba	_	N	N	POS
+sze	sze[barley]	N	N	D
+{d}en-lil2-la2	Enlil[1][-ak][-ø]	DN	DN.GEN	D
+iti	iti[month]	N	N	D
+sze-sag11-ku5	Szesagku[1][-'a]	MN	MN.L1	D
+mu	mu[year]	N	N	D
+en	en[priest]	N	N	D
+eridu{ki}	Eridug[1][-ak][-ø]	SN	SN.GEN.ABS	D
+ba-hun	ba-hug[hire][-ø]	V	MID.V.3-SG-S	D

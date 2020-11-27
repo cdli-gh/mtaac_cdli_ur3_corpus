@@ -1,0 +1,21 @@
+#new_text=P303415
+FORM	SEGM	XPOSTAG	XPOSTAG	POS
+2(asz)	2(asz)[one]	NU	NU	D
+sze	sze[barley]	N	N	D
+gur	gur[unit]	N	N	D
+ur5-sze3	urra[loan]-sze	PN	N.TERM	D
+ki	ki[place]	N	N	D
+giri3-ni-i3-sa6-ta	_	PN	PN.GEN.ABL	Iab
+ur-{d}szu-mah	_	PN	PN.DAT-H	Iabcdefgh
+szu	szu[hand][-e]	N	N.L3-NH	D
+ba-ti	ba[-n]-teg[accept][-ø]	V	MID.3-SG-H-A.V.3-SG-P	D
+iti	iti[month]	N	N	D
+...-a	_	PN	PN	POS
+mu	mu[year]	N	N	D
+ma-da	mada[land][-ak][-ø]	N	N	D
+za-ab-sza-li{ki}	Zabszali[1][-ak][-ø]	GN	SN.GEN.ABS	D
+ba-hul	ba-hulu[destroy][-ø]	V	MID.V.3-SG-S	D
+ur-{d}szu-mah	_	PN	PN.DAT-H	Iabcdefgh
+dub-sar	dubsar[scribe]	N	N	D
+dumu	dumu[child]	N	N	D
+...	_[_]	PN	N	D

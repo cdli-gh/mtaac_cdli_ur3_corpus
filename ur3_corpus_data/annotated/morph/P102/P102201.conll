@@ -1,0 +1,18 @@
+#new_text=P102201
+FORM	SEGM	XPOSTAG	XPOSTAG	POS
+1(disz)	1(disz)[one]	NU	NU	D
+...	_[_]	PN	N	D
+sze	sze[barley]	N	N	D
+...	_[_]	PN	N	D
+...	_[_]	PN	N	D
+sila3	sila[unit]	N	N	D
+lugal	lugal[king]	N	N	D
+ki	ki[place]	N	N	D
+lu2-du10-ga-ta	_	PN	PN.GEN.ABL	Iab
+inim-{d}szara2-kam	_	PN	PN.GEN	Iabcde
+...-ka	_	PN	PN	POS
+szu	szu[hand][-e]	N	N.L3-NH	D
+ba-ti	ba[-n]-teg[accept][-ø]	V	MID.3-SG-H-A.V.3-SG-P	D
+mu	mu[year]	N	N	D
+si-ma-num2{ki}	Simanum[1][-ø]	GN	SN.ABS	D
+ba-hul	ba-hulu[destroy][-ø]	V	MID.V.3-SG-S	D

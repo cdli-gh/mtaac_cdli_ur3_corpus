@@ -1,0 +1,27 @@
+#new_text=P500360
+FORM	SEGM	XPOSTAG	XPOSTAG	POS
+1(ban2)	1(ban)[unit]	NU	N	D
+kasz	kasz[beer]	N	N	D
+du	gin[quality_designation][-ø]	V	NF.V.ABS	D
+5(disz)	5(disz)[one]	NU	NU	D
+sila3	sila[unit]	N	N	D
+zi3-gu	zidgu[flour_type]	N	N	D
+2(disz)	2(disz)[one]	NU	NU	D
+id-gur2	idgurum[ladle]	N	N	D
+i3	i[oil]	N	N	D
+u4	ud[day]	N	N	D
+2(disz)-kam	2(disz)[one]-ak-am	NU	NU.GEN.COP-3-SG	D
+sza3-iri	Sza'iri[1][-ra]	PN	PN.DAT-H	D
+1(disz)	1(disz)[one]	NU	NU	D
+dug	dug[pot]	N	N	D
+dida	dida[sweet_wort]	N	N	D
+5(disz)	5(disz)[one]	NU	NU	D
+sila3	sila[unit]	N	N	D
+zi3	zid[flour]	N	N	D
+kaskal-sze3	kaskal[journey]-sze	N	N.TERM	D
+szu-{d}nin-szubur	_	DN	DN	POS
+sukkal	sukkal[secretary][-ak][-ra]	N	N	D
+{u2}urua{a}{ki}-sze3	_	SN	SN	POS
+du-ni	du[go][-ed]-ani[-'a]	V	NF.V.PF.F.3-SG-H-POSS.L1	D
+iti	iti[month]	N	N	D
+mu-szu-du7	Muszudu[1][-'a]	MN	MN.L1	D

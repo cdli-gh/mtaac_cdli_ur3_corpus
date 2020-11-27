@@ -1,0 +1,24 @@
+#new_text=P107103
+FORM	SEGM	XPOSTAG	XPOSTAG	POS
+1(disz)	1(disz)[one]	NU	NU	D
+1/2(disz)	1/2(disz)[one]	NU	NU	D
+ma-na	mana[unit]	N	N	D
+siki	siki[wool][-'a]	N	N	D
+tug2	tug[textile]	N	N	D
+szar3	szar[cloth_designation][-ø]	V	NF.V.ABS	D
+2(disz)	2(disz)[one]	NU	NU	D
+ma-na	mana[unit]	N	N	D
+siki	siki[wool][-'a]	N	N	D
+tug2	tug[textile]	N	N	D
+us2	us[follow][-ø]	V	NF.V.ABS	D
+szar3	szar[cloth_designation][-ø]	V	NF.V.ABS	D
+ki	ki[place]	N	N	D
+nin-dingir-ra-ka	_	N	N	POS
+ba-an-ku4	ba-n-kur[enter][-ø]	V	MID.L1-SYN.V.3-SG-S	D
+zi-ga	zig[expend]-a	V	NF.V.PT	D
+iti	iti[month]	N	N	D
+ezem-{d}li9-si4	_	MN	MN	POS
+mu	mu[year]	N	N	D
+us2-sa	us[follow]-a	V	NF.V.PT	D
+ki-masz{ki}	Kimasz[1]	SN	SN.ABS	D
+ba-hul	ba-hulu[destroy][-ø]	V	MID.V.3-SG-S	D

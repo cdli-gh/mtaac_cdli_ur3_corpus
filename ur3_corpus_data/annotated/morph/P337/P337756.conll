@@ -1,0 +1,22 @@
+#new_text=P337756
+FORM	SEGM	XPOSTAG	XPOSTAG	POS
+5(u)	5(u)[ten]	NU	NU	D
+a2	a[time]	N	N	D
+gurusz	gurusz[male]	N	N	D
+u4	ud[day]	N	N	D
+1(disz)-sze3	1(disz)[one]-sze	NU	NU.TERM	D
+a-sza3	aszag[field]	N	N	D
+bad3-da-sze3	_	N	N.3-SG-H-POSS.TERM	Iabcdef
+giri3	giri[foot]	N	N	D
+u3-lu-ha	_	PN	PN.GEN.DAT-H	Iab
+giri3	giri[foot]	N	N	D
+en-um-i3-li2	_	PN	PN.GEN	Iabc
+lu2	lu[person]	N	N	D
+nam-ha-ni	Namhani[1]	N	PN	D
+ki	ki[place]	N	N	D
+bu3-lu5-lu5-ta	_	PN	PN.GEN.ABL	Iab
+ba-zi	ba-zig[expend][-ø]	PN	MID.V.3-SG-S	D
+mu	mu[year]	N	N	D
+gu-za	guza[chair][-ø]	N	N	D
+{d}en-lil2-la2	Enlil[1][-ak][-ø]	DN	DN.GEN	D
+ba-dim2	ba-dim[create][-ø]	V	MID.V.3-SG-S	D

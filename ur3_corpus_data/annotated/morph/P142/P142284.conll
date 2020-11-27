@@ -1,0 +1,26 @@
+#new_text=P142284
+FORM	SEGM	XPOSTAG	XPOSTAG	POS
+2(disz)	2(disz)[one]	NU	NU	D
+gurusz	gurusz[male]	N	N	D
+e2	e[house]	N	N	D
+{d}nin-urta	Ninurta[1][-ra]	DN	DN	D
+1(disz)	1(disz)[one]	NU	NU	D
+gurusz	gurusz[male]	N	N	D
+e2	e[house]	N	N	D
+{d}suen	_	DN	DN	POS
+1(disz)	1(disz)[one]	NU	NU	D
+gurusz	gurusz[male]	N	N	D
+e2	e[house]	N	N	D
+{d}inanna	Inanna[1][-ak]	DN	DN	D
+1(disz)	1(disz)[one]	NU	NU	D
+e2	e[house]	N	N	D
+nin-zi-an-ka	_	DN	DN	POS
+szunigin	szunigin[total]	N	N	D
+5(disz)	5(disz)[one]	NU	NU	D
+gurusz	gurusz[male]	N	N	D
+ad-kup4-me	adKID[basket_weaver][-ø]-mesz	N	N.ABS.COP-3-PL	D
+giri3-se3-ga	girsiga[attendant]	N	N	D
+e2	e[house]	N	N	D
+{d}nin-urta	Ninurta[1][-ra]	DN	DN	D
+u3	u[and]	CNJ	CNJ	D
+{d}x-...	_	PN	PN	Iabc

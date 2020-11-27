@@ -1,0 +1,24 @@
+#new_text=P133375
+FORM	SEGM	XPOSTAG	XPOSTAG	POS
+2(u)	2(u)[ten]	NU	NU	D
+1(asz)	1(asz)[one]	NU	NU	D
+3(barig)	3(bariga)[unit]	NU	N	D
+3(ban2)	3(ban)[unit]	NU	N	D
+sze	sze[barley]	N	N	D
+gur	gur[unit]	N	N	D
+sze	sze[barley]	N	N	D
+szuku	szukur[prebend_land]	N	N	D
+engar	engar[farmer]	N	N	D
+ki	ki[place]	N	N	D
+{d}lamma-iri-na-ta	_	PN	PN.GEN.ABL	Iab
+kiszib3	kiszib[seal]	N	N	D
+lu2-{gesz}gigir	_	PN	PN	Ia
+dumu	dumu[child]	N	N	D
+ug3-IL2	uggaga[porter]	N	N	D
+mu	mu[year]	N	N	D
+si-mu-ru-um{ki}	Simurrum[1]	SN	SN.ABS	D
+ba-hul	ba-hulu[destroy][-ø]	V	MID.V.3-SG-S	D
+lu2-{gesz}gigir	_	PN	PN	Ia
+dub-sar	dubsar[scribe]	N	N	D
+dumu	dumu[child]	N	N	D
+ug3-IL2	uggaga[porter]	N	N	D

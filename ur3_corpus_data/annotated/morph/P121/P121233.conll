@@ -1,0 +1,27 @@
+#new_text=P121233
+FORM	SEGM	XPOSTAG	XPOSTAG	POS
+3(u)	3(u)[ten]	NU	NU	D
+geme2	geme[female_worker]	N	N	D
+u4	ud[day]	N	N	D
+1(disz)-sze3	1(disz)[one]-sze	NU	NU.TERM	D
+siki	siki[wool][-'a]	N	N	D
+tug2	tug[textile]	N	N	D
+du8-a	du[spread][-a][-ø]	V	NF.V.PT.ABS	D
+ensi2-ka	ensik[ruler]-ak	N	N.GEN	D
+ib2-be2	_	V	FIN.3-SG-H.L3.3-SG-H-A.V.3-PL.SUB.L2-NH	Iabcdef
+u3	u[and]	CNJ	CNJ	D
+{gesz}ga-rig2	_	N	N.ABS	Iabcde
+NE-ba	_	 	 	POS
+ki	ki[place]	N	N	D
+lugal-ma2-gur8-re-ta	_	PN	PN.GEN.ABL	Iabcdef
+ba-zi	ba-zig[expend][-ø]	PN	MID.V.3-SG-S	D
+iti	iti[month]	N	N	D
+du6-ku3	_	PN	PN	POS
+u4	ud[day]	N	N	D
+1(u)	1(u)[ten]	NU	NU	D
+3(disz)	3(disz)[one]	NU	NU	D
+ba-zal	ba-zal[pass][-ø][-a][-'a]	V	MID.V.3-SG-S.SUB	D
+mu	mu[year]	N	N	D
+en	en[priest]	N	N	D
+ga-esz5{ki}	_	SN	SN.GEN.ABS	Iab
+ba-hun	ba-hug[hire][-ø]	V	MID.V.3-SG-S	D

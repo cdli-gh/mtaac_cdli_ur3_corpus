@@ -1,0 +1,11 @@
+#new_text=P201213
+FORM	SEGM	XPOSTAG	XPOSTAG	POS
+5(ban2)	5(ban)[unit]	NU	N	D
+lu2-dingir-ra	Ludingira[1][-ra]	PN	PN	D
+3(ban2)	3(ban)[unit]	NU	N	D
+an-ta-lu2	_	V	V	POS
+iti	iti[month]	N	N	D
+diri	diri[intercalary_month]	N	N	D
+mu	mu[year]	N	N	D
+sza-asz-szu-ru{ki}	_	GN	GN	POS
+ba-hul	ba-hulu[destroy][-ø]	V	MID.V.3-SG-S	D

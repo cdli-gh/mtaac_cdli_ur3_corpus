@@ -1,0 +1,21 @@
+#new_text=P249114
+FORM	SEGM	XPOSTAG	XPOSTAG	POS
+1(asz)	1(asz)[one]	NU	NU	D
+1(barig)	1(bariga)[unit]	NU	N	D
+sze	sze[barley]	N	N	D
+gur	gur[unit]	N	N	D
+sza3-gal	szaggal[food]	N	N	D
+{ansze}kunga2	kunga[equid_type][-ak][-ø]	N	N.GEN.ABS	D
+ki	ki[place]	N	N	D
+lu2-{d}szul-gi-ra-ta	_	PN	PN.GEN.ABL	Iabcdef
+kiszib3	kiszib[seal]	N	N	D
+ur-{u2}gug4-sze3	_	PN	PN.GEN.TERM	Iabcdef
+iti	iti[month]	N	N	D
+min-esz3	Minesz[1][-'a]	MN	MN.L1	D
+mu	mu[year]	N	N	D
+en	en[priest]	N	N	D
+eridu{ki}	Eridug[1][-ak][-ø]	SN	SN.GEN.ABS	D
+ba-hun	ba-hug[hire][-ø]	V	MID.V.3-SG-S	D
+ur-{u2}gug4	Urgug[1][-ak]	PN	PN.GEN	D
+ARAD2	arad[slave]	N	N	D
+{d}nin-ur4-ra	Ninura[1][-ak]	DN	DN.GEN	D

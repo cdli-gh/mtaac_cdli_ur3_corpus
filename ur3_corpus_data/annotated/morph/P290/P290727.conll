@@ -1,0 +1,19 @@
+#new_text=P290727
+FORM	SEGM	XPOSTAG	XPOSTAG	POS
+8(asz)	8(asz)[one]	NU	NU	D
+gu2	gun[unit]	N	N	D
+1(u)	1(u)[ten]	NU	NU	D
+7(disz)	7(disz)[one][-sze]	NU	NU	D
+1/2(disz)	1/2(disz)[one]	NU	NU	D
+ma-na	mana[unit]	N	N	D
+siki-gi	sikigi[wool_type]	N	N	D
+1(gesz2)	1(gesz)[sixty]	NU	NU	D
+2(u)	2(u)[ten]	NU	NU	D
+1(disz)	1(disz)[one]	NU	NU	D
+tug2	tug[textile]	N	N	D
+tug2-ba	_	N	N	Ia
+siki-ba	_	V	V	POS
+geme2	geme[female_worker]	N	N	D
+dumu	dumu[child]	N	N	D
+uri5{ki}-ma	Urim[1]-ak	SN	SN.GEN	D
+gub-ba	gub[assigned]-a[-ak][-ø]	V	NF.V.PT	D

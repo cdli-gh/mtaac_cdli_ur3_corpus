@@ -1,0 +1,26 @@
+#new_text=P139022
+FORM	SEGM	XPOSTAG	XPOSTAG	POS
+n	_(_)[_]	NU	NU	D
+2(disz)	2(disz)[one]	NU	NU	D
+sila3	sila[unit]	N	N	D
+i3-nun	inun[ghee]	PN	N	D
+...-x-la	_	PN	PN	Iabcde
+gur	gur[unit]	N	N	D
+n	_(_)[_]	NU	NU	D
+4(disz)	4(disz)[one]	NU	NU	D
+1/2(disz)	1/2(disz)[one]	NU	NU	D
+sila3	sila[unit]	N	N	D
+i3-gesz	igesz[oil]	V	N	D
+ma2-a	ma[ship]-'a	N	N.L1	D
+gar-ra	_	V	V	POS
+kisig2{ki}-sze3	_	SN	SN.TERM	Iabcdefgh
+...	_[_]	PN	N	D
+x	_[_]	N	N	D
+KAR	_	 	 	POS
+...	_[_]	PN	N	D
+mu	mu[year]	N	N	D
+us2-sa	us[follow]-a	V	NF.V.PT	D
+bad3-gal	badgal[great_wall][-ø]	N	N.ABS	D
+ba-du3-a	ba-du[build][-ø]	V	MID.V.3-SG-S	D
+mu	mu[year]	N	N	D
+us2-sa-bi	us[follow]-a-bi	V	NF.V.PT.3-SG-NH-POSS	D

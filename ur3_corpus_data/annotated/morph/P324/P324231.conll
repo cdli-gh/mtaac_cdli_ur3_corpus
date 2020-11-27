@@ -1,0 +1,27 @@
+#new_text=P324231
+FORM	SEGM	XPOSTAG	XPOSTAG	POS
+4(disz)	4(disz)[one]	NU	NU	D
+{gi}gur	gur[measuring_vessel]	N	N	D
+a	a[water][-ø]	N	N.ABS	D
+bala	bala[turn][-'a]	N	N.L1	D
+esir2	esir[bitumen]	N	N	D
+szub-ba	_	N	NF.V.SUB.ABS	D
+3(disz)	3(disz)[one]	NU	NU	D
+{gesz}zi-ri-qum	_	PN	PN	POS
+ki	ki[place]	N	N	D
+{d}iszkur-illat-ta	Iszkurillat[1][-ak]-ta	PN	PN.GEN.ABL	D
+{d}ma-lik-ba-ni	_	PN	PN.DAT-H	Iabcdefgh
+szu	szu[hand][-e]	N	N.L3-NH	D
+ba-an-ti	ba-n-teg[accept][-ø]	V	MID.3-SG-H-A.V.3-SG-P	D
+iti	iti[month]	N	N	D
+ezem-an-na	Ezemanna[1][-'a]	MN	MN.L1	D
+mu	mu[year]	N	N	D
+{d}szu-{d}suen	Szusuen[1]	RN	RN	D
+lugal-e	lugal[king]-e	N	N.ERG	D
+na-ru2-a-mah	naruamah[magnificent_stele][-ø]	PN	N.ABS	D
+{d}en-lil2	Enlil[1]	DN	DN	D
+{d}nin-lil2-ra	Ninlil[1]-ra	DN	DN.DAT-H	D
+mu-ne-du3	mu-nnee[-a][-n]-du[build][-ø]	V	VEN.3-PL.DAT.3-SG-H-A.V.3-SG-P	D
+{d}ma-lik-ba-ni	_	PN	PN.DAT-H	Iabcdefgh
+ARAD2	arad[slave]	N	N	D
+na-ra-am-i3-li2	Naramili[1]	PN	PN	D

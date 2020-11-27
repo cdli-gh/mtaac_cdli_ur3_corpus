@@ -1,0 +1,48 @@
+#new_text=P356038
+FORM	SEGM	XPOSTAG	XPOSTAG	POS
+5(disz)	5(disz)[one]	NU	NU	D
+sila3	sila[unit]	N	N	D
+kasz	kasz[beer]	N	N	D
+2(disz)	2(disz)[one]	NU	NU	D
+sila3	sila[unit]	N	N	D
+ninda	ninda[bread]	N	N	D
+a-bu-ni	Abuni[1][-ak]	PN	PN.GEN	D
+5(disz)	5(disz)[one]	NU	NU	D
+sila3	sila[unit]	N	N	D
+kasz	kasz[beer]	N	N	D
+2(disz)	2(disz)[one]	NU	NU	D
+sila3	sila[unit]	N	N	D
+ninda	ninda[bread]	N	N	D
+szu-{d}nin-szubur	_	DN	DN	POS
+sukkal	sukkal[secretary][-ak][-ra]	N	N	D
+x	_[_]	N	N	D
+x	_[_]	N	N	D
+NIM-ka	_	 	 	POS
+(x	_	 	 	POS
+x)	_	 	 	POS
+gen-na	gen[go]-a	V	NF.V.PT	D
+(x)	_[_]	N	N	POS
+x	_[_]	N	N	D
+ninda	ninda[bread]	N	N	D
+dumu	dumu[child]	N	N	D
+uri5{ki}-bi	_	SN	SN.GEN.DEM2.ABS	Iabcd
+1(u)	1(u)[ten]	NU	NU	D
+la2	la[hang][-ø]	V	NF.V.ABS	D
+1(disz)-am3	_	NU	NU.GEN.COP-3-SG	Iabcdef
+a-a-x{ki}-ta	_	SN	SN	POS
+gen-na-me	gen[go]-a-mesz	V	NF.V.PT.COP-3-PL	D
+2(disz)	2(disz)[one]	NU	NU	D
+sila3	sila[unit]	N	N	D
+kasz	kasz[beer]	N	N	D
+2(disz)	2(disz)[one]	NU	NU	D
+sila3	sila[unit]	N	N	D
+ninda	ninda[bread]	N	N	D
+na-na	_	V	V	POS
+lu2	lu[person]	N	N	D
+kas4	kas[runner][-ra]	N	N.DAT-H	D
+zi-ga	zig[expend]-a	V	NF.V.PT	D
+u4	ud[day]	N	N	D
+2(u)	2(u)[ten]	NU	NU	D
+4(disz)-kam	4(disz)[one]-ak-am[-'a]	NU	NU.GEN.COP-3-SG	D
+iti	iti[month]	N	N	D
+ezem-{d}szul-gi	Ezemszulgir[1][-'a]	MN	MN.L1	D

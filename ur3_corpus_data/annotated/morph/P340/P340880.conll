@@ -1,0 +1,26 @@
+#new_text=P340880
+FORM	SEGM	XPOSTAG	XPOSTAG	POS
+7(gesz2)	7(gesz)[sixty]	NU	NU	D
+3(u)	3(u)[ten]	NU	NU	D
+gurusz	gurusz[male]	N	N	D
+u4	ud[day]	N	N	D
+1(disz)-sze3	1(disz)[one]-sze	NU	NU.TERM	D
+bala-a	bala[tax][-ak]-'a	N	N.GEN.L1	D
+gub-ba	gub[assigned]-a[-ak][-ø]	V	NF.V.PT	D
+2(disz)	2(disz)[one]	NU	NU	D
+gurusz	gurusz[male]	N	N	D
+iti	iti[month]	N	N	D
+2(disz)-sze3	2(disz)[one]-sze	NU	NU.TERM	D
+ma2-da-ga-sze3	_	N	N	POS
+gen-na	gen[go]-a	V	NF.V.PT	D
+kiszib3	kiszib[seal]	N	N	D
+lugal-iti-da	Lugalitida[1]	PN	PN	D
+tum3-da-sze3	_	V	V	POS
+kiszib3	kiszib[seal]	N	N	D
+inim-{d}szara2	Inimszara[1][-ak][-ra]	PN	PN	D
+mu	mu[year]	N	N	D
+hu-uh2-nu-ri{ki}	Huhnuri[1][-ø]	GN	SN.ABS	D
+ba-hul	ba-hulu[destroy][-ø]	V	MID.V.3-SG-S	D
+inim-{d}szara2	Inimszara[1][-ak][-ra]	PN	PN	D
+dumu	dumu[child]	N	N	D
+da-a-ga	_	PN	PN	Ia

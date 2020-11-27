@@ -1,0 +1,25 @@
+#new_text=P143319
+FORM	SEGM	XPOSTAG	XPOSTAG	POS
+1(u)	1(u)[ten]	NU	NU	D
+3(disz)	3(disz)[one]	NU	NU	D
+ma-na	mana[unit]	N	N	D
+uruda	urud[copper][-ak]	N	N	D
+2(u)	2(u)[ten]	NU	NU	D
+1(disz)	1(disz)[one]	NU	NU	D
+{uruda}ha-zi-in	_	N	N.ABS	Iabcdefghij
+ki-la2-bi	kila[weight]-bi[-ø]	N	N.3-SG-NH-POSS.ABS	D
+1(u)	1(u)[ten]	NU	NU	D
+7(disz)	7(disz)[one][-sze]	NU	NU	D
+ma-na	mana[unit]	N	N	D
+uruda	urud[copper][-ak]	N	N	D
+e2-masz-ta	_	GN	GN	POS
+ki	ki[place]	N	N	D
+da-da-ga-ta	Dadaga[1][-ak]-ta	PN	PN.GEN.ABL	D
+szesz-a-ni	Szeszani[1][-ak]	PN	PN	D
+szu	szu[hand][-e]	N	N.L3-NH	D
+ba-ti	ba[-n]-teg[accept][-ø]	V	MID.3-SG-H-A.V.3-SG-P	D
+iti	iti[month]	N	N	D
+sze-kar-ra-gal2-la	Szekaragala[1][-'a]	MN	MN.L1	D
+mu	mu[year]	N	N	D
+an-sza-na{ki}	_	GN	GN.GEN	Iabcdefg
+ba-hul	ba-hulu[destroy][-ø]	V	MID.V.3-SG-S	D

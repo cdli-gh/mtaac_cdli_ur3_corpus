@@ -1,0 +1,11 @@
+#new_text=P120120
+FORM	SEGM	XPOSTAG	XPOSTAG	POS
+iti	iti[month]	N	N	D
+dal	Dal[1][-'a]	MN	MN.L1	D
+mu	mu[year]	N	N	D
+{d}szu-{d}suen	Szusuen[1]	RN	RN	D
+lugal	lugal[king]	N	N	D
+a-kal-la	Akala[1]	PN	PN	D
+dumu	dumu[child]	N	N	D
+lu2-bulug3-ga2	Lugalitida[1]	PN	PN	D
+aszgab-gal	aszgabgal[head_leatherworker][-ak]	N	N.GEN	D

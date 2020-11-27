@@ -1,0 +1,21 @@
+#new_text=P135960
+FORM	SEGM	XPOSTAG	XPOSTAG	POS
+5(u)	5(u)[ten]	NU	NU	D
+8(disz)	8(disz)[one]	NU	NU	D
+2/3(disz)	2/3(disz)[one]	NU	NU	D
+sar	sar[unit]	N	N	D
+sig4	szeg[brick]	N	N	D
+x	_[_]	N	N	D
+a2	a[time]	N	N	D
+lu2	lu[person]	N	N	D
+hun-ga2	hug[hire]-a	V	NF.V.PT	D
+x-{d}inanna-ta	_	PN	PN.GEN.GEN.ABL	Iabcdefg
+e2-masz-sze3	_	PN	PN	Iabcdefgh
+x-x-e2	_	PN	PN.DAT-H	Iab
+gu-za-la2	guzala[throne_bearer]	N	N	D
+esz3	esz[shrine]	N	N	D
+mu	mu[year]	N	N	D
+{d}amar-{d}suen	Amarsuen[1]	RN	RN	D
+lugal-e	lugal[king]-e	N	N.ERG	D
+ur-bi2-lum{ki}	Urbilum[1][-ø]	GN	SN.ABS	D
+mu-hul	mu[-n]-hulu[destroy][-ø]	V	VEN.3-SG-H-A.V.3-SG-P	D

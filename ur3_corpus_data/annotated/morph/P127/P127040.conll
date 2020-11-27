@@ -1,0 +1,26 @@
+#new_text=P127040
+FORM	SEGM	XPOSTAG	XPOSTAG	POS
+3(u)	3(u)[ten]	NU	NU	D
+8(disz)	8(disz)[one]	NU	NU	D
+gurusz	gurusz[male]	N	N	D
+u4	ud[day]	N	N	D
+1(disz)-sze3	1(disz)[one]-sze	NU	NU.TERM	D
+sze	sze[barley]	N	N	D
+ma2-a	ma[ship]-'a	N	N.L1	D
+si-ga	sig[load]-a	N	NF.V.PT	D
+ka-ma-ri2{ki}-ta	_	SN	SN	POS
+kar	_	N	N	POS
+umma{ki}-sze3	_	SN	SN.GEN.TERM	Iabcd
+sze	sze[barley]	N	N	D
+zi-ga(SZE3)	_	PN	PN	POS
+ugula	ugula[overseer][-ø]	N	N	D
+i-szar-ru-um	_	PN	PN.GEN	Iabcdef
+kiszib3	kiszib[seal]	N	N	D
+szesz-kal-la	Szeszkala[1][-ra]	PN	PN	D
+mu	mu[year]	N	N	D
+{d}szu-{d}suen	Szusuen[1]	RN	RN	D
+lugal	lugal[king]	N	N	D
+szesz-kal-la	Szeszkala[1][-ra]	PN	PN	D
+dub-sar	dubsar[scribe]	N	N	D
+dumu	dumu[child]	N	N	D
+tir-gu	_	PN	PN	POS

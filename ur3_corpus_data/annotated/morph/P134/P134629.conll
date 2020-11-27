@@ -1,0 +1,24 @@
+#new_text=P134629
+FORM	SEGM	XPOSTAG	XPOSTAG	POS
+1(disz)	1(disz)[one]	NU	NU	D
+...	_[_]	PN	N	D
+1(asz)	1(asz)[one]	NU	NU	D
+...	_[_]	PN	N	D
+x	_[_]	N	N	D
+...	_[_]	PN	N	D
+tul2-ta	Tulta[1][-ak][-ak]	PN	PN.GEN.GEN	D
+...	_[_]	PN	N	D
+szu	szu[hand][-e]	N	N.L3-NH	D
+ba-ti	ba[-n]-teg[accept][-ø]	V	MID.3-SG-H-A.V.3-SG-P	D
+iti	iti[month]	N	N	D
+kin-{d}inanna	Kin-Inanna[1].[-’a]MN.L1	MN	MN.L1	D
+u4	ud[day]	N	N	D
+2(disz)	2(disz)[one]	NU	NU	D
+ba-zal	ba-zal[pass][-ø][-a][-'a]	V	MID.V.3-SG-S.SUB	D
+mu	mu[year]	N	N	D
+us2-sa	us[follow]-a	V	NF.V.PT	D
+bad3-gal	badgal[great_wall][-ø]	N	N.ABS	D
+ba-du3	ba-du[build][-ø]	V	MID.V.3-SG-S	D
+tul2-ta	Tulta[1][-ak][-ak]	PN	PN.GEN.GEN	D
+dumu	dumu[child]	N	N	D
+ba-ra-an-ki	_	PN	PN	POS

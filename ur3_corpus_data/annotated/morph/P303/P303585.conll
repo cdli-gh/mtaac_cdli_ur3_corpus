@@ -1,0 +1,23 @@
+#new_text=P303585
+FORM	SEGM	XPOSTAG	XPOSTAG	POS
+2(disz)	2(disz)[one]	NU	NU	D
+ab2-mah2	abmah[mature_cow]	N	N	D
+1(disz)	1(disz)[one]	NU	NU	D
+ab2	ab[cow][-ø]	N	N	D
+mu	mu[year]	N	N	D
+3(disz)	3(disz)[one]	NU	NU	D
+1(disz)	1(disz)[one]	NU	NU	D
+gu4	gud[ox]	N	N	D
+mu	mu[year]	N	N	D
+2(disz)	2(disz)[one]	NU	NU	D
+ba-ri-ri	_	V	NF.V.PT.GEN	Iabcdef
+kusz	kusz[leather]	N	N	D
+e2-a	e[house][-ak]-'a	GN	N.L1	D
+gal2-la	gal[be]-a[-ø]	V	NF.V.PT	D
+e2	e[house]	N	N	D
+{d}en-lil2-la2	Enlil[1][-ak][-ø]	DN	DN.GEN	D
+unu3	_	GN	GN	POS
+lugal-he2-gal2	Lugalhegal[1]	PN	PN	D
+mu	mu[year]	N	N	D
+si-mu-ru-um{ki}	Simurrum[1]	SN	SN.ABS	D
+ba-hul	ba-hulu[destroy][-ø]	V	MID.V.3-SG-S	D

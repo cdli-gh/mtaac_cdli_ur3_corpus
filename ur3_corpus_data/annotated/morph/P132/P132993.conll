@@ -1,0 +1,46 @@
+#new_text=P132993
+FORM	SEGM	XPOSTAG	XPOSTAG	POS
+2(gesz2)	2(gesz)[sixty]	NU	NU	D
+5(u)	5(u)[ten]	NU	NU	D
+1(disz)	1(disz)[one]	NU	NU	D
+gurusz	gurusz[male]	N	N	D
+iti	iti[month]	N	N	D
+3(disz)-sze3	3(disz)[one]-sze	NU	NU.TERM	D
+gu2-ab-ba{ki}-ta	_	SN	SN.GEN.GEN.ABL	Iabcdefg
+a-dam-szah2{ki}-sze3	_	SN	SN.TERM	Iab
+1(gesz2)	1(gesz)[sixty]	NU	NU	D
+la2	la[hang][-ø]	V	NF.V.ABS	D
+1(disz)	1(disz)[one]	NU	NU	D
+gurusz	gurusz[male]	N	N	D
+iti	iti[month]	N	N	D
+1(disz)-sze3	1(disz)[one]-sze	NU	NU.TERM	D
+gu2-ab-ba{ki}-ta	_	SN	SN.GEN.GEN.ABL	Iabcdefg
+x-x-ba-zi-sze3	_	DN	DN	POS
+(x	_	 	 	POS
+x	_[_]	N	N	D
+x)	_	 	 	POS
+RI	_	 	 	POS
+(x)	_[_]	N	N	POS
+n	_(_)[_]	NU	NU	D
+gurusz	gurusz[male]	N	N	D
+iti	iti[month]	N	N	D
+n-sze3	_(_)[_]-sze	NU	NU.TERM	D
+...	_[_]	PN	N	D
+...	_[_]	PN	N	D
+...	_[_]	PN	N	D
+n	_(_)[_]	NU	NU	D
+{gesz}da	_	N	N	Ia
+diri	diri[intercalary_month]	N	N	D
+n	_(_)[_]	NU	NU	D
+gesz	gesz[tree]	N	N	D
+giri3	giri[foot]	N	N	D
+a-ra2	ara[times]	N	N	D
+2(disz)-kam	2(disz)[one]-ak-am	NU	NU.GEN.COP-3-SG	D
+giri3	giri[foot]	N	N	D
+lu2-banda3{da}	Lubanda[1]	PN	PN	D
+ku3-{d}nanna	Kugnanna[1]	PN	PN	D
+u3	u[and]	CNJ	CNJ	D
+ze2-za-am3	_	V	NF.V.PT.ABS.COP-3-SG	Iabcde
+mu	mu[year]	N	N	D
+sza-asz-ru{ki}	Szaszru[1][-ø]	SN	SN.ABS	D
+ba-hul	ba-hulu[destroy][-ø]	V	MID.V.3-SG-S	D

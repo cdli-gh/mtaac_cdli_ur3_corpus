@@ -1,0 +1,28 @@
+#new_text=P133119
+FORM	SEGM	XPOSTAG	XPOSTAG	POS
+2(gesz2)	2(gesz)[sixty]	NU	NU	D
+2(u)	2(u)[ten]	NU	NU	D
+3(asz)	3(asz)[one]	NU	NU	D
+2(barig)	2(bariga)[unit]	NU	N	D
+5(ban2)	5(ban)[unit]	NU	N	D
+5(disz)	5(disz)[one]	NU	NU	D
+sila3	sila[unit]	N	N	D
+sze	sze[barley]	N	N	D
+gur	gur[unit]	N	N	D
+ki	ki[place]	N	N	D
+lu2-usz-gi-na-ta	_	PN	PN.GEN.ABL	Iab
+zi3	zid[flour]	N	N	D
+KA-sze3	KA[flour type]-sze	N	N.TERM	D
+kiszib3	kiszib[seal]	N	N	D
+ba-zi	ba-zig[expend][-ø]	PN	MID.V.3-SG-S	D
+dumu	dumu[child]	N	N	D
+ur-{d}lamma	Urlamma[1]	PN	PN	D
+mu	mu[year]	N	N	D
+e2	e[house]	N	N	D
+{d}szara2	Szara[1][-ak]	DN	DN	D
+umma{ki}	Umma[1][-ak][-ø]	SN	SN.GEN.ABS	D
+ba-du3	ba-du[build][-ø]	V	MID.V.3-SG-S	D
+ba-zi	ba-zig[expend][-ø]	PN	MID.V.3-SG-S	D
+dub-sar	dubsar[scribe]	N	N	D
+dumu	dumu[child]	N	N	D
+ur-{d}lamma	Urlamma[1]	PN	PN	D

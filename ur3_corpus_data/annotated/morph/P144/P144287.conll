@@ -1,0 +1,20 @@
+#new_text=P144287
+FORM	SEGM	XPOSTAG	XPOSTAG	POS
+3(u)	3(u)[ten]	NU	NU	D
+5(asz)	5(asz)[one]	NU	NU	D
+3(ban2)	3(ban)[unit]	NU	N	D
+sze	sze[barley]	N	N	D
+gur	gur[unit]	N	N	D
+...	_[_]	PN	N	D
+sze	sze[barley]	N	N	D
+zi3-gu	zidgu[flour_type]	N	N	D
+ki-su7	kisur[threshing_floor]	N	N	D
+e2-duru5-gu-la	_	PN	PN	POS
+ki	ki[place]	N	N	D
+lu2-{d}szul-gi-ra-ta	_	PN	PN.GEN.ABL	Iabcdef
+kiszib3	kiszib[seal]	N	N	D
+ur-{d}...	_[1][-ra]	PN	PN.GEN	D
+mu	mu[year]	N	N	D
+en	en[priest]	N	N	D
+eridu{ki}	Eridug[1][-ak][-ø]	SN	SN.GEN.ABS	D
+ba-hun	ba-hug[hire][-ø]	V	MID.V.3-SG-S	D

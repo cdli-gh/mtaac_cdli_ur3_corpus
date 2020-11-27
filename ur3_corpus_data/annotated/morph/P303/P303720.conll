@@ -1,0 +1,21 @@
+#new_text=P303720
+FORM	SEGM	XPOSTAG	XPOSTAG	POS
+1(disz)	1(disz)[one]	NU	NU	D
+...-a	_	PN	PN	POS
+...-a	_	PN	PN	POS
+5(disz)	5(disz)[one]	NU	NU	D
+...-a	_	PN	PN	POS
+ki	ki[place]	N	N	D
+ur-...	_[1][-ak]	PN	PN.GEN.ABS	D
+ugu2	ugu[capital]	N	N	D
+lugal-ezem	Lugalezem[1]	PN	PN	D
+ba-a-gar	ba-e-gar[place][-ø]	V	MID.L2.V.3-SG-S	D
+kiszib3	kiszib[seal]	N	N	D
+ur-{d}szara2	Urszara[1]	PN	PN	D
+mu	mu[year]	N	N	D
+ki-masz{ki}	Kimasz[1]	SN	SN.ABS	D
+ba-hul	ba-hulu[destroy][-ø]	V	MID.V.3-SG-S	D
+ur-{d}szara2	Urszara[1]	PN	PN	D
+dub-sar	dubsar[scribe]	N	N	D
+dumu	dumu[child]	N	N	D
+lugal-uszur4	Lugaluszur[1][-ak]	PN	PN.GEN	D

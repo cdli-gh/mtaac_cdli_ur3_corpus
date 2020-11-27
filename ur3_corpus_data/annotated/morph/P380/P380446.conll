@@ -1,0 +1,17 @@
+#new_text=P380446
+FORM	SEGM	XPOSTAG	XPOSTAG	POS
+1(disz)	1(disz)[one]	NU	NU	D
+ur-{d}ig-alim	Urigalim[1]	FN	PN	D
+dumu	dumu[child]	N	N	D
+ur-{d}...	_[1][-ra]	PN	PN.GEN	D
+mu	mu[year]	N	N	D
+e2	e[house]	N	N	D
+kikken2-sze3	_	N	N.GEN.GEN.TERM	Iabcdefg
+1(disz)	1(disz)[one]	NU	NU	D
+...	_[_]	PN	N	D
+mu	mu[year]	N	N	D
+ki	ki[place]	N	N	D
+...-ba-sze3	_	PN	PN.GEN.TERM	Iabcdefg
+mu	mu[year]	N	N	D
+si-ma-num2{ki}	Simanum[1][-ø]	GN	SN.ABS	D
+ba-hul	ba-hulu[destroy][-ø]	V	MID.V.3-SG-S	D

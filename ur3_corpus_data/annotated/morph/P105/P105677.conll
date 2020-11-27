@@ -1,0 +1,20 @@
+#new_text=P105677
+FORM	SEGM	XPOSTAG	XPOSTAG	POS
+1(asz)	1(asz)[one]	NU	NU	D
+3(barig)	3(bariga)[unit]	NU	N	D
+gur	gur[unit]	N	N	D
+7(disz)	7(disz)[one][-sze]	NU	NU	D
+1/2(disz)	1/2(disz)[one]	NU	NU	D
+sila3	sila[unit]	N	N	D
+sze-gesz-i3	szegeszi[sesame_seed]	PN	N	D
+giri3	giri[foot]	N	N	D
+giri3-ni	Girini[1][-ra]	PN	PN.DAT-H	D
+3(barig)	3(bariga)[unit]	NU	N	D
+5(ban2)	5(ban)[unit]	NU	N	D
+5(disz)	5(disz)[one]	NU	NU	D
+sila3	sila[unit]	N	N	D
+sze-gesz-i3	szegeszi[sesame_seed]	PN	N	D
+giri3	giri[foot]	N	N	D
+szu-{d}dumu-zi	_	PN	PN.ERG	Iab
+dam	dam[spouse]	N	N	D
+lugal-bara2	_	PN	PN.GEN.ABS	Iab

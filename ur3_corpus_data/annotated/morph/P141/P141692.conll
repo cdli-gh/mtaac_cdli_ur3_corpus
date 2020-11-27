@@ -1,0 +1,26 @@
+#new_text=P141692
+FORM	SEGM	XPOSTAG	XPOSTAG	POS
+4(disz)	4(disz)[one]	NU	NU	D
+udu	udu[sheep]	N	N	D
+3(disz)	3(disz)[one]	NU	NU	D
+masz2	masz[goat]	N	N	D
+udu	udu[sheep]	N	N	D
+szu-nir	szunir[emblem][-sze]	N	N	D
+{d}szara2	Szara[1][-ak]	DN	DN	D
+e2	e[house]	N	N	D
+{d}szara2-ka	_	DN	DN	POS
+ki	ki[place]	N	N	D
+szesz-szesz	Szeszszesz[1][-ak]	PN	PN.GEN	D
+iszib-ta	_	N	N	POS
+{d}szara2-a-mu	Szara'amu[1]	PN	PN	D
+kuruszda	kuruszda[animal_fattener][-ø]	N	N.GEN.ABS	D
+i3-dab5	i[-n]-dab[seize][-ø]	V	FIN.3-SG-H-A.V.3-SG-P	D
+mu	mu[year]	N	N	D
+us2-sa	us[follow]-a	V	NF.V.PT	D
+an-sza-an{ki}	Anszan[1][-ø]	GN	GN.ABS	D
+ba-hul	ba-hulu[destroy][-ø]	V	MID.V.3-SG-S	D
+{d}szara2-a-mu	Szara'amu[1]	PN	PN	D
+dumu	dumu[child]	N	N	D
+ur-{d}...	_[1][-ra]	PN	PN.GEN	D
+...	_[_]	PN	N	D
+kuruszda	kuruszda[animal_fattener][-ø]	N	N.GEN.ABS	D

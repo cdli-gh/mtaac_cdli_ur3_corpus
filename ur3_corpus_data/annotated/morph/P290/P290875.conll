@@ -1,0 +1,27 @@
+#new_text=P290875
+FORM	SEGM	XPOSTAG	XPOSTAG	POS
+5(u)	5(u)[ten]	NU	NU	D
+7(disz)	7(disz)[one][-sze]	NU	NU	D
+gurusz	gurusz[male]	N	N	D
+u4	ud[day]	N	N	D
+1(disz)-sze3	1(disz)[one]-sze	NU	NU.TERM	D
+ad-kup4-me	adKID[basket_weaver][-ø]-mesz	N	N.ABS.COP-3-PL	D
+gi	gi[reed][-ø]	N	N	D
+dar-da	_	V	V	POS
+{gi}gil	_	N	N	Ia
+sur-ra	_	V	NF.V.RDP.ABS.GEN.GEN.ABL	Iabcdefghi
+ugula	ugula[overseer][-ø]	N	N	D
+a-gu	Agu[1][-ak]	PN	PN	D
+kiszib3	kiszib[seal]	N	N	D
+a-szi-an	Aszi'an[1][-ak]	PN	PN.GEN	D
+iti	iti[month]	N	N	D
+{d}pa4-u2-e	Pa'u'e[1][-'a]	MN	MN.L1	D
+mu	mu[year]	N	N	D
+en	en[priest]	N	N	D
+ga-esz{ki}	Ga'esz[1][-ak][-ø]	SN	SN.GEN.ABS	D
+ba-hun	ba-hug[hire][-ø]	V	MID.V.3-SG-S	D
+u2-szi-an	_	PN	PN.GEN	Iab
+ARAD2	arad[slave]	N	N	D
+{d}szara2	Szara[1][-ak]	DN	DN	D
+dumu	dumu[child]	N	N	D
+lugal-sa6-ga	Lugalsaga[1][-ak]	PN	PN.GEN	D

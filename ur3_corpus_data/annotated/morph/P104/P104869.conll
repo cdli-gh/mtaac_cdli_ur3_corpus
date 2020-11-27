@@ -1,0 +1,18 @@
+#new_text=P104869
+FORM	SEGM	XPOSTAG	XPOSTAG	POS
+1(u)	1(u)[ten]	NU	NU	D
+1(barig)	1(bariga)[unit]	NU	N	D
+3(ban2)	3(ban)[unit]	NU	N	D
+sze	sze[barley]	N	N	D
+gur	gur[unit]	N	N	D
+lugal	lugal[king]	N	N	D
+sag	sag[head]	N	N	D
+gur-ra	gur[unit]-ak	V	NF.V.PT	D
+ugu2	ugu[capital]	N	N	D
+ur-{d}igi-zi-bar-ra-ta	_	PN	PN.GEN.ABL	Iabcdefg
+zi-zi-dam	_	V	V	POS
+mu	mu[year]	N	N	D
+kar2-har{ki}	_	GN	SN.GEN	D
+a-ra2	ara[times]	N	N	D
+3(disz)-kam-asz	3(disz)[one]-ak-am-sze	NU	NU.GEN.COP-3-SG.TERM	D
+ba-hul	ba-hulu[destroy][-ø]	V	MID.V.3-SG-S	D

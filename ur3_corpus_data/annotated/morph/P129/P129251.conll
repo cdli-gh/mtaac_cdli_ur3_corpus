@@ -1,0 +1,21 @@
+#new_text=P129251
+FORM	SEGM	XPOSTAG	XPOSTAG	POS
+1(ban2)	1(ban)[unit]	NU	N	D
+kasz	kasz[beer]	N	N	D
+1(ban2)	1(ban)[unit]	NU	N	D
+ninda	ninda[bread]	N	N	D
+5(disz)	5(disz)[one]	NU	NU	D
+gin2	gig[unit]	N	N	D
+szum2	szum[garlic]	N	N	D
+1(u)	1(u)[ten]	NU	NU	D
+dabin	dabin[semolina]	N	N	D
+dingir-ba-ni	_	PN	PN	D
+lu2	lu[person]	N	N	D
+na-ga-ab-tum-ma	_	N	N.GEN.GEN.ABS	Iabcdefg
+ma2-sze3	_	PN	PN	POS
+im-szi-gen-na	_	V	NF.V.PT	Iabcde
+iti	iti[month]	N	N	D
+nesag	Nesag[1][-'a]	N	MN.L1	D
+mu	mu[year]	N	N	D
+hu-hu-nu-ri{ki}	Huhunuri[1][-ø]	GN	SN.ABS	D
+ba-hul	ba-hulu[destroy][-ø]	V	MID.V.3-SG-S	D

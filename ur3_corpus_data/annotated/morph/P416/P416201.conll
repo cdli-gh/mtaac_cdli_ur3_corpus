@@ -1,0 +1,23 @@
+#new_text=P416201
+FORM	SEGM	XPOSTAG	XPOSTAG	POS
+1(u)	1(u)[ten]	NU	NU	D
+5(disz)	5(disz)[one]	NU	NU	D
+tug2	tug[textile]	N	N	D
+usz-bar	uszbar[weaver][-ak]	N	N	D
+...	_[_]	PN	N	D
+nar	_	N	N	POS
+a-ru-a	_	GN	GN	POS
+{d}szu-{d}suen-ka-me	_	DN	DN	POS
+1(u)	1(u)[ten]	NU	NU	D
+1(disz)	1(disz)[one]	NU	NU	D
+nar	_	N	N	POS
+a-ru-a	_	GN	GN	POS
+{d}amar-{d}suen-ka-me	_	DN	DN	POS
+in-ba-esz	_	N	N	POS
+iti	iti[month]	N	N	D
+szu-esz5-sza	Szu'eszsza[1][-'a]	MN	MN.L1	D
+mu	mu[year]	N	N	D
+us2-sa	us[follow]-a	V	NF.V.PT	D
+bad3	bad[wall]	N	N	D
+mar-tu	Martu[1][-ø]	EN	EN.ABS	D
+ba-du3	ba-du[build][-ø]	V	MID.V.3-SG-S	D

@@ -1,0 +1,24 @@
+#new_text=P116699
+FORM	SEGM	XPOSTAG	XPOSTAG	POS
+1(barig)	1(bariga)[unit]	NU	N	D
+3(ban2)	3(ban)[unit]	NU	N	D
+x	_[_]	N	N	D
+numun	numun[seed]	N	N	D
+szum2	szum[garlic]	N	N	D
+gaz	gaz[type_of_garlic][-ak]	N	N	D
+gesztin	gesztin[vine]	N	N	D
+1(u)	1(u)[ten]	NU	NU	D
+x-ra	_	DN	DN	POS
+{d}ba-ba6	_	DN	DN	D
+ki	ki[place]	N	N	D
+ur-{d}ba-ba6	Urbaba[1]	PN	PN	D
+dumu	dumu[child]	N	N	D
+ur-i7-edin-na-ta	_	PN	PN.GEN.ABL	Ia
+kiszib3	kiszib[seal]	N	N	D
+ur-{d}li9-si4	Urlisi[1]	PN	PN	D
+dumu	dumu[child]	N	N	D
+ab-ba-mu	Abbamu[1][-ak][-ak]	PN	PN.GEN.GEN	D
+mu	mu[year]	N	N	D
+en	en[priest]	N	N	D
+eridu{ki}	Eridug[1][-ak][-ø]	SN	SN.GEN.ABS	D
+ba-hun	ba-hug[hire][-ø]	V	MID.V.3-SG-S	D

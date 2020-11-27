@@ -1,0 +1,20 @@
+#new_text=P112345
+FORM	SEGM	XPOSTAG	XPOSTAG	POS
+3(disz)	3(disz)[one]	NU	NU	D
+gurusz	gurusz[male]	N	N	D
+u4	ud[day]	N	N	D
+1(u)	1(u)[ten]	NU	NU	D
+2(disz)-sze3	2(disz)[one]-sze	NU	NU.TERM	D
+a-da	_	PN	PN	Iabcde
+gub-ba	gub[assigned]-a[-ak][-ø]	V	NF.V.PT	D
+ki	ki[place]	N	N	D
+gu-ru-ma-ka	_	PN	PN	Iabcdefgh
+ugula	ugula[overseer][-ø]	N	N	D
+lugal-mu-ma-ag2	Lugalmumag[1][-ø]	PN	PN.ABS	D
+giri3	giri[foot]	N	N	D
+a-szi-an	Aszi'an[1][-ak]	PN	PN.GEN	D
+iti	iti[month]	N	N	D
+e2-iti-6(disz)	E'iti6[1][-'a]	NU	MN.L1	D
+mu	mu[year]	N	N	D
+{d}amar-{d}suen	Amarsuen[1]	RN	RN	D
+lugal	lugal[king]	N	N	D

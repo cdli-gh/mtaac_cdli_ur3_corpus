@@ -1,0 +1,26 @@
+#new_text=P201217
+FORM	SEGM	XPOSTAG	XPOSTAG	POS
+1(disz)	1(disz)[one]	NU	NU	D
+gir-sze6	_	N	N	POS
+gur	gur[unit]	N	N	D
+lugal	lugal[king]	N	N	D
+1(disz)	1(disz)[one]	NU	NU	D
+ku6-sze6	kusze[cooked_fish]	N	N	D
+gur	gur[unit]	N	N	D
+ku6	kud[fish]	N	N	D
+nig2-sur-ra	_	N	N	Ia
+sa2-du11	sadug[offerings]	N	N	D
+{d}nin-gir2-su-ka-sze3	_	DN	DN.GEN.GEN.TERM	Iabcdef
+...-ka	_	PN	PN	POS
+ka5-da-mu	_	PN	PN	Iabcde
+szu	szu[hand][-e]	N	N.L3-NH	D
+ba-ti	ba[-n]-teg[accept][-ø]	V	MID.3-SG-H-A.V.3-SG-P	D
+giri3	giri[foot]	N	N	D
+...-la-a	_	PN	PN.GEN.GEN	Iabcdef
+iti	iti[month]	N	N	D
+gu4-ra2-bi2-mu2-mu2	Gurabimumu[1][-'a]	MN	MN.L1	D
+mu	mu[year]	N	N	D
+an-sza-an{ki}	Anszan[1][-ø]	GN	GN.ABS	D
+mu	mu[year]	N	N	D
+us2-sa	us[follow]-a	V	NF.V.PT	D
+ba-a	ba[allot]-a	PN	NF.V.PT	D

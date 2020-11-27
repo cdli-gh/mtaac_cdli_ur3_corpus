@@ -1,0 +1,15 @@
+#new_text=P275256
+FORM	SEGM	XPOSTAG	XPOSTAG	POS
+1(disz)	1(disz)[one]	NU	NU	D
+gu	gu[cord]	N	N	D
+u5-az{muszen}	_	PN	PN	POS
+3(disz)	3(disz)[one]	NU	NU	D
+uz-tur	_	PN	PN	POS
+iti-ta	_	N	N	POS
+u4	ud[day]	N	N	D
+7(disz)	7(disz)[one][-sze]	NU	NU	D
+ba-zal	ba-zal[pass][-ø][-a][-'a]	V	MID.V.3-SG-S.SUB	D
+ba-usz2	ba-ug[die][-esz]	V	MID.V.PL.3-PL-S	D
+...	_[_]	PN	N	D
+iti	iti[month]	N	N	D
+ki-siki-{d}nin-a-zu	Kisikininazu[1][-'a]	MN	MN.L1	D

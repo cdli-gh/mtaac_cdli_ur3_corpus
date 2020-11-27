@@ -1,0 +1,21 @@
+#new_text=P105708
+FORM	SEGM	XPOSTAG	XPOSTAG	POS
+...	_[_]	PN	N	D
+...-ta	_[_]-ta	PN	PN.GEN.ABL	D
+...-ti	_[_]	PN	PN.GEN.ABL	Iabcdefgh
+...	_[_]	PN	N	D
+DISZ	_	MN	MN	POS
+...	_[_]	PN	N	D
+NI-sze3	_	 	 	POS
+...-a	_	PN	PN	POS
+...-mu	_	PN	PN	D
+x	_[_]	N	N	D
+x	_[_]	N	N	D
+...	_[_]	PN	N	D
+iti	iti[month]	N	N	D
+ezem-{d}szul-gi	Ezemszulgir[1][-'a]	MN	MN.L1	D
+mu	mu[year]	N	N	D
+us2-sa	us[follow]-a	V	NF.V.PT	D
+en	en[priest]	N	N	D
+eridu{ki}	Eridug[1][-ak][-ø]	SN	SN.GEN.ABS	D
+ba-hun	ba-hug[hire][-ø]	V	MID.V.3-SG-S	D

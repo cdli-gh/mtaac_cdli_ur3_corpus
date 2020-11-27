@@ -1,0 +1,22 @@
+#new_text=P210340
+FORM	SEGM	XPOSTAG	XPOSTAG	POS
+2(u)	2(u)[ten]	NU	NU	D
+4(disz)	4(disz)[one]	NU	NU	D
+sar	sar[unit]	N	N	D
+{gesz}geszimmar	gesznimbar[palm]	PN	N	D
+inim-{d}inanna	Iniminanna[1]	PN	PN	D
+iszib	iszib[priest]	N	N	D
+1(disz)	1(disz)[one]	NU	NU	D
+szen-na	_	V	V	POS
+al-lu5-pa2-li2-is	_	PN	PN	Iabcde
+mu-kux(DU)	mukur[delivery][-ø]	N	N	D
+{d}szara2	Szara[1][-ak]	DN	DN	D
+sza3	szag[heart]	N	N	D
+|KI.AN|{ki}	Ki'an[1][-ak][-ra]	SN	SN.GEN.DAT-H	D
+iti	iti[month]	N	N	D
+e2	e[house]	N	N	D
+iti-6(disz)	_	NU	NU	POS
+mu	mu[year]	N	N	D
+e2	e[house]	N	N	D
+{d}szara2	Szara[1][-ak]	DN	DN	D
+ba-du3	ba-du[build][-ø]	V	MID.V.3-SG-S	D

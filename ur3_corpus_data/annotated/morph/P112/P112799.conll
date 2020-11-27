@@ -1,0 +1,31 @@
+#new_text=P112799
+FORM	SEGM	XPOSTAG	XPOSTAG	POS
+5(u)	5(u)[ten]	NU	NU	D
+5(asz)	5(asz)[one]	NU	NU	D
+3(barig)	3(bariga)[unit]	NU	N	D
+	_	_
+5(disz)	5(disz)[one]	NU	NU	D
+5/6(disz)	5/6(disz)[one]	NU	NU	D
+sila3	sila[unit]	N	N	D
+sze	sze[barley]	N	N	D
+gur	gur[unit]	N	N	D
+lugal	lugal[king]	N	N	D
+a2	a[time]	N	N	D
+lu2	lu[person]	N	N	D
+hun-ga2	hug[hire]-a	V	NF.V.PT	D
+sahar	sahar[earth][-ø]	N	N.GEN	D
+zi-zi-de3	_	V	V	POS
+ki	ki[place]	N	N	D
+a-da-lal3	Adalal[1][-ra]	N	PN	D
+szabra-ta	_	N	N.ABL	Iabcde
+lu2-{d}nanna	Lunanna[1]	PN	PN	D
+nu-banda3-gu4-ke4	_	N	N.ERG	Iabcde
+in-zi	_	PN	PN	Iabc
+a-sza3	aszag[field]	N	N	D
+ma-da	mada[land][-ak][-ø]	N	N	D
+umma{ki}	Umma[1][-ak][-ø]	SN	SN.GEN.ABS	D
+iti	iti[month]	N	N	D
+ezem-an-na	Ezemanna[1][-'a]	MN	MN.L1	D
+mu	mu[year]	N	N	D
+ha-ar-szi	Harszi[1][-ø]	PN	SN.ABS	D
+ba-hul	ba-hulu[destroy][-ø]	V	MID.V.3-SG-S	D

@@ -1,0 +1,27 @@
+#new_text=P104997
+FORM	SEGM	XPOSTAG	XPOSTAG	POS
+7(disz)	7(disz)[one][-sze]	NU	NU	D
+ansze-gesz	_	N	N	Ia
+engar	engar[farmer]	N	N	D
+ur-{d}dun	_	PN	PN	Iabcde
+6(disz)	6(disz)[one][-sze]	NU	NU	D
+ansze-gesz	_	N	N	Ia
+engar	engar[farmer]	N	N	D
+lu2-{d}en-lil2-la2	Lu'enlila[1]	PN	PN	D
+5(disz)	5(disz)[one]	NU	NU	D
+gu4-gesz	gudgesz[draught_ox]	N	N.ABS	D
+engar	engar[farmer]	N	N	D
+lu2-tum-mu	_	PN	PN	Iabcde
+4(disz)	4(disz)[one]	NU	NU	D
+gu-gesz	_	PN	PN.DAT-H	Iabcdefgh
+engar	engar[farmer]	N	N	D
+...	_[_]	PN	N	D
+2(disz)	2(disz)[one]	NU	NU	D
+gu4-gesz	gudgesz[draught_ox]	N	N.ABS	D
+engar	engar[farmer]	N	N	D
+...	_[_]	PN	N	D
+nu-banda3	nubanda[overseer][-ø]	N	N	D
+lu2-{d}inanna	Lu'inanna[1]	PN	PN	D
+mu	mu[year]	N	N	D
+si-mu-ru-um{ki}	Simurrum[1]	SN	SN.ABS	D
+ba-hul	ba-hulu[destroy][-ø]	V	MID.V.3-SG-S	D

@@ -1,0 +1,25 @@
+#new_text=P121309
+FORM	SEGM	XPOSTAG	XPOSTAG	POS
+1(ban2)	1(ban)[unit]	NU	N	D
+i3	i[oil]	N	N	D
+si-sa2	_	V	V	POS
+ur-{d}suen	Ursuen[1]	PN	PN	D
+2(ban2)	2(ban)[unit]	NU	N	D
+i3	i[oil]	N	N	D
+si-sa2	_	V	V	POS
+ur-{d}ma-mi	Urmami[1][-ra]	PN	PN.DAT-H	D
+2(ban2)	2(ban)[unit]	NU	N	D
+5(disz)	5(disz)[one]	NU	NU	D
+sila3	sila[unit]	N	N	D
+i3	i[oil]	N	N	D
+husz-a	_	V	V	POS
+ur-{d}ma-mi	Urmami[1][-ra]	PN	PN.DAT-H	D
+a-ra2	ara[times]	N	N	D
+2(disz)-kam	2(disz)[one]-ak-am	NU	NU.GEN.COP-3-SG	D
+szunigin	szunigin[total]	N	N	D
+5(ban2)	5(ban)[unit]	NU	N	D
+5(disz)	5(disz)[one]	NU	NU	D
+sila3	sila[unit]	N	N	D
+i3	i[oil]	N	N	D
+hi-a	hi[mix]-a[-ø]	V	NF.V.PT	D
+zi-ga	zig[expend]-a	V	NF.V.PT	D

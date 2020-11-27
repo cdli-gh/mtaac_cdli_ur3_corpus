@@ -1,0 +1,20 @@
+#new_text=P500239
+FORM	SEGM	XPOSTAG	XPOSTAG	POS
+1(u)	1(u)[ten]	NU	NU	D
+4(asz)	4(asz)[one]	NU	NU	D
+sze-kur	_	N	N	POS
+gur	gur[unit]	N	N	D
+lugal	lugal[king]	N	N	D
+sze-numun-sze3	_	N	N.3-SG-H-POSS.TERM	Iabcdefg
+ki	ki[place]	N	N	D
+ur-{d}nin-gir2-su-ta	_	PN	PN.GEN.ABL	Iab
+e2-duru5	eduru[village]	N	N	D
+{d}nin-gesz-zi-da-ta	_	DN	DN	POS
+lum-ma	_	PN	PN	Ia
+szu	szu[hand][-e]	N	N.L3-NH	D
+ba-ti	ba[-n]-teg[accept][-ø]	V	MID.3-SG-H-A.V.3-SG-P	D
+giri3	giri[foot]	N	N	D
+ur-{d}ba-ba6	Urbaba[1]	PN	PN	D
+mu	mu[year]	N	N	D
+ha-ar-szi{ki}	Harszi[1]	SN	SN	D
+ba-hul	ba-hulu[destroy][-ø]	V	MID.V.3-SG-S	D

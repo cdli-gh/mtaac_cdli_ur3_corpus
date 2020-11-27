@@ -1,0 +1,19 @@
+#new_text=P207479
+FORM	SEGM	XPOSTAG	XPOSTAG	POS
+5(bur3)	5(bur)[unit]	NU	N	D
+1(esze3)	1(esze)[unit]	NU	N	D
+5(iku)	5(iku)[unit]	NU	N	D
+1/2(iku)	1/2(iku)[unit]	NU	N	D
+GAN2	gana[field]	N	N	D
+a-sza3	aszag[field]	N	N	D
+nin-gal-zu-gu-la	_	FN	FN	POS
+2(bur3)	2(bur)[unit]	NU	N	D
+1(iku)	1(iku)[unit]	NU	N	D
+GAN2	gana[field]	N	N	D
+a-sza3	aszag[field]	N	N	D
+nin-gal-zu-tur	_	FN	FN	POS
+ur-{d}lamma	Urlamma[1]	PN	PN	D
+dumu	dumu[child]	N	N	D
+ur-{d}en-lil2-la2	Urenlilak[1][-ak][-'a]	PN	PN.DAT-H	D
+inim	inim[word]	N	N	D
+ba-a-ad-da-ugu2-ma-ta	_	V	V	POS

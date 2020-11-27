@@ -1,0 +1,21 @@
+#new_text=P128935
+FORM	SEGM	XPOSTAG	XPOSTAG	POS
+3(disz)	3(disz)[one]	NU	NU	D
+ud5	uzud[goat]	N	N	D
+1(disz)	1(disz)[one]	NU	NU	D
+u8	u[ewe]	N	N	D
+1(disz)	1(disz)[one]	NU	NU	D
+masz2-nita2	masznita[male_goat][-ø]	N	N.ABS	D
+1(disz)	1(disz)[one]	NU	NU	D
+sila4-nita2	_	N	N.GEN	Iabcde
+sa2-du11	sadug[offerings]	N	N	D
+{d}be-la-at-suh6-ne-er	_	DN	DN	POS
+{d}be-la-at-dar-ra-ba-an	Belatdarraban[1][-ak][-ak][-sze]	PN	DN.GEN.GEN.TERM	D
+an-nu-ni-tum	Annunitum[1][-ra]	PN	PN.DAT-H	D
+u3	u[and]	CNJ	CNJ	D
+{d}ul-ma-si-tum	_	PN	PN	POS
+iti	iti[month]	N	N	D
+ezem-me-ki-gal2	Ezemmekigal[1][-ø]	MN	MN.L1	D
+mu	mu[year]	N	N	D
+sza-asz-ru{ki}	Szaszru[1][-ø]	SN	SN.ABS	D
+ba-hul-a	ba-hulu[destroy][-ø]-a	V	MID.V.3-SG-S.SUB	D

@@ -1,0 +1,22 @@
+#new_text=P143692
+FORM	SEGM	XPOSTAG	XPOSTAG	POS
+2(asz)	2(asz)[one]	NU	NU	D
+2(barig)	2(bariga)[unit]	NU	N	D
+sze	sze[barley]	N	N	D
+gur	gur[unit]	N	N	D
+sze-ba	szeba[ration]	N	N	D
+lugal-me-lam2	Lugalmelam[1]	PN	PN	D
+szakkan-kesz2	_	PN	PN	POS
+1(asz)	1(asz)[one]	NU	NU	D
+2(barig)	2(bariga)[unit]	NU	N	D
+sze	sze[barley]	N	N	D
+gur	gur[unit]	N	N	D
+sze	sze[barley]	N	N	D
+szuku	szukur[prebend_land]	N	N	D
+a-kal-la	Akala[1]	PN	PN	D
+giri3	giri[foot]	N	N	D
+a-du-mu	Adumu[1][-ra]	PN	PN.GEN	D
+zi-ga-am3	zig[expend]-a[-ø]-am	N	NF.V.PT.ABS.COP-3-SG	D
+mu	mu[year]	N	N	D
+ki-masz{ki}	Kimasz[1]	SN	SN.ABS	D
+ba-hul	ba-hulu[destroy][-ø]	V	MID.V.3-SG-S	D

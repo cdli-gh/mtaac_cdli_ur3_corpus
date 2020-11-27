@@ -1,0 +1,25 @@
+#new_text=P499886
+FORM	SEGM	XPOSTAG	XPOSTAG	POS
+1(ban2)	1(ban)[unit]	NU	N	D
+dabin	dabin[semolina]	N	N	D
+lugal	lugal[king]	N	N	D
+5(disz)	5(disz)[one]	NU	NU	D
+sila3	sila[unit]	N	N	D
+kasz	kasz[beer]	N	N	D
+du	gin[quality_designation][-ø]	V	NF.V.ABS	D
+mar-sa-asz	marsa[military_depot]-sze	PN	N.TERM	D
+sza3-gal	szaggal[food]	N	N	D
+nagar	nagar[carpenter]	N	N	D
+ba-ra	bar[release]-a	V	NF.V.PT	D
+kar-NE	_	PN	PN	Iabcdefgh
+ki	ki[place]	N	N	D
+ur-{d}szul-pa-e3-ta	Urszulpa'e[1][-ak]-ta	PN	PN.GEN.ABL	D
+kiszib3	kiszib[seal]	N	N	D
+ur-am3-ma	Uramma[1][-ak]	PN	PN	D
+giri3	giri[foot]	N	N	D
+a-kal-la	Akala[1]	PN	PN	D
+iti	iti[month]	N	N	D
+diri	diri[intercalary_month]	N	N	D
+mu	mu[year]	N	N	D
+sza-asz-ru	_	GN	GN	POS
+ba-hul	ba-hulu[destroy][-ø]	V	MID.V.3-SG-S	D

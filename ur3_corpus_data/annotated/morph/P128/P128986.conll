@@ -1,0 +1,24 @@
+#new_text=P128986
+FORM	SEGM	XPOSTAG	XPOSTAG	POS
+5(disz)	5(disz)[one]	NU	NU	D
+gurusz	gurusz[male]	N	N	D
+sze	sze[barley]	N	N	D
+gurx(|SZE.KIN|)-a	gur[reap]-a	V	NF.V.PT	D
+u4	ud[day]	N	N	D
+3(disz)-sze3	3(disz)[one]-sze	NU	NU.TERM	D
+a-sza3	aszag[field]	N	N	D
+a-gesztin-na	_	FN	FN	POS
+ugula	ugula[overseer][-ø]	N	N	D
+da-a-gi4	Dayagi[1][-ak]	PN	PN	D
+kiszib3	kiszib[seal]	N	N	D
+lugal-e2-mah-e	Lugalemahe[1]	N	PN	D
+iti	iti[month]	N	N	D
+sig4-{gesz}i3-szub-ga2-ra	_	MN	MN	Iabcde
+mu	mu[year]	N	N	D
+en	en[priest]	N	N	D
+{d}x	_[1]	DN	DN	D
+ba-hun-ga2	ba-hug[hire][-ø]	V	MID.V.3-SG-S	D
+lugal-e2-mah-e	Lugalemahe[1]	N	PN	D
+dub-sar	dubsar[scribe]	N	N	D
+dumu	dumu[child]	N	N	D
+lugal-ku3-ga-ni	Lugalkugani[1][-ak]	PN	PN.GEN	D

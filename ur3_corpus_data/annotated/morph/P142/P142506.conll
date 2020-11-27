@@ -1,0 +1,27 @@
+#new_text=P142506
+FORM	SEGM	XPOSTAG	XPOSTAG	POS
+2(u)	2(u)[ten]	NU	NU	D
+3(ban2)	3(ban)[unit]	NU	N	D
+1(disz)	1(disz)[one]	NU	NU	D
+1/2(disz)	1/2(disz)[one]	NU	NU	D
+sila3	sila[unit]	N	N	D
+sze-ta	sze[barley]-ta	N	N.ABL	D
+2(u)	2(u)[ten]	NU	NU	D
+2(barig)	2(bariga)[unit]	NU	N	D
+3(ban2)	3(ban)[unit]	NU	N	D
+1(disz)	1(disz)[one]	NU	NU	D
+sila3-ta	sila[unit]-ta	N	N.ABL	D
+3(u)	3(u)[ten]	NU	NU	D
+6(disz)	6(disz)[one][-sze]	NU	NU	D
+|MASZ.EN.GAG|	_	PN	PN	POS
+2(disz)	2(disz)[one]	NU	NU	D
+sila3-ta	sila[unit]-ta	N	N.ABL	D
+iti	iti[month]	N	N	D
+ezem-{d}szul-gi	Ezemszulgir[1][-'a]	MN	MN.L1	D
+5(disz)	5(disz)[one]	NU	NU	D
+gurusz	gurusz[male]	N	N	D
+ka	kag[mouth]	N	N	D
+e2	e[house]	N	N	D
+gub-ba	gub[assigned]-a[-ak][-ø]	V	NF.V.PT	D
+iti	iti[month]	N	N	D
+ezem-{d}dumu-zi	Ezemdumuzi[1][-'a]	MN	MN.L1	D

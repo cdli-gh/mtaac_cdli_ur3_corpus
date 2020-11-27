@@ -1,0 +1,26 @@
+#new_text=P105055
+FORM	SEGM	XPOSTAG	XPOSTAG	POS
+sa2-du11	sadug[offerings]	N	N	D
+e2-u4	_	PN	PN	POS
+7(disz)	7(disz)[one][-sze]	NU	NU	D
+u3	u[and]	CNJ	CNJ	D
+sze-ba	szeba[ration]	N	N	D
+geme2	geme[female_worker]	N	N	D
+dumu	dumu[child]	N	N	D
+e2	e[house]	N	N	D
+{d}inanna	Inanna[1][-ak]	DN	DN	D
+ki	ki[place]	N	N	D
+szabra	szabra[chief_administrator][-ak]	N	N	D
+{d}inanna-ta	Inanna[1][-ak]-ta	DN	DN.GEN.ABL	D
+ba-zi	ba-zig[expend][-ø]	PN	MID.V.3-SG-S	D
+iti	iti[month]	N	N	D
+...-gar	_	PN	PN	Iabcde
+u4	ud[day]	N	N	D
+...	_[_]	PN	N	D
+mu	mu[year]	N	N	D
+us2-sa	us[follow]-a	V	NF.V.PT	D
+dumu-munus	dumumunus[daughter]	N	N	D
+lugal	lugal[king]	N	N	D
+ensi2	ensik[ruler]	N	N	D
+za-ab-sza-li{ki}-ke4	_	SN	SN.GEN.GEN.ERG	Iabcdef
+ba-an-tuku	_	V	MID.3-SG-H.DAT.V.3-SG-S	Iabcdefg

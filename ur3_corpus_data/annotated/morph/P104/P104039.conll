@@ -1,0 +1,26 @@
+#new_text=P104039
+FORM	SEGM	XPOSTAG	XPOSTAG	POS
+1(disz)	1(disz)[one]	NU	NU	D
+masz-da3-nita2	maszdanita[male_gazelle]	N	N	D
+szu-gid2	szugid[animal_designation][-ø]	N	N	D
+1(disz)	1(disz)[one]	NU	NU	D
+amar	amar[calf][-ak]	N	N	D
+masz-da3-nita2	maszdanita[male_gazelle]	N	N	D
+ba-usz2	ba-ug[die][-esz]	V	MID.V.PL.3-PL-S	D
+e2-kiszib3-ba-sze3	ekiszibak[storeroom]-sze	TN	N.TERM	D
+{d}szul-gi-iri-mu	Szulgi'irimu[1][-e]	PN	PN.ERG	D
+szu	szu[hand][-e]	N	N.L3-NH	D
+ba-ti	ba[-n]-teg[accept][-ø]	V	MID.3-SG-H-A.V.3-SG-P	D
+u4	ud[day]	N	N	D
+2(u)-kam	2(u)[ten]-ak-am	NU	NU.GEN.COP-3-SG	D
+ki	ki[place]	N	N	D
+lugal-amar-ku3-ta	_	PN	PN.GEN.ABL	Iabcdef
+ba-zi	ba-zig[expend][-ø]	PN	MID.V.3-SG-S	D
+iti	iti[month]	N	N	D
+u5-bi2-gu7	Ubigu[1][-'a]	MN	MN.L1	D
+mu	mu[year]	N	N	D
+en-nun-e-ki-ag2	_	N	N	POS
+en	en[priest]	N	N	D
+eridu{ki}	Eridug[1][-ak][-ø]	SN	SN.GEN.ABS	D
+ba-hun	ba-hug[hire][-ø]	V	MID.V.3-SG-S	D
+2(disz)	2(disz)[one]	NU	NU	D

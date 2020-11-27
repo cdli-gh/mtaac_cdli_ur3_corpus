@@ -1,0 +1,20 @@
+#new_text=P121834
+FORM	SEGM	XPOSTAG	XPOSTAG	POS
+1(gesz2)	1(gesz)[sixty]	NU	NU	D
+2(u)	2(u)[ten]	NU	NU	D
+gurusz	gurusz[male]	N	N	D
+u4	ud[day]	N	N	D
+1(disz)-sze3	1(disz)[one]-sze	NU	NU.TERM	D
+ki	ki[place]	N	N	D
+su4-sar	_	V	NF.V.ABS.GEN	Iabcdef
+gurx(|SZE.KIN|)-a	gur[reap]-a	V	NF.V.PT	D
+lu2-gi-na	Lugina[1][-ak][-ak]	PN	PN.GEN	D
+ugula	ugula[overseer][-ø]	N	N	D
+lugal-ma2-gur8-re	Lugalmagure[1][-ø]	PN	PN	D
+kiszib3	kiszib[seal]	N	N	D
+nig2-ba-e	_	PN	PN	POS
+mu	mu[year]	N	N	D
+ku3	kug[silver]	N	N	D
+gu:za	_	N	N	Ia
+{d}en-lil2-la2	Enlil[1][-ak][-ø]	DN	DN.GEN	D
+ba-dim2	ba-dim[create][-ø]	V	MID.V.3-SG-S	D

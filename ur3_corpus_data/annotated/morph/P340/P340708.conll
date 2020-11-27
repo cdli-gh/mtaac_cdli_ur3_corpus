@@ -1,0 +1,25 @@
+#new_text=P340708
+FORM	SEGM	XPOSTAG	XPOSTAG	POS
+1(gesz2)	1(gesz)[sixty]	NU	NU	D
+1(u)	1(u)[ten]	NU	NU	D
+2(disz)	2(disz)[one]	NU	NU	D
+gurusz	gurusz[male]	N	N	D
+sza3-gu4	szagu[ox-driver]	PN	N	D
+u4	ud[day]	N	N	D
+1(disz)-sze3	1(disz)[one]-sze	NU	NU.TERM	D
+a-sza3-ge	aszag[field]-e	N	N.L3-NH	D
+a	a[water][-ø]	N	N.ABS	D
+du11-ga	dug[irrigate]-a	V	PN	D
+a-sza3	aszag[field]	N	N	D
+lugal	lugal[king]	N	N	D
+ugula	ugula[overseer][-ø]	N	N	D
+szesz-kal-la	Szeszkala[1][-ra]	PN	PN	D
+iti	iti[month]	N	N	D
+{d}dumu-zi	Dumuzi[1][-'a]	MN	MN.L1	D
+mu	mu[year]	N	N	D
+szu-{d}suen	Szusuen[1]	PN	RN	D
+lugal	lugal[king]	N	N	D
+nimgir-an-ne2	Nimgirane[1][-ak]	PN	PN.GEN	D
+dub-sar	dubsar[scribe]	N	N	D
+dumu	dumu[child]	N	N	D
+inim-{d}szara2	Inimszara[1][-ak][-ra]	PN	PN	D

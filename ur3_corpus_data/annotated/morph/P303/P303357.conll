@@ -1,0 +1,22 @@
+#new_text=P303357
+FORM	SEGM	XPOSTAG	XPOSTAG	POS
+5(gesz'u)	5(gesz'u)[six_hundred]	NU	NU	D
+8(gesz2)	8(gesz2)[sixty]	NU	NU	D
+3(u)	3(u)[ten]	NU	NU	D
+6(disz)	6(disz)[one][-sze]	NU	NU	D
+udu	udu[sheep]	N	N	D
+masz2	masz[goat]	N	N	D
+hi-a	hi[mix]-a[-ø]	V	NF.V.PT	D
+zi-ga	zig[expend]-a	V	NF.V.PT	D
+lugal	lugal[king]	N	N	D
+iti	iti[month]	N	N	D
+ezem-mah-ta	_	MN	MN	POS
+iti	iti[month]	N	N	D
+ezem-an-na-sze3	_	MN	MN.TERM	Iabcdefg
+dah-he-dam	_	PN	PN.GEN.COP-3-SG	Iabcdef
+bar-ta	bar[outside]-ta	N	N.ABL	D
+gal2-la	gal[be]-a[-ø]	V	NF.V.PT	D
+mu	mu[year]	N	N	D
+us2-sa	us[follow]-a	V	NF.V.PT	D
+ki-masz{ki}	Kimasz[1]	SN	SN.ABS	D
+ba-hul	ba-hulu[destroy][-ø]	V	MID.V.3-SG-S	D

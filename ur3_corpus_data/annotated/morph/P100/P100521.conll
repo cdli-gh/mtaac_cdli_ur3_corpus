@@ -1,0 +1,25 @@
+#new_text=P100521
+FORM	SEGM	XPOSTAG	XPOSTAG	POS
+4(u)	4(u)[ten]	NU	NU	D
+gurusz	gurusz[male]	N	N	D
+sza3-gu4	szagu[ox-driver]	PN	N	D
+u4	ud[day]	N	N	D
+1(disz)-sze3	1(disz)[one]-sze	NU	NU.TERM	D
+a-sza3	aszag[field]	N	N	D
+amar-{gesz}kiszi17-ta	_	FN	FN	POS
+i7	id[river]	N	N	D
+lugal-sze3	lugal[king][-ak]-sze	N	N.GEN.TERM	D
+gi	gi[reed][-ø]	N	N	D
+ga6-ga2	gag[carry]-a	V	NF.V.PT	D
+ugula	ugula[overseer][-ø]	N	N	D
+ur-e2-nun-na	Urenuna[1]	PN	PN	D
+kiszib3	kiszib[seal]	N	N	D
+a-kal-la	Akala[1]	PN	PN	D
+iti	iti[month]	N	N	D
+ezem-{d}szul-gi	Ezemszulgir[1][-'a]	MN	MN.L1	D
+mu	mu[year]	N	N	D
+ha-ar-szi{ki}	Harszi[1]	SN	SN	D
+ki-masz{ki}	Kimasz[1]	SN	SN.ABS	D
+ba-hul	ba-hulu[destroy][-ø]	V	MID.V.3-SG-S	D
+a-kal-la	Akala[1]	PN	PN	D
+...	_[_]	PN	N	D

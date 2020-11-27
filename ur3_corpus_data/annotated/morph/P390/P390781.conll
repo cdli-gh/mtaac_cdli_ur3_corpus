@@ -1,0 +1,38 @@
+#new_text=P390781
+FORM	SEGM	XPOSTAG	XPOSTAG	POS
+1(disz)	1(disz)[one]	NU	NU	D
+udu	udu[sheep]	N	N	D
+1(disz)	1(disz)[one]	NU	NU	D
+sila4	sila[lamb]	N	N	D
+3(disz)	3(disz)[one]	NU	NU	D
+masz2	masz[goat]	N	N	D
+sag	sag[head]	N	N	D
+5(disz)	5(disz)[one]	NU	NU	D
+i3-ku-bu3-...	_	 	 	POS
+sza-zi-...	_	 	 	POS
+la2-ia3-a	_	PN	PN	POS
+ga2-ga2-dam	gar-gar[place]-ed-am	V	NF.V.RDP.F.COP-3-SG	D
+mu	mu[year]	N	N	D
+si-ma-num2{ki}	Simanum[1][-ø]	GN	SN.ABS	D
+ba-hul	ba-hulu[destroy][-ø]	V	MID.V.3-SG-S	D
+la2-ia3	la'u[arrears]	N	N	D
+3(disz)	3(disz)[one]	NU	NU	D
+kir11	kir[female_lamb]	N	N	D
+du	gin[quality_designation][-ø]	V	NF.V.ABS	D
+la2-ia3	la'u[arrears]	N	N	D
+2(disz)	2(disz)[one]	NU	NU	D
+sila4	sila[lamb]	N	N	D
+du	gin[quality_designation][-ø]	V	NF.V.ABS	D
+giri3	giri[foot]	N	N	D
+ur-nigar{gar}	Urnigar[1]	PN	PN	D
+la2-ia3	la'u[arrears]	N	N	D
+puzur4-ha-li2	_	PN	PN	Iabcde
+mu	mu[year]	N	N	D
+bad3	bad[wall]	N	N	D
+mar-tu	Martu[1][-ø]	EN	EN.ABS	D
+ba-du3	ba-du[build][-ø]	V	MID.V.3-SG-S	D
+ur-nigar{gar}	Urnigar[1]	PN	PN	D
+na-gada	nagada[herdsman][-ak]	N	N.GEN	D
+ugula	ugula[overseer][-ø]	N	N	D
+i-ku-mi-szar	_	PN	PN.GEN.DAT-H	Iab
+...	_[_]	PN	N	D

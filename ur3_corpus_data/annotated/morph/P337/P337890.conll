@@ -1,0 +1,16 @@
+#new_text=P337890
+FORM	SEGM	XPOSTAG	XPOSTAG	POS
+3(asz)	3(asz)[one]	NU	NU	D
+2(barig)	2(bariga)[unit]	NU	N	D
+n	_(_)[_]	NU	NU	D
+x	_[_]	N	N	D
+sza3-gal	szaggal[food]	N	N	D
+gu4	gud[ox]	N	N	D
+...	_[_]	PN	N	D
+ki	ki[place]	N	N	D
+lugal-x-...	_	PN	PN.DAT-H	Iabcdefgh
+mu	mu[year]	N	N	D
+...	_[_]	PN	N	D
+{d}inanna	Inanna[1][-ak]	DN	DN	D
+masz2-e	masz[goat]-e	N	N.L3-NH	D
+i3-pa3	i-pad[find][-ø]	V	FIN.V.3-SG-S	D

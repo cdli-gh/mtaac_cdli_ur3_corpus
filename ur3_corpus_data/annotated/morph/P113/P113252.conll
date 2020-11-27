@@ -1,0 +1,24 @@
+#new_text=P113252
+FORM	SEGM	XPOSTAG	XPOSTAG	POS
+1(u)	1(u)[ten]	NU	NU	D
+5(asz)	5(asz)[one]	NU	NU	D
+gu2	gun[unit]	N	N	D
+x	_[_]	N	N	D
+7(disz)	7(disz)[one][-sze]	NU	NU	D
+ma-na	mana[unit]	N	N	D
+siki-gi	sikigi[wool_type]	N	N	D
+siki	siki[wool][-'a]	N	N	D
+udu	udu[sheep]	N	N	D
+ku-ka	_	PN	PN.GEN.GEN	Iabcdef
+ki	ki[place]	N	N	D
+lugal-a2-zi-da-ta	Lugalazida[1][-ak]-ta	PN	PN.GEN.ABL	D
+{gesz}guzza-ni	_	PN	PN.GEN	Iabcdefgh
+szu	szu[hand][-e]	N	N.L3-NH	D
+ba-ti	ba[-n]-teg[accept][-ø]	V	MID.3-SG-H-A.V.3-SG-P	D
+iti	iti[month]	N	N	D
+e2-iti-6(disz)	E'iti6[1][-'a]	NU	MN.L1	D
+mu	mu[year]	N	N	D
+a-ra2	ara[times]	N	N	D
+3(disz)-kam	3(disz)[one]-ak-am	NU	NU.GEN.COP-3-SG	D
+x-x{ki}	_	SN	GN.GEN.ABS	D
+ba-hul	ba-hulu[destroy][-ø]	V	MID.V.3-SG-S	D

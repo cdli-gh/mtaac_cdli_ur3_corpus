@@ -1,0 +1,25 @@
+#new_text=P275070
+FORM	SEGM	XPOSTAG	XPOSTAG	POS
+4(u)	4(u)[ten]	NU	NU	D
+2(disz)	2(disz)[one]	NU	NU	D
+gurusz	gurusz[male]	N	N	D
+u4	ud[day]	N	N	D
+1(disz)-sze3	1(disz)[one]-sze	NU	NU.TERM	D
+sze	sze[barley]	N	N	D
+bala-a	bala[tax][-ak]-'a	N	N.GEN.L1	D
+sze	sze[barley]	N	N	D
+...	_[_]	PN	N	D
+ki-su7	kisur[threshing_floor]	N	N	D
+a-sza3	aszag[field]	N	N	D
+{gesz}ma-nu	manu[wood_type][-ø]	FN	N.ABS	D
+u3	u[and]	CNJ	CNJ	D
+ki-su7-sze3	_	N	N.L1.TERM	Iabcdef
+sze	sze[barley]	N	N	D
+zi-ga	zig[expend]-a	V	NF.V.PT	D
+ugula	ugula[overseer][-ø]	N	N	D
+da-du-mu	Dadumu[1][-ak]	PN	PN.GEN	D
+kiszib3	kiszib[seal]	N	N	D
+szesz-kal-la	Szeszkala[1][-ra]	PN	PN	D
+mu	mu[year]	N	N	D
+x	_[_]	N	N	D
+x	_[_]	N	N	D

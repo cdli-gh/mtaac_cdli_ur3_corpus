@@ -1,0 +1,24 @@
+#new_text=P340510
+FORM	SEGM	XPOSTAG	XPOSTAG	POS
+4(ban2)	4(ban)[unit]	NU	N	D
+5(disz)	5(disz)[one]	NU	NU	D
+sila3	sila[unit]	N	N	D
+kasz	kasz[beer]	N	N	D
+saga	saga[good][-ø]	V	NF.V.ABS	D
+1(barig)	1(bariga)[unit]	NU	N	D
+2(ban2)	2(ban)[unit]	NU	N	D
+kasz	kasz[beer]	N	N	D
+du	gin[quality_designation][-ø]	V	NF.V.ABS	D
+1(disz)	1(disz)[one]	NU	NU	D
+dug	dug[pot]	N	N	D
+dida	dida[sweet_wort]	N	N	D
+saga	saga[good][-ø]	V	NF.V.ABS	D
+1(disz)	1(disz)[one]	NU	NU	D
+dug	dug[pot]	N	N	D
+dida	dida[sweet_wort]	N	N	D
+du	gin[quality_designation][-ø]	V	NF.V.ABS	D
+ki	ki[place]	N	N	D
+a-bi2-a-ta	_	PN	PN	Iabcdefgh
+lugal-{gesz}apin	_	N	N	POS
+szu	szu[hand][-e]	N	N.L3-NH	D
+ba-ti	ba[-n]-teg[accept][-ø]	V	MID.3-SG-H-A.V.3-SG-P	D

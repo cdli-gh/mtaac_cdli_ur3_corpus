@@ -1,0 +1,20 @@
+#new_text=P303503
+FORM	SEGM	XPOSTAG	XPOSTAG	POS
+5(disz)	5(disz)[one]	NU	NU	D
+sila3	sila[unit]	N	N	D
+kasz	kasz[beer]	N	N	D
+saga	saga[good][-ø]	V	NF.V.ABS	D
+siskur2	siszkur[offering]	N	N	D
+{d}inanna	Inanna[1][-ak]	DN	DN	D
+geszbun2	_	N	N	POS
+tum-al	_	GN	GN	POS
+ki	ki[place]	N	N	D
+lugal-engar-ta	_	PN	PN.GEN.GEN.ABL	Iabcdef
+ba-zi	ba-zig[expend][-ø]	PN	MID.V.3-SG-S	D
+iti	iti[month]	N	N	D
+{gesz}apin-du8-a	_	MN	MN.ABL	Iabcdefgh
+mu	mu[year]	N	N	D
+en	en[priest]	N	N	D
+{d}nanna	Nanna[1][-ak]	DN	DN	D
+kar-zi-da	Karzida[1][-ak][-ak][-ø]	SN	SN.GEN.GEN.ABS	D
+ba-hun	ba-hug[hire][-ø]	V	MID.V.3-SG-S	D

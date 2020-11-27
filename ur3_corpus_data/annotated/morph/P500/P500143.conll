@@ -1,0 +1,21 @@
+#new_text=P500143
+FORM	SEGM	XPOSTAG	XPOSTAG	POS
+5(disz)	5(disz)[one]	NU	NU	D
+sila3	sila[unit]	N	N	D
+kasz	kasz[beer]	N	N	D
+5(disz)	5(disz)[one]	NU	NU	D
+sila3	sila[unit]	N	N	D
+ninda	ninda[bread]	N	N	D
+5(disz)	5(disz)[one]	NU	NU	D
+gin2	gig[unit]	N	N	D
+i3-gesz	igesz[oil]	V	N	D
+{d}suen-i3-li2-szu	_	PN	PN	Ia
+aga3-us2	aga'us[soldier]	N	N	D
+lugal	lugal[king]	N	N	D
+x	_[_]	N	N	D
+x	_[_]	N	N	D
+DU	gin[quality_designation][-ø]	PN	NF.V.ABS	D
+MA	_	 	 	POS
+NA	_	 	 	POS
+iti	iti[month]	N	N	D
+munu4-gu7	Munugu[1][-'a]	MN	MN.L1	D

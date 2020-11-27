@@ -1,0 +1,23 @@
+#new_text=P134387
+FORM	SEGM	XPOSTAG	XPOSTAG	POS
+1(asz)	1(asz)[one]	NU	NU	D
+1(barig)	1(bariga)[unit]	NU	N	D
+sze	sze[barley]	N	N	D
+gur	gur[unit]	N	N	D
+ki	ki[place]	N	N	D
+{d}nin-mar{ki}-ab2-lu-ta	_	PN	PN	POS
+puzur4-{d}inanna-ke4	_	RN	RN	POS
+szu	szu[hand][-e]	N	N.L3-NH	D
+ba-an-ti	ba-n-teg[accept][-ø]	V	MID.3-SG-H-A.V.3-SG-P	D
+iti	iti[month]	N	N	D
+a2-ki-ti	Akiti[1][-'a]	N	MN.L1	D
+mu	mu[year]	N	N	D
+ma2	ma[ship]	N	N	D
+{d}en-ki	Enki[1][-ak][-ø]	DN	DN.GEN.ABS	D
+ba-dim2	ba-dim[create][-ø]	V	MID.V.3-SG-S	D
+lugal-gurum2-...	_	PN	PN	Iabcde
+x	_[_]	N	N	D
+ra2-gaba	ragaba[rider]	N	N.ABS	D
+puzur4-esz18-dar	Puzureszdar[1][-ak][-ra]	PN	PN	D
+szu-i	szu'i[barber][-ak]	N	N.ABS	D
+ARAD2-zu	arad[slave]-zu[-ø]	PN	N.2-SG-POSS.ABS	D

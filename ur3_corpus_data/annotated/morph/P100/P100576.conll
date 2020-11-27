@@ -1,0 +1,24 @@
+#new_text=P100576
+FORM	SEGM	XPOSTAG	XPOSTAG	POS
+1(gesz2)	1(gesz)[sixty]	NU	NU	D
+3(u)	3(u)[ten]	NU	NU	D
+8(disz)	8(disz)[one]	NU	NU	D
+gurusz	gurusz[male]	N	N	D
+u4	ud[day]	N	N	D
+1(disz)-sze3	1(disz)[one]-sze	NU	NU.TERM	D
+sze	sze[barley]	N	N	D
+gurx(|SZE.KIN|)-a	gur[reap]-a	V	NF.V.PT	D
+a-sza3	aszag[field]	N	N	D
+i3-szum2	_	V	V	POS
+ugula	ugula[overseer][-ø]	N	N	D
+lugal-iti-da	Lugalitida[1]	PN	PN	D
+kiszib3	kiszib[seal]	N	N	D
+nam-sza3-tam	namszatam[administration]	N	N	D
+ab-ba-gi-na	Abbagina[1]	PN	PN	D
+mu	mu[year]	N	N	D
+{d}amar-{d}suen	Amarsuen[1]	RN	RN	D
+lugal	lugal[king]	N	N	D
+lu2-{d}szara2	Luszara[1][-ak]	PN	PN	D
+dub-sar	dubsar[scribe]	N	N	D
+dumu	dumu[child]	N	N	D
+ur-sa6-ga	Ursaga[1][-ak]	PN	PN	D

@@ -1,0 +1,25 @@
+#new_text=P108386
+FORM	SEGM	XPOSTAG	XPOSTAG	POS
+1(gesz'u)	1(gesz'u)[six_hundred]	NU	NU	D
+9(gesz2)	9(gesz)[sixty]	NU	NU	D
+5(u)	5(u)[ten]	NU	NU	D
+7(disz)	7(disz)[one][-sze]	NU	NU	D
+a2	a[time]	N	N	D
+geme2	geme[female_worker]	N	N	D
+u4	ud[day]	N	N	D
+1(disz)-sze3	1(disz)[one]-sze	NU	NU.TERM	D
+kin-gi4-a	kiggia[messenger]	N	N	D
+didli	didli[several][-ø][-ak]	V	NF.V.ABS	D
+ki	ki[place]	N	N	D
+a2-na-na-ta	_	PN	PN.GEN.ABL	Iab
+ku-li	Kuli[1]	PN	PN	D
+i3-dab5	i[-n]-dab[seize][-ø]	V	FIN.3-SG-H-A.V.3-SG-P	D
+mu	mu[year]	N	N	D
+si-mu-ru-um{ki}	Simurrum[1]	SN	SN.ABS	D
+u3	u[and]	CNJ	CNJ	D
+lu-lu-bu-um{ki}	Lulubum[1][-ø]	SN	SN.ABS	D
+a-ra2	ara[times]	N	N	D
+1(u)	1(u)[ten]	NU	NU	D
+la2	la[hang][-ø]	V	NF.V.ABS	D
+1(disz)-kam-asz	_	NU	NU.GEN.COP-3-SG.TERM	Iab
+ba-hul	ba-hulu[destroy][-ø]	V	MID.V.3-SG-S	D

@@ -1,0 +1,27 @@
+#new_text=P111271
+FORM	SEGM	XPOSTAG	XPOSTAG	POS
+3(disz)	3(disz)[one]	NU	NU	D
+gurusz	gurusz[male]	N	N	D
+elam	Elam[1][-ak]	EN	GN.GEN	D
+1(barig)	1(bariga)[unit]	NU	N	D
+ninda-ta	nindan[unit]-ta	N	N.ABL	D
+1(u)	1(u)[ten]	NU	NU	D
+gin2	gig[unit]	N	N	D
+i3-ta	_	N	N	POS
+iti	iti[month]	N	N	D
+1(disz)-kam	1(disz)[one]-ak-am	NU	NU.GEN.COP-3-SG	D
+iti	iti[month]	N	N	D
+1(u)	1(u)[ten]	NU	NU	D
+2(disz)-sze3	2(disz)[one]-sze	NU	NU.TERM	D
+iti	iti[month]	N	N	D
+GAN2-masz-ta	Ganmasz[1][-ak]-ta	MN	MN.GEN.ABL	D
+iti	iti[month]	N	N	D
+sze-il2-la-sze3	Sze'illa[1]-sze	MN	MN.TERM	D
+elam	Elam[1][-ak]	EN	GN.GEN	D
+nam-ra-ak-me	_	N	N.ABS.COP-3-PL	Iabcdefg
+mu	mu[year]	N	N	D
+en	en[priest]	N	N	D
+{d}inanna	Inanna[1][-ak]	DN	DN	D
+unu{ki}	Unug[1][-ak][-ak][-ø]	SN	SN.GEN.L1	D
+masz-e	masz[goat]-e	N	N.L3-NH	D
+i3-pa3	i-pad[find][-ø]	V	FIN.V.3-SG-S	D

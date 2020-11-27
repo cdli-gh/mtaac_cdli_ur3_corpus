@@ -1,0 +1,26 @@
+#new_text=P118600
+FORM	SEGM	XPOSTAG	XPOSTAG	POS
+...	_[_]	PN	N	D
+a2	a[time]	N	N	D
+...	_[_]	PN	N	D
+u4	ud[day]	N	N	D
+1(disz)-sze3	1(disz)[one]-sze	NU	NU.TERM	D
+e2-amar-ra-sze3	_	TN	TN	POS
+...	_[_]	PN	N	D
+1(u)	1(u)[ten]	NU	NU	D
+a2	a[time]	N	N	D
+geme2	geme[female_worker]	N	N	D
+u4	ud[day]	N	N	D
+1(disz)-sze3	1(disz)[one]-sze	NU	NU.TERM	D
+kin-gi4-a	kiggia[messenger]	N	N	D
+didli-sze3	_	PN	PN	POS
+ki	ki[place]	N	N	D
+a2-na-na	_	PN	PN.ERG	Iab
+ugula	ugula[overseer][-ø]	N	N	D
+usz-bar-ta	_	N	N.1-SG-POSS.GEN.ABL	Iabcdefg
+ku-li	Kuli[1]	PN	PN	D
+szabra	szabra[chief_administrator][-ak]	N	N	D
+i3-dab5	i[-n]-dab[seize][-ø]	V	FIN.3-SG-H-A.V.3-SG-P	D
+mu	mu[year]	N	N	D
+{d}amar-{d}suen	Amarsuen[1]	RN	RN	D
+lugal	lugal[king]	N	N	D

@@ -1,0 +1,24 @@
+#new_text=P322552
+FORM	SEGM	XPOSTAG	XPOSTAG	POS
+7(disz)	7(disz)[one][-sze]	NU	NU	D
+geme2	geme[female_worker]	N	N	D
+u4	ud[day]	N	N	D
+1(disz)-sze3	1(disz)[one]-sze	NU	NU.TERM	D
+sze	sze[barley]	N	N	D
+3(disz)	3(disz)[one]	NU	NU	D
+sila3-ta	sila[unit]-ta	N	N.ABL	D
+ba-hun	ba-hug[hire][-ø]	V	MID.V.3-SG-S	D
+nig2-ar3-ra	nigara[groats]	N	N	D
+ar3-ra-de3	_	V	NF.V.F.DAT-NH	Iabcde
+gub-ba	gub[assigned]-a[-ak][-ø]	V	NF.V.PT	D
+ugula	ugula[overseer][-ø]	N	N	D
+li-la-a2	_	PN	PN	Ia
+iti	iti[month]	N	N	D
+ezem-{d}nin-a-zu	Ezemninazu[1][-'a]	MN	MN.L1	D
+mu	mu[year]	N	N	D
+ma-da	mada[land][-ak][-ø]	N	N	D
+za-ab-sza-li	_	PN	PN	Iabcdefgh
+mu-hul	mu[-n]-hulu[destroy][-ø]	V	VEN.3-SG-H-A.V.3-SG-P	D
+{d}ma-lik-ba-ni	_	PN	PN.DAT-H	Iabcdefgh
+ARAD2	arad[slave]	N	N	D
+na-ra-am-i3-li2	Naramili[1]	PN	PN	D

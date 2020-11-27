@@ -1,0 +1,27 @@
+#new_text=P339233
+FORM	SEGM	XPOSTAG	XPOSTAG	POS
+4(iku)	4(iku)[unit]	NU	N	D
+1/4(iku)	1/4(iku)[unit]	NU	N	D
+GAN2	gana[field]	N	N	D
+sza-dur-saga-mu	_	PN	PN	Iabcdefgh
+1(esze3)	1(esze)[unit]	NU	N	D
+GAN2	gana[field]	N	N	D
+lugal-me-e3-a	_	PN	PN	Iabcde
+1(esze3)	1(esze)[unit]	NU	N	D
+5(iku)	5(iku)[unit]	NU	N	D
+GAN2	gana[field]	N	N	D
+lugal-inim-gi-na	Lugalinimgina[1][-ak]	PN	PN	D
+3(iku)	3(iku)[unit]	NU	N	D
+GAN2	gana[field]	N	N	D
+ur-nigar{gar}	Urnigar[1]	PN	PN	D
+szunigin	szunigin[total]	N	N	D
+1(bur3)	1(bur)[unit]	NU	N	D
+1(esze3)	1(esze)[unit]	NU	N	D
+1/4(iku)	1/4(iku)[unit]	NU	N	D
+GAN2	gana[field]	N	N	D
+a-sza3	aszag[field]	N	N	D
+dal-ba-na	Dalbana[1]	FN	FN	D
+nin-sa6-NI	_	PN	PN	Iabcde
+u3	u[and]	CNJ	CNJ	D
+a-bu3-ka	Abuka[1][-ak][-sze]	FN	FN.GEN.TERM	D
+szu-ku6-ne	_	V	V	POS

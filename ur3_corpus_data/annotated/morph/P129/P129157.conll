@@ -1,0 +1,26 @@
+#new_text=P129157
+FORM	SEGM	XPOSTAG	XPOSTAG	POS
+1(u)	1(u)[ten]	NU	NU	D
+2(disz)	2(disz)[one]	NU	NU	D
+{gi}gur	gur[measuring_vessel]	N	N	D
+in-u-da	_	N	N	POS
+1(u)	1(u)[ten]	NU	NU	D
+8(disz)	8(disz)[one]	NU	NU	D
+{gi}gur	gur[measuring_vessel]	N	N	D
+1(disz)	1(disz)[one]	NU	NU	D
+ma-nu	manu[wood_type]	FN	N	D
+ak-x	_	V	NF.V.F.DAT-NH	Iabcdefgh
+giri3	giri[foot]	N	N	D
+nu-...	_	PN	PN.DAT-H	Iabcdefgh
+a2	a[time]	N	N	D
+nu-ur2-{d}iszkur	_	PN	PN	D
+giri3	giri[foot]	N	N	D
+lugal-ku3-zu	Lugalkuzu[1]	PN	PN	D
+iti	iti[month]	N	N	D
+sig4-{gesz}i3-szub-ba-ga2-ra	_	MN	MN.L1	Iabcdefgh
+mu	mu[year]	N	N	D
+szu-{d}suen	Szusuen[1]	PN	RN	D
+ur-e2-nun	_	PN	PN	Iabcde
+dub-sar	dubsar[scribe]	N	N	D
+dumu	dumu[child]	N	N	D
+...	_[_]	PN	N	D

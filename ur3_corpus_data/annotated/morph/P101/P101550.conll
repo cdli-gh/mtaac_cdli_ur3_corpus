@@ -1,0 +1,23 @@
+#new_text=P101550
+FORM	SEGM	XPOSTAG	XPOSTAG	POS
+8(asz)	8(asz)[one]	NU	NU	D
+sze	sze[barley]	N	N	D
+gur	gur[unit]	N	N	D
+tug2	tug[textile]	N	N	D
+usz-bar-bi	_	N	N.ABS.3-SG-NH-POSS.ABS	Iabcdefg
+1(u)	1(u)[ten]	NU	NU	D
+7(disz)	7(disz)[one][-sze]	NU	NU	D
+tug2	tug[textile]	N	N	D
+u2	u[grass]	N	N	D
+kal-bi	_	V	NF.V.ABS	Iabcdef
+3(disz)	3(disz)[one]	NU	NU	D
+tug2	tug[textile]	N	N	D
+sza3-gu4-ka	_	PN	PN	POS
+ki	ki[place]	N	N	D
+i3-kal-la-ta	Ikala[1][-ak]-ta	PN	PN.GEN.ABL	D
+kiszib3	kiszib[seal]	N	N	D
+szesz-a-ni	Szeszani[1][-ak]	PN	PN	D
+...	_[_]	PN	N	D
+mu	mu[year]	N	N	D
+...-{d}suen	_	RN	RN	POS
+lugal	lugal[king]	N	N	D

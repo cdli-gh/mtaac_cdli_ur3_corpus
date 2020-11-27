@@ -1,0 +1,8 @@
+#new_text=P430582
+FORM	SEGM	XPOSTAG	XPOSTAG	POS
+ur-nig2	_	PN	PN	Iabcde
+muhaldim	_	N	N	D
+dumu	dumu[child]	N	N	D
+...	_[_]	PN	N	D
+muhaldim	_	N	N	D
+lugal	lugal[king]	N	N	D

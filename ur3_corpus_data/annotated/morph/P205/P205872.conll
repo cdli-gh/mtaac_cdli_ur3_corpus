@@ -1,0 +1,23 @@
+#new_text=P205872
+FORM	SEGM	XPOSTAG	XPOSTAG	POS
+7(gesz2)	7(gesz)[sixty]	NU	NU	D
+4(u)	4(u)[ten]	NU	NU	D
+7(asz)	7(asz)[one]	NU	NU	D
+sze	sze[barley]	N	N	D
+gur	gur[unit]	N	N	D
+sza3-gal	szaggal[food]	N	N	D
+{ansze}kunga2-sze3	_	N	N	POS
+ki	ki[place]	N	N	D
+lugal-a-ma-ru-ta	_	PN	PN.GEN.GEN.ABL	Iabcdefg
+ur-{d}lamma	Urlamma[1]	PN	PN	D
+szu	szu[hand][-e]	N	N.L3-NH	D
+ba-ti	ba[-n]-teg[accept][-ø]	V	MID.3-SG-H-A.V.3-SG-P	D
+i3-dub	idub[granary]	N	N	D
+a-sza3	aszag[field]	N	N	D
+en-nu-lum-ma	_	FN	FN	POS
+iti	iti[month]	N	N	D
+amar-a-a-si	Amarayasi[1][-'a]	MN	MN.L1	D
+mu	mu[year]	N	N	D
+{d}i-bi2-{d}suen	Ibbisuen[1]	RN	RN	D
+lugal	lugal[king]	N	N	D
+...	_[_]	PN	N	D

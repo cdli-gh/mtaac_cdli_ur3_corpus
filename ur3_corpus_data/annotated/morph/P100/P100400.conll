@@ -1,0 +1,15 @@
+#new_text=P100400
+FORM	SEGM	XPOSTAG	XPOSTAG	POS
+1(gesz'u)	1(gesz'u)[six_hundred]	NU	NU	D
+3(gesz2)	3(gesz)[sixty]	NU	NU	D
+3(u)	3(u)[ten]	NU	NU	D
+gesz	gesz[tree]	N	N	D
+...	_[_]	PN	N	D
+ki	ki[place]	N	N	D
+ur-sila-luh-ta	Ursilaluh[1][-ak]-ta	PN	PN.GEN.ABL	D
+kiszib3	kiszib[seal]	N	N	D
+lugal-e-ba-an-sa6	Lugalebansa[1][-ra]	PN	PN	D
+mu	mu[year]	N	N	D
+e2	e[house]	N	N	D
+puzur4-da-gan	Puzurdagan[1][-ø]	SN	SN.ABS	D
+ba-du3	ba-du[build][-ø]	V	MID.V.3-SG-S	D

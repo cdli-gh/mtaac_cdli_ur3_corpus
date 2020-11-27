@@ -1,0 +1,11 @@
+#new_text=P235497
+FORM	SEGM	XPOSTAG	XPOSTAG	POS
+1(u)	1(u)[ten]	NU	NU	D
+5(asz)	5(asz)[one]	NU	NU	D
+gur	gur[unit]	N	N	D
+giri3	giri[foot]	N	N	D
+ab-ba-gi-na	Abbagina[1]	PN	PN	D
+...	_[_]	PN	N	D
+x-{gesz}gigir-x	_	PN	PN.DAT-H	Iabcdefgh
+mu	mu[year]	N	N	D
+si-ma-num2{ki}	Simanum[1][-ø]	GN	SN.ABS	D

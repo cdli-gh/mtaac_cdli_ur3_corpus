@@ -1,0 +1,15 @@
+#new_text=P211538
+FORM	SEGM	XPOSTAG	XPOSTAG	POS
+3(u)	3(u)[ten]	NU	NU	D
+3(disz)	3(disz)[one]	NU	NU	D
+kasz	kasz[beer]	N	N	D
+du	gin[quality_designation][-ø]	V	NF.V.ABS	D
+{u2}|U.EN|	_	N	N	Ia
+sa2-du11	sadug[offerings]	N	N	D
+{d}szara2	Szara[1][-ak]	DN	DN	D
+ba-ra-sze	_	V	MID.ABL.3-SG-H-A.V.3-SG-P	Iabcdefghi
+ki	ki[place]	N	N	D
+ur-{d}szul-pa-e3-ta	Urszulpa'e[1][-ak]-ta	PN	PN.GEN.ABL	D
+mu	mu[year]	N	N	D
+sza-asz-ru{ki}	Szaszru[1][-ø]	SN	SN.ABS	D
+ba-hul	ba-hulu[destroy][-ø]	V	MID.V.3-SG-S	D

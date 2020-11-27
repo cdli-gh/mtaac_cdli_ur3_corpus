@@ -1,0 +1,27 @@
+#new_text=P132107
+FORM	SEGM	XPOSTAG	XPOSTAG	POS
+2(gesz2)	2(gesz)[sixty]	NU	NU	D
+4(u)	4(u)[ten]	NU	NU	D
+9(disz)	9(disz)[one]	NU	NU	D
+{gi}hal	hal[basket]	N	N	D
+ku6-sze6	kusze[cooked_fish]	N	N	D
+1(gesz2)-ta	_	NU	NU	Iabcdefgh
+5(u)	5(u)[ten]	NU	NU	D
+4(disz)	4(disz)[one]	NU	NU	D
+{gi}kaskal	kaskal[travel_basket]	N	N	D
+ku6	kud[fish]	N	N	D
+gid2	gid[length]	V	N	D
+x-ta	_	PN	PN.GEN.ABL	Iabcdef
+ki	ki[place]	N	N	D
+ur-{d}utu-ta	Urutu[1][-ak]-ta	PN	PN.GEN.ABL	D
+...-ri-um	_	 	 	POS
+lu2-kal-la	Lukala[1][-ra]	PN	PN.GEN	D
+giri3	giri[foot]	N	N	D
+inim-{d}szara2	Inimszara[1][-ak][-ra]	PN	PN	D
+dumu-na	dumu[child]-ani-ak	N	N.3-SG-H-POSS.GEN	D
+iti	iti[month]	N	N	D
+min-esz3	Minesz[1][-'a]	MN	MN.L1	D
+mu	mu[year]	N	N	D
+en	en[priest]	N	N	D
+eridu{ki}	Eridug[1][-ak][-ø]	SN	SN.GEN.ABS	D
+ba-hun	ba-hug[hire][-ø]	V	MID.V.3-SG-S	D

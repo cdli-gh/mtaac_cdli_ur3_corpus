@@ -1,0 +1,23 @@
+#new_text=P206588
+FORM	SEGM	XPOSTAG	XPOSTAG	POS
+1(gesz2)	1(gesz)[sixty]	NU	NU	D
+1(u)	1(u)[ten]	NU	NU	D
+8(disz)	8(disz)[one]	NU	NU	D
+nigin2	nigin[bundle]	N	N	D
+szum2	szum[garlic]	N	N	D
+gaz	gaz[type_of_garlic][-ak]	N	N	D
+sa2-du11	sadug[offerings]	N	N	D
+{d}en-ki	Enki[1][-ak][-ø]	DN	DN.GEN.ABS	D
+e2-duru5	eduru[village]	N	N	D
+ur2	_	N	N	POS
+ki	ki[place]	N	N	D
+sza3-da-ta	_	PN	PN	POS
+lu2-{d}igi-ma-sze3	Lu'igimasze[1]	PN	PN	D
+dumu	dumu[child]	N	N	D
+ur-{d}utu	Urutu[1]	PN	PN	D
+szu	szu[hand][-e]	N	N.L3-NH	D
+ba-ti	ba[-n]-teg[accept][-ø]	V	MID.3-SG-H-A.V.3-SG-P	D
+mu	mu[year]	N	N	D
+{gesz}gu-za	guza[chair]	N	N	D
+{d}en-lil2-la2	Enlil[1][-ak][-ø]	DN	DN.GEN	D
+ba-dim2	ba-dim[create][-ø]	V	MID.V.3-SG-S	D

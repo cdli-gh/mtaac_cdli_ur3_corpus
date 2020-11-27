@@ -1,0 +1,19 @@
+#new_text=P500233
+FORM	SEGM	XPOSTAG	XPOSTAG	POS
+2(gesz2)	2(gesz)[sixty]	NU	NU	D
+1(u)	1(u)[ten]	NU	NU	D
+6(asz)	6(asz)[one]	NU	NU	D
+sze	sze[barley]	N	N	D
+gur	gur[unit]	N	N	D
+lugal	lugal[king]	N	N	D
+dabin-KA-sze3	_	V	V	POS
+mu	mu[year]	N	N	D
+tul2-ta-sze3	_	PN	PN.GEN.TERM	Iab
+kiszib3	kiszib[seal]	N	N	D
+ur-{d}...	_[1][-ra]	PN	PN.GEN	D
+i3-dub	idub[granary]	N	N	D
+la-za-wi	_	FN	FN	POS
+mu	mu[year]	N	N	D
+ha-ar-szi	Harszi[1][-ø]	PN	SN.ABS	D
+ki-masz{ki}	Kimasz[1]	SN	SN.ABS	D
+hu-ur5-ti{ki}	Hurti[1][-ø]	GN	SN.ABS	D

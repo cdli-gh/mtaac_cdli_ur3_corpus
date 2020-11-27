@@ -1,0 +1,24 @@
+#new_text=P130108
+FORM	SEGM	XPOSTAG	XPOSTAG	POS
+2(gesz2)	2(gesz)[sixty]	NU	NU	D
+5(u)	5(u)[ten]	NU	NU	D
+6(disz)	6(disz)[one][-sze]	NU	NU	D
+gurusz	gurusz[male]	N	N	D
+u4	ud[day]	N	N	D
+1(disz)-sze3	1(disz)[one]-sze	NU	NU.TERM	D
+sze	sze[barley]	N	N	D
+gurx(|SZE.KIN|)-a	gur[reap]-a	V	NF.V.PT	D
+a-sza3	aszag[field]	N	N	D
+a-u2-da	_	FN	FN.GEN.ABL	Iabcdefgh
+gu-la	gal[big][-ø][-sze]	PN	NF.V.ABS	D
+nu-banda3-gu4	nubandagu[ox_overseer][-ak][-ak][-ak]	N	N	D
+lu2-e2-an-ka	_	PN	PN	Ia
+ugula	ugula[overseer][-ø]	N	N	D
+lu2-{d}da-mu	Ludamu[1][-ra]	PN	PN.DAT-H	D
+kiszib3	kiszib[seal]	N	N	D
+inim-{d}szara2	Inimszara[1][-ak][-ra]	PN	PN	D
+mu	mu[year]	N	N	D
+en-mah-gal-an-na	Enmahgalana[1]	PN	PN	D
+en	en[priest]	N	N	D
+{d}nanna	Nanna[1][-ak]	DN	DN	D
+ba-hun-ga2	ba-hug[hire][-ø]	V	MID.V.3-SG-S	D

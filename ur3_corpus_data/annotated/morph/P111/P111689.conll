@@ -1,0 +1,24 @@
+#new_text=P111689
+FORM	SEGM	XPOSTAG	XPOSTAG	POS
+2(u)	2(u)[ten]	NU	NU	D
+5(disz)	5(disz)[one]	NU	NU	D
+gurusz	gurusz[male]	N	N	D
+u4	ud[day]	N	N	D
+2(disz)-sze3	2(disz)[one]-sze	NU	NU.TERM	D
+pa5	_	N	N	POS
+dam-ba-al-la	_	V	V	POS
+2(gesz2)	2(gesz)[sixty]	NU	NU	D
+1(u)	1(u)[ten]	NU	NU	D
+5(disz)	5(disz)[one]	NU	NU	D
+gurusz	gurusz[male]	N	N	D
+u4	ud[day]	N	N	D
+1(disz)-sze3	1(disz)[one]-sze	NU	NU.TERM	D
+gurusz	gurusz[male]	N	N	D
+hun-ga2	hug[hire]-a	V	NF.V.PT	D
+ugula-ne	_	N	N	POS
+pa5	_	N	N	POS
+ba-al-la	bala[transfer]-a	V	NF.V.PT	D
+x	_[_]	N	N	D
+x	_[_]	N	N	D
+gurusz	gurusz[male]	N	N	D
+PAP-ul	_	PN	PN	Iabcdefgh

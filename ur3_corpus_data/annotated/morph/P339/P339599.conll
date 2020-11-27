@@ -1,0 +1,18 @@
+#new_text=P339599
+FORM	SEGM	XPOSTAG	XPOSTAG	POS
+3(barig)	3(bariga)[unit]	NU	N	D
+sze	sze[barley]	N	N	D
+sza3-gal	szaggal[food]	N	N	D
+ansze	ansze[donkey]	N	N	D
+inim	inim[word]	N	N	D
+a2-da-da-ta	_	PN	PN.GEN.ABL	Iab
+ki	ki[place]	N	N	D
+lu2-{d}szul-gi-ra-ta	_	PN	PN.GEN.ABL	Iabcdef
+kiszib3	kiszib[seal]	N	N	D
+ur-dingir-ra	_	PN	PN	D
+iti	iti[month]	N	N	D
+...	_[_]	PN	N	D
+mu	mu[year]	N	N	D
+en	en[priest]	N	N	D
+eridu{ki}	Eridug[1][-ak][-ø]	SN	SN.GEN.ABS	D
+ba-hun	ba-hug[hire][-ø]	V	MID.V.3-SG-S	D

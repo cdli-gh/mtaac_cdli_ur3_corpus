@@ -1,0 +1,19 @@
+#new_text=P122485
+FORM	SEGM	XPOSTAG	XPOSTAG	POS
+1(gesz2)	1(gesz)[sixty]	NU	NU	D
+2(u)	2(u)[ten]	NU	NU	D
+a2	a[time]	N	N	D
+gurusz	gurusz[male]	N	N	D
+ib2-tak4	_	N	N	POS
+nig2-ka9-ak	nigSZID[account]	N	N	D
+ki	ki[place]	N	N	D
+i3-la-la	_	PN	PN	Iabc
+iti	iti[month]	N	N	D
+apin-du8	_	MN	MN.ABL	Iabcdefgh
+mu	mu[year]	N	N	D
+us2-sa	us[follow]-a	V	NF.V.PT	D
+si-ma-nu-um	_	PN	PN	Iabcdefgh
+i-lal3-la	_	PN	PN	Ia
+dumu	dumu[child]	N	N	D
+...	_[_]	PN	N	D
+x	_[_]	N	N	D

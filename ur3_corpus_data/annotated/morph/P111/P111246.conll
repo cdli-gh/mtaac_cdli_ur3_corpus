@@ -1,0 +1,23 @@
+#new_text=P111246
+FORM	SEGM	XPOSTAG	XPOSTAG	POS
+1(disz)	1(disz)[one]	NU	NU	D
+sila3	sila[unit]	N	N	D
+i3-nun	inun[ghee]	PN	N	D
+2(disz)	2(disz)[one]	NU	NU	D
+sila3	sila[unit]	N	N	D
+ga-ar3	ga'ar[cheese]	N	N	D
+nig2-siskur2-ra	_	DET	DET	POS
+e2	e[house]	N	N	D
+ba-gara2	_	PN	PN	Iabcde
+u3	u[and]	CNJ	CNJ	D
+e2	e[house]	N	N	D
+{d}ga2-tum3-du10	_	DN	DN	D
+giri3	giri[foot]	N	N	D
+gu-za-ni	Guzani[1][-e]	PN	PN.GEN	D
+zi-ga	zig[expend]-a	V	NF.V.PT	D
+iti	iti[month]	N	N	D
+szu-numun	Szunumun[1][-'a]	MN	MN.L1	D
+mu	mu[year]	N	N	D
+en	en[priest]	N	N	D
+eridu{ki}	Eridug[1][-ak][-ø]	SN	SN.GEN.ABS	D
+ba-a-hun	ba-hug[hire][-ø]	V	MID.V.3-SG-S	D

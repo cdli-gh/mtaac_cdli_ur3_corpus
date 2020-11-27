@@ -1,0 +1,23 @@
+#new_text=P101237
+FORM	SEGM	XPOSTAG	XPOSTAG	POS
+6(disz)	6(disz)[one][-sze]	NU	NU	D
+...-x	_[_]	WN	RN	D
+2(disz)	2(disz)[one]	NU	NU	D
+x	_[_]	N	N	D
+...	_[_]	PN	N	D
+az	_	N	N.GEN	Iabcdef
+1(disz)	1(disz)[one]	NU	NU	D
+1/3(disz)	1/3(disz)[one]	NU	NU	D
+x	_[_]	N	N	D
+...	_[_]	PN	N	D
+TUL2-HA	_	 	 	POS
+5(disz)	5(disz)[one]	NU	NU	D
+sila3	sila[unit]	N	N	D
+x-x-x	_[1]	PN	PN	D
+2(ban2)	2(ban)[unit]	NU	N	D
+...	_[_]	PN	N	D
+1(ban2)	1(ban)[unit]	NU	N	D
+...	_[_]	PN	N	D
+sza3-ku3-ge	Szakuge[1][-e]	PN	PN.ERG	D
+u4	ud[day]	N	N	D
+8(disz)-kam	8(disz)[one]-ak-am	NU	NU.GEN.COP-3-SG	D
