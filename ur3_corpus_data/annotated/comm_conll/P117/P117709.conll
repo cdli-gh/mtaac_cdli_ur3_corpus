@@ -1,0 +1,24 @@
+#new_text=P117709					
+FORM	SEGM	XPOSTAG	XPOSTAG	POS	?	?	?	?	?	?
+1(disz)	1(disz)[one]	NU	NU	D	B-COUNT	_	1	cardinal	_	1
+{gesz}ig	ig[door]	N	N	D	B-COM	_	_	_	_	_
+en	en[priest]	N	N	D	_	_	_	_	_	_
+gid2-bi	gid[length]-bi[-ø]	N	N.3-SG-NH-POSS.ABS	D	_	_	_	_	_	_
+4(disz)	4(disz)[one]	NU	NU	D	B-COUNT	m	2.0	length	gi	0.6666666666666666
+kusz3	kusz[unit]	N	N	D	I-COUNT	*	*	*	*	*
+dagal-bi	_	V	NF.V.PT.ABS	Iabcdefg	_	_	_	_	_	_
+2(disz)	2(disz)[one]	NU	NU	D	B-COUNT	m	1.0	length	gi	0.3333333333333333
+kusz3	kusz[unit]	N	N	D	I-COUNT	*	*	*	*	*
+ki	ki[place]	N	N	D	_	_	_	_	_	_
+hal-li2-ta	_	PN	PN.GEN.ABL	Iab	_	_	_	_	_	_
+kiszib3	kiszib[seal]	N	N	D	_	_	_	_	_	_
+lugal-uszur3	_	PN	PN.DAT-H	Iab	_	_	_	_	_	_
+iti	iti[month]	N	N	D	_	_	_	_	_	_
+{d}dumu-zi	Dumuzi[1][-'a]	MN	MN.L1	D	_	_	_	_	_	_
+mu	mu[year]	N	N	D	_	_	_	_	_	_
+ki-masz{ki}	Kimasz[1]	SN	SN.ABS	D	_	_	_	_	_	_
+ba-hul	ba-hulu[destroy][-ø]	V	MID.V.3-SG-S	D	_	_	_	_	_	_
+lugal-uszur3	_	PN	PN.DAT-H	Iab	_	_	_	_	_	_
+dub-sar	dubsar[scribe]	N	N	D	_	_	_	_	_	_
+dumu	dumu[child]	N	N	D	_	_	_	_	_	_
+a2-an-du-ru	_	PN	PN	POS	_	_	_	_	_	_

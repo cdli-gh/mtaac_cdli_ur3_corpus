@@ -1,0 +1,21 @@
+#new_text=P119220					
+FORM	SEGM	XPOSTAG	XPOSTAG	POS	?	?	?	?	?	?
+1(u)	1(u)[ten]	NU	NU	D	B-COUNT	_	15	cardinal	_	15
+5(disz)	5(disz)[one]	NU	NU	D	I-COUNT	*	*	*	*	*
+{gi}gur-dub	gurdub[basket_type]	N	N	D	B-COM	_	_	_	_	_
+*RETOK*-capacity"	?	?	?	?	B-COUNT	l	60	"dry	*	*
+1(barig)-ta	bariga[unit]-ta	NU	N.ABL	D	I-COUNT	*	*	*	sila3	60
+zu2-lum	zulum[date]	N	N	D	_	_	_	_	_	_
+ba-an-si	_	V	V	POS	_	_	_	_	_	_
+ki	ki[place]	N	N	D	_	_	_	_	_	_
+ur-{d}szul-pa-e3-ta	Urszulpa'e[1][-ak]-ta	PN	PN.GEN.ABL	D	_	_	_	_	_	_
+kiszib3	kiszib[seal]	N	N	D	_	_	_	_	_	_
+inim-{d}szara2	Inimszara[1][-ak][-ra]	PN	PN	D	_	_	_	_	_	_
+mu	mu[year]	N	N	D	_	_	_	_	_	_
+en	en[priest]	N	N	D	_	_	_	_	_	_
+eridu{ki}	Eridug[1][-ak][-ø]	SN	SN.GEN.ABS	D	_	_	_	_	_	_
+ba-hun	ba-hug[hire][-ø]	V	MID.V.3-SG-S	D	_	_	_	_	_	_
+inim-{d}szara2	Inimszara[1][-ak][-ra]	PN	PN	D	_	_	_	_	_	_
+dub-sar	dubsar[scribe]	N	N	D	_	_	_	_	_	_
+dumu	dumu[child]	N	N	D	_	_	_	_	_	_
+lugal-iti-da	Lugalitida[1]	PN	PN	D	_	_	_	_	_	_

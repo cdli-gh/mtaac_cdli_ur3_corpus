@@ -1,0 +1,21 @@
+#new_text=P118004					
+FORM	SEGM	XPOSTAG	XPOSTAG	POS	?	?	?	?	?	?
+1(disz)	1(disz)[one]	NU	NU	D	B-COUNT	_	1	cardinal	_	1
+ma-an-sim	_	N	N	POS	_	_	_	_	_	_
+saga	saga[good][-ø]	V	NF.V.ABS	D	_	_	_	_	_	_
+szar3	szar[cloth_designation][-ø]	V	NF.V.ABS	D	B-COM	_	_	_	_	_
+5(disz)	5(disz)[one]	NU	NU	D	B-COUNT	_	5	cardinal	_	5
+ma-an-sim	_	N	N	POS	_	_	_	_	_	_
+us2	us[follow][-ø]	V	NF.V.ABS	D	B-COM	_	_	_	_	_
+ki	ki[place]	N	N	D	_	_	_	_	_	_
+a-gu-ta	Agu[1][-ak]-ta	PN	PN.GEN.ABL	D	_	_	_	_	_	_
+kiszib3	kiszib[seal]	N	N	D	_	_	_	_	_	_
+lu2-bala-saga	_	PN	PN	Ia	_	_	_	_	_	_
+mu	mu[year]	N	N	D	_	_	_	_	_	_
+us2-sa	us[follow]-a	V	NF.V.PT	D	_	_	_	_	_	_
+ma2	ma[ship]	N	N	D	_	_	_	_	_	_
+{d}en-ki	Enki[1][-ak][-ø]	DN	DN.GEN.ABS	D	_	_	_	_	_	_
+lu2-bala-sa6-ga	_	PN	PN	D	_	_	_	_	_	_
+dub-sar	dubsar[scribe]	N	N	D	_	_	_	_	_	_
+dumu	dumu[child]	N	N	D	_	_	_	_	_	_
+ur-{d}...	_[1][-ra]	PN	PN.GEN	D	_	_	_	_	_	_

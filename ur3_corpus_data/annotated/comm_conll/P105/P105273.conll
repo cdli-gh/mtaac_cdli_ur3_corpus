@@ -1,0 +1,9 @@
+#new_text=P105273					
+FORM	SEGM	XPOSTAG	XPOSTAG	POS	?	?	?	?	?	?
+2(u)	2(u)[ten]	NU	NU	D	B-COUNT	_	23	cardinal	_	23
+3(disz)	3(disz)[one]	NU	NU	D	I-COUNT	*	*	*	*	*
+gurusz	gurusz[male]	N	N	D	B-COM	_	_	_	_	_
+u4	ud[day]	N	N	D	_	_	_	_	_	_
+1(disz)-sze3	1(disz)[one]-sze	NU	NU.TERM	D	B-COUNT	_	1	cardinal	_	1
+gu4-da-re-a	_	PN	PN	POS	_	_	_	_	_	_
+GAN2	gana[field]	N	N	D	_	_	_	_	_	_

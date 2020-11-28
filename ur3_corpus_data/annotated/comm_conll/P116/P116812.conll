@@ -1,0 +1,24 @@
+#new_text=P116812					
+FORM	SEGM	XPOSTAG	XPOSTAG	POS	B-COUNT	l	60	"dry	*	*
+1(barig)	1(bariga)[unit]	NU	N	D	I-COUNT	*	*	*	sila3	60
+dabin	dabin[semolina]	N	N	D	B-COM	_	_	_	_	_
+giri3	giri[foot]	N	N	D	_	_	_	_	_	_
+nu-ur2-e2-a	_	V	V	POS	_	_	_	_	_	_
+sagi	sagi[cup_bearer][-ø]	N	N	D	_	_	_	_	_	_
+*RETOK*-capacity"	?	?	?	?	B-COUNT	l	10	"dry	*	*
+1(ban2)	1(ban)[unit]	NU	N	D	I-COUNT	*	*	*	sila3	10
+dabin	dabin[semolina]	N	N	D	B-COM	_	_	_	_	_
+*RETOK*-capacity"	?	?	?	?	B-COUNT	l	30	"liquid	*	*
+1(disz)	1(disz)[one]	NU	NU	D	I-COUNT	*	*	*	sila3	30
+dug	dug[pot]	N	N	D	I-COUNT	*	*	*	*	*
+dida	dida[sweet_wort]	N	N	D	_	_	_	_	_	_
+du	gin[quality_designation][-ø]	V	NF.V.ABS	D	_	_	_	_	_	_
+*RETOK*-capacity"	?	?	?	?	B-COUNT	l	10	"dry	*	*
+1(ban2)	1(ban)[unit]	NU	N	D	I-COUNT	*	*	*	sila3	10
+szu-{d}szul-gi	Szuszulgir[1][-ra]	PN	PN	D	_	_	_	_	_	_
+iti	iti[month]	N	N	D	_	_	_	_	_	_
+dal	Dal[1][-'a]	MN	MN.L1	D	B-COM	_	_	_	_	_
+mu	mu[year]	N	N	D	_	_	_	_	_	_
+us2-sa	us[follow]-a	V	NF.V.PT	D	_	_	_	_	_	_
+si-ma-num2{ki}	Simanum[1][-ø]	GN	SN.ABS	D	_	_	_	_	_	_
+ba-hul	ba-hulu[destroy][-ø]	V	MID.V.3-SG-S	D	_	_	_	_	_	_

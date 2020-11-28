@@ -1,0 +1,25 @@
+#new_text=P133395					
+FORM	SEGM	XPOSTAG	XPOSTAG	POS	B-COUNT	l	1080000.1666666667	"dry	*	*
+1(asz)	1(asz)[one]	NU	NU	D	I-COUNT	*	*	*	sila3	1080000.1666666667
+guru7	guru[grain_heap]	N	N	D	I-COUNT	*	*	*	*	*
+3(gesz'u)	3(gesz'u)[six_hundred]	NU	NU	D	I-COUNT	*	*	*	*	*
+sze	sze[barley]	N	N	D	I-COUNT	*	*	*	*	*
+gur	gur[unit]	N	N	D	I-COUNT	*	*	*	*	*
+lugal	lugal[king]	N	N	D	_	_	_	_	_	_
+gu4-re	_	N	N	POS	_	_	_	_	_	_
+a-na-am3-DU	_	V	V	POS	_	_	_	_	_	_
+ag2-e-dam	ag[measure]-ed[-ø]-am	V	NF.V.F.ABS.COP-3-SG	D	B-COM	_	_	_	_	_
+kiszib3	kiszib[seal]	N	N	D	_	_	_	_	_	_
+ur-{d}nin-mar{ki}	_	PN	PN	D	_	_	_	_	_	_
+e2	e[house]	N	N	D	_	_	_	_	_	_
+{d}nin-mar{ki}	_	DN	DN	D	_	_	_	_	_	_
+mu	mu[year]	N	N	D	_	_	_	_	_	_
+us2-sa	us[follow]-a	V	NF.V.PT	D	_	_	_	_	_	_
+en	en[priest]	N	N	D	_	_	_	_	_	_
+{d}nanna	Nanna[1][-ak]	DN	DN	D	_	_	_	_	_	_
+kar-zi-da	Karzida[1][-ak][-ak][-ø]	SN	SN.GEN.GEN.ABS	D	_	_	_	_	_	_
+ba-hun	ba-hug[hire][-ø]	V	MID.V.3-SG-S	D	_	_	_	_	_	_
+ur-{d}nin-mar{ki}	_	PN	PN	D	_	_	_	_	_	_
+dub-sar	dubsar[scribe]	N	N	D	_	_	_	_	_	_
+dumu	dumu[child]	N	N	D	_	_	_	_	_	_
+nam-ha-ni	Namhani[1]	N	PN	D	_	_	_	_	_	_

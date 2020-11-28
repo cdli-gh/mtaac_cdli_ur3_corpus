@@ -1,0 +1,13 @@
+#new_text=P212266					
+FORM	SEGM	XPOSTAG	XPOSTAG	POS	?	?	?	?	?	?
+1(u)	1(u)[ten]	NU	NU	D	B-COUNT	_	0.16666666666666666	cardinal	_	0.16666666666666666
+gin2	gig[unit]	N	N	D	I-COUNT	*	*	*	*	*
+ku3	kug[silver]	N	N	D	B-COM	_	_	_	_	_
+masz	masz[interest]	N	N	D	_	_	_	_	_	_
+a-sza3-ga	aszag[field]-ak	N	N.GEN	D	_	_	_	_	_	_
+ki	ki[place]	N	N	D	_	_	_	_	_	_
+szesz-kal-la-ta	Szeszkala[1][-ak]-ta	N	PN.GEN.ABL	D	_	_	_	_	_	_
+mu	mu[year]	N	N	D	_	_	_	_	_	_
+us2-sa	us[follow]-a	V	NF.V.PT	D	_	_	_	_	_	_
+bad3	bad[wall]	N	N	D	_	_	_	_	_	_
+ba-du3	ba-du[build][-ø]	V	MID.V.3-SG-S	D	_	_	_	_	_	_

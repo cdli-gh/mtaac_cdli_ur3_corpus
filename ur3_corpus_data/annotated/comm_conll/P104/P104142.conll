@@ -1,0 +1,21 @@
+#new_text=P104142					
+FORM	SEGM	XPOSTAG	XPOSTAG	POS	?	?	?	?	?	?
+3(u)	3(u)[ten]	NU	NU	D	B-COUNT	_	34	cardinal	_	34
+4(disz)	4(disz)[one]	NU	NU	D	I-COUNT	*	*	*	*	*
+udu	udu[sheep]	N	N	D	B-COM	_	_	_	_	_
+1(u)	1(u)[ten]	NU	NU	D	B-COUNT	_	16	cardinal	_	16
+6(disz)	6(disz)[one][-sze]	NU	NU	D	I-COUNT	*	*	*	*	*
+masz2	masz[goat]	N	N	D	_	_	_	_	_	_
+ba-usz2	ba-ug[die][-esz]	V	MID.V.PL.3-PL-S	D	_	_	_	_	_	_
+giri3	giri[foot]	N	N	D	_	_	_	_	_	_
+ur-{d}suen	Ursuen[1]	PN	PN	D	_	_	_	_	_	_
+x	_[_]	N	N	D	_	_	_	_	_	_
+ur-{d}suen	Ursuen[1]	PN	PN	D	_	_	_	_	_	_
+ki	ki[place]	N	N	D	_	_	_	_	_	_
+ur-ku3-nun-na-ta	Urkununa[1][-ak]-ta	PN	PN.GEN.ABL	D	_	_	_	_	_	_
+ba-zi	ba-zig[expend][-ø]	PN	MID.V.3-SG-S	D	_	_	_	_	_	_
+iti	iti[month]	N	N	D	_	_	_	_	_	_
+sze-sag11-ku5	Szesagku[1][-'a]	MN	MN.L1	D	_	_	_	_	_	_
+mu	mu[year]	N	N	D	_	_	_	_	_	_
+hu-uh2-nu-ri{ki}	Huhnuri[1][-ø]	GN	SN.ABS	D	_	_	_	_	_	_
+ba-hul	ba-hulu[destroy][-ø]	V	MID.V.3-SG-S	D	_	_	_	_	_	_

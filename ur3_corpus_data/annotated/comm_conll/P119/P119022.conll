@@ -1,0 +1,26 @@
+#new_text=P119022					
+FORM	SEGM	XPOSTAG	XPOSTAG	POS	B-COUNT	l	5	"liquid	*	*
+*RETOK*-capacity"	?	?	?	?	I-COUNT	l	5	"dry	sila3	5
+5(disz)	5(disz)[one]	NU	NU	D	I-COUNT	*	*	*	sila3	5
+sila3	sila[unit]	N	N	D	I-COUNT	*	*	*	*	*
+esza	esza[flour]	N	N	D	B-COM	_	_	_	_	_
+ia3-{d}szara2	_	PN	PN	Iabcde	_	_	_	_	_	_
+sze-re-de3	_	V	NF.V.PF.DAT-NH	Iabcde	_	_	_	_	_	_
+nig2-dab5	nigdab[requisitions]	N	N	D	_	_	_	_	_	_
+ezem	ezem[festival]	N	N	D	_	_	_	_	_	_
+pa4-u2-e	Pa'u'e[1][-'a]	MN	MN.L1	D	_	_	_	_	_	_
+ki	ki[place]	N	N	D	_	_	_	_	_	_
+lu2-dingir-ra-ta	Ludingira[1][-ak]-ta	PN	PN.GEN.ABL	D	_	_	_	_	_	_
+kiszib3	kiszib[seal]	N	N	D	_	_	_	_	_	_
+lu2-{d}nin-szubur	Luninszubur[1][-ra]	PN	PN	D	_	_	_	_	_	_
+iti	iti[month]	N	N	D	_	_	_	_	_	_
+ezem-{d}szul-gi	Ezemszulgir[1][-'a]	MN	MN.L1	D	_	_	_	_	_	_
+mu	mu[year]	N	N	D	_	_	_	_	_	_
+ku3	kug[silver]	N	N	D	_	_	_	_	_	_
+gu-za	guza[chair][-ø]	N	N	D	_	_	_	_	_	_
+{d}en-lil2-la2	Enlil[1][-ak][-ø]	DN	DN.GEN	D	_	_	_	_	_	_
+ba-dim2	ba-dim[create][-ø]	V	MID.V.3-SG-S	D	_	_	_	_	_	_
+lu2-{d}nin-szubur	Luninszubur[1][-ra]	PN	PN	D	_	_	_	_	_	_
+dub-sar	dubsar[scribe]	N	N	D	_	_	_	_	_	_
+dumu	dumu[child]	N	N	D	_	_	_	_	_	_
+szesz-kal-la	Szeszkala[1][-ra]	PN	PN	D	_	_	_	_	_	_

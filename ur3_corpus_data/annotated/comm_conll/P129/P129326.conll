@@ -1,0 +1,20 @@
+#new_text=P129326					
+FORM	SEGM	XPOSTAG	XPOSTAG	POS	?	?	?	?	?	?
+1(gesz2)	1(gesz)[sixty]	NU	NU	D	B-COUNT	_	80	cardinal	_	80
+2(u)	2(u)[ten]	NU	NU	D	I-COUNT	*	*	*	*	*
+udu	udu[sheep]	N	N	D	B-COM	_	_	_	_	_
+bar-su-ga	barsuga[without_fleece][-ø]	V	NF.V.ABS	D	_	_	_	_	_	_
+2(u)	2(u)[ten]	NU	NU	D	B-COUNT	_	21	cardinal	_	21
+1(disz)	1(disz)[one]	NU	NU	D	I-COUNT	*	*	*	*	*
+masz2	masz[goat]	N	N	D	_	_	_	_	_	_
+kiszib3	kiszib[seal]	N	N	D	_	_	_	_	_	_
+nam-ha-ni	Namhani[1]	N	PN	D	_	_	_	_	_	_
+sipa	sipa[shepherd]	N	N	D	_	_	_	_	_	_
+ki	ki[place]	N	N	D	B-COM	_	_	_	_	_
+lugal-nesag-e-ta	_	PN	PN.GEN.GEN.ABL	Iabcdefg	_	_	_	_	_	_
+iti	iti[month]	N	N	D	_	_	_	_	_	_
+pa4-u2-e	Pa'u'e[1][-'a]	MN	MN.L1	D	_	_	_	_	_	_
+mu	mu[year]	N	N	D	_	_	_	_	_	_
+us2-sa	us[follow]-a	V	NF.V.PT	D	_	_	_	_	_	_
+an-sza-an{ki}	Anszan[1][-ø]	GN	GN.ABS	D	_	_	_	_	_	_
+ba-hul	ba-hulu[destroy][-ø]	V	MID.V.3-SG-S	D	_	_	_	_	_	_

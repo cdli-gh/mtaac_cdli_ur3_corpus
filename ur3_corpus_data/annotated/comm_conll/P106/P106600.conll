@@ -1,0 +1,17 @@
+#new_text=P106600					
+FORM	SEGM	XPOSTAG	XPOSTAG	POS	B-COUNT	l	268	"dry	*	*
+4(barig)	4(bariga)[unit]	NU	N	D	I-COUNT	*	*	*	sila3	268
+2(ban2)	2(ban)[unit]	NU	N	D	I-COUNT	*	*	*	*	*
+8(disz)	8(disz)[one]	NU	NU	D	I-COUNT	*	*	*	*	*
+sila3	sila[unit]	N	N	D	I-COUNT	*	*	*	*	*
+mun	mun[salt]	N	N	D	_	_	_	_	_	_
+ki	ki[place]	N	N	D	_	_	_	_	_	_
+lu2	lu[person]	N	N	D	_	_	_	_	_	_
+mun-ta	_	N	N.ABL	Iabcde	_	_	_	_	_	_
+la-ni	Lani[1]	PN	PN	D	_	_	_	_	_	_
+muhaldim	_	N	N	D	_	_	_	_	_	_
+szu	szu[hand][-e]	N	N.L3-NH	D	B-COM	_	_	_	_	_
+ba-ti	ba[-n]-teg[accept][-ø]	V	MID.3-SG-H-A.V.3-SG-P	D	_	_	_	_	_	_
+mu	mu[year]	N	N	D	_	_	_	_	_	_
+ha-ar-szi{ki}	Harszi[1]	SN	SN	D	_	_	_	_	_	_
+ba-hul	ba-hulu[destroy][-ø]	V	MID.V.3-SG-S	D	_	_	_	_	_	_

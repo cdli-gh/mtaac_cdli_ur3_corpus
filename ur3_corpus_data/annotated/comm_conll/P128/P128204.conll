@@ -1,0 +1,14 @@
+#new_text=P128204					
+FORM	SEGM	XPOSTAG	XPOSTAG	POS	?	?	?	?	?	?
+2(asz)	2(asz)[one]	NU	NU	D	B-COUNT	g	80000.0	weight	gin2	9600
+gu2	gun[unit]	N	N	D	I-COUNT	*	*	*	*	*
+4(u)	4(u)[ten]	NU	NU	D	I-COUNT	*	*	*	*	*
+ma-na	mana[unit]	N	N	D	I-COUNT	*	*	*	*	*
+siki-ud5	siki'ud[goat_wool]	N	N	D	_	_	_	_	_	_
+ki	ki[place]	N	N	D	B-COM	_	_	_	_	_
+ukken-ne2-ka	_	PN	PN	POS	_	_	_	_	_	_
+gal2-la-am3	_	V	NF.V.PT.ABS.COP-3-SG	Iab	_	_	_	_	_	_
+mu	mu[year]	N	N	D	_	_	_	_	_	_
+en	en[priest]	N	N	D	_	_	_	_	_	_
+eridu{ki}	Eridug[1][-ak][-ø]	SN	SN.GEN.ABS	D	_	_	_	_	_	_
+ba-a-hun	ba-hug[hire][-ø]	V	MID.V.3-SG-S	D	_	_	_	_	_	_

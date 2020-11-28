@@ -1,0 +1,19 @@
+#new_text=P303715					
+FORM	SEGM	XPOSTAG	XPOSTAG	POS	?	?	?	?	?	?
+6(disz)	6(disz)[one][-sze]	NU	NU	D	B-COUNT	_	0.1	cardinal	_	0.1
+gin2	gig[unit]	N	N	D	I-COUNT	*	*	*	*	*
+ku3-babbar	kugbabbar[silver]	N	N	D	B-COM	_	_	_	_	_
+ki	ki[place]	N	N	D	_	_	_	_	_	_
+ur-{d}suen	Ursuen[1]	PN	PN	D	_	_	_	_	_	_
+szu-ku6-ta	_	N	N	POS	_	_	_	_	_	_
+gaba-ri	gabari[copy]	N	N	D	_	_	_	_	_	_
+kiszib3-ba	kiszib[seal]-a	V	N	D	_	_	_	_	_	_
+lu2-kal-la	Lukala[1][-ra]	PN	PN.GEN	D	_	_	_	_	_	_
+iti	iti[month]	N	N	D	_	_	_	_	_	_
+nesag	Nesag[1][-'a]	N	MN.L1	D	_	_	_	_	_	_
+mu	mu[year]	N	N	D	_	_	_	_	_	_
+ma2	ma[ship]	N	N	D	_	_	_	_	_	_
+dara4	_	V	V	POS	_	_	_	_	_	_
+abzu	_	PN	N	D	_	_	_	_	_	_
+{d}en-ki	Enki[1][-ak][-ø]	DN	DN.GEN.ABS	D	_	_	_	_	_	_
+ba-ab-du8	ba-b-du[caulk][-ø]	V	MID.3-SG-NH-L3.V.3-SG-S	D	_	_	_	_	_	_

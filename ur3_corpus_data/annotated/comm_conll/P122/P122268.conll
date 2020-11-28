@@ -1,0 +1,23 @@
+#new_text=P122268					
+FORM	SEGM	XPOSTAG	XPOSTAG	POS	B-COUNT	l	285	"dry	*	*
+4(barig)	4(bariga)[unit]	NU	N	D	I-COUNT	*	*	*	sila3	285
+4(ban2)	4(ban)[unit]	NU	N	D	I-COUNT	*	*	*	*	*
+5(disz)	5(disz)[one]	NU	NU	D	I-COUNT	*	*	*	*	*
+sila3	sila[unit]	N	N	D	I-COUNT	*	*	*	*	*
+sze	sze[barley]	N	N	D	I-COUNT	*	*	*	*	*
+sze	sze[barley]	N	N	D	B-COM	_	_	_	_	_
+szuku	szukur[prebend_land]	N	N	D	_	_	_	_	_	_
+a-sza3-ga	aszag[field]-ak	N	N.GEN	D	_	_	_	_	_	_
+un-da-ga	_	PN	PN	POS	_	_	_	_	_	_
+ur-sukkal-ra	_	N	N	POS	_	_	_	_	_	_
+iti	iti[month]	N	N	D	_	_	_	_	_	_
+sig4-ga	Sigga[1][-'a]	MN	MN.L1	D	_	_	_	_	_	_
+ag2-de3	_	V	NF.V.ABS.GEN.GEN	Iabcdefg	_	_	_	_	_	_
+mu	mu[year]	N	N	D	_	_	_	_	_	_
+lugal-bi	_	N	N	POS	_	_	_	_	_	_
+in-na-pa3	_	PN	PN	POS	_	_	_	_	_	_
+mu	mu[year]	N	N	D	_	_	_	_	_	_
+si-mu-ru-um{ki}	Simurrum[1]	SN	SN.ABS	D	_	_	_	_	_	_
+un-da-ga	_	PN	PN	POS	_	_	_	_	_	_
+dumu	dumu[child]	N	N	D	_	_	_	_	_	_
+lugal-nam-tar-re	_	FN	FN	POS	_	_	_	_	_	_

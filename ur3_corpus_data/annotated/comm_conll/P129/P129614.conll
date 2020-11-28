@@ -1,0 +1,15 @@
+#new_text=P129614					
+FORM	SEGM	XPOSTAG	XPOSTAG	POS	B-COUNT	l	0.0025925925925925925	"dry	*	*
+2(u)	2(u)[ten]	NU	NU	D	I-COUNT	*	*	*	sila3	0.0025925925925925925
+8(asz)	8(asz)[one]	NU	NU	D	I-COUNT	*	*	*	*	*
+sze	sze[barley]	N	N	D	I-COUNT	*	*	*	*	*
+gur	gur[unit]	N	N	D	I-COUNT	*	*	*	*	*
+lugal	lugal[king]	N	N	D	_	_	_	_	_	_
+inim-{d}inanna	Iniminanna[1]	PN	PN	D	_	_	_	_	_	_
+2(gesz'u)	2(gesz'u)[six_hundred]	NU	NU	D	B-COUNT	_	1200	cardinal	_	1200
+ur-{d}a-szar2	_	PN	PN	Ia	_	_	_	_	_	_
+ur-{d}nanna	_	PN	PN	Iabcde	_	_	_	_	_	_
+sukkal	sukkal[secretary][-ak][-ra]	N	N	D	_	_	_	_	_	_
+kaskal	kaskal[journey][-sze]	N	N.TERM	D	_	_	_	_	_	_
+na-me	_	DET	PN	D	_	_	_	_	_	_
+nu-zu-e-sze3	_	V	V	POS	_	_	_	_	_	_

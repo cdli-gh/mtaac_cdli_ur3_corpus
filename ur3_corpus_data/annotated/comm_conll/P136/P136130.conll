@@ -1,0 +1,21 @@
+#new_text=P136130					
+FORM	SEGM	XPOSTAG	XPOSTAG	POS	?	?	?	?	?	?
+7(asz)	7(asz)[one]	NU	NU	D	B-COUNT	*	*	*	*	*
+2(barig)	2(bariga)[unit]	NU	N	D	I-COUNT	*	*	*	*	*
+sze	sze[barley]	N	N	D	I-COUNT	*	*	*	*	*
+gur	gur[unit]	N	N	D	I-COUNT	*	*	*	*	*
+lugal	lugal[king]	N	N	D	_	_	_	_	_	_
+ki	ki[place]	N	N	D	_	_	_	_	_	_
+ba-zi-ta	_	PN	PN.GEN.DAT-H	Iabcdefg	_	_	_	_	_	_
+kiszib3	kiszib[seal]	N	N	D	_	_	_	_	_	_
+lu2-{d}kal-kal	_	PN	PN.DAT-H	Iab	_	_	_	_	_	_
+giri3	giri[foot]	N	N	D	_	_	_	_	_	_
+a-hu-a	Ahuya[1]	PN	PN	D	_	_	_	_	_	_
+mu	mu[year]	N	N	D	_	_	_	_	_	_
+us2-sa	us[follow]-a	V	NF.V.PT	D	_	_	_	_	_	_
+ki-masz{ki}	Kimasz[1]	SN	SN.ABS	D	_	_	_	_	_	_
+ba-hul	ba-hulu[destroy][-ø]	V	MID.V.3-SG-S	D	_	_	_	_	_	_
+lu2-{d}kal-kal	_	PN	PN.DAT-H	Iab	_	_	_	_	_	_
+dub-sar	dubsar[scribe]	N	N	D	_	_	_	_	_	_
+dumu	dumu[child]	N	N	D	_	_	_	_	_	_
+ur-{d}lamma	Urlamma[1]	PN	PN	D	_	_	_	_	_	_

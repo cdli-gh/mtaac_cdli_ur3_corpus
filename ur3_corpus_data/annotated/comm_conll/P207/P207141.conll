@@ -1,0 +1,26 @@
+#new_text=P207141					
+FORM	SEGM	XPOSTAG	XPOSTAG	POS	B-COUNT	l	0.002037037037037037	"dry	*	*
+2(u)	2(u)[ten]	NU	NU	D	I-COUNT	*	*	*	sila3	0.002037037037037037
+2(asz)	2(asz)[one]	NU	NU	D	I-COUNT	*	*	*	*	*
+sze	sze[barley]	N	N	D	I-COUNT	*	*	*	*	*
+gur	gur[unit]	N	N	D	I-COUNT	*	*	*	*	*
+nig2-{d}ba-ba6	Nigbaba[1][-e]	PN	PN.ERG	D	_	_	_	_	_	_
+dumu	dumu[child]	N	N	D	_	_	_	_	_	_
+ni-ba	_	PN	PN.GEN.GEN.L1	Iabcdefg	_	_	_	_	_	_
+6(asz)	6(asz)[one]	NU	NU	D	?	?	?	?	?	?
+	_	_	?	?	?	?	?	?	?	?
+*RETOK*-6(asz)	?	?	?	?	B-COUNT	_	6	cardinal	_	6
+a-kal-la	Akala[1]	PN	PN	D	_	_	_	_	_	_
+szabra	szabra[chief_administrator][-ak]	N	N	D	_	_	_	_	_	_
+*RETOK*-capacity"	?	?	?	?	B-COUNT	l	660	"dry	*	*
+2(asz)	2(asz)[one]	NU	NU	D	I-COUNT	*	*	*	sila3	660
+1(barig)	1(bariga)[unit]	NU	N	D	I-COUNT	*	*	*	*	*
+na-ba-sa6	Nabasa[1][-ak]	PN	PN.GEN	D	_	_	_	_	_	_
+2(asz)	2(asz)[one]	NU	NU	D	B-COUNT	_	2	cardinal	_	2
+lugal-sza3-la2	_	N	N	POS	_	_	_	_	_	_
+*RETOK*-capacity"	?	?	?	?	B-COUNT	l	1860	"dry	*	*
+6(asz)	6(asz)[one]	NU	NU	D	I-COUNT	*	*	*	sila3	1860
+1(barig)	1(bariga)[unit]	NU	N	D	I-COUNT	*	*	*	*	*
+ur-{d}ig-alim	Urigalim[1]	FN	PN	D	_	_	_	_	_	_
+dumu	dumu[child]	N	N	D	_	_	_	_	_	_
+ga-esz8	_	N	N	D	B-COM	_	_	_	_	_

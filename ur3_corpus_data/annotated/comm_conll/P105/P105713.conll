@@ -1,0 +1,26 @@
+#new_text=P105713					
+FORM	SEGM	XPOSTAG	XPOSTAG	POS	B-COUNT	l	5674	"dry	*	*
+1(u)	1(u)[ten]	NU	NU	D	I-COUNT	*	*	*	sila3	5674
+8(asz)	8(asz)[one]	NU	NU	D	I-COUNT	*	*	*	*	*
+4(barig)	4(bariga)[unit]	NU	N	D	I-COUNT	*	*	*	*	*
+3(ban2)	3(ban)[unit]	NU	N	D	I-COUNT	*	*	*	*	*
+4(disz)	4(disz)[one]	NU	NU	D	I-COUNT	*	*	*	*	*
+sila3	sila[unit]	N	N	D	I-COUNT	*	*	*	*	*
+ziz2	ziz[emmer]	N	N	D	B-COM	_	_	_	_	_
+gur	gur[unit]	N	N	D	_	_	_	_	_	_
+6(asz)	6(asz)[one]	NU	NU	D	B-COUNT	*	*	*	*	*
+2(barig)	2(bariga)[unit]	NU	N	D	I-COUNT	*	*	*	*	*
+5(ban2)	5(ban)[unit]	NU	N	D	I-COUNT	*	*	*	*	*
+sze	sze[barley]	N	N	D	I-COUNT	*	*	*	*	*
+gur	gur[unit]	N	N	D	I-COUNT	*	*	*	*	*
+szu	szu[hand][-e]	N	N.L3-NH	D	B-COM	_	_	_	_	_
+*RETOK*-capacity"	?	?	?	?	B-COUNT	l	7644	"dry	*	*
+2(u)	2(u)[ten]	NU	NU	D	I-COUNT	*	*	*	sila3	7644
+5(asz)	5(asz)[one]	NU	NU	D	I-COUNT	*	*	*	*	*
+2(barig)	2(bariga)[unit]	NU	N	D	I-COUNT	*	*	*	*	*
+2(ban2)	2(ban)[unit]	NU	N	D	I-COUNT	*	*	*	*	*
+4(disz)	4(disz)[one]	NU	NU	D	I-COUNT	*	*	*	*	*
+sila3	sila[unit]	N	N	D	I-COUNT	*	*	*	*	*
+sze	sze[barley]	N	N	D	I-COUNT	*	*	*	*	*
+ziz2	ziz[emmer]	N	N	D	_	_	_	_	_	_
+gur	gur[unit]	N	N	D	_	_	_	_	_	_

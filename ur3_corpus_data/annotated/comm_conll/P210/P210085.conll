@@ -1,0 +1,16 @@
+#new_text=P210085					
+FORM	SEGM	XPOSTAG	XPOSTAG	POS	?	?	?	?	?	?
+4(disz)	4(disz)[one]	NU	NU	D	B-COUNT	_	0.18333333333333335	cardinal	_	0.18333333333333335
+gin2	gig[unit]	N	N	D	I-COUNT	*	*	*	*	*
+la2	la[hang][-ø]	V	NF.V.ABS	D	I-COUNT	*	*	*	*	*
+igi-4(disz)-gal2	igi4(disz)[one]gal[fraction]	NU	NU	D	I-COUNT	*	*	*	*	*
+ku3-babbar	kugbabbar[silver]	N	N	D	B-COM	_	_	_	_	_
+lugal-engar	_	N	N	POS	_	_	_	_	_	_
+*RETOK*-capacity"	?	?	?	?	B-COUNT	l	9.259259259259259e-05	"dry	*	*
+1(asz)	1(asz)[one]	NU	NU	D	I-COUNT	*	*	*	sila3	9.259259259259259e-05
+sze	sze[barley]	N	N	D	I-COUNT	*	*	*	*	*
+gur	gur[unit]	N	N	D	I-COUNT	*	*	*	*	*
+ildu3-ni-szu	_	PN	PN	Ia	_	_	_	_	_	_
+*RETOK*-capacity"	?	?	?	?	B-COUNT	l	180	"dry	*	*
+3(barig)	3(bariga)[unit]	NU	N	D	I-COUNT	*	*	*	sila3	180
+za-ak-ni-ni-id	_	PN	PN	Iabc	_	_	_	_	_	_

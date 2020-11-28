@@ -1,0 +1,27 @@
+#new_text=P339529					
+FORM	SEGM	XPOSTAG	XPOSTAG	POS	?	?	?	?	?	?
+1(disz)	1(disz)[one]	NU	NU	D	B-COUNT	_	1	cardinal	_	1
+ur-{d}da-mu	Urdamu[1]	PN	PN	D	_	_	_	_	_	_
+dumu	dumu[child]	N	N	D	_	_	_	_	_	_
+ur-am3-ma	Uramma[1][-ak]	PN	PN	D	_	_	_	_	_	_
+iti	iti[month]	N	N	D	_	_	_	_	_	_
+dal	Dal[1][-'a]	MN	MN.L1	D	B-COM	_	_	_	_	_
+mu	mu[year]	N	N	D	_	_	_	_	_	_
+ma2	ma[ship]	N	N	D	_	_	_	_	_	_
+{d}en-ki	Enki[1][-ak][-ø]	DN	DN.GEN.ABS	D	_	_	_	_	_	_
+ba-ab-du8-ta	_	V	MID.V.3-SG-S.ABL	Iabcdefg	_	_	_	_	_	_
+ki	ki[place]	N	N	D	_	_	_	_	_	_
+ur-mes-ta	Urmes[1][-ak]-ta	PN	PN.GEN.ABL	D	_	_	_	_	_	_
+ugu2	ugu[capital]	N	N	D	_	_	_	_	_	_
+lu2-dingir-ra	Ludingira[1][-ra]	PN	PN	D	_	_	_	_	_	_
+dumu	dumu[child]	N	N	D	_	_	_	_	_	_
+lugal-e2-mah-e	Lugalemahe[1]	N	PN	D	_	_	_	_	_	_
+ga2-ga2-dam	gar-gar[place]-ed-am	V	NF.V.RDP.F.COP-3-SG	D	_	_	_	_	_	_
+mu	mu[year]	N	N	D	_	_	_	_	_	_
+bad3	bad[wall]	N	N	D	_	_	_	_	_	_
+mar-tu	Martu[1][-ø]	EN	EN.ABS	D	_	_	_	_	_	_
+ba-du3-sze3	_	V	V	POS	_	_	_	_	_	_
+lu2-dingir-ra	Ludingira[1][-ra]	PN	PN	D	_	_	_	_	_	_
+dub-sar	dubsar[scribe]	N	N	D	_	_	_	_	_	_
+dumu	dumu[child]	N	N	D	_	_	_	_	_	_
+lugal-e2-mah-e	Lugalemahe[1]	N	PN	D	_	_	_	_	_	_

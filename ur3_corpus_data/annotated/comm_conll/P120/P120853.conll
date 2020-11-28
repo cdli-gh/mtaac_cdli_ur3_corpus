@@ -1,0 +1,15 @@
+#new_text=P120853					
+FORM	SEGM	XPOSTAG	XPOSTAG	POS	?	?	?	?	?	?
+2(asz)	2(asz)[one]	NU	NU	D	B-COUNT	g	60000.00000000001	weight	gin2	7200
+gu2	gun[unit]	N	N	D	I-COUNT	*	*	*	*	*
+SZIM	szim[beer_malt]	N	N	D	B-COM	_	_	_	_	_
+du	gin[quality_designation][-ø]	V	NF.V.ABS	D	_	_	_	_	_	_
+ur-{d}ku3-su13	_	PN	PN	Iabcdefgh	_	_	_	_	_	_
+szu	szu[hand][-e]	N	N.L3-NH	D	_	_	_	_	_	_
+ba-ti	ba[-n]-teg[accept][-ø]	V	MID.3-SG-H-A.V.3-SG-P	D	_	_	_	_	_	_
+ur-{d}ku3-SZIM	_	PN	PN	Iabcde	_	_	_	_	_	_
+dub-sar	dubsar[scribe]	N	N	D	_	_	_	_	_	_
+dumu	dumu[child]	N	N	D	_	_	_	_	_	_
+lugal-geszkim-zi	_	PN	PN	Iabcde	_	_	_	_	_	_
+sanga4	_	N	N	Ia	_	_	_	_	_	_
+{d}en-lil2-la2-ka	Enlil[1]-ak-ak	DN	DN.GEN.ABS	D	_	_	_	_	_	_

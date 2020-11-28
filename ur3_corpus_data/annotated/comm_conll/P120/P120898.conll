@@ -1,0 +1,26 @@
+#new_text=P120898					
+FORM	SEGM	XPOSTAG	XPOSTAG	POS	?	?	?	?	?	?
+x	_[_]	N	N	D	_	_	_	_	_	_
+ma2	ma[ship]	N	N	D	_	_	_	_	_	_
+*RETOK*-capacity"	?	?	?	?	B-COUNT	l	3000	"dry	*	*
+1(u)	1(u)[ten]	NU	NU	D	I-COUNT	*	*	*	sila3	3000
+gur	gur[unit]	N	N	D	I-COUNT	*	*	*	*	*
+ur-{d}nin-urta	_	PN	PN	Iabcdefgh	_	_	_	_	_	_
+2(disz)	2(disz)[one]	NU	NU	D	B-COUNT	_	2	cardinal	_	2
+ma2	ma[ship]	N	N	D	_	_	_	_	_	_
+*RETOK*-capacity"	?	?	?	?	B-COUNT	l	15300	"dry	*	*
+4(u)	4(u)[ten]	NU	NU	D	I-COUNT	*	*	*	sila3	15300
+gur	gur[unit]	N	N	D	I-COUNT	*	*	*	*	*
+1(u)	1(u)[ten]	NU	NU	D	I-COUNT	*	*	*	*	*
+1(asz)	1(asz)[one]	NU	NU	D	I-COUNT	*	*	*	*	*
+gur	gur[unit]	N	N	D	I-COUNT	*	*	*	*	*
+ur-{d}suen	Ursuen[1]	PN	PN	D	_	_	_	_	_	_
+kuruszda	kuruszda[animal_fattener][-ø]	N	N.GEN.ABS	D	_	_	_	_	_	_
+2(disz)	2(disz)[one]	NU	NU	D	B-COUNT	_	2	cardinal	_	2
+ma2	ma[ship]	N	N	D	_	_	_	_	_	_
+*RETOK*-capacity"	?	?	?	?	B-COUNT	l	9000	"dry	*	*
+2(u)	2(u)[ten]	NU	NU	D	I-COUNT	*	*	*	sila3	9000
+gur	gur[unit]	N	N	D	I-COUNT	*	*	*	*	*
+1(u)	1(u)[ten]	NU	NU	D	I-COUNT	*	*	*	*	*
+gur	gur[unit]	N	N	D	I-COUNT	*	*	*	*	*
+ur-x-x-in	_	PN	PN	Iabcdefgh	_	_	_	_	_	_

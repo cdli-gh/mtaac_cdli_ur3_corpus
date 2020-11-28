@@ -1,0 +1,25 @@
+#new_text=P109231					
+FORM	SEGM	XPOSTAG	XPOSTAG	POS	B-COUNT	l	360	"dry	*	*
+1(asz)	1(asz)[one]	NU	NU	D	I-COUNT	*	*	*	sila3	360
+1(barig)	1(bariga)[unit]	NU	N	D	I-COUNT	*	*	*	*	*
+duh	duh[bran]	N	N	D	B-COM	_	_	_	_	_
+saga	saga[good][-ø]	V	NF.V.ABS	D	_	_	_	_	_	_
+gur	gur[unit]	N	N	D	_	_	_	_	_	_
+lugal	lugal[king]	N	N	D	_	_	_	_	_	_
+bil-ga-sze3	_	PN	PN.GEN.TERM	Iabcdefg	_	_	_	_	_	_
+ti-e2-mah-e	_	PN	PN	Iabcde	_	_	_	_	_	_
+szu	szu[hand][-e]	N	N.L3-NH	D	_	_	_	_	_	_
+ba-ti	ba[-n]-teg[accept][-ø]	V	MID.3-SG-H-A.V.3-SG-P	D	_	_	_	_	_	_
+ki	ki[place]	N	N	D	_	_	_	_	_	_
+ku3-ga-ni-ta	_	PN	PN	Iabcdefgh	_	_	_	_	_	_
+kiszib3	kiszib[seal]	N	N	D	_	_	_	_	_	_
+ti-e2-mah-ta	_	PN	PN	D	_	_	_	_	_	_
+iti	iti[month]	N	N	D	_	_	_	_	_	_
+nesag	Nesag[1][-'a]	N	MN.L1	D	_	_	_	_	_	_
+mu	mu[year]	N	N	D	_	_	_	_	_	_
+gu-za	guza[chair][-ø]	N	N	D	_	_	_	_	_	_
+{d}en-lil2-la2	Enlil[1][-ak][-ø]	DN	DN.GEN	D	_	_	_	_	_	_
+mu-dim2	_	V	VEN.3-SG-H-A.V.3-SG-P	D	_	_	_	_	_	_
+ti-il-e2-mah-ta	_	PN	PN	Iabcdefgh	_	_	_	_	_	_
+dumu	dumu[child]	N	N	D	_	_	_	_	_	_
+szesz-kal-la	Szeszkala[1][-ra]	PN	PN	D	_	_	_	_	_	_

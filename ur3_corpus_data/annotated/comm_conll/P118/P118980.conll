@@ -1,0 +1,27 @@
+#new_text=P118980					
+FORM	SEGM	XPOSTAG	XPOSTAG	POS	?	?	?	?	?	?
+1(disz)	1(disz)[one]	NU	NU	D	B-COUNT	_	1	cardinal	_	1
+udu	udu[sheep]	N	N	D	B-COM	_	_	_	_	_
+niga	niga[fattened][-ø]	V	NF.V.ABS	D	_	_	_	_	_	_
+bar-gal2	bargal[fleeced_sheep]	N	N	D	_	_	_	_	_	_
+3(u)	3(u)[ten]	NU	NU	D	B-COUNT	_	33	cardinal	_	33
+3(disz)	3(disz)[one]	NU	NU	D	I-COUNT	*	*	*	*	*
+udu	udu[sheep]	N	N	D	_	_	_	_	_	_
+bar-gal2	bargal[fleeced_sheep]	N	N	D	_	_	_	_	_	_
+1(disz)	1(disz)[one]	NU	NU	D	B-COUNT	_	1	cardinal	_	1
+sila4	sila[lamb]	N	N	D	_	_	_	_	_	_
+bar-gal2	bargal[fleeced_sheep]	N	N	D	_	_	_	_	_	_
+3(disz)	3(disz)[one]	NU	NU	D	B-COUNT	_	3	cardinal	_	3
+udu	udu[sheep]	N	N	D	_	_	_	_	_	_
+bar-su-ga	barsuga[without_fleece][-ø]	V	NF.V.ABS	D	_	_	_	_	_	_
+1(disz)	1(disz)[one]	NU	NU	D	B-COUNT	_	1	cardinal	_	1
+masz2	masz[goat]	N	N	D	_	_	_	_	_	_
+zi-gum2-sze3	_	N	N	POS	_	_	_	_	_	_
+ki	ki[place]	N	N	D	_	_	_	_	_	_
+usz-mu-ta	Uszmu[1][-ak]-ta	PN	PN.GEN.ABL	D	_	_	_	_	_	_
+kiszib3	kiszib[seal]	N	N	D	_	_	_	_	_	_
+a-du	Adu[1][-ak]	PN	PN.GEN	D	_	_	_	_	_	_
+mu	mu[year]	N	N	D	_	_	_	_	_	_
+en	en[priest]	N	N	D	_	_	_	_	_	_
+eridu{ki}	Eridug[1][-ak][-ø]	SN	SN.GEN.ABS	D	_	_	_	_	_	_
+ba-hun	ba-hug[hire][-ø]	V	MID.V.3-SG-S	D	_	_	_	_	_	_

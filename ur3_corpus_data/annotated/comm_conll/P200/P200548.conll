@@ -1,0 +1,22 @@
+#new_text=P200548					
+FORM	SEGM	XPOSTAG	XPOSTAG	POS	?	?	?	?	?	?
+1(disz)	1(disz)[one]	NU	NU	D	B-COUNT	_	1	cardinal	_	1
+ab2	ab[cow][-ø]	N	N	D	B-COM	_	_	_	_	_
+igi	igi[eye][-ø]	N	N	D	_	_	_	_	_	_
+{d}szu-nir-ra-sze3	_	DN	DN	POS	_	_	_	_	_	_
+esz3-esz3	eszesz[festival]	PN	N	D	_	_	_	_	_	_
+u4-sakar	usakar[crescent_moon][-sze]	N	N.TERM	D	_	_	_	_	_	_
+sza3	szag[heart]	N	N	D	_	_	_	_	_	_
+mu-kux(DU)-ra	_	V	V	POS	_	_	_	_	_	_
+zi-ga	zig[expend]-a	V	NF.V.PT	D	_	_	_	_	_	_
+i-ri-ib	_	PN	PN	Iabcde	_	_	_	_	_	_
+giri3	giri[foot]	N	N	D	_	_	_	_	_	_
+szar-ru-um-ba-ni	Szarrumbani[1]	PN	PN	D	_	_	_	_	_	_
+u4	ud[day]	N	N	D	_	_	_	_	_	_
+3(u)-kam	3(u)[ten]-ak-am	NU	NU.GEN.COP-3-SG	D	B-COUNT	_	30	cardinal	_	30
+iti	iti[month]	N	N	D	_	_	_	_	_	_
+u5-bi2-gu7	Ubigu[1][-'a]	MN	MN.L1	D	_	_	_	_	_	_
+mu	mu[year]	N	N	D	_	_	_	_	_	_
+us2-sa	us[follow]-a	V	NF.V.PT	D	_	_	_	_	_	_
+ma2-dara3-abzu	Madara'abzu[1]	ON	ON	D	_	_	_	_	_	_
+ba-ab-du8	ba-b-du[caulk][-ø]	V	MID.3-SG-NH-L3.V.3-SG-S	D	B-COM	_	_	_	_	_

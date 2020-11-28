@@ -1,0 +1,18 @@
+#new_text=P121038					
+FORM	SEGM	XPOSTAG	XPOSTAG	POS	?	?	?	?	?	?
+4(disz)	4(disz)[one]	NU	NU	D	B-COUNT	g	2000.0000000000002	weight	gin2	240
+ma-na	mana[unit]	N	N	D	I-COUNT	*	*	*	*	*
+siki	siki[wool][-'a]	N	N	D	B-COM	_	_	_	_	_
+{d}nin-lil2-la2-al-zi	_	DN	DN	POS	_	_	_	_	_	_
+2(disz)	2(disz)[one]	NU	NU	D	B-COUNT	_	2	cardinal	_	2
+lugal-sa6-ga	Lugalsaga[1][-ak]	PN	PN.GEN	D	_	_	_	_	_	_
+x	_[_]	N	N	D	_	_	_	_	_	_
+ma-ti-li2	_	PN	PN	Iabcde	_	_	_	_	_	_
+...	_[_]	PN	N	D	_	_	_	_	_	_
+1(asz)	1(asz)[one]	NU	NU	D	B-COUNT	g	33000.0	weight	gin2	3960
+gu2	gun[unit]	N	N	D	I-COUNT	*	*	*	*	*
+6(disz)	6(disz)[one][-sze]	NU	NU	D	I-COUNT	*	*	*	*	*
+ma-na	mana[unit]	N	N	D	I-COUNT	*	*	*	*	*
+siki-ba	_	V	V	POS	B-COM	_	_	_	_	_
+x	_[_]	N	N	D	_	_	_	_	_	_
+ka-tar-na	_	PN	PN.GEN	Iabcdef	_	_	_	_	_	_

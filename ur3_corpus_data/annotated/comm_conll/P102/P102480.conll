@@ -1,0 +1,21 @@
+#new_text=P102480					
+FORM	SEGM	XPOSTAG	XPOSTAG	POS	?	?	?	?	?	?
+2(asz)	2(asz)[one]	NU	NU	D	B-COUNT	_	none	unknown	_	none
+sze	sze[barley]	N	N	D	I-COUNT	*	*	*	*	*
+gur	gur[unit]	N	N	D	I-COUNT	*	*	*	*	*
+x	_[_]	N	N	D	I-COUNT	*	*	*	*	*
+a-sza3	aszag[field]	N	N	D	_	_	_	_	_	_
+al-ag-ga	_	FN	FN	POS	_	_	_	_	_	_
+...	_[_]	PN	N	D	_	_	_	_	_	_
+sza-za-ar-ku-bu-um	_	PN	PN	Iabcdefgh	_	_	_	_	_	_
+ki	ki[place]	N	N	D	_	_	_	_	_	_
+szu-ga-ga	_	PN	PN	POS	_	_	_	_	_	_
+kal-la-szu	_	PN	PN	Ia	_	_	_	_	_	_
+szu	szu[hand][-e]	N	N.L3-NH	D	B-COM	_	_	_	_	_
+ba-ti	ba[-n]-teg[accept][-ø]	V	MID.3-SG-H-A.V.3-SG-P	D	_	_	_	_	_	_
+igi	igi[eye][-ø]	N	N	D	_	_	_	_	_	_
+szu-esz18-dar	Szu'eszdar[1][-ak]	PN	PN	D	_	_	_	_	_	_
+egir	_	N	N.ABS	D	_	_	_	_	_	_
+di-ku5	_	N	N.GEN.ABS	D	_	_	_	_	_	_
+igi	igi[eye][-ø]	N	N	D	_	_	_	_	_	_
+ba-x-...	_	V	V	POS	_	_	_	_	_	_

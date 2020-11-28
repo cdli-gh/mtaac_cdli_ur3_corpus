@@ -1,0 +1,16 @@
+#new_text=P132507					
+FORM	SEGM	XPOSTAG	XPOSTAG	POS	?	?	?	?	?	?
+x	_[_]	N	N	D	_	_	_	_	_	_
+gurusz	gurusz[male]	N	N	D	_	_	_	_	_	_
+he2-dab5	hedab[worker]	V	N.DAT-H	D	_	_	_	_	_	_
+u4	ud[day]	N	N	D	_	_	_	_	_	_
+1(u)	1(u)[ten]	NU	NU	D	B-COUNT	_	16	cardinal	_	16
+6(disz)-sze3	6(disz)[one]-sze	NU	NU.TERM	D	I-COUNT	*	*	*	*	*
+al	al[hoeing]	N	N	D	B-COM	_	_	_	_	_
+tar-a	_	V	V	POS	_	_	_	_	_	_
+gub-ba	gub[assigned]-a[-ak][-ø]	V	NF.V.PT	D	_	_	_	_	_	_
+e2	e[house]	N	N	D	_	_	_	_	_	_
+{d}szu-{d}suen	Szusuen[1]	RN	RN	D	_	_	_	_	_	_
+mu	mu[year]	N	N	D	_	_	_	_	_	_
+szu-{d}suen	Szusuen[1]	PN	RN	D	_	_	_	_	_	_
+lugal	lugal[king]	N	N	D	_	_	_	_	_	_

@@ -1,0 +1,22 @@
+#new_text=P143313					
+FORM	SEGM	XPOSTAG	XPOSTAG	POS	?	?	?	?	?	?
+1(u)	1(u)[ten]	NU	NU	D	B-COUNT	_	10	cardinal	_	10
+gurusz	gurusz[male]	N	N	D	B-COM	_	_	_	_	_
+kar-sze3	kar[harbor]-sze	N	N.TERM	D	_	_	_	_	_	_
+SZIM	szim[beer_malt]	N	N	D	_	_	_	_	_	_
+nig2	_	N	N	D	_	_	_	_	_	_
+tur-ra	_	V	V	POS	_	_	_	_	_	_
+ib2-IL2	_	V	V	POS	_	_	_	_	_	_
+ugula	ugula[overseer][-ø]	N	N	D	_	_	_	_	_	_
+a-a-mu	Ayamu[1][-ak]	PN	PN.GEN	D	_	_	_	_	_	_
+giri3	giri[foot]	N	N	D	_	_	_	_	_	_
+ur-{d}nin-tu	Urnintu[1][-ak]	PN	PN	D	_	_	_	_	_	_
+iti	iti[month]	N	N	D	_	_	_	_	_	_
+szu-numun	Szunumun[1][-'a]	MN	MN.L1	D	_	_	_	_	_	_
+mu	mu[year]	N	N	D	_	_	_	_	_	_
+an-sza-an{ki}	Anszan[1][-ø]	GN	GN.ABS	D	_	_	_	_	_	_
+ba-hul-a	ba-hulu[destroy][-ø]-a	V	MID.V.3-SG-S.SUB	D	_	_	_	_	_	_
+ur-{d}nin-tu	Urnintu[1][-ak]	PN	PN	D	_	_	_	_	_	_
+dub-sar	dubsar[scribe]	N	N	D	_	_	_	_	_	_
+dumu	dumu[child]	N	N	D	_	_	_	_	_	_
+du11-ga	dug[irrigate]-a	V	PN	D	_	_	_	_	_	_

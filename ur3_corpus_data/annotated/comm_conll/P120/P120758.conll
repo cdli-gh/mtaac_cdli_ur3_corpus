@@ -1,0 +1,27 @@
+#new_text=P120758					
+FORM	SEGM	XPOSTAG	XPOSTAG	POS	?	?	?	?	?	?
+2(gesz2)	2(gesz)[sixty]	NU	NU	D	B-COUNT	*	*	*	*	*
+1(u)	1(u)[ten]	NU	NU	D	I-COUNT	*	*	*	*	*
+4(asz)	4(asz)[one]	NU	NU	D	I-COUNT	*	*	*	*	*
+2(barig)	2(bariga)[unit]	NU	N	D	I-COUNT	*	*	*	*	*
+sze	sze[barley]	N	N	D	I-COUNT	*	*	*	*	*
+gur	gur[unit]	N	N	D	I-COUNT	*	*	*	*	*
+lugal	lugal[king]	N	N	D	_	_	_	_	_	_
+dal{al}-ba-na-ta	_	V	V	POS	_	_	_	_	_	_
+giri3	giri[foot]	N	N	D	_	_	_	_	_	_
+he2-du-du	_	PN	PN	POS	_	_	_	_	_	_
+ka	kag[mouth]	N	N	D	_	_	_	_	_	_
+idigna-ta	_	WN	WN.ABL	Iabcdefg	_	_	_	_	_	_
+kiszib3	kiszib[seal]	N	N	D	_	_	_	_	_	_
+lugal-inim-gi-na-ka	_	PN	PN.GEN.GEN.GEN	Iabcdef	_	_	_	_	_	_
+ib2-ra	_	PN	PN	POS	_	_	_	_	_	_
+he2-du-du	_	PN	PN	POS	_	_	_	_	_	_
+en8-bi	_	N	N.ABS	Iabcdef	_	_	_	_	_	_
+tar-re-dam	_	V	NF.V.F.ABS.COP-3-SG	Iabcdef	B-COM	_	_	_	_	_
+iti	iti[month]	N	N	D	_	_	_	_	_	_
+ezem-me-ki-gal2	Ezemmekigal[1][-ø]	MN	MN.L1	D	_	_	_	_	_	_
+mu	mu[year]	N	N	D	_	_	_	_	_	_
+a-ra2	ara[times]	N	N	D	_	_	_	_	_	_
+2(disz)-kam	2(disz)[one]-ak-am	NU	NU.GEN.COP-3-SG	D	B-COUNT	_	2	cardinal	_	2
+kar2-har{ki}	_	GN	SN.GEN	D	_	_	_	_	_	_
+ba-hul	ba-hulu[destroy][-ø]	V	MID.V.3-SG-S	D	_	_	_	_	_	_

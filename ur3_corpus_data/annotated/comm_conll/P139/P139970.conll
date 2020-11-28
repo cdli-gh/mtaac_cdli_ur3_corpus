@@ -1,0 +1,17 @@
+#new_text=P139970					
+FORM	SEGM	XPOSTAG	XPOSTAG	POS	?	?	?	?	?	?
+1(gesz2)	1(gesz)[sixty]	NU	NU	D	B-COUNT	_	60	cardinal	_	60
+sa	sa[bundle]	N	N	D	_	_	_	_	_	_
+gi	gi[reed][-ø]	N	N	D	_	_	_	_	_	_
+en-du8-du-ta	_	PN	PN.GEN.ABL	Iabcdef	_	_	_	_	_	_
+mar-sa-asz	marsa[military_depot]-sze	PN	N.TERM	D	_	_	_	_	_	_
+kiszib3	kiszib[seal]	N	N	D	_	_	_	_	_	_
+lugal-nir	Lugalnir[1][-ak][-ta]	PN	PN	D	_	_	_	_	_	_
+mu	mu[year]	N	N	D	_	_	_	_	_	_
+bad3	bad[wall]	N	N	D	_	_	_	_	_	_
+ba-du3	ba-du[build][-ø]	V	MID.V.3-SG-S	D	B-COM	_	_	_	_	_
+lugal-nir	Lugalnir[1][-ak][-ta]	PN	PN	D	_	_	_	_	_	_
+dub-sar	dubsar[scribe]	N	N	D	_	_	_	_	_	_
+dumu	dumu[child]	N	N	D	_	_	_	_	_	_
+ur-{d}szara2	Urszara[1]	PN	PN	D	_	_	_	_	_	_
+sza13-dub-ba-ka	bisagdubak[archivist][-ak]	N	N.GEN	D	_	_	_	_	_	_

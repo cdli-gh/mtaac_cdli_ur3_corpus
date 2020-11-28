@@ -1,0 +1,18 @@
+#new_text=P100024					
+FORM	SEGM	XPOSTAG	XPOSTAG	POS	?	?	?	?	?	?
+x	_[_]	N	N	D	_	_	_	_	_	_
+2(barig)	2(bariga)[unit]	NU	N	D	B-COUNT	*	*	*	*	*
+3(ban2)	3(ban)[unit]	NU	N	D	I-COUNT	*	*	*	*	*
+sze	sze[barley]	N	N	D	I-COUNT	*	*	*	*	*
+szuku-ra	szukur[ration]-ak	N	N.GEN	D	_	_	_	_	_	_
+gur	gur[unit]	N	N	D	_	_	_	_	_	_
+x	_[_]	N	N	D	_	_	_	_	_	_
+szesz-a-ni	Szeszani[1][-ak]	PN	PN	D	_	_	_	_	_	_
+gudu4	gudug[priest]	N	N	D	_	_	_	_	_	_
+{d}szul-gi	Szulgir[1]	RN	RN	D	_	_	_	_	_	_
+e2-x-ta	_	PN	PN	POS	_	_	_	_	_	_
+iti	iti[month]	N	N	D	_	_	_	_	_	_
+ezem-{d}szul-gi	Ezemszulgir[1][-'a]	MN	MN.L1	D	_	_	_	_	_	_
+mu	mu[year]	N	N	D	_	_	_	_	_	_
+hu-hu-nu-ri{ki}	Huhunuri[1][-ø]	GN	SN.ABS	D	_	_	_	_	_	_
+ba-hul	ba-hulu[destroy][-ø]	V	MID.V.3-SG-S	D	_	_	_	_	_	_

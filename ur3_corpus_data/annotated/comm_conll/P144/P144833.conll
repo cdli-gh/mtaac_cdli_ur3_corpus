@@ -1,0 +1,15 @@
+#new_text=P144833					
+FORM	SEGM	XPOSTAG	XPOSTAG	POS	?	?	?	?	?	?
+7(asz)	7(asz)[one]	NU	NU	D	B-COUNT	*	*	*	*	*
+3(barig)	3(bariga)[unit]	NU	N	D	I-COUNT	*	*	*	*	*
+2(ban2)	2(ban)[unit]	NU	N	D	I-COUNT	*	*	*	*	*
+sze	sze[barley]	N	N	D	I-COUNT	*	*	*	*	*
+gig-ta	_	V	V	POS	B-COM	_	_	_	_	_
+hal-la-a	_	PN	PN.GEN.GEN	Iabcdef	_	_	_	_	_	_
+e2-a	e[house][-ak]-'a	GN	N.L1	D	_	_	_	_	_	_
+si-ga	sig[load]-a	N	NF.V.PT	D	_	_	_	_	_	_
+iti	iti[month]	N	N	D	_	_	_	_	_	_
+ezem-{d}szul-gi	Ezemszulgir[1][-'a]	MN	MN.L1	D	_	_	_	_	_	_
+mu	mu[year]	N	N	D	_	_	_	_	_	_
+na-ru2-a-mah	naruamah[magnificent_stele][-ø]	PN	N.ABS	D	_	_	_	_	_	_
+ba-du3	ba-du[build][-ø]	V	MID.V.3-SG-S	D	_	_	_	_	_	_

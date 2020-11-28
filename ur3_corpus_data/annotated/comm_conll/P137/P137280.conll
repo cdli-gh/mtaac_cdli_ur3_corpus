@@ -1,0 +1,26 @@
+#new_text=P137280					
+FORM	SEGM	XPOSTAG	XPOSTAG	POS	B-COUNT	l	38555	"dry	*	*
+2(gesz2)	2(gesz)[sixty]	NU	NU	D	I-COUNT	*	*	*	sila3	38555
+8(asz)	8(asz)[one]	NU	NU	D	I-COUNT	*	*	*	*	*
+2(barig)	2(bariga)[unit]	NU	N	D	I-COUNT	*	*	*	*	*
+3(ban2)	3(ban)[unit]	NU	N	D	I-COUNT	*	*	*	*	*
+5(disz)	5(disz)[one]	NU	NU	D	I-COUNT	*	*	*	*	*
+sila3	sila[unit]	N	N	D	I-COUNT	*	*	*	*	*
+sze	sze[barley]	N	N	D	I-COUNT	*	*	*	*	*
+gur	gur[unit]	N	N	D	I-COUNT	*	*	*	*	*
+sze	sze[barley]	N	N	D	B-COM	_	_	_	_	_
+ur5-ra	urra[loan]	N	N	D	_	_	_	_	_	_
+e3	e[leave][-a]	V	NF.V.PT	D	_	_	_	_	_	_
+mu-kux(DU)	mukur[delivery][-ø]	N	N	D	_	_	_	_	_	_
+...	_[_]	PN	N	D	_	_	_	_	_	_
+...	_[_]	PN	N	D	_	_	_	_	_	_
+...	_[_]	PN	N	D	_	_	_	_	_	_
+ti	_	N	N	Ia	_	_	_	_	_	_
+x	_[_]	N	N	D	_	_	_	_	_	_
+x	_[_]	N	N	D	_	_	_	_	_	_
+iti	iti[month]	N	N	D	_	_	_	_	_	_
+a2-ki-ti	Akiti[1][-'a]	N	MN.L1	D	_	_	_	_	_	_
+mu	mu[year]	N	N	D	_	_	_	_	_	_
+x	_[_]	N	N	D	_	_	_	_	_	_
+x	_[_]	N	N	D	_	_	_	_	_	_
+x	_[_]	N	N	D	_	_	_	_	_	_

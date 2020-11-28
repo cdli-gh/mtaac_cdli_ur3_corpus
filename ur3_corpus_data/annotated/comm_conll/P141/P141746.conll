@@ -1,0 +1,25 @@
+#new_text=P141746					
+FORM	SEGM	XPOSTAG	XPOSTAG	POS	?	?	?	?	?	?
+kiszib3	kiszib[seal]	N	N	D	_	_	_	_	_	_
+2(asz)	2(asz)[one]	NU	NU	D	B-COUNT	*	*	*	*	*
+2(barig)	2(bariga)[unit]	NU	N	D	I-COUNT	*	*	*	*	*
+sze	sze[barley]	N	N	D	I-COUNT	*	*	*	*	*
+gur	gur[unit]	N	N	D	I-COUNT	*	*	*	*	*
+gu3-de2-a	Gude'a[1][-ra]	PN	PN	D	_	_	_	_	_	_
+ki	ki[place]	N	N	D	B-COM	_	_	_	_	_
+a-a-zi-mu-ta	_	PN	PN.GEN.GEN.ABL	Iabcdefg	_	_	_	_	_	_
+tum3-dam	_	V	V	POS	_	_	_	_	_	_
+kiszib3	kiszib[seal]	N	N	D	_	_	_	_	_	_
+a-a-zi-mu	_	PN	PN.ABS	D	_	_	_	_	_	_
+zi-re-dam	_	PN	PN	POS	_	_	_	_	_	_
+mu	mu[year]	N	N	D	_	_	_	_	_	_
+{d}szu-{d}suen	Szusuen[1]	RN	RN	D	_	_	_	_	_	_
+lugal-e	lugal[king]-e	N	N.ERG	D	_	_	_	_	_	_
+bad3	bad[wall]	N	N	D	_	_	_	_	_	_
+mar-tu	Martu[1][-ø]	EN	EN.ABS	D	_	_	_	_	_	_
+mu-du3	mu[-n]-du[build][-ø]	V	VEN.3-SG-H-A.V.3-SG-P	D	_	_	_	_	_	_
+lu2-{d}szara2	Luszara[1][-ak]	PN	PN	D	_	_	_	_	_	_
+dub-sar	dubsar[scribe]	N	N	D	_	_	_	_	_	_
+dumu	dumu[child]	N	N	D	_	_	_	_	_	_
+inim-{d}szara2	Inimszara[1][-ak][-ra]	PN	PN	D	_	_	_	_	_	_
+sa12-du5-ka	_	PN	PN	POS	_	_	_	_	_	_

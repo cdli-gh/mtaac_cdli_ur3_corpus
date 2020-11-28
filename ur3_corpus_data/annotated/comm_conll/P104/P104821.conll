@@ -1,0 +1,25 @@
+#new_text=P104821					
+FORM	SEGM	XPOSTAG	XPOSTAG	POS	?	?	?	?	?	?
+3(disz)	3(disz)[one]	NU	NU	D	B-COUNT	_	3	cardinal	_	3
+gu4	gud[ox]	N	N	D	B-COM	_	_	_	_	_
+sa2-du11	sadug[offerings]	N	N	D	_	_	_	_	_	_
+*RETOK*-capacity"	?	?	?	?	B-COUNT	l	12	"dry	*	*
+1(ban2)	1(ban)[unit]	NU	N	D	I-COUNT	*	*	*	sila3	12
+2(disz)	2(disz)[one]	NU	NU	D	I-COUNT	*	*	*	*	*
+sila3	sila[unit]	N	N	D	I-COUNT	*	*	*	*	*
+duh	duh[bran]	N	N	D	_	_	_	_	_	_
+du-ta	_	V	V	POS	_	_	_	_	_	_
+u4	ud[day]	N	N	D	_	_	_	_	_	_
+3(disz)-sze3	3(disz)[one]-sze	NU	NU.TERM	D	B-COUNT	_	3	cardinal	_	3
+duh	duh[bran]	N	N	D	B-COM	_	_	_	_	_
+du-bi	_	V	V	POS	_	_	_	_	_	_
+*RETOK*-capacity"	?	?	?	?	B-COUNT	l	108	"dry	*	*
+1(barig)	1(bariga)[unit]	NU	N	D	I-COUNT	*	*	*	sila3	108
+4(ban2)	4(ban)[unit]	NU	N	D	I-COUNT	*	*	*	*	*
+8(disz)	8(disz)[one]	NU	NU	D	I-COUNT	*	*	*	*	*
+sila3	sila[unit]	N	N	D	I-COUNT	*	*	*	*	*
+iti	iti[month]	N	N	D	_	_	_	_	_	_
+sze-kar-ra-gal2-la	Szekaragala[1][-'a]	MN	MN.L1	D	_	_	_	_	_	_
+mu	mu[year]	N	N	D	_	_	_	_	_	_
+{d}i-bi2-{d}suen	Ibbisuen[1]	RN	RN	D	_	_	_	_	_	_
+lugal	lugal[king]	N	N	D	_	_	_	_	_	_

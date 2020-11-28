@@ -1,0 +1,22 @@
+#new_text=P355952					
+FORM	SEGM	XPOSTAG	XPOSTAG	POS	?	?	?	?	?	?
+SZIM	szim[beer_malt]	N	N	D	_	_	_	_	_	_
+i3	i[oil]	N	N	D	_	_	_	_	_	_
+dug	dug[pot]	N	N	D	_	_	_	_	_	_
+1(disz)-a-kam	_	NU	NU.GEN.COP-3-SG	Iabcdef	B-COUNT	_	1	cardinal	_	1
+i3	i[oil]	N	N	D	B-COM	_	_	_	_	_
+za3-ga	_	N	N.GEN	D	_	_	_	_	_	_
+{d}ba-ba6	_	DN	DN	D	_	_	_	_	_	_
+ki	ki[place]	N	N	D	_	_	_	_	_	_
+lu2-da-da-ta	_	PN	PN.GEN.ABL	Iab	_	_	_	_	_	_
+kiszib3	kiszib[seal]	N	N	D	_	_	_	_	_	_
+lu2-ma2-gu-la	_	PN	PN.GEN.DAT-H	Iabcdef	_	_	_	_	_	_
+ugula	ugula[overseer][-ø]	N	N	D	_	_	_	_	_	_
+ur-gu2-en-na	_	PN	PN.GEN.GEN	Iabcdef	_	_	_	_	_	_
+mu	mu[year]	N	N	D	_	_	_	_	_	_
+us2-sa	us[follow]-a	V	NF.V.PT	D	_	_	_	_	_	_
+ur-bi2-lum{ki}	Urbilum[1][-ø]	GN	SN.ABS	D	_	_	_	_	_	_
+ba-hul	ba-hulu[destroy][-ø]	V	MID.V.3-SG-S	D	_	_	_	_	_	_
+lu2-ma2-gu-la	_	PN	PN.GEN.DAT-H	Iabcdef	_	_	_	_	_	_
+i3-ra2-ra2	_	PN	N.ABS	D	_	_	_	_	_	_
+{d}ba-ba6	_	DN	DN	D	_	_	_	_	_	_

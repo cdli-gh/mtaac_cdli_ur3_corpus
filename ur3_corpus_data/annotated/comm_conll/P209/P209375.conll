@@ -1,0 +1,22 @@
+#new_text=P209375					
+FORM	SEGM	XPOSTAG	XPOSTAG	POS	?	?	?	?	?	?
+3(gesz2)	3(gesz)[sixty]	NU	NU	D	B-COUNT	_	217	cardinal	_	217
+3(u)	3(u)[ten]	NU	NU	D	I-COUNT	*	*	*	*	*
+7(disz)	7(disz)[one][-sze]	NU	NU	D	I-COUNT	*	*	*	*	*
+{kusz}e-sir2	esir[shoe]	N	N	D	B-COM	_	_	_	_	_
+e2-ba-an	eban[pair][-ø]	PN	N.ABS	D	_	_	_	_	_	_
+2(gesz2)	2(gesz)[sixty]	NU	NU	D	B-COUNT	_	165	cardinal	_	165
+4(u)	4(u)[ten]	NU	NU	D	I-COUNT	*	*	*	*	*
+5(disz)	5(disz)[one]	NU	NU	D	I-COUNT	*	*	*	*	*
+{kusz}ummu3	ummud[waterskin]	N	N	D	B-COM	_	_	_	_	_
+2(disz)	2(disz)[one]	NU	NU	D	B-COUNT	_	2	cardinal	_	2
+kusz	kusz[leather]	N	N	D	_	_	_	_	_	_
+masz2	masz[goat]	N	N	D	_	_	_	_	_	_
+i3-dub	idub[granary]	N	N	D	_	_	_	_	_	_
+4(gesz2)	4(gesz)[sixty]	NU	NU	D	B-COUNT	_	270	cardinal	_	270
+3(u)	3(u)[ten]	NU	NU	D	I-COUNT	*	*	*	*	*
+{kusz}a-ga2-la2	_	N	N	Ia	B-COM	_	_	_	_	_
+2(disz)	2(disz)[one]	NU	NU	D	B-COUNT	_	2	cardinal	_	2
+tug2	tug[textile]	N	N	D	_	_	_	_	_	_
+usz-bar	uszbar[weaver][-ak]	N	N	D	_	_	_	_	_	_
+sag	sag[head]	N	N	D	_	_	_	_	_	_

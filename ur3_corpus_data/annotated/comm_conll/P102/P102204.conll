@@ -1,0 +1,22 @@
+#new_text=P102204					
+FORM	SEGM	XPOSTAG	XPOSTAG	POS	?	?	?	?	?	?
+1(disz)	1(disz)[one]	NU	NU	D	B-COUNT	_	1	cardinal	_	1
+tug2	tug[textile]	N	N	D	B-COM	_	_	_	_	_
+gu2-na	gun[tax]-ak[-ø]	N	N.GEN	D	_	_	_	_	_	_
+ki	ki[place]	N	N	D	_	_	_	_	_	_
+i3-la-...-ta	_[1][-ak]-ta	PN	PN.GEN.ABL	D	_	_	_	_	_	_
+ur-{d}suen	Ursuen[1]	PN	PN	D	_	_	_	_	_	_
+szu	szu[hand][-e]	N	N.L3-NH	D	_	_	_	_	_	_
+ba-ti	ba[-n]-teg[accept][-ø]	V	MID.3-SG-H-A.V.3-SG-P	D	_	_	_	_	_	_
+PA	ugula[overseer][-ø]	N	N.ABS	D	_	_	_	_	_	_
+...	_[_]	PN	N	D	_	_	_	_	_	_
+mu	mu[year]	N	N	D	_	_	_	_	_	_
+{d}szu-{d}suen-e	Szusuen[1]-e	RN	RN.ERG	D	_	_	_	_	_	_
+na-mah	namah[magnificent_stone][-ø]	N	N.ABS	D	_	_	_	_	_	_
+{d}en-lil2	Enlil[1]	DN	DN	D	_	_	_	_	_	_
+{d}nin-lil2	Ninlil[1][-ra]	DN	DN	D	_	_	_	_	_	_
+mu-du3	mu[-n]-du[build][-ø]	V	VEN.3-SG-H-A.V.3-SG-P	D	_	_	_	_	_	_
+ur-{d}suen	Ursuen[1]	PN	PN	D	_	_	_	_	_	_
+dub-sar	dubsar[scribe]	N	N	D	_	_	_	_	_	_
+dumu	dumu[child]	N	N	D	_	_	_	_	_	_
+...	_[_]	PN	N	D	_	_	_	_	_	_

@@ -1,0 +1,27 @@
+#new_text=P209399					
+FORM	SEGM	XPOSTAG	XPOSTAG	POS	?	?	?	?	?	?
+1(gesz'u)	1(gesz'u)[six_hundred]	NU	NU	D	B-COUNT	_	660	cardinal	_	660
+1(gesz2)	1(gesz)[sixty]	NU	NU	D	I-COUNT	*	*	*	*	*
+sa	sa[bundle]	N	N	D	_	_	_	_	_	_
+gi	gi[reed][-ø]	N	N	D	_	_	_	_	_	_
+gu-nigin2-ba	gunigin[bale]-bi-'a	N	N.3-SG-NH-POSS.L1	D	_	_	_	_	_	_
+1(u)	1(u)[ten]	NU	NU	D	B-COUNT	_	10	cardinal	_	10
+sa-ta	sa[bundle]-ta	N	N.ABL	D	_	_	_	_	_	_
+ka	kag[mouth]	N	N	D	_	_	_	_	_	_
+i7	id[river]	N	N	D	_	_	_	_	_	_
+{d}amar-{d}suen-ke4-gar	_	WN	WN	POS	_	_	_	_	_	_
+gu2-bi	_	N	N.3-SG-NH-POSS.ABS	Iabcdefg	B-COM	_	_	_	_	_
+kesz2-ra2	keszed[bind]-a	V	N	D	_	_	_	_	_	_
+ugula	ugula[overseer][-ø]	N	N	D	_	_	_	_	_	_
+a-gu	Agu[1][-ak]	PN	PN	D	_	_	_	_	_	_
+kiszib3	kiszib[seal]	N	N	D	_	_	_	_	_	_
+da-da-ga	Dadaga[1][-ak]	PN	PN	D	_	_	_	_	_	_
+mu	mu[year]	N	N	D	_	_	_	_	_	_
+bad3	bad[wall]	N	N	D	_	_	_	_	_	_
+mar-tu	Martu[1][-ø]	EN	EN.ABS	D	_	_	_	_	_	_
+ba-du3	ba-du[build][-ø]	V	MID.V.3-SG-S	D	_	_	_	_	_	_
+da-da-ga	Dadaga[1][-ak]	PN	PN	D	_	_	_	_	_	_
+dub-sar	dubsar[scribe]	N	N	D	_	_	_	_	_	_
+dumu	dumu[child]	N	N	D	_	_	_	_	_	_
+ur-nigar{gar}	Urnigar[1]	PN	PN	D	_	_	_	_	_	_
+szusz3	kusz[cattle_manager][-ak]	N	N.GEN	D	_	_	_	_	_	_

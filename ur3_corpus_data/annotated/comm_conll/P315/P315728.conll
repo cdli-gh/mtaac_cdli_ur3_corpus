@@ -1,0 +1,23 @@
+#new_text=P315728					
+FORM	SEGM	XPOSTAG	XPOSTAG	POS	?	?	?	?	?	?
+6(asz)	6(asz)[one]	NU	NU	D	B-COUNT	*	*	*	*	*
+2(barig)	2(bariga)[unit]	NU	N	D	I-COUNT	*	*	*	*	*
+sze	sze[barley]	N	N	D	I-COUNT	*	*	*	*	*
+gur	gur[unit]	N	N	D	I-COUNT	*	*	*	*	*
+sze	sze[barley]	N	N	D	I-COUNT	*	*	*	*	*
+ur5-ra	urra[loan]	N	N	D	B-COM	_	_	_	_	_
+7(asz)	7(asz)[one]	NU	NU	D	B-COUNT	*	*	*	*	*
+2(barig)	2(bariga)[unit]	NU	N	D	I-COUNT	*	*	*	*	*
+3(ban2)	3(ban)[unit]	NU	N	D	I-COUNT	*	*	*	*	*
+sze	sze[barley]	N	N	D	I-COUNT	*	*	*	*	*
+erin2-na	erin[people]	N	N.GEN	D	_	_	_	_	_	_
+ki	ki[place]	N	N	D	_	_	_	_	_	_
+al-la-mu-ta	_	PN	PN.GEN.ABL	Iab	_	_	_	_	_	_
+i3-dub	idub[granary]	N	N	D	_	_	_	_	_	_
+su3-GAN2	_	V	V	POS	_	_	_	_	_	_
+gu-la	gal[big][-ø][-sze]	PN	NF.V.ABS	D	_	_	_	_	_	_
+giri3	giri[foot]	N	N	D	_	_	_	_	_	_
+ur-{d}isztaran	Urisztaran[1]	PN	PN.GEN.ABS	D	_	_	_	_	_	_
+mu	mu[year]	N	N	D	_	_	_	_	_	_
+na-ru2--mah	_	PN	PN	POS	_	_	_	_	_	_
+ba-du3	ba-du[build][-ø]	V	MID.V.3-SG-S	D	B-COM	_	_	_	_	_

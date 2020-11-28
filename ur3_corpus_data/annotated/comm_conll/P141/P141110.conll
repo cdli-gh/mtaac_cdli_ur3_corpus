@@ -1,0 +1,27 @@
+#new_text=P141110					
+FORM	SEGM	XPOSTAG	XPOSTAG	POS	?	?	?	?	?	?
+1(u)	1(u)[ten]	NU	NU	D	B-COUNT	_	14	cardinal	_	14
+4(disz)	4(disz)[one]	NU	NU	D	I-COUNT	*	*	*	*	*
+geme2	geme[female_worker]	N	N	D	_	_	_	_	_	_
+u4	ud[day]	N	N	D	_	_	_	_	_	_
+1(disz)-sze3	1(disz)[one]-sze	NU	NU.TERM	D	B-COUNT	_	1	cardinal	_	1
+zar3	zar[sheaf]	N	N	D	B-COM	_	_	_	_	_
+tab-ba	tab[grasp]-a	V	NF.V.PT	D	_	_	_	_	_	_
+szu	szu[hand][-e]	N	N.L3-NH	D	_	_	_	_	_	_
+ur3-ra	ur[level_off]-a	V	NF.V.PT	D	_	_	_	_	_	_
+a-sza3	aszag[field]	N	N	D	_	_	_	_	_	_
+en-du8-du	_	FN	FN	POS	_	_	_	_	_	_
+ugula	ugula[overseer][-ø]	N	N	D	_	_	_	_	_	_
+lugal-e2-mah-e	Lugalemahe[1]	N	PN	D	_	_	_	_	_	_
+kiszib3	kiszib[seal]	N	N	D	_	_	_	_	_	_
+ab-ba-gi-na	Abbagina[1]	PN	PN	D	_	_	_	_	_	_
+iti	iti[month]	N	N	D	_	_	_	_	_	_
+sze-sag11-ku5	Szesagku[1][-'a]	MN	MN.L1	D	_	_	_	_	_	_
+mu	mu[year]	N	N	D	_	_	_	_	_	_
+us2-sa	us[follow]-a	V	NF.V.PT	D	_	_	_	_	_	_
+si-ma-num2{ki}	Simanum[1][-ø]	GN	SN.ABS	D	_	_	_	_	_	_
+ba-hul	ba-hulu[destroy][-ø]	V	MID.V.3-SG-S	D	_	_	_	_	_	_
+lu2-{d}szara2	Luszara[1][-ak]	PN	PN	D	_	_	_	_	_	_
+dub-sar	dubsar[scribe]	N	N	D	_	_	_	_	_	_
+dumu	dumu[child]	N	N	D	_	_	_	_	_	_
+ur-sa6-ga	Ursaga[1][-ak]	PN	PN	D	_	_	_	_	_	_

@@ -1,0 +1,27 @@
+#new_text=P117615					
+FORM	SEGM	XPOSTAG	XPOSTAG	POS	?	?	?	?	?	?
+6(disz)	6(disz)[one][-sze]	NU	NU	D	B-COUNT	_	0.09962962962962964	cardinal	_	0.09962962962962964
+gin2	gig[unit]	N	N	D	I-COUNT	*	*	*	*	*
+la2	la[hang][-ø]	V	NF.V.ABS	D	I-COUNT	*	*	*	*	*
+4(disz)	4(disz)[one]	NU	NU	D	I-COUNT	*	*	*	*	*
+sze	sze[barley]	N	N	D	I-COUNT	*	*	*	*	*
+ku3	kug[silver]	N	N	D	B-COM	_	_	_	_	_
+ku3	kug[silver]	N	N	D	_	_	_	_	_	_
+sag	sag[head]	N	N	D	_	_	_	_	_	_
+tuku	tuku[acquire][-a]	V	NF.V.PT	D	_	_	_	_	_	_
+ki	ki[place]	N	N	D	_	_	_	_	_	_
+ur-zigum-ma	_	PN	PN.GEN.GEN.ABS	Iabcdefg	_	_	_	_	_	_
+unu3-ta	_	N	N	POS	_	_	_	_	_	_
+ku3	kug[silver]	N	N	D	_	_	_	_	_	_
+gu4	gud[ox]	N	N	D	_	_	_	_	_	_
+ki	ki[place]	N	N	D	_	_	_	_	_	_
+ur-en-gal-du-du-ta	_	PN	PN.GEN.ABL	Iabcdef	_	_	_	_	_	_
+lu2-{d}nin-gir2-su	Luningirsu[1]	PN	PN	D	_	_	_	_	_	_
+szu	szu[hand][-e]	N	N.L3-NH	D	_	_	_	_	_	_
+ba-ti	ba[-n]-teg[accept][-ø]	V	MID.3-SG-H-A.V.3-SG-P	D	_	_	_	_	_	_
+iti	iti[month]	N	N	D	_	_	_	_	_	_
+munu4-gu7	Munugu[1][-'a]	MN	MN.L1	D	_	_	_	_	_	_
+mu	mu[year]	N	N	D	_	_	_	_	_	_
+us2-sa	us[follow]-a	V	NF.V.PT	D	_	_	_	_	_	_
+ki-masz{ki}	Kimasz[1]	SN	SN.ABS	D	_	_	_	_	_	_
+ba-hul	ba-hulu[destroy][-ø]	V	MID.V.3-SG-S	D	_	_	_	_	_	_

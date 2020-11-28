@@ -1,0 +1,26 @@
+#new_text=P111585					
+FORM	SEGM	XPOSTAG	XPOSTAG	POS	?	?	?	?	?	?
+1(disz)	1(disz)[one]	NU	NU	D	B-COUNT	_	1	cardinal	_	1
+nagar	nagar[carpenter]	N	N	D	_	_	_	_	_	_
+u4	ud[day]	N	N	D	_	_	_	_	_	_
+3(u)-sze3	3(u)[ten]-sze	NU	NU.TERM	D	B-COUNT	_	30	cardinal	_	30
+{gesz}bala	_	N	N	Ia	B-COM	_	_	_	_	_
+{gesz}x	_	PN	PN	POS	_	_	_	_	_	_
+{gesz}ab-ba	_	N	N	Ia	_	_	_	_	_	_
+kid7-a	_	N	N	POS	_	_	_	_	_	_
+1(disz)	1(disz)[one]	NU	NU	D	B-COUNT	_	1	cardinal	_	1
+nagar	nagar[carpenter]	N	N	D	_	_	_	_	_	_
+u4	ud[day]	N	N	D	_	_	_	_	_	_
+1(disz)-sze3	1(disz)[one]-sze	NU	NU.TERM	D	B-COUNT	_	1	cardinal	_	1
+bala-a	bala[tax][-ak]-'a	N	N.GEN.L1	D	_	_	_	_	_	_
+gub-ba	gub[assigned]-a[-ak][-ø]	V	NF.V.PT	D	_	_	_	_	_	_
+ki	ki[place]	N	N	D	B-COM	_	_	_	_	_
+lu2-{d}nin-gir2-su-ta	Luningirsu[1][-ak]-ta	PN	PN.GEN.ABL	D	_	_	_	_	_	_
+kiszib3	kiszib[seal]	N	N	D	_	_	_	_	_	_
+ur-...	_[1][-ak]	PN	PN.GEN.ABS	D	_	_	_	_	_	_
+dumu	dumu[child]	N	N	D	_	_	_	_	_	_
+...	_[_]	PN	N	D	_	_	_	_	_	_
+mu	mu[year]	N	N	D	_	_	_	_	_	_
+en	en[priest]	N	N	D	_	_	_	_	_	_
+eridu{ki}	Eridug[1][-ak][-ø]	SN	SN.GEN.ABS	D	_	_	_	_	_	_
+ba-hun	ba-hug[hire][-ø]	V	MID.V.3-SG-S	D	_	_	_	_	_	_

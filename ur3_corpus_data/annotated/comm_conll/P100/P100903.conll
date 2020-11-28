@@ -1,0 +1,21 @@
+#new_text=P100903					
+FORM	SEGM	XPOSTAG	XPOSTAG	POS	B-COUNT	l	20	"dry	*	*
+2(ban2)	2(ban)[unit]	NU	N	D	I-COUNT	*	*	*	sila3	20
+zi3	zid[flour]	N	N	D	B-COM	_	_	_	_	_
+dub-dub	dubdub[flour_designation]	N	N	D	_	_	_	_	_	_
+lugal	lugal[king]	N	N	D	_	_	_	_	_	_
+3(disz)	3(disz)[one]	NU	NU	D	B-COUNT	_	3	cardinal	_	3
+nig2-ar3-ra	nigara[groats]	N	N	D	B-COM	_	_	_	_	_
+imgaga3	_	N	N	Ia	_	_	_	_	_	_
+balag	_	N	N	POS	_	_	_	_	_	_
+u4-da	ud[day]-ak[-'a]	N	N	D	_	_	_	_	_	_
+iri	iri[city]	N	N	D	_	_	_	_	_	_
+nigin2-na	_	V	V	POS	_	_	_	_	_	_
+giri3	giri[foot]	N	N	D	_	_	_	_	_	_
+lu2-giri17-zal	Lugirizal[1][-ra]	PN	PN	D	_	_	_	_	_	_
+gala-mah	_	V	NF.V.3-SG-NH-POSS.GEN.ABS	Iabcdef	_	_	_	_	_	_
+lu2-{d}nin-szubur	Luninszubur[1][-ra]	PN	PN	D	_	_	_	_	_	_
+maszkim	maszkim[administrator]	N	N.ABS	D	_	_	_	_	_	_
+zi-ga	zig[expend]-a	V	NF.V.PT	D	_	_	_	_	_	_
+iti	iti[month]	N	N	D	_	_	_	_	_	_
+ezem-{d}dumu-zi	Ezemdumuzi[1][-'a]	MN	MN.L1	D	_	_	_	_	_	_

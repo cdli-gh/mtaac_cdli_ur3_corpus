@@ -1,0 +1,14 @@
+#new_text=P121028					
+FORM	SEGM	XPOSTAG	XPOSTAG	POS	?	?	?	?	?	?
+szunigin	szunigin[total]	N	N	D	_	_	_	_	_	_
+2/3(disz)	2/3(disz)[one]	NU	NU	D	B-COUNT	g	384.72222222222223	weight	gin2	46.166666666666664
+ma-na	mana[unit]	N	N	D	I-COUNT	*	*	*	*	*
+6(disz)	6(disz)[one][-sze]	NU	NU	D	I-COUNT	*	*	*	*	*
+gin2	gig[unit]	N	N	D	I-COUNT	*	*	*	*	*
+igi-6(disz)-gal2	igi6(disz)[one]gal[fraction]	NU	NU	D	I-COUNT	*	*	*	*	*
+ku3-babbar	kugbabbar[silver]	N	N	D	B-COM	_	_	_	_	_
+ki	ki[place]	N	N	D	_	_	_	_	_	_
+a2-zi-da-ta	_	PN	PN.GEN.GEN.ABL	Iabcdefg	_	_	_	_	_	_
+bur-ma-ma	Burmama[1]	PN	PN	D	_	_	_	_	_	_
+szu	szu[hand][-e]	N	N.L3-NH	D	_	_	_	_	_	_
+ba-ti	ba[-n]-teg[accept][-ø]	V	MID.3-SG-H-A.V.3-SG-P	D	_	_	_	_	_	_

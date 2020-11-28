@@ -1,0 +1,18 @@
+#new_text=P145305					
+FORM	SEGM	XPOSTAG	XPOSTAG	POS	?	?	?	?	?	?
+4(disz)	4(disz)[one]	NU	NU	D	B-COUNT	g	2000.0000000000002	weight	gin2	240
+ma-na	mana[unit]	N	N	D	I-COUNT	*	*	*	*	*
+ku3-...	_[1][-ak]	PN	PN.GEN	D	_	_	_	_	_	_
+na-na-nam	_	V	V	POS	_	_	_	_	_	_
+1(disz)	1(disz)[one]	NU	NU	D	B-COUNT	g	750.0	weight	gin2	90.0
+1/2(disz)	1/2(disz)[one]	NU	NU	D	I-COUNT	*	*	*	*	*
+ma-na	mana[unit]	N	N	D	I-COUNT	*	*	*	*	*
+ki-sikil	Kisikil[1][-ra]	PN	PN.DAT-H	D	_	_	_	_	_	_
+1(u)	1(u)[ten]	NU	NU	D	B-COUNT	_	none	unknown	_	none
+gin2	gig[unit]	N	N	D	I-COUNT	*	*	*	*	*
+...	_[_]	PN	N	D	I-COUNT	*	*	*	*	*
+5(disz)	5(disz)[one]	NU	NU	D	B-COUNT	_	0.08333333333333333	cardinal	_	0.08333333333333333
+gin2	gig[unit]	N	N	D	I-COUNT	*	*	*	*	*
+...-{d}szara2	_	PN	PN	Iabcde	_	_	_	_	_	_
+e2-usz-bar	_	N	N.TERM	Iabcdefgh	_	_	_	_	_	_
+gal2-la	gal[be]-a[-ø]	V	NF.V.PT	D	B-COM	_	_	_	_	_

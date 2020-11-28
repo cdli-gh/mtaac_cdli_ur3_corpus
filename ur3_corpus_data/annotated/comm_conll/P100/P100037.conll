@@ -1,0 +1,14 @@
+#new_text=P100037					
+FORM	SEGM	XPOSTAG	XPOSTAG	POS	?	?	?	?	?	?
+1(u)	1(u)[ten]	NU	NU	D	B-COUNT	_	12	cardinal	_	12
+2(disz)	2(disz)[one]	NU	NU	D	I-COUNT	*	*	*	*	*
+masz2	masz[goat]	N	N	D	B-COM	_	_	_	_	_
+masz2	masz[goat]	N	N	D	_	_	_	_	_	_
+ma2-gur8-ra	_	N	N	POS	_	_	_	_	_	_
+da-umma{ki}	Da'umma[1][-ak]	SN	SN.GEN	D	_	_	_	_	_	_
+kas4	kas[runner][-ra]	N	N.DAT-H	D	_	_	_	_	_	_
+i3-dab5	i[-n]-dab[seize][-ø]	V	FIN.3-SG-H-A.V.3-SG-P	D	_	_	_	_	_	_
+mu	mu[year]	N	N	D	_	_	_	_	_	_
+ha-ar-szi{ki}	Harszi[1]	SN	SN	D	_	_	_	_	_	_
+ki-masz{ki}	Kimasz[1]	SN	SN.ABS	D	_	_	_	_	_	_
+ba-hul	ba-hulu[destroy][-ø]	V	MID.V.3-SG-S	D	_	_	_	_	_	_

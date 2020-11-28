@@ -1,0 +1,25 @@
+#new_text=P132827					
+FORM	SEGM	XPOSTAG	XPOSTAG	POS	?	?	?	?	?	?
+2(asz)	2(asz)[one]	NU	NU	D	B-COUNT	*	*	*	*	*
+3(barig)	3(bariga)[unit]	NU	N	D	I-COUNT	*	*	*	*	*
+3(ban2)	3(ban)[unit]	NU	N	D	I-COUNT	*	*	*	*	*
+sze	sze[barley]	N	N	D	I-COUNT	*	*	*	*	*
+gur	gur[unit]	N	N	D	I-COUNT	*	*	*	*	*
+lugal	lugal[king]	N	N	D	_	_	_	_	_	_
+la2-ia3	la'u[arrears]	N	N	D	_	_	_	_	_	_
+su-ga-sze3	_	N	N	POS	_	_	_	_	_	_
+ur-nig2	_	PN	PN	Iabcde	_	_	_	_	_	_
+szu	szu[hand][-e]	N	N.L3-NH	D	B-COM	_	_	_	_	_
+ba-ti	ba[-n]-teg[accept][-ø]	V	MID.3-SG-H-A.V.3-SG-P	D	_	_	_	_	_	_
+giri3	giri[foot]	N	N	D	_	_	_	_	_	_
+ur-{d}nansze	Urnansze[1]	PN	PN	D	_	_	_	_	_	_
+dumu	dumu[child]	N	N	D	_	_	_	_	_	_
+ur-li	Urli[1][-ra]	PN	PN	D	_	_	_	_	_	_
+mu	mu[year]	N	N	D	_	_	_	_	_	_
+{d}szu-{d}suen	Szusuen[1]	RN	RN	D	_	_	_	_	_	_
+lugal-e	lugal[king]-e	N	N.ERG	D	_	_	_	_	_	_
+bad3	bad[wall]	N	N	D	_	_	_	_	_	_
+mar-tu	Martu[1][-ø]	EN	EN.ABS	D	_	_	_	_	_	_
+mu-du3-a	mu[-n]-du[-ø]	V	VEN.3-SG-H-A.V.3-SG-P.SUB.L1	D	_	_	_	_	_	_
+mu	mu[year]	N	N	D	_	_	_	_	_	_
+us2-sa-bi	us[follow]-a-bi	V	NF.V.PT.3-SG-NH-POSS	D	_	_	_	_	_	_

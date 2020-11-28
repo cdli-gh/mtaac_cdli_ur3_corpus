@@ -1,0 +1,16 @@
+
+#new_text=P249130	?	?	?	?	B-COUNT	l	1054	"dry	*	*
+FORM	SEGM	XPOSTAG	XPOSTAG	POS	I-COUNT	?	?	?	?	?
+3(asz)	3(asz)[one]	NU	NU	D	I-COUNT	*	*	*	sila3	1054
+2(barig)	2(bariga)[unit]	NU	N	D	I-COUNT	*	*	*	*	*
+3(ban2)	3(ban)[unit]	NU	N	D	I-COUNT	*	*	*	*	*
+4(disz)	4(disz)[one]	NU	NU	D	I-COUNT	*	*	*	*	*
+sila3	sila[unit]	N	N	D	I-COUNT	*	*	*	*	*
+ziz2	ziz[emmer]	N	N	D	B-COM	_	_	_	_	_
+gur	gur[unit]	N	N	D	_	_	_	_	_	_
+bi2-du11-i3-sa6	_	PN	PN.GEN.DAT-H	Iabcdef	_	_	_	_	_	_
+dub-sar	dubsar[scribe]	N	N	D	_	_	_	_	_	_
+dumu	dumu[child]	N	N	D	_	_	_	_	_	_
+ka-ku3	_	PN	PN.GEN.ABS	D	_	_	_	_	_	_
+sagi	sagi[cup_bearer][-ø]	N	N	D	_	_	_	_	_	_
+{d}ba-ba6	_	DN	DN	D	_	_	_	_	_	_

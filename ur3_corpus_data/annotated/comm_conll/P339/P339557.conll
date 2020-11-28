@@ -1,0 +1,22 @@
+#new_text=P339557					
+FORM	SEGM	XPOSTAG	XPOSTAG	POS	?	?	?	?	?	?
+1(u)	1(u)[ten]	NU	NU	D	B-COUNT	_	10	cardinal	_	10
+gurusz	gurusz[male]	N	N	D	B-COM	_	_	_	_	_
+u4	ud[day]	N	N	D	_	_	_	_	_	_
+1(disz)-sze3	1(disz)[one]-sze	NU	NU.TERM	D	B-COUNT	_	1	cardinal	_	1
+ka	kag[mouth]	N	N	D	_	_	_	_	_	_
+i7	id[river]	N	N	D	_	_	_	_	_	_
+{d}amar-{d}suen-ke4-ga2-ra	_	DN	DN	POS	_	_	_	_	_	_
+ad	_	N	N	POS	_	_	_	_	_	_
+ak	ak[excavate][-a][-ak]	V	NF.V.PT	D	_	_	_	_	_	_
+ugula	ugula[overseer][-ø]	N	N	D	_	_	_	_	_	_
+da-a-gi4	Dayagi[1][-ak]	PN	PN	D	_	_	_	_	_	_
+kiszib3	kiszib[seal]	N	N	D	_	_	_	_	_	_
+lugal-e2-mah-e	Lugalemahe[1]	N	PN	D	_	_	_	_	_	_
+mu	mu[year]	N	N	D	_	_	_	_	_	_
+{d}szu-{d}suen	Szusuen[1]	RN	RN	D	_	_	_	_	_	_
+lugal	lugal[king]	N	N	D	_	_	_	_	_	_
+lugal-e2-mah-e	Lugalemahe[1]	N	PN	D	_	_	_	_	_	_
+dub-sar	dubsar[scribe]	N	N	D	_	_	_	_	_	_
+dumu	dumu[child]	N	N	D	_	_	_	_	_	_
+lugal-ku3-ga-ni	Lugalkugani[1][-ak]	PN	PN.GEN	D	_	_	_	_	_	_

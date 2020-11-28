@@ -1,0 +1,22 @@
+#new_text=P113650					
+FORM	SEGM	XPOSTAG	XPOSTAG	POS	?	?	?	?	?	?
+5(gesz2)	5(gesz)[sixty]	NU	NU	D	B-COUNT	_	324	cardinal	_	324
+2(u)	2(u)[ten]	NU	NU	D	I-COUNT	*	*	*	*	*
+4(disz)	4(disz)[one]	NU	NU	D	I-COUNT	*	*	*	*	*
+geme2	geme[female_worker]	N	N	D	_	_	_	_	_	_
+u4	ud[day]	N	N	D	_	_	_	_	_	_
+1(disz)-sze3	1(disz)[one]-sze	NU	NU.TERM	D	B-COUNT	_	1	cardinal	_	1
+geme2	geme[female_worker]	N	N	D	_	_	_	_	_	_
+ar-za-na-sze3	_	N	N.3-SG-H-POSS.GEN.TERM	Iabcde	B-COM	_	_	_	_	_
+ki	ki[place]	N	N	D	_	_	_	_	_	_
+ur-{d}nin-tu-ta	_	PN	PN.GEN.ABL	Iab	_	_	_	_	_	_
+lugal-nig2-lagar-e	Lugalniglagare[1][-ak]	PN	PN.GEN	D	_	_	_	_	_	_
+i3-dab5	i[-n]-dab[seize][-ø]	V	FIN.3-SG-H-A.V.3-SG-P	D	_	_	_	_	_	_
+mu	mu[year]	N	N	D	_	_	_	_	_	_
+ha-ar-szi{ki}	Harszi[1]	SN	SN	D	_	_	_	_	_	_
+ki-masz{ki}	Kimasz[1]	SN	SN.ABS	D	_	_	_	_	_	_
+ba-hul	ba-hulu[destroy][-ø]	V	MID.V.3-SG-S	D	_	_	_	_	_	_
+lugal-si-NE-e	Lugalsine'e[1]	PN	PN	D	_	_	_	_	_	_
+dub-sar	dubsar[scribe]	N	N	D	_	_	_	_	_	_
+dumu	dumu[child]	N	N	D	_	_	_	_	_	_
+lugal-sa6-ga	Lugalsaga[1][-ak]	PN	PN.GEN	D	_	_	_	_	_	_

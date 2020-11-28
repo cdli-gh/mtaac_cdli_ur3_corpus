@@ -1,0 +1,14 @@
+#new_text=P137228					
+FORM	SEGM	XPOSTAG	XPOSTAG	POS	?	?	?	?	?	?
+1(barig)	1(bariga)[unit]	NU	N	D	B-COUNT	*	*	*	*	*
+2(ban2)	2(ban)[unit]	NU	N	D	I-COUNT	*	*	*	*	*
+sze	sze[barley]	N	N	D	I-COUNT	*	*	*	*	*
+lu2-kal-la	Lukala[1][-ra]	PN	PN.GEN	D	_	_	_	_	_	_
+*RETOK*-capacity"	?	?	?	?	B-COUNT	l	80	"dry	*	*
+1(barig)	1(bariga)[unit]	NU	N	D	I-COUNT	*	*	*	sila3	80
+2(ban2)	2(ban)[unit]	NU	N	D	I-COUNT	*	*	*	*	*
+lugal-sza3	_	N	N	POS	_	_	_	_	_	_
+pa-{gesz}dug	_	N	N	Ia	B-COM	_	_	_	_	_
+gesz	gesz[tree]	N	N	D	_	_	_	_	_	_
+nig2	_	N	N	D	_	_	_	_	_	_
+diri-me	_	V	V	POS	_	_	_	_	_	_

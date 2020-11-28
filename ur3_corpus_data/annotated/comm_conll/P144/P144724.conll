@@ -1,0 +1,26 @@
+#new_text=P144724					
+FORM	SEGM	XPOSTAG	XPOSTAG	POS	?	?	?	?	?	?
+4(u)	4(u)[ten]	NU	NU	D	B-COUNT	_	45	cardinal	_	45
+5(disz)	5(disz)[one]	NU	NU	D	I-COUNT	*	*	*	*	*
+gurusz	gurusz[male]	N	N	D	B-COM	_	_	_	_	_
+u4	ud[day]	N	N	D	_	_	_	_	_	_
+1(disz)-sze3	1(disz)[one]-sze	NU	NU.TERM	D	B-COUNT	_	1	cardinal	_	1
+gesz-e	_	N	N.L3-NH	Iabcde	B-COM	_	_	_	_	_
+igi	igi[eye][-ø]	N	N	D	_	_	_	_	_	_
+sa6-ga	_	PN	NF.V.SUB	D	_	_	_	_	_	_
+sza3	szag[heart]	N	N	D	_	_	_	_	_	_
+nibru{ki}	Nibru[1][-'a]	SN	SN.GEN.ABS	D	_	_	_	_	_	_
+ugula	ugula[overseer][-ø]	N	N	D	_	_	_	_	_	_
+a-gu	Agu[1][-ak]	PN	PN	D	_	_	_	_	_	_
+kiszib3	kiszib[seal]	N	N	D	_	_	_	_	_	_
+ur-e2-masz	Uremasz[1]	PN	PN	D	_	_	_	_	_	_
+sza3	szag[heart]	N	N	D	_	_	_	_	_	_
+bala-a	bala[tax][-ak]-'a	N	N.GEN.L1	D	_	_	_	_	_	_
+mu	mu[year]	N	N	D	_	_	_	_	_	_
+bad3	bad[wall]	N	N	D	_	_	_	_	_	_
+mar-tu	Martu[1][-ø]	EN	EN.ABS	D	_	_	_	_	_	_
+ba-du3	ba-du[build][-ø]	V	MID.V.3-SG-S	D	_	_	_	_	_	_
+ur-e2-masz	Uremasz[1]	PN	PN	D	_	_	_	_	_	_
+dub-sar	dubsar[scribe]	N	N	D	_	_	_	_	_	_
+dumu	dumu[child]	N	N	D	_	_	_	_	_	_
+ur-sila-luh	_	N	N	POS	_	_	_	_	_	_

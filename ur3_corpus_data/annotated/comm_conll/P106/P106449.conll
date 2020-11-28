@@ -1,0 +1,19 @@
+#new_text=P106449					
+FORM	SEGM	XPOSTAG	XPOSTAG	POS	?	?	?	?	?	?
+1(barig)	1(bariga)[unit]	NU	N	D	B-COUNT	*	*	*	*	*
+4(ban2)	4(ban)[unit]	NU	N	D	I-COUNT	*	*	*	*	*
+sze	sze[barley]	N	N	D	I-COUNT	*	*	*	*	*
+*RETOK*-capacity"	?	?	?	?	B-COUNT	l	180	"dry	*	*
+3(barig)	3(bariga)[unit]	NU	N	D	I-COUNT	*	*	*	sila3	180
+duh	duh[bran]	N	N	D	B-COM	_	_	_	_	_
+du	gin[quality_designation][-ø]	V	NF.V.ABS	D	_	_	_	_	_	_
+sza3-gal	szaggal[food]	N	N	D	_	_	_	_	_	_
+amar	amar[calf][-ak]	N	N	D	_	_	_	_	_	_
+gu4	gud[ox]	N	N	D	_	_	_	_	_	_
+an-ne2-ga2-ra-asz	_	PN	PN.GEN.ABL	Iabcdefgh	_	_	_	_	_	_
+lah5-da	_	V	V	POS	_	_	_	_	_	_
+iti	iti[month]	N	N	D	_	_	_	_	_	_
+diri	diri[intercalary_month]	N	N	D	_	_	_	_	_	_
+mu	mu[year]	N	N	D	_	_	_	_	_	_
+si-ma-num2{ki}	Simanum[1][-ø]	GN	SN.ABS	D	_	_	_	_	_	_
+ba-hul	ba-hulu[destroy][-ø]	V	MID.V.3-SG-S	D	_	_	_	_	_	_

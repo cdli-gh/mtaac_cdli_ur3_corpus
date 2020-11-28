@@ -1,0 +1,22 @@
+#new_text=P104718					
+FORM	SEGM	XPOSTAG	XPOSTAG	POS	?	?	?	?	?	?
+7(disz)	7(disz)[one][-sze]	NU	NU	D	B-COUNT	_	7	cardinal	_	7
+u8	u[ewe]	N	N	D	B-COM	_	_	_	_	_
+bar-gal2	bargal[fleeced_sheep]	N	N	D	_	_	_	_	_	_
+2(disz)	2(disz)[one]	NU	NU	D	B-COUNT	_	2	cardinal	_	2
+udu-nita2	udunita[ram]	N	N	D	_	_	_	_	_	_
+bar-gal2	bargal[fleeced_sheep]	N	N	D	_	_	_	_	_	_
+su-ga	sug[repay]-a	V	NF.V.PT	D	_	_	_	_	_	_
+ri-ri-ga	deg[collect]-a	V	NF.V.PT	D	_	_	_	_	_	_
+ki	ki[place]	N	N	D	B-COM	_	_	_	_	_
+ur-{d}isztaran-ta	Urisztaran[1][-ak]-ta	PN	PN.GEN.ABL	D	_	_	_	_	_	_
+kiszib3	kiszib[seal]	N	N	D	_	_	_	_	_	_
+da-da-ga	Dadaga[1][-ak]	PN	PN	D	_	_	_	_	_	_
+mu	mu[year]	N	N	D	_	_	_	_	_	_
+x	_[_]	N	N	D	_	_	_	_	_	_
+x-ru-um{ki}	_	GN	GN.GEN.ABS	Iabcdef	_	_	_	_	_	_
+ba-hul	ba-hulu[destroy][-ø]	V	MID.V.3-SG-S	D	_	_	_	_	_	_
+lu2-du10-ga	Luduga[1]	PN	PN	D	_	_	_	_	_	_
+dub-sar	dubsar[scribe]	N	N	D	_	_	_	_	_	_
+dumu	dumu[child]	N	N	D	_	_	_	_	_	_
+ur-nigar{gar}	Urnigar[1]	PN	PN	D	_	_	_	_	_	_

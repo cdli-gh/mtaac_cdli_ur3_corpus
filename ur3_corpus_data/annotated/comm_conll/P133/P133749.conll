@@ -1,0 +1,20 @@
+#new_text=P133749					
+FORM	SEGM	XPOSTAG	XPOSTAG	POS	B-COUNT	l	187	"dry	*	*
+3(barig)	3(bariga)[unit]	NU	N	D	I-COUNT	*	*	*	sila3	187
+7(disz)	7(disz)[one][-sze]	NU	NU	D	I-COUNT	*	*	*	*	*
+sila3	sila[unit]	N	N	D	I-COUNT	*	*	*	*	*
+ninda	ninda[bread]	N	N	D	B-COM	_	_	_	_	_
+du	gin[quality_designation][-ø]	V	NF.V.ABS	D	_	_	_	_	_	_
+lugal	lugal[king]	N	N	D	_	_	_	_	_	_
+sza3-gal	szaggal[food]	N	N	D	_	_	_	_	_	_
+erin2	erin[people]	N	N	D	_	_	_	_	_	_
+i7	id[river]	N	N	D	_	_	_	_	_	_
+kun	_	WN	WN	POS	_	_	_	_	_	_
+gub-ba	gub[assigned]-a[-ak][-ø]	V	NF.V.PT	D	_	_	_	_	_	_
+ki	ki[place]	N	N	D	_	_	_	_	_	_
+ur-{gesz}gigir-ta	_	PN	PN.GEN.ABL	Iab	_	_	_	_	_	_
+kiszib3	kiszib[seal]	N	N	D	_	_	_	_	_	_
+ur-nig2	_	PN	PN	Iabcde	_	_	_	_	_	_
+mu	mu[year]	N	N	D	_	_	_	_	_	_
+sza-asz-ru{ki}	Szaszru[1][-ø]	SN	SN.ABS	D	_	_	_	_	_	_
+ba-hul	ba-hulu[destroy][-ø]	V	MID.V.3-SG-S	D	_	_	_	_	_	_

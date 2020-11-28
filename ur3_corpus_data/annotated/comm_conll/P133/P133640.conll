@@ -1,0 +1,20 @@
+#new_text=P133640					
+FORM	SEGM	XPOSTAG	XPOSTAG	POS	B-COUNT	l	5487.5	"dry	*	*
+1(u)	1(u)[ten]	NU	NU	D	I-COUNT	*	*	*	sila3	5487.5
+8(asz)	8(asz)[one]	NU	NU	D	I-COUNT	*	*	*	*	*
+1(barig)	1(bariga)[unit]	NU	N	D	I-COUNT	*	*	*	*	*
+2(ban2)	2(ban)[unit]	NU	N	D	I-COUNT	*	*	*	*	*
+7(disz)	7(disz)[one][-sze]	NU	NU	D	I-COUNT	*	*	*	*	*
+1/2(disz)	1/2(disz)[one]	NU	NU	D	I-COUNT	*	*	*	*	*
+sila3	sila[unit]	N	N	D	I-COUNT	*	*	*	*	*
+sze	sze[barley]	N	N	D	B-COM	_	_	_	_	_
+gur	gur[unit]	N	N	D	_	_	_	_	_	_
+la2-ia3	la'u[arrears]	N	N	D	_	_	_	_	_	_
+su-ga	sug[repay]-a	V	NF.V.PT	D	_	_	_	_	_	_
+ki	ki[place]	N	N	D	_	_	_	_	_	_
+lu2-{d}nin-szubur-ta	Luninszubur[1][-ak]-ta	PN	PN.GEN.ABL	D	_	_	_	_	_	_
+kiszib3	kiszib[seal]	N	N	D	_	_	_	_	_	_
+ur-bad3-tibirx(KU)-ra	Urbadtibira[-e]	PN	PN.ERG	D	_	_	_	_	_	_
+mu	mu[year]	N	N	D	_	_	_	_	_	_
+si-mu-ru-um{ki}	Simurrum[1]	SN	SN.ABS	D	_	_	_	_	_	_
+ba-hul	ba-hulu[destroy][-ø]	V	MID.V.3-SG-S	D	_	_	_	_	_	_

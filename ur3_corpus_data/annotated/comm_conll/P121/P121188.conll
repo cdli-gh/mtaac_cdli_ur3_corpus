@@ -1,0 +1,23 @@
+#new_text=P121188					
+FORM	SEGM	XPOSTAG	XPOSTAG	POS	?	?	?	?	?	?
+...	_[_]	PN	N	D	_	_	_	_	_	_
+ki	ki[place]	N	N	D	_	_	_	_	_	_
+...	_[_]	PN	N	D	_	_	_	_	_	_
+HI	_			POS	_	_	_	_	_	_
+2(disz)	2(disz)[one]	NU	NU	D	B-COUNT	_	2	cardinal	_	2
+...	_[_]	PN	N	D	_	_	_	_	_	_
+ma-na	mana[unit]	N	N	D	B-COM	_	_	_	_	_
+...	_[_]	PN	N	D	_	_	_	_	_	_
+ku3-babbar	kugbabbar[silver]	N	N	D	_	_	_	_	_	_
+...	_[_]	PN	N	D	_	_	_	_	_	_
+szuszin{ki}	_	SN	SN.GEN.ABS	D	_	_	_	_	_	_
+...	_[_]	PN	N	D	_	_	_	_	_	_
+tab-ba-ni-sze3	_	V	NF.V.PT.TERM	Iabcdef	_	_	_	_	_	_
+...	_[_]	PN	N	D	_	_	_	_	_	_
+x-nam-ta	_			POS	_	_	_	_	_	_
+e3-de3	_	V	NF.V.F.DAT-NH	Iabcdef	_	_	_	_	_	_
+mu	mu[year]	N	N	D	_	_	_	_	_	_
+lugal	lugal[king]	N	N	D	_	_	_	_	_	_
+in-pa3	i-n-pad[name][-ø]	V	FIN.3-SG-H-A.V.3-SG-P	D	_	_	_	_	_	_
+...	_[_]	PN	N	D	_	_	_	_	_	_
+lu-gi-im	_	N	N	POS	_	_	_	_	_	_

@@ -1,0 +1,14 @@
+#new_text=P201423					
+FORM	SEGM	XPOSTAG	XPOSTAG	POS	?	?	?	?	?	?
+2(u)	2(u)[ten]	NU	NU	D	B-COUNT	_	23	cardinal	_	23
+3(disz)	3(disz)[one]	NU	NU	D	I-COUNT	*	*	*	*	*
+gesz	gesz[tree]	N	N	D	_	_	_	_	_	_
+e2-gal	egal[palace][-ak][-'a]	N	N	D	_	_	_	_	_	_
+giri3	giri[foot]	N	N	D	_	_	_	_	_	_
+lugal-ku3-zu	Lugalkuzu[1]	PN	PN	D	_	_	_	_	_	_
+kiszib3	kiszib[seal]	N	N	D	_	_	_	_	_	_
+lu2-igi-sa6-sa6	_	PN	PN	Iabc	_	_	_	_	_	_
+lu2-igi-sa6-sa6	_	PN	PN	Iabc	_	_	_	_	_	_
+dub-sar	dubsar[scribe]	N	N	D	_	_	_	_	_	_
+dumu	dumu[child]	N	N	D	_	_	_	_	_	_
+ur-{gesz}gigir	Urgigir[1]	PN	PN	D	B-COM	_	_	_	_	_

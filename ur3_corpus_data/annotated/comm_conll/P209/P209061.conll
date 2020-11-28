@@ -1,0 +1,13 @@
+#new_text=P209061					
+FORM	SEGM	XPOSTAG	XPOSTAG	POS	?	?	?	?	?	?
+1(disz)	1(disz)[one]	NU	NU	D	B-COUNT	_	0.016666666666666666	cardinal	_	0.016666666666666666
+gin2	gig[unit]	N	N	D	I-COUNT	*	*	*	*	*
+ku3-babbar	kugbabbar[silver]	N	N	D	B-COM	_	_	_	_	_
+bu3-u2-du	_	PN	PN.GEN.ABS	Iab	_	_	_	_	_	_
+iti	iti[month]	N	N	D	_	_	_	_	_	_
+sze-kar-ra-gal2-la	Szekaragala[1][-'a]	MN	MN.L1	D	_	_	_	_	_	_
+mu	mu[year]	N	N	D	_	_	_	_	_	_
+us2-sa	us[follow]-a	V	NF.V.PT	D	_	_	_	_	_	_
+ma2	ma[ship]	N	N	D	_	_	_	_	_	_
+{d}en-ki	Enki[1][-ak][-ø]	DN	DN.GEN.ABS	D	_	_	_	_	_	_
+ba-ab-du8	ba-b-du[caulk][-ø]	V	MID.3-SG-NH-L3.V.3-SG-S	D	_	_	_	_	_	_

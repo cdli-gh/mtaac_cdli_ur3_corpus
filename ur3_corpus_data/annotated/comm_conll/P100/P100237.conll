@@ -1,0 +1,27 @@
+#new_text=P100237					
+FORM	SEGM	XPOSTAG	XPOSTAG	POS	?	?	?	?	?	?
+3(gesz2)	3(gesz)[sixty]	NU	NU	D	B-COUNT	_	none	unknown	_	none
+1(u)	1(u)[ten]	NU	NU	D	I-COUNT	*	*	*	*	*
+8(disz)	8(disz)[one]	NU	NU	D	I-COUNT	*	*	*	*	*
+...	_[_]	PN	N	D	I-COUNT	*	*	*	*	*
+3(u)	3(u)[ten]	NU	NU	D	B-COUNT	_	37	cardinal	_	37
+7(disz)	7(disz)[one][-sze]	NU	NU	D	I-COUNT	*	*	*	*	*
+udu	udu[sheep]	N	N	D	B-COM	_	_	_	_	_
+bar-gal2	bargal[fleeced_sheep]	N	N	D	_	_	_	_	_	_
+3(disz)	3(disz)[one]	NU	NU	D	B-COUNT	_	3	cardinal	_	3
+masz2	masz[goat]	N	N	D	_	_	_	_	_	_
+ki	ki[place]	N	N	D	_	_	_	_	_	_
+ur-e11-e-ta	Ure'e[1][-ak]-ta	PN	PN.GEN.ABL	D	_	_	_	_	_	_
+ugu2	ugu[capital]	N	N	D	_	_	_	_	_	_
+lu2-{d}nam2-an-ka	_	PN	PN	Ia	_	_	_	_	_	_
+ba-a-gar	ba-e-gar[place][-ø]	V	MID.L2.V.3-SG-S	D	_	_	_	_	_	_
+kiszib3	kiszib[seal]	N	N	D	_	_	_	_	_	_
+ur-{d}szara2	Urszara[1]	PN	PN	D	_	_	_	_	_	_
+mu	mu[year]	N	N	D	_	_	_	_	_	_
+en-unu6-gal	Enunugal[1]	PN	PN	D	_	_	_	_	_	_
+{d}inanna	Inanna[1][-ak]	DN	DN	D	_	_	_	_	_	_
+ba-hun	ba-hug[hire][-ø]	V	MID.V.3-SG-S	D	_	_	_	_	_	_
+ur-{d}szara2	Urszara[1]	PN	PN	D	_	_	_	_	_	_
+dub-sar	dubsar[scribe]	N	N	D	_	_	_	_	_	_
+dumu	dumu[child]	N	N	D	_	_	_	_	_	_
+lugal-uszur4	Lugaluszur[1][-ak]	PN	PN.GEN	D	_	_	_	_	_	_

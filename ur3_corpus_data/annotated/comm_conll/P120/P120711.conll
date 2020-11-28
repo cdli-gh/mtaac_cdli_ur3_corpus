@@ -1,0 +1,18 @@
+#new_text=P120711					
+FORM	SEGM	XPOSTAG	XPOSTAG	POS	?	?	?	?	?	?
+7(disz)	7(disz)[one][-sze]	NU	NU	D	B-COUNT	_	0.11666666666666667	cardinal	_	0.11666666666666667
+gin2	gig[unit]	N	N	D	I-COUNT	*	*	*	*	*
+ku3-babbar	kugbabbar[silver]	N	N	D	B-COM	_	_	_	_	_
+masz2	masz[goat]	N	N	D	_	_	_	_	_	_
+ga2-ga2-de3	_	V	NF.V.ABS.GEN.GEN	Iabcdefg	_	_	_	_	_	_
+ki	ki[place]	N	N	D	_	_	_	_	_	_
+ig-mu-lum-ta	_	PN	PN.GEN.ABL	Iab	_	_	_	_	_	_
+ur-zigum-ma	_	PN	PN.GEN.GEN.ABS	Iabcdefg	_	_	_	_	_	_
+szu	szu[hand][-e]	N	N.L3-NH	D	_	_	_	_	_	_
+ba-ti	ba[-n]-teg[accept][-ø]	V	MID.3-SG-H-A.V.3-SG-P	D	_	_	_	_	_	_
+iti	iti[month]	N	N	D	_	_	_	_	_	_
+ki-siki-{d}nin-a-zu	Kisikininazu[1][-'a]	MN	MN.L1	D	_	_	_	_	_	_
+mu	mu[year]	N	N	D	_	_	_	_	_	_
+sza-szu-ru{ki}	_	GN	GN	POS	_	_	_	_	_	_
+ba-hul	ba-hulu[destroy][-ø]	V	MID.V.3-SG-S	D	_	_	_	_	_	_
+ki-masz-sze3	_	N	N	POS	_	_	_	_	_	_

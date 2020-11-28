@@ -1,0 +1,27 @@
+#new_text=P117979					
+FORM	SEGM	XPOSTAG	XPOSTAG	POS	?	?	?	?	?	?
+3(u)	3(u)[ten]	NU	NU	D	B-COUNT	_	32	cardinal	_	32
+2(disz)	2(disz)[one]	NU	NU	D	I-COUNT	*	*	*	*	*
+geme2	geme[female_worker]	N	N	D	_	_	_	_	_	_
+*RETOK*-capacity"	?	?	?	?	B-COUNT	l	30	"dry	*	*
+3(ban2)	3(ban)[unit]	NU	N	D	I-COUNT	*	*	*	sila3	30
+u4	ud[day]	N	N	D	_	_	_	_	_	_
+1(disz)-sze3	1(disz)[one]-sze	NU	NU.TERM	D	B-COUNT	_	1	cardinal	_	1
+sze	sze[barley]	N	N	D	B-COM	_	_	_	_	_
+sahar-u2-u2-ta	Saharu'u[1]-ta	N	SN.ABL	D	_	_	_	_	_	_
+de6-a	de[bring]-a	V	NF.V.PT	D	_	_	_	_	_	_
+umma{ki}-a	_	SN	SN.GEN.GEN	Iabcdef	_	_	_	_	_	_
+ba-al-la	bala[transfer]-a	V	NF.V.PT	D	_	_	_	_	_	_
+ugula	ugula[overseer][-ø]	N	N	D	_	_	_	_	_	_
+ur-{d}nin-tu	Urnintu[1][-ak]	PN	PN	D	_	_	_	_	_	_
+kiszib3	kiszib[seal]	N	N	D	_	_	_	_	_	_
+ur-{d}szara2	Urszara[1]	PN	PN	D	_	_	_	_	_	_
+iti	iti[month]	N	N	D	_	_	_	_	_	_
+nesag	Nesag[1][-'a]	N	MN.L1	D	_	_	_	_	_	_
+mu	mu[year]	N	N	D	_	_	_	_	_	_
+{d}szu-{d}suen	Szusuen[1]	RN	RN	D	_	_	_	_	_	_
+lugal	lugal[king]	N	N	D	_	_	_	_	_	_
+ur-{d}szara2	Urszara[1]	PN	PN	D	_	_	_	_	_	_
+dub-sar	dubsar[scribe]	N	N	D	_	_	_	_	_	_
+dumu	dumu[child]	N	N	D	_	_	_	_	_	_
+szesz-kal-la	Szeszkala[1][-ra]	PN	PN	D	_	_	_	_	_	_

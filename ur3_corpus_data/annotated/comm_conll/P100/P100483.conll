@@ -1,0 +1,20 @@
+#new_text=P100483					
+FORM	SEGM	XPOSTAG	XPOSTAG	POS	?	?	?	?	?	?
+1(disz)	1(disz)[one]	NU	NU	D	B-COUNT	_	1	cardinal	_	1
+{gi}kaskal	kaskal[travel_basket]	N	N	D	B-COM	_	_	_	_	_
+*RETOK*-capacity"	?	?	?	?	B-COUNT	l	60	"dry	*	*
+1(barig)	1(bariga)[unit]	NU	N	D	I-COUNT	*	*	*	sila3	60
+ki	ki[place]	N	N	D	_	_	_	_	_	_
+lu2-igi-sa6-sa6-ta	Lu'igisasa[1][-ak]-ta	PN	PN.GEN.ABL	D	_	_	_	_	_	_
+kiszib3	kiszib[seal]	N	N	D	_	_	_	_	_	_
+kas4	kas[runner][-ra]	N	N.DAT-H	D	_	_	_	_	_	_
+sza3	szag[heart]	N	N	D	_	_	_	_	_	_
+bala-a	bala[tax][-ak]-'a	N	N.GEN.L1	D	_	_	_	_	_	_
+mu	mu[year]	N	N	D	_	_	_	_	_	_
+us2-sa	us[follow]-a	V	NF.V.PT	D	_	_	_	_	_	_
+ki-masz{ki}	Kimasz[1]	SN	SN.ABS	D	_	_	_	_	_	_
+ba-hul	ba-hulu[destroy][-ø]	V	MID.V.3-SG-S	D	_	_	_	_	_	_
+en-kas4	_	PN	PN.GEN.ABS	Iabcdefgh	_	_	_	_	_	_
+dub-sar	dubsar[scribe]	N	N	D	_	_	_	_	_	_
+dumu	dumu[child]	N	N	D	_	_	_	_	_	_
+ur-{d}isztaran	Urisztaran[1]	PN	PN.GEN.ABS	D	_	_	_	_	_	_

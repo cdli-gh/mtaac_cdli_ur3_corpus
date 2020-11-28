@@ -1,0 +1,17 @@
+#new_text=P100457					
+FORM	SEGM	XPOSTAG	XPOSTAG	POS	?	?	?	?	?	?
+1(u)	1(u)[ten]	NU	NU	D	B-COUNT	_	10	cardinal	_	10
+gesz	gesz[tree]	N	N	D	B-COM	_	_	_	_	_
+ab-ba	abba[father]	PN	PN	D	_	_	_	_	_	_
+{gesz}al-sze3	_	N	N.TERM	Iabcde	_	_	_	_	_	_
+ki	ki[place]	N	N	D	_	_	_	_	_	_
+ur-sila-luh-ta	Ursilaluh[1][-ak]-ta	PN	PN.GEN.ABL	D	_	_	_	_	_	_
+kiszib3	kiszib[seal]	N	N	D	_	_	_	_	_	_
+...-ba	_	PN	PN.ERG	Iabcdefgh	_	_	_	_	_	_
+iti	iti[month]	N	N	D	_	_	_	_	_	_
+...	_[_]	PN	N	D	_	_	_	_	_	_
+mu	mu[year]	N	N	D	_	_	_	_	_	_
+{d}szul-gi	Szulgir[1]	RN	RN	D	_	_	_	_	_	_
+lugal-e	lugal[king]-e	N	N.ERG	D	_	_	_	_	_	_
+bad3	bad[wall]	N	N	D	_	_	_	_	_	_
+ma-da	mada[land][-ak][-ø]	N	N	D	_	_	_	_	_	_

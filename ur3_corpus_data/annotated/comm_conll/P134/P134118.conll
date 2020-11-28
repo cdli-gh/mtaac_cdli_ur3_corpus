@@ -1,0 +1,22 @@
+#new_text=P134118					
+FORM	SEGM	XPOSTAG	XPOSTAG	POS	B-COUNT	l	0.00018518518518518518	"dry	*	*
+2(asz)	2(asz)[one]	NU	NU	D	I-COUNT	*	*	*	sila3	0.00018518518518518518
+sze	sze[barley]	N	N	D	I-COUNT	*	*	*	*	*
+gur	gur[unit]	N	N	D	I-COUNT	*	*	*	*	*
+inim-{d}szara2	Inimszara[1][-ak][-ra]	PN	PN	D	_	_	_	_	_	_
+*RETOK*-capacity"	?	?	?	?	B-COUNT	l	1020	"dry	*	*
+3(asz)	3(asz)[one]	NU	NU	D	I-COUNT	*	*	*	sila3	1020
+2(barig)	2(bariga)[unit]	NU	N	D	I-COUNT	*	*	*	*	*
+gur	gur[unit]	N	N	D	I-COUNT	*	*	*	*	*
+ab-ba-gi-na	Abbagina[1]	PN	PN	D	_	_	_	_	_	_
+*RETOK*-capacity"	?	?	?	?	B-COUNT	l	660	"dry	*	*
+2(asz)	2(asz)[one]	NU	NU	D	I-COUNT	*	*	*	sila3	660
+1(barig)	1(bariga)[unit]	NU	N	D	I-COUNT	*	*	*	*	*
+gur	gur[unit]	N	N	D	I-COUNT	*	*	*	*	*
+a2	a[time]	N	N	D	_	_	_	_	_	_
+lu2	lu[person]	N	N	D	_	_	_	_	_	_
+hun-ga2	hug[hire]-a	V	NF.V.PT	D	_	_	_	_	_	_
+u3	u[and]	CNJ	CNJ	D	B-COM	_	_	_	_	_
+a2	a[time]	N	N	D	_	_	_	_	_	_
+1(asz)	1(asz)[one]	NU	NU	D	B-COUNT	_	1	cardinal	_	1
+hun-ga2	hug[hire]-a	V	NF.V.PT	D	_	_	_	_	_	_

@@ -1,0 +1,24 @@
+#new_text=P332462					
+FORM	SEGM	XPOSTAG	XPOSTAG	POS	?	?	?	?	?	?
+4(asz)	4(asz)[one]	NU	NU	D	B-COUNT	*	*	*	*	*
+2(barig)	2(bariga)[unit]	NU	N	D	I-COUNT	*	*	*	*	*
+sze	sze[barley]	N	N	D	I-COUNT	*	*	*	*	*
+ur5-ra	urra[loan]	N	N	D	B-COM	_	_	_	_	_
+gur	gur[unit]	N	N	D	_	_	_	_	_	_
+ki-i-gi-bu-ni-ta	_	N	N	POS	_	_	_	_	_	_
+...-za-al-x	_			POS	_	_	_	_	_	_
+...-x-um	_	PN	PN	Iabcde	_	_	_	_	_	_
+...-ra	_	PN	PN	Iabcde	_	_	_	_	_	_
+iti	iti[month]	N	N	D	_	_	_	_	_	_
+...-um	_	PN	PN	Iabcde	_	_	_	_	_	_
+mu	mu[year]	N	N	D	_	_	_	_	_	_
+ma2-gur8-mah	magurmah[great_barge][-ø]	N	N.ABS	D	_	_	_	_	_	_
+mu-ne-du3	mu-nnee[-a][-n]-du[build][-ø]	V	VEN.3-PL.DAT.3-SG-H-A.V.3-SG-P	D	_	_	_	_	_	_
+...-nim	_	PN	PN	Iabcdefgh	_	_	_	_	_	_
+dumu	dumu[child]	N	N	D	_	_	_	_	_	_
+x-nun-um	_	PN	PN.GEN.ABS	Iab	_	_	_	_	_	_
+za-an-...	_	PN	PN	POS	_	_	_	_	_	_
+dumu	dumu[child]	N	N	D	_	_	_	_	_	_
+sze-te-...	_	PN	PN	POS	_	_	_	_	_	_
+ugula	ugula[overseer][-ø]	N	N	D	_	_	_	_	_	_
+...	_[_]	PN	N	D	_	_	_	_	_	_

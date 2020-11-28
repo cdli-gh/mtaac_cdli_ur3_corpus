@@ -1,0 +1,26 @@
+#new_text=P112060					
+FORM	SEGM	XPOSTAG	XPOSTAG	POS	?	?	?	?	?	?
+1/2(disz)	1/2(disz)[one]	NU	NU	D	B-COUNT	_	0.5	cardinal	_	0.5
+nimgir-an-ne2	Nimgirane[1][-ak]	PN	PN.GEN	D	_	_	_	_	_	_
+dumu	dumu[child]	N	N	D	_	_	_	_	_	_
+lugal-gesz-dur2-re	_	PN	PN	Iabcde	_	_	_	_	_	_
+bahar3	bahar[potter]	N	N	D	_	_	_	_	_	_
+iti	iti[month]	N	N	D	_	_	_	_	_	_
+e2-iti-6(disz)-ta	_	NU	NU	POS	_	_	_	_	_	_
+a2	a[time]	N	N	D	_	_	_	_	_	_
+1/2(disz)	1/2(disz)[one]	NU	NU	D	B-COUNT	_	0.5	cardinal	_	0.5
+in-IL2	_	V	V	POS	_	_	_	_	_	_
+inim	inim[word]	N	N	D	_	_	_	_	_	_
+ensi2-ta	ensik[ruler][-ak]-ta	N	N.GEN.ABL	D	_	_	_	_	_	_
+kiszib3	kiszib[seal]	N	N	D	_	_	_	_	_	_
+ur-{d}szara2	Urszara[1]	PN	PN	D	_	_	_	_	_	_
+sza13-dub-ka	_	N	N	Ia	_	_	_	_	_	_
+mu	mu[year]	N	N	D	_	_	_	_	_	_
+en-mah-gal-an-na	Enmahgalana[1]	PN	PN	D	_	_	_	_	_	_
+en	en[priest]	N	N	D	_	_	_	_	_	_
+{d}nanna	Nanna[1][-ak]	DN	DN	D	_	_	_	_	_	_
+ba-hun	ba-hug[hire][-ø]	V	MID.V.3-SG-S	D	_	_	_	_	_	_
+ur-{d}szara2	Urszara[1]	PN	PN	D	_	_	_	_	_	_
+dub-sar	dubsar[scribe]	N	N	D	_	_	_	_	_	_
+dumu	dumu[child]	N	N	D	_	_	_	_	_	_
+lugal-uszur4	Lugaluszur[1][-ak]	PN	PN.GEN	D	_	_	_	_	_	_

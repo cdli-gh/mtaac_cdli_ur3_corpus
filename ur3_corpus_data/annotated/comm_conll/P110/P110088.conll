@@ -1,0 +1,20 @@
+#new_text=P110088					
+FORM	SEGM	XPOSTAG	XPOSTAG	POS	B-COUNT	l	1260	"dry	*	*
+4(asz)	4(asz)[one]	NU	NU	D	I-COUNT	*	*	*	sila3	1260
+1(barig)	1(bariga)[unit]	NU	N	D	I-COUNT	*	*	*	*	*
+zu2-lum	zulum[date]	N	N	D	B-COM	_	_	_	_	_
+gur	gur[unit]	N	N	D	_	_	_	_	_	_
+lugal	lugal[king]	N	N	D	_	_	_	_	_	_
+ur2-ra-ni	Urani[1][-e]	PN	PN.ERG	D	_	_	_	_	_	_
+{gesz}kiri6	kiri[orchard][-'a][-ø]	N	N	D	_	_	_	_	_	_
+lugal-uszumgal	_	PN	PN.GEN.ABS	D	_	_	_	_	_	_
+*RETOK*-capacity"	?	?	?	?	B-COUNT	l	660	"dry	*	*
+2(asz)	2(asz)[one]	NU	NU	D	I-COUNT	*	*	*	sila3	660
+1(barig)	1(bariga)[unit]	NU	N	D	I-COUNT	*	*	*	*	*
+gur	gur[unit]	N	N	D	I-COUNT	*	*	*	*	*
+ARAD2	arad[slave]	N	N	D	_	_	_	_	_	_
+{gesz}kiri6	kiri[orchard][-'a][-ø]	N	N	D	B-COM	_	_	_	_	_
+e2-husz	_	TN	TN	POS	_	_	_	_	_	_
+mu	mu[year]	N	N	D	_	_	_	_	_	_
+hu-hu-nu-ri{ki}	Huhunuri[1][-ø]	GN	SN.ABS	D	_	_	_	_	_	_
+ba-hul	ba-hulu[destroy][-ø]	V	MID.V.3-SG-S	D	_	_	_	_	_	_

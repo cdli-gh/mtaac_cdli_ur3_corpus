@@ -1,0 +1,26 @@
+#new_text=P339372					
+FORM	SEGM	XPOSTAG	XPOSTAG	POS	?	?	?	?	?	?
+la2-ia3	la'u[arrears]	N	N	D	_	_	_	_	_	_
+*RETOK*-capacity"	?	?	?	?	B-COUNT	l	1625.4166666666667	"dry	*	*
+5(asz)	5(asz)[one]	NU	NU	D	I-COUNT	*	*	*	sila3	1625.4166666666667
+2(barig)	2(bariga)[unit]	NU	N	D	I-COUNT	*	*	*	*	*
+5(disz)	5(disz)[one]	NU	NU	D	I-COUNT	*	*	*	*	*
+1/3(disz)	1/3(disz)[one]	NU	NU	D	I-COUNT	*	*	*	*	*
+sila3	sila[unit]	N	N	D	I-COUNT	*	*	*	*	*
+5(disz)	5(disz)[one]	NU	NU	D	I-COUNT	*	*	*	*	*
+gin2	gig[unit]	N	N	D	I-COUNT	*	*	*	*	*
+sze	sze[barley]	N	N	D	I-COUNT	*	*	*	*	*
+la2-ia3	la'u[arrears]	N	N	D	_	_	_	_	_	_
+sze-numun	szenumun[seed]	N	N	D	_	_	_	_	_	_
+ur-{gesz}gigir	Urgigir[1]	PN	PN	D	B-COM	_	_	_	_	_
+nu-banda3-gu4-ke4	_	N	N.ERG	Iabcde	_	_	_	_	_	_
+su-su-dam	sug-sug[repay]-ed[-ø]-am	PN	NF.V.RDP.F.ABS.COP-3-SG	D	_	_	_	_	_	_
+a	a[water][-ø]	N	N.ABS	D	_	_	_	_	_	_
+de2-a	de[pour]-a	V	NF.V.PT	D	_	_	_	_	_	_
+mu	mu[year]	N	N	D	_	_	_	_	_	_
+sza-asz-ru{ki}	Szaszru[1][-ø]	SN	SN.ABS	D	_	_	_	_	_	_
+ba-hul	ba-hulu[destroy][-ø]	V	MID.V.3-SG-S	D	_	_	_	_	_	_
+inim-{d}szara2	Inimszara[1][-ak][-ra]	PN	PN	D	_	_	_	_	_	_
+dub-sar	dubsar[scribe]	N	N	D	_	_	_	_	_	_
+dumu	dumu[child]	N	N	D	_	_	_	_	_	_
+ur-dingir-ra	_	PN	PN	D	_	_	_	_	_	_

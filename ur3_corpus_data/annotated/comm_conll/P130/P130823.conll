@@ -1,0 +1,27 @@
+#new_text=P130823					
+FORM	SEGM	XPOSTAG	XPOSTAG	POS	?	?	?	?	?	?
+2(disz)	2(disz)[one]	NU	NU	D	B-COUNT	_	2	cardinal	_	2
+{gesz}u3-suh5	usuh[tree]	N	N	D	B-COM	_	_	_	_	_
+mi-ri2-za	_	V	VEN.L1.3-SG-H-A.V.3-SG-P.SUB.L1	Iabcdefghi	_	_	_	_	_	_
+ma2	ma[ship]	N	N	D	_	_	_	_	_	_
+*RETOK*-capacity"	?	?	?	?	B-COUNT	l	9000	"dry	*	*
+3(u)	3(u)[ten]	NU	NU	D	I-COUNT	*	*	*	sila3	9000
+gur	gur[unit]	N	N	D	I-COUNT	*	*	*	*	*
+ki	ki[place]	N	N	D	B-COM	_	_	_	_	_
+hu-wa-wa-ta	_	PN	PN.GEN.ABL	Iabcdef	_	_	_	_	_	_
+kiszib3	kiszib[seal]	N	N	D	_	_	_	_	_	_
+ur-{d}szara2	Urszara[1]	PN	PN	D	_	_	_	_	_	_
+sza13-dub-ba	bisagdubak[archivist]	N	N	D	_	_	_	_	_	_
+sza3	szag[heart]	N	N	D	_	_	_	_	_	_
+bala-a	bala[tax][-ak]-'a	N	N.GEN.L1	D	_	_	_	_	_	_
+ki	ki[place]	N	N	D	_	_	_	_	_	_
+lugal-an-dul3	Lugalandul[1][-ak]	PN	PN.GEN	D	_	_	_	_	_	_
+mu	mu[year]	N	N	D	_	_	_	_	_	_
+a-ra2	ara[times]	N	N	D	_	_	_	_	_	_
+2(disz)-kam	2(disz)[one]-ak-am	NU	NU.GEN.COP-3-SG	D	B-COUNT	_	2	cardinal	_	2
+sza-asz-szu2-ru-um{ki}	Szaszszurum[1][-ø]	SN	SN.ABS	D	_	_	_	_	_	_
+ba-hul	ba-hulu[destroy][-ø]	V	MID.V.3-SG-S	D	_	_	_	_	_	_
+ur-{d}szara2	Urszara[1]	PN	PN	D	_	_	_	_	_	_
+dub-sar	dubsar[scribe]	N	N	D	_	_	_	_	_	_
+dumu	dumu[child]	N	N	D	_	_	_	_	_	_
+lugal-uszur4	Lugaluszur[1][-ak]	PN	PN.GEN	D	_	_	_	_	_	_

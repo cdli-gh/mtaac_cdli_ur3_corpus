@@ -1,0 +1,27 @@
+#new_text=P133287					
+FORM	SEGM	XPOSTAG	XPOSTAG	POS	?	?	?	?	?	?
+1(u)	1(u)[ten]	NU	NU	D	B-COUNT	*	*	*	*	*
+1(asz)	1(asz)[one]	NU	NU	D	I-COUNT	*	*	*	*	*
+1(barig)	1(bariga)[unit]	NU	N	D	I-COUNT	*	*	*	*	*
+sze	sze[barley]	N	N	D	I-COUNT	*	*	*	*	*
+gur	gur[unit]	N	N	D	I-COUNT	*	*	*	*	*
+sze	sze[barley]	N	N	D	B-COM	_	_	_	_	_
+ur5-ra	urra[loan]	N	N	D	_	_	_	_	_	_
+engar-dumu-gu4-gur	_	N	N.GEN	Iabcde	_	_	_	_	_	_
+e2	e[house]	N	N	D	_	_	_	_	_	_
+{d}nin-gir2-su-me	_	DN	DN.GEN	Iabcdefgh	_	_	_	_	_	_
+i3-dub	idub[granary]	N	N	D	_	_	_	_	_	_
+a-sza3	aszag[field]	N	N	D	_	_	_	_	_	_
+gibil-ta	gibil[new][-ø]-ta	V	NF.V.ABS.ABL	D	_	_	_	_	_	_
+ki	ki[place]	N	N	D	_	_	_	_	_	_
+lugal-a-ma-ru-ta	_	PN	PN.GEN.GEN.ABL	Iabcdefg	_	_	_	_	_	_
+kiszib3	kiszib[seal]	N	N	D	_	_	_	_	_	_
+lugal-da-ga	_	PN	PN	Iabcde	_	_	_	_	_	_
+iti	iti[month]	N	N	D	_	_	_	_	_	_
+GAN2-masz	GANmasz[1][-'a]	MN	MN.L1	D	_	_	_	_	_	_
+mu	mu[year]	N	N	D	_	_	_	_	_	_
+en	en[priest]	N	N	D	_	_	_	_	_	_
+{d}inanna	Inanna[1][-ak]	DN	DN	D	_	_	_	_	_	_
+unu{ki}	Unug[1][-ak][-ak][-ø]	SN	SN.GEN.L1	D	_	_	_	_	_	_
+masz-e	masz[goat]-e	N	N.L3-NH	D	_	_	_	_	_	_
+i3-pa3	i-pad[find][-ø]	V	FIN.V.3-SG-S	D	_	_	_	_	_	_

@@ -1,0 +1,20 @@
+#new_text=P209752					
+FORM	SEGM	XPOSTAG	XPOSTAG	POS	?	?	?	?	?	?
+1(asz)	1(asz)[one]	NU	NU	D	B-COUNT	_	none	unknown	_	none
+2(barig)	2(bariga)[unit]	NU	N	D	I-COUNT	*	*	*	*	*
+...	_[_]	PN	N	D	I-COUNT	*	*	*	*	*
+sze	sze[barley]	N	N	D	I-COUNT	*	*	*	*	*
+gesz	gesz[tree]	N	N	D	_	_	_	_	_	_
+e3-a	e[leave]-a	V	NF.V.PT	D	B-COM	_	_	_	_	_
+gur	gur[unit]	N	N	D	_	_	_	_	_	_
+{d}szara2-mu-tum2	_	PN	PN	Iabcdefgh	_	_	_	_	_	_
+{gesz}kiri6	kiri[orchard][-'a][-ø]	N	N	D	_	_	_	_	_	_
+|KI.AN|{ki}	Ki'an[1][-ak][-ra]	SN	SN.GEN.DAT-H	D	_	_	_	_	_	_
+kab2-du11-ga	kabdug[check]-a	V	NF.V.PT	D	_	_	_	_	_	_
+iti	iti[month]	N	N	D	_	_	_	_	_	_
+sze-kar-ra-gal2-la	Szekaragala[1][-'a]	MN	MN.L1	D	_	_	_	_	_	_
+mu	mu[year]	N	N	D	_	_	_	_	_	_
+e2	e[house]	N	N	D	_	_	_	_	_	_
+{d}szara2	Szara[1][-ak]	DN	DN	D	_	_	_	_	_	_
+umma{ki}	Umma[1][-ak][-ø]	SN	SN.GEN.ABS	D	_	_	_	_	_	_
+mu-hul	mu[-n]-hulu[destroy][-ø]	V	VEN.3-SG-H-A.V.3-SG-P	D	_	_	_	_	_	_

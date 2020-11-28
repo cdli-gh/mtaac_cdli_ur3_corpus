@@ -1,0 +1,16 @@
+#new_text=P209907					
+FORM	SEGM	XPOSTAG	XPOSTAG	POS	B-COUNT	l	120	"dry	*	*
+2(barig)	2(bariga)[unit]	NU	N	D	I-COUNT	*	*	*	sila3	120
+i3-gesz	igesz[oil]	V	N	D	B-COM	_	_	_	_	_
+ki	ki[place]	N	N	D	_	_	_	_	_	_
+szu-{d}iszkur	Szu'iszkur[1][-ak]	PN	PN	D	_	_	_	_	_	_
+mu-kux(DU)	mukur[delivery][-ø]	N	N	D	_	_	_	_	_	_
+iti	iti[month]	N	N	D	_	_	_	_	_	_
+sze-sag11-ku5	Szesagku[1][-'a]	MN	MN.L1	D	_	_	_	_	_	_
+mu	mu[year]	N	N	D	_	_	_	_	_	_
+i-bi2-{d}suen	Ibi.Suen[1]	PN	RN	D	_	_	_	_	_	_
+lugal	lugal[king]	N	N	D	_	_	_	_	_	_
+ur-{d}da-mu	Urdamu[1]	PN	PN	D	_	_	_	_	_	_
+dub-sar	dubsar[scribe]	N	N	D	_	_	_	_	_	_
+dumu	dumu[child]	N	N	D	_	_	_	_	_	_
+ur-zu	Urzu[1][-ak][-ra]	PN	PN.GEN.DAT-H	D	_	_	_	_	_	_

@@ -1,0 +1,17 @@
+#new_text=P143131					
+FORM	SEGM	XPOSTAG	XPOSTAG	POS	?	?	?	?	?	?
+1(gesz2)	1(gesz)[sixty]	NU	NU	D	B-COUNT	g	2400000.0	weight	gin2	288000
+2(u)	2(u)[ten]	NU	NU	D	I-COUNT	*	*	*	*	*
+gu2	gun[unit]	N	N	D	I-COUNT	*	*	*	*	*
+esir2	esir[bitumen]	N	N	D	B-COM	_	_	_	_	_
+gul-gul	_	V	V	POS	_	_	_	_	_	_
+ki	ki[place]	N	N	D	_	_	_	_	_	_
+szesz-kal-la-ta	Szeszkala[1][-ak]-ta	N	PN.GEN.ABL	D	_	_	_	_	_	_
+a-ab-ba	_	PN	PN	Iabcde	_	_	_	_	_	_
+szu	szu[hand][-e]	N	N.L3-NH	D	_	_	_	_	_	_
+ba-ti	ba[-n]-teg[accept][-ø]	V	MID.3-SG-H-A.V.3-SG-P	D	_	_	_	_	_	_
+iti	iti[month]	N	N	D	_	_	_	_	_	_
+{d}dumu-zi-da	_	DN	DN	POS	_	_	_	_	_	_
+mu	mu[year]	N	N	D	_	_	_	_	_	_
+ha-ar-szi	Harszi[1][-ø]	PN	SN.ABS	D	_	_	_	_	_	_
+ba-hul	ba-hulu[destroy][-ø]	V	MID.V.3-SG-S	D	_	_	_	_	_	_

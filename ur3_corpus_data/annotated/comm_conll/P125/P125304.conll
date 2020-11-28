@@ -1,0 +1,26 @@
+#new_text=P125304					
+FORM	SEGM	XPOSTAG	XPOSTAG	POS	?	?	?	?	?	?
+1(barig)	1(bariga)[unit]	NU	N	D	B-COUNT	*	*	*	*	*
+sze	sze[barley]	N	N	D	I-COUNT	*	*	*	*	*
+szuku-ra	szukur[ration]-ak	N	N.GEN	D	_	_	_	_	_	_
+ad-da	Adda[1]	PN	PN	D	_	_	_	_	_	_
+*RETOK*-capacity"	?	?	?	?	B-COUNT	l	60	"dry	*	*
+1(barig)	1(bariga)[unit]	NU	N	D	I-COUNT	*	*	*	sila3	60
+ur-{d}suen	Ursuen[1]	PN	PN	D	_	_	_	_	_	_
+...	_[_]	PN	N	D	_	_	_	_	_	_
+lugal-nig2-lagar-e	Lugalniglagare[1][-ak]	PN	PN.GEN	D	_	_	_	_	_	_
+guru7	guru[grain_heap]	N	N	D	_	_	_	_	_	_
+i3-szum2-ta	_	SN	SN	POS	_	_	_	_	_	_
+ki	ki[place]	N	N	D	_	_	_	_	_	_
+ka-guru7-ta	Kaguru[1][-ak]-ta	PN	PN.GEN.ABL	D	_	_	_	_	_	_
+kiszib3	kiszib[seal]	N	N	D	_	_	_	_	_	_
+ur-{d}suen	Ursuen[1]	PN	PN	D	_	_	_	_	_	_
+iti	iti[month]	N	N	D	_	_	_	_	_	_
+ezem-{d}szul-gi	Ezemszulgir[1][-'a]	MN	MN.L1	D	_	_	_	_	_	_
+mu	mu[year]	N	N	D	_	_	_	_	_	_
+si-ma-num2{ki}	Simanum[1][-ø]	GN	SN.ABS	D	_	_	_	_	_	_
+ba-hul	ba-hulu[destroy][-ø]	V	MID.V.3-SG-S	D	_	_	_	_	_	_
+ur-{d}suen	Ursuen[1]	PN	PN	D	_	_	_	_	_	_
+dub-sar	dubsar[scribe]	N	N	D	_	_	_	_	_	_
+dumu	dumu[child]	N	N	D	_	_	_	_	_	_
+ur-e2-gal	_	PN	PN.DAT-H	Iabcdefg	_	_	_	_	_	_

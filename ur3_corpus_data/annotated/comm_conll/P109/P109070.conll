@@ -1,0 +1,20 @@
+#new_text=P109070					
+FORM	SEGM	XPOSTAG	XPOSTAG	POS	B-COUNT	l	7716	"dry	*	*
+2(u)	2(u)[ten]	NU	NU	D	I-COUNT	*	*	*	sila3	7716
+5(asz)	5(asz)[one]	NU	NU	D	I-COUNT	*	*	*	*	*
+3(barig)	3(bariga)[unit]	NU	N	D	I-COUNT	*	*	*	*	*
+3(ban2)	3(ban)[unit]	NU	N	D	I-COUNT	*	*	*	*	*
+6(disz)	6(disz)[one][-sze]	NU	NU	D	I-COUNT	*	*	*	*	*
+sila3	sila[unit]	N	N	D	I-COUNT	*	*	*	*	*
+kiszib3	kiszib[seal]	N	N	D	_	_	_	_	_	_
+tuku	tuku[acquire][-a]	V	NF.V.PT	D	_	_	_	_	_	_
+*RETOK*-capacity"	?	?	?	?	B-COUNT	l	3150	"dry	*	*
+1(u)	1(u)[ten]	NU	NU	D	I-COUNT	*	*	*	sila3	3150
+2(barig)	2(bariga)[unit]	NU	N	D	I-COUNT	*	*	*	*	*
+3(ban2)	3(ban)[unit]	NU	N	D	I-COUNT	*	*	*	*	*
+kiszib3	kiszib[seal]	N	N	D	_	_	_	_	_	_
+nu-tuku	nu-tuku[acquire][-a]	V	NEG.NF.V.PT	D	_	_	_	_	_	_
+kiszib3	kiszib[seal]	N	N	D	_	_	_	_	_	_
+ur-{d}ba-ba6	Urbaba[1]	PN	PN	D	_	_	_	_	_	_
+lu2	lu[person]	N	N	D	_	_	_	_	_	_
+en	en[priest]	N	N	D	_	_	_	_	_	_

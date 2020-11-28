@@ -1,0 +1,25 @@
+#new_text=P120006					
+FORM	SEGM	XPOSTAG	XPOSTAG	POS	?	?	?	?	?	?
+...	_[_]	PN	N	D	_	_	_	_	_	_
+...	_[_]	PN	N	D	_	_	_	_	_	_
+gur	gur[unit]	N	N	D	_	_	_	_	_	_
+...	_[_]	PN	N	D	_	_	_	_	_	_
+x	_[_]	N	N	D	_	_	_	_	_	_
+*RETOK*-capacity"	?	?	?	?	B-COUNT	l	270	"dry	*	*
+4(barig)	4(bariga)[unit]	NU	N	D	I-COUNT	*	*	*	sila3	270
+3(ban2)	3(ban)[unit]	NU	N	D	I-COUNT	*	*	*	*	*
+gur	gur[unit]	N	N	D	I-COUNT	*	*	*	*	*
+lugal-ku3-ga-ni	Lugalkugani[1][-ak]	PN	PN.GEN	D	_	_	_	_	_	_
+*RETOK*-capacity"	?	?	?	?	B-COUNT	l	1500	"dry	*	*
+5(asz)	5(asz)[one]	NU	NU	D	I-COUNT	*	*	*	sila3	1500
+gur	gur[unit]	N	N	D	I-COUNT	*	*	*	*	*
+lu2-{d}...	_	PN	PN	D	_	_	_	_	_	_
+dumu	dumu[child]	N	N	D	_	_	_	_	_	_
+ur-{d}ba-ba6	Urbaba[1]	PN	PN	D	_	_	_	_	_	_
+*RETOK*-capacity"	?	?	?	?	B-COUNT	l	2100	"dry	*	*
+7(asz)	7(asz)[one]	NU	NU	D	I-COUNT	*	*	*	sila3	2100
+gur	gur[unit]	N	N	D	I-COUNT	*	*	*	*	*
+lu2-{d}...	_	PN	PN	D	_	_	_	_	_	_
+dumu	dumu[child]	N	N	D	_	_	_	_	_	_
+lu2-{d}...	_	PN	PN	D	_	_	_	_	_	_
+...	_[_]	PN	N	D	_	_	_	_	_	_

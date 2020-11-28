@@ -1,0 +1,19 @@
+#new_text=P209025					
+FORM	SEGM	XPOSTAG	XPOSTAG	POS	?	?	?	?	?	?
+5(ban2)	5(ban)[unit]	NU	N	D	B-COUNT	*	*	*	*	*
+sze	sze[barley]	N	N	D	I-COUNT	*	*	*	*	*
+*RETOK*-capacity"	?	?	?	?	B-COUNT	l	60	"dry	*	*
+1(barig)	1(bariga)[unit]	NU	N	D	I-COUNT	*	*	*	sila3	60
+duh	duh[bran]	N	N	D	B-COM	_	_	_	_	_
+du	gin[quality_designation][-ø]	V	NF.V.ABS	D	_	_	_	_	_	_
+sza3-gal	szaggal[food]	N	N	D	_	_	_	_	_	_
+gu4	gud[ox]	N	N	D	_	_	_	_	_	_
+gun3-a	gunu[speckled]-a[-ø]	V	NF.V.SUB	D	_	_	_	_	_	_
+e2-gal-sze3	_	N	N	POS	_	_	_	_	_	_
+la-ha	_	N	N	POS	_	_	_	_	_	_
+iti	iti[month]	N	N	D	_	_	_	_	_	_
+{d}li9-si4	Lisi[1][-'a]	MN	MN.L1	D	_	_	_	_	_	_
+mu	mu[year]	N	N	D	_	_	_	_	_	_
+ma2	ma[ship]	N	N	D	_	_	_	_	_	_
+{d}en-ki	Enki[1][-ak][-ø]	DN	DN.GEN.ABS	D	_	_	_	_	_	_
+ba-ab-du8	ba-b-du[caulk][-ø]	V	MID.3-SG-NH-L3.V.3-SG-S	D	_	_	_	_	_	_

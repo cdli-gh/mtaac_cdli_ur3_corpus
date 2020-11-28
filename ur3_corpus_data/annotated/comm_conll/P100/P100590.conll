@@ -1,0 +1,23 @@
+#new_text=P100590					
+FORM	SEGM	XPOSTAG	XPOSTAG	POS	?	?	?	?	?	?
+6(disz)	6(disz)[one][-sze]	NU	NU	D	B-COUNT	_	6	cardinal	_	6
+gurusz	gurusz[male]	N	N	D	B-COM	_	_	_	_	_
+u4	ud[day]	N	N	D	_	_	_	_	_	_
+1(disz)-sze3	1(disz)[one]-sze	NU	NU.TERM	D	B-COUNT	_	1	cardinal	_	1
+guru7	guru[grain_heap]	N	N	D	_	_	_	_	_	_
+sza3-ku3-ge	Szakuge[1][-e]	PN	PN.ERG	D	_	_	_	_	_	_
+sze	sze[barley]	N	N	D	B-COM	_	_	_	_	_
+gesz	gesz[tree]	N	N	D	_	_	_	_	_	_
+e3	e[leave][-a]	V	NF.V.PT	D	_	_	_	_	_	_
+ugula	ugula[overseer][-ø]	N	N	D	_	_	_	_	_	_
+ur-{d}suen	Ursuen[1]	PN	PN	D	_	_	_	_	_	_
+kiszib3	kiszib[seal]	N	N	D	_	_	_	_	_	_
+lu2-kal-la	Lukala[1][-ra]	PN	PN.GEN	D	_	_	_	_	_	_
+mu	mu[year]	N	N	D	_	_	_	_	_	_
+{d}amar-{d}suen	Amarsuen[1]	RN	RN	D	_	_	_	_	_	_
+lugal	lugal[king]	N	N	D	_	_	_	_	_	_
+lu2-kal-la	Lukala[1][-ra]	PN	PN.GEN	D	_	_	_	_	_	_
+dub-sar	dubsar[scribe]	N	N	D	_	_	_	_	_	_
+dumu	dumu[child]	N	N	D	_	_	_	_	_	_
+ur-e11-e	Ure'e[1][-ak]	PN	PN	D	_	_	_	_	_	_
+szusz3	kusz[cattle_manager][-ak]	N	N.GEN	D	_	_	_	_	_	_

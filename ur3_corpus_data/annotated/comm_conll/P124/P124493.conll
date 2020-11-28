@@ -1,0 +1,25 @@
+#new_text=P124493					
+FORM	SEGM	XPOSTAG	XPOSTAG	POS	?	?	?	?	?	?
+1(u)	1(u)[ten]	NU	NU	D	B-COUNT	_	16	cardinal	_	16
+6(disz)	6(disz)[one][-sze]	NU	NU	D	I-COUNT	*	*	*	*	*
+masz2-gal	maszgal[billy_goat]	N	N	D	B-COM	_	_	_	_	_
+niga	niga[fattened][-ø]	V	NF.V.ABS	D	_	_	_	_	_	_
+{munus}asz2-gar3	aszgar[female_kid]	PN	N	D	_	_	_	_	_	_
+2(disz)-ta	2(disz)[one]-ta	NU	NU.ABL	D	B-COUNT	_	2	cardinal	_	2
+ki-ba	ki[place]-bi-'a	PN	N.3-SG-NH-POSS.L1	D	_	_	_	_	_	_
+ga2-ga2	gar-gar[place][-ed]	V	NF.V.RDP.PF.F	D	_	_	_	_	_	_
+u4	ud[day]	N	N	D	_	_	_	_	_	_
+3(u)-kam	3(u)[ten]-ak-am	NU	NU.GEN.COP-3-SG	D	B-COUNT	_	30	cardinal	_	30
+szu-la2-a	_	PN	PN	POS	B-COM	_	_	_	_	_
+ki	ki[place]	N	N	D	_	_	_	_	_	_
+ab-ba-sa6-ga-ta	Abbasaga[1][-ak]-ta	PN	PN.GEN.ABL	D	_	_	_	_	_	_
+be-li2-a-zu	Beli’azu[1][-e]	PN	PN.ERG	D	_	_	_	_	_	_
+i3-dab5	i[-n]-dab[seize][-ø]	V	FIN.3-SG-H-A.V.3-SG-P	D	_	_	_	_	_	_
+iti	iti[month]	N	N	D	_	_	_	_	_	_
+ezem-me-ki-gal2	Ezemmekigal[1][-ø]	MN	MN.L1	D	_	_	_	_	_	_
+mu	mu[year]	N	N	D	_	_	_	_	_	_
+en-unu6-gal	Enunugal[1]	PN	PN	D	_	_	_	_	_	_
+{d}inanna	Inanna[1][-ak]	DN	DN	D	_	_	_	_	_	_
+ba-hun	ba-hug[hire][-ø]	V	MID.V.3-SG-S	D	_	_	_	_	_	_
+1(u)	1(u)[ten]	NU	NU	D	B-COUNT	_	16	cardinal	_	16
+6(disz)	6(disz)[one][-sze]	NU	NU	D	I-COUNT	*	*	*	*	*

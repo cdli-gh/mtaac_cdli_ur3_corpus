@@ -1,0 +1,26 @@
+#new_text=P340233					
+FORM	SEGM	XPOSTAG	XPOSTAG	POS	?	?	?	?	?	?
+1(u)	1(u)[ten]	NU	NU	D	B-COUNT	_	16	cardinal	_	16
+6(disz)	6(disz)[one][-sze]	NU	NU	D	I-COUNT	*	*	*	*	*
+gurusz	gurusz[male]	N	N	D	B-COM	_	_	_	_	_
+u4	ud[day]	N	N	D	_	_	_	_	_	_
+5(disz)-sze3	5(disz)[one]-sze	NU	NU.TERM	D	B-COUNT	_	5	cardinal	_	5
+a-ba-mi-ni-SIG7-sze3-gi4-ta	_	N	N	POS	_	_	_	_	_	_
+kab2-ku5	kabkul[water_installation]	N	N	D	_	_	_	_	_	_
+i7	id[river]	N	N	D	_	_	_	_	_	_
+sal4-la{ki}-sze3	_	SN	SN	POS	_	_	_	_	_	_
+gi	gi[reed][-ø]	N	N	D	_	_	_	_	_	_
+ga6-ga2	gag[carry]-a	V	NF.V.PT	D	_	_	_	_	_	_
+ugula	ugula[overseer][-ø]	N	N	D	_	_	_	_	_	_
+lil-la	Lila[1][-ø]	PN	PN.ABS	D	_	_	_	_	_	_
+kiszib3	kiszib[seal]	N	N	D	_	_	_	_	_	_
+{d}szara2-he2-gal2	Szarahegal[1][-ak]	FN	PN.GEN	D	_	_	_	_	_	_
+mu	mu[year]	N	N	D	_	_	_	_	_	_
+ma2	ma[ship]	N	N	D	_	_	_	_	_	_
+dara4	_	V	V	POS	_	_	_	_	_	_
+abzu	_	PN	N	D	B-COM	_	_	_	_	_
+ba-ab-du8	ba-b-du[caulk][-ø]	V	MID.3-SG-NH-L3.V.3-SG-S	D	_	_	_	_	_	_
+{d}szara2-he2-gal2	Szarahegal[1][-ak]	FN	PN.GEN	D	_	_	_	_	_	_
+dub-sar	dubsar[scribe]	N	N	D	_	_	_	_	_	_
+dumu	dumu[child]	N	N	D	_	_	_	_	_	_
+ur-mes	Urmes[1]	PN	PN	D	_	_	_	_	_	_

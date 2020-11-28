@@ -1,0 +1,22 @@
+#new_text=P290817					
+FORM	SEGM	XPOSTAG	XPOSTAG	POS	?	?	?	?	?	?
+1(szar'u)	_	NU	NU	POS	B-COUNT	_	43800	cardinal	_	43800
+2(szar2)	2(szar)[thirty-six_hundred]	NU	NU	D	I-COUNT	*	*	*	*	*
+1(gesz'u)	1(gesz'u)[six_hundred]	NU	NU	D	I-COUNT	*	*	*	*	*
+sa	sa[bundle]	N	N	D	_	_	_	_	_	_
+gi	gi[reed][-ø]	N	N	D	_	_	_	_	_	_
+ga2-nun-na	_	DET	DET	POS	_	_	_	_	_	_
+ku4-ra	kur[enter]-a	V	NF.V.PT	D	_	_	_	_	_	_
+kiszib3	kiszib[seal]	N	N	D	_	_	_	_	_	_
+gur8-za-an	_	PN	PN	POS	_	_	_	_	_	_
+giri3	giri[foot]	N	N	D	_	_	_	_	_	_
+ku3-ga-ni	Kugani[1]	PN	PN	D	_	_	_	_	_	_
+iti	iti[month]	N	N	D	_	_	_	_	_	_
+ezem-{d}szul-gi	Ezemszulgir[1][-'a]	MN	MN.L1	D	_	_	_	_	_	_
+mu	mu[year]	N	N	D	_	_	_	_	_	_
+ki-masz{ki}	Kimasz[1]	SN	SN.ABS	D	_	_	_	_	_	_
+hu-ur5-ti	_	GN	GN	POS	_	_	_	_	_	_
+ba-hul	ba-hulu[destroy][-ø]	V	MID.V.3-SG-S	D	_	_	_	_	_	_
+gur8-za-an	_	PN	PN	POS	_	_	_	_	_	_
+dumu	dumu[child]	N	N	D	_	_	_	_	_	_
+al-la	Alla[1]	PN	PN	D	_	_	_	_	_	_

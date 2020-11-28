@@ -1,0 +1,20 @@
+#new_text=P374213					
+FORM	SEGM	XPOSTAG	XPOSTAG	POS	B-COUNT	l	2066	"dry	*	*
+6(asz)	6(asz)[one]	NU	NU	D	I-COUNT	*	*	*	sila3	2066
+4(barig)	4(bariga)[unit]	NU	N	D	I-COUNT	*	*	*	*	*
+2(ban2)	2(ban)[unit]	NU	N	D	I-COUNT	*	*	*	*	*
+6(disz)	6(disz)[one][-sze]	NU	NU	D	I-COUNT	*	*	*	*	*
+sila3	sila[unit]	N	N	D	I-COUNT	*	*	*	*	*
+ziz2	ziz[emmer]	N	N	D	B-COM	_	_	_	_	_
+gur	gur[unit]	N	N	D	_	_	_	_	_	_
+lugal	lugal[king]	N	N	D	_	_	_	_	_	_
+zi3	zid[flour]	N	N	D	_	_	_	_	_	_
+KA-sze3	KA[flour type]-sze	N	N.TERM	D	_	_	_	_	_	_
+ki	ki[place]	N	N	D	_	_	_	_	_	_
+lu2-du10-ga-ta	_	PN	PN.GEN.ABL	Iab	_	_	_	_	_	_
+kiszib3	kiszib[seal]	N	N	D	_	_	_	_	_	_
+e2-zi-mu	_	PN	PN	Iabcdefgh	_	_	_	_	_	_
+mu	mu[year]	N	N	D	_	_	_	_	_	_
+bad3	bad[wall]	N	N	D	_	_	_	_	_	_
+ma-da	mada[land][-ak][-ø]	N	N	D	_	_	_	_	_	_
+ba-du3	ba-du[build][-ø]	V	MID.V.3-SG-S	D	_	_	_	_	_	_

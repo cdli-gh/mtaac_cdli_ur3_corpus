@@ -1,0 +1,17 @@
+#new_text=P145252					
+FORM	SEGM	XPOSTAG	XPOSTAG	POS	B-COUNT	l	60	"liquid	*	*
+2(disz)	2(disz)[one]	NU	NU	D	I-COUNT	*	*	*	sila3	60
+dug	dug[pot]	N	N	D	I-COUNT	*	*	*	*	*
+a-nag	_	V	V	POS	B-COM	_	_	_	_	_
+us2	us[follow][-ø]	V	NF.V.ABS	D	_	_	_	_	_	_
+*RETOK*-capacity"	?	?	?	?	B-COUNT	l	600	"liquid	*	*
+2(u)	2(u)[ten]	NU	NU	D	I-COUNT	*	*	*	sila3	600
+dug	dug[pot]	N	N	D	I-COUNT	*	*	*	*	*
+a-nag	_	V	V	POS	_	_	_	_	_	_
+al-gaz-a	_	V	V	POS	_	_	_	_	_	_
+ur-{d}li9-si4	Urlisi[1]	PN	PN	D	_	_	_	_	_	_
+ensi2	ensik[ruler]	N	N	D	_	_	_	_	_	_
+umma{ki}	Umma[1][-ak][-ø]	SN	SN.GEN.ABS	D	_	_	_	_	_	_
+giri3	giri[foot]	N	N	D	_	_	_	_	_	_
+ukken-ne2	_	PN	PN	POS	_	_	_	_	_	_
+dub-sar	dubsar[scribe]	N	N	D	_	_	_	_	_	_

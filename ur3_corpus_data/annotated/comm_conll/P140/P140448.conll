@@ -1,0 +1,13 @@
+#new_text=P140448					
+FORM	SEGM	XPOSTAG	XPOSTAG	POS	?	?	?	?	?	?
+2(disz)	2(disz)[one]	NU	NU	D	B-COUNT	_	2	cardinal	_	2
+sa	sa[bundle]	N	N	D	_	_	_	_	_	_
+{gesz}ma-nu	manu[wood_type][-ø]	FN	N.ABS	D	_	_	_	_	_	_
+ki	ki[place]	N	N	D	_	_	_	_	_	_
+ur-e2-masz-ta	_	PN	PN	Iabcdefgh	_	_	_	_	_	_
+kiszib3	kiszib[seal]	N	N	D	_	_	_	_	_	_
+ur-{d}nu-musz-da	Urnumuszda[1][-ak][-ra]	PN	PN.GEN.DAT-H	D	_	_	_	_	_	_
+ur-{d}nu-musz-da	Urnumuszda[1][-ak][-ra]	PN	PN.GEN.DAT-H	D	_	_	_	_	_	_
+dub-sar	dubsar[scribe]	N	N	D	_	_	_	_	_	_
+dumu	dumu[child]	N	N	D	_	_	_	_	_	_
+lugal-gu4-e	_	PN	PN	Iabcdefgh	_	_	_	_	_	_

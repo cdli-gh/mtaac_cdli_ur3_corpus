@@ -1,0 +1,21 @@
+#new_text=P339562					
+FORM	SEGM	XPOSTAG	XPOSTAG	POS	?	?	?	?	?	?
+1(gesz2)	1(gesz)[sixty]	NU	NU	D	B-COUNT	_	70	cardinal	_	70
+1(u)	1(u)[ten]	NU	NU	D	I-COUNT	*	*	*	*	*
+{gesz}ma-nu	manu[wood_type][-ø]	FN	N.ABS	D	B-COM	_	_	_	_	_
+3(asz)	3(asz)[one]	NU	NU	D	B-COUNT	g	105000.00000000001	weight	gin2	12600.0
+1/2(asz)	_	NU	NU	Iabcde	I-COUNT	*	*	*	*	*
+gu2	gun[unit]	N	N	D	I-COUNT	*	*	*	*	*
+gesz-muru13	_	PN	PN	POS	_	_	_	_	_	_
+ki	ki[place]	N	N	D	B-COM	_	_	_	_	_
+e2-ur2-bi-du10-ta	E'urbidu[1][-ak]-ta	PN	PN.GEN.ABL	D	_	_	_	_	_	_
+kiszib3	kiszib[seal]	N	N	D	_	_	_	_	_	_
+ur-su4	_	N	N	POS	_	_	_	_	_	_
+sza3	szag[heart]	N	N	D	_	_	_	_	_	_
+nibru{ki}	Nibru[1][-'a]	SN	SN.GEN.ABS	D	_	_	_	_	_	_
+mu	mu[year]	N	N	D	_	_	_	_	_	_
+{d}i-bi2-{d}suen	Ibbisuen[1]	RN	RN	D	_	_	_	_	_	_
+lugal	lugal[king]	N	N	D	_	_	_	_	_	_
+ur-su4	_	N	N	POS	_	_	_	_	_	_
+dumu	dumu[child]	N	N	D	_	_	_	_	_	_
+ur-{gesz}gigir	Urgigir[1]	PN	PN	D	_	_	_	_	_	_

@@ -1,0 +1,23 @@
+#new_text=P119422					
+FORM	SEGM	XPOSTAG	XPOSTAG	POS	?	?	?	?	?	?
+4(barig)	4(bariga)[unit]	NU	N	D	B-COUNT	*	*	*	*	*
+sze	sze[barley]	N	N	D	I-COUNT	*	*	*	*	*
+zi3	zid[flour]	N	N	D	B-COM	_	_	_	_	_
+gu2-na	gun[tax]-ak[-ø]	N	N.GEN	D	_	_	_	_	_	_
+ki	ki[place]	N	N	D	_	_	_	_	_	_
+nig2-tuku-in-na-ab-du7-ta	_	PN	PN	POS	_	_	_	_	_	_
+kiszib3	kiszib[seal]	N	N	D	_	_	_	_	_	_
+ba-zi-ge	_	PN	PN.GEN.DAT-H	Iabcdefg	_	_	_	_	_	_
+dumu	dumu[child]	N	N	D	_	_	_	_	_	_
+lu2-ga	Luga[1][-ak]	PN	PN.GEN	D	_	_	_	_	_	_
+iti	iti[month]	N	N	D	_	_	_	_	_	_
+sze-kar-gal2	_	MN	MN.L1	Iabcdefgh	_	_	_	_	_	_
+mu	mu[year]	N	N	D	_	_	_	_	_	_
+{d}szu-{d}suen	Szusuen[1]	RN	RN	D	_	_	_	_	_	_
+lugal-e	lugal[king]-e	N	N.ERG	D	_	_	_	_	_	_
+ma-da	mada[land][-ak][-ø]	N	N	D	_	_	_	_	_	_
+za-ab-sza-li	_	PN	PN	Iabcdefgh	_	_	_	_	_	_
+mu-hul	mu[-n]-hulu[destroy][-ø]	V	VEN.3-SG-H-A.V.3-SG-P	D	_	_	_	_	_	_
+ba-zi-ge	_	PN	PN.GEN.DAT-H	Iabcdefg	_	_	_	_	_	_
+dumu	dumu[child]	N	N	D	_	_	_	_	_	_
+lu2-ga	Luga[1][-ak]	PN	PN.GEN	D	_	_	_	_	_	_

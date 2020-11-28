@@ -1,0 +1,22 @@
+#new_text=P218271					
+FORM	SEGM	XPOSTAG	XPOSTAG	POS	?	?	?	?	?	?
+1(gesz2)	1(gesz)[sixty]	NU	NU	D	B-COUNT	_	94	cardinal	_	94
+3(u)	3(u)[ten]	NU	NU	D	I-COUNT	*	*	*	*	*
+4(disz)	4(disz)[one]	NU	NU	D	I-COUNT	*	*	*	*	*
+gu4	gud[ox]	N	N	D	B-COM	_	_	_	_	_
+3(u)	3(u)[ten]	NU	NU	D	B-COUNT	_	32	cardinal	_	32
+2(disz)	2(disz)[one]	NU	NU	D	I-COUNT	*	*	*	*	*
+ab2	ab[cow][-ø]	N	N	D	_	_	_	_	_	_
+gu4	gud[ox]	N	N	D	_	_	_	_	_	_
+gir2-su{ki}-ta	Girsu[1][-ak][-ak]-ta	SN	SN.GEN.GEN.ABL	D	_	_	_	_	_	_
+gen-na	gen[go]-a	V	NF.V.PT	D	_	_	_	_	_	_
+ki	ki[place]	N	N	D	_	_	_	_	_	_
+nam-ha-ni-ta	Namhani[1][-ak]-ta	PN	PN.GEN.ABL	D	_	_	_	_	_	_
+{d}en-lil2-la2	Enlil[1][-ak][-ø]	DN	DN.GEN	D	_	_	_	_	_	_
+i3-dab5	i[-n]-dab[seize][-ø]	V	FIN.3-SG-H-A.V.3-SG-P	D	_	_	_	_	_	_
+iti	iti[month]	N	N	D	_	_	_	_	_	_
+szu-esz-sza	Szu'eszsza[1][-'a]	MN	MN.L1	D	_	_	_	_	_	_
+mu	mu[year]	N	N	D	_	_	_	_	_	_
+us2-sa	us[follow]-a	V	NF.V.PT	D	_	_	_	_	_	_
+ki-masz{ki}	Kimasz[1]	SN	SN.ABS	D	_	_	_	_	_	_
+ba-hul	ba-hulu[destroy][-ø]	V	MID.V.3-SG-S	D	_	_	_	_	_	_

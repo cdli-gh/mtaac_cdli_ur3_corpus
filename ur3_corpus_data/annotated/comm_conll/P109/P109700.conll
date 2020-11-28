@@ -1,0 +1,24 @@
+#new_text=P109700					
+FORM	SEGM	XPOSTAG	XPOSTAG	POS	?	?	?	?	?	?
+5(disz)	5(disz)[one]	NU	NU	D	B-COUNT	_	5	cardinal	_	5
+ud5	uzud[goat]	N	N	D	B-COM	_	_	_	_	_
+szimaszgi	szimaszigi[sheep_designation][-ø]	N	N	D	_	_	_	_	_	_
+1(disz)	1(disz)[one]	NU	NU	D	B-COUNT	_	1	cardinal	_	1
+ud5	uzud[goat]	N	N	D	B-COM	_	_	_	_	_
+a-dara4	_	N	N	POS	_	_	_	_	_	_
+szu-gid2	szugid[animal_designation][-ø]	N	N	D	_	_	_	_	_	_
+e2-muhaldim-sze3	emuhaldim[kitchen]-sze	PN	N.TERM	D	_	_	_	_	_	_
+iti	iti[month]	N	N	D	_	_	_	_	_	_
+u4	ud[day]	N	N	D	_	_	_	_	_	_
+2(u)	2(u)[ten]	NU	NU	D	B-COUNT	_	22	cardinal	_	22
+2(disz)	2(disz)[one]	NU	NU	D	I-COUNT	*	*	*	*	*
+ba-zal	ba-zal[pass][-ø][-a][-'a]	V	MID.V.3-SG-S.SUB	D	_	_	_	_	_	_
+ki	ki[place]	N	N	D	_	_	_	_	_	_
+tu-ra-am-{d}da-gan-ta	_	PN	PN.GEN.ABL	Iab	_	_	_	_	_	_
+ba-zi	ba-zig[expend][-ø]	PN	MID.V.3-SG-S	D	_	_	_	_	_	_
+iti	iti[month]	N	N	D	_	_	_	_	_	_
+u5-bi2-gu7	Ubigu[1][-'a]	MN	MN.L1	D	_	_	_	_	_	_
+mu	mu[year]	N	N	D	_	_	_	_	_	_
+sza-asz-ru{ki}	Szaszru[1][-ø]	SN	SN.ABS	D	_	_	_	_	_	_
+ba-hul	ba-hulu[destroy][-ø]	V	MID.V.3-SG-S	D	_	_	_	_	_	_
+6(disz)	6(disz)[one][-sze]	NU	NU	D	B-COUNT	_	6	cardinal	_	6

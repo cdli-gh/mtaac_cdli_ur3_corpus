@@ -1,0 +1,19 @@
+#new_text=P413840					
+FORM	SEGM	XPOSTAG	XPOSTAG	POS	?	?	?	?	?	?
+1(disz)	1(disz)[one]	NU	NU	D	B-COUNT	_	1	cardinal	_	1
+ARAD2-mu	Aradmu[1]	PN	PN	D	_	_	_	_	_	_
+1(disz)	1(disz)[one]	NU	NU	D	B-COUNT	_	1	cardinal	_	1
+lu2-{d}asznan	_	PN	PN.GEN.DAT-H	Iabcdefg	_	_	_	_	_	_
+1(disz)	1(disz)[one]	NU	NU	D	B-COUNT	_	1	cardinal	_	1
+a-tu	Atu[1][-ak]	PN	PN	D	_	_	_	_	_	_
+1(disz)	1(disz)[one]	NU	NU	D	B-COUNT	_	1	cardinal	_	1
+lu2-{d}nin-szubur	Luninszubur[1][-ra]	PN	PN	D	_	_	_	_	_	_
+1(disz)	1(disz)[one]	NU	NU	D	B-COUNT	_	1	cardinal	_	1
+ur-mes	Urmes[1]	PN	PN	D	_	_	_	_	_	_
+1(disz)	1(disz)[one]	NU	NU	D	B-COUNT	_	1	cardinal	_	1
+lu2-{d}nin-gir2-su	Luningirsu[1]	PN	PN	D	_	_	_	_	_	_
+dumu	dumu[child]	N	N	D	_	_	_	_	_	_
+ba-zi	ba-zig[expend][-ø]	PN	MID.V.3-SG-S	D	_	_	_	_	_	_
+...	_[_]	PN	N	D	_	_	_	_	_	_
+nig2-ka9-bi	_	N	N.ABS	Iabcdef	_	_	_	_	_	_
+nu-ak-me	_	V	V	POS	_	_	_	_	_	_

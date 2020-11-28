@@ -1,0 +1,18 @@
+#new_text=P121693					
+FORM	SEGM	XPOSTAG	XPOSTAG	POS	?	?	?	?	?	?
+n	_(_)[_]	NU	NU	D	_	_	_	_	_	_
+5(asz)	5(asz)[one]	NU	NU	D	B-COUNT	_	5	cardinal	_	5
+ku6-sze6	kusze[cooked_fish]	N	N	D	_	_	_	_	_	_
+gur	gur[unit]	N	N	D	_	_	_	_	_	_
+n	_(_)[_]	NU	NU	D	_	_	_	_	_	_
+1(u)	1(u)[ten]	NU	NU	D	B-COUNT	_	10	cardinal	_	10
+ku6	kud[fish]	N	N	D	B-COM	_	_	_	_	_
+gam-gam	_	V	V	POS	_	_	_	_	_	_
+ku6-a-du10-ga	_	PN	PN	POS	_	_	_	_	_	_
+ur-e11-e	Ure'e[1][-ak]	PN	PN	D	_	_	_	_	_	_
+szu	szu[hand][-e]	N	N.L3-NH	D	_	_	_	_	_	_
+ba-an-ti	ba-n-teg[accept][-ø]	V	MID.3-SG-H-A.V.3-SG-P	D	_	_	_	_	_	_
+mu	mu[year]	N	N	D	_	_	_	_	_	_
+en-unu6-gal	Enunugal[1]	PN	PN	D	_	_	_	_	_	_
+{d}inanna	Inanna[1][-ak]	DN	DN	D	_	_	_	_	_	_
+ba-hun	ba-hug[hire][-ø]	V	MID.V.3-SG-S	D	_	_	_	_	_	_

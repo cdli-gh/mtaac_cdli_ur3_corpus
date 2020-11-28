@@ -1,0 +1,13 @@
+
+#new_text=P333131	?	?	?	?	B-COUNT	l	540	"dry	*	*
+FORM	SEGM	XPOSTAG	XPOSTAG	POS	I-COUNT	?	?	?	?	?
+1(asz)	1(asz)[one]	NU	NU	D	I-COUNT	*	*	*	sila3	540
+4(barig)	4(bariga)[unit]	NU	N	D	I-COUNT	*	*	*	*	*
+zi3	zid[flour]	N	N	D	B-COM	_	_	_	_	_
+sig15	sig[flour_type]	V	N	D	_	_	_	_	_	_
+nin	_	N	N	D	_	_	_	_	_	_
+x-ki	_	PN	PN	POS	_	_	_	_	_	_
+x-{d}suen	_	PN	PN	POS	_	_	_	_	_	_
+dumu	dumu[child]	N	N	D	_	_	_	_	_	_
+x-x-x	_[1]	PN	PN	D	_	_	_	_	_	_
+x-x-x	_[1]	PN	PN	D	_	_	_	_	_	_

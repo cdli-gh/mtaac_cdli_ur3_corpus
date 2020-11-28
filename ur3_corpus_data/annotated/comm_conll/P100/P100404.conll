@@ -1,0 +1,17 @@
+#new_text=P100404					
+FORM	SEGM	XPOSTAG	XPOSTAG	POS	?	?	?	?	?	?
+1(u)	1(u)[ten]	NU	NU	D	B-COUNT	_	10	cardinal	_	10
+sa	sa[bundle]	N	N	D	_	_	_	_	_	_
+gi	gi[reed][-ø]	N	N	D	_	_	_	_	_	_
+u2-a-li-li	_	PN	PN	Iabcde	_	_	_	_	_	_
+lu2	lu[person]	N	N	D	_	_	_	_	_	_
+ki-masz{ki}	Kimasz[1]	SN	SN.ABS	D	_	_	_	_	_	_
+szu-a	_	N	N	POS	_	_	_	_	_	_
+gi-na	gina[dues]	PN	N	D	_	_	_	_	_	_
+u4	ud[day]	N	N	D	_	_	_	_	_	_
+1(u)-kam	1(u)[ten]-ak-am	NU	NU.GEN.COP-3-SG	D	B-COUNT	_	10	cardinal	_	10
+a-kal-la	Akala[1]	PN	PN	D	_	_	_	_	_	_
+dub-sar	dubsar[scribe]	N	N	D	_	_	_	_	_	_
+dumu	dumu[child]	N	N	D	_	_	_	_	_	_
+ur-nigar{gar}	Urnigar[1]	PN	PN	D	_	_	_	_	_	_
+szusz3	kusz[cattle_manager][-ak]	N	N.GEN	D	_	_	_	_	_	_

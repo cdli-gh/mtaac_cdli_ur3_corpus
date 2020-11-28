@@ -1,0 +1,25 @@
+#new_text=P121684					
+FORM	SEGM	XPOSTAG	XPOSTAG	POS	?	?	?	?	?	?
+...	_[_]	PN	N	D	_	_	_	_	_	_
+nu-ur2-{d}suen	_	PN	PN	D	_	_	_	_	_	_
+...	_[_]	PN	N	D	_	_	_	_	_	_
+x	_[_]	N	N	D	_	_	_	_	_	_
+puzur4-{d}u3-gur	_	PN	PN.GEN.GEN	Iabcdef	_	_	_	_	_	_
+...	_[_]	PN	N	D	_	_	_	_	_	_
+szu-esz18-dar	Szu'eszdar[1][-ak]	PN	PN	D	_	_	_	_	_	_
+...	_[_]	PN	N	D	_	_	_	_	_	_
+...	_[_]	PN	N	D	_	_	_	_	_	_
+{d}en-lil2-la2	Enlil[1][-ak][-ø]	DN	DN.GEN	D	_	_	_	_	_	_
+...	_[_]	PN	N	D	_	_	_	_	_	_
+*RETOK*-capacity"	?	?	?	?	B-COUNT	l	1390	"dry	*	*
+4(asz)	4(asz)[one]	NU	NU	D	I-COUNT	*	*	*	sila3	1390
+3(barig)	3(bariga)[unit]	NU	N	D	I-COUNT	*	*	*	*	*
+1(ban2)	1(ban)[unit]	NU	N	D	I-COUNT	*	*	*	*	*
+zu2-lum	zulum[date]	N	N	D	B-COM	_	_	_	_	_
+gur	gur[unit]	N	N	D	_	_	_	_	_	_
+iti	iti[month]	N	N	D	_	_	_	_	_	_
+ab-e3	_	MN	MN	POS	_	_	_	_	_	_
+mu	mu[year]	N	N	D	_	_	_	_	_	_
+bad3-gal	badgal[great_wall][-ø]	N	N.ABS	D	_	_	_	_	_	_
+nibru{ki}	Nibru[1][-'a]	SN	SN.GEN.ABS	D	_	_	_	_	_	_
+ba-du3	ba-du[build][-ø]	V	MID.V.3-SG-S	D	_	_	_	_	_	_

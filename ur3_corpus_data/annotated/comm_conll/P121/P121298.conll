@@ -1,0 +1,21 @@
+#new_text=P121298					
+FORM	SEGM	XPOSTAG	XPOSTAG	POS	?	?	?	?	?	?
+5(gesz'u)	5(gesz'u)[six_hundred]	NU	NU	D	B-COUNT	_	3462	cardinal	_	3462
+7(gesz2)	7(gesz)[sixty]	NU	NU	D	I-COUNT	*	*	*	*	*
+4(u)	4(u)[ten]	NU	NU	D	I-COUNT	*	*	*	*	*
+2(disz)	2(disz)[one]	NU	NU	D	I-COUNT	*	*	*	*	*
+{gesz}geszimmar	gesznimbar[palm]	PN	N	D	B-COM	_	_	_	_	_
+x	_[_]	N	N	D	_	_	_	_	_	_
+*RETOK*-capacity"	?	?	?	?	B-COUNT	l	10385	"dry	*	*
+3(u)	3(u)[ten]	NU	NU	D	I-COUNT	*	*	*	sila3	10385
+4(asz)	4(asz)[one]	NU	NU	D	I-COUNT	*	*	*	*	*
+3(barig)	3(bariga)[unit]	NU	N	D	I-COUNT	*	*	*	*	*
+5(disz)	5(disz)[one]	NU	NU	D	I-COUNT	*	*	*	*	*
+sila3	sila[unit]	N	N	D	I-COUNT	*	*	*	*	*
+gur	gur[unit]	N	N	D	I-COUNT	*	*	*	*	*
+zu2-lum-bi	_	N	N.3-SG-NH-POSS.ABS	Iabcde	B-COM	_	_	_	_	_
+mu-kux(KWU636)	_	N	N	POS	_	_	_	_	_	_
+ki-nibru{ki}-da-lu2	_	PN	PN.DAT-H	Ia	_	_	_	_	_	_
+mu	mu[year]	N	N	D	_	_	_	_	_	_
+{d}amar-{d}suen(EN-E2)	_	RN	RN	Iabcde	_	_	_	_	_	_
+lugal	lugal[king]	N	N	D	_	_	_	_	_	_

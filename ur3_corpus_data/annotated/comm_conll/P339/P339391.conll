@@ -1,0 +1,25 @@
+#new_text=P339391					
+FORM	SEGM	XPOSTAG	XPOSTAG	POS	?	?	?	?	?	?
+1(u)	1(u)[ten]	NU	NU	D	B-COUNT	_	17	cardinal	_	17
+7(disz)	7(disz)[one][-sze]	NU	NU	D	I-COUNT	*	*	*	*	*
+u8	u[ewe]	N	N	D	B-COM	_	_	_	_	_
+1(u)	1(u)[ten]	NU	NU	D	B-COUNT	_	11	cardinal	_	11
+1(disz)	1(disz)[one]	NU	NU	D	I-COUNT	*	*	*	*	*
+sila4	sila[lamb]	N	N	D	_	_	_	_	_	_
+6(disz)	6(disz)[one][-sze]	NU	NU	D	B-COUNT	_	6	cardinal	_	6
+masz2	masz[goat]	N	N	D	_	_	_	_	_	_
+ri-ri-ga	deg[collect]-a	V	NF.V.PT	D	_	_	_	_	_	_
+giri3	giri[foot]	N	N	D	_	_	_	_	_	_
+ur-{d}suen	Ursuen[1]	PN	PN	D	_	_	_	_	_	_
+szesz	szesz[brother]	N	N	D	_	_	_	_	_	_
+...	_[_]	PN	N	D	_	_	_	_	_	_
+ki	ki[place]	N	N	D	B-COM	_	_	_	_	_
+kas4-ta	Kas[1][-ak]-ta	PN	PN.GEN.ABL	D	_	_	_	_	_	_
+mu	mu[year]	N	N	D	_	_	_	_	_	_
+en	en[priest]	N	N	D	_	_	_	_	_	_
+...	_[_]	PN	N	D	_	_	_	_	_	_
+nam-erim2-bi	_	N	N.ABS	Iabcdef	_	_	_	_	_	_
+ba-ku5	_	PN	PN	POS	_	_	_	_	_	_
+mu	mu[year]	N	N	D	_	_	_	_	_	_
+{d}szu-{d}suen	Szusuen[1]	RN	RN	D	_	_	_	_	_	_
+lugal	lugal[king]	N	N	D	_	_	_	_	_	_

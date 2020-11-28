@@ -1,0 +1,16 @@
+#new_text=P126552					
+FORM	SEGM	XPOSTAG	XPOSTAG	POS	?	?	?	?	?	?
+1(gesz'u)	1(gesz'u)[six_hundred]	NU	NU	D	B-COUNT	_	616	cardinal	_	616
+1(u)	1(u)[ten]	NU	NU	D	I-COUNT	*	*	*	*	*
+6(disz)	6(disz)[one][-sze]	NU	NU	D	I-COUNT	*	*	*	*	*
+udu	udu[sheep]	N	N	D	B-COM	_	_	_	_	_
+kar2-har{ki}	_	GN	SN.GEN	D	_	_	_	_	_	_
+1(gesz2)	1(gesz)[sixty]	NU	NU	D	B-COUNT	_	72	cardinal	_	72
+1(u)	1(u)[ten]	NU	NU	D	I-COUNT	*	*	*	*	*
+2(disz)	2(disz)[one]	NU	NU	D	I-COUNT	*	*	*	*	*
+udu	udu[sheep]	N	N	D	B-COM	_	_	_	_	_
+sa-bu-um{ki}	_	GN	SN	D	_	_	_	_	_	_
+5(u)	5(u)[ten]	NU	NU	D	B-COUNT	_	56	cardinal	_	56
+6(disz)	6(disz)[one][-sze]	NU	NU	D	I-COUNT	*	*	*	*	*
+udu	udu[sheep]	N	N	D	B-COM	_	_	_	_	_
+kasz-de2-a	kaszdea[banquet][-sze]	N	N	D	_	_	_	_	_	_

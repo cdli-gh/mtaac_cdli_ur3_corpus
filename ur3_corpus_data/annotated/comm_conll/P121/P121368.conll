@@ -1,0 +1,20 @@
+#new_text=P121368					
+FORM	SEGM	XPOSTAG	XPOSTAG	POS	?	?	?	?	?	?
+2(disz)	2(disz)[one]	NU	NU	D	B-COUNT	_	2	cardinal	_	2
+ab2-mah2	abmah[mature_cow]	N	N	D	_	_	_	_	_	_
+5(disz)	5(disz)[one]	NU	NU	D	B-COUNT	_	5	cardinal	_	5
+gu4-gesz	gudgesz[draught_ox]	N	N.ABS	D	_	_	_	_	_	_
+ki	ki[place]	N	N	D	B-COM	_	_	_	_	_
+ur-{d}szul-pa-e3-ta	Urszulpa'e[1][-ak]-ta	PN	PN.GEN.ABL	D	_	_	_	_	_	_
+ma-an-gu-ul	_	PN	PN	Iabc	_	_	_	_	_	_
+i3-dab5	i[-n]-dab[seize][-ø]	V	FIN.3-SG-H-A.V.3-SG-P	D	_	_	_	_	_	_
+mu	mu[year]	N	N	D	_	_	_	_	_	_
+{d}szu-{d}suen	Szusuen[1]	RN	RN	D	_	_	_	_	_	_
+lugal	lugal[king]	N	N	D	_	_	_	_	_	_
+uri5-ma{ki}	Urim[1][-ak][-e]	GN	SN.GEN.ERG	D	_	_	_	_	_	_
+ma-da	mada[land][-ak][-ø]	N	N	D	_	_	_	_	_	_
+za-ab-sza-li{ki}	Zabszali[1][-ak][-ø]	GN	SN.GEN.ABS	D	_	_	_	_	_	_
+mu-hul	mu[-n]-hulu[destroy][-ø]	V	VEN.3-SG-H-A.V.3-SG-P	D	_	_	_	_	_	_
+ur-{d}lamma	Urlamma[1]	PN	PN	D	_	_	_	_	_	_
+dumu	dumu[child]	N	N	D	_	_	_	_	_	_
+hu-x	[1].[-ra]	PN	PN.DAT-H	D	_	_	_	_	_	_

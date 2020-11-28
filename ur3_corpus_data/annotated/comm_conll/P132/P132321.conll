@@ -1,0 +1,24 @@
+#new_text=P132321					
+FORM	SEGM	XPOSTAG	XPOSTAG	POS	?	?	?	?	?	?
+7(disz)	7(disz)[one][-sze]	NU	NU	D	B-COUNT	_	7	cardinal	_	7
+{gesz}u3-suh5	usuh[tree]	N	N	D	B-COM	_	_	_	_	_
+ba-gul	_	V	V	POS	_	_	_	_	_	_
+sza3-ba	szag[heart]-bi-'a	N	N.3-SG-NH-POSS.L1	D	_	_	_	_	_	_
+8(disz)	8(disz)[one]	NU	NU	D	B-COUNT	_	8	cardinal	_	8
+{gesz}a-si-ig	_	N	N	Ia	B-COM	_	_	_	_	_
+1(disz)	1(disz)[one]	NU	NU	D	B-COUNT	_	1	cardinal	_	1
+{gesz}u3-suh5	usuh[tree]	N	N	D	_	_	_	_	_	_
+ba-an-gar	_	V	MID.L1-SYN.V.3-SG-S	Iabcdefg	_	_	_	_	_	_
+ki	ki[place]	N	N	D	B-COM	_	_	_	_	_
+nam-mah-ta	_	PN	PN	Ia	_	_	_	_	_	_
+e2	e[house]	N	N	D	_	_	_	_	_	_
+{d}szu-{d}suen-sze3	Szusuen[1][-ak][-ak]-sze	DN	RN.GEN.GEN.TERM	D	_	_	_	_	_	_
+kiszib3	kiszib[seal]	N	N	D	_	_	_	_	_	_
+lu2-{d}gu3-de2-a	_	PN	PN	Iabcde	_	_	_	_	_	_
+mu	mu[year]	N	N	D	_	_	_	_	_	_
+si-ma-num2{ki}	Simanum[1][-ø]	GN	SN.ABS	D	_	_	_	_	_	_
+ba-hul	ba-hulu[destroy][-ø]	V	MID.V.3-SG-S	D	_	_	_	_	_	_
+lu2-{d}gu3-de2-a	_	PN	PN	Iabcde	_	_	_	_	_	_
+dub-sar	dubsar[scribe]	N	N	D	_	_	_	_	_	_
+dumu	dumu[child]	N	N	D	_	_	_	_	_	_
+ur-mes	Urmes[1]	PN	PN	D	_	_	_	_	_	_

@@ -1,0 +1,24 @@
+#new_text=P337322					
+FORM	SEGM	XPOSTAG	XPOSTAG	POS	?	?	?	?	?	?
+5(disz)	5(disz)[one]	NU	NU	D	B-COUNT	_	5	cardinal	_	5
+{gi}kaskal	kaskal[travel_basket]	N	N	D	B-COM	_	_	_	_	_
+*RETOK*-capacity"	?	?	?	?	B-COUNT	l	60	"dry	*	*
+1(barig)-ta	bariga[unit]-ta	NU	N.ABL	D	I-COUNT	*	*	*	sila3	60
+e2	e[house]	N	N	D	_	_	_	_	_	_
+zi-ga	zig[expend]-a	V	NF.V.PT	D	_	_	_	_	_	_
+didli-sze3	_	PN	PN	POS	_	_	_	_	_	_
+ki	ki[place]	N	N	D	B-COM	_	_	_	_	_
+a-gu-ta	Agu[1][-ak]-ta	PN	PN.GEN.ABL	D	_	_	_	_	_	_
+kiszib3	kiszib[seal]	N	N	D	_	_	_	_	_	_
+i3-kal-la	Ikala[1][-ak]	PN	PN	D	_	_	_	_	_	_
+u4	ud[day]	N	N	D	_	_	_	_	_	_
+6(disz)-kam	6(disz)[one]-ak-am	NU	NU.GEN.COP-3-SG	D	B-COUNT	_	6	cardinal	_	6
+iti	iti[month]	N	N	D	_	_	_	_	_	_
+szu-numun-na	_	MN	MN	POS	_	_	_	_	_	_
+mu	mu[year]	N	N	D	_	_	_	_	_	_
+us2-sa	us[follow]-a	V	NF.V.PT	D	_	_	_	_	_	_
+si-ma-num2{ki}	Simanum[1][-ø]	GN	SN.ABS	D	_	_	_	_	_	_
+i3-kal-la	Ikala[1][-ak]	PN	PN	D	_	_	_	_	_	_
+dub-sar	dubsar[scribe]	N	N	D	_	_	_	_	_	_
+dumu	dumu[child]	N	N	D	_	_	_	_	_	_
+lugal-x-...	_	PN	PN.DAT-H	Iabcdefgh	_	_	_	_	_	_

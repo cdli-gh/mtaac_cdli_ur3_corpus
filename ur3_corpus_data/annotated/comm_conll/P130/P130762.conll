@@ -1,0 +1,24 @@
+#new_text=P130762					
+FORM	SEGM	XPOSTAG	XPOSTAG	POS	?	?	?	?	?	?
+5(u)	5(u)[ten]	NU	NU	D	B-COUNT	_	49	cardinal	_	49
+la2	la[hang][-ø]	V	NF.V.ABS	D	I-COUNT	*	*	*	*	*
+1(disz)	1(disz)[one]	NU	NU	D	I-COUNT	*	*	*	*	*
+geme2	geme[female_worker]	N	N	D	_	_	_	_	_	_
+u4	ud[day]	N	N	D	_	_	_	_	_	_
+1(disz)-sze3	1(disz)[one]-sze	NU	NU.TERM	D	B-COUNT	_	1	cardinal	_	1
+szah2	szah[pig][-ak]	N	N	D	B-COM	_	_	_	_	_
+niga	niga[fattened][-ø]	V	NF.V.ABS	D	_	_	_	_	_	_
+kasz-de2-a	kaszdea[banquet][-sze]	N	N	D	_	_	_	_	_	_
+gub-ba	gub[assigned]-a[-ak][-ø]	V	NF.V.PT	D	_	_	_	_	_	_
+ki	ki[place]	N	N	D	_	_	_	_	_	_
+szesz-saga-ta	_	PN	PN.GEN.ABL	Iabcdefg	_	_	_	_	_	_
+kiszib3	kiszib[seal]	N	N	D	_	_	_	_	_	_
+sza3-ku3-ge	Szakuge[1][-e]	PN	PN.ERG	D	_	_	_	_	_	_
+mu	mu[year]	N	N	D	_	_	_	_	_	_
+{d}amar-{d}suen	Amarsuen[1]	RN	RN	D	_	_	_	_	_	_
+lugal	lugal[king]	N	N	D	_	_	_	_	_	_
+sza3-ku3-ge	Szakuge[1][-e]	PN	PN.ERG	D	_	_	_	_	_	_
+dumu	dumu[child]	N	N	D	_	_	_	_	_	_
+he2-sa6	Hesa[1]	PN	PN	D	_	_	_	_	_	_
+iszib	iszib[priest]	N	N	D	_	_	_	_	_	_
+{d}hendur-sag	Hendursag[1]	PN	DN	D	_	_	_	_	_	_

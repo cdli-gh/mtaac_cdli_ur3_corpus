@@ -1,0 +1,23 @@
+#new_text=P291655					
+FORM	SEGM	XPOSTAG	XPOSTAG	POS	?	?	?	?	?	?
+1(gesz2)	1(gesz)[sixty]	NU	NU	D	B-COUNT	_	60	cardinal	_	60
+ku6	kud[fish]	N	N	D	B-COM	_	_	_	_	_
+kun-zi	_	N	N	POS	_	_	_	_	_	_
+1(gesz2)	1(gesz)[sixty]	NU	NU	D	B-COUNT	_	90	cardinal	_	90
+3(u)	3(u)[ten]	NU	NU	D	I-COUNT	*	*	*	*	*
+ku6	kud[fish]	N	N	D	_	_	_	_	_	_
+a-sar-UD	_	PN	PN	POS	_	_	_	_	_	_
+3(u)	3(u)[ten]	NU	NU	D	B-COUNT	g	900000.0000000001	weight	gin2	108000
+gu2	gun[unit]	N	N	D	I-COUNT	*	*	*	*	*
+sar-gaz	_	V	V	POS	_	_	_	_	_	_
+*RETOK*-capacity"	?	?	?	?	B-COUNT	l	9.259259259259259e-05	"dry	*	*
+1(asz)	1(asz)[one]	NU	NU	D	I-COUNT	*	*	*	sila3	9.259259259259259e-05
+sze	sze[barley]	N	N	D	I-COUNT	*	*	*	*	*
+gur	gur[unit]	N	N	D	I-COUNT	*	*	*	*	*
+sza3	szag[heart]	N	N	D	_	_	_	_	_	_
+uri5{ki}-ma-ka	_	GN	SN.GEN.GEN.ABS	D	_	_	_	_	_	_
+ki	ki[place]	N	N	D	B-COM	_	_	_	_	_
+ur-nigar{gar}-ta	Urnigar[1][-ak]-ta	PN	PN.GEN.ABL	D	_	_	_	_	_	_
+dingir-ra-ke4	_	PN	PN.GEN	Iabcdef	_	_	_	_	_	_
+szu	szu[hand][-e]	N	N.L3-NH	D	_	_	_	_	_	_
+ba-ti	ba[-n]-teg[accept][-ø]	V	MID.3-SG-H-A.V.3-SG-P	D	_	_	_	_	_	_

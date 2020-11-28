@@ -1,0 +1,25 @@
+#new_text=P110695					
+FORM	SEGM	XPOSTAG	XPOSTAG	POS	?	?	?	?	?	?
+n	_(_)[_]	NU	NU	D	_	_	_	_	_	_
+*RETOK*-capacity"	?	?	?	?	B-COUNT	l	6534	"dry	*	*
+2(u)	2(u)[ten]	NU	NU	D	I-COUNT	*	*	*	sila3	6534
+1(asz)	1(asz)[one]	NU	NU	D	I-COUNT	*	*	*	*	*
+3(barig)	3(bariga)[unit]	NU	N	D	I-COUNT	*	*	*	*	*
+5(ban2)	5(ban)[unit]	NU	N	D	I-COUNT	*	*	*	*	*
+4(disz)	4(disz)[one]	NU	NU	D	I-COUNT	*	*	*	*	*
+sila3	sila[unit]	N	N	D	I-COUNT	*	*	*	*	*
+kiszib3	kiszib[seal]	N	N	D	_	_	_	_	_	_
+tuku	tuku[acquire][-a]	V	NF.V.PT	D	_	_	_	_	_	_
+n	_(_)[_]	NU	NU	D	_	_	_	_	_	_
+*RETOK*-capacity"	?	?	?	?	B-COUNT	l	2160	"dry	*	*
+7(asz)	7(asz)[one]	NU	NU	D	I-COUNT	*	*	*	sila3	2160
+1(barig)	1(bariga)[unit]	NU	N	D	I-COUNT	*	*	*	*	*
+kiszib3	kiszib[seal]	N	N	D	_	_	_	_	_	_
+nu-tuku	nu-tuku[acquire][-a]	V	NEG.NF.V.PT	D	_	_	_	_	_	_
+kiszib3	kiszib[seal]	N	N	D	_	_	_	_	_	_
+sig4-zi	_	PN	PN	POS	_	_	_	_	_	_
+lu2	lu[person]	N	N	D	_	_	_	_	_	_
+zi-gum2	_	PN	PN	POS	_	_	_	_	_	_
+u3	u[and]	CNJ	CNJ	D	B-COM	_	_	_	_	_
+sipa	sipa[shepherd]	N	N	D	_	_	_	_	_	_
+szaganx(AMA){gan}-me	_	N	N	POS	_	_	_	_	_	_

@@ -1,0 +1,27 @@
+#new_text=P143965					
+FORM	SEGM	XPOSTAG	XPOSTAG	POS	?	?	?	?	?	?
+6(disz)	6(disz)[one][-sze]	NU	NU	D	B-COUNT	_	6	cardinal	_	6
+{gesz}ban	_	N	N	Ia	B-COM	_	_	_	_	_
+mi-ri2-za	_	V	VEN.L1.3-SG-H-A.V.3-SG-P.SUB.L1	Iabcdefghi	_	_	_	_	_	_
+1(u)	1(u)[ten]	NU	NU	D	B-COUNT	_	13	cardinal	_	13
+3(disz)	3(disz)[one]	NU	NU	D	I-COUNT	*	*	*	*	*
+{gesz}gi-musz	_	N	N	POS	_	_	_	_	_	_
+1(u)	1(u)[ten]	NU	NU	D	B-COUNT	_	12	cardinal	_	12
+2(disz)	2(disz)[one]	NU	NU	D	I-COUNT	*	*	*	*	*
+{gesz}mi-ri2-za	_	N	N	Ia	_	_	_	_	_	_
+1(u)	1(u)[ten]	NU	NU	D	B-COUNT	_	13	cardinal	_	13
+3(disz)	3(disz)[one]	NU	NU	D	I-COUNT	*	*	*	*	*
+{gesz}bad	_	N	N	POS	_	_	_	_	_	_
+{gesz}kiri6	kiri[orchard][-'a][-ø]	N	N	D	_	_	_	_	_	_
+ka-ma-ri2{ki}-ta	_	SN	SN	POS	_	_	_	_	_	_
+e2-gal	egal[palace][-ak][-'a]	N	N	D	_	_	_	_	_	_
+ku4-ra	kur[enter]-a	V	NF.V.PT	D	_	_	_	_	_	_
+ki	ki[place]	N	N	D	_	_	_	_	_	_
+gurum2	gurum[inspection]	N	N	D	_	_	_	_	_	_
+gal-ni-ta	_	V	NF.V.ABS.ABL	Iabcdefg	_	_	_	_	_	_
+iti	iti[month]	N	N	D	_	_	_	_	_	_
+sze-kar-ra-gal2-la	Szekaragala[1][-'a]	MN	MN.L1	D	_	_	_	_	_	_
+mu	mu[year]	N	N	D	_	_	_	_	_	_
+{gesz}gu-za	guza[chair]	N	N	D	B-COM	_	_	_	_	_
+{d}en-lil2-la2	Enlil[1][-ak][-ø]	DN	DN.GEN	D	_	_	_	_	_	_
+ba-dim2	ba-dim[create][-ø]	V	MID.V.3-SG-S	D	_	_	_	_	_	_

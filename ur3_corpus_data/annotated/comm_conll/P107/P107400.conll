@@ -1,0 +1,26 @@
+#new_text=P107400					
+FORM	SEGM	XPOSTAG	XPOSTAG	POS	B-COUNT	l	270	"dry	*	*
+4(barig)	4(bariga)[unit]	NU	N	D	I-COUNT	*	*	*	sila3	270
+3(ban2)	3(ban)[unit]	NU	N	D	I-COUNT	*	*	*	*	*
+za-ha-din	_	FN	FN	POS	B-COM	_	_	_	_	_
+lagab-ba	_	PN	PN	POS	_	_	_	_	_	_
+za-ha-din	_	FN	FN	POS	_	_	_	_	_	_
+igi-sa6-bi	_	N	N	POS	_	_	_	_	_	_
+*RETOK*-capacity"	?	?	?	?	B-COUNT	l	133	"dry	*	*
+2(barig)	2(bariga)[unit]	NU	N	D	I-COUNT	*	*	*	sila3	133
+1(ban2)	1(ban)[unit]	NU	N	D	I-COUNT	*	*	*	*	*
+3(disz)	3(disz)[one]	NU	NU	D	I-COUNT	*	*	*	*	*
+sila3	sila[unit]	N	N	D	I-COUNT	*	*	*	*	*
+ki	ki[place]	N	N	D	B-COM	_	_	_	_	_
+ur-sa6-ta	_	PN	PN.GEN.ABL	Iab	_	_	_	_	_	_
+kiszib3	kiszib[seal]	N	N	D	_	_	_	_	_	_
+lugal-ur-sag	_	PN	PN.DAT-H	Iab	_	_	_	_	_	_
+iti	iti[month]	N	N	D	_	_	_	_	_	_
+amar-a-a-si	Amarayasi[1][-'a]	MN	MN.L1	D	_	_	_	_	_	_
+mu	mu[year]	N	N	D	_	_	_	_	_	_
+si-ma-num2{ki}	Simanum[1][-ø]	GN	SN.ABS	D	_	_	_	_	_	_
+ba-hul	ba-hulu[destroy][-ø]	V	MID.V.3-SG-S	D	_	_	_	_	_	_
+lugal-ur-sag	_	PN	PN.DAT-H	Iab	_	_	_	_	_	_
+dub-sar	dubsar[scribe]	N	N	D	_	_	_	_	_	_
+dumu	dumu[child]	N	N	D	_	_	_	_	_	_
+i-ta-e3-a	_	PN	PN	Iabcde	_	_	_	_	_	_

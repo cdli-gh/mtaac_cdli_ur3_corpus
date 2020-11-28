@@ -1,0 +1,12 @@
+#new_text=P100104					
+FORM	SEGM	XPOSTAG	XPOSTAG	POS	?	?	?	?	?	?
+1(gesz2)	1(gesz)[sixty]	NU	NU	D	B-COUNT	_	70	cardinal	_	70
+1(u)	1(u)[ten]	NU	NU	D	I-COUNT	*	*	*	*	*
+sa	sa[bundle]	N	N	D	_	_	_	_	_	_
+gu	gu[cord]	N	N	D	_	_	_	_	_	_
+gu	gu[cord]	N	N	D	_	_	_	_	_	_
+GAN2	gana[field]	N	N	D	_	_	_	_	_	_
+pu3-ra	_	PN	PN.GEN.ABS	Iabcdefgh	_	_	_	_	_	_
+mu	mu[year]	N	N	D	_	_	_	_	_	_
+ur-bi2-lum{ki}	Urbilum[1][-ø]	GN	SN.ABS	D	_	_	_	_	_	_
+ba-hul	ba-hulu[destroy][-ø]	V	MID.V.3-SG-S	D	_	_	_	_	_	_

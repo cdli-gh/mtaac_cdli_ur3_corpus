@@ -1,0 +1,19 @@
+#new_text=P390846					
+FORM	SEGM	XPOSTAG	XPOSTAG	POS	?	?	?	?	?	?
+1(disz)	1(disz)[one]	NU	NU	D	B-COUNT	_	1	cardinal	_	1
+masz2	masz[goat]	N	N	D	B-COM	_	_	_	_	_
+sze-ta	sze[barley]-ta	N	N.ABL	D	_	_	_	_	_	_
+sa10	_	V	NF.V.3-SG-NH-POSS.GEN	Iabcdef	_	_	_	_	_	_
+ki	ki[place]	N	N	D	_	_	_	_	_	_
+a-kal-la-ta	Akala[1][-ak]-ta	PN	PN.GEN.ABL	D	_	_	_	_	_	_
+ur-e11-e	Ure'e[1][-ak]	PN	PN	D	_	_	_	_	_	_
+kiszib3	kiszib[seal]	N	N	D	_	_	_	_	_	_
+a-du	Adu[1][-ak]	PN	PN.GEN	D	_	_	_	_	_	_
+mu	mu[year]	N	N	D	_	_	_	_	_	_
+ma-da	mada[land][-ak][-ø]	N	N	D	_	_	_	_	_	_
+za-ab-sza-li{ki}	Zabszali[1][-ak][-ø]	GN	SN.GEN.ABS	D	_	_	_	_	_	_
+mu-hul	mu[-n]-hulu[destroy][-ø]	V	VEN.3-SG-H-A.V.3-SG-P	D	_	_	_	_	_	_
+a-du	Adu[1][-ak]	PN	PN.GEN	D	_	_	_	_	_	_
+dub-sar	dubsar[scribe]	N	N	D	_	_	_	_	_	_
+dumu	dumu[child]	N	N	D	_	_	_	_	_	_
+lu2-ga	Luga[1][-ak]	PN	PN.GEN	D	_	_	_	_	_	_

@@ -1,0 +1,24 @@
+#new_text=P111443					
+FORM	SEGM	XPOSTAG	XPOSTAG	POS	?	?	?	?	?	?
+8(gesz2)	8(gesz2)[sixty]	NU	NU	D	B-COUNT	_	490	cardinal	_	490
+1(u)	1(u)[ten]	NU	NU	D	I-COUNT	*	*	*	*	*
+gurusz	gurusz[male]	N	N	D	B-COM	_	_	_	_	_
+u4	ud[day]	N	N	D	_	_	_	_	_	_
+al	al[hoeing]	N	N	D	_	_	_	_	_	_
+ak	ak[excavate][-a][-ak]	V	NF.V.PT	D	_	_	_	_	_	_
+x	_[_]	N	N	D	_	_	_	_	_	_
+a-sza3	aszag[field]	N	N	D	_	_	_	_	_	_
+hu-ba-na	_	FN	FN	Iabcdefgh	_	_	_	_	_	_
+igi	igi[eye][-ø]	N	N	D	_	_	_	_	_	_
+u8-lu{ki}	_	GN	GN	POS	_	_	_	_	_	_
+a-sza3	aszag[field]	N	N	D	_	_	_	_	_	_
+x-szir	_	FN	FN	POS	_	_	_	_	_	_
+ugula	ugula[overseer][-ø]	N	N	D	_	_	_	_	_	_
+ur-{gesz}gigir	Urgigir[1]	PN	PN	D	_	_	_	_	_	_
+ki	ki[place]	N	N	D	_	_	_	_	_	_
+ur-ba-gara2	Urbagara[1]	PN	PN	D	_	_	_	_	_	_
+iti	iti[month]	N	N	D	_	_	_	_	_	_
+ezem-{d}szul-gi	Ezemszulgir[1][-'a]	MN	MN.L1	D	_	_	_	_	_	_
+mu	mu[year]	N	N	D	_	_	_	_	_	_
+hu-hu-nu	_	GN	GN	POS	_	_	_	_	_	_
+ba-hul	ba-hulu[destroy][-ø]	V	MID.V.3-SG-S	D	_	_	_	_	_	_

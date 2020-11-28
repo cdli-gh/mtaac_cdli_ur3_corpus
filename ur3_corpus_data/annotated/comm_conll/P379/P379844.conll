@@ -1,0 +1,21 @@
+#new_text=P379844					
+FORM	SEGM	XPOSTAG	XPOSTAG	POS	?	?	?	?	?	?
+1(u)	1(u)[ten]	NU	NU	D	B-COUNT	g	7500.000000000001	weight	gin2	900
+5(disz)	5(disz)[one]	NU	NU	D	I-COUNT	*	*	*	*	*
+ma-na	mana[unit]	N	N	D	I-COUNT	*	*	*	*	*
+siki	siki[wool][-'a]	N	N	D	B-COM	_	_	_	_	_
+du	gin[quality_designation][-ø]	V	NF.V.ABS	D	_	_	_	_	_	_
+ki	ki[place]	N	N	D	_	_	_	_	_	_
+lu2-usz-gi-na-ta	_	PN	PN.GEN.ABL	Iab	_	_	_	_	_	_
+kiszib3	kiszib[seal]	N	N	D	_	_	_	_	_	_
+ur-{d}ig-alim	Urigalim[1]	FN	PN	D	_	_	_	_	_	_
+dumu	dumu[child]	N	N	D	_	_	_	_	_	_
+lugal-dam	_	PN	PN.GEN.COP-3-SG	Iabcdef	_	_	_	_	_	_
+giri3	giri[foot]	N	N	D	_	_	_	_	_	_
+lugal-{d}...	_	PN	PN	Iabcde	_	_	_	_	_	_
+dub-sar	dubsar[scribe]	N	N	D	_	_	_	_	_	_
+...	_[_]	PN	N	D	_	_	_	_	_	_
+ur-{d}ig-alim	Urigalim[1]	FN	PN	D	_	_	_	_	_	_
+dub-sar	dubsar[scribe]	N	N	D	_	_	_	_	_	_
+dumu	dumu[child]	N	N	D	_	_	_	_	_	_
+lugal-dam	_	PN	PN.GEN.COP-3-SG	Iabcdef	_	_	_	_	_	_

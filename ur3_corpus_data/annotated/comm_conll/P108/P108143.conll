@@ -1,0 +1,18 @@
+#new_text=P108143					
+FORM	SEGM	XPOSTAG	XPOSTAG	POS	?	?	?	?	?	?
+5(u)	5(u)[ten]	NU	NU	D	B-COUNT	_	50	cardinal	_	50
+geme2	geme[female_worker]	N	N	D	_	_	_	_	_	_
+u4	ud[day]	N	N	D	_	_	_	_	_	_
+1(disz)-sze3	1(disz)[one]-sze	NU	NU.TERM	D	B-COUNT	_	1	cardinal	_	1
+sze	sze[barley]	N	N	D	B-COM	_	_	_	_	_
+ga6-ga2-de3	_	V	NF.V.PT.GEN	Iabcdefg	_	_	_	_	_	_
+erin-KU-sze3-ta	_	N	N	POS	_	_	_	_	_	_
+ka2	kan[gate]	N	N	D	_	_	_	_	_	_
+gur8-ra-asz	_	N	N.ADV	Iabcde	_	_	_	_	_	_
+sze	sze[barley]	N	N	D	_	_	_	_	_	_
+kux(KWU147)-ra	kur[enter]-a	V	NF.V.PT	D	_	_	_	_	_	_
+iti	iti[month]	N	N	D	_	_	_	_	_	_
+min-esz3	Minesz[1][-'a]	MN	MN.L1	D	_	_	_	_	_	_
+mu	mu[year]	N	N	D	_	_	_	_	_	_
+puzur4-da-gan	Puzurdagan[1][-ø]	SN	SN.ABS	D	_	_	_	_	_	_
+ba-du3	ba-du[build][-ø]	V	MID.V.3-SG-S	D	_	_	_	_	_	_

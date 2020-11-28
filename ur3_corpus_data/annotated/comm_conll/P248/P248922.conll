@@ -1,0 +1,25 @@
+
+#new_text=P248922	?	?	?	?	B-COUNT	l	275	"dry	*	*
+FORM	SEGM	XPOSTAG	XPOSTAG	POS	I-COUNT	?	?	?	?	?
+4(barig)	4(bariga)[unit]	NU	N	D	I-COUNT	*	*	*	sila3	275
+3(ban2)	3(ban)[unit]	NU	N	D	I-COUNT	*	*	*	*	*
+5(disz)	5(disz)[one]	NU	NU	D	I-COUNT	*	*	*	*	*
+sila3	sila[unit]	N	N	D	I-COUNT	*	*	*	*	*
+sze	sze[barley]	N	N	D	I-COUNT	*	*	*	*	*
+sze-ba	szeba[ration]	N	N	D	B-COM	_	_	_	_	_
+ur-{d}szul-gi	Urszulgir[1][-ak][-ø]	PN	PN.GEN.ABS	D	_	_	_	_	_	_
+ur-{d}suen-ra	_	PN	PN	Iabcde	_	_	_	_	_	_
+ba-an-na-zi	ba-nna-zig[rise][-ø]	PN	MID.3-SG-H.DAT.V.3-SG-S	D	_	_	_	_	_	_
+kiszib3	kiszib[seal]	N	N	D	_	_	_	_	_	_
+lu2-x-...	[1]	PN	PN	D	_	_	_	_	_	_
+u3-um-gub	_	V	ANT.3-SG-H-A.V.3-SG-P	Iab	_	_	_	_	_	_
+kiszib3	kiszib[seal]	N	N	D	_	_	_	_	_	_
+ur-{d}suen	Ursuen[1]	PN	PN	D	_	_	_	_	_	_
+zi-re-dam	_	PN	PN	POS	_	_	_	_	_	_
+mu	mu[year]	N	N	D	_	_	_	_	_	_
+en-unu6-gal-{d}inanna	Enunugalinanna[1][-ø]	PN	PN.ABS	D	_	_	_	_	_	_
+ba-hun	ba-hug[hire][-ø]	V	MID.V.3-SG-S	D	_	_	_	_	_	_
+ur-{d}suen	Ursuen[1]	PN	PN	D	_	_	_	_	_	_
+dub-sar	dubsar[scribe]	N	N	D	_	_	_	_	_	_
+dumu	dumu[child]	N	N	D	_	_	_	_	_	_
+ur-e2-nun-na	Urenuna[1]	PN	PN	D	_	_	_	_	_	_

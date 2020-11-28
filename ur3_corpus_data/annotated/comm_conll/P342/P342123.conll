@@ -1,0 +1,21 @@
+#new_text=P342123					
+FORM	SEGM	XPOSTAG	XPOSTAG	POS	?	?	?	?	?	?
+1(u)	1(u)[ten]	NU	NU	D	B-COUNT	_	15	cardinal	_	15
+5(disz)	5(disz)[one]	NU	NU	D	I-COUNT	*	*	*	*	*
+ug3-IL2	uggaga[porter]	N	N	D	_	_	_	_	_	_
+u4	ud[day]	N	N	D	_	_	_	_	_	_
+2(disz)-sze3	2(disz)[one]-sze	NU	NU.TERM	D	B-COUNT	_	2	cardinal	_	2
+bar	bar[unknown]	N	N.ABS	D	B-COM	_	_	_	_	_
+i7	id[river]	N	N	D	_	_	_	_	_	_
+du-du	Dudu[1]	PN	PN	D	_	_	_	_	_	_
+ugula	ugula[overseer][-ø]	N	N	D	_	_	_	_	_	_
+ARAD2-ka	_	PN	PN.GEN.GEN	Iabcdef	_	_	_	_	_	_
+kiszib3	kiszib[seal]	N	N	D	_	_	_	_	_	_
+lu2-{d}szara2	Luszara[1][-ak]	PN	PN	D	_	_	_	_	_	_
+mu	mu[year]	N	N	D	_	_	_	_	_	_
+{d}amar-{d}suen	Amarsuen[1]	RN	RN	D	_	_	_	_	_	_
+lugal	lugal[king]	N	N	D	_	_	_	_	_	_
+lu2-{d}szara2	Luszara[1][-ak]	PN	PN	D	_	_	_	_	_	_
+dub-sar	dubsar[scribe]	N	N	D	_	_	_	_	_	_
+dumu	dumu[child]	N	N	D	_	_	_	_	_	_
+...	_[_]	PN	N	D	_	_	_	_	_	_

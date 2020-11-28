@@ -1,0 +1,20 @@
+#new_text=P138970					
+FORM	SEGM	XPOSTAG	XPOSTAG	POS	?	?	?	?	?	?
+...	_[_]	PN	N	D	_	_	_	_	_	_
+*RETOK*-capacity"	?	?	?	?	B-COUNT	l	40	"dry	*	*
+4(ban2)	4(ban)[unit]	NU	N	D	I-COUNT	*	*	*	sila3	40
+zu2-lum	zulum[date]	N	N	D	B-COM	_	_	_	_	_
+saga	saga[good][-ø]	V	NF.V.ABS	D	_	_	_	_	_	_
+nig2-gu3-de2-sze3	_	N	N.3-SG-H-POSS.TERM	Iabcdef	_	_	_	_	_	_
+x	_[_]	N	N	D	_	_	_	_	_	_
+x	_[_]	N	N	D	_	_	_	_	_	_
+x	_[_]	N	N	D	_	_	_	_	_	_
+...	_[_]	PN	N	D	_	_	_	_	_	_
+mu	mu[year]	N	N	D	_	_	_	_	_	_
+{d}i-bi2-{d}suen	Ibbisuen[1]	RN	RN	D	_	_	_	_	_	_
+lugal	lugal[king]	N	N	D	_	_	_	_	_	_
+uri5{ki}-ma-ke4	Urim[1]-ak-e	SN	SN.GEN.ERG	D	_	_	_	_	_	_
+nibru{ki}	Nibru[1][-'a]	SN	SN.GEN.ABS	D	_	_	_	_	_	_
+uri5{ki}-ma	Urim[1]-ak	SN	SN.GEN	D	_	_	_	_	_	_
+bad3-gal-bi	badgal[great_wall]-bi[-ø]	N	N.DEM2.ABS	D	_	_	_	_	_	_
+mu-du3	mu[-n]-du[build][-ø]	V	VEN.3-SG-H-A.V.3-SG-P	D	_	_	_	_	_	_

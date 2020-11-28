@@ -1,0 +1,22 @@
+#new_text=P133040					
+FORM	SEGM	XPOSTAG	XPOSTAG	POS	?	?	?	?	?	?
+1(u)	1(u)[ten]	NU	NU	D	B-COUNT	_	15	cardinal	_	15
+5(disz)	5(disz)[one]	NU	NU	D	I-COUNT	*	*	*	*	*
+{kusz}KU-KA-x	_	N	N	POS	B-COM	_	_	_	_	_
+bil2-ga-sze3	_	V	V	POS	_	_	_	_	_	_
+ki	ki[place]	N	N	D	_	_	_	_	_	_
+lu2-sa6-ga-ta	_	PN	PN.GEN.ABL	Iab	_	_	_	_	_	_
+kiszib3	kiszib[seal]	N	N	D	_	_	_	_	_	_
+lu2-{d}ig-alim	_	PN	PN	D	_	_	_	_	_	_
+lu2	lu[person]	N	N	D	_	_	_	_	_	_
+ur3-ka	_	N	N.GEN.GEN.TERM	Iabcdefg	_	_	_	_	_	_
+iti	iti[month]	N	N	D	_	_	_	_	_	_
+szu-numun-na	_	MN	MN	POS	_	_	_	_	_	_
+mu	mu[year]	N	N	D	_	_	_	_	_	_
+{d}szu-{d}suen	Szusuen[1]	RN	RN	D	_	_	_	_	_	_
+lugal	lugal[king]	N	N	D	_	_	_	_	_	_
+lu2-{d}ig-alim	_	PN	PN	D	_	_	_	_	_	_
+dumu	dumu[child]	N	N	D	_	_	_	_	_	_
+nam-ha-ni	Namhani[1]	N	PN	D	_	_	_	_	_	_
+lu2	lu[person]	N	N	D	_	_	_	_	_	_
+ur3-ra	ur[level_off]-a	V	NF.V.PT	D	_	_	_	_	_	_

@@ -1,0 +1,27 @@
+#new_text=P105752					
+FORM	SEGM	XPOSTAG	XPOSTAG	POS	B-COUNT	l	11	"liquid	*	*
+*RETOK*-capacity"	?	?	?	?	I-COUNT	l	11	"dry	sila3	11
+3(asz)	3(asz)[one]	NU	NU	D	I-COUNT	*	*	*	sila3	11
+8(disz)	8(disz)[one]	NU	NU	D	I-COUNT	*	*	*	*	*
+sila3	sila[unit]	N	N	D	I-COUNT	*	*	*	*	*
+zu2-lum	zulum[date]	N	N	D	B-COM	_	_	_	_	_
+gur	gur[unit]	N	N	D	_	_	_	_	_	_
+*RETOK*-capacity"	?	?	?	?	B-COUNT	l	55	"dry	*	*
+5(ban2)	5(ban)[unit]	NU	N	D	I-COUNT	*	*	*	sila3	55
+5(disz)	5(disz)[one]	NU	NU	D	I-COUNT	*	*	*	*	*
+sila3	sila[unit]	N	N	D	I-COUNT	*	*	*	*	*
+{gesz}gesztin	_	N	N	POS	B-COM	_	_	_	_	_
+*RETOK*-capacity"	?	?	?	?	B-COUNT	l	45	"dry	*	*
+4(ban2)	4(ban)[unit]	NU	N	D	I-COUNT	*	*	*	sila3	45
+5(disz)	5(disz)[one]	NU	NU	D	I-COUNT	*	*	*	*	*
+sila3	sila[unit]	N	N	D	I-COUNT	*	*	*	*	*
+{gesz}pesz3	pesz[fig]	N	N	D	_	_	_	_	_	_
+duru5	_	V	V	POS	_	_	_	_	_	_
+zi-ga	zig[expend]-a	V	NF.V.PT	D	_	_	_	_	_	_
+ki	ki[place]	N	N	D	B-COM	_	_	_	_	_
+ur-{d}nin-mug-ta	_	PN	PN	Iabcdefgh	_	_	_	_	_	_
+kiszib3	kiszib[seal]	N	N	D	_	_	_	_	_	_
+ur-nig2	_	PN	PN	Iabcde	_	_	_	_	_	_
+mu	mu[year]	N	N	D	_	_	_	_	_	_
+hu-hu-nu-ri{ki}	Huhunuri[1][-ø]	GN	SN.ABS	D	_	_	_	_	_	_
+ba-hul	ba-hulu[destroy][-ø]	V	MID.V.3-SG-S	D	_	_	_	_	_	_

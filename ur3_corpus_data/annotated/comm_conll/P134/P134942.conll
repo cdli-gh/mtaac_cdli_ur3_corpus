@@ -1,0 +1,26 @@
+#new_text=P134942					
+FORM	SEGM	XPOSTAG	XPOSTAG	POS	?	?	?	?	?	?
+1(disz)	1(disz)[one]	NU	NU	D	B-COUNT	_	1	cardinal	_	1
+amar	amar[calf][-ak]	N	N	D	B-COM	_	_	_	_	_
+masz-da3-munus	maszdamunus[female_gazelle][-ø]	N	N.ABS	D	_	_	_	_	_	_
+ta2-hi-isz-a-tal	Tahiszatal[1][-ak]	PN	PN	D	_	_	_	_	_	_
+mu-kux(DU)	mukur[delivery][-ø]	N	N	D	_	_	_	_	_	_
+lugal	lugal[king]	N	N	D	_	_	_	_	_	_
+in-ta-e3-a	Inta'e'a[1][-e]	PN	PN.ERG	D	_	_	_	_	_	_
+i3-dab5	i[-n]-dab[seize][-ø]	V	FIN.3-SG-H-A.V.3-SG-P	D	_	_	_	_	_	_
+giri3	giri[foot]	N	N	D	_	_	_	_	_	_
+{d}nanna-ma-ba	Nannamaba[1]	PN	PN	D	_	_	_	_	_	_
+dub-sar	dubsar[scribe]	N	N	D	_	_	_	_	_	_
+u4	ud[day]	N	N	D	_	_	_	_	_	_
+4(disz)-kam	4(disz)[one]-ak-am[-'a]	NU	NU.GEN.COP-3-SG	D	B-COUNT	_	4	cardinal	_	4
+iti	iti[month]	N	N	D	_	_	_	_	_	_
+sze-sag11-ku5	Szesagku[1][-'a]	MN	MN.L1	D	_	_	_	_	_	_
+mu	mu[year]	N	N	D	_	_	_	_	_	_
+{d}szu-{d}suen	Szusuen[1]	RN	RN	D	_	_	_	_	_	_
+lugal	lugal[king]	N	N	D	_	_	_	_	_	_
+uri5{ki}-ma-ke4	Urim[1]-ak-e	SN	SN.GEN.ERG	D	_	_	_	_	_	_
+ma-da	mada[land][-ak][-ø]	N	N	D	_	_	_	_	_	_
+za-ab-sza-li{ki}	Zabszali[1][-ak][-ø]	GN	SN.GEN.ABS	D	_	_	_	_	_	_
+mu-hul	mu[-n]-hulu[destroy][-ø]	V	VEN.3-SG-H-A.V.3-SG-P	D	_	_	_	_	_	_
+1(disz)	1(disz)[one]	NU	NU	D	B-COUNT	_	1	cardinal	_	1
+masz-da3	maszda[gazelle][-ø]	N	N	D	B-COM	_	_	_	_	_

@@ -1,0 +1,22 @@
+#new_text=P120291					
+FORM	SEGM	XPOSTAG	XPOSTAG	POS	?	?	?	?	?	?
+2(u)	2(u)[ten]	NU	NU	D	B-COUNT	_	25	cardinal	_	25
+5(disz)	5(disz)[one]	NU	NU	D	I-COUNT	*	*	*	*	*
+gurusz	gurusz[male]	N	N	D	B-COM	_	_	_	_	_
+u4	ud[day]	N	N	D	_	_	_	_	_	_
+1(disz)-sze3	1(disz)[one]-sze	NU	NU.TERM	D	B-COUNT	_	1	cardinal	_	1
+pa4	_	N	N	POS	_	_	_	_	_	_
+a-da-ga	Adaga[1]	PN	PN	D	_	_	_	_	_	_
+ba-al	_	V	NF.V.PT	Iabcdefgh	_	_	_	_	_	_
+ugula	ugula[overseer][-ø]	N	N	D	_	_	_	_	_	_
+da-du-mu	Dadumu[1][-ak]	PN	PN.GEN	D	_	_	_	_	_	_
+kiszib3	kiszib[seal]	N	N	D	_	_	_	_	_	_
+lugal-e2-mah-e	Lugalemahe[1]	N	PN	D	_	_	_	_	_	_
+mu	mu[year]	N	N	D	_	_	_	_	_	_
+{gesz}gu-za	guza[chair]	N	N	D	B-COM	_	_	_	_	_
+{d}en-lil2-la2	Enlil[1][-ak][-ø]	DN	DN.GEN	D	_	_	_	_	_	_
+ba-dim2	ba-dim[create][-ø]	V	MID.V.3-SG-S	D	_	_	_	_	_	_
+lugal-e2-mah-e	Lugalemahe[1]	N	PN	D	_	_	_	_	_	_
+dub-sar	dubsar[scribe]	N	N	D	_	_	_	_	_	_
+dumu	dumu[child]	N	N	D	_	_	_	_	_	_
+lugal-ku3-ga-ni	Lugalkugani[1][-ak]	PN	PN.GEN	D	_	_	_	_	_	_

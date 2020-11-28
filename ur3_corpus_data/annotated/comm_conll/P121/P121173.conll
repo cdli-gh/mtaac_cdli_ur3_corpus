@@ -1,0 +1,10 @@
+#new_text=P121173					
+FORM	SEGM	XPOSTAG	XPOSTAG	POS	?	?	?	?	?	?
+1(u)	1(u)[ten]	NU	NU	D	B-COUNT	g	300000.0	weight	gin2	36000
+gu2	gun[unit]	N	N	D	I-COUNT	*	*	*	*	*
+gu-la2-gi	_	V	NF.V.ABS.GEN	Iabcdef	_	_	_	_	_	_
+ib2-tak4	_	N	N	POS	_	_	_	_	_	_
+szesz-ku-li	_	PN	PN.DAT-H	Iab	_	_	_	_	_	_
+szesz-ku-li	_	PN	PN.DAT-H	Iab	_	_	_	_	_	_
+dumu	dumu[child]	N	N	D	_	_	_	_	_	_
+ur-{d}utu	Urutu[1]	PN	PN	D	_	_	_	_	_	_

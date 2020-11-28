@@ -1,0 +1,26 @@
+#new_text=P140291					
+FORM	SEGM	XPOSTAG	XPOSTAG	POS	?	?	?	?	?	?
+1(gesz2)	1(gesz)[sixty]	NU	NU	D	B-COUNT	_	60	cardinal	_	60
+dabin	dabin[semolina]	N	N	D	B-COM	_	_	_	_	_
+gur	gur[unit]	N	N	D	_	_	_	_	_	_
+lugal	lugal[king]	N	N	D	_	_	_	_	_	_
+ki	ki[place]	N	N	D	_	_	_	_	_	_
+ur-zu	Urzu[1][-ak][-ra]	PN	PN.GEN.DAT-H	D	_	_	_	_	_	_
+lu2	lu[person]	N	N	D	_	_	_	_	_	_
+ensi2	ensik[ruler]	N	N	D	_	_	_	_	_	_
+umma{ki}-ka-ta	_	SN	SN.GEN.GEN.ABL	Iabcdef	_	_	_	_	_	_
+mu	mu[year]	N	N	D	_	_	_	_	_	_
+ki-tusz-lu2-sze3	_	N	N	POS	_	_	_	_	_	_
+ur-{d}ba-ba6	Urbaba[1]	PN	PN	D	_	_	_	_	_	_
+dumu	dumu[child]	N	N	D	_	_	_	_	_	_
+a-tu	Atu[1][-ak]	PN	PN	D	_	_	_	_	_	_
+szu	szu[hand][-e]	N	N.L3-NH	D	_	_	_	_	_	_
+ba-ti	ba[-n]-teg[accept][-ø]	V	MID.3-SG-H-A.V.3-SG-P	D	_	_	_	_	_	_
+iti	iti[month]	N	N	D	_	_	_	_	_	_
+sig4-{gesz}i3-szub-ba-gar	Sigiszubbagar[1][-'a]	MN	MN.L1	D	_	_	_	_	_	_
+mu	mu[year]	N	N	D	_	_	_	_	_	_
+us2-sa	us[follow]-a	V	NF.V.PT	D	_	_	_	_	_	_
+ur-bi2-i3-lum{ki}	_	GN	GN	POS	_	_	_	_	_	_
+ba-hul	ba-hulu[destroy][-ø]	V	MID.V.3-SG-S	D	_	_	_	_	_	_
+sza3	szag[heart]	N	N	D	_	_	_	_	_	_
+nibru{ki}	Nibru[1][-'a]	SN	SN.GEN.ABS	D	_	_	_	_	_	_

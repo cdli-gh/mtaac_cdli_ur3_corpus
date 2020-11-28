@@ -1,0 +1,27 @@
+#new_text=P139524					
+FORM	SEGM	XPOSTAG	XPOSTAG	POS	?	?	?	?	?	?
+4(barig)	4(bariga)[unit]	NU	N	D	B-COUNT	*	*	*	*	*
+sze	sze[barley]	N	N	D	I-COUNT	*	*	*	*	*
+lugal	lugal[king]	N	N	D	_	_	_	_	_	_
+*RETOK*-capacity"	?	?	?	?	B-COUNT	l	65	"dry	*	*
+1(barig)	1(bariga)[unit]	NU	N	D	I-COUNT	*	*	*	sila3	65
+5(disz)	5(disz)[one]	NU	NU	D	I-COUNT	*	*	*	*	*
+sila3	sila[unit]	N	N	D	I-COUNT	*	*	*	*	*
+{u2}ninni8	_	N	N	Ia	B-COM	_	_	_	_	_
+babbar	_	AJ	AJ	POS	_	_	_	_	_	_
+*RETOK*-capacity"	?	?	?	?	B-COUNT	l	120	"dry	*	*
+2(barig)	2(bariga)[unit]	NU	N	D	I-COUNT	*	*	*	sila3	120
+szum2-sikil	_	V	V	POS	_	_	_	_	_	_
+kab2	_	N	N	Ia	_	_	_	_	_	_
+di	did[lawsuit]	N	N	D	_	_	_	_	_	_
+i3-gal2	i[-ni]-gal[be][-ø]	V	FIN.L1.V.3-SG-S	D	B-COM	_	_	_	_	_
+ki	ki[place]	N	N	D	_	_	_	_	_	_
+{d}szara2-kam-ta	Szarakam[1][-ak]-ta	PN	PN.GEN.ABL	D	_	_	_	_	_	_
+a-sza3	aszag[field]	N	N	D	_	_	_	_	_	_
+saga-tur-ta	_	FN	FN	POS	_	_	_	_	_	_
+lugal-nig2-lagar-e	Lugalniglagare[1][-ak]	PN	PN.GEN	D	_	_	_	_	_	_
+szu	szu[hand][-e]	N	N.L3-NH	D	_	_	_	_	_	_
+ba-ti	ba[-n]-teg[accept][-ø]	V	MID.3-SG-H-A.V.3-SG-P	D	_	_	_	_	_	_
+mu	mu[year]	N	N	D	_	_	_	_	_	_
+ki-masz{ki}	Kimasz[1]	SN	SN.ABS	D	_	_	_	_	_	_
+ba-hul	ba-hulu[destroy][-ø]	V	MID.V.3-SG-S	D	_	_	_	_	_	_

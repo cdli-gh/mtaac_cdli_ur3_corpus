@@ -1,0 +1,20 @@
+#new_text=P138153					
+FORM	SEGM	XPOSTAG	XPOSTAG	POS	?	?	?	?	?	?
+3(asz)	3(asz)[one]	NU	NU	D	B-COUNT	*	*	*	*	*
+4(barig)	4(bariga)[unit]	NU	N	D	I-COUNT	*	*	*	*	*
+2(ban2)	2(ban)[unit]	NU	N	D	I-COUNT	*	*	*	*	*
+sze	sze[barley]	N	N	D	I-COUNT	*	*	*	*	*
+gur	gur[unit]	N	N	D	I-COUNT	*	*	*	*	*
+guru7-ta	_	N	N.1-SG-POSS.GEN.ABL	Iabcdefg	_	_	_	_	_	_
+sze-ba	szeba[ration]	N	N	D	B-COM	_	_	_	_	_
+gurusz	gurusz[male]	N	N	D	_	_	_	_	_	_
+tab-ba	tab[grasp]-a	V	NF.V.PT	D	_	_	_	_	_	_
+...	_[_]	PN	N	D	_	_	_	_	_	_
+gi-kid	_	N	N	Ia	_	_	_	_	_	_
+iti	iti[month]	N	N	D	_	_	_	_	_	_
+a2-ki-ti	Akiti[1][-'a]	N	MN.L1	D	_	_	_	_	_	_
+mu	mu[year]	N	N	D	_	_	_	_	_	_
+{d}i-bi2-{d}suen	Ibbisuen[1]	RN	RN	D	_	_	_	_	_	_
+lugal-e	lugal[king]-e	N	N.ERG	D	_	_	_	_	_	_
+bad3-gal	badgal[great_wall][-ø]	N	N.ABS	D	_	_	_	_	_	_
+mu-du3	mu[-n]-du[build][-ø]	V	VEN.3-SG-H-A.V.3-SG-P	D	_	_	_	_	_	_

@@ -1,0 +1,26 @@
+#new_text=P290848					
+FORM	SEGM	XPOSTAG	XPOSTAG	POS	B-COUNT	l	0.03777777777777777	"dry	*	*
+6(gesz2)	6(gesz)[sixty]	NU	NU	D	I-COUNT	*	*	*	sila3	0.03777777777777777
+4(u)	4(u)[ten]	NU	NU	D	I-COUNT	*	*	*	*	*
+8(asz)	8(asz)[one]	NU	NU	D	I-COUNT	*	*	*	*	*
+sze	sze[barley]	N	N	D	I-COUNT	*	*	*	*	*
+gur	gur[unit]	N	N	D	I-COUNT	*	*	*	*	*
+1(gesz2)	1(gesz)[sixty]	NU	NU	D	B-COUNT	_	0.00574074074074074	cardinal	_	0.00574074074074074
+2(asz)	2(asz)[one]	NU	NU	D	I-COUNT	*	*	*	*	*
+sze	sze[barley]	N	N	D	I-COUNT	*	*	*	*	*
+al-hul-a	_	V	V	POS	_	_	_	_	_	_
+gur	gur[unit]	N	N	D	_	_	_	_	_	_
+1(u)	1(u)[ten]	NU	NU	D	B-COUNT	_	18	cardinal	_	18
+8(asz)	8(asz)[one]	NU	NU	D	I-COUNT	*	*	*	*	*
+ziz2	ziz[emmer]	N	N	D	B-COM	_	_	_	_	_
+al-hul-a	_	V	V	POS	_	_	_	_	_	_
+gur	gur[unit]	N	N	D	_	_	_	_	_	_
+e2	e[house]	N	N	D	_	_	_	_	_	_
+szu-szum2-ma	szuszuma[consignment][-ak]	N	N.GEN	D	_	_	_	_	_	_
+sza3	szag[heart]	N	N	D	_	_	_	_	_	_
+e2-kikken	_	TN	TN	POS	_	_	_	_	_	_
+gu-la	gal[big][-ø][-sze]	PN	NF.V.ABS	D	_	_	_	_	_	_
+mu	mu[year]	N	N	D	_	_	_	_	_	_
+en	en[priest]	N	N	D	_	_	_	_	_	_
+eridu{ki}	Eridug[1][-ak][-ø]	SN	SN.GEN.ABS	D	_	_	_	_	_	_
+ba-hun	ba-hug[hire][-ø]	V	MID.V.3-SG-S	D	_	_	_	_	_	_

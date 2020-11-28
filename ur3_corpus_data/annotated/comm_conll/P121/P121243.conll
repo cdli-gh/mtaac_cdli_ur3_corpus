@@ -1,0 +1,25 @@
+#new_text=P121243					
+FORM	SEGM	XPOSTAG	XPOSTAG	POS	?	?	?	?	?	?
+4(u)	4(u)[ten]	NU	NU	D	B-COUNT	g	20916.666666666668	weight	gin2	2510.0
+1(disz)	1(disz)[one]	NU	NU	D	I-COUNT	*	*	*	*	*
+5/6(disz)	5/6(disz)[one]	NU	NU	D	I-COUNT	*	*	*	*	*
+ma-na	mana[unit]	N	N	D	I-COUNT	*	*	*	*	*
+siki	siki[wool][-'a]	N	N	D	B-COM	_	_	_	_	_
+ki	ki[place]	N	N	D	_	_	_	_	_	_
+lugal-ma2-gur8-re-ta	_	PN	PN.GEN.ABL	Iabcdef	_	_	_	_	_	_
+*RETOK*-($	?	?	?	?	_	_	_	_	_	_
+*RETOK*-blank	?	?	?	?	_	_	_	_	_	_
+*RETOK*-space	?	?	?	?	_	_	_	_	_	_
+*RETOK*-$)	?	?	?	?	_	_	_	_	_	_
+szu	szu[hand][-e]	N	N.L3-NH	D	_	_	_	_	_	_
+ba-ti	ba[-n]-teg[accept][-ø]	V	MID.3-SG-H-A.V.3-SG-P	D	_	_	_	_	_	_
+iti	iti[month]	N	N	D	_	_	_	_	_	_
+apin-du8-a	Apindu'a[1][-ta]	MN	MN.ABL	D	_	_	_	_	_	_
+u4	ud[day]	N	N	D	_	_	_	_	_	_
+1(u)	1(u)[ten]	NU	NU	D	B-COUNT	_	18	cardinal	_	18
+8(disz)	8(disz)[one]	NU	NU	D	I-COUNT	*	*	*	*	*
+ba-zal	ba-zal[pass][-ø][-a][-'a]	V	MID.V.3-SG-S.SUB	D	_	_	_	_	_	_
+mu	mu[year]	N	N	D	_	_	_	_	_	_
+en	en[priest]	N	N	D	_	_	_	_	_	_
+eridu{ki}	Eridug[1][-ak][-ø]	SN	SN.GEN.ABS	D	_	_	_	_	_	_
+ba-hun	ba-hug[hire][-ø]	V	MID.V.3-SG-S	D	_	_	_	_	_	_

@@ -1,0 +1,19 @@
+#new_text=P135132					
+FORM	SEGM	XPOSTAG	XPOSTAG	POS	?	?	?	?	?	?
+1(u)	1(u)[ten]	NU	NU	D	B-COUNT	_	10	cardinal	_	10
+udu	udu[sheep]	N	N	D	B-COM	_	_	_	_	_
+sag	sag[head]	N	N	D	_	_	_	_	_	_
+sila4	sila[lamb]	N	N	D	_	_	_	_	_	_
+lu2-{d}en-lil2-la2	Lu'enlila[1]	PN	PN	D	_	_	_	_	_	_
+ki	ki[place]	N	N	D	_	_	_	_	_	_
+isz-me-dingir-ta	_	PN	PN.GEN.GEN.ABL	Iabcdefg	_	_	_	_	_	_
+ba-zi	ba-zig[expend][-ø]	PN	MID.V.3-SG-S	D	_	_	_	_	_	_
+iti	iti[month]	N	N	D	_	_	_	_	_	_
+diri	diri[intercalary_month]	N	N	D	_	_	_	_	_	_
+*RETOK*-($	?	?	?	?	_	_	_	_	_	_
+*RETOK*-blank	?	?	?	?	_	_	_	_	_	_
+*RETOK*-space	?	?	?	?	_	_	_	_	_	_
+*RETOK*-$)	?	?	?	?	_	_	_	_	_	_
+mu	mu[year]	N	N	D	_	_	_	_	_	_
+{d}i-bi2-{d}suen	Ibbisuen[1]	RN	RN	D	_	_	_	_	_	_
+lugal	lugal[king]	N	N	D	_	_	_	_	_	_

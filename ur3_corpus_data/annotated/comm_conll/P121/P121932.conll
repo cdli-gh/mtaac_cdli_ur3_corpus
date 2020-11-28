@@ -1,0 +1,21 @@
+#new_text=P121932					
+FORM	SEGM	XPOSTAG	XPOSTAG	POS	B-COUNT	l	29685	"dry	*	*
+1(gesz2)	1(gesz)[sixty]	NU	NU	D	I-COUNT	*	*	*	sila3	29685
+3(u)	3(u)[ten]	NU	NU	D	I-COUNT	*	*	*	*	*
+8(asz)	8(asz)[one]	NU	NU	D	I-COUNT	*	*	*	*	*
+4(barig)	4(bariga)[unit]	NU	N	D	I-COUNT	*	*	*	*	*
+4(ban2)	4(ban)[unit]	NU	N	D	I-COUNT	*	*	*	*	*
+5(disz)	5(disz)[one]	NU	NU	D	I-COUNT	*	*	*	*	*
+sila3	sila[unit]	N	N	D	I-COUNT	*	*	*	*	*
+sze	sze[barley]	N	N	D	I-COUNT	*	*	*	*	*
+gur	gur[unit]	N	N	D	I-COUNT	*	*	*	*	*
+lugal	lugal[king]	N	N	D	_	_	_	_	_	_
+mu	mu[year]	N	N	D	_	_	_	_	_	_
+ur-{d}szara2-ka-sze3	_	PN	PN.GEN.TERM	Iabcdefg	_	_	_	_	_	_
+ba-sa6-ga	Basaga[1]	PN	PN	D	_	_	_	_	_	_
+gu-za-la2	guzala[throne_bearer]	N	N	D	_	_	_	_	_	_
+su-su-dam	sug-sug[repay]-ed[-ø]-am	PN	NF.V.RDP.F.ABS.COP-3-SG	D	_	_	_	_	_	_
+mu	mu[year]	N	N	D	_	_	_	_	_	_
+en	en[priest]	N	N	D	_	_	_	_	_	_
+eridu{ki}	Eridug[1][-ak][-ø]	SN	SN.GEN.ABS	D	_	_	_	_	_	_
+ba-hun-ga2	ba-hug[hire][-ø]	V	MID.V.3-SG-S	D	_	_	_	_	_	_

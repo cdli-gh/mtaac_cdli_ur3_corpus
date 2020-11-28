@@ -1,0 +1,27 @@
+#new_text=P103595					
+FORM	SEGM	XPOSTAG	XPOSTAG	POS	?	?	?	?	?	?
+3(u)	3(u)[ten]	NU	NU	D	B-COUNT	_	38	cardinal	_	38
+8(disz)	8(disz)[one]	NU	NU	D	I-COUNT	*	*	*	*	*
+udu	udu[sheep]	N	N	D	B-COM	_	_	_	_	_
+u2	u[grass]	N	N	D	_	_	_	_	_	_
+2(u)	2(u)[ten]	NU	NU	D	B-COUNT	_	20	cardinal	_	20
+masz2	masz[goat]	N	N	D	_	_	_	_	_	_
+gal	gal[big][-ø]	V	NF.V.ABS	D	_	_	_	_	_	_
+u2	u[grass]	N	N	D	_	_	_	_	_	_
+szu-gid2	szugid[animal_designation][-ø]	N	N	D	_	_	_	_	_	_
+u4	ud[day]	N	N	D	_	_	_	_	_	_
+2(u)	2(u)[ten]	NU	NU	D	B-COUNT	_	20	cardinal	_	20
+7(disz)-kam	7(disz)[one]-ak-am[-'a]	NU	NU.GEN.COP-3-SG	D	B-COUNT	_	7	cardinal	_	7
+ki	ki[place]	N	N	D	B-COM	_	_	_	_	_
+a-ba-{d}en-lil2-gin7-ta	Aba'enlilgin[1][-ak]-ta	PN	PN.GEN.ABL	D	_	_	_	_	_	_
+gaba-ri	gabari[copy]	N	N	D	_	_	_	_	_	_
+kiszib3	kiszib[seal]	N	N	D	_	_	_	_	_	_
+ab-ba-kal-la	Abbakala[1][-ak][-ak]	PN	PN	D	_	_	_	_	_	_
+iti	iti[month]	N	N	D	_	_	_	_	_	_
+ki-siki-{d}nin-a-zu	Kisikininazu[1][-'a]	MN	MN.L1	D	_	_	_	_	_	_
+mu	mu[year]	N	N	D	_	_	_	_	_	_
+{d}i-bi2-{d}suen	Ibbisuen[1]	RN	RN	D	_	_	_	_	_	_
+lugal	lugal[king]	N	N	D	_	_	_	_	_	_
+5(u)	5(u)[ten]	NU	NU	D	B-COUNT	_	58	cardinal	_	58
+8(disz)	8(disz)[one]	NU	NU	D	I-COUNT	*	*	*	*	*
+udu	udu[sheep]	N	N	D	B-COM	_	_	_	_	_

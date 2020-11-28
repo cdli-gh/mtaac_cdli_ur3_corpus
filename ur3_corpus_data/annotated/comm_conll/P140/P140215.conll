@@ -1,0 +1,16 @@
+#new_text=P140215					
+FORM	SEGM	XPOSTAG	XPOSTAG	POS	B-COUNT	l	145	"dry	*	*
+2(barig)	2(bariga)[unit]	NU	N	D	I-COUNT	*	*	*	sila3	145
+2(ban2)	2(ban)[unit]	NU	N	D	I-COUNT	*	*	*	*	*
+5(disz)	5(disz)[one]	NU	NU	D	I-COUNT	*	*	*	*	*
+sila3	sila[unit]	N	N	D	I-COUNT	*	*	*	*	*
+sze	sze[barley]	N	N	D	I-COUNT	*	*	*	*	*
+{d}szara2-a-kam	_	RN	RN	POS	_	_	_	_	_	_
+dumu	dumu[child]	N	N	D	_	_	_	_	_	_
+na-u2-a	_	PN	PN	Iabcde	_	_	_	_	_	_
+*RETOK*-capacity"	?	?	?	?	B-COUNT	l	60	"dry	*	*
+1(barig)	1(bariga)[unit]	NU	N	D	I-COUNT	*	*	*	sila3	60
+ku3-ga-ni	Kugani[1]	PN	PN	D	_	_	_	_	_	_
+dumu	dumu[child]	N	N	D	_	_	_	_	_	_
+gu3-de2-a	Gude'a[1][-ra]	PN	PN	D	_	_	_	_	_	_
+mu	mu[year]	N	N	D	_	_	_	_	_	_

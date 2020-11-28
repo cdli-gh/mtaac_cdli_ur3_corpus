@@ -1,0 +1,21 @@
+#new_text=P138526					
+FORM	SEGM	XPOSTAG	XPOSTAG	POS	?	?	?	?	?	?
+1(u)	1(u)[ten]	NU	NU	D	B-COUNT	g	7500.000000000001	weight	gin2	900
+5(disz)	5(disz)[one]	NU	NU	D	I-COUNT	*	*	*	*	*
+ma-na	mana[unit]	N	N	D	I-COUNT	*	*	*	*	*
+szu-sar	szusar[string][-ø]	N	N.ABS	D	B-COM	_	_	_	_	_
+mangaga	_	N	N	Ia	_	_	_	_	_	_
+ki	ki[place]	N	N	D	_	_	_	_	_	_
+szu-{d}iszkur-ta	_	PN	PN.GEN.ABL	Iabcdef	_	_	_	_	_	_
+x-an-na-mu	_	PN	PN	Iabcdefgh	_	_	_	_	_	_
+szu	szu[hand][-e]	N	N.L3-NH	D	_	_	_	_	_	_
+ba-an-ti	ba-n-teg[accept][-ø]	V	MID.3-SG-H-A.V.3-SG-P	D	_	_	_	_	_	_
+e2-mah-ka	_	TN	TN	Iabcde	_	_	_	_	_	_
+iti	iti[month]	N	N	D	_	_	_	_	_	_
+a2-ki-ti	Akiti[1][-'a]	N	MN.L1	D	_	_	_	_	_	_
+mu	mu[year]	N	N	D	_	_	_	_	_	_
+dumu-munus	dumumunus[daughter]	N	N	D	_	_	_	_	_	_
+lugal	lugal[king]	N	N	D	_	_	_	_	_	_
+ensi2	ensik[ruler]	N	N	D	_	_	_	_	_	_
+za-ab-sza-li{ki}	Zabszali[1][-ak][-ø]	GN	SN.GEN.ABS	D	_	_	_	_	_	_
+ba-an-tuku	_	V	MID.3-SG-H.DAT.V.3-SG-S	Iabcdefg	_	_	_	_	_	_

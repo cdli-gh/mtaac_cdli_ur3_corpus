@@ -1,0 +1,23 @@
+#new_text=P120879					
+FORM	SEGM	XPOSTAG	XPOSTAG	POS	B-COUNT	l	0.0005555555555555556	"dry	*	*
+6(asz)	6(asz)[one]	NU	NU	D	I-COUNT	*	*	*	sila3	0.0005555555555555556
+sze	sze[barley]	N	N	D	I-COUNT	*	*	*	*	*
+gur	gur[unit]	N	N	D	I-COUNT	*	*	*	*	*
+gur	gur[unit]	N	N	D	_	_	_	_	_	_
+zabar	zabar[bright][-ø][-ø]	N	N	D	_	_	_	_	_	_
+gar-ra	_	V	V	POS	_	_	_	_	_	_
+gur	gur[unit]	N	N	D	_	_	_	_	_	_
+mu-kux(DU)-ta	_	N	N	POS	_	_	_	_	_	_
+ki	ki[place]	N	N	D	_	_	_	_	_	_
+lu2-dingir-ra-ta	Ludingira[1][-ak]-ta	PN	PN.GEN.ABL	D	_	_	_	_	_	_
+lugal-ma2-gur8-re	Lugalmagure[1][-ø]	PN	PN	D	_	_	_	_	_	_
+szu	szu[hand][-e]	N	N.L3-NH	D	B-COM	_	_	_	_	_
+ba-ti	ba[-n]-teg[accept][-ø]	V	MID.3-SG-H-A.V.3-SG-P	D	_	_	_	_	_	_
+mu	mu[year]	N	N	D	_	_	_	_	_	_
+{d}szu-{d}suen	Szusuen[1]	RN	RN	D	_	_	_	_	_	_
+lugal	lugal[king]	N	N	D	_	_	_	_	_	_
+lugal-ma2-gur8-re	Lugalmagure[1][-ø]	PN	PN	D	_	_	_	_	_	_
+dumu	dumu[child]	N	N	D	_	_	_	_	_	_
+ur2-ra-dingir	_	PN	PN.GEN.DAT-H	Iab	_	_	_	_	_	_
+szandana	szandanak[gardenner][-ra]	N	N	D	_	_	_	_	_	_
+{d}en-lil2-la2	Enlil[1][-ak][-ø]	DN	DN.GEN	D	_	_	_	_	_	_

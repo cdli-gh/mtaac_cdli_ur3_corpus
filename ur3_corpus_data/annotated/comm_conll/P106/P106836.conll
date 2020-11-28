@@ -1,0 +1,25 @@
+#new_text=P106836					
+FORM	SEGM	XPOSTAG	XPOSTAG	POS	B-COUNT	l	432	"dry	*	*
+1(asz)	1(asz)[one]	NU	NU	D	I-COUNT	*	*	*	sila3	432
+2(barig)	2(bariga)[unit]	NU	N	D	I-COUNT	*	*	*	*	*
+1(ban2)	1(ban)[unit]	NU	N	D	I-COUNT	*	*	*	*	*
+2(disz)	2(disz)[one]	NU	NU	D	I-COUNT	*	*	*	*	*
+sila3	sila[unit]	N	N	D	I-COUNT	*	*	*	*	*
+sze	sze[barley]	N	N	D	I-COUNT	*	*	*	*	*
+lugal	lugal[king]	N	N	D	_	_	_	_	_	_
+sze	sze[barley]	N	N	D	B-COM	_	_	_	_	_
+gurx(|SZE.KIN|)-gurx(|SZE.KIN|)-sze3	_	V	NF.V.PT.TERM	Iabcdef	_	_	_	_	_	_
+ki	ki[place]	N	N	D	_	_	_	_	_	_
+ur-e11-e-ta	Ure'e[1][-ak]-ta	PN	PN.GEN.ABL	D	_	_	_	_	_	_
+da-du-mu	Dadumu[1][-ak]	PN	PN.GEN	D	_	_	_	_	_	_
+u3	u[and]	CNJ	CNJ	D	_	_	_	_	_	_
+ur-su4-su4	_	PN	PN.DAT-H	Iab	_	_	_	_	_	_
+szu	szu[hand][-e]	N	N.L3-NH	D	_	_	_	_	_	_
+ba-ti	ba[-n]-teg[accept][-ø]	V	MID.3-SG-H-A.V.3-SG-P	D	_	_	_	_	_	_
+guru7	guru[grain_heap]	N	N	D	_	_	_	_	_	_
+a-u2-da-ta	A'uda[1][-ak]-ta	FN	FN.GEN.ABL	D	_	_	_	_	_	_
+iti	iti[month]	N	N	D	_	_	_	_	_	_
+{d}dumu-zi	Dumuzi[1][-'a]	MN	MN.L1	D	_	_	_	_	_	_
+mu	mu[year]	N	N	D	_	_	_	_	_	_
+an-sza-an{ki}	Anszan[1][-ø]	GN	GN.ABS	D	_	_	_	_	_	_
+ba-hul	ba-hulu[destroy][-ø]	V	MID.V.3-SG-S	D	_	_	_	_	_	_

@@ -1,0 +1,22 @@
+#new_text=P130819					
+FORM	SEGM	XPOSTAG	XPOSTAG	POS	?	?	?	?	?	?
+1(u)	1(u)[ten]	NU	NU	D	B-COUNT	_	10	cardinal	_	10
+kusz	kusz[leather]	N	N	D	B-COM	_	_	_	_	_
+x	_[_]	N	N	D	_	_	_	_	_	_
+ka-kesz2	_	N	N	POS	_	_	_	_	_	_
+dug	dug[pot]	N	N	D	_	_	_	_	_	_
+ba-ba	baba[porridge]	N	N	D	_	_	_	_	_	_
+saga-ka-sze3	_	V	NF.V.3-SG-NH-POSS.GEN.GEN.TERM	Iabcdefg	_	_	_	_	_	_
+ki	ki[place]	N	N	D	_	_	_	_	_	_
+a-kal-la-ta	Akala[1][-ak]-ta	PN	PN.GEN.ABL	D	_	_	_	_	_	_
+kiszib3	kiszib[seal]	N	N	D	_	_	_	_	_	_
+lugal-e2-mah-e	Lugalemahe[1]	N	PN	D	_	_	_	_	_	_
+iti	iti[month]	N	N	D	_	_	_	_	_	_
+min-esz3	Minesz[1][-'a]	MN	MN.L1	D	_	_	_	_	_	_
+mu	mu[year]	N	N	D	_	_	_	_	_	_
+{d}szu-{d}suen	Szusuen[1]	RN	RN	D	_	_	_	_	_	_
+lugal	lugal[king]	N	N	D	_	_	_	_	_	_
+ur-{d}nun-gal	Urnungal[1][-ak]	PN	PN.GEN	D	_	_	_	_	_	_
+dub-sar	dubsar[scribe]	N	N	D	_	_	_	_	_	_
+dumu	dumu[child]	N	N	D	_	_	_	_	_	_
+lugal-e2-mah-e	Lugalemahe[1]	N	PN	D	_	_	_	_	_	_

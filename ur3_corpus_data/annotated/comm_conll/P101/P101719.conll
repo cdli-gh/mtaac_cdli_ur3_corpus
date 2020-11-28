@@ -1,0 +1,25 @@
+#new_text=P101719					
+FORM	SEGM	XPOSTAG	XPOSTAG	POS	B-COUNT	l	10	"dry	*	*
+1(ban2)	1(ban)[unit]	NU	N	D	I-COUNT	*	*	*	sila3	10
+kasz	kasz[beer]	N	N	D	B-COM	_	_	_	_	_
+ninda	ninda[bread]	N	N	D	_	_	_	_	_	_
+na-ra-me-a	Narame'a[1][-ra]	PN	PN.DAT-H	D	_	_	_	_	_	_
+*RETOK*-capacity"	?	?	?	?	B-COUNT	l	8	"liquid	*	*
+*RETOK*-capacity"	?	?	?	?	I-COUNT	l	8	"dry	sila3	8
+8(disz)	8(disz)[one]	NU	NU	D	I-COUNT	*	*	*	sila3	8
+sila3	sila[unit]	N	N	D	I-COUNT	*	*	*	*	*
+szar2-ra-ab-du	szarrabdu[administrator][-ak]	N	N.GEN	D	_	_	_	_	_	_
+*RETOK*-capacity"	?	?	?	?	B-COUNT	l	4	"liquid	*	*
+*RETOK*-capacity"	?	?	?	?	I-COUNT	l	4	"dry	sila3	4
+4(disz)	4(disz)[one]	NU	NU	D	I-COUNT	*	*	*	sila3	4
+sila3	sila[unit]	N	N	D	I-COUNT	*	*	*	*	*
+mu-da-sa6	Mudasa[1][-ra]	PN	PN.DAT-H	D	_	_	_	_	_	_
+*RETOK*-capacity"	?	?	?	?	B-COUNT	l	10	"dry	*	*
+1(ban2)	1(ban)[unit]	NU	N	D	I-COUNT	*	*	*	sila3	10
+szesz	szesz[brother]	N	N	D	_	_	_	_	_	_
+{d}szul-gi-i3-li2	Szulgirili[1][-ak][-ra]	PN	PN	D	_	_	_	_	_	_
+u4	ud[day]	N	N	D	_	_	_	_	_	_
+2(u)	2(u)[ten]	NU	NU	D	B-COUNT	_	20	cardinal	_	20
+8(disz)-kam	8(disz)[one]-ak-am	NU	NU.GEN.COP-3-SG	D	B-COUNT	_	8	cardinal	_	8
+iti	iti[month]	N	N	D	_	_	_	_	_	_
+sze-il2-la	Sze'ila[1][-'a]	MN	MN.L1	D	_	_	_	_	_	_

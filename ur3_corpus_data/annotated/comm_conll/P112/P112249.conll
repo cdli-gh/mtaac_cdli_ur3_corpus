@@ -1,0 +1,21 @@
+#new_text=P112249					
+FORM	SEGM	XPOSTAG	XPOSTAG	POS	?	?	?	?	?	?
+1(asz)	1(asz)[one]	NU	NU	D	B-COUNT	_	1	cardinal	_	1
+dabin	dabin[semolina]	N	N	D	B-COM	_	_	_	_	_
+gur	gur[unit]	N	N	D	_	_	_	_	_	_
+lu2	lu[person]	N	N	D	_	_	_	_	_	_
+mu13-mu13-me	_	V	V	POS	_	_	_	_	_	_
+ki	ki[place]	N	N	D	_	_	_	_	_	_
+sig4-te-li2	_	PN	PN.ERG	Iabcdefgh	_	_	_	_	_	_
+giri3	giri[foot]	N	N	D	_	_	_	_	_	_
+ad-da-gi-na	_	PN	PN	Iabcde	_	_	_	_	_	_
+ki	ki[place]	N	N	D	_	_	_	_	_	_
+lu2-sa6-x-UR-ta	_	PN	PN.GEN.ABL	Iabcdef	_	_	_	_	_	_
+kiszib3	kiszib[seal]	N	N	D	_	_	_	_	_	_
+ur-{d}nun-gal	Urnungal[1][-ak]	PN	PN.GEN	D	_	_	_	_	_	_
+iti	iti[month]	N	N	D	_	_	_	_	_	_
+szu-esz5-sza	Szu'eszsza[1][-'a]	MN	MN.L1	D	_	_	_	_	_	_
+mu	mu[year]	N	N	D	_	_	_	_	_	_
+en	en[priest]	N	N	D	_	_	_	_	_	_
+ga-esz5{ki}	_	SN	SN.GEN.ABS	Iab	_	_	_	_	_	_
+ba-hun	ba-hug[hire][-ø]	V	MID.V.3-SG-S	D	_	_	_	_	_	_

@@ -1,0 +1,23 @@
+#new_text=P144127					
+FORM	SEGM	XPOSTAG	XPOSTAG	POS	B-COUNT	l	60	"dry	*	*
+1(barig)	1(bariga)[unit]	NU	N	D	I-COUNT	*	*	*	sila3	60
+dabin	dabin[semolina]	N	N	D	B-COM	_	_	_	_	_
+zi3	zid[flour]	N	N	D	_	_	_	_	_	_
+a-gar-ka-sze3	_	N	N	POS	_	_	_	_	_	_
+*RETOK*-capacity"	?	?	?	?	B-COUNT	l	240	"dry	*	*
+4(barig)	4(bariga)[unit]	NU	N	D	I-COUNT	*	*	*	sila3	240
+ur-ge6-par4	Ur-gepar[1]	PN	PN	D	_	_	_	_	_	_
+ki	ki[place]	N	N	D	_	_	_	_	_	_
+ba-za-ta	_	V	MID.V.3-SG-S.ABL	Iabcdefg	_	_	_	_	_	_
+iti	iti[month]	N	N	D	_	_	_	_	_	_
+diri	diri[intercalary_month]	N	N	D	_	_	_	_	_	_
+kiszib3	kiszib[seal]	N	N	D	_	_	_	_	_	_
+a-kal-la	Akala[1]	PN	PN	D	_	_	_	_	_	_
+aszgab	aszgab[leatherworker]	N	N	D	_	_	_	_	_	_
+mu	mu[year]	N	N	D	_	_	_	_	_	_
+sza-asz-szu2-ru{ki}	Szaszszuru[1]	SN	SN	D	_	_	_	_	_	_
+ba-hul	ba-hulu[destroy][-ø]	V	MID.V.3-SG-S	D	_	_	_	_	_	_
+a-kal-la	Akala[1]	PN	PN	D	_	_	_	_	_	_
+dumu	dumu[child]	N	N	D	_	_	_	_	_	_
+lu2-bulug3-ga2	Lugalitida[1]	PN	PN	D	_	_	_	_	_	_
+aszgab-gal	aszgabgal[head_leatherworker][-ak]	N	N.GEN	D	_	_	_	_	_	_

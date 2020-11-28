@@ -1,0 +1,22 @@
+#new_text=P108252					
+FORM	SEGM	XPOSTAG	XPOSTAG	POS	B-COUNT	l	30	"liquid	*	*
+1(disz)	1(disz)[one]	NU	NU	D	I-COUNT	*	*	*	sila3	30
+dug	dug[pot]	N	N	D	I-COUNT	*	*	*	*	*
+udul2	utul[tureen]	N	N	D	_	_	_	_	_	_
+i3	i[oil]	N	N	D	B-COM	_	_	_	_	_
+*RETOK*-capacity"	?	?	?	?	B-COUNT	l	30	"liquid	*	*
+1(disz)	1(disz)[one]	NU	NU	D	I-COUNT	*	*	*	sila3	30
+dug	dug[pot]	N	N	D	I-COUNT	*	*	*	*	*
+udul2	utul[tureen]	N	N	D	_	_	_	_	_	_
+kasz	kasz[beer]	N	N	D	B-COM	_	_	_	_	_
+ba-za-za	_	PN	PN	POS	_	_	_	_	_	_
+sukkal	sukkal[secretary][-ak][-ra]	N	N	D	_	_	_	_	_	_
+lugal	lugal[king]	N	N	D	_	_	_	_	_	_
+zi-ga	zig[expend]-a	V	NF.V.PT	D	_	_	_	_	_	_
+sza3	szag[heart]	N	N	D	_	_	_	_	_	_
+nibru{ki}	Nibru[1][-'a]	SN	SN.GEN.ABS	D	_	_	_	_	_	_
+iti	iti[month]	N	N	D	_	_	_	_	_	_
+diri	diri[intercalary_month]	N	N	D	_	_	_	_	_	_
+mu	mu[year]	N	N	D	_	_	_	_	_	_
+{d}szu-{d}suen	Szusuen[1]	RN	RN	D	_	_	_	_	_	_
+lugal	lugal[king]	N	N	D	_	_	_	_	_	_

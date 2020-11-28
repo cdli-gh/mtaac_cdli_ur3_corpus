@@ -1,0 +1,19 @@
+#new_text=P111864					
+FORM	SEGM	XPOSTAG	XPOSTAG	POS	?	?	?	?	?	?
+4(disz)	4(disz)[one]	NU	NU	D	B-COUNT	_	4	cardinal	_	4
+{gi}kid	kid[mat]	N	N	D	B-COM	_	_	_	_	_
+szu4	_	V	V	POS	_	_	_	_	_	_
+ma2	ma[ship]	N	N	D	_	_	_	_	_	_
+ki	ki[place]	N	N	D	_	_	_	_	_	_
+lu2-usz-gi-na-ta	_	PN	PN.GEN.ABL	Iab	_	_	_	_	_	_
+ma2	ma[ship]	N	N	D	_	_	_	_	_	_
+gu4	gud[ox]	N	N	D	_	_	_	_	_	_
+niga-sze3	_	V	NF.V.3-SG-NH-POSS.GEN.GEN.TERM	Iabcdefg	_	_	_	_	_	_
+kiszib3	kiszib[seal]	N	N	D	_	_	_	_	_	_
+ukken-ne2	_	PN	PN	POS	_	_	_	_	_	_
+iti	iti[month]	N	N	D	_	_	_	_	_	_
+a2-ki-ti	Akiti[1][-'a]	N	MN.L1	D	_	_	_	_	_	_
+mu	mu[year]	N	N	D	_	_	_	_	_	_
+ma2	ma[ship]	N	N	D	_	_	_	_	_	_
+{d}en-ki	Enki[1][-ak][-ø]	DN	DN.GEN.ABS	D	_	_	_	_	_	_
+ba-ab-du8	ba-b-du[caulk][-ø]	V	MID.3-SG-NH-L3.V.3-SG-S	D	_	_	_	_	_	_

@@ -1,0 +1,18 @@
+#new_text=P105497					
+FORM	SEGM	XPOSTAG	XPOSTAG	POS	B-COUNT	l	8	"liquid	*	*
+*RETOK*-capacity"	?	?	?	?	I-COUNT	l	8	"dry	sila3	8
+8(disz)	8(disz)[one]	NU	NU	D	I-COUNT	*	*	*	sila3	8
+sila3	sila[unit]	N	N	D	I-COUNT	*	*	*	*	*
+zi3-gu	zidgu[flour_type]	N	N	D	B-COM	_	_	_	_	_
+kiszib3	kiszib[seal]	N	N	D	_	_	_	_	_	_
+du11-ga-zi-da	_	PN	PN	D	_	_	_	_	_	_
+ki	ki[place]	N	N	D	_	_	_	_	_	_
+ur-{d}en-lil2-la2-ta	_	PN	PN.GEN.GEN.ABL	Iabcdefg	_	_	_	_	_	_
+u3-um-de6	_	V	ANT.MID.V.3-SG-S	Iabcdefg	_	_	_	_	_	_
+kiszib3	kiszib[seal]	N	N	D	_	_	_	_	_	_
+lu2-{d}nin-szubur-ka	_	PN	PN.GEN.GEN.GEN	Iabcdefg	_	_	_	_	_	_
+zi-re-dam	_	PN	PN	POS	_	_	_	_	_	_
+mu	mu[year]	N	N	D	_	_	_	_	_	_
+us2-sa	us[follow]-a	V	NF.V.PT	D	_	_	_	_	_	_
+si-ma-num2{ki}	Simanum[1][-ø]	GN	SN.ABS	D	_	_	_	_	_	_
+ba-hul	ba-hulu[destroy][-ø]	V	MID.V.3-SG-S	D	_	_	_	_	_	_

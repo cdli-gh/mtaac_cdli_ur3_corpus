@@ -1,0 +1,23 @@
+#new_text=P133085					
+FORM	SEGM	XPOSTAG	XPOSTAG	POS	?	?	?	?	?	?
+4(u)	4(u)[ten]	NU	NU	D	B-COUNT	_	45	cardinal	_	45
+5(disz)	5(disz)[one]	NU	NU	D	I-COUNT	*	*	*	*	*
+geme2	geme[female_worker]	N	N	D	_	_	_	_	_	_
+i3	i[oil]	N	N	D	B-COM	_	_	_	_	_
+sur	_	N	N	POS	_	_	_	_	_	_
+u4	ud[day]	N	N	D	_	_	_	_	_	_
+3(disz)-sze3	3(disz)[one]-sze	NU	NU.TERM	D	B-COUNT	_	3	cardinal	_	3
+a	a[water][-ø]	N	N.ABS	D	B-COM	_	_	_	_	_
+e3-a	e[leave]-a	V	NF.V.PT	D	_	_	_	_	_	_
+e	eg[levee]	N	N	D	_	_	_	_	_	_
+gesz-gi-banda3{da}	Geszgibanda[1][-ø]	FN	FN	D	_	_	_	_	_	_
+gub-ba	gub[assigned]-a[-ak][-ø]	V	NF.V.PT	D	_	_	_	_	_	_
+kiszib3	kiszib[seal]	N	N	D	_	_	_	_	_	_
+ur-{d}isztaran	Urisztaran[1]	PN	PN.GEN.ABS	D	_	_	_	_	_	_
+mu	mu[year]	N	N	D	_	_	_	_	_	_
+{d}szu-{d}suen	Szusuen[1]	RN	RN	D	_	_	_	_	_	_
+lugal	lugal[king]	N	N	D	_	_	_	_	_	_
+ur-{d}isztaran	Urisztaran[1]	PN	PN.GEN.ABS	D	_	_	_	_	_	_
+dub-sar	dubsar[scribe]	N	N	D	_	_	_	_	_	_
+dumu	dumu[child]	N	N	D	_	_	_	_	_	_
+na-ba-sa6	Nabasa[1][-ak]	PN	PN.GEN	D	_	_	_	_	_	_

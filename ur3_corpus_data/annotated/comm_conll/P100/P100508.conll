@@ -1,0 +1,27 @@
+#new_text=P100508					
+FORM	SEGM	XPOSTAG	XPOSTAG	POS	?	?	?	?	?	?
+5(disz)	5(disz)[one]	NU	NU	D	B-COUNT	_	5	cardinal	_	5
+gurusz	gurusz[male]	N	N	D	B-COM	_	_	_	_	_
+u4	ud[day]	N	N	D	_	_	_	_	_	_
+6(disz)-sze3	6(disz)[one]-sze	NU	NU.TERM	D	B-COUNT	_	6	cardinal	_	6
+umma{ki}-sze3	_	SN	SN.GEN.TERM	Iabcd	_	_	_	_	_	_
+ma2	ma[ship]	N	N	D	_	_	_	_	_	_
+szah2	szah[pig][-ak]	N	N	D	B-COM	_	_	_	_	_
+u3	u[and]	CNJ	CNJ	D	_	_	_	_	_	_
+ga	ga[milk]	N	N	D	_	_	_	_	_	_
+ku6	kud[fish]	N	N	D	_	_	_	_	_	_
+ba-zi	ba-zig[expend][-ø]	PN	MID.V.3-SG-S	D	_	_	_	_	_	_
+gid2-da	gid[lengthen]-a[-ø]	V	NF.V.PT	D	_	_	_	_	_	_
+u3	u[and]	CNJ	CNJ	D	_	_	_	_	_	_
+gur-ra	gur[unit]-ak	V	NF.V.PT	D	_	_	_	_	_	_
+kiszib3	kiszib[seal]	N	N	D	_	_	_	_	_	_
+a-tu	Atu[1][-ak]	PN	PN	D	_	_	_	_	_	_
+mu	mu[year]	N	N	D	_	_	_	_	_	_
+ku3	kug[silver]	N	N	D	_	_	_	_	_	_
+gu-za	guza[chair][-ø]	N	N	D	_	_	_	_	_	_
+{d}en-lil2-la2	Enlil[1][-ak][-ø]	DN	DN.GEN	D	_	_	_	_	_	_
+ba-dim2	ba-dim[create][-ø]	V	MID.V.3-SG-S	D	_	_	_	_	_	_
+a-tu	Atu[1][-ak]	PN	PN	D	_	_	_	_	_	_
+dub-sar	dubsar[scribe]	N	N	D	_	_	_	_	_	_
+dumu	dumu[child]	N	N	D	_	_	_	_	_	_
+szesz-kal-la	Szeszkala[1][-ra]	PN	PN	D	_	_	_	_	_	_

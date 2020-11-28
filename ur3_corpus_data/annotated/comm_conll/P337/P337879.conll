@@ -1,0 +1,16 @@
+#new_text=P337879					
+FORM	SEGM	XPOSTAG	XPOSTAG	POS	?	?	?	?	?	?
+4(asz)	4(asz)[one]	NU	NU	D	B-COUNT	g	120000.00000000001	weight	gin2	14400
+gu2	gun[unit]	N	N	D	I-COUNT	*	*	*	*	*
+ma2	ma[ship]	N	N	D	_	_	_	_	_	_
+a-pu2	_	N	N	POS	_	_	_	_	_	_
+{u2}sa-de3	_	N	N	POS	B-COM	_	_	_	_	_
+kiszib3	kiszib[seal]	N	N	D	_	_	_	_	_	_
+a-kal-la	Akala[1]	PN	PN	D	_	_	_	_	_	_
+a-kal-la	Akala[1]	PN	PN	D	_	_	_	_	_	_
+dub-sar	dubsar[scribe]	N	N	D	_	_	_	_	_	_
+dumu	dumu[child]	N	N	D	_	_	_	_	_	_
+ur-x	_	PN	PN	Iabcdefgh	_	_	_	_	_	_
+x	_[_]	N	N	D	_	_	_	_	_	_
+x	_[_]	N	N	D	_	_	_	_	_	_
+...	_[_]	PN	N	D	_	_	_	_	_	_

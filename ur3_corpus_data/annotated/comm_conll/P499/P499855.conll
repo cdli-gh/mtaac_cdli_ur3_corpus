@@ -1,0 +1,25 @@
+#new_text=P499855					
+FORM	SEGM	XPOSTAG	XPOSTAG	POS	?	?	?	?	?	?
+6(bur3)	6(bur)[unit]	NU	N	D	B-COUNT	m^2	388800.0	surface	gin2	648000
+GAN2	gana[field]	N	N	D	I-COUNT	*	*	*	*	*
+gurx(|SZE.KIN|)-a	gur[reap]-a	V	NF.V.PT	D	_	_	_	_	_	_
+5(u)	5(u)[ten]	NU	NU	D	B-COUNT	_	50	cardinal	_	50
+gurusz	gurusz[male]	N	N	D	B-COM	_	_	_	_	_
+u4	ud[day]	N	N	D	_	_	_	_	_	_
+1(asz)-sze3	_	NU	NU.GEN.COP-3-SG.TERM	Iabcdefg	B-COUNT	_	1	cardinal	_	1
+zar3	zar[sheaf]	N	N	D	B-COM	_	_	_	_	_
+ib2-tab	_	V	V	POS	_	_	_	_	_	_
+ugula	ugula[overseer][-ø]	N	N	D	_	_	_	_	_	_
+szesz-da-da	Szeszdada[1]	PN	PN	D	_	_	_	_	_	_
+a-sza3	aszag[field]	N	N	D	_	_	_	_	_	_
+nin9-kal-la	Ninkala[1]	PN	PN	D	_	_	_	_	_	_
+nu-banda3	nubanda[overseer][-ø]	N	N	D	_	_	_	_	_	_
+lu2-su4	Lusu[1]	PN	PN	D	_	_	_	_	_	_
+iti	iti[month]	N	N	D	_	_	_	_	_	_
+bara2-za3-gar-ra	_	MN	MN	POS	_	_	_	_	_	_
+mu	mu[year]	N	N	D	_	_	_	_	_	_
+en	en[priest]	N	N	D	_	_	_	_	_	_
+{d}inanna	Inanna[1][-ak]	DN	DN	D	_	_	_	_	_	_
+unu{ki}-ga	Unug[1]-ak[-ak][-ø]	SN	SN.GEN	D	_	_	_	_	_	_
+masz2	masz[goat]	N	N	D	_	_	_	_	_	_
+i3-pa3	i-pad[find][-ø]	V	FIN.V.3-SG-S	D	_	_	_	_	_	_

@@ -1,0 +1,19 @@
+#new_text=P407104					
+FORM	SEGM	XPOSTAG	XPOSTAG	POS	?	?	?	?	?	?
+2(disz)	2(disz)[one]	NU	NU	D	B-COUNT	_	2	cardinal	_	2
+dusu2	_	N	N	POS	B-COM	_	_	_	_	_
+nita2	_	N	N	D	_	_	_	_	_	_
+szu-gid2	szugid[animal_designation][-ø]	N	N	D	_	_	_	_	_	_
+nam-ra-ak	_	N	N.ADV	Iabcdefgh	_	_	_	_	_	_
+kur	kur[east]	N	N	D	_	_	_	_	_	_
+mar-tu	Martu[1][-ø]	EN	EN.ABS	D	_	_	_	_	_	_
+ki	ki[place]	N	N	D	_	_	_	_	_	_
+ab-ba-sa6-ga-ta	Abbasaga[1][-ak]-ta	PN	PN.GEN.ABL	D	_	_	_	_	_	_
+szu-er3-ra	Szu'era[1][-e]	PN	PN	D	_	_	_	_	_	_
+i3-dab5	i[-n]-dab[seize][-ø]	V	FIN.3-SG-H-A.V.3-SG-P	D	_	_	_	_	_	_
+iti	iti[month]	N	N	D	_	_	_	_	_	_
+ezem-{d}nin-a-zu	Ezemninazu[1][-'a]	MN	MN.L1	D	_	_	_	_	_	_
+mu	mu[year]	N	N	D	_	_	_	_	_	_
+{d}gu-za	guza[chair]	PN	N	D	_	_	_	_	_	_
+{d}en-lil2-la2	Enlil[1][-ak][-ø]	DN	DN.GEN	D	_	_	_	_	_	_
+ba-dim2	ba-dim[create][-ø]	V	MID.V.3-SG-S	D	_	_	_	_	_	_

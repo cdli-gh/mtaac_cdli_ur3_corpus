@@ -1,0 +1,20 @@
+#new_text=P249110					
+FORM	SEGM	XPOSTAG	XPOSTAG	POS	?	?	?	?	?	?
+3(barig)	3(bariga)[unit]	NU	N	D	B-COUNT	*	*	*	*	*
+sze	sze[barley]	N	N	D	I-COUNT	*	*	*	*	*
+ur5-ra	urra[loan]	N	N	D	B-COM	_	_	_	_	_
+a-sza3	aszag[field]	N	N	D	_	_	_	_	_	_
+{d}nin-ur4-ra-ta	_	DN	DN.GEN.ABL	Iabcdef	_	_	_	_	_	_
+ki	ki[place]	N	N	D	_	_	_	_	_	_
+ensi2-ka-ta	ensik[ruler]-ak-ta	N	N.GEN.ABL	D	_	_	_	_	_	_
+kiszib3	kiszib[seal]	N	N	D	_	_	_	_	_	_
+szesz-kal-la	Szeszkala[1][-ra]	PN	PN	D	_	_	_	_	_	_
+iti	iti[month]	N	N	D	_	_	_	_	_	_
+{d}dumu-zi	Dumuzi[1][-'a]	MN	MN.L1	D	_	_	_	_	_	_
+mu	mu[year]	N	N	D	_	_	_	_	_	_
+sza-asz-szu2-ru-um{ki}	Szaszszurum[1][-ø]	SN	SN.ABS	D	_	_	_	_	_	_
+ba-hul	ba-hulu[destroy][-ø]	V	MID.V.3-SG-S	D	_	_	_	_	_	_
+szesz-kal-la	Szeszkala[1][-ra]	PN	PN	D	_	_	_	_	_	_
+dub-sar	dubsar[scribe]	N	N	D	_	_	_	_	_	_
+dumu	dumu[child]	N	N	D	_	_	_	_	_	_
+...	_[_]	PN	N	D	_	_	_	_	_	_

@@ -1,0 +1,25 @@
+#new_text=P324354					
+FORM	SEGM	XPOSTAG	XPOSTAG	POS	?	?	?	?	?	?
+1(disz)	1(disz)[one]	NU	NU	D	B-COUNT	_	1	cardinal	_	1
+tug2	tug[textile]	N	N	D	B-COM	_	_	_	_	_
+nig2-lam2	niglam[ceremonial_garment][-ak]	N	N.GEN	D	_	_	_	_	_	_
+x	_[_]	N	N	D	_	_	_	_	_	_
+szu-kab-ta	_	PN	PN.GEN.GEN.ABL	Iabcdef	_	_	_	_	_	_
+ki	ki[place]	N	N	D	_	_	_	_	_	_
+{d}iszkur-illat-ta	Iszkurillat[1][-ak]-ta	PN	PN.GEN.ABL	D	_	_	_	_	_	_
+szu-{d}nin-isin2{si}	_	PN	PN	Iabcde	_	_	_	_	_	_
+szu	szu[hand][-e]	N	N.L3-NH	D	_	_	_	_	_	_
+ba-ti	ba[-n]-teg[accept][-ø]	V	MID.3-SG-H-A.V.3-SG-P	D	_	_	_	_	_	_
+iti	iti[month]	N	N	D	_	_	_	_	_	_
+u5-bi2-gu7	Ubigu[1][-'a]	MN	MN.L1	D	_	_	_	_	_	_
+mu	mu[year]	N	N	D	_	_	_	_	_	_
+en	en[priest]	N	N	D	_	_	_	_	_	_
+{d}inanna	Inanna[1][-ak]	DN	DN	D	_	_	_	_	_	_
+unu{ki}-ga	Unug[1]-ak[-ak][-ø]	SN	SN.GEN	D	_	_	_	_	_	_
+masz2-e	masz[goat]-e	N	N.L3-NH	D	_	_	_	_	_	_
+i3-pa3	i-pad[find][-ø]	V	FIN.V.3-SG-S	D	_	_	_	_	_	_
+szu-{d}nin-isin2{si}	_	PN	PN	Iabcde	_	_	_	_	_	_
+dumu	dumu[child]	N	N	D	_	_	_	_	_	_
+ip-szu-ta	_	PN	PN.GEN.ABL	Iab	_	_	_	_	_	_
+ARAD2	arad[slave]	N	N	D	_	_	_	_	_	_
+szu-kab-ta2	_	PN	PN	D	_	_	_	_	_	_

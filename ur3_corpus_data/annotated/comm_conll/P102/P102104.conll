@@ -1,0 +1,24 @@
+#new_text=P102104					
+FORM	SEGM	XPOSTAG	XPOSTAG	POS	B-COUNT	l	0.0045370370370370365	"dry	*	*
+5(u)	5(u)[ten]	NU	NU	D	I-COUNT	*	*	*	sila3	0.0045370370370370365
+la2	la[hang][-ø]	V	NF.V.ABS	D	I-COUNT	*	*	*	*	*
+1(asz)	1(asz)[one]	NU	NU	D	I-COUNT	*	*	*	*	*
+sze	sze[barley]	N	N	D	I-COUNT	*	*	*	*	*
+gur	gur[unit]	N	N	D	I-COUNT	*	*	*	*	*
+lugal	lugal[king]	N	N	D	_	_	_	_	_	_
+sze-numun-sze3	_	N	N.3-SG-H-POSS.TERM	Iabcdefg	_	_	_	_	_	_
+i3-dub	idub[granary]	N	N	D	_	_	_	_	_	_
+igi-{gesz}kiri6-ta	_	N	N	POS	B-COM	_	_	_	_	_
+ki	ki[place]	N	N	D	_	_	_	_	_	_
+szu-esz-dar-ta	_	PN	PN	POS	_	_	_	_	_	_
+kiszib3	kiszib[seal]	N	N	D	_	_	_	_	_	_
+ur-szu-ga-lam-ma	_	N	PN.GEN.ABS	D	_	_	_	_	_	_
+dumu	dumu[child]	N	N	D	_	_	_	_	_	_
+{d}utu-mu	Utumu[1][-ø]	PN	PN.DAT-H	D	_	_	_	_	_	_
+mu	mu[year]	N	N	D	_	_	_	_	_	_
+us2-sa	us[follow]-a	V	NF.V.PT	D	_	_	_	_	_	_
+ur-bi2-lum{ki}	Urbilum[1][-ø]	GN	SN.ABS	D	_	_	_	_	_	_
+ba-hul	ba-hulu[destroy][-ø]	V	MID.V.3-SG-S	D	_	_	_	_	_	_
+ur-szu-ga-lam-ma	_	N	PN.GEN.ABS	D	_	_	_	_	_	_
+dumu	dumu[child]	N	N	D	_	_	_	_	_	_
+{d}utu-mu	Utumu[1][-ø]	PN	PN.DAT-H	D	_	_	_	_	_	_

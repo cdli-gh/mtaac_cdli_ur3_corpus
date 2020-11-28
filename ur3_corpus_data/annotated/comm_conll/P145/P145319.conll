@@ -1,0 +1,20 @@
+#new_text=P145319					
+FORM	SEGM	XPOSTAG	XPOSTAG	POS	?	?	?	?	?	?
+1(disz)	1(disz)[one]	NU	NU	D	B-COUNT	_	1	cardinal	_	1
+sila4	sila[lamb]	N	N	D	B-COM	_	_	_	_	_
+ga	ga[milk]	N	N	D	_	_	_	_	_	_
+ki	ki[place]	N	N	D	_	_	_	_	_	_
+lugal	lugal[king]	N	N	D	_	_	_	_	_	_
+ku4-ra	kur[enter]-a	V	NF.V.PT	D	_	_	_	_	_	_
+ma2	ma[ship]	N	N	D	_	_	_	_	_	_
+uz-ga	_	N	N.GEN.TERM	Iabcde	_	_	_	_	_	_
+ki	ki[place]	N	N	D	_	_	_	_	_	_
+ur-{d}ba-ba6-ta	Urbaba[1][-ak]-ta	PN	PN.GEN.ABL	D	_	_	_	_	_	_
+u4	ud[day]	N	N	D	_	_	_	_	_	_
+lugal	lugal[king]	N	N	D	_	_	_	_	_	_
+szuruppak{ki}-ta	_	SN	SN.GEN.ABL	Iabcdefg	_	_	_	_	_	_
+i3-im-gen-na	_	PN	PN	POS	_	_	_	_	_	_
+{d}nanna-ma-ba	Nannamaba[1]	PN	PN	D	_	_	_	_	_	_
+dub-sar	dubsar[scribe]	N	N	D	_	_	_	_	_	_
+dumu	dumu[child]	N	N	D	_	_	_	_	_	_
+a-an-na	_	N	N	POS	_	_	_	_	_	_

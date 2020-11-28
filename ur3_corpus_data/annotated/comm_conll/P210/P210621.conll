@@ -1,0 +1,18 @@
+#new_text=P210621					
+FORM	SEGM	XPOSTAG	XPOSTAG	POS	?	?	?	?	?	?
+2(barig)	2(bariga)[unit]	NU	N	D	B-COUNT	*	*	*	*	*
+3(ban2)	3(ban)[unit]	NU	N	D	I-COUNT	*	*	*	*	*
+sze	sze[barley]	N	N	D	I-COUNT	*	*	*	*	*
+a2	a[time]	N	N	D	_	_	_	_	_	_
+bala-a	bala[tax][-ak]-'a	N	N.GEN.L1	D	_	_	_	_	_	_
+mu-kux(DU)	mukur[delivery][-ø]	N	N	D	_	_	_	_	_	_
+gaba-ri	gabari[copy]	N	N	D	B-COM	_	_	_	_	_
+kiszib3-ba	kiszib[seal]-a	V	N	D	_	_	_	_	_	_
+ur-{d}suen	Ursuen[1]	PN	PN	D	_	_	_	_	_	_
+giri3	giri[foot]	N	N	D	_	_	_	_	_	_
+mu-ni	_	V	N.3-SG-H-POSS.ABS	D	_	_	_	_	_	_
+iti	iti[month]	N	N	D	_	_	_	_	_	_
+szu-numun	Szunumun[1][-'a]	MN	MN.L1	D	_	_	_	_	_	_
+mu	mu[year]	N	N	D	_	_	_	_	_	_
+{d}i-bi2-{d}suen	Ibbisuen[1]	RN	RN	D	_	_	_	_	_	_
+lugal	lugal[king]	N	N	D	_	_	_	_	_	_

@@ -1,0 +1,25 @@
+#new_text=P104925					
+FORM	SEGM	XPOSTAG	XPOSTAG	POS	?	?	?	?	?	?
+3(u)	3(u)[ten]	NU	NU	D	B-COUNT	_	34	cardinal	_	34
+4(disz)	4(disz)[one]	NU	NU	D	I-COUNT	*	*	*	*	*
+dub	dub[tablet]	N	N	D	B-COM	_	_	_	_	_
+lu2-lagasz{ki}	_	PN	PN	Iabcdefgh	_	_	_	_	_	_
+2(u)	2(u)[ten]	NU	NU	D	B-COUNT	_	18	cardinal	_	18
+la2	la[hang][-ø]	V	NF.V.ABS	D	I-COUNT	*	*	*	*	*
+2(disz)	2(disz)[one]	NU	NU	D	I-COUNT	*	*	*	*	*
+dub	dub[tablet]	N	N	D	B-COM	_	_	_	_	_
+udu	udu[sheep]	N	N	D	_	_	_	_	_	_
+mu	mu[year]	N	N	D	_	_	_	_	_	_
+i-ta-e3-a-sze3	_	PN	PN.GEN.TERM	Iabcdef	_	_	_	_	_	_
+1(disz)	1(disz)[one]	NU	NU	D	B-COUNT	_	1	cardinal	_	1
+dub	dub[tablet]	N	N	D	B-COM	_	_	_	_	_
+ansze	ansze[donkey]	N	N	D	_	_	_	_	_	_
+mu	mu[year]	N	N	D	_	_	_	_	_	_
+a-hu-ma-sze3	_	PN	PN	Ia	_	_	_	_	_	_
+ur-sag-ub3{ki}	_	PN	PN.GEN.GEN	Iabcdefg	_	_	_	_	_	_
+e2-pisan-ta	_	N	N	POS	_	_	_	_	_	_
+ba-ra-de6	_	V	MID.V.3-SG-S	Iabcde	_	_	_	_	_	_
+giri3	giri[foot]	N	N	D	_	_	_	_	_	_
+ba-zi	ba-zig[expend][-ø]	PN	MID.V.3-SG-S	D	_	_	_	_	_	_
+giri3	giri[foot]	N	N	D	_	_	_	_	_	_
+nig2-{d}ba-ba6	Nigbaba[1][-e]	PN	PN.ERG	D	_	_	_	_	_	_

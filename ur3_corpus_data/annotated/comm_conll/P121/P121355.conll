@@ -1,0 +1,18 @@
+#new_text=P121355					
+FORM	SEGM	XPOSTAG	XPOSTAG	POS	?	?	?	?	?	?
+1(gesz2)	1(gesz)[sixty]	NU	NU	D	B-COUNT	_	70	cardinal	_	70
+1(u)	1(u)[ten]	NU	NU	D	I-COUNT	*	*	*	*	*
+gu4	gud[ox]	N	N	D	B-COM	_	_	_	_	_
+*RETOK*-capacity"	?	?	?	?	B-COUNT	l	30	"dry	*	*
+3(ban2)	3(ban)[unit]	NU	N	D	I-COUNT	*	*	*	sila3	30
+ki	ki[place]	N	N	D	_	_	_	_	_	_
+lu2-{d}nin-szubur-ta	Luninszubur[1][-ak]-ta	PN	PN.GEN.ABL	D	_	_	_	_	_	_
+mu-kux(DU)	mukur[delivery][-ø]	N	N	D	_	_	_	_	_	_
+sila3	sila[unit]	N	N	D	_	_	_	_	_	_
+x-x-bi	_	DN	DN	POS	_	_	_	_	_	_
+nu-ub-ta-zi	_	V	NEG.FIN.3-SG-NH.V.3-SG-S	Iabcde	_	_	_	_	_	_
+iti	iti[month]	N	N	D	_	_	_	_	_	_
+apin-du8-a	Apindu'a[1][-ta]	MN	MN.ABL	D	_	_	_	_	_	_
+mu	mu[year]	N	N	D	_	_	_	_	_	_
+{d}i-bi2-{d}suen	Ibbisuen[1]	RN	RN	D	_	_	_	_	_	_
+lugal	lugal[king]	N	N	D	_	_	_	_	_	_

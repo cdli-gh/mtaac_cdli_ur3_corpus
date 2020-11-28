@@ -1,0 +1,20 @@
+#new_text=P137468					
+FORM	SEGM	XPOSTAG	XPOSTAG	POS	B-COUNT	l	5	"liquid	*	*
+*RETOK*-capacity"	?	?	?	?	I-COUNT	l	5	"dry	sila3	5
+5(disz)	5(disz)[one]	NU	NU	D	I-COUNT	*	*	*	sila3	5
+sila3	sila[unit]	N	N	D	I-COUNT	*	*	*	*	*
+i3-gesz	igesz[oil]	V	N	D	B-COM	_	_	_	_	_
+...	_[_]	PN	N	D	_	_	_	_	_	_
+na-ba-sa6	Nabasa[1][-ak]	PN	PN.GEN	D	_	_	_	_	_	_
+...	_[_]	PN	N	D	_	_	_	_	_	_
+i3-du8	idu[doorkeeper][-ø]	PN	N.GEN.ABS	D	_	_	_	_	_	_
+giri3-se3-ga	girsiga[attendant]	N	N	D	_	_	_	_	_	_
+ki	ki[place]	N	N	D	_	_	_	_	_	_
+mu-ra-ka	_	PN	PN	POS	_	_	_	_	_	_
+x	_[_]	N	N	D	_	_	_	_	_	_
+iti	iti[month]	N	N	D	_	_	_	_	_	_
+ezem-{d}me-ki-gal2	Ezemmekigal[1]-['a]	MN	MN.L1	D	_	_	_	_	_	_
+mu	mu[year]	N	N	D	_	_	_	_	_	_
+x	_[_]	N	N	D	_	_	_	_	_	_
+x	_[_]	N	N	D	_	_	_	_	_	_
+x	_[_]	N	N	D	_	_	_	_	_	_

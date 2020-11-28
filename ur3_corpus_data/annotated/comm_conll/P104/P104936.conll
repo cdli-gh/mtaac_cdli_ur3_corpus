@@ -1,0 +1,26 @@
+#new_text=P104936					
+FORM	SEGM	XPOSTAG	XPOSTAG	POS	?	?	?	?	?	?
+1(disz)	1(disz)[one]	NU	NU	D	B-COUNT	_	1	cardinal	_	1
+gu4	gud[ox]	N	N	D	B-COM	_	_	_	_	_
+2(disz)	2(disz)[one]	NU	NU	D	B-COUNT	_	2	cardinal	_	2
+ansze	ansze[donkey]	N	N	D	_	_	_	_	_	_
+3(disz)	3(disz)[one]	NU	NU	D	B-COUNT	_	3	cardinal	_	3
+dur3	_	N	N	POS	_	_	_	_	_	_
+1(disz)	1(disz)[one]	NU	NU	D	B-COUNT	_	1	cardinal	_	1
+dur3	_	N	N	POS	_	_	_	_	_	_
+1(disz)	1(disz)[one]	NU	NU	D	B-COUNT	_	1	cardinal	_	1
+apin	apin[plow]	N	N	D	_	_	_	_	_	_
+gibil-sze3	_	V	NF.V.ABS.TERM	Iabcdefg	_	_	_	_	_	_
+ki	ki[place]	N	N	D	_	_	_	_	_	_
+ur-gu-la-ta	_	PN	PN.GEN.ABL	Iab	_	_	_	_	_	_
+ur-{d}lamma	Urlamma[1]	PN	PN	D	_	_	_	_	_	_
+dumu	dumu[child]	N	N	D	_	_	_	_	_	_
+si-du3	_	PN	PN	POS	_	_	_	_	_	_
+i3-dab5	i[-n]-dab[seize][-ø]	V	FIN.3-SG-H-A.V.3-SG-P	D	_	_	_	_	_	_
+iti	iti[month]	N	N	D	_	_	_	_	_	_
+munu4-gu7	Munugu[1][-'a]	MN	MN.L1	D	_	_	_	_	_	_
+mu	mu[year]	N	N	D	_	_	_	_	_	_
+us2-sa	us[follow]-a	V	NF.V.PT	D	_	_	_	_	_	_
+ki-masz{ki}	Kimasz[1]	SN	SN.ABS	D	_	_	_	_	_	_
+mu	mu[year]	N	N	D	_	_	_	_	_	_
+us2-sa-bi	us[follow]-a-bi	V	NF.V.PT.3-SG-NH-POSS	D	B-COM	_	_	_	_	_

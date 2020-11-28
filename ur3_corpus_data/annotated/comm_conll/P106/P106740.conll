@@ -1,0 +1,15 @@
+#new_text=P106740					
+FORM	SEGM	XPOSTAG	XPOSTAG	POS	?	?	?	?	?	?
+x	_[_]	N	N	D	_	_	_	_	_	_
+*RETOK*-capacity"	?	?	?	?	B-COUNT	l	60	"dry	*	*
+1(barig)	1(bariga)[unit]	NU	N	D	I-COUNT	*	*	*	sila3	60
+sze-ba	szeba[ration]	N	N	D	B-COM	_	_	_	_	_
+za3-mu	Zamu[1][-ak]	PN	N	D	_	_	_	_	_	_
+ur-{d}gilgamesx(|BIL3.GA.MES|)	Urgilgamesx[1][-ra]	PN	PN.DAT-H	D	_	_	_	_	_	_
+bahar3	bahar[potter]	N	N	D	_	_	_	_	_	_
+iti	iti[month]	N	N	D	_	_	_	_	_	_
+{d}dumu-zi	Dumuzi[1][-'a]	MN	MN.L1	D	_	_	_	_	_	_
+mu	mu[year]	N	N	D	_	_	_	_	_	_
+en-unu6-gal	Enunugal[1]	PN	PN	D	_	_	_	_	_	_
+{d}inanna	Inanna[1][-ak]	DN	DN	D	_	_	_	_	_	_
+ba-hun	ba-hug[hire][-ø]	V	MID.V.3-SG-S	D	_	_	_	_	_	_

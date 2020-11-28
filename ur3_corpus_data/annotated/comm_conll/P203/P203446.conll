@@ -1,0 +1,25 @@
+#new_text=P203446					
+FORM	SEGM	XPOSTAG	XPOSTAG	POS	?	?	?	?	?	?
+1(u)	1(u)[ten]	NU	NU	D	B-COUNT	*	*	*	*	*
+4(asz)	4(asz)[one]	NU	NU	D	I-COUNT	*	*	*	*	*
+4(barig)	4(bariga)[unit]	NU	N	D	I-COUNT	*	*	*	*	*
+sze	sze[barley]	N	N	D	I-COUNT	*	*	*	*	*
+gur	gur[unit]	N	N	D	I-COUNT	*	*	*	*	*
+lugal	lugal[king]	N	N	D	_	_	_	_	_	_
+sze	sze[barley]	N	N	D	B-COM	_	_	_	_	_
+ur5-ra	urra[loan]	N	N	D	_	_	_	_	_	_
+erin2-na-sze3	erin[people]-ak-sze	N	N.GEN.TERM	D	_	_	_	_	_	_
+ki	ki[place]	N	N	D	_	_	_	_	_	_
+ba-zi-ta	_	PN	PN.GEN.DAT-H	Iabcdefg	_	_	_	_	_	_
+kiszib3	kiszib[seal]	N	N	D	_	_	_	_	_	_
+ur-nim	_	PN	PN	Iabcdefgh	_	_	_	_	_	_
+i3-dub	idub[granary]	N	N	D	_	_	_	_	_	_
+ur-sag-pa-e3-ta	_	N	N	POS	_	_	_	_	_	_
+iti	iti[month]	N	N	D	_	_	_	_	_	_
+amar-a-a-si	Amarayasi[1][-'a]	MN	MN.L1	D	_	_	_	_	_	_
+mu	mu[year]	N	N	D	_	_	_	_	_	_
+ki-masz{ki}	Kimasz[1]	SN	SN.ABS	D	_	_	_	_	_	_
+ba-hul	ba-hulu[destroy][-ø]	V	MID.V.3-SG-S	D	_	_	_	_	_	_
+ur-nim	_	PN	PN	Iabcdefgh	_	_	_	_	_	_
+dumu	dumu[child]	N	N	D	_	_	_	_	_	_
+ur-nig2	_	PN	PN	Iabcde	_	_	_	_	_	_

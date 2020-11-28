@@ -1,0 +1,25 @@
+#new_text=P119146					
+FORM	SEGM	XPOSTAG	XPOSTAG	POS	?	?	?	?	?	?
+1(gesz2)	1(gesz)[sixty]	NU	NU	D	B-COUNT	_	95	cardinal	_	95
+3(u)	3(u)[ten]	NU	NU	D	I-COUNT	*	*	*	*	*
+5(disz)	5(disz)[one]	NU	NU	D	I-COUNT	*	*	*	*	*
+gu-nigin2	_	PN	PN	POS	B-COM	_	_	_	_	_
+gi	gi[reed][-ø]	N	N	D	_	_	_	_	_	_
+e2-x-...-x-sze3	_	PN	PN	POS	_	_	_	_	_	_
+ki	ki[place]	N	N	D	_	_	_	_	_	_
+lu2-...-ga-ta	_	PN	PN.GEN.ABL	Ia	_	_	_	_	_	_
+kiszib3	kiszib[seal]	N	N	D	_	_	_	_	_	_
+asz-a	_	NU	NF.V.L1	D	_	_	_	_	_	_
+lu2-du10-ga	Luduga[1]	PN	PN	D	_	_	_	_	_	_
+sza3	szag[heart]	N	N	D	_	_	_	_	_	_
+bala-a	bala[tax][-ak]-'a	N	N.GEN.L1	D	_	_	_	_	_	_
+iti	iti[month]	N	N	D	_	_	_	_	_	_
+min-esz3	Minesz[1][-'a]	MN	MN.L1	D	_	_	_	_	_	_
+mu	mu[year]	N	N	D	_	_	_	_	_	_
+ma2	ma[ship]	N	N	D	_	_	_	_	_	_
+{d}en-ki-ka	Enkik[1][-ak]	DN	DN.GEN.ABS	D	_	_	_	_	_	_
+ba-ab-du8	ba-b-du[caulk][-ø]	V	MID.3-SG-NH-L3.V.3-SG-S	D	_	_	_	_	_	_
+lu2-du10-ga	Luduga[1]	PN	PN	D	_	_	_	_	_	_
+dub-sar	dubsar[scribe]	N	N	D	_	_	_	_	_	_
+dumu	dumu[child]	N	N	D	_	_	_	_	_	_
+lugal-...	_[1][-ra]	PN	PN	D	_	_	_	_	_	_

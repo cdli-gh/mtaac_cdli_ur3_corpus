@@ -1,0 +1,12 @@
+#new_text=P126959					
+FORM	SEGM	XPOSTAG	XPOSTAG	POS	B-COUNT	l	0.0027777777777777775	"dry	*	*
+3(u)	3(u)[ten]	NU	NU	D	I-COUNT	*	*	*	sila3	0.0027777777777777775
+sze	sze[barley]	N	N	D	I-COUNT	*	*	*	*	*
+gur	gur[unit]	N	N	D	I-COUNT	*	*	*	*	*
+ki	ki[place]	N	N	D	_	_	_	_	_	_
+ur-{d}li9-si4-ta	_	PN	PN.GEN.ABL	Iabcdefg	_	_	_	_	_	_
+mu	mu[year]	N	N	D	_	_	_	_	_	_
+lu2-dingir-ra-sze3	_	PN	PN.GEN.TERM	Iabcdefg	_	_	_	_	_	_
+ur-mes	Urmes[1]	PN	PN	D	_	_	_	_	_	_
+szu	szu[hand][-e]	N	N.L3-NH	D	B-COM	_	_	_	_	_
+ba-ti	ba[-n]-teg[accept][-ø]	V	MID.3-SG-H-A.V.3-SG-P	D	_	_	_	_	_	_

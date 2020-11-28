@@ -1,0 +1,25 @@
+#new_text=P340479					
+FORM	SEGM	XPOSTAG	XPOSTAG	POS	B-COUNT	l	415	"dry	*	*
+1(asz)	1(asz)[one]	NU	NU	D	I-COUNT	*	*	*	sila3	415
+1(barig)	1(bariga)[unit]	NU	N	D	I-COUNT	*	*	*	*	*
+5(ban2)	5(ban)[unit]	NU	N	D	I-COUNT	*	*	*	*	*
+5(disz)	5(disz)[one]	NU	NU	D	I-COUNT	*	*	*	*	*
+sila3	sila[unit]	N	N	D	I-COUNT	*	*	*	*	*
+dabin	dabin[semolina]	N	N	D	B-COM	_	_	_	_	_
+gur	gur[unit]	N	N	D	_	_	_	_	_	_
+lugal	lugal[king]	N	N	D	_	_	_	_	_	_
+ki	ki[place]	N	N	D	_	_	_	_	_	_
+a-tu-ta	Atu[1][-ak]-ta	PN	PN.GEN.ABL	D	_	_	_	_	_	_
+ur-{d}lamma	Urlamma[1]	PN	PN	D	_	_	_	_	_	_
+dumu	dumu[child]	N	N	D	_	_	_	_	_	_
+erin-da	Erinda[1][-ak][-ak]	N	PN.ABS	D	_	_	_	_	_	_
+szu	szu[hand][-e]	N	N.L3-NH	D	_	_	_	_	_	_
+ba-ti	ba[-n]-teg[accept][-ø]	V	MID.3-SG-H-A.V.3-SG-P	D	_	_	_	_	_	_
+mu	mu[year]	N	N	D	_	_	_	_	_	_
+us2-sa	us[follow]-a	V	NF.V.PT	D	_	_	_	_	_	_
+ki-masz{ki}	Kimasz[1]	SN	SN.ABS	D	_	_	_	_	_	_
+ba-hul	ba-hulu[destroy][-ø]	V	MID.V.3-SG-S	D	_	_	_	_	_	_
+ur-{d}lamma	Urlamma[1]	PN	PN	D	_	_	_	_	_	_
+dumu	dumu[child]	N	N	D	_	_	_	_	_	_
+erin-da	Erinda[1][-ak][-ak]	N	PN.ABS	D	_	_	_	_	_	_
+gu-za-la2	guzala[throne_bearer]	N	N	D	_	_	_	_	_	_

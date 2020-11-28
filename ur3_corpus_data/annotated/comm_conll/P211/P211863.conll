@@ -1,0 +1,26 @@
+#new_text=P211863					
+FORM	SEGM	XPOSTAG	XPOSTAG	POS	?	?	?	?	?	?
+6(disz)	6(disz)[one][-sze]	NU	NU	D	B-COUNT	_	0.10833333333333334	cardinal	_	0.10833333333333334
+1/2(disz)	1/2(disz)[one]	NU	NU	D	I-COUNT	*	*	*	*	*
+gin2	gig[unit]	N	N	D	I-COUNT	*	*	*	*	*
+ku3-babbar	kugbabbar[silver]	N	N	D	B-COM	_	_	_	_	_
+gu-a	_	PN	PN	Iabcde	_	_	_	_	_	_
+sa10-sa10-de3	sa-sa[pay_for]-ed-e	V	NF.V.RDP.F.DAT-NH	D	_	_	_	_	_	_
+lugal-si-NE-e	Lugalsine'e[1]	PN	PN	D	_	_	_	_	_	_
+szu	szu[hand][-e]	N	N.L3-NH	D	_	_	_	_	_	_
+ba-ti	ba[-n]-teg[accept][-ø]	V	MID.3-SG-H-A.V.3-SG-P	D	_	_	_	_	_	_
+1(disz)	1(disz)[one]	NU	NU	D	B-COUNT	_	0.016666666666666666	cardinal	_	0.016666666666666666
+gin2	gig[unit]	N	N	D	I-COUNT	*	*	*	*	*
+ku3	kug[silver]	N	N	D	B-COM	_	_	_	_	_
+gig-a	_	N	N	Ia	_	_	_	_	_	_
+sa10-sa10-de3	sa-sa[pay_for]-ed-e	V	NF.V.RDP.F.DAT-NH	D	_	_	_	_	_	_
+a-kal-la	Akala[1]	PN	PN	D	_	_	_	_	_	_
+dumu	dumu[child]	N	N	D	_	_	_	_	_	_
+ab-ba-ke4	_	N	N	POS	_	_	_	_	_	_
+szu	szu[hand][-e]	N	N.L3-NH	D	_	_	_	_	_	_
+ba-ti	ba[-n]-teg[accept][-ø]	V	MID.3-SG-H-A.V.3-SG-P	D	_	_	_	_	_	_
+iti	iti[month]	N	N	D	_	_	_	_	_	_
+e2-iti-6(disz)	E'iti6[1][-'a]	NU	MN.L1	D	_	_	_	_	_	_
+mu	mu[year]	N	N	D	_	_	_	_	_	_
+4(disz)-kam	4(disz)[one]-ak-am[-'a]	NU	NU.GEN.COP-3-SG	D	B-COUNT	_	4	cardinal	_	4
+us2	us[follow][-ø]	V	NF.V.ABS	D	B-COM	_	_	_	_	_

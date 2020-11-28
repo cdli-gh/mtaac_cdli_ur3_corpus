@@ -1,0 +1,24 @@
+#new_text=P290622					
+FORM	SEGM	XPOSTAG	XPOSTAG	POS	?	?	?	?	?	?
+2(disz)	2(disz)[one]	NU	NU	D	B-COUNT	_	2	cardinal	_	2
+gurusz	gurusz[male]	N	N	D	B-COM	_	_	_	_	_
+sza3-gu4	szagu[ox-driver]	PN	N	D	_	_	_	_	_	_
+u4	ud[day]	N	N	D	_	_	_	_	_	_
+4(u)	4(u)[ten]	NU	NU	D	B-COUNT	_	40	cardinal	_	40
+5(disz)-kam	5(disz)[one]-ak-am[-ak][-ø]	NU	NU.GEN.COP-3-SG	D	B-COUNT	_	5	cardinal	_	5
+a-da	_	PN	PN	Iabcde	B-COM	_	_	_	_	_
+gub-ba	gub[assigned]-a[-ak][-ø]	V	NF.V.PT	D	_	_	_	_	_	_
+gu2	gun[unit]	N	N	D	_	_	_	_	_	_
+e3-ka	_	WN	WN	POS	_	_	_	_	_	_
+ki	ki[place]	N	N	D	_	_	_	_	_	_
+lu2-du10-ga-ta	_	PN	PN.GEN.ABL	Iab	_	_	_	_	_	_
+kiszib3	kiszib[seal]	N	N	D	_	_	_	_	_	_
+nam-sza3-tam	namszatam[administration]	N	N	D	_	_	_	_	_	_
+ur-{d}en-lil2-la2	Urenlilak[1][-ak][-'a]	PN	PN.DAT-H	D	_	_	_	_	_	_
+mu	mu[year]	N	N	D	_	_	_	_	_	_
+ur-bi2-i3-lum{ki}	_	GN	GN	POS	_	_	_	_	_	_
+ba-hul	ba-hulu[destroy][-ø]	V	MID.V.3-SG-S	D	_	_	_	_	_	_
+ur-{d}en-lil2-la2	Urenlilak[1][-ak][-'a]	PN	PN.DAT-H	D	_	_	_	_	_	_
+dub-sar	dubsar[scribe]	N	N	D	_	_	_	_	_	_
+dumu	dumu[child]	N	N	D	_	_	_	_	_	_
+lugal-ku3-ga-ni	Lugalkugani[1][-ak]	PN	PN.GEN	D	_	_	_	_	_	_

@@ -1,0 +1,24 @@
+#new_text=P325399					
+FORM	SEGM	XPOSTAG	XPOSTAG	POS	?	?	?	?	?	?
+6(disz)	6(disz)[one][-sze]	NU	NU	D	B-COUNT	_	6	cardinal	_	6
+gu4	gud[ox]	N	N	D	B-COM	_	_	_	_	_
+bala-a	bala[tax][-ak]-'a	N	N.GEN.L1	D	_	_	_	_	_	_
+{d}nin-mar{ki}-ka-ke4	_	DN	DN.GEN.GEN.ERG	Iabcdefg	_	_	_	_	_	_
+szu-ma-ma-ra	_	PN	PN	Iabcde	_	_	_	_	_	_
+i3-na-ni-szum2	_	V	V	POS	_	_	_	_	_	_
+nu-banda3	nubanda[overseer][-ø]	N	N	D	_	_	_	_	_	_
+sza3-dingir-ra	_	PN	PN	POS	_	_	_	_	_	_
+a-sza3	aszag[field]	N	N	D	_	_	_	_	_	_
+ga-ma-ar-da	_	FN	FN	POS	_	_	_	_	_	_
+iti	iti[month]	N	N	D	_	_	_	_	_	_
+{gesz}apin-du8-a	_	MN	MN.ABL	Iabcdefgh	_	_	_	_	_	_
+u4	ud[day]	N	N	D	_	_	_	_	_	_
+1(u)	1(u)[ten]	NU	NU	D	B-COUNT	_	15	cardinal	_	15
+5(disz)	5(disz)[one]	NU	NU	D	I-COUNT	*	*	*	*	*
+zal-la-am3	_	V	NF.V.PT.ABS.COP-3-SG	Iabcdefg	_	_	_	_	_	_
+mu	mu[year]	N	N	D	_	_	_	_	_	_
+us2-sa	us[follow]-a	V	NF.V.PT	D	_	_	_	_	_	_
+ki-masz{ki}	Kimasz[1]	SN	SN.ABS	D	_	_	_	_	_	_
+ba-hul-a	ba-hulu[destroy][-ø]-a	V	MID.V.3-SG-S.SUB	D	_	_	_	_	_	_
+mu	mu[year]	N	N	D	_	_	_	_	_	_
+ab-us2-sa	_	V	V	POS	_	_	_	_	_	_

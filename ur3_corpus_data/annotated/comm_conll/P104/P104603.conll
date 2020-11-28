@@ -1,0 +1,25 @@
+#new_text=P104603					
+FORM	SEGM	XPOSTAG	XPOSTAG	POS	?	?	?	?	?	?
+1(disz)	1(disz)[one]	NU	NU	D	B-COUNT	_	1	cardinal	_	1
+masz2	masz[goat]	N	N	D	B-COM	_	_	_	_	_
+gaba	gaba[frontier][-ak]	N	N	D	_	_	_	_	_	_
+ku3-{d}nin-szubur	_	PN	PN	Iabcde	_	_	_	_	_	_
+gu-za-la2	guzala[throne_bearer]	N	N	D	_	_	_	_	_	_
+1(disz)	1(disz)[one]	NU	NU	D	B-COUNT	_	1	cardinal	_	1
+udu-nita2	udunita[ram]	N	N	D	B-COM	_	_	_	_	_
+i3-sza-ba-re	_	PN	PN	POS	_	_	_	_	_	_
+mu	mu[year]	N	N	D	_	_	_	_	_	_
+USZ	_	PN	PN	POS	_	_	_	_	_	_
+maszkim	maszkim[administrator]	N	N.ABS	D	_	_	_	_	_	_
+kiszib3	kiszib[seal]	N	N	D	_	_	_	_	_	_
+ur4-sza3-ki-du10	_	PN	PN.GEN.ABL	Iabcdefgh	_	_	_	_	_	_
+iti	iti[month]	N	N	D	_	_	_	_	_	_
+diri	diri[intercalary_month]	N	N	D	_	_	_	_	_	_
+mu	mu[year]	N	N	D	_	_	_	_	_	_
+us2-sa	us[follow]-a	V	NF.V.PT	D	_	_	_	_	_	_
+{d}szu-{d}suen	Szusuen[1]	RN	RN	D	_	_	_	_	_	_
+lugal	lugal[king]	N	N	D	_	_	_	_	_	_
+ur4-sza3-ki-du10	_	PN	PN.GEN.ABL	Iabcdefgh	_	_	_	_	_	_
+dub-sar	dubsar[scribe]	N	N	D	_	_	_	_	_	_
+dumu	dumu[child]	N	N	D	_	_	_	_	_	_
+ba-sa6-ga	Basaga[1]	PN	PN	D	_	_	_	_	_	_

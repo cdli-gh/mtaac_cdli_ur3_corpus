@@ -1,0 +1,26 @@
+#new_text=P143913					
+FORM	SEGM	XPOSTAG	XPOSTAG	POS	?	?	?	?	?	?
+2(gesz2)	2(gesz)[sixty]	NU	NU	D	B-COUNT	_	120	cardinal	_	120
+sa	sa[bundle]	N	N	D	_	_	_	_	_	_
+gi	gi[reed][-ø]	N	N	D	_	_	_	_	_	_
+a-e3	_	PN	PN	Iabcde	_	_	_	_	_	_
+i7	id[river]	N	N	D	_	_	_	_	_	_
+sal4-la-ka-sze3	_	WN	WN	POS	_	_	_	_	_	_
+ga2-nun	_	N	N	D	_	_	_	_	_	_
+ensi2-ka-ta	ensik[ruler]-ak-ta	N	N.GEN.ABL	D	_	_	_	_	_	_
+ki	ki[place]	N	N	D	_	_	_	_	_	_
+szesz-kal-la-ta	Szeszkala[1][-ak]-ta	N	PN.GEN.ABL	D	_	_	_	_	_	_
+lugal-ma2-gur8-re	Lugalmagure[1][-ø]	PN	PN	D	_	_	_	_	_	_
+szu	szu[hand][-e]	N	N.L3-NH	D	B-COM	_	_	_	_	_
+ba-ti	ba[-n]-teg[accept][-ø]	V	MID.3-SG-H-A.V.3-SG-P	D	_	_	_	_	_	_
+iti	iti[month]	N	N	D	_	_	_	_	_	_
+diri	diri[intercalary_month]	N	N	D	_	_	_	_	_	_
+mu	mu[year]	N	N	D	_	_	_	_	_	_
+{d}amar-{d}suen	Amarsuen[1]	RN	RN	D	_	_	_	_	_	_
+lugal-e	lugal[king]-e	N	N.ERG	D	_	_	_	_	_	_
+ur-bi2-i3-lum{ki}	_	GN	GN	POS	_	_	_	_	_	_
+mu-hul	mu[-n]-hulu[destroy][-ø]	V	VEN.3-SG-H-A.V.3-SG-P	D	_	_	_	_	_	_
+lugal-ma2-gur8-re	Lugalmagure[1][-ø]	PN	PN	D	_	_	_	_	_	_
+dub-sar	dubsar[scribe]	N	N	D	_	_	_	_	_	_
+dumu	dumu[child]	N	N	D	_	_	_	_	_	_
+ur-...	_[1][-ak]	PN	PN.GEN.ABS	D	_	_	_	_	_	_

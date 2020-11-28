@@ -1,0 +1,21 @@
+#new_text=P100391					
+FORM	SEGM	XPOSTAG	XPOSTAG	POS	?	?	?	?	?	?
+3(u)	3(u)[ten]	NU	NU	D	B-COUNT	_	30	cardinal	_	30
+sa	sa[bundle]	N	N	D	_	_	_	_	_	_
+gi	gi[reed][-ø]	N	N	D	_	_	_	_	_	_
+3(u)	3(u)[ten]	NU	NU	D	B-COUNT	_	30	cardinal	_	30
+sa	sa[bundle]	N	N	D	_	_	_	_	_	_
+{gesz}ma-nu	manu[wood_type][-ø]	FN	N.ABS	D	_	_	_	_	_	_
+ki	ki[place]	N	N	D	_	_	_	_	_	_
+szesz-a-ni-ta	Szeszani[1][-ak]-ta	PN	PN.GEN.ABL	D	_	_	_	_	_	_
+ur-{d}nisaba	Urnisaba[1][-ak]	PN	PN.GEN	D	_	_	_	_	_	_
+szu	szu[hand][-e]	N	N.L3-NH	D	B-COM	_	_	_	_	_
+ba-ti	ba[-n]-teg[accept][-ø]	V	MID.3-SG-H-A.V.3-SG-P	D	_	_	_	_	_	_
+iti	iti[month]	N	N	D	_	_	_	_	_	_
+min-esz3	Minesz[1][-'a]	MN	MN.L1	D	_	_	_	_	_	_
+u4	ud[day]	N	N	D	_	_	_	_	_	_
+2(u)	2(u)[ten]	NU	NU	D	B-COUNT	_	20	cardinal	_	20
+7(disz)-kam	7(disz)[one]-ak-am[-'a]	NU	NU.GEN.COP-3-SG	D	B-COUNT	_	7	cardinal	_	7
+mu	mu[year]	N	N	D	_	_	_	_	_	_
+an-sza-an{ki}	Anszan[1][-ø]	GN	GN.ABS	D	_	_	_	_	_	_
+ba-hul	ba-hulu[destroy][-ø]	V	MID.V.3-SG-S	D	_	_	_	_	_	_

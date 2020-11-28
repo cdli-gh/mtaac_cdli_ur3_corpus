@@ -1,0 +1,17 @@
+#new_text=P116750					
+FORM	SEGM	XPOSTAG	XPOSTAG	POS	?	?	?	?	?	?
+1(asz)	1(asz)[one]	NU	NU	D	B-COUNT	*	*	*	*	*
+2(barig)	2(bariga)[unit]	NU	N	D	I-COUNT	*	*	*	*	*
+sze	sze[barley]	N	N	D	I-COUNT	*	*	*	*	*
+gur	gur[unit]	N	N	D	I-COUNT	*	*	*	*	*
+sahar-zi-zi	_	PN	PN	POS	_	_	_	_	_	_
+ur-{d}dumu-zi	Urdumuzi[1][-e]	PN	PN.ERG	D	_	_	_	_	_	_
+1(asz)	1(asz)[one]	NU	NU	D	B-COUNT	_	1	cardinal	_	1
+ur-{d}suen	Ursuen[1]	PN	PN	D	_	_	_	_	_	_
+sze	sze[barley]	N	N	D	B-COM	_	_	_	_	_
+karkar{ki}	_	SN	SN.ABS	D	_	_	_	_	_	_
+iti	iti[month]	N	N	D	_	_	_	_	_	_
+amar-a-a-si	Amarayasi[1][-'a]	MN	MN.L1	D	_	_	_	_	_	_
+mu	mu[year]	N	N	D	_	_	_	_	_	_
+ma2-gur8-mah	magurmah[great_barge][-ø]	N	N.ABS	D	_	_	_	_	_	_
+ba-dim2	ba-dim[create][-ø]	V	MID.V.3-SG-S	D	_	_	_	_	_	_

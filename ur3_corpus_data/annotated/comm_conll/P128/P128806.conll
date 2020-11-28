@@ -1,0 +1,21 @@
+#new_text=P128806					
+FORM	SEGM	XPOSTAG	XPOSTAG	POS	?	?	?	?	?	?
+1(disz)	1(disz)[one]	NU	NU	D	B-COUNT	_	1	cardinal	_	1
+az	_	N	N.GEN	Iabcdef	B-COM	_	_	_	_	_
+mu-kux(DU)	mukur[delivery][-ø]	N	N	D	_	_	_	_	_	_
+lugal	lugal[king]	N	N	D	_	_	_	_	_	_
+ki	ki[place]	N	N	D	_	_	_	_	_	_
+na-sa6-ta	Nasa[1][-ak]-ta	PN	PN.GEN.ABL	D	_	_	_	_	_	_
+en-um-i3-li2	_	PN	PN.GEN	Iabc	_	_	_	_	_	_
+i3-dab5	i[-n]-dab[seize][-ø]	V	FIN.3-SG-H-A.V.3-SG-P	D	_	_	_	_	_	_
+iti	iti[month]	N	N	D	_	_	_	_	_	_
+a2-ki-ti	Akiti[1][-'a]	N	MN.L1	D	_	_	_	_	_	_
+mu	mu[year]	N	N	D	_	_	_	_	_	_
+si-mu-ru-um{ki}	Simurrum[1]	SN	SN.ABS	D	_	_	_	_	_	_
+u3	u[and]	CNJ	CNJ	D	_	_	_	_	_	_
+lu-lu-bu{ki}	Lulubu[1][-ø]	SN	SN.ABS	D	_	_	_	_	_	_
+a-ra2	ara[times]	N	N	D	_	_	_	_	_	_
+1(u)	1(u)[ten]	NU	NU	D	B-COUNT	_	10	cardinal	_	10
+la2	la[hang][-ø]	V	NF.V.ABS	D	I-COUNT	*	*	*	*	*
+1(disz)-kam-asz	_	NU	NU.GEN.COP-3-SG.TERM	Iab	B-COUNT	_	1	cardinal	_	1
+ba-hul	ba-hulu[destroy][-ø]	V	MID.V.3-SG-S	D	_	_	_	_	_	_

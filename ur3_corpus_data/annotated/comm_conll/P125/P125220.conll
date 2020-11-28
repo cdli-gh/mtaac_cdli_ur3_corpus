@@ -1,0 +1,23 @@
+#new_text=P125220					
+FORM	SEGM	XPOSTAG	XPOSTAG	POS	?	?	?	?	?	?
+5(asz)	5(asz)[one]	NU	NU	D	B-COUNT	g	150000.0	weight	gin2	18000
+gu2	gun[unit]	N	N	D	I-COUNT	*	*	*	*	*
+u2	u[grass]	N	N	D	B-COM	_	_	_	_	_
+sikil	_	V	NF.V.3-SG-NH-POSS.GEN.DAT-H	Iabcdefg	_	_	_	_	_	_
+ki	ki[place]	N	N	D	_	_	_	_	_	_
+pa3-da-ta	_	PN	PN.GEN.GEN.ABL	Iabcdef	_	_	_	_	_	_
+lugal-e-ba-an-sa6	Lugalebansa[1][-ra]	PN	PN	D	_	_	_	_	_	_
+szu	szu[hand][-e]	N	N.L3-NH	D	_	_	_	_	_	_
+ba-ti	ba[-n]-teg[accept][-ø]	V	MID.3-SG-H-A.V.3-SG-P	D	_	_	_	_	_	_
+sza3	szag[heart]	N	N	D	_	_	_	_	_	_
+bala-a	bala[tax][-ak]-'a	N	N.GEN.L1	D	_	_	_	_	_	_
+iti	iti[month]	N	N	D	_	_	_	_	_	_
+szu-numun-na	_	MN	MN	POS	_	_	_	_	_	_
+mu	mu[year]	N	N	D	_	_	_	_	_	_
+us2-sa	us[follow]-a	V	NF.V.PT	D	_	_	_	_	_	_
+ur-bi2-lum{ki}	Urbilum[1][-ø]	GN	SN.ABS	D	_	_	_	_	_	_
+ba-hul	ba-hulu[destroy][-ø]	V	MID.V.3-SG-S	D	_	_	_	_	_	_
+lugal-e-ba-an-sa6	Lugalebansa[1][-ra]	PN	PN	D	_	_	_	_	_	_
+dub-sar	dubsar[scribe]	N	N	D	_	_	_	_	_	_
+dumu	dumu[child]	N	N	D	_	_	_	_	_	_
+ur-{d}isztaran	Urisztaran[1]	PN	PN.GEN.ABS	D	_	_	_	_	_	_

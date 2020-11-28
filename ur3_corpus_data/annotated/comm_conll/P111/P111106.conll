@@ -1,0 +1,24 @@
+#new_text=P111106					
+FORM	SEGM	XPOSTAG	XPOSTAG	POS	?	?	?	?	?	?
+5(disz)	5(disz)[one]	NU	NU	D	B-COUNT	_	5	cardinal	_	5
+gurusz	gurusz[male]	N	N	D	B-COM	_	_	_	_	_
+u4	ud[day]	N	N	D	_	_	_	_	_	_
+5(disz)-sze3	5(disz)[one]-sze	NU	NU.TERM	D	B-COUNT	_	5	cardinal	_	5
+ma2	ma[ship]	N	N	D	_	_	_	_	_	_
+zi3-da	zid[flour]-ak[-ø]	N	N.GEN	D	B-COM	_	_	_	_	_
+gid2-da	gid[lengthen]-a[-ø]	V	NF.V.PT	D	_	_	_	_	_	_
+gu2-ab-ba{ki}-ta	_	SN	SN.GEN.GEN.ABL	Iabcdefg	_	_	_	_	_	_
+gir2-su{ki}-sze3	_	SN	SN.GEN.GEN.TERM	Iabcdefg	_	_	_	_	_	_
+e2-gu-za-la2	_	N	N.ABL	Iabcdefgh	_	_	_	_	_	_
+ugula	ugula[overseer][-ø]	N	N	D	_	_	_	_	_	_
+ur-{d}lamma	Urlamma[1]	PN	PN	D	_	_	_	_	_	_
+giri3	giri[foot]	N	N	D	_	_	_	_	_	_
+lugal-igi-husz	Lugaligihusz[1][-ra]	PN	PN	D	_	_	_	_	_	_
+gu-za-la2	guzala[throne_bearer]	N	N	D	_	_	_	_	_	_
+iti	iti[month]	N	N	D	_	_	_	_	_	_
+munu4-gu7	Munugu[1][-'a]	MN	MN.L1	D	_	_	_	_	_	_
+mu	mu[year]	N	N	D	_	_	_	_	_	_
+en	en[priest]	N	N	D	_	_	_	_	_	_
+{d}nanna	Nanna[1][-ak]	DN	DN	D	_	_	_	_	_	_
+kar-zi-da	Karzida[1][-ak][-ak][-ø]	SN	SN.GEN.GEN.ABS	D	_	_	_	_	_	_
+ba-hun	ba-hug[hire][-ø]	V	MID.V.3-SG-S	D	_	_	_	_	_	_

@@ -1,0 +1,21 @@
+#new_text=P142323					
+FORM	SEGM	XPOSTAG	XPOSTAG	POS	?	?	?	?	?	?
+1(disz)	1(disz)[one]	NU	NU	D	B-COUNT	bricks	8640	bricks	gin2	720
+sar	sar[unit]	N	N	D	I-COUNT	*	*	*	*	*
+sig4	szeg[brick]	N	N	D	_	_	_	_	_	_
+e2-gal	egal[palace][-ak][-'a]	N	N	D	_	_	_	_	_	_
+gibil	gibil[new][-ø]	V	NF.V.ABS	D	_	_	_	_	_	_
+{d}nin-e2-gal-ka	_	DN	DN.GEN.GEN	Iabcdef	_	_	_	_	_	_
+du3-a	du[build]-a	V	NF.V.PT	D	B-COM	_	_	_	_	_
+ki	ki[place]	N	N	D	_	_	_	_	_	_
+lu2-{d}inanna-ta	Lu'inanna[1][-ak]-ta	PN	PN.GEN.ABL	D	_	_	_	_	_	_
+kiszib3	kiszib[seal]	N	N	D	_	_	_	_	_	_
+nam-sza3-tam	namszatam[administration]	N	N	D	_	_	_	_	_	_
+lu2-giri17-zal	Lugirizal[1][-ra]	PN	PN	D	_	_	_	_	_	_
+mu	mu[year]	N	N	D	_	_	_	_	_	_
+ki-masz{ki}	Kimasz[1]	SN	SN.ABS	D	_	_	_	_	_	_
+ba-hul	ba-hulu[destroy][-ø]	V	MID.V.3-SG-S	D	_	_	_	_	_	_
+lu2-giri17-zal	Lugirizal[1][-ra]	PN	PN	D	_	_	_	_	_	_
+dub-sar	dubsar[scribe]	N	N	D	_	_	_	_	_	_
+dumu	dumu[child]	N	N	D	_	_	_	_	_	_
+da-du-mu	Dadumu[1][-ak]	PN	PN.GEN	D	_	_	_	_	_	_

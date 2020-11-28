@@ -1,0 +1,18 @@
+#new_text=P292195					
+FORM	SEGM	XPOSTAG	XPOSTAG	POS	B-COUNT	l	72.0000925925926	"dry	*	*
+1(asz)	1(asz)[one]	NU	NU	D	I-COUNT	*	*	*	sila3	72.0000925925926
+sze	sze[barley]	N	N	D	I-COUNT	*	*	*	*	*
+gur	gur[unit]	N	N	D	I-COUNT	*	*	*	*	*
+sila3	sila[unit]	N	N	D	I-COUNT	*	*	*	*	*
+1(gesz2)	1(gesz)[sixty]	NU	NU	D	I-COUNT	*	*	*	*	*
+1(u)	1(u)[ten]	NU	NU	D	I-COUNT	*	*	*	*	*
+2(disz)-ta	2(disz)[one]-ta	NU	NU.ABL	D	I-COUNT	*	*	*	*	*
+la2-ia3-ta	la'u[arrears]-ta	N	N.ABL	D	_	_	_	_	_	_
+su-ga	sug[repay]-a	V	NF.V.PT	D	_	_	_	_	_	_
+eb-gal	_	PN	PN.GEN.ABL	Iabcdefgh	_	_	_	_	_	_
+ur-{d}nin-su	_	PN	PN	Iabcde	_	_	_	_	_	_
+i3-dab5	i[-n]-dab[seize][-ø]	V	FIN.3-SG-H-A.V.3-SG-P	D	_	_	_	_	_	_
+mu	mu[year]	N	N	D	_	_	_	_	_	_
+us2-sa	us[follow]-a	V	NF.V.PT	D	_	_	_	_	_	_
+kar2-har{ki}	_	GN	SN.GEN	D	_	_	_	_	_	_
+ba-hul	ba-hulu[destroy][-ø]	V	MID.V.3-SG-S	D	_	_	_	_	_	_

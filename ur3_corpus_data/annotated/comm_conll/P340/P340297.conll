@@ -1,0 +1,17 @@
+#new_text=P340297					
+FORM	SEGM	XPOSTAG	XPOSTAG	POS	?	?	?	?	?	?
+5(disz)	5(disz)[one]	NU	NU	D	B-COUNT	_	5	cardinal	_	5
+gurusz	gurusz[male]	N	N	D	B-COM	_	_	_	_	_
+u4	ud[day]	N	N	D	_	_	_	_	_	_
+5(disz)-sze3	5(disz)[one]-sze	NU	NU.TERM	D	B-COUNT	_	5	cardinal	_	5
+masz2	masz[goat]	N	N	D	B-COM	_	_	_	_	_
+gid2-da	gid[lengthen]-a[-ø]	V	NF.V.PT	D	_	_	_	_	_	_
+giri3	giri[foot]	N	N	D	_	_	_	_	_	_
+i-ti-mu	_	PN	PN	Iabcde	_	_	_	_	_	_
+ugula	ugula[overseer][-ø]	N	N	D	_	_	_	_	_	_
+szesz-a-ni	Szeszani[1][-ak]	PN	PN	D	_	_	_	_	_	_
+i-ti-mu	_	PN	PN	Iabcde	_	_	_	_	_	_
+dub-sar	dubsar[scribe]	N	N	D	_	_	_	_	_	_
+dumu	dumu[child]	N	N	D	_	_	_	_	_	_
+ur-nigar{gar}	Urnigar[1]	PN	PN	D	_	_	_	_	_	_
+szusz3	kusz[cattle_manager][-ak]	N	N.GEN	D	_	_	_	_	_	_

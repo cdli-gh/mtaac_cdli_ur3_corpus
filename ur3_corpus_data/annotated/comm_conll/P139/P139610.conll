@@ -1,0 +1,21 @@
+#new_text=P139610					
+FORM	SEGM	XPOSTAG	XPOSTAG	POS	?	?	?	?	?	?
+3(disz)	3(disz)[one]	NU	NU	D	B-COUNT	_	3	cardinal	_	3
+{gesz}eb	_	N	N	Ia	B-COM	_	_	_	_	_
+2(disz)	2(disz)[one]	NU	NU	D	B-COUNT	_	2	cardinal	_	2
+usan3	_	N	N.ABS	Iabcde	_	_	_	_	_	_
+ki	ki[place]	N	N	D	_	_	_	_	_	_
+a-kal-la-ta	Akala[1][-ak]-ta	PN	PN.GEN.ABL	D	_	_	_	_	_	_
+da-du-mu	Dadumu[1][-ak]	PN	PN.GEN	D	_	_	_	_	_	_
+nu-banda3-gu4	nubandagu[ox_overseer][-ak][-ak][-ak]	N	N	D	_	_	_	_	_	_
+szu	szu[hand][-e]	N	N.L3-NH	D	B-COM	_	_	_	_	_
+ba-ti	ba[-n]-teg[accept][-ø]	V	MID.3-SG-H-A.V.3-SG-P	D	_	_	_	_	_	_
+iti	iti[month]	N	N	D	_	_	_	_	_	_
+min-esz3	Minesz[1][-'a]	MN	MN.L1	D	_	_	_	_	_	_
+mu	mu[year]	N	N	D	_	_	_	_	_	_
+ur-bi2-lum{ki}	Urbilum[1][-ø]	GN	SN.ABS	D	_	_	_	_	_	_
+ba-hul	ba-hulu[destroy][-ø]	V	MID.V.3-SG-S	D	_	_	_	_	_	_
+da-du-mu	Dadumu[1][-ak]	PN	PN.GEN	D	_	_	_	_	_	_
+nu-banda3-gu4	nubandagu[ox_overseer][-ak][-ak][-ak]	N	N	D	_	_	_	_	_	_
+dumu	dumu[child]	N	N	D	_	_	_	_	_	_
+lugal-iri-na	_	PN	PN.ERG	Iabcdefgh	_	_	_	_	_	_

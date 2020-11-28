@@ -1,0 +1,26 @@
+#new_text=P290881					
+FORM	SEGM	XPOSTAG	XPOSTAG	POS	B-COUNT	l	1	"liquid	*	*
+*RETOK*-capacity"	?	?	?	?	I-COUNT	l	1	"dry	sila3	1
+1(disz)	1(disz)[one]	NU	NU	D	I-COUNT	*	*	*	sila3	1
+sila3	sila[unit]	N	N	D	I-COUNT	*	*	*	*	*
+i3-gesz	igesz[oil]	V	N	D	B-COM	_	_	_	_	_
+gu4	gud[ox]	N	N	D	_	_	_	_	_	_
+niga	niga[fattened][-ø]	V	NF.V.ABS	D	_	_	_	_	_	_
+bala-sze3	_	N	N	POS	_	_	_	_	_	_
+du	gin[quality_designation][-ø]	V	NF.V.ABS	D	_	_	_	_	_	_
+szesz4-de3	_	PN	PN.GEN.L2-NH	Iabcdef	_	_	_	_	_	_
+ki	ki[place]	N	N	D	_	_	_	_	_	_
+ur-{d}szul-pa-e3-ta	Urszulpa'e[1][-ak]-ta	PN	PN.GEN.ABL	D	_	_	_	_	_	_
+lu2-he2-gal2	Luhegal[1][-e]	PN	PN.ERG	D	_	_	_	_	_	_
+szu	szu[hand][-e]	N	N.L3-NH	D	_	_	_	_	_	_
+ba-ti	ba[-n]-teg[accept][-ø]	V	MID.3-SG-H-A.V.3-SG-P	D	_	_	_	_	_	_
+iti	iti[month]	N	N	D	_	_	_	_	_	_
+{d}li9-si4	Lisi[1][-'a]	MN	MN.L1	D	_	_	_	_	_	_
+mu	mu[year]	N	N	D	_	_	_	_	_	_
+en-unu6-gal	Enunugal[1]	PN	PN	D	_	_	_	_	_	_
+{d}inanna	Inanna[1][-ak]	DN	DN	D	_	_	_	_	_	_
+ba-hun	ba-hug[hire][-ø]	V	MID.V.3-SG-S	D	_	_	_	_	_	_
+lugal-he2-gal2	Lugalhegal[1]	PN	PN	D	_	_	_	_	_	_
+dub-sar	dubsar[scribe]	N	N	D	_	_	_	_	_	_
+dumu	dumu[child]	N	N	D	_	_	_	_	_	_
+ur-{d}utu	Urutu[1]	PN	PN	D	_	_	_	_	_	_

@@ -1,0 +1,16 @@
+#new_text=P117635					
+FORM	SEGM	XPOSTAG	XPOSTAG	POS	?	?	?	?	?	?
+la2-ia3	la'u[arrears]	N	N	D	_	_	_	_	_	_
+3(disz)	3(disz)[one]	NU	NU	D	B-COUNT	_	0.05	cardinal	_	0.05
+gin2	gig[unit]	N	N	D	I-COUNT	*	*	*	*	*
+2(u)	2(u)[ten]	NU	NU	D	B-COUNT	_	0.0025925925925925925	cardinal	_	0.0025925925925925925
+8(disz)	8(disz)[one]	NU	NU	D	I-COUNT	*	*	*	*	*
+sze	sze[barley]	N	N	D	I-COUNT	*	*	*	*	*
+ku3-babbar	kugbabbar[silver]	N	N	D	B-COM	_	_	_	_	_
+ki	ki[place]	N	N	D	_	_	_	_	_	_
+lugal-ezem-ta	Lugalezem[1][-ak]-ta	PN	PN.GEN.ABL	D	_	_	_	_	_	_
+lugal-sa6-ga	Lugalsaga[1][-ak]	PN	PN.GEN	D	_	_	_	_	_	_
+su-su-dam	sug-sug[repay]-ed[-ø]-am	PN	NF.V.RDP.F.ABS.COP-3-SG	D	_	_	_	_	_	_
+mu	mu[year]	N	N	D	_	_	_	_	_	_
+{d}nanna	Nanna[1][-ak]	DN	DN	D	_	_	_	_	_	_
+kar-zi-da	Karzida[1][-ak][-ak][-ø]	SN	SN.GEN.GEN.ABS	D	_	_	_	_	_	_

@@ -1,0 +1,14 @@
+#new_text=P105030					
+FORM	SEGM	XPOSTAG	XPOSTAG	POS	?	?	?	?	?	?
+2(u)	2(u)[ten]	NU	NU	D	B-COUNT	_	25	cardinal	_	25
+5(asz)	5(asz)[one]	NU	NU	D	I-COUNT	*	*	*	*	*
+zu2-lum	zulum[date]	N	N	D	B-COM	_	_	_	_	_
+gur	gur[unit]	N	N	D	_	_	_	_	_	_
+ki	ki[place]	N	N	D	_	_	_	_	_	_
+ur-{d}da-mu-ta	_	PN	PN.GEN.ABL	Iab	_	_	_	_	_	_
+mu-kux(DU)	mukur[delivery][-ø]	N	N	D	_	_	_	_	_	_
+iti	iti[month]	N	N	D	_	_	_	_	_	_
+du6-ku3	_	PN	PN	POS	_	_	_	_	_	_
+mu	mu[year]	N	N	D	_	_	_	_	_	_
+bad3-gal	badgal[great_wall][-ø]	N	N.ABS	D	_	_	_	_	_	_
+ba-du3	ba-du[build][-ø]	V	MID.V.3-SG-S	D	_	_	_	_	_	_

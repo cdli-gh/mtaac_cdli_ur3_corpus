@@ -1,0 +1,23 @@
+#new_text=P143664					
+FORM	SEGM	XPOSTAG	XPOSTAG	POS	?	?	?	?	?	?
+1(u)	1(u)[ten]	NU	NU	D	B-COUNT	_	18	cardinal	_	18
+8(disz)	8(disz)[one]	NU	NU	D	I-COUNT	*	*	*	*	*
+sila4	sila[lamb]	N	N	D	B-COM	_	_	_	_	_
+elam	Elam[1][-ak]	EN	GN.GEN	D	_	_	_	_	_	_
+sila4	sila[lamb]	N	N	D	_	_	_	_	_	_
+ga	ga[milk]	N	N	D	_	_	_	_	_	_
+buru14	_	N	N	Ia	_	_	_	_	_	_
+iti	iti[month]	N	N	D	_	_	_	_	_	_
+sze-sag11-ku5	Szesagku[1][-'a]	MN	MN.L1	D	_	_	_	_	_	_
+1(u)	1(u)[ten]	NU	NU	D	B-COUNT	_	14	cardinal	_	14
+4(disz)	4(disz)[one]	NU	NU	D	I-COUNT	*	*	*	*	*
+ud5	uzud[goat]	N	N	D	B-COM	_	_	_	_	_
+1(disz)	1(disz)[one]	NU	NU	D	B-COUNT	_	1	cardinal	_	1
+masz2-gal	maszgal[billy_goat]	N	N	D	_	_	_	_	_	_
+6(disz)	6(disz)[one][-sze]	NU	NU	D	B-COUNT	_	6	cardinal	_	6
+masz2	masz[goat]	N	N	D	_	_	_	_	_	_
+elam	Elam[1][-ak]	EN	GN.GEN	D	_	_	_	_	_	_
+mu	mu[year]	N	N	D	_	_	_	_	_	_
+us2-sa	us[follow]-a	V	NF.V.PT	D	_	_	_	_	_	_
+ur-bi2-lum{ki}	Urbilum[1][-ø]	GN	SN.ABS	D	_	_	_	_	_	_
+ba-hul	ba-hulu[destroy][-ø]	V	MID.V.3-SG-S	D	_	_	_	_	_	_

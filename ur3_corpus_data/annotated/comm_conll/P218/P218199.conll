@@ -1,0 +1,20 @@
+#new_text=P218199					
+FORM	SEGM	XPOSTAG	XPOSTAG	POS	?	?	?	?	?	?
+2(u)	2(u)[ten]	NU	NU	D	B-COUNT	_	26	cardinal	_	26
+6(disz)	6(disz)[one][-sze]	NU	NU	D	I-COUNT	*	*	*	*	*
+tug2	tug[textile]	N	N	D	B-COM	_	_	_	_	_
+da-ba-tum	dabatum[textile_type]	PN	N	D	_	_	_	_	_	_
+ki	ki[place]	N	N	D	_	_	_	_	_	_
+lu2-{d}nin-gir2-su-ta	Luningirsu[1][-ak]-ta	PN	PN.GEN.ABL	D	_	_	_	_	_	_
+erin2	erin[people]	N	N	D	_	_	_	_	_	_
+e2	e[house]	N	N	D	_	_	_	_	_	_
+{d}nin-dar-a	_	DN	DN	D	_	_	_	_	_	_
+u3	u[and]	CNJ	CNJ	D	_	_	_	_	_	_
+nam-ha-ni	Namhani[1]	N	PN	D	_	_	_	_	_	_
+iti	iti[month]	N	N	D	_	_	_	_	_	_
+mu-szu-du7	Muszudu[1][-'a]	MN	MN.L1	D	_	_	_	_	_	_
+x	_[_]	N	N	D	_	_	_	_	_	_
+x	_[_]	N	N	D	_	_	_	_	_	_
+x	_[_]	N	N	D	_	_	_	_	_	_
+mu	mu[year]	N	N	D	_	_	_	_	_	_
+ur-bi2-lum	_	GN	GN	POS	_	_	_	_	_	_

@@ -1,0 +1,22 @@
+#new_text=P499784					
+FORM	SEGM	XPOSTAG	XPOSTAG	POS	?	?	?	?	?	?
+2(gesz'u)	2(gesz'u)[six_hundred]	NU	NU	D	B-COUNT	_	1530	cardinal	_	1530
+5(gesz2)	5(gesz)[sixty]	NU	NU	D	I-COUNT	*	*	*	*	*
+3(u)	3(u)[ten]	NU	NU	D	I-COUNT	*	*	*	*	*
+gurusz	gurusz[male]	N	N	D	B-COM	_	_	_	_	_
+u4	ud[day]	N	N	D	_	_	_	_	_	_
+1(disz)-sze3	1(disz)[one]-sze	NU	NU.TERM	D	B-COUNT	_	1	cardinal	_	1
+a2-bi	a[labor]-bi	N	N.3-SG-NH-POSS.ABS	D	B-COM	_	_	_	_	_
+szesz-kal-la	Szeszkala[1][-ra]	PN	PN	D	_	_	_	_	_	_
+ugula	ugula[overseer][-ø]	N	N	D	_	_	_	_	_	_
+ARAD2-mu	Aradmu[1]	PN	PN	D	_	_	_	_	_	_
+i3-na-ab-gi4-gi4	_	V	V	POS	_	_	_	_	_	_
+iti	iti[month]	N	N	D	_	_	_	_	_	_
+sze-sag11-ku5	Szesagku[1][-'a]	MN	MN.L1	D	_	_	_	_	_	_
+mu	mu[year]	N	N	D	_	_	_	_	_	_
+{d}i-bi2-{d}suen	Ibbisuen[1]	RN	RN	D	_	_	_	_	_	_
+lugal	lugal[king]	N	N	D	_	_	_	_	_	_
+szesz-kal-la	Szeszkala[1][-ra]	PN	PN	D	_	_	_	_	_	_
+dub-sar	dubsar[scribe]	N	N	D	_	_	_	_	_	_
+dumu	dumu[child]	N	N	D	_	_	_	_	_	_
+szu-ni-an-nam	_	PN	PN.GEN.ABS	Iabcdef	_	_	_	_	_	_

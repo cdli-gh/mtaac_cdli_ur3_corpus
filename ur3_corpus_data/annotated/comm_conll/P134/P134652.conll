@@ -1,0 +1,14 @@
+#new_text=P134652					
+FORM	SEGM	XPOSTAG	XPOSTAG	POS	?	?	?	?	?	?
+x	_[_]	N	N	D	_	_	_	_	_	_
+x	_[_]	N	N	D	_	_	_	_	_	_
+{d}EN-...	_	PN	PN	Iabcdefgh	_	_	_	_	_	_
+1(disz)	1(disz)[one]	NU	NU	D	B-COUNT	_	1	cardinal	_	1
+u4	ud[day]	N	N	D	_	_	_	_	_	_
+x	_[_]	N	N	D	_	_	_	_	_	_
+...	_[_]	PN	N	D	_	_	_	_	_	_
+1(disz)	1(disz)[one]	NU	NU	D	B-COUNT	_	1	cardinal	_	1
+lu2-...	_[1][-ra]	PN	PN	D	_	_	_	_	_	_
+ur-...	_[1][-ak]	PN	PN.GEN.ABS	D	_	_	_	_	_	_
+...	_[_]	PN	N	D	_	_	_	_	_	_
+...	_[_]	PN	N	D	_	_	_	_	_	_

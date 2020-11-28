@@ -1,0 +1,26 @@
+#new_text=P119766					
+FORM	SEGM	XPOSTAG	XPOSTAG	POS	?	?	?	?	?	?
+(n)	_	N	N	POS	_	_	_	_	_	_
+n	_(_)[_]	NU	NU	D	_	_	_	_	_	_
+3(ban2)	3(ban)[unit]	NU	N	D	B-COUNT	_	none	unknown	_	none
+6(disz)	6(disz)[one][-sze]	NU	NU	D	I-COUNT	*	*	*	*	*
+sila3	sila[unit]	N	N	D	I-COUNT	*	*	*	*	*
+...	_[_]	PN	N	D	I-COUNT	*	*	*	*	*
+...	_[_]	PN	N	D	_	_	_	_	_	_
+ga-...	_	PN	PN.GEN	Iab	_	_	_	_	_	_
+(n)	_	N	N	POS	_	_	_	_	_	_
+n	_(_)[_]	NU	NU	D	_	_	_	_	_	_
+2(ban2)	2(ban)[unit]	NU	N	D	B-COUNT	_	none	unknown	_	none
+6(disz)	6(disz)[one][-sze]	NU	NU	D	I-COUNT	*	*	*	*	*
+sila3	sila[unit]	N	N	D	I-COUNT	*	*	*	*	*
+x	_[_]	N	N	D	I-COUNT	*	*	*	*	*
+n	_(_)[_]	NU	NU	D	_	_	_	_	_	_
+5(asz)	5(asz)[one]	NU	NU	D	B-COUNT	_	none	unknown	_	none
+gu2	gun[unit]	N	N	D	I-COUNT	*	*	*	*	*
+4(u)	4(u)[ten]	NU	NU	D	I-COUNT	*	*	*	*	*
+4(disz)	4(disz)[one]	NU	NU	D	I-COUNT	*	*	*	*	*
+...	_[_]	PN	N	D	I-COUNT	*	*	*	*	*
+ma-na	mana[unit]	N	N	D	I-COUNT	*	*	*	*	*
+siki	siki[wool][-'a]	N	N	D	B-COM	_	_	_	_	_
+ki	ki[place]	N	N	D	_	_	_	_	_	_
+ur-e11-e-ta	Ure'e[1][-ak]-ta	PN	PN.GEN.ABL	D	_	_	_	_	_	_

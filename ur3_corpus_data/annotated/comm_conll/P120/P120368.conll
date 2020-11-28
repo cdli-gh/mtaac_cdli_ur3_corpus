@@ -1,0 +1,20 @@
+#new_text=P120368					
+FORM	SEGM	XPOSTAG	XPOSTAG	POS	?	?	?	?	?	?
+7(disz)	7(disz)[one][-sze]	NU	NU	D	B-COUNT	_	7	cardinal	_	7
+gurusz	gurusz[male]	N	N	D	B-COM	_	_	_	_	_
+u4	ud[day]	N	N	D	_	_	_	_	_	_
+1(disz)-sze3	1(disz)[one]-sze	NU	NU.TERM	D	B-COUNT	_	1	cardinal	_	1
+ma2	ma[ship]	N	N	D	_	_	_	_	_	_
+gid2-da	gid[lengthen]-a[-ø]	V	NF.V.PT	D	B-COM	_	_	_	_	_
+kar-ta	_	FN	FN	POS	_	_	_	_	_	_
+ka	kag[mouth]	N	N	D	_	_	_	_	_	_
+i7-da-sze3	_	N	N.GEN.TERM	Iabcdefg	_	_	_	_	_	_
+kiszib3	kiszib[seal]	N	N	D	_	_	_	_	_	_
+lugal-ezem	Lugalezem[1]	PN	PN	D	_	_	_	_	_	_
+ugula	ugula[overseer][-ø]	N	N	D	_	_	_	_	_	_
+a-a-mu	Ayamu[1][-ak]	PN	PN.GEN	D	_	_	_	_	_	_
+lugal-ezem	Lugalezem[1]	PN	PN	D	_	_	_	_	_	_
+dub-sar	dubsar[scribe]	N	N	D	_	_	_	_	_	_
+dumu	dumu[child]	N	N	D	_	_	_	_	_	_
+lugal-e2-mah-e	Lugalemahe[1]	N	PN	D	_	_	_	_	_	_
+szabra	szabra[chief_administrator][-ak]	N	N	D	_	_	_	_	_	_

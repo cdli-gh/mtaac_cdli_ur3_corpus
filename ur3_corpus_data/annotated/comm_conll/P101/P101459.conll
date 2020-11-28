@@ -1,0 +1,25 @@
+#new_text=P101459					
+FORM	SEGM	XPOSTAG	XPOSTAG	POS	?	?	?	?	?	?
+2(u)	2(u)[ten]	NU	NU	D	B-COUNT	_	27	cardinal	_	27
+7(disz)	7(disz)[one][-sze]	NU	NU	D	I-COUNT	*	*	*	*	*
+ku6	kud[fish]	N	N	D	B-COM	_	_	_	_	_
+kun-zi	_	N	N	POS	_	_	_	_	_	_
+suhur	suhur[carp]	N	N	D	_	_	_	_	_	_
+1(gesz2)	1(gesz)[sixty]	NU	NU	D	B-COUNT	_	108	cardinal	_	108
+4(u)	4(u)[ten]	NU	NU	D	I-COUNT	*	*	*	*	*
+8(disz)	8(disz)[one]	NU	NU	D	I-COUNT	*	*	*	*	*
+ku6	kud[fish]	N	N	D	_	_	_	_	_	_
+kun-zi	_	N	N	POS	_	_	_	_	_	_
+esztub{ku6}	_	N	N	Ia	_	_	_	_	_	_
+za3	_	N	N	Ia	_	_	_	_	_	_
+1(u)-bi	_	NU	NU.3-SG-NH-POSS.ABS	Iab	B-COUNT	_	10	cardinal	_	10
+ib2-ta-zi	_	V	FIN.3-SG-H-A.V.3-SG-P.SUB.ABS	Iabcdef	_	_	_	_	_	_
+ki	ki[place]	N	N	D	B-COM	_	_	_	_	_
+ur-{d}utu-ta	Urutu[1][-ak]-ta	PN	PN.GEN.ABL	D	_	_	_	_	_	_
+kiszib3	kiszib[seal]	N	N	D	_	_	_	_	_	_
+lu2-kal-la	Lukala[1][-ra]	PN	PN.GEN	D	_	_	_	_	_	_
+lu2-kal-la	Lukala[1][-ra]	PN	PN.GEN	D	_	_	_	_	_	_
+dub-sar	dubsar[scribe]	N	N	D	_	_	_	_	_	_
+dumu	dumu[child]	N	N	D	_	_	_	_	_	_
+ur-e11-e	Ure'e[1][-ak]	PN	PN	D	_	_	_	_	_	_
+szusz3	kusz[cattle_manager][-ak]	N	N.GEN	D	_	_	_	_	_	_

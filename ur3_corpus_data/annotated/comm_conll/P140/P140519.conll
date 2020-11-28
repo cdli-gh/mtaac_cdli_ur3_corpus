@@ -1,0 +1,27 @@
+#new_text=P140519					
+FORM	SEGM	XPOSTAG	XPOSTAG	POS	?	?	?	?	?	?
+4(disz)	4(disz)[one]	NU	NU	D	B-COUNT	_	4	cardinal	_	4
+{gesz}dusu	_	N	N	Ia	B-COM	_	_	_	_	_
+gu2	gun[unit]	N	N	D	_	_	_	_	_	_
+gir-ra-sze3	_	N	N	POS	_	_	_	_	_	_
+esir2	esir[bitumen]	N	N	D	_	_	_	_	_	_
+ga6-ga6-de3	_	V	NF.V.PF.DAT-NH	Iabcdefg	_	_	_	_	_	_
+ki	ki[place]	N	N	D	_	_	_	_	_	_
+ur-e2-masz-ta	_	PN	PN	Iabcdefgh	_	_	_	_	_	_
+kiszib3	kiszib[seal]	N	N	D	_	_	_	_	_	_
+ur-ge6-par4	Ur-gepar[1]	PN	PN	D	_	_	_	_	_	_
+sza3	szag[heart]	N	N	D	_	_	_	_	_	_
+bala-a	bala[tax][-ak]-'a	N	N.GEN.L1	D	_	_	_	_	_	_
+iti	iti[month]	N	N	D	_	_	_	_	_	_
+dal	Dal[1][-'a]	MN	MN.L1	D	_	_	_	_	_	_
+mu	mu[year]	N	N	D	_	_	_	_	_	_
+{d}szu-{d}suen	Szusuen[1]	RN	RN	D	_	_	_	_	_	_
+lugal	lugal[king]	N	N	D	_	_	_	_	_	_
+uri5{ki}-ma-ke4	Urim[1]-ak-e	SN	SN.GEN.ERG	D	_	_	_	_	_	_
+ma-da	mada[land][-ak][-ø]	N	N	D	_	_	_	_	_	_
+za-ab-sza-li{ki}	Zabszali[1][-ak][-ø]	GN	SN.GEN.ABS	D	_	_	_	_	_	_
+mu-hul	mu[-n]-hulu[destroy][-ø]	V	VEN.3-SG-H-A.V.3-SG-P	D	_	_	_	_	_	_
+ur-ge6-par4	Ur-gepar[1]	PN	PN	D	_	_	_	_	_	_
+dub-sar	dubsar[scribe]	N	N	D	_	_	_	_	_	_
+dumu	dumu[child]	N	N	D	_	_	_	_	_	_
+a-a-kal-la	Ayakala[1]	PN	PN	D	_	_	_	_	_	_

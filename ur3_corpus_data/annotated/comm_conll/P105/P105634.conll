@@ -1,0 +1,21 @@
+#new_text=P105634					
+FORM	SEGM	XPOSTAG	XPOSTAG	POS	?	?	?	?	?	?
+x	_[_]	N	N	D	_	_	_	_	_	_
+u8	u[ewe]	N	N	D	_	_	_	_	_	_
+1(gesz'u)	1(gesz'u)[six_hundred]	NU	NU	D	B-COUNT	_	690	cardinal	_	690
+1(gesz2)	1(gesz)[sixty]	NU	NU	D	I-COUNT	*	*	*	*	*
+3(u)	3(u)[ten]	NU	NU	D	I-COUNT	*	*	*	*	*
+udu-nita2	udunita[ram]	N	N	D	_	_	_	_	_	_
+2(gesz2)	2(gesz)[sixty]	NU	NU	D	B-COUNT	_	140	cardinal	_	140
+2(u)	2(u)[ten]	NU	NU	D	I-COUNT	*	*	*	*	*
+sila4	sila[lamb]	N	N	D	_	_	_	_	_	_
+hi-a	hi[mix]-a[-ø]	V	NF.V.PT	D	_	_	_	_	_	_
+3(gesz2)	3(gesz)[sixty]	NU	NU	D	B-COUNT	_	180	cardinal	_	180
+masz2	masz[goat]	N	N	D	_	_	_	_	_	_
+sag	sag[head]	N	N	D	_	_	_	_	_	_
+ur-{d}nin-urta	_	PN	PN	Iabcdefgh	_	_	_	_	_	_
+...	_[_]	PN	N	D	_	_	_	_	_	_
+x	_[_]	N	N	D	_	_	_	_	_	_
+mu	mu[year]	N	N	D	_	_	_	_	_	_
+{d}i-bi2-{d}suen	Ibbisuen[1]	RN	RN	D	_	_	_	_	_	_
+lugal	lugal[king]	N	N	D	_	_	_	_	_	_

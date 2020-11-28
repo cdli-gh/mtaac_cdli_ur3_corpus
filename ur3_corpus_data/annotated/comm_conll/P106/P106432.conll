@@ -1,0 +1,20 @@
+#new_text=P106432					
+FORM	SEGM	XPOSTAG	XPOSTAG	POS	?	?	?	?	?	?
+2(u)	2(u)[ten]	NU	NU	D	B-COUNT	_	0.0018518518518518517	cardinal	_	0.0018518518518518517
+sze	sze[barley]	N	N	D	I-COUNT	*	*	*	*	*
+ma-ad-lu	_	V	V	POS	_	_	_	_	_	_
+1(u)	1(u)[ten]	NU	NU	D	B-COUNT	_	0.0009259259259259259	cardinal	_	0.0009259259259259259
+sze	sze[barley]	N	N	D	I-COUNT	*	*	*	*	*
+ni-a-li-ba-ni	_	PN	PN.GEN.ABS	Iabcdefgh	_	_	_	_	_	_
+dumu-ni	dumu[child]-ani	N	N.3-SG-H-POSS	D	_	_	_	_	_	_
+1(u)	1(u)[ten]	NU	NU	D	B-COUNT	_	0.0009259259259259259	cardinal	_	0.0009259259259259259
+sze	sze[barley]	N	N	D	I-COUNT	*	*	*	*	*
+{d}szul-gi-ur-szu-ru-uk	_	PN	PN	Ia	_	_	_	_	_	_
+ki	ki[place]	N	N	D	_	_	_	_	_	_
+{d}szul-gi-kalam-ma-me-te-bi	_	PN	PN.GEN.ABS	Iabcdef	_	_	_	_	_	_
+iti	iti[month]	N	N	D	_	_	_	_	_	_
+masz2-ku3-gu7	_	N	N	POS	_	_	_	_	_	_
+ur-{d}szara2	Urszara[1]	PN	PN	D	_	_	_	_	_	_
+dub-sar	dubsar[scribe]	N	N	D	_	_	_	_	_	_
+dumu	dumu[child]	N	N	D	_	_	_	_	_	_
+lugal-uszur4	Lugaluszur[1][-ak]	PN	PN.GEN	D	_	_	_	_	_	_

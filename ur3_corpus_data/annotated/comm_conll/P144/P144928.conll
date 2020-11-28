@@ -1,0 +1,26 @@
+#new_text=P144928					
+FORM	SEGM	XPOSTAG	XPOSTAG	POS	?	?	?	?	?	?
+2(disz)	2(disz)[one]	NU	NU	D	B-COUNT	_	2	cardinal	_	2
+{gi}gur	gur[measuring_vessel]	N	N	D	B-COM	_	_	_	_	_
+zi3-IL2-ka	_	N	N.GEN	Iabcde	_	_	_	_	_	_
+zi3	zid[flour]	N	N	D	_	_	_	_	_	_
+sig15	sig[flour_type]	V	N	D	_	_	_	_	_	_
+na-gab2-tum-ta	_	N	N	POS	_	_	_	_	_	_
+ga6-ga6-de3	_	V	NF.V.PF.DAT-NH	Iabcdefg	_	_	_	_	_	_
+ki	ki[place]	N	N	D	_	_	_	_	_	_
+a-gu-ta	Agu[1][-ak]-ta	PN	PN.GEN.ABL	D	_	_	_	_	_	_
+kiszib3	kiszib[seal]	N	N	D	_	_	_	_	_	_
+lu2-dingir-ra	Ludingira[1][-ra]	PN	PN	D	_	_	_	_	_	_
+sza3	szag[heart]	N	N	D	_	_	_	_	_	_
+bala-a	bala[tax][-ak]-'a	N	N.GEN.L1	D	_	_	_	_	_	_
+mu	mu[year]	N	N	D	_	_	_	_	_	_
+{d}szu-{d}suen	Szusuen[1]	RN	RN	D	_	_	_	_	_	_
+lugal-e	lugal[king]-e	N	N.ERG	D	_	_	_	_	_	_
+na-ru2-a-mah	naruamah[magnificent_stele][-ø]	PN	N.ABS	D	_	_	_	_	_	_
+{d}en-lil2	Enlil[1]	DN	DN	D	_	_	_	_	_	_
+{d}nin-lil2-ra	Ninlil[1]-ra	DN	DN.DAT-H	D	_	_	_	_	_	_
+mu-ne-du3	mu-nnee[-a][-n]-du[build][-ø]	V	VEN.3-PL.DAT.3-SG-H-A.V.3-SG-P	D	_	_	_	_	_	_
+lu2-dingir-ra	Ludingira[1][-ra]	PN	PN	D	_	_	_	_	_	_
+dub-sar	dubsar[scribe]	N	N	D	_	_	_	_	_	_
+dumu	dumu[child]	N	N	D	_	_	_	_	_	_
+...	_[_]	PN	N	D	_	_	_	_	_	_

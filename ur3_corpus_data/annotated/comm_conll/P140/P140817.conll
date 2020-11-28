@@ -1,0 +1,27 @@
+#new_text=P140817					
+FORM	SEGM	XPOSTAG	XPOSTAG	POS	?	?	?	?	?	?
+2(disz)	2(disz)[one]	NU	NU	D	B-COUNT	_	2	cardinal	_	2
+{gi}in-bul5-bul5	_	N	N	Ia	B-COM	_	_	_	_	_
+*RETOK*-capacity"	?	?	?	?	B-COUNT	l	180	"dry	*	*
+3(barig)-ta	_	NU	NU	POS	I-COUNT	*	*	*	sila3	180
+4(disz)	4(disz)[one]	NU	NU	D	B-COUNT	_	4	cardinal	_	4
+{gi}gur	gur[measuring_vessel]	N	N	D	B-COM	_	_	_	_	_
+nag	_	V	V	POS	_	_	_	_	_	_
+*RETOK*-capacity"	?	?	?	?	B-COUNT	l	10	"dry	*	*
+1(ban2)-ta	_	NU	NU	POS	I-COUNT	*	*	*	sila3	10
+ki	ki[place]	N	N	D	_	_	_	_	_	_
+szesz-kal-la-ta	Szeszkala[1][-ak]-ta	N	PN.GEN.ABL	D	_	_	_	_	_	_
+kiszib3	kiszib[seal]	N	N	D	_	_	_	_	_	_
+lu2-sa6-ga	_	PN	PN	Iabcde	_	_	_	_	_	_
+sza3	szag[heart]	N	N	D	_	_	_	_	_	_
+bala-a	bala[tax][-ak]-'a	N	N.GEN.L1	D	_	_	_	_	_	_
+iti	iti[month]	N	N	D	_	_	_	_	_	_
+min3-esz3	Minesz[1][-'a]	MN	MN.L1	D	_	_	_	_	_	_
+mu	mu[year]	N	N	D	_	_	_	_	_	_
+ma2	ma[ship]	N	N	D	_	_	_	_	_	_
+{d}en-ki	Enki[1][-ak][-ø]	DN	DN.GEN.ABS	D	_	_	_	_	_	_
+ba-ab-du8	ba-b-du[caulk][-ø]	V	MID.3-SG-NH-L3.V.3-SG-S	D	B-COM	_	_	_	_	_
+lu2-sa6-i3-zu	Lusa'izu[1]	PN	PN.GEN	D	_	_	_	_	_	_
+dub-sar	dubsar[scribe]	N	N	D	_	_	_	_	_	_
+dumu	dumu[child]	N	N	D	_	_	_	_	_	_
+a-kal-la	Akala[1]	PN	PN	D	_	_	_	_	_	_

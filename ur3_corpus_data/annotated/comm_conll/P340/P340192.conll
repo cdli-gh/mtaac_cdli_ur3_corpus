@@ -1,0 +1,16 @@
+#new_text=P340192					
+FORM	SEGM	XPOSTAG	XPOSTAG	POS	?	?	?	?	?	?
+9(asz)	9(asz)[one]	NU	NU	D	B-COUNT	g	270000.0	weight	gin2	32400
+gu2	gun[unit]	N	N	D	I-COUNT	*	*	*	*	*
+mangaga(SU6)	_	V	V	POS	_	_	_	_	_	_
+e2-kikken-ta	_	TN	TN	POS	_	_	_	_	_	_
+ki	ki[place]	N	N	D	_	_	_	_	_	_
+ARAD2-ta	Arad[1][-ak]-ta	PN	PN.GEN.ABL	D	_	_	_	_	_	_
+mar-sa-asz	marsa[military_depot]-sze	PN	N.TERM	D	_	_	_	_	_	_
+nig2-lagar-e	Niglagare[1]	N	PN	D	_	_	_	_	_	_
+szu	szu[hand][-e]	N	N.L3-NH	D	B-COM	_	_	_	_	_
+ba-ti	ba[-n]-teg[accept][-ø]	V	MID.3-SG-H-A.V.3-SG-P	D	_	_	_	_	_	_
+mu	mu[year]	N	N	D	_	_	_	_	_	_
+{gesz}gu-za	guza[chair]	N	N	D	_	_	_	_	_	_
+{d}en-lil2-la2	Enlil[1][-ak][-ø]	DN	DN.GEN	D	_	_	_	_	_	_
+ba-dim2	ba-dim[create][-ø]	V	MID.V.3-SG-S	D	_	_	_	_	_	_

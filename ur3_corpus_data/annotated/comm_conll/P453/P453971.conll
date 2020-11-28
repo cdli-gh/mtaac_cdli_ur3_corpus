@@ -1,0 +1,24 @@
+#new_text=P453971					
+FORM	SEGM	XPOSTAG	XPOSTAG	POS	B-COUNT	l	5610	"dry	*	*
+1(u)	1(u)[ten]	NU	NU	D	I-COUNT	*	*	*	sila3	5610
+8(asz)	8(asz)[one]	NU	NU	D	I-COUNT	*	*	*	*	*
+3(barig)	3(bariga)[unit]	NU	N	D	I-COUNT	*	*	*	*	*
+3(ban2)	3(ban)[unit]	NU	N	D	I-COUNT	*	*	*	*	*
+dabin	dabin[semolina]	N	N	D	B-COM	_	_	_	_	_
+gur	gur[unit]	N	N	D	_	_	_	_	_	_
+la2-ia3	la'u[arrears]	N	N	D	_	_	_	_	_	_
+nig2-ka9-ak	nigSZID[account]	N	N	D	_	_	_	_	_	_
+zi3	zid[flour]	N	N	D	_	_	_	_	_	_
+bala-a	bala[tax][-ak]-'a	N	N.GEN.L1	D	_	_	_	_	_	_
+ki	ki[place]	N	N	D	_	_	_	_	_	_
+a-da-lal3-ta	_	PN	PN	Iabcdefgh	_	_	_	_	_	_
+szu-ur-gu	_	PN	PN	Iabc	_	_	_	_	_	_
+u3	u[and]	CNJ	CNJ	D	_	_	_	_	_	_
+{d}nansze-ba-ni	_	PN	PN	POS	_	_	_	_	_	_
+szu	szu[hand][-e]	N	N.L3-NH	D	_	_	_	_	_	_
+ba-an-ti-esz2	_	V	MID.3-SG-H-A.V.3-PL	Iabcdefg	_	_	_	_	_	_
+iti	iti[month]	N	N	D	_	_	_	_	_	_
+ezem-an-na	Ezemanna[1][-'a]	MN	MN.L1	D	_	_	_	_	_	_
+mu	mu[year]	N	N	D	_	_	_	_	_	_
+{d}i-bi2-{d}suen	Ibbisuen[1]	RN	RN	D	_	_	_	_	_	_
+lugal	lugal[king]	N	N	D	_	_	_	_	_	_

@@ -1,0 +1,22 @@
+#new_text=P117767					
+FORM	SEGM	XPOSTAG	XPOSTAG	POS	B-COUNT	l	2	"liquid	*	*
+*RETOK*-capacity"	?	?	?	?	I-COUNT	l	2	"dry	sila3	2
+2(disz)	2(disz)[one]	NU	NU	D	I-COUNT	*	*	*	sila3	2
+sila3	sila[unit]	N	N	D	I-COUNT	*	*	*	*	*
+esir2	esir[bitumen]	N	N	D	B-COM	_	_	_	_	_
+E2-A	Ea[1]	ON	ON	D	_	_	_	_	_	_
+{gesz}umbin-sze3	_	N	N.3-SG-H-POSS.TERM	Iabcdef	_	_	_	_	_	_
+ki	ki[place]	N	N	D	_	_	_	_	_	_
+lugal-ezem-ta	Lugalezem[1][-ak]-ta	PN	PN.GEN.ABL	D	_	_	_	_	_	_
+lugal-e-ba-an-sa6	Lugalebansa[1][-ra]	PN	PN	D	_	_	_	_	_	_
+szu	szu[hand][-e]	N	N.L3-NH	D	_	_	_	_	_	_
+ba-ti	ba[-n]-teg[accept][-ø]	V	MID.3-SG-H-A.V.3-SG-P	D	_	_	_	_	_	_
+iti	iti[month]	N	N	D	_	_	_	_	_	_
+sze-kar-ra-gal2-la	Szekaragala[1][-'a]	MN	MN.L1	D	_	_	_	_	_	_
+mu	mu[year]	N	N	D	_	_	_	_	_	_
+an-sza-an{ki}	Anszan[1][-ø]	GN	GN.ABS	D	_	_	_	_	_	_
+ba-hul	ba-hulu[destroy][-ø]	V	MID.V.3-SG-S	D	_	_	_	_	_	_
+lugal-e-ba-an-sa6	Lugalebansa[1][-ra]	PN	PN	D	_	_	_	_	_	_
+dub-sar	dubsar[scribe]	N	N	D	_	_	_	_	_	_
+dumu	dumu[child]	N	N	D	_	_	_	_	_	_
+ur-{d}isztaran	Urisztaran[1]	PN	PN.GEN.ABS	D	_	_	_	_	_	_

@@ -1,0 +1,25 @@
+#new_text=P119619					
+FORM	SEGM	XPOSTAG	XPOSTAG	POS	?	?	?	?	?	?
+4(disz)	4(disz)[one]	NU	NU	D	B-COUNT	_	4	cardinal	_	4
+gurusz	gurusz[male]	N	N	D	B-COM	_	_	_	_	_
+iti	iti[month]	N	N	D	_	_	_	_	_	_
+sze-sag11-ku5-ta	Szesagku[1]-ta	MN	MN.ABL	D	_	_	_	_	_	_
+iti	iti[month]	N	N	D	_	_	_	_	_	_
+nesag-sze3	nesag[first_fruit_offering]-sze	MN	N.TERM	D	_	_	_	_	_	_
+a-gesztin-ta	_	PN	PN.GEN.GEN.ABL	Iabcdef	_	_	_	_	_	_
+e2-udu	e'udu[sheephouse]	N	N	D	_	_	_	_	_	_
+a-sza3	aszag[field]	N	N	D	_	_	_	_	_	_
+la2-mah-sze3	_	FN	FN.GEN.GEN.TERM	Iabcdef	_	_	_	_	_	_
+gi-zi	gizi[reed][-ak][-ak]	N	N.GEN.GEN	D	_	_	_	_	_	_
+ga6-ga2	gag[carry]-a	V	NF.V.PT	D	_	_	_	_	_	_
+ugula	ugula[overseer][-ø]	N	N	D	_	_	_	_	_	_
+ba-sa6	Basa[1][-ak]	PN	PN.GEN	D	_	_	_	_	_	_
+kiszib3	kiszib[seal]	N	N	D	_	_	_	_	_	_
+usz-mu	Uszmu[1]	PN	PN	D	_	_	_	_	_	_
+mu	mu[year]	N	N	D	_	_	_	_	_	_
+szu-{d}suen	Szusuen[1]	PN	RN	D	_	_	_	_	_	_
+lugal	lugal[king]	N	N	D	_	_	_	_	_	_
+usz-mu	Uszmu[1]	PN	PN	D	_	_	_	_	_	_
+dub-sar	dubsar[scribe]	N	N	D	_	_	_	_	_	_
+dumu	dumu[child]	N	N	D	_	_	_	_	_	_
+lugal-sa6-ga	Lugalsaga[1][-ak]	PN	PN.GEN	D	_	_	_	_	_	_

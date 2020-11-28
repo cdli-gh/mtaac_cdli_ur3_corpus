@@ -1,0 +1,12 @@
+#new_text=P107324					
+FORM	SEGM	XPOSTAG	XPOSTAG	POS	?	?	?	?	?	?
+1(u)	1(u)[ten]	NU	NU	D	B-COUNT	_	14	cardinal	_	14
+4(disz)	4(disz)[one]	NU	NU	D	I-COUNT	*	*	*	*	*
+gu4	gud[ox]	N	N	D	B-COM	_	_	_	_	_
+4(gesz2)	4(gesz)[sixty]	NU	NU	D	B-COUNT	_	266	cardinal	_	266
+2(u)	2(u)[ten]	NU	NU	D	I-COUNT	*	*	*	*	*
+6(disz)	6(disz)[one][-sze]	NU	NU	D	I-COUNT	*	*	*	*	*
+udu	udu[sheep]	N	N	D	_	_	_	_	_	_
+nu-eb	_	V	V	POS	_	_	_	_	_	_
+giri3	giri[foot]	N	N	D	_	_	_	_	_	_
+lu2-{d}utu	Lu'utu[1]	PN	PN	D	_	_	_	_	_	_

@@ -1,0 +1,16 @@
+#new_text=P108171					
+FORM	SEGM	XPOSTAG	XPOSTAG	POS	B-COUNT	l	10781	"dry	*	*
+3(u)	3(u)[ten]	NU	NU	D	I-COUNT	*	*	*	sila3	10781
+5(asz)	5(asz)[one]	NU	NU	D	I-COUNT	*	*	*	*	*
+4(barig)	4(bariga)[unit]	NU	N	D	I-COUNT	*	*	*	*	*
+4(ban2)	4(ban)[unit]	NU	N	D	I-COUNT	*	*	*	*	*
+1(disz)	1(disz)[one]	NU	NU	D	I-COUNT	*	*	*	*	*
+sila3	sila[unit]	N	N	D	I-COUNT	*	*	*	*	*
+sze	sze[barley]	N	N	D	I-COUNT	*	*	*	*	*
+gur	gur[unit]	N	N	D	I-COUNT	*	*	*	*	*
+gaba-ri	gabari[copy]	N	N	D	B-COM	_	_	_	_	_
+kiszib3	kiszib[seal]	N	N	D	_	_	_	_	_	_
+ad-da	Adda[1]	PN	PN	D	_	_	_	_	_	_
+mu	mu[year]	N	N	D	_	_	_	_	_	_
+{d}szu-{d}suen	Szusuen[1]	RN	RN	D	_	_	_	_	_	_
+lugal	lugal[king]	N	N	D	_	_	_	_	_	_

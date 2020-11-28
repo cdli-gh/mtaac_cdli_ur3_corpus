@@ -1,0 +1,14 @@
+#new_text=P139454					
+FORM	SEGM	XPOSTAG	XPOSTAG	POS	_	_	_	_	_	_
+...	_[_]	PN	N	D	_	_	_	_	_	_
+2(u)	2(u)[ten]	NU	NU	D	B-COUNT	_	none	unknown	_	none
+ma-na	mana[unit]	N	N	D	I-COUNT	*	*	*	*	*
+...	_[_]	PN	N	D	I-COUNT	*	*	*	*	*
+*RETOK*-x.	?	?	?	?	_	_	_	_	_	_
+...	_[_]	PN	N	D	_	_	_	_	_	_
+nu-ur2-szuruppak{ki}	_	PN	PN	Iabcdefgh	_	_	_	_	_	_
+*RETOK*-x.	?	?	?	?	_	_	_	_	_	_
+1(u)	1(u)[ten]	NU	NU	D	B-COUNT	g	390000.0	weight	gin2	46800
+3(asz)	3(asz)[one]	NU	NU	D	I-COUNT	*	*	*	*	*
+gu2	gun[unit]	N	N	D	I-COUNT	*	*	*	*	*
+ur-sa6-sa6	_	PN	PN	Iabcde	_	_	_	_	_	_

@@ -1,0 +1,22 @@
+#new_text=P116583					
+FORM	SEGM	XPOSTAG	XPOSTAG	POS	?	?	?	?	?	?
+x	_[_]	N	N	D	_	_	_	_	_	_
+1(u)	1(u)[ten]	NU	NU	D	B-COUNT	*	*	*	*	*
+3(asz)	3(asz)[one]	NU	NU	D	I-COUNT	*	*	*	*	*
+3(barig)	3(bariga)[unit]	NU	N	D	I-COUNT	*	*	*	*	*
+sze	sze[barley]	N	N	D	I-COUNT	*	*	*	*	*
+gur	gur[unit]	N	N	D	I-COUNT	*	*	*	*	*
+lugal	lugal[king]	N	N	D	_	_	_	_	_	_
+a2	a[time]	N	N	D	_	_	_	_	_	_
+x	_[_]	N	N	D	_	_	_	_	_	_
+hun-ga2	hug[hire]-a	V	NF.V.PT	D	_	_	_	_	_	_
+GAN2	gana[field]	N	N	D	_	_	_	_	_	_
+diri	diri[intercalary_month]	N	N	D	_	_	_	_	_	_
+a-sza3	aszag[field]	N	N	D	_	_	_	_	_	_
+ambar-lagasz{ki}	_	FN	FN	POS	_	_	_	_	_	_
+giri3	giri[foot]	N	N	D	_	_	_	_	_	_
+ur-szu-ga-lam-ma	_	N	PN.GEN.ABS	D	_	_	_	_	_	_
+tul2-ta	Tulta[1][-ak][-ak]	PN	PN.GEN.GEN	D	_	_	_	_	_	_
+mu	mu[year]	N	N	D	_	_	_	_	_	_
+amar-{d}suen	_	RN	RN	POS	_	_	_	_	_	_
+lugal	lugal[king]	N	N	D	_	_	_	_	_	_

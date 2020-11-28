@@ -1,0 +1,46 @@
+#new_text=P209333					
+FORM	SEGM	XPOSTAG	XPOSTAG	POS	?	?	?	?	?	?
+3(disz)	3(disz)[one]	NU	NU	D	B-COUNT	_	3	cardinal	_	3
+udu	udu[sheep]	N	N	D	B-COM	_	_	_	_	_
+...	_[_]	PN	N	D	_	_	_	_	_	_
+ur-a-...	_	PN	PN	Iabc	_	_	_	_	_	_
+x	_[_]	N	N	D	_	_	_	_	_	_
+x	_[_]	N	N	D	_	_	_	_	_	_
+1(disz)	1(disz)[one]	NU	NU	D	B-COUNT	_	1	cardinal	_	1
+udu	udu[sheep]	N	N	D	B-COM	_	_	_	_	_
+x	_[_]	N	N	D	_	_	_	_	_	_
+x	_[_]	N	N	D	_	_	_	_	_	_
+x	_[_]	N	N	D	_	_	_	_	_	_
+(x)	_[_]	N	N	POS	_	_	_	_	_	_
+KA	ka[mouth]	N	N	D	_	_	_	_	_	_
+(x	_			POS	_	_	_	_	_	_
+x)	_			POS	_	_	_	_	_	_
+MU	_			POS	_	_	_	_	_	_
+1(disz)	1(disz)[one]	NU	NU	D	B-COUNT	_	1	cardinal	_	1
+masz2	masz[goat]	N	N	D	B-COM	_	_	_	_	_
+{d}lugal-banda3{da}	Lugalbanda[1][-ak][-ra]	PN	DN	D	_	_	_	_	_	_
+1(disz)	1(disz)[one]	NU	NU	D	B-COUNT	_	1	cardinal	_	1
+udu	udu[sheep]	N	N	D	B-COM	_	_	_	_	_
+ugula	ugula[overseer][-ø]	N	N	D	_	_	_	_	_	_
+ur-e2-an-na	_	PN	PN	D	_	_	_	_	_	_
+dub-sar	dubsar[scribe]	N	N	D	_	_	_	_	_	_
+gu4	gud[ox]	N	N	D	_	_	_	_	_	_
+1(u)	1(u)[ten]	NU	NU	D	B-COUNT	_	10	cardinal	_	10
+szunigin	szunigin[total]	N	N	D	_	_	_	_	_	_
+5(disz)	5(disz)[one]	NU	NU	D	B-COUNT	_	5	cardinal	_	5
+udu	udu[sheep]	N	N	D	B-COM	_	_	_	_	_
+szunigin	szunigin[total]	N	N	D	_	_	_	_	_	_
+1(disz)	1(disz)[one]	NU	NU	D	B-COUNT	_	1	cardinal	_	1
+masz2	masz[goat]	N	N	D	_	_	_	_	_	_
+udu	udu[sheep]	N	N	D	_	_	_	_	_	_
+gu2-na	gun[tax]-ak[-ø]	N	N.GEN	D	_	_	_	_	_	_
+mu-kux(DU)	mukur[delivery][-ø]	N	N	D	_	_	_	_	_	_
+ki	ki[place]	N	N	D	_	_	_	_	_	_
+szesz-kal-la-ta	Szeszkala[1][-ak]-ta	N	PN.GEN.ABL	D	_	_	_	_	_	_
+lugal-nesag-e	Lugalnesage[1][-e]	PN	PN	D	_	_	_	_	_	_
+i3-dab5	i[-n]-dab[seize][-ø]	V	FIN.3-SG-H-A.V.3-SG-P	D	_	_	_	_	_	_
+iti	iti[month]	N	N	D	_	_	_	_	_	_
+nesag	Nesag[1][-'a]	N	MN.L1	D	_	_	_	_	_	_
+mu	mu[year]	N	N	D	_	_	_	_	_	_
+us2-sa	us[follow]-a	V	NF.V.PT	D	_	_	_	_	_	_
+...	_[_]	PN	N	D	_	_	_	_	_	_

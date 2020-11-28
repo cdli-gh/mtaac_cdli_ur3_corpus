@@ -1,0 +1,19 @@
+#new_text=P499733					
+FORM	SEGM	XPOSTAG	XPOSTAG	POS	?	?	?	?	?	?
+1(u)	1(u)[ten]	NU	NU	D	B-COUNT	*	*	*	*	*
+4(barig)	4(bariga)[unit]	NU	N	D	I-COUNT	*	*	*	*	*
+sze	sze[barley]	N	N	D	I-COUNT	*	*	*	*	*
+gur	gur[unit]	N	N	D	I-COUNT	*	*	*	*	*
+la2-ia3	la'u[arrears]	N	N	D	_	_	_	_	_	_
+ib2-tak4	_	N	N	POS	_	_	_	_	_	_
+ki	ki[place]	N	N	D	_	_	_	_	_	_
+lugal-nir-gal2	_	PN	PN	D	_	_	_	_	_	_
+iti	iti[month]	N	N	D	_	_	_	_	_	_
+sig4-ka	_	MN	MN	Iabcde	_	_	_	_	_	_
+ag2-e-de3	_	V	NF.V.PF.DAT-NH	Iabcdefg	B-COM	_	_	_	_	_
+mu	mu[year]	N	N	D	_	_	_	_	_	_
+lugal-bi	_	N	N	POS	_	_	_	_	_	_
+in-pa3	i-n-pad[name][-ø]	V	FIN.3-SG-H-A.V.3-SG-P	D	_	_	_	_	_	_
+mu	mu[year]	N	N	D	_	_	_	_	_	_
+hu-uh3-nu-ri{ki}	_	GN	GN	POS	_	_	_	_	_	_
+ba-hul	ba-hulu[destroy][-ø]	V	MID.V.3-SG-S	D	_	_	_	_	_	_

@@ -1,0 +1,24 @@
+#new_text=P112573					
+FORM	SEGM	XPOSTAG	XPOSTAG	POS	?	?	?	?	?	?
+1/3(disz)	1/3(disz)[one]	NU	NU	D	B-COUNT	_	0.3333333333333333	cardinal	_	0.3333333333333333
+kusz	kusz[leather]	N	N	D	B-COM	_	_	_	_	_
+u2-hab2	_	PN	PN	Iabcde	_	_	_	_	_	_
+ka-tab	_	N	N	Ia	_	_	_	_	_	_
+dug	dug[pot]	N	N	D	_	_	_	_	_	_
+ninda	ninda[bread]	N	N	D	_	_	_	_	_	_
+*RETOK*-capacity"	?	?	?	?	B-COUNT	l	2	"liquid	*	*
+*RETOK*-capacity"	?	?	?	?	I-COUNT	l	2	"dry	sila3	2
+2(disz)	2(disz)[one]	NU	NU	D	I-COUNT	*	*	*	sila3	2
+sila3	sila[unit]	N	N	D	I-COUNT	*	*	*	*	*
+ki	ki[place]	N	N	D	_	_	_	_	_	_
+a-kal-la	Akala[1]	PN	PN	D	_	_	_	_	_	_
+aszgab-ta	aszgab[leatherworker][-ak]-ta	N	N.GEN.ABL	D	_	_	_	_	_	_
+kiszib3	kiszib[seal]	N	N	D	_	_	_	_	_	_
+lu2-kal-la	Lukala[1][-ra]	PN	PN.GEN	D	_	_	_	_	_	_
+mu	mu[year]	N	N	D	_	_	_	_	_	_
+{d}szu-{d}suen	Szusuen[1]	RN	RN	D	_	_	_	_	_	_
+lugal	lugal[king]	N	N	D	_	_	_	_	_	_
+lu2-kal-la	Lukala[1][-ra]	PN	PN.GEN	D	_	_	_	_	_	_
+dub-sar	dubsar[scribe]	N	N	D	_	_	_	_	_	_
+dumu	dumu[child]	N	N	D	_	_	_	_	_	_
+ur-e11-e	Ure'e[1][-ak]	PN	PN	D	_	_	_	_	_	_

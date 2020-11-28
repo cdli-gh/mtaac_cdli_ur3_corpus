@@ -1,0 +1,21 @@
+#new_text=P340698					
+FORM	SEGM	XPOSTAG	XPOSTAG	POS	?	?	?	?	?	?
+1(disz)	1(disz)[one]	NU	NU	D	B-COUNT	_	1	cardinal	_	1
+gurusz	gurusz[male]	N	N	D	B-COM	_	_	_	_	_
+iti	iti[month]	N	N	D	_	_	_	_	_	_
+5(disz)-sze3	5(disz)[one]-sze	NU	NU.TERM	D	B-COUNT	_	5	cardinal	_	5
+ga2-nun	_	N	N	D	_	_	_	_	_	_
+iri-sa12-rig7{ki}-da	_	SN	SN.GEN.GEN	Iabcdef	_	_	_	_	_	_
+tusz-a	tusz[dewell]-a	V	NF.V.PT	D	_	_	_	_	_	_
+ugula	ugula[overseer][-ø]	N	N	D	_	_	_	_	_	_
+lugal-{d}isztaran	_	PN	PN	Iabcde	_	_	_	_	_	_
+kiszib3	kiszib[seal]	N	N	D	_	_	_	_	_	_
+lugal-iti-da	Lugalitida[1]	PN	PN	D	_	_	_	_	_	_
+mu	mu[year]	N	N	D	_	_	_	_	_	_
+an-sza-an{ki}	Anszan[1][-ø]	GN	GN.ABS	D	_	_	_	_	_	_
+ba-hul	ba-hulu[destroy][-ø]	V	MID.V.3-SG-S	D	_	_	_	_	_	_
+lugal-ti-da	_	PN	PN	Iabcdefgh	_	_	_	_	_	_
+dumu	dumu[child]	N	N	D	_	_	_	_	_	_
+giri3-ni	Girini[1][-ra]	PN	PN.DAT-H	D	B-COM	_	_	_	_	_
+aga3-us2	aga'us[soldier]	N	N	D	_	_	_	_	_	_
+ensi2	ensik[ruler]	N	N	D	_	_	_	_	_	_

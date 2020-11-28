@@ -1,0 +1,27 @@
+#new_text=P416426					
+FORM	SEGM	XPOSTAG	XPOSTAG	POS	?	?	?	?	?	?
+1(u)	1(u)[ten]	NU	NU	D	B-COUNT	_	16	cardinal	_	16
+6(disz)	6(disz)[one][-sze]	NU	NU	D	I-COUNT	*	*	*	*	*
+gurusz	gurusz[male]	N	N	D	B-COM	_	_	_	_	_
+u4	ud[day]	N	N	D	_	_	_	_	_	_
+3(disz)-sze3	3(disz)[one]-sze	NU	NU.TERM	D	B-COUNT	_	3	cardinal	_	3
+HI-a-bar-ra-ka	_	PN	PN.GEN.ABL	Iabcdefgh	_	_	_	_	_	_
+{u2}gug4	_	N	N	POS	B-COM	_	_	_	_	_
+zex(SIG7)-a	_	V	NF.V.PT	Iabcde	_	_	_	_	_	_
+u3	u[and]	CNJ	CNJ	D	_	_	_	_	_	_
+a-e	_	N	N	POS	_	_	_	_	_	_
+gu7-a	_	V	NF.V.PT.ABS	Iabcdefg	_	_	_	_	_	_
+ki-gam-ma-ka-sze3	_	N	N	POS	_	_	_	_	_	_
+ga6-ga2	gag[carry]-a	V	NF.V.PT	D	_	_	_	_	_	_
+ugula	ugula[overseer][-ø]	N	N	D	_	_	_	_	_	_
+...-la	_	PN	PN	Iabcde	_	_	_	_	_	_
+kiszib3	kiszib[seal]	N	N	D	_	_	_	_	_	_
+ur-{d}szara2	Urszara[1]	PN	PN	D	_	_	_	_	_	_
+mu	mu[year]	N	N	D	_	_	_	_	_	_
+ma2	ma[ship]	N	N	D	_	_	_	_	_	_
+{d}en-ki	Enki[1][-ak][-ø]	DN	DN.GEN.ABS	D	_	_	_	_	_	_
+ba-ab-du8	ba-b-du[caulk][-ø]	V	MID.3-SG-NH-L3.V.3-SG-S	D	_	_	_	_	_	_
+ur-{d}szara2	Urszara[1]	PN	PN	D	_	_	_	_	_	_
+dub-sar	dubsar[scribe]	N	N	D	_	_	_	_	_	_
+dumu	dumu[child]	N	N	D	_	_	_	_	_	_
+szesz-kal-la	Szeszkala[1][-ra]	PN	PN	D	_	_	_	_	_	_

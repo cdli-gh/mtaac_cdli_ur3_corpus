@@ -1,0 +1,17 @@
+#new_text=P121629					
+FORM	SEGM	XPOSTAG	XPOSTAG	POS	?	?	?	?	?	?
+1(barig)	1(bariga)[unit]	NU	N	D	B-COUNT	*	*	*	*	*
+sze	sze[barley]	N	N	D	I-COUNT	*	*	*	*	*
+e2	e[house]	N	N	D	_	_	_	_	_	_
+igi-a-a-ta	_	PN	PN.GEN.GEN.ABL	Iabcdef	_	_	_	_	_	_
+*RETOK*-capacity"	?	?	?	?	B-COUNT	l	60	"dry	*	*
+1(barig)	1(bariga)[unit]	NU	N	D	I-COUNT	*	*	*	sila3	60
+da-a-ga	_	PN	PN	Ia	_	_	_	_	_	_
+ki	ki[place]	N	N	D	_	_	_	_	_	_
+ur-{d}nusku-ta	_	PN	PN.GEN.ABL	Iab	_	_	_	_	_	_
+sa3-si2	_	PN	PN	POS	_	_	_	_	_	_
+iti	iti[month]	N	N	D	_	_	_	_	_	_
+sig4	szeg[brick]	N	N	D	_	_	_	_	_	_
+mu	mu[year]	N	N	D	_	_	_	_	_	_
+sza-asz-ru{ki}	Szaszru[1][-ø]	SN	SN.ABS	D	_	_	_	_	_	_
+ba-hul	ba-hulu[destroy][-ø]	V	MID.V.3-SG-S	D	_	_	_	_	_	_

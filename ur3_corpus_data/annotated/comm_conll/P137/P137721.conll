@@ -1,0 +1,18 @@
+#new_text=P137721					
+FORM	SEGM	XPOSTAG	XPOSTAG	POS	?	?	?	?	?	?
+5(disz)	5(disz)[one]	NU	NU	D	B-COUNT	_	5	cardinal	_	5
+a2	a[time]	N	N	D	_	_	_	_	_	_
+gurusz	gurusz[male]	N	N	D	B-COM	_	_	_	_	_
+u4	ud[day]	N	N	D	_	_	_	_	_	_
+1(disz)-sze3	1(disz)[one]-sze	NU	NU.TERM	D	B-COUNT	_	1	cardinal	_	1
+a2	a[time]	N	N	D	_	_	_	_	_	_
+gi-ra	_	N	N	Ia	B-COM	_	_	_	_	_
+de6-a	de[bring]-a	V	NF.V.PT	D	_	_	_	_	_	_
+ur-dun	Urdun[1]	PN	PN	D	_	_	_	_	_	_
+dub-sar	dubsar[scribe]	N	N	D	_	_	_	_	_	_
+gesz-kin-ti-ka	_	N	N.GEN	Ia	_	_	_	_	_	_
+ba-na-zi	_	V	MID.3-SG-H.DAT.V.3-SG-S	Iab	_	_	_	_	_	_
+mu	mu[year]	N	N	D	_	_	_	_	_	_
+bad3	bad[wall]	N	N	D	_	_	_	_	_	_
+ma-da	mada[land][-ak][-ø]	N	N	D	_	_	_	_	_	_
+ba-du3-a	ba-du[build][-ø]	V	MID.V.3-SG-S	D	_	_	_	_	_	_

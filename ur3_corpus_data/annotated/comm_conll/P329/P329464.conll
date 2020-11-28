@@ -1,0 +1,17 @@
+#new_text=P329464					
+FORM	SEGM	XPOSTAG	XPOSTAG	POS	?	?	?	?	?	?
+6(gesz2)	6(gesz)[sixty]	NU	NU	D	B-COUNT	_	360	cardinal	_	360
+u-bar-um	_	PN	PN.GEN.ABL	Iabcdefgh	_	_	_	_	_	_
+4(gesz2)	4(gesz)[sixty]	NU	NU	D	B-COUNT	_	240	cardinal	_	240
+geme2-{gesz}...	_	PN	PN	Iabcde	B-COM	_	_	_	_	_
+6(gesz2)	6(gesz)[sixty]	NU	NU	D	B-COUNT	_	360	cardinal	_	360
+ur-sukkal	_	PN	PN	Iabcde	_	_	_	_	_	_
+4(gesz2)	4(gesz)[sixty]	NU	NU	D	B-COUNT	_	240	cardinal	_	240
+na-mu-ra	_	PN	PN	Iabc	_	_	_	_	_	_
+...	_[_]	PN	N	D	_	_	_	_	_	_
+4(gesz2)	4(gesz)[sixty]	NU	NU	D	B-COUNT	_	240	cardinal	_	240
+sza-at-i3-li2	_	PN	PN	Iabcde	_	_	_	_	_	_
+2(szar2)	2(szar)[thirty-six_hundred]	NU	NU	D	B-COUNT	_	9180	cardinal	_	9180
+3(gesz'u)	3(gesz'u)[six_hundred]	NU	NU	D	I-COUNT	*	*	*	*	*
+3(gesz2)	3(gesz)[sixty]	NU	NU	D	I-COUNT	*	*	*	*	*
+n	_(_)[_]	NU	NU	D	_	_	_	_	_	_

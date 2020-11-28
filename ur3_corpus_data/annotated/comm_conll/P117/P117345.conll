@@ -1,0 +1,18 @@
+#new_text=P117345					
+FORM	SEGM	XPOSTAG	XPOSTAG	POS	?	?	?	?	?	?
+7(szar2)	_	NU	NU	Ia	B-COUNT	_	28534	cardinal	_	28534
+5(gesz'u)	5(gesz'u)[six_hundred]	NU	NU	D	I-COUNT	*	*	*	*	*
+5(gesz2)	5(gesz)[sixty]	NU	NU	D	I-COUNT	*	*	*	*	*
+3(u)	3(u)[ten]	NU	NU	D	I-COUNT	*	*	*	*	*
+4(disz)	4(disz)[one]	NU	NU	D	I-COUNT	*	*	*	*	*
+sig4	szeg[brick]	N	N	D	_	_	_	_	_	_
+u3	u[and]	CNJ	CNJ	D	B-COM	_	_	_	_	_
+lagab	_	N	N	POS	_	_	_	_	_	_
+ba-zi	ba-zig[expend][-ø]	PN	MID.V.3-SG-S	D	_	_	_	_	_	_
+ki	ki[place]	N	N	D	_	_	_	_	_	_
+lugal-pa-e3-ta	_	PN	PN.GEN.ABL	Iab	_	_	_	_	_	_
+giri3	giri[foot]	N	N	D	_	_	_	_	_	_
+ug3-IL2	uggaga[porter]	N	N	D	_	_	_	_	_	_
+mu	mu[year]	N	N	D	_	_	_	_	_	_
+{d}szu-{d}suen	Szusuen[1]	RN	RN	D	_	_	_	_	_	_
+lugal-am3	_	N	N	POS	_	_	_	_	_	_

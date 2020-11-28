@@ -1,0 +1,21 @@
+#new_text=P109197					
+FORM	SEGM	XPOSTAG	XPOSTAG	POS	?	?	?	?	?	?
+2(barig)	2(bariga)[unit]	NU	N	D	B-COUNT	*	*	*	*	*
+sze	sze[barley]	N	N	D	I-COUNT	*	*	*	*	*
+lugal	lugal[king]	N	N	D	_	_	_	_	_	_
+i-li2-isz-duh-hu-um	_	GN	GN	POS	_	_	_	_	_	_
+*RETOK*-capacity"	?	?	?	?	B-COUNT	l	120	"dry	*	*
+2(barig)	2(bariga)[unit]	NU	N	D	I-COUNT	*	*	*	sila3	120
+ur-{d}suen	Ursuen[1]	PN	PN	D	_	_	_	_	_	_
+sze-ba	szeba[ration]	N	N	D	B-COM	_	_	_	_	_
+za3-mu-ka	zagmuk[new_year][-ak]	N	N.GEN	D	_	_	_	_	_	_
+lu2	lu[person]	N	N	D	_	_	_	_	_	_
+azlag2-x-x	_	PN	PN	Iabcdefgh	_	_	_	_	_	_
+e2-kikken-ta	_	TN	TN	POS	_	_	_	_	_	_
+iti	iti[month]	N	N	D	_	_	_	_	_	_
+nesag	Nesag[1][-'a]	N	MN.L1	D	_	_	_	_	_	_
+mu	mu[year]	N	N	D	_	_	_	_	_	_
+dumu-lugal	_	N	N	Ia	_	_	_	_	_	_
+ensi2	ensik[ruler]	N	N	D	_	_	_	_	_	_
+an-sza-na-ke4	_	N	N	POS	_	_	_	_	_	_
+ba-tuku-a	_	V	V	POS	_	_	_	_	_	_

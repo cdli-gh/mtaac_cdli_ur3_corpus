@@ -1,0 +1,21 @@
+#new_text=P144272					
+FORM	SEGM	XPOSTAG	XPOSTAG	POS	?	?	?	?	?	?
+3(u)	3(u)[ten]	NU	NU	D	B-COUNT	_	36	cardinal	_	36
+6(disz)	6(disz)[one][-sze]	NU	NU	D	I-COUNT	*	*	*	*	*
+geme2	geme[female_worker]	N	N	D	_	_	_	_	_	_
+u4	ud[day]	N	N	D	_	_	_	_	_	_
+5(disz)-sze3	5(disz)[one]-sze	NU	NU.TERM	D	B-COUNT	_	5	cardinal	_	5
+bala-sze3	_	N	N	POS	_	_	_	_	_	_
+gen-na	gen[go]-a	V	NF.V.PT	D	_	_	_	_	_	_
+u3	u[and]	CNJ	CNJ	D	B-COM	_	_	_	_	_
+bala-ta	_	N	N.GEN.ABL	Iabcdef	_	_	_	_	_	_
+gur-ra	gur[unit]-ak	V	NF.V.PT	D	_	_	_	_	_	_
+a2-bi	a[labor]-bi	N	N.3-SG-NH-POSS.ABS	D	_	_	_	_	_	_
+u4	ud[day]	N	N	D	_	_	_	_	_	_
+3(gesz2)-kam	_	NU	NU.GEN.COP-3-SG	Iab	B-COUNT	_	180	cardinal	_	180
+ugula	ugula[overseer][-ø]	N	N	D	_	_	_	_	_	_
+ur-{d}nin-tu	Urnintu[1][-ak]	PN	PN	D	_	_	_	_	_	_
+mu	mu[year]	N	N	D	_	_	_	_	_	_
+en	en[priest]	N	N	D	_	_	_	_	_	_
+eridu{ki}	Eridug[1][-ak][-ø]	SN	SN.GEN.ABS	D	_	_	_	_	_	_
+ba-hun	ba-hug[hire][-ø]	V	MID.V.3-SG-S	D	_	_	_	_	_	_

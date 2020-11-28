@@ -1,0 +1,14 @@
+#new_text=P138672					
+FORM	SEGM	XPOSTAG	XPOSTAG	POS	?	?	?	?	?	?
+5/6(disz){sza}	_	NU	NU	Ia	B-COUNT	_	0.8333333333333334	cardinal	_	0.8333333333333334
+ku3-babbar	kugbabbar[silver]	N	N	D	B-COM	_	_	_	_	_
+har	_	N	N	POS	_	_	_	_	_	_
+5(disz)	5(disz)[one]	NU	NU	D	B-COUNT	_	5	cardinal	_	5
+gin2-ta	gig[unit]-ta	N	N.ABL	D	_	_	_	_	_	_
+8(disz)-sze3	8(disz)[one]-sze	NU	NU.TERM	D	B-COUNT	_	8	cardinal	_	8
+iti	iti[month]	N	N	D	_	_	_	_	_	_
+ki-siki-{d}nin-a-zu	Kisikininazu[1][-'a]	MN	MN.L1	D	_	_	_	_	_	_
+mu	mu[year]	N	N	D	_	_	_	_	_	_
+...	_[_]	PN	N	D	_	_	_	_	_	_
+dalla	_	V	V	POS	_	_	_	_	_	_
+mu-un-na-an-e3-a	_	V	VEN.3-SG-H.DAT.L1.3-SG-H-A.V.3-SG-P	Iabcdefgh	_	_	_	_	_	_

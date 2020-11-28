@@ -1,0 +1,26 @@
+#new_text=P101654					
+FORM	SEGM	XPOSTAG	XPOSTAG	POS	?	?	?	?	?	?
+5(u)	5(u)[ten]	NU	NU	D	B-COUNT	g	27583.333333333336	weight	gin2	3310
+5(disz)	5(disz)[one]	NU	NU	D	I-COUNT	*	*	*	*	*
+ma-na	mana[unit]	N	N	D	I-COUNT	*	*	*	*	*
+1(u)	1(u)[ten]	NU	NU	D	I-COUNT	*	*	*	*	*
+gin2	gig[unit]	N	N	D	I-COUNT	*	*	*	*	*
+siki	siki[wool][-'a]	N	N	D	B-COM	_	_	_	_	_
+tug2	tug[textile]	N	N	D	_	_	_	_	_	_
+szar3	szar[cloth_designation][-ø]	V	NF.V.ABS	D	_	_	_	_	_	_
+1(asz)	1(asz)[one]	NU	NU	D	B-COUNT	g	47958.333333333336	weight	gin2	5755.0
+gu2	gun[unit]	N	N	D	I-COUNT	*	*	*	*	*
+3(u)	3(u)[ten]	NU	NU	D	I-COUNT	*	*	*	*	*
+5(disz)	5(disz)[one]	NU	NU	D	I-COUNT	*	*	*	*	*
+5/6(disz)	5/6(disz)[one]	NU	NU	D	I-COUNT	*	*	*	*	*
+ma-na	mana[unit]	N	N	D	I-COUNT	*	*	*	*	*
+5(disz)	5(disz)[one]	NU	NU	D	I-COUNT	*	*	*	*	*
+gin2	gig[unit]	N	N	D	I-COUNT	*	*	*	*	*
+tug2	tug[textile]	N	N	D	_	_	_	_	_	_
+us2	us[follow][-ø]	V	NF.V.ABS	D	_	_	_	_	_	_
+zu2-si	Zusi[1][-’a]	MN	MN.L1	D	_	_	_	_	_	_
+gir2-su{ki}-ta	Girsu[1][-ak][-ak]-ta	SN	SN.GEN.GEN.ABL	D	_	_	_	_	_	_
+...	_[_]	PN	N	D	_	_	_	_	_	_
+zi	_	N	NF.V	D	_	_	_	_	_	_
+...	_[_]	PN	N	D	_	_	_	_	_	_
+x	_[_]	N	N	D	_	_	_	_	_	_

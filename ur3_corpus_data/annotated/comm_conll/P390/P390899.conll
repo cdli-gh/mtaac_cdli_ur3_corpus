@@ -1,0 +1,11 @@
+#new_text=P390899					
+FORM	SEGM	XPOSTAG	XPOSTAG	POS	B-COUNT	l	0.00037037037037037035	"dry	*	*
+4(asz)	4(asz)[one]	NU	NU	D	I-COUNT	*	*	*	sila3	0.00037037037037037035
+sze	sze[barley]	N	N	D	I-COUNT	*	*	*	*	*
+gur	gur[unit]	N	N	D	I-COUNT	*	*	*	*	*
+lugal	lugal[king]	N	N	D	_	_	_	_	_	_
+ki	ki[place]	N	N	D	_	_	_	_	_	_
+ur-nigar{gar}-ta	Urnigar[1][-ak]-ta	PN	PN.GEN.ABL	D	_	_	_	_	_	_
+sza3	szag[heart]	N	N	D	_	_	_	_	_	_
+dub-ba	[dub-ba]	N	dub[tablet]-ak	D	B-COM	_	_	_	_	_
+ad-da	Adda[1]	PN	PN	D	_	_	_	_	_	_

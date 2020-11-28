@@ -1,0 +1,21 @@
+#new_text=P127630					
+FORM	SEGM	XPOSTAG	XPOSTAG	POS	?	?	?	?	?	?
+3(u)	3(u)[ten]	NU	NU	D	B-COUNT	_	33	cardinal	_	33
+3(disz)	3(disz)[one]	NU	NU	D	I-COUNT	*	*	*	*	*
+{uruda}ha-bu3-da	habuda[hoe]	N	N	D	B-COM	_	_	_	_	_
+ki-la2-bi	kila[weight]-bi[-ø]	N	N.3-SG-NH-POSS.ABS	D	_	_	_	_	_	_
+2(u)	2(u)[ten]	NU	NU	D	B-COUNT	g	10250.0	weight	gin2	1230.0
+1/2(disz)	1/2(disz)[one]	NU	NU	D	I-COUNT	*	*	*	*	*
+ma-na	mana[unit]	N	N	D	I-COUNT	*	*	*	*	*
+ki	ki[place]	N	N	D	B-COM	_	_	_	_	_
+lu2-eb-gal-ta	_	PN	PN.DAT-H	Iab	_	_	_	_	_	_
+ARAD2	arad[slave]	N	N	D	_	_	_	_	_	_
+ka-guru7-ke4	_	N	N	POS	_	_	_	_	_	_
+in-la2	i-n-la[weigh][-esz]	V	FIN.3-SG-H-A.V.3-SG-P	D	_	_	_	_	_	_
+x	_[_]	N	N	D	_	_	_	_	_	_
+6(disz)	6(disz)[one][-sze]	NU	NU	D	B-COUNT	_	6	cardinal	_	6
+iti	iti[month]	N	N	D	_	_	_	_	_	_
+dal	Dal[1][-'a]	MN	MN.L1	D	B-COM	_	_	_	_	_
+mu	mu[year]	N	N	D	_	_	_	_	_	_
+{d}amar-{d}suen	Amarsuen[1]	RN	RN	D	_	_	_	_	_	_
+lugal	lugal[king]	N	N	D	_	_	_	_	_	_

@@ -1,0 +1,21 @@
+#new_text=P291543					
+FORM	SEGM	XPOSTAG	XPOSTAG	POS	?	?	?	?	?	?
+1(disz)	1(disz)[one]	NU	NU	D	B-COUNT	g	500.00000000000006	weight	gin2	60
+ma-na	mana[unit]	N	N	D	I-COUNT	*	*	*	*	*
+siki	siki[wool][-'a]	N	N	D	B-COM	_	_	_	_	_
+im-a	_	V	V	POS	_	_	_	_	_	_
+ba-an-ha-az	_	V	V	POS	_	_	_	_	_	_
+mu	mu[year]	N	N	D	_	_	_	_	_	_
+dam-szi-lum	_	N	N	POS	_	_	_	_	_	_
+ur-mah-sze3	Urmah[1][-ak]-sze	PN	N.GEN.TERM	D	_	_	_	_	_	_
+ki	ki[place]	N	N	D	_	_	_	_	_	_
+gu-du-du-ta	_	PN	PN.GEN.ABL	Iabcdef	_	_	_	_	_	_
+kiszib3	kiszib[seal]	N	N	D	_	_	_	_	_	_
+lugal-nir	Lugalnir[1][-ak][-ta]	PN	PN	D	_	_	_	_	_	_
+mu	mu[year]	N	N	D	_	_	_	_	_	_
+{d}szu-{d}suen	Szusuen[1]	RN	RN	D	_	_	_	_	_	_
+lugal	lugal[king]	N	N	D	_	_	_	_	_	_
+uri5{ki}-ma-ke4	Urim[1]-ak-e	SN	SN.GEN.ERG	D	_	_	_	_	_	_
+ma-da	mada[land][-ak][-ø]	N	N	D	_	_	_	_	_	_
+za-ab-sza-li{ki}	Zabszali[1][-ak][-ø]	GN	SN.GEN.ABS	D	_	_	_	_	_	_
+mu-hul	mu[-n]-hulu[destroy][-ø]	V	VEN.3-SG-H-A.V.3-SG-P	D	_	_	_	_	_	_

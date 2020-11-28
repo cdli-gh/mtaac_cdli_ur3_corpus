@@ -1,0 +1,27 @@
+#new_text=P125079					
+FORM	SEGM	XPOSTAG	XPOSTAG	POS	?	?	?	?	?	?
+1(disz)	1(disz)[one]	NU	NU	D	B-COUNT	g	500.00000000000006	weight	gin2	60
+ma-na	mana[unit]	N	N	D	I-COUNT	*	*	*	*	*
+ku3-babbar	kugbabbar[silver]	N	N	D	B-COM	_	_	_	_	_
+uruda-bi	_	N	N.3-SG-NH-POSS.ABS	Iabcde	_	_	_	_	_	_
+2(asz)	2(asz)[one]	NU	NU	D	B-COUNT	g	62500.00000000001	weight	gin2	7500
+gu2	gun[unit]	N	N	D	I-COUNT	*	*	*	*	*
+5(disz)	5(disz)[one]	NU	NU	D	I-COUNT	*	*	*	*	*
+ma-na	mana[unit]	N	N	D	I-COUNT	*	*	*	*	*
+ugu2	ugu[capital]	N	N	D	_	_	_	_	_	_
+da-da-ga-ka	_	PN	PN.GEN.GEN.L1	Iabcdefg	B-COM	_	_	_	_	_
+ba-a-gar	ba-e-gar[place][-ø]	V	MID.L2.V.3-SG-S	D	_	_	_	_	_	_
+ki	ki[place]	N	N	D	_	_	_	_	_	_
+a-kal-la-ta	Akala[1][-ak]-ta	PN	PN.GEN.ABL	D	_	_	_	_	_	_
+ur-{d}szara2-ke4	_	RN	RN	POS	_	_	_	_	_	_
+szu	szu[hand][-e]	N	N.L3-NH	D	_	_	_	_	_	_
+ba-ti	ba[-n]-teg[accept][-ø]	V	MID.3-SG-H-A.V.3-SG-P	D	_	_	_	_	_	_
+mu	mu[year]	N	N	D	_	_	_	_	_	_
+bad3	bad[wall]	N	N	D	_	_	_	_	_	_
+ba-du3	ba-du[build][-ø]	V	MID.V.3-SG-S	D	_	_	_	_	_	_
+ur-{d}szara2	Urszara[1]	PN	PN	D	_	_	_	_	_	_
+dub-sar	dubsar[scribe]	N	N	D	_	_	_	_	_	_
+dumu	dumu[child]	N	N	D	_	_	_	_	_	_
+lugal-uszur4	Lugaluszur[1][-ak]	PN	PN.GEN	D	_	_	_	_	_	_
+nu-banda3-gu4	nubandagu[ox_overseer][-ak][-ak][-ak]	N	N	D	_	_	_	_	_	_
+{d}szara2	Szara[1][-ak]	DN	DN	D	_	_	_	_	_	_

@@ -1,0 +1,18 @@
+#new_text=P124571					
+FORM	SEGM	XPOSTAG	XPOSTAG	POS	?	?	?	?	?	?
+1(disz)	1(disz)[one]	NU	NU	D	B-COUNT	_	1	cardinal	_	1
+udu	udu[sheep]	N	N	D	B-COM	_	_	_	_	_
+sza3	szag[heart]	N	N	D	_	_	_	_	_	_
+3(disz)	3(disz)[one]	NU	NU	D	B-COUNT	_	3	cardinal	_	3
+ki	ki[place]	N	N	D	_	_	_	_	_	_
+ur-ku3-nun-na-ta	Urkununa[1][-ak]-ta	PN	PN.GEN.ABL	D	_	_	_	_	_	_
+ur-x-gu-a	_	PN	PN	Iabcde	_	_	_	_	_	_
+i3-dab5	i[-n]-dab[seize][-ø]	V	FIN.3-SG-H-A.V.3-SG-P	D	_	_	_	_	_	_
+iti	iti[month]	N	N	D	_	_	_	_	_	_
+sze-sag11-ku5	Szesagku[1][-'a]	MN	MN.L1	D	_	_	_	_	_	_
+mu	mu[year]	N	N	D	_	_	_	_	_	_
+a-ba-na	_	PN	PN	Iabcdefgh	_	_	_	_	_	_
+ur-AN-gu-a	_	PN	PN	Iabcde	_	_	_	_	_	_
+dub-sar	dubsar[scribe]	N	N	D	_	_	_	_	_	_
+dumu	dumu[child]	N	N	D	_	_	_	_	_	_
+x-x	_[_]	PN	N.2-SG-POSS.ABS	D	_	_	_	_	_	_

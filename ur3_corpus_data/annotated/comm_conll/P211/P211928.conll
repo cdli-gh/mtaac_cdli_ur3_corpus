@@ -1,0 +1,27 @@
+#new_text=P211928					
+FORM	SEGM	XPOSTAG	XPOSTAG	POS	?	?	?	?	?	?
+4(u)	4(u)[ten]	NU	NU	D	B-COUNT	_	48	cardinal	_	48
+8(disz)	8(disz)[one]	NU	NU	D	I-COUNT	*	*	*	*	*
+geme2	geme[female_worker]	N	N	D	_	_	_	_	_	_
+u4	ud[day]	N	N	D	_	_	_	_	_	_
+1(disz)-sze3	1(disz)[one]-sze	NU	NU.TERM	D	B-COUNT	_	1	cardinal	_	1
+u4	ud[day]	N	N	D	_	_	_	_	_	_
+tusz-a	tusz[dewell]-a	V	NF.V.PT	D	_	_	_	_	_	_
+geme2	geme[female_worker]	N	N	D	_	_	_	_	_	_
+kikken2	_	N	N.GEN.GEN.ABS	D	_	_	_	_	_	_
+a2	a[time]	N	N	D	_	_	_	_	_	_
+sag-nig2-gur11-ra-ta	_	PN	PN	POS	_	_	_	_	_	_
+zi-ga	zig[expend]-a	V	NF.V.PT	D	_	_	_	_	_	_
+szu-a-gi-na	_	PN	PN.GEN	Iabcdef	_	_	_	_	_	_
+u3-ub-ta-zi	_	PN	PN	POS	_	_	_	_	_	_
+ib2-tak4	_	N	N	POS	_	_	_	_	_	_
+BA	_			POS	_	_	_	_	_	_
+u4	ud[day]	N	N	D	_	_	_	_	_	_
+tusz-a	tusz[dewell]-a	V	NF.V.PT	D	_	_	_	_	_	_
+he2-eb2-de6	_	V	MOD1.FIN.3-NH.L2-SYN.V.3-SG-S	Iabcdefg	_	_	_	_	_	_
+ki	ki[place]	N	N	D	_	_	_	_	_	_
+pu3-lu5-lu5-ta	_	PN	PN.GEN.GEN.ABL	Iabcdefg	_	_	_	_	_	_
+ba-zi	ba-zig[expend][-ø]	PN	MID.V.3-SG-S	D	_	_	_	_	_	_
+mu	mu[year]	N	N	D	_	_	_	_	_	_
+{d}amar-{d}suen	Amarsuen[1]	RN	RN	D	_	_	_	_	_	_
+lugal	lugal[king]	N	N	D	_	_	_	_	_	_

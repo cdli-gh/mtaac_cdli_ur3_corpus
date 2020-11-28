@@ -1,0 +1,24 @@
+#new_text=P337643					
+FORM	SEGM	XPOSTAG	XPOSTAG	POS	?	?	?	?	?	?
+n	_(_)[_]	NU	NU	D	_	_	_	_	_	_
+3(u)	3(u)[ten]	NU	NU	D	B-COUNT	_	35	cardinal	_	35
+5(disz)	5(disz)[one]	NU	NU	D	I-COUNT	*	*	*	*	*
+geme2	geme[female_worker]	N	N	D	_	_	_	_	_	_
+...	_[_]	PN	N	D	_	_	_	_	_	_
+gazi	gazi[condiment]	N	N	D	B-COM	_	_	_	_	_
+e2-kikken2	ekinkin[mill]	GN	N	D	_	_	_	_	_	_
+...	_[_]	PN	N	D	_	_	_	_	_	_
+sze	sze[barley]	N	N	D	_	_	_	_	_	_
+IL2-x	_			POS	_	_	_	_	_	_
+ugula	ugula[overseer][-ø]	N	N	D	_	_	_	_	_	_
+a-x-...	_	PN	PN	Iabcde	_	_	_	_	_	_
+kiszib3	kiszib[seal]	N	N	D	_	_	_	_	_	_
+szesz-...	_	PN	PN	Iabcde	_	_	_	_	_	_
+mu	mu[year]	N	N	D	_	_	_	_	_	_
+ma2	ma[ship]	N	N	D	_	_	_	_	_	_
+{d}en-ki	Enki[1][-ak][-ø]	DN	DN.GEN.ABS	D	_	_	_	_	_	_
+ba-ab-du8	ba-b-du[caulk][-ø]	V	MID.3-SG-NH-L3.V.3-SG-S	D	_	_	_	_	_	_
+szesz-kal-la	Szeszkala[1][-ra]	PN	PN	D	_	_	_	_	_	_
+dub-sar	dubsar[scribe]	N	N	D	_	_	_	_	_	_
+dumu	dumu[child]	N	N	D	_	_	_	_	_	_
+tir-gu	_	PN	PN	POS	_	_	_	_	_	_

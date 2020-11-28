@@ -1,0 +1,20 @@
+#new_text=P207474					
+FORM	SEGM	XPOSTAG	XPOSTAG	POS	?	?	?	?	?	?
+1(u)	1(u)[ten]	NU	NU	D	B-COUNT	_	11	cardinal	_	11
+1(disz)	1(disz)[one]	NU	NU	D	I-COUNT	*	*	*	*	*
+sila4	sila[lamb]	N	N	D	B-COM	_	_	_	_	_
+nu-ur4	_	V	V	POS	_	_	_	_	_	_
+ba-zi-ge	_	PN	PN.GEN.DAT-H	Iabcdefg	_	_	_	_	_	_
+5(disz)	5(disz)[one]	NU	NU	D	B-COUNT	_	5	cardinal	_	5
+lu2-an-na-ni-a	_	PN	PN	Ia	_	_	_	_	_	_
+dumu	dumu[child]	N	N	D	_	_	_	_	_	_
+lu2-{d}utu	Lu'utu[1]	PN	PN	D	_	_	_	_	_	_
+2(u)	2(u)[ten]	NU	NU	D	B-COUNT	_	26	cardinal	_	26
+6(disz)	6(disz)[one][-sze]	NU	NU	D	I-COUNT	*	*	*	*	*
+ur(MA)-mes2	_	PN	PN.GEN.ABS	Iabcdef	_	_	_	_	_	_
+1(u)	1(u)[ten]	NU	NU	D	B-COUNT	_	14	cardinal	_	14
+4(disz)	4(disz)[one]	NU	NU	D	I-COUNT	*	*	*	*	*
+u4-de3-nig2-sa6-ga	_	PN	PN	POS	_	_	_	_	_	_
+1(u)	1(u)[ten]	NU	NU	D	B-COUNT	_	13	cardinal	_	13
+3(disz)	3(disz)[one]	NU	NU	D	I-COUNT	*	*	*	*	*
+ur-{d}lamma	Urlamma[1]	PN	PN	D	_	_	_	_	_	_

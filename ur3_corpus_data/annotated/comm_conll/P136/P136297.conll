@@ -1,0 +1,25 @@
+#new_text=P136297					
+FORM	SEGM	XPOSTAG	XPOSTAG	POS	?	?	?	?	?	?
+x	_[_]	N	N	D	_	_	_	_	_	_
+*RETOK*-capacity"	?	?	?	?	B-COUNT	l	90	"dry	*	*
+1(barig)	1(bariga)[unit]	NU	N	D	I-COUNT	*	*	*	sila3	90
+3(ban2)	3(ban)[unit]	NU	N	D	I-COUNT	*	*	*	*	*
+SZIM	szim[beer_malt]	N	N	D	B-COM	_	_	_	_	_
+i3	i[oil]	N	N	D	_	_	_	_	_	_
+x-ba	_[_]	DN	N.DEM2.X	D	_	_	_	_	_	_
+{d}nin-gir2-su	Ningirsu[1][-ak][-ak]	DN	DN	D	_	_	_	_	_	_
+x	_[_]	N	N	D	_	_	_	_	_	_
+x	_[_]	N	N	D	_	_	_	_	_	_
+x-da	_[_]	PN	PN	Ia	_	_	_	_	_	_
+...-ta	_[_]-ta	PN	PN.GEN.ABL	D	_	_	_	_	_	_
+x-ba	_[_]	DN	N.DEM2.X	D	_	_	_	_	_	_
+szu	szu[hand][-e]	N	N.L3-NH	D	_	_	_	_	_	_
+ba-ti	ba[-n]-teg[accept][-ø]	V	MID.3-SG-H-A.V.3-SG-P	D	_	_	_	_	_	_
+kiszib3	kiszib[seal]	N	N	D	_	_	_	_	_	_
+szesz-kal-la	Szeszkala[1][-ra]	PN	PN	D	_	_	_	_	_	_
+mu	mu[year]	N	N	D	_	_	_	_	_	_
+en	en[priest]	N	N	D	_	_	_	_	_	_
+{d}inanna	Inanna[1][-ak]	DN	DN	D	_	_	_	_	_	_
+unu{ki}	Unug[1][-ak][-ak][-ø]	SN	SN.GEN.L1	D	_	_	_	_	_	_
+masz-e	masz[goat]-e	N	N.L3-NH	D	_	_	_	_	_	_
+i3-pa3	i-pad[find][-ø]	V	FIN.V.3-SG-S	D	_	_	_	_	_	_

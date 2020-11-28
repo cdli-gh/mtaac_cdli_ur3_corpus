@@ -1,0 +1,23 @@
+#new_text=P138572					
+FORM	SEGM	XPOSTAG	XPOSTAG	POS	?	?	?	?	?	?
+6(disz)	6(disz)[one][-sze]	NU	NU	D	B-COUNT	g	3000.0	weight	gin2	360
+ma-na	mana[unit]	N	N	D	I-COUNT	*	*	*	*	*
+uruda	urud[copper][-ak]	N	N	D	B-COM	_	_	_	_	_
+nig2-sa10-ma	_	N	N.3-SG-H-POSS.GEN	Iabcdef	_	_	_	_	_	_
+zu2-lum	zulum[date]	N	N	D	_	_	_	_	_	_
+x	_[_]	N	N	D	_	_	_	_	_	_
+*RETOK*-capacity"	?	?	?	?	B-COUNT	l	144	"dry	*	*
+2(barig)	2(bariga)[unit]	NU	N	D	I-COUNT	*	*	*	sila3	144
+2(ban2)	2(ban)[unit]	NU	N	D	I-COUNT	*	*	*	*	*
+4(disz)	4(disz)[one]	NU	NU	D	I-COUNT	*	*	*	*	*
+sila3	sila[unit]	N	N	D	I-COUNT	*	*	*	*	*
+tu7	tu[soup]	N	N	D	B-COM	_	_	_	_	_
+sze-ba	szeba[ration]	N	N	D	_	_	_	_	_	_
+dam	dam[spouse]	N	N	D	_	_	_	_	_	_
+i	_	PN	PN.GEN.ABS	Iabcdef	_	_	_	_	_	_
+x	_[_]	N	N	D	_	_	_	_	_	_
+x	_[_]	N	N	D	_	_	_	_	_	_
+di-ku5-i3-li2	_	PN	PN	POS	_	_	_	_	_	_
+ugula	ugula[overseer][-ø]	N	N	D	_	_	_	_	_	_
+ki	ki[place]	N	N	D	_	_	_	_	_	_
+ur-{d}da-mu-ta	_	PN	PN.GEN.ABL	Iab	_	_	_	_	_	_

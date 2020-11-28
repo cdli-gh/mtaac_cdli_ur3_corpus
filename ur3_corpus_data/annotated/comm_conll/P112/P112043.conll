@@ -1,0 +1,19 @@
+#new_text=P112043					
+FORM	SEGM	XPOSTAG	XPOSTAG	POS	?	?	?	?	?	?
+2(u)	2(u)[ten]	NU	NU	D	B-COUNT	_	none	unknown	_	none
+6(disz)	6(disz)[one][-sze]	NU	NU	D	I-COUNT	*	*	*	*	*
+ma-na	mana[unit]	N	N	D	I-COUNT	*	*	*	*	*
+x	_[_]	N	N	D	I-COUNT	*	*	*	*	*
+uruda	urud[copper][-ak]	N	N	D	B-COM	_	_	_	_	_
+ki	ki[place]	N	N	D	_	_	_	_	_	_
+ur-sa6-ga-ta	_	PN	PN.GEN.ABL	Iab	_	_	_	_	_	_
+la-a-mu	Layamu[1][-ak]	PN	PN	D	_	_	_	_	_	_
+szu	szu[hand][-e]	N	N.L3-NH	D	_	_	_	_	_	_
+ba-ti	ba[-n]-teg[accept][-ø]	V	MID.3-SG-H-A.V.3-SG-P	D	_	_	_	_	_	_
+iti	iti[month]	N	N	D	_	_	_	_	_	_
+diri	diri[intercalary_month]	N	N	D	_	_	_	_	_	_
+mu	mu[year]	N	N	D	_	_	_	_	_	_
+a-ra2	ara[times]	N	N	D	_	_	_	_	_	_
+2(disz)-kam-asz	_	NU	NU.GEN.COP-3-SG.TERM	Iabcdef	B-COUNT	_	2	cardinal	_	2
+si-mu-ru-um{ki}	Simurrum[1]	SN	SN.ABS	D	_	_	_	_	_	_
+ba-hul	ba-hulu[destroy][-ø]	V	MID.V.3-SG-S	D	_	_	_	_	_	_

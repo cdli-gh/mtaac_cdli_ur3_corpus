@@ -1,0 +1,19 @@
+#new_text=P340126					
+FORM	SEGM	XPOSTAG	XPOSTAG	POS	?	?	?	?	?	?
+1(disz)	1(disz)[one]	NU	NU	D	B-COUNT	g	500.00000000000006	weight	gin2	60
+ma-na	mana[unit]	N	N	D	I-COUNT	*	*	*	*	*
+siki-ud5	siki'ud[goat_wool]	N	N	D	_	_	_	_	_	_
+hul3-la	_	V	V	POS	_	_	_	_	_	_
+ansze	ansze[donkey]	N	N	D	B-COM	_	_	_	_	_
+amar-...-sze3	_	N	N	POS	_	_	_	_	_	_
+ki	ki[place]	N	N	D	_	_	_	_	_	_
+ur-{d}szul-pa-e3-ta	Urszulpa'e[1][-ak]-ta	PN	PN.GEN.ABL	D	_	_	_	_	_	_
+kiszib3	kiszib[seal]	N	N	D	_	_	_	_	_	_
+ur-{u2}|ZI&ZI|-sze3	_	PN	PN.GEN.TERM	Iabcdef	_	_	_	_	_	_
+iti	iti[month]	N	N	D	_	_	_	_	_	_
+e2-iti-6(disz)	E'iti6[1][-'a]	NU	MN.L1	D	_	_	_	_	_	_
+mu	mu[year]	N	N	D	_	_	_	_	_	_
+hu-uh2-nu-ri	_	PN	PN	POS	_	_	_	_	_	_
+ur-{u2}|ZI&ZI|-sze3	_	PN	PN.GEN.TERM	Iabcdef	_	_	_	_	_	_
+ARAD2	arad[slave]	N	N	D	_	_	_	_	_	_
+{d}nin-ur4-ra	Ninura[1][-ak]	DN	DN.GEN	D	_	_	_	_	_	_

@@ -1,0 +1,18 @@
+#new_text=P208677					
+FORM	SEGM	XPOSTAG	XPOSTAG	POS	?	?	?	?	?	?
+1(u)	1(u)[ten]	NU	NU	D	B-COUNT	_	16.5	cardinal	_	16.5
+6(disz)	6(disz)[one][-sze]	NU	NU	D	I-COUNT	*	*	*	*	*
+1/2(disz)	1/2(disz)[one]	NU	NU	D	I-COUNT	*	*	*	*	*
+gurusz	gurusz[male]	N	N	D	B-COM	_	_	_	_	_
+u4	ud[day]	N	N	D	_	_	_	_	_	_
+1(u)	1(u)[ten]	NU	NU	D	B-COUNT	_	14	cardinal	_	14
+4(disz)-sze3	4(disz)[one]-sze	NU	NU.TERM	D	I-COUNT	*	*	*	*	*
+tug2-ba	_	N	N	Ia	B-COM	_	_	_	_	_
+za3-mu	Zamu[1][-ak]	PN	N	D	_	_	_	_	_	_
+e2-gal-sze3	_	N	N	POS	_	_	_	_	_	_
+de6-a	de[bring]-a	V	NF.V.PT	D	_	_	_	_	_	_
+ki	ki[place]	N	N	D	_	_	_	_	_	_
+i3-kal-la-ta	Ikala[1][-ak]-ta	PN	PN.GEN.ABL	D	_	_	_	_	_	_
+mu	mu[year]	N	N	D	_	_	_	_	_	_
+{d}amar-{d}suen	Amarsuen[1]	RN	RN	D	_	_	_	_	_	_
+lugal	lugal[king]	N	N	D	_	_	_	_	_	_

@@ -1,0 +1,16 @@
+#new_text=P136208					
+FORM	SEGM	XPOSTAG	XPOSTAG	POS	?	?	?	?	?	?
+1(gesz2)	1(gesz)[sixty]	NU	NU	D	B-COUNT	_	90	cardinal	_	90
+3(u)	3(u)[ten]	NU	NU	D	I-COUNT	*	*	*	*	*
+kusz	kusz[leather]	N	N	D	B-COM	_	_	_	_	_
+udu	udu[sheep]	N	N	D	_	_	_	_	_	_
+ka-tab	_	N	N	Ia	_	_	_	_	_	_
+{gesz}gesztin-sze3	_	N	N.3-SG-H-POSS.TERM	Iabcdef	_	_	_	_	_	_
+ki	ki[place]	N	N	D	_	_	_	_	_	_
+a2-bi2-lum-ta	_	PN	PN.GEN.ABL	Iab	_	_	_	_	_	_
+sipa-{d}nin-gir2-su-ke4-in-pa3	_	PN	PN	Iabcdefgh	_	_	_	_	_	_
+szu	szu[hand][-e]	N	N.L3-NH	D	_	_	_	_	_	_
+ba-ti	ba[-n]-teg[accept][-ø]	V	MID.3-SG-H-A.V.3-SG-P	D	_	_	_	_	_	_
+mu	mu[year]	N	N	D	_	_	_	_	_	_
+ki-masz{ki}	Kimasz[1]	SN	SN.ABS	D	_	_	_	_	_	_
+ba-hul	ba-hulu[destroy][-ø]	V	MID.V.3-SG-S	D	_	_	_	_	_	_

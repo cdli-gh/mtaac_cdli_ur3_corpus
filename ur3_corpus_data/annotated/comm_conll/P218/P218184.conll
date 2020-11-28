@@ -1,0 +1,17 @@
+#new_text=P218184					
+FORM	SEGM	XPOSTAG	XPOSTAG	POS	?	?	?	?	?	?
+...	_[_]	PN	N	D	_	_	_	_	_	_
+3(gesz'u)	3(gesz'u)[six_hundred]	NU	NU	D	B-COUNT	_	2222	cardinal	_	2222
+7(gesz2)	7(gesz)[sixty]	NU	NU	D	I-COUNT	*	*	*	*	*
+2(disz)	2(disz)[one]	NU	NU	D	I-COUNT	*	*	*	*	*
+gu4	gud[ox]	N	N	D	B-COM	_	_	_	_	_
+mu-kux(DU)	mukur[delivery][-ø]	N	N	D	_	_	_	_	_	_
+...	_[_]	PN	N	D	_	_	_	_	_	_
+3(gesz'u)	3(gesz'u)[six_hundred]	NU	NU	D	B-COUNT	_	1835	cardinal	_	1835
+3(u)	3(u)[ten]	NU	NU	D	I-COUNT	*	*	*	*	*
+5(disz)	5(disz)[one]	NU	NU	D	I-COUNT	*	*	*	*	*
+gu4	gud[ox]	N	N	D	B-COM	_	_	_	_	_
+zi-ga	zig[expend]-a	V	NF.V.PT	D	_	_	_	_	_	_
+2(gesz2)	2(gesz)[sixty]	NU	NU	D	B-COUNT	_	146	cardinal	_	146
+2(u)	2(u)[ten]	NU	NU	D	I-COUNT	*	*	*	*	*
+6(disz)	6(disz)[one][-sze]	NU	NU	D	I-COUNT	*	*	*	*	*

@@ -1,0 +1,27 @@
+#new_text=P122726					
+FORM	SEGM	XPOSTAG	XPOSTAG	POS	B-COUNT	l	260	"dry	*	*
+4(barig)	4(bariga)[unit]	NU	N	D	I-COUNT	*	*	*	sila3	260
+2(ban2)	2(ban)[unit]	NU	N	D	I-COUNT	*	*	*	*	*
+kasz	kasz[beer]	N	N	D	B-COM	_	_	_	_	_
+saga	saga[good][-ø]	V	NF.V.ABS	D	_	_	_	_	_	_
+szar3	szar[cloth_designation][-ø]	V	NF.V.ABS	D	_	_	_	_	_	_
+*RETOK*-capacity"	?	?	?	?	B-COUNT	l	140	"dry	*	*
+2(barig)	2(bariga)[unit]	NU	N	D	I-COUNT	*	*	*	sila3	140
+2(ban2)	2(ban)[unit]	NU	N	D	I-COUNT	*	*	*	*	*
+kasz	kasz[beer]	N	N	D	_	_	_	_	_	_
+du	gin[quality_designation][-ø]	V	NF.V.ABS	D	_	_	_	_	_	_
+ki	ki[place]	N	N	D	_	_	_	_	_	_
+lugal-bad3-ta	_	PN	PN.GEN.ABL	Iabcdefg	_	_	_	_	_	_
+kiszib3	kiszib[seal]	N	N	D	_	_	_	_	_	_
+u3-ma-ni	Umani[1]	V	PN	D	_	_	_	_	_	_
+sza3	szag[heart]	N	N	D	_	_	_	_	_	_
+bala-a	bala[tax][-ak]-'a	N	N.GEN.L1	D	_	_	_	_	_	_
+mu	mu[year]	N	N	D	_	_	_	_	_	_
+en	en[priest]	N	N	D	_	_	_	_	_	_
+{d}nanna	Nanna[1][-ak]	DN	DN	D	_	_	_	_	_	_
+masz-e	masz[goat]-e	N	N.L3-NH	D	B-COM	_	_	_	_	_
+i3-pa3	i-pad[find][-ø]	V	FIN.V.3-SG-S	D	_	_	_	_	_	_
+u3-ma-ni	Umani[1]	V	PN	D	_	_	_	_	_	_
+dub-sar	dubsar[scribe]	N	N	D	_	_	_	_	_	_
+dumu	dumu[child]	N	N	D	_	_	_	_	_	_
+nam-ha-ni	Namhani[1]	N	PN	D	_	_	_	_	_	_

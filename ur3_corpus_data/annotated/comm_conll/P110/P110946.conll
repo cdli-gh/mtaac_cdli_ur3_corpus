@@ -1,0 +1,24 @@
+#new_text=P110946					
+FORM	SEGM	XPOSTAG	XPOSTAG	POS	?	?	?	?	?	?
+3(u)	3(u)[ten]	NU	NU	D	B-COUNT	_	30	cardinal	_	30
+ku6-sze6	kusze[cooked_fish]	N	N	D	_	_	_	_	_	_
+gur	gur[unit]	N	N	D	_	_	_	_	_	_
+lugal	lugal[king]	N	N	D	_	_	_	_	_	_
+a2-ki-ti	Akiti[1][-'a]	N	MN.L1	D	_	_	_	_	_	_
+*RETOK*-capacity"	?	?	?	?	B-COUNT	l	9000	"dry	*	*
+3(u)	3(u)[ten]	NU	NU	D	I-COUNT	*	*	*	sila3	9000
+gur	gur[unit]	N	N	D	I-COUNT	*	*	*	*	*
+ezem-mah	Ezemmah[1][-'a]	MN	MN.L1	D	_	_	_	_	_	_
+masz-da-re-a	_	N	N	POS	_	_	_	_	_	_
+sza3	szag[heart]	N	N	D	_	_	_	_	_	_
+uri5{ki}-ma	Urim[1]-ak	SN	SN.GEN	D	_	_	_	_	_	_
+ki	ki[place]	N	N	D	B-COM	_	_	_	_	_
+bi2-du11-ta	_	PN	PN.GEN.ABL	Iabcdef	_	_	_	_	_	_
+giri3	giri[foot]	N	N	D	_	_	_	_	_	_
+ur-{d}ig-alim	Urigalim[1]	FN	PN	D	_	_	_	_	_	_
+ra-gaba	_	N	N	POS	_	_	_	_	_	_
+masz-da-re-a	_	N	N	POS	_	_	_	_	_	_
+sukkal-mah	_	PN	N	D	_	_	_	_	_	_
+mu	mu[year]	N	N	D	_	_	_	_	_	_
+hu-hu-nu-ru{ki}	_	GN	GN	POS	_	_	_	_	_	_
+ba-hul	ba-hulu[destroy][-ø]	V	MID.V.3-SG-S	D	_	_	_	_	_	_

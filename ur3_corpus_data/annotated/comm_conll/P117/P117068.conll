@@ -1,0 +1,26 @@
+#new_text=P117068					
+FORM	SEGM	XPOSTAG	XPOSTAG	POS	?	?	?	?	?	?
+3(disz)	3(disz)[one]	NU	NU	D	B-COUNT	_	3	cardinal	_	3
+gurusz	gurusz[male]	N	N	D	B-COM	_	_	_	_	_
+u4	ud[day]	N	N	D	_	_	_	_	_	_
+1(disz)-sze3	1(disz)[one]-sze	NU	NU.TERM	D	B-COUNT	_	1	cardinal	_	1
+{gi}kid	kid[mat]	N	N	D	B-COM	_	_	_	_	_
+dagal	dagal[wide][-ø]	V	NF.V.ABS	D	_	_	_	_	_	_
+iri	iri[city]	N	N	D	_	_	_	_	_	_
+{d}szu-{d}suen-ta	_	DN	DN	POS	_	_	_	_	_	_
+gu2-edin-na-sze3	_	N	N	POS	_	_	_	_	_	_
+de6-a	de[bring]-a	V	NF.V.PT	D	_	_	_	_	_	_
+ugula	ugula[overseer][-ø]	N	N	D	_	_	_	_	_	_
+ur-{d}nin-su	_	PN	PN	Iabcde	_	_	_	_	_	_
+kiszib3	kiszib[seal]	N	N	D	_	_	_	_	_	_
+nam-sza3-tam	namszatam[administration]	N	N	D	_	_	_	_	_	_
+lugal-ku3-zu	Lugalkuzu[1]	PN	PN	D	_	_	_	_	_	_
+mu	mu[year]	N	N	D	_	_	_	_	_	_
+bad3	bad[wall]	N	N	D	_	_	_	_	_	_
+mar-tu	Martu[1][-ø]	EN	EN.ABS	D	_	_	_	_	_	_
+ba-du3	ba-du[build][-ø]	V	MID.V.3-SG-S	D	_	_	_	_	_	_
+lugal-ku3-zu	Lugalkuzu[1]	PN	PN	D	_	_	_	_	_	_
+dub-sar	dubsar[scribe]	N	N	D	_	_	_	_	_	_
+dumu	dumu[child]	N	N	D	_	_	_	_	_	_
+ur-nigar{gar}	Urnigar[1]	PN	PN	D	_	_	_	_	_	_
+szusz3	kusz[cattle_manager][-ak]	N	N.GEN	D	_	_	_	_	_	_

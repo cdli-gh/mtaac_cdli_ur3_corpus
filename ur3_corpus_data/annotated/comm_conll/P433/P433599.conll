@@ -1,0 +1,19 @@
+#new_text=P433599					
+FORM	SEGM	XPOSTAG	XPOSTAG	POS	?	?	?	?	?	?
+1(u)	1(u)[ten]	NU	NU	D	B-COUNT	_	15	cardinal	_	15
+5(disz)	5(disz)[one]	NU	NU	D	I-COUNT	*	*	*	*	*
+sa-gi	_	PN	PN	POS	B-COM	_	_	_	_	_
+gi	gi[reed][-ø]	N	N	D	_	_	_	_	_	_
+sa	sa[bundle]	N	N	D	_	_	_	_	_	_
+SZID	_	N	N.ABS	Iabcdefghij	_	_	_	_	_	_
+ma2-gur8	magur[barge]	N	N	D	_	_	_	_	_	_
+{d}szara2	Szara[1][-ak]	DN	DN	D	_	_	_	_	_	_
+ki	ki[place]	N	N	D	_	_	_	_	_	_
+x-bu-ta	_	PN	PN	POS	_	_	_	_	_	_
+kiszib3	kiszib[seal]	N	N	D	_	_	_	_	_	_
+x-x-x-mu	_	PN	PN	Iabcdefgh	_	_	_	_	_	_
+iti	iti[month]	N	N	D	_	_	_	_	_	_
+sze-kar-ra-gal2	Szekaragala[1][-'a]	MN	MN.L1	D	_	_	_	_	_	_
+mu	mu[year]	N	N	D	_	_	_	_	_	_
+en-mah-gal-an-na	Enmahgalana[1]	PN	PN	D	_	_	_	_	_	_
+ba-hun	ba-hug[hire][-ø]	V	MID.V.3-SG-S	D	_	_	_	_	_	_

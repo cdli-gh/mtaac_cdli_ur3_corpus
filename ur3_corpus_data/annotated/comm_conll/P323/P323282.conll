@@ -1,0 +1,22 @@
+#new_text=P323282					
+FORM	SEGM	XPOSTAG	XPOSTAG	POS	?	?	?	?	?	?
+n	_(_)[_]	NU	NU	D	_	_	_	_	_	_
+ur-mes	Urmes[1]	PN	PN	D	_	_	_	_	_	_
+dumu	dumu[child]	N	N	D	_	_	_	_	_	_
+giri3-u2-ga	_	PN	PN.GEN	Iab	_	_	_	_	_	_
+n	_(_)[_]	NU	NU	D	_	_	_	_	_	_
+{d}szara2-zi-da	_	PN	PN.GEN.ABS	Iab	_	_	_	_	_	_
+dumu	dumu[child]	N	N	D	_	_	_	_	_	_
+ur-{d}nanna	_	PN	PN	Iabcde	_	_	_	_	_	_
+1/2(disz)	1/2(disz)[one]	NU	NU	D	B-COUNT	_	0.5	cardinal	_	0.5
+ur-lugal	Urlugal[1]	PN	PN	D	_	_	_	_	_	_
+dumu	dumu[child]	N	N	D	_	_	_	_	_	_
+ur-{d}bil3	_	PN	PN.GEN	Iab	_	_	_	_	_	_
+1(disz)	1(disz)[one]	NU	NU	D	B-COUNT	_	1	cardinal	_	1
+lu2-dingir-ra	Ludingira[1][-ra]	PN	PN	D	_	_	_	_	_	_
+dumu	dumu[child]	N	N	D	_	_	_	_	_	_
+ur-dun	Urdun[1]	PN	PN	D	_	_	_	_	_	_
+n	_(_)[_]	NU	NU	D	_	_	_	_	_	_
+ur-nigar{gar}	Urnigar[1]	PN	PN	D	_	_	_	_	_	_
+dumu	dumu[child]	N	N	D	_	_	_	_	_	_
+er3-ra-dan	Erradan[1][-e]	PN	PN.ERG	D	_	_	_	_	_	_

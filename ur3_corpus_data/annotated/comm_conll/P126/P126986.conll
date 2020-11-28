@@ -1,0 +1,22 @@
+#new_text=P126986					
+FORM	SEGM	XPOSTAG	XPOSTAG	POS	B-COUNT	l	1755	"dry	*	*
+5(asz)	5(asz)[one]	NU	NU	D	I-COUNT	*	*	*	sila3	1755
+4(barig)	4(bariga)[unit]	NU	N	D	I-COUNT	*	*	*	*	*
+1(ban2)	1(ban)[unit]	NU	N	D	I-COUNT	*	*	*	*	*
+5(disz)	5(disz)[one]	NU	NU	D	I-COUNT	*	*	*	*	*
+sila3	sila[unit]	N	N	D	I-COUNT	*	*	*	*	*
+dabin	dabin[semolina]	N	N	D	B-COM	_	_	_	_	_
+gur	gur[unit]	N	N	D	_	_	_	_	_	_
+*RETOK*-capacity"	?	?	?	?	B-COUNT	l	20590	"dry	*	*
+1(gesz2)	1(gesz)[sixty]	NU	NU	D	I-COUNT	*	*	*	sila3	20590
+8(asz)	8(asz)[one]	NU	NU	D	I-COUNT	*	*	*	*	*
+3(barig)	3(bariga)[unit]	NU	N	D	I-COUNT	*	*	*	*	*
+1(ban2)	1(ban)[unit]	NU	N	D	I-COUNT	*	*	*	*	*
+ninda	ninda[bread]	N	N	D	B-COM	_	_	_	_	_
+gur	gur[unit]	N	N	D	_	_	_	_	_	_
+kiszib3	kiszib[seal]	N	N	D	_	_	_	_	_	_
+szu-ma-ma	Szumama[1][-e]	PN	PN.DAT-H	D	_	_	_	_	_	_
+lu2	lu[person]	N	N	D	_	_	_	_	_	_
+adab{ki}	_	SN	SN.GEN.ABS	D	_	_	_	_	_	_
+inim-{d}szara2-ke4	_	PN	PN.GEN.ERG	Iab	_	_	_	_	_	_
+ba-an-dabx(U8)	_	V	V	POS	_	_	_	_	_	_

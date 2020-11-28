@@ -1,0 +1,22 @@
+#new_text=P121376					
+FORM	SEGM	XPOSTAG	XPOSTAG	POS	?	?	?	?	?	?
+1(u)	1(u)[ten]	NU	NU	D	B-COUNT	_	15	cardinal	_	15
+5(disz)	5(disz)[one]	NU	NU	D	I-COUNT	*	*	*	*	*
+{gesz}pesz3	pesz[fig]	N	N	D	B-COM	_	_	_	_	_
+sze-er-gu	szergu[string]	N	N	D	_	_	_	_	_	_
+2(ban2)	2(ban)[unit]	NU	N	D	B-COUNT	_	none	unknown	_	none
+5(disz)	5(disz)[one]	NU	NU	D	I-COUNT	*	*	*	*	*
+sila3	sila[unit]	N	N	D	I-COUNT	*	*	*	*	*
+...	_[_]	PN	N	D	I-COUNT	*	*	*	*	*
+...	_[_]	PN	N	D	_	_	_	_	_	_
+ki	ki[place]	N	N	D	_	_	_	_	_	_
+x-gi4-x	_	PN	PN.GEN.ABS	Iabcdefgh	_	_	_	_	_	_
+gal2-la	gal[be]-a[-ø]	V	NF.V.PT	D	B-COM	_	_	_	_	_
+iti	iti[month]	N	N	D	_	_	_	_	_	_
+szu-numun	Szunumun[1][-'a]	MN	MN.L1	D	_	_	_	_	_	_
+mu	mu[year]	N	N	D	_	_	_	_	_	_
+us2-sa	us[follow]-a	V	NF.V.PT	D	_	_	_	_	_	_
+en	en[priest]	N	N	D	_	_	_	_	_	_
+{d}en-ki	Enki[1][-ak][-ø]	DN	DN.GEN.ABS	D	_	_	_	_	_	_
+eridu{ki}	Eridug[1][-ak][-ø]	SN	SN.GEN.ABS	D	_	_	_	_	_	_
+ba-hun	ba-hug[hire][-ø]	V	MID.V.3-SG-S	D	_	_	_	_	_	_

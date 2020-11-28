@@ -1,0 +1,14 @@
+#new_text=P104351					
+FORM	SEGM	XPOSTAG	XPOSTAG	POS	?	?	?	?	?	?
+3(u)	3(u)[ten]	NU	NU	D	B-COUNT	_	33	cardinal	_	33
+3(disz)	3(disz)[one]	NU	NU	D	I-COUNT	*	*	*	*	*
+udu	udu[sheep]	N	N	D	B-COM	_	_	_	_	_
+ki	ki[place]	N	N	D	_	_	_	_	_	_
+ur-{d}nansze-ta	Urnansze[1][-ak]-ta	PN	PN.GEN.ABL	D	_	_	_	_	_	_
+ba-zi	ba-zig[expend][-ø]	PN	MID.V.3-SG-S	D	_	_	_	_	_	_
+kiszib3	kiszib[seal]	N	N	D	_	_	_	_	_	_
+ur-mes	Urmes[1]	PN	PN	D	_	_	_	_	_	_
+ur-mes	Urmes[1]	PN	PN	D	_	_	_	_	_	_
+dumu	dumu[child]	N	N	D	_	_	_	_	_	_
+la-na	Lana[1]	PN	PN	D	_	_	_	_	_	_
+kuruszda	kuruszda[animal_fattener][-ø]	N	N.GEN.ABS	D	_	_	_	_	_	_

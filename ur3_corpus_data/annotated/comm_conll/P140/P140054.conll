@@ -1,0 +1,26 @@
+#new_text=P140054					
+FORM	SEGM	XPOSTAG	XPOSTAG	POS	?	?	?	?	?	?
+1(disz)	1(disz)[one]	NU	NU	D	B-COUNT	_	1	cardinal	_	1
+tug2	tug[textile]	N	N	D	B-COM	_	_	_	_	_
+lu2-gir2-su{ki}	Lugirsu[1]	PN	PN	D	_	_	_	_	_	_
+engar	engar[farmer]	N	N	D	_	_	_	_	_	_
+1(disz)	1(disz)[one]	NU	NU	D	B-COUNT	_	1	cardinal	_	1
+tug2	tug[textile]	N	N	D	B-COM	_	_	_	_	_
+sza3-ga-du3	_	N	N	POS	_	_	_	_	_	_
+a-na-lu2	_	V	V	POS	_	_	_	_	_	_
+geme2	geme[female_worker]	N	N	D	_	_	_	_	_	_
+bu3-lu5-lu5	_	PN	PN.DAT-H	Iab	_	_	_	_	_	_
+1(disz)	1(disz)[one]	NU	NU	D	B-COUNT	_	1	cardinal	_	1
+tug2	tug[textile]	N	N	D	B-COM	_	_	_	_	_
+sza3-ga-du3	_	N	N	POS	_	_	_	_	_	_
+ama-tu	_	PN	PN	Iabcde	_	_	_	_	_	_
+usz-bar	uszbar[weaver][-ak]	N	N	D	_	_	_	_	_	_
+mu-kux(DU)	mukur[delivery][-ø]	N	N	D	_	_	_	_	_	_
+{d}ma-an-isz-di2-su	_	DN	DN	POS	_	_	_	_	_	_
+iti	iti[month]	N	N	D	_	_	_	_	_	_
+sze-sag11-ku5-ta	Szesagku[1]-ta	MN	MN.ABL	D	_	_	_	_	_	_
+iti	iti[month]	N	N	D	_	_	_	_	_	_
+diri-sze3	diri[intercalary_month]-sze	V	N.TERM	D	_	_	_	_	_	_
+mu	mu[year]	N	N	D	_	_	_	_	_	_
+si-ma-num2{ki}	Simanum[1][-ø]	GN	SN.ABS	D	_	_	_	_	_	_
+ba-hul	ba-hulu[destroy][-ø]	V	MID.V.3-SG-S	D	_	_	_	_	_	_

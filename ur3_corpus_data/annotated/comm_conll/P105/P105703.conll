@@ -1,0 +1,24 @@
+#new_text=P105703					
+FORM	SEGM	XPOSTAG	XPOSTAG	POS	?	?	?	?	?	?
+4(disz)	4(disz)[one]	NU	NU	D	B-COUNT	_	none	unknown	_	none
+sar	sar[unit]	N	N	D	I-COUNT	*	*	*	*	*
+x	_[_]	N	N	D	I-COUNT	*	*	*	*	*
+kin	kig[work]	N	N	D	_	_	_	_	_	_
+szuku	szukur[prebend_land]	N	N	D	B-COM	_	_	_	_	_
+x	_[_]	N	N	D	_	_	_	_	_	_
+til-la	til[complete]-a	V	NF.V.PT	D	_	_	_	_	_	_
+ka	kag[mouth]	N	N	D	_	_	_	_	_	_
+ambar	_	FN	FN	POS	_	_	_	_	_	_
+banda3{da}	_	N	NF.V	D	_	_	_	_	_	_
+ab-ba-mu	Abbamu[1][-ak][-ak]	PN	PN.GEN.GEN	D	_	_	_	_	_	_
+szitim	_	N	N	Ia	_	_	_	_	_	_
+ugula	ugula[overseer][-ø]	N	N	D	_	_	_	_	_	_
+amar-szuba3	_	PN	PN	D	_	_	_	_	_	_
+mu	mu[year]	N	N	D	_	_	_	_	_	_
+ma-da	mada[land][-ak][-ø]	N	N	D	_	_	_	_	_	_
+za-ab-sza-li{ki}	Zabszali[1][-ak][-ø]	GN	SN.GEN.ABS	D	_	_	_	_	_	_
+ba-hul	ba-hulu[destroy][-ø]	V	MID.V.3-SG-S	D	_	_	_	_	_	_
+ur-{d}nin-gesz-zi-da	_	PN	PN.GEN.ABS	D	_	_	_	_	_	_
+dub-sar	dubsar[scribe]	N	N	D	_	_	_	_	_	_
+dumu	dumu[child]	N	N	D	_	_	_	_	_	_
+ur-sa6-ga	Ursaga[1][-ak]	PN	PN	D	_	_	_	_	_	_

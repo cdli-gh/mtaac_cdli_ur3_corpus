@@ -1,0 +1,21 @@
+#new_text=P104990					
+FORM	SEGM	XPOSTAG	XPOSTAG	POS	?	?	?	?	?	?
+7(disz)	7(disz)[one][-sze]	NU	NU	D	B-COUNT	_	7	cardinal	_	7
+gu4	gud[ox]	N	N	D	B-COM	_	_	_	_	_
+niga	niga[fattened][-ø]	V	NF.V.ABS	D	_	_	_	_	_	_
+sag-gu4	_	N	N	POS	_	_	_	_	_	_
+...	_[_]	PN	N	D	_	_	_	_	_	_
+8(disz)	8(disz)[one]	NU	NU	D	B-COUNT	_	8	cardinal	_	8
+gu4	gud[ox]	N	N	D	B-COM	_	_	_	_	_
+niga	niga[fattened][-ø]	V	NF.V.ABS	D	_	_	_	_	_	_
+du6-ku3-sze3	_	PN	PN	Iabcdefgh	_	_	_	_	_	_
+u4	ud[day]	N	N	D	_	_	_	_	_	_
+2(u)	2(u)[ten]	NU	NU	D	B-COUNT	_	27	cardinal	_	27
+7(disz)	7(disz)[one][-sze]	NU	NU	D	I-COUNT	*	*	*	*	*
+ba-zal	ba-zal[pass][-ø][-a][-'a]	V	MID.V.3-SG-S.SUB	D	_	_	_	_	_	_
+4(disz)	4(disz)[one]	NU	NU	D	B-COUNT	_	4	cardinal	_	4
+gu4	gud[ox]	N	N	D	B-COM	_	_	_	_	_
+niga	niga[fattened][-ø]	V	NF.V.ABS	D	_	_	_	_	_	_
+ma2	ma[ship]	N	N	D	_	_	_	_	_	_
+kar-ta	_	FN	FN	POS	_	_	_	_	_	_
+us2-sa	us[follow]-a	V	NF.V.PT	D	_	_	_	_	_	_

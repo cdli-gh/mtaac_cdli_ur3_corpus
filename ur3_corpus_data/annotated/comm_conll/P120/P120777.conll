@@ -1,0 +1,18 @@
+#new_text=P120777					
+FORM	SEGM	XPOSTAG	XPOSTAG	POS	?	?	?	?	?	?
+...	_[_]	PN	N	D	_	_	_	_	_	_
+1(u)	1(u)[ten]	NU	NU	D	B-COUNT	*	*	*	*	*
+4(ban2)	4(ban)[unit]	NU	N	D	I-COUNT	*	*	*	*	*
+sze	sze[barley]	N	N	D	I-COUNT	*	*	*	*	*
+gur	gur[unit]	N	N	D	I-COUNT	*	*	*	*	*
+giri3-ni-i3-sa6	Girini'isa[1]	PN	PN	D	_	_	_	_	_	_
+x	_[_]	N	N	D	_	_	_	_	_	_
+zi-ga	zig[expend]-a	V	NF.V.PT	D	_	_	_	_	_	_
+NE	ne[unknown]	MN	MN	POS	B-COM	_	_	_	_	_
+x	_[_]	N	N	D	_	_	_	_	_	_
+x	_[_]	N	N	D	_	_	_	_	_	_
+x	_[_]	N	N	D	_	_	_	_	_	_
+lu2-nam-x	_	PN	PN.ERG	Iabcdefgh	_	_	_	_	_	_
+dub-sar	dubsar[scribe]	N	N	D	_	_	_	_	_	_
+dumu	dumu[child]	N	N	D	_	_	_	_	_	_
+ur2-ra-dingir	_	PN	PN.GEN.DAT-H	Iab	_	_	_	_	_	_

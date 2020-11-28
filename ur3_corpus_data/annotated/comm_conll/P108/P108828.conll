@@ -1,0 +1,31 @@
+#new_text=P108828					
+FORM	SEGM	XPOSTAG	XPOSTAG	POS	?	?	?	?	?	?
+8(gesz2)	8(gesz2)[sixty]	NU	NU	D	B-COUNT	g	14760000.000000002	weight	gin2	1771200
+1(u)	1(u)[ten]	NU	NU	D	I-COUNT	*	*	*	*	*
+2(asz)	2(asz)[one]	NU	NU	D	I-COUNT	*	*	*	*	*
+gu2	gun[unit]	N	N	D	I-COUNT	*	*	*	*	*
+gi-zi	gizi[reed][-ak][-ak]	N	N.GEN.GEN	D	B-COM	_	_	_	_	_
+gu-nigin2	_	PN	PN	POS	_	_	_	_	_	_
+gi	gi[reed][-ø]	N	N	D	_	_	_	_	_	_
+SZID-da	_			POS	_	_	_	_	_	_
+sza3	szag[heart]	N	N	D	_	_	_	_	_	_
+gesz-gi	_	N	N	POS	_	_	_	_	_	_
+e2	e[house]	N	N	D	_	_	_	_	_	_
+gu-za-la2-me	_	PN	PN.DAT-H	Iabcdefgh	_	_	_	_	_	_
+ugula	ugula[overseer][-ø]	N	N	D	_	_	_	_	_	_
+lu2-dingir-ra	Ludingira[1][-ra]	PN	PN	D	_	_	_	_	_	_
+nu-banda3	nubanda[overseer][-ø]	N	N	D	_	_	_	_	_	_
+ur-{d}nun-gal	Urnungal[1][-ak]	PN	PN.GEN	D	_	_	_	_	_	_
+iti	iti[month]	N	N	D	_	_	_	_	_	_
+ezem-{d}li9-si4	_	MN	MN	POS	_	_	_	_	_	_
+kiszib3	kiszib[seal]	N	N	D	_	_	_	_	_	_
+na-sa6	Nasa[1][-e]	PN	PN.ERG	D	_	_	_	_	_	_
+mu	mu[year]	N	N	D	_	_	_	_	_	_
+en-nun-e-{d}amar-{d}suen-ra-ki-ag2	_	PN	PN.GEN	Iabcdef	_	_	_	_	_	_
+en	en[priest]	N	N	D	_	_	_	_	_	_
+eridu{ki}	Eridug[1][-ak][-ø]	SN	SN.GEN.ABS	D	_	_	_	_	_	_
+ba-hul	ba-hulu[destroy][-ø]	V	MID.V.3-SG-S	D	_	_	_	_	_	_
+na-sa6	Nasa[1][-e]	PN	PN.ERG	D	_	_	_	_	_	_
+dub-sar	dubsar[scribe]	N	N	D	_	_	_	_	_	_
+dumu	dumu[child]	N	N	D	_	_	_	_	_	_
+ur-mes	Urmes[1]	PN	PN	D	_	_	_	_	_	_

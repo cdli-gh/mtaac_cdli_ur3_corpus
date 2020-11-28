@@ -1,0 +1,21 @@
+#new_text=P211856					
+FORM	SEGM	XPOSTAG	XPOSTAG	POS	?	?	?	?	?	?
+3(u)	3(u)[ten]	NU	NU	D	B-COUNT	g	15000.000000000002	weight	gin2	1800
+ma-na	mana[unit]	N	N	D	I-COUNT	*	*	*	*	*
+uruda	urud[copper][-ak]	N	N	D	B-COM	_	_	_	_	_
+ki-la2	kila[weight][-ø]	N	N	D	_	_	_	_	_	_
+nig2	_	N	N	D	_	_	_	_	_	_
+dim2-dim2-ma	_	V	V	POS	_	_	_	_	_	_
+ki	ki[place]	N	N	D	_	_	_	_	_	_
+{gesz}guzza-ni-ta	_	PN	PN	POS	_	_	_	_	_	_
+ur-sa6-ga	Ursaga[1][-ak]	PN	PN	D	_	_	_	_	_	_
+szu	szu[hand][-e]	N	N.L3-NH	D	_	_	_	_	_	_
+ba-ti	ba[-n]-teg[accept][-ø]	V	MID.3-SG-H-A.V.3-SG-P	D	_	_	_	_	_	_
+iti	iti[month]	N	N	D	_	_	_	_	_	_
+sze-sag-ku5	Szesagku[1][-'a]	MN	MN.L1	D	_	_	_	_	_	_
+mu	mu[year]	N	N	D	_	_	_	_	_	_
+2(disz)-kam	2(disz)[one]-ak-am	NU	NU.GEN.COP-3-SG	D	B-COUNT	_	2	cardinal	_	2
+us2-x	_	V	V	POS	_	_	_	_	_	_
+en	en[priest]	N	N	D	_	_	_	_	_	_
+eridu{ki}	Eridug[1][-ak][-ø]	SN	SN.GEN.ABS	D	_	_	_	_	_	_
+ba-hun-ga2	ba-hug[hire][-ø]	V	MID.V.3-SG-S	D	_	_	_	_	_	_

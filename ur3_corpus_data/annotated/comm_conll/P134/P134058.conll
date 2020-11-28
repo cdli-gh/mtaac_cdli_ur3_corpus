@@ -1,0 +1,22 @@
+#new_text=P134058					
+FORM	SEGM	XPOSTAG	XPOSTAG	POS	?	?	?	?	?	?
+2(disz)	2(disz)[one]	NU	NU	D	B-COUNT	_	none	unknown	_	none
+...	_[_]	PN	N	D	I-COUNT	*	*	*	*	*
+2(disz)	2(disz)[one]	NU	NU	D	B-COUNT	_	none	unknown	_	none
+...	_[_]	PN	N	D	I-COUNT	*	*	*	*	*
+1(disz)	1(disz)[one]	NU	NU	D	B-COUNT	_	1	cardinal	_	1
+gesz	gesz[tree]	N	N	D	_	_	_	_	_	_
+dub	dub[tablet]	N	N	D	B-COM	_	_	_	_	_
+...	_[_]	PN	N	D	_	_	_	_	_	_
+1(disz)	1(disz)[one]	NU	NU	D	B-COUNT	_	1	cardinal	_	1
+ra	_	V	V	POS	_	_	_	_	_	_
+sukkal	sukkal[secretary][-ak][-ra]	N	N	D	_	_	_	_	_	_
+nin	_	N	N	D	_	_	_	_	_	_
+...	_[_]	PN	N	D	_	_	_	_	_	_
+1(disz)	1(disz)[one]	NU	NU	D	B-COUNT	m	3	length	gi	1
+gi	gi[reed][-ø]	N	N	D	I-COUNT	*	*	*	*	*
+pisan	bisag[basket]	N	N	D	_	_	_	_	_	_
+sag-ga2	igisag[choose]-a	V	NF.V.PT	D	_	_	_	_	_	_
+1(disz)	1(disz)[one]	NU	NU	D	B-COUNT	_	1	cardinal	_	1
+{gi}pisan	bisag[basket]	N	N	D	B-COM	_	_	_	_	_
+gid2-da	gid[lengthen]-a[-ø]	V	NF.V.PT	D	_	_	_	_	_	_

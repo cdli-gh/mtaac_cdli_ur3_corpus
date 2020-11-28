@@ -1,0 +1,26 @@
+#new_text=P429870					
+FORM	SEGM	XPOSTAG	XPOSTAG	POS	?	?	?	?	?	?
+1(gesz'u)	1(gesz'u)[six_hundred]	NU	NU	D	B-COUNT	_	1080	cardinal	_	1080
+8(gesz2)	8(gesz2)[sixty]	NU	NU	D	I-COUNT	*	*	*	*	*
+ku6	kud[fish]	N	N	D	B-COM	_	_	_	_	_
+al-dar	_	V	V	POS	_	_	_	_	_	_
+za3	_	N	N	Ia	_	_	_	_	_	_
+1(u)-bi	_	NU	NU.3-SG-NH-POSS.ABS	Iab	B-COUNT	_	10	cardinal	_	10
+ib2-gar	_	V	FIN.3-SG-NH-L3.V.3-SG-S	Iabcdef	_	_	_	_	_	_
+nig2-dab5	nigdab[requisitions]	N	N	D	_	_	_	_	_	_
+ma2	ma[ship]	N	N	D	_	_	_	_	_	_
+nesag-NE	_	N	N	POS	_	_	_	_	_	_
+ki	ki[place]	N	N	D	B-COM	_	_	_	_	_
+ur-{d}utu-ta	Urutu[1][-ak]-ta	PN	PN.GEN.ABL	D	_	_	_	_	_	_
+kiszib3	kiszib[seal]	N	N	D	_	_	_	_	_	_
+lugal-nig2-lagar-e	Lugalniglagare[1][-ak]	PN	PN.GEN	D	_	_	_	_	_	_
+iti	iti[month]	N	N	D	_	_	_	_	_	_
+sze-sag11-ku5	Szesagku[1][-'a]	MN	MN.L1	D	_	_	_	_	_	_
+mu	mu[year]	N	N	D	_	_	_	_	_	_
+us2-sa	us[follow]-a	V	NF.V.PT	D	_	_	_	_	_	_
+sza-asz-szu2-ru-um{ki}	Szaszszurum[1][-ø]	SN	SN.ABS	D	_	_	_	_	_	_
+ba-hul	ba-hulu[destroy][-ø]	V	MID.V.3-SG-S	D	_	_	_	_	_	_
+lugal-si-NE-e	Lugalsine'e[1]	PN	PN	D	_	_	_	_	_	_
+dub-sar	dubsar[scribe]	N	N	D	_	_	_	_	_	_
+dumu	dumu[child]	N	N	D	_	_	_	_	_	_
+lugal-sa6-ga	Lugalsaga[1][-ak]	PN	PN.GEN	D	_	_	_	_	_	_

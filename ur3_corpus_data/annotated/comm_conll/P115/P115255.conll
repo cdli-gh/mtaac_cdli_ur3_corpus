@@ -1,0 +1,20 @@
+#new_text=P115255					
+FORM	SEGM	XPOSTAG	XPOSTAG	POS	B-COUNT	l	9.259259259259259e-05	"dry	*	*
+1(asz)	1(asz)[one]	NU	NU	D	I-COUNT	*	*	*	sila3	9.259259259259259e-05
+sze	sze[barley]	N	N	D	I-COUNT	*	*	*	*	*
+gur	gur[unit]	N	N	D	I-COUNT	*	*	*	*	*
+ki	ki[place]	N	N	D	B-COM	_	_	_	_	_
+ur-{d}isztaran-ta	Urisztaran[1][-ak]-ta	PN	PN.GEN.ABL	D	_	_	_	_	_	_
+kiszib3	kiszib[seal]	N	N	D	_	_	_	_	_	_
+ur-ba-gara2	Urbagara[1]	PN	PN	D	_	_	_	_	_	_
+dumu	dumu[child]	N	N	D	_	_	_	_	_	_
+ur-{d}suen	Ursuen[1]	PN	PN	D	_	_	_	_	_	_
+guru7	guru[grain_heap]	N	N	D	_	_	_	_	_	_
+{gesz}tir-gaba-gid2-da-ta	_	FN	FN.GEN.ABL	Iabcdefgh	_	_	_	_	_	_
+mu	mu[year]	N	N	D	_	_	_	_	_	_
+ma2-gur8-mah	magurmah[great_barge][-ø]	N	N.ABS	D	_	_	_	_	_	_
+ba-dim2	ba-dim[create][-ø]	V	MID.V.3-SG-S	D	_	_	_	_	_	_
+ur-ba-gara2	Urbagara[1]	PN	PN	D	_	_	_	_	_	_
+dub-sar	dubsar[scribe]	N	N	D	_	_	_	_	_	_
+dumu	dumu[child]	N	N	D	_	_	_	_	_	_
+...	_[_]	PN	N	D	_	_	_	_	_	_

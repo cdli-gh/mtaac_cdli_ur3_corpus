@@ -1,0 +1,16 @@
+#new_text=P131335					
+FORM	SEGM	XPOSTAG	XPOSTAG	POS	?	?	?	?	?	?
+5(asz)	5(asz)[one]	NU	NU	D	B-COUNT	g	152500.0	weight	gin2	18300
+gu2	gun[unit]	N	N	D	I-COUNT	*	*	*	*	*
+5(disz)	5(disz)[one]	NU	NU	D	I-COUNT	*	*	*	*	*
+ma-na	mana[unit]	N	N	D	I-COUNT	*	*	*	*	*
+siki	siki[wool][-'a]	N	N	D	B-COM	_	_	_	_	_
+a-gar-ra	_	N	N	POS	_	_	_	_	_	_
+la2-ia3	la'u[arrears]	N	N	D	_	_	_	_	_	_
+1(u)	1(u)[ten]	NU	NU	D	B-COUNT	g	5500.0	weight	gin2	660
+1(disz)	1(disz)[one]	NU	NU	D	I-COUNT	*	*	*	*	*
+ma-na	mana[unit]	N	N	D	I-COUNT	*	*	*	*	*
+siki	siki[wool][-'a]	N	N	D	B-COM	_	_	_	_	_
+ur-{d}ba-ba6	Urbaba[1]	PN	PN	D	_	_	_	_	_	_
+i7-da	_	N	N.GEN	D	_	_	_	_	_	_
+gub-ba	gub[assigned]-a[-ak][-ø]	V	NF.V.PT	D	_	_	_	_	_	_

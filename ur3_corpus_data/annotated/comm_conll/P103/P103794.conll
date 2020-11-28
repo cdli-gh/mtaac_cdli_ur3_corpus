@@ -1,0 +1,22 @@
+#new_text=P103794					
+FORM	SEGM	XPOSTAG	XPOSTAG	POS	?	?	?	?	?	?
+1(disz)	1(disz)[one]	NU	NU	D	B-COUNT	_	1	cardinal	_	1
+sag	sag[head]	N	N	D	_	_	_	_	_	_
+nita	nita[male]	N	N	D	_	_	_	_	_	_
+ha-ba-lu5-ge2	Habaluge[1][-ra]	PN	PN	D	_	_	_	_	_	_
+mu-ni	_	V	N.3-SG-H-POSS.ABS	D	_	_	_	_	_	_
+ku3-bi	kug[silver]-bi[-ø]	N	N.3-SG-NH-POSS.ABS	D	B-COM	_	_	_	_	_
+3(disz)	3(disz)[one]	NU	NU	D	B-COUNT	_	0.05	cardinal	_	0.05
+gin2	gig[unit]	N	N	D	I-COUNT	*	*	*	*	*
+ku3-babbar	kugbabbar[silver]	N	N	D	_	_	_	_	_	_
+ur-{d}dumu-zi-da-ka	_	PN	PN.GEN.GEN.GEN	Iabcdefg	_	_	_	_	_	_
+lu2-{d}szara2-ke4	_	PN	PN.GEN.ERG	Iab	_	_	_	_	_	_
+i3-szi-sa10	_	V	FIN.3-SG-H.TERM.3-SG-H-A.V.3-SG-P.SUB	Iabcdefghi	_	_	_	_	_	_
+1(disz)	1(disz)[one]	NU	NU	D	B-COUNT	_	1	cardinal	_	1
+sag-ku5	Sagku[1][-ak][-ø]	PN	PN.GEN.ABS	D	_	_	_	_	_	_
+1(disz)	1(disz)[one]	NU	NU	D	B-COUNT	_	1	cardinal	_	1
+ur-da-da	_	PN	PN.GEN	Iabcde	_	_	_	_	_	_
+1(disz)	1(disz)[one]	NU	NU	D	B-COUNT	_	1	cardinal	_	1
+ba-ni-li2	_	PN	PN	POS	_	_	_	_	_	_
+1(disz)	1(disz)[one]	NU	NU	D	B-COUNT	_	1	cardinal	_	1
+lugal-dab6-ba-an	_	N	N	POS	_	_	_	_	_	_

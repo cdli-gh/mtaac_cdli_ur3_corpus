@@ -1,0 +1,21 @@
+#new_text=P110218					
+FORM	SEGM	XPOSTAG	XPOSTAG	POS	B-COUNT	l	498975	"dry	*	*
+2(gesz'u)	2(gesz'u)[six_hundred]	NU	NU	D	I-COUNT	*	*	*	sila3	498975
+7(gesz2)	7(gesz)[sixty]	NU	NU	D	I-COUNT	*	*	*	*	*
+4(u)	4(u)[ten]	NU	NU	D	I-COUNT	*	*	*	*	*
+3(asz)	3(asz)[one]	NU	NU	D	I-COUNT	*	*	*	*	*
+1(barig)	1(bariga)[unit]	NU	N	D	I-COUNT	*	*	*	*	*
+1(ban2)	1(ban)[unit]	NU	N	D	I-COUNT	*	*	*	*	*
+5(disz)	5(disz)[one]	NU	NU	D	I-COUNT	*	*	*	*	*
+sila3	sila[unit]	N	N	D	I-COUNT	*	*	*	*	*
+sze	sze[barley]	N	N	D	I-COUNT	*	*	*	*	*
+gur	gur[unit]	N	N	D	I-COUNT	*	*	*	*	*
+kiszib3-bi	kiszib[seal]-bi[-ø]	N	N.3-SG-NH-POSS.ABS	D	B-COM	_	_	_	_	_
+5(disz)-am3	5(disz)[one][-ak]-am	NU	NU.GEN.COP-3-SG	D	B-COUNT	_	5	cardinal	_	5
+kiszib3	kiszib[seal]	N	N	D	_	_	_	_	_	_
+ba-an-ku3	_	PN	PN	POS	_	_	_	_	_	_
+dumu	dumu[child]	N	N	D	_	_	_	_	_	_
+erin-da	Erinda[1][-ak][-ak]	N	PN.ABS	D	_	_	_	_	_	_
+ambar{ki}-ta	_	SN	SN.GEN.GEN.ABL	Iabcdefg	_	_	_	_	_	_
+giri3	giri[foot]	N	N	D	_	_	_	_	_	_
+ba-zi	ba-zig[expend][-ø]	PN	MID.V.3-SG-S	D	_	_	_	_	_	_

@@ -1,0 +1,13 @@
+#new_text=P117788					
+FORM	SEGM	XPOSTAG	XPOSTAG	POS	?	?	?	?	?	?
+3(asz)	3(asz)[one]	NU	NU	D	B-COUNT	g	90000.0	weight	gin2	10800
+gu2	gun[unit]	N	N	D	I-COUNT	*	*	*	*	*
+gi	gi[reed][-ø]	N	N	D	_	_	_	_	_	_
+gu-nigin2	_	PN	PN	POS	_	_	_	_	_	_
+he2-na-ab-szum2-mu	ha-i-nn-a-b-szum[give]-e	V	MOD.FIN.3-SG-H.DAT.3-SG-NH-P.V.3-SG-A	D	_	_	_	_	_	_
+na-mi-gur-re	nan-m[-b]-i[-b]-gur[return]-e	PN	MOD.VEN.3-SG-NH.L2.3-SG-NH-P.V.3-SG-A	D	_	_	_	_	_	_
+lugal-ezem	Lugalezem[1]	PN	PN	D	_	_	_	_	_	_
+dub-sar	dubsar[scribe]	N	N	D	_	_	_	_	_	_
+dumu	dumu[child]	N	N	D	_	_	_	_	_	_
+lugal-e2-mah-e	Lugalemahe[1]	N	PN	D	_	_	_	_	_	_
+szabra	szabra[chief_administrator][-ak]	N	N	D	_	_	_	_	_	_

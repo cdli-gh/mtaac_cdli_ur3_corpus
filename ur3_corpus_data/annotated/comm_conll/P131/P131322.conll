@@ -1,0 +1,19 @@
+#new_text=P131322					
+FORM	SEGM	XPOSTAG	XPOSTAG	POS	?	?	?	?	?	?
+1(disz)	1(disz)[one]	NU	NU	D	B-COUNT	_	1	cardinal	_	1
+udu	udu[sheep]	N	N	D	B-COM	_	_	_	_	_
+2(disz)	2(disz)[one]	NU	NU	D	B-COUNT	_	2	cardinal	_	2
+masz2	masz[goat]	N	N	D	_	_	_	_	_	_
+ki	ki[place]	N	N	D	_	_	_	_	_	_
+ur-{d}lamma-ta	Urlamma[1][-ak]-ta	PN	PN.GEN.ABL	D	_	_	_	_	_	_
+giri3	giri[foot]	N	N	D	_	_	_	_	_	_
+lu2-lagasz{ki}	_	PN	PN	Iabcdefgh	_	_	_	_	_	_
+mu	mu[year]	N	N	D	_	_	_	_	_	_
+ki-masz{ki}	Kimasz[1]	SN	SN.ABS	D	_	_	_	_	_	_
+ba-hul	ba-hulu[destroy][-ø]	V	MID.V.3-SG-S	D	_	_	_	_	_	_
+lu2-lagasz{ki}	_	PN	PN	Iabcdefgh	_	_	_	_	_	_
+dub-sar	dubsar[scribe]	N	N	D	_	_	_	_	_	_
+dumu	dumu[child]	N	N	D	_	_	_	_	_	_
+ur-{d}nansze	Urnansze[1]	PN	PN	D	_	_	_	_	_	_
+nu-banda3	nubanda[overseer][-ø]	N	N	D	_	_	_	_	_	_
+kuruszda	kuruszda[animal_fattener][-ø]	N	N.GEN.ABS	D	_	_	_	_	_	_

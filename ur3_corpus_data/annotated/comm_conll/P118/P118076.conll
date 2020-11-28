@@ -1,0 +1,26 @@
+#new_text=P118076					
+FORM	SEGM	XPOSTAG	XPOSTAG	POS	?	?	?	?	?	?
+1(gesz2)	1(gesz)[sixty]	NU	NU	D	B-COUNT	_	75	cardinal	_	75
+1(u)	1(u)[ten]	NU	NU	D	I-COUNT	*	*	*	*	*
+5(disz)	5(disz)[one]	NU	NU	D	I-COUNT	*	*	*	*	*
+sa	sa[bundle]	N	N	D	_	_	_	_	_	_
+gi	gi[reed][-ø]	N	N	D	_	_	_	_	_	_
+a-kum2	_	PN	PN.GEN.ABL	Iabcdefgh	_	_	_	_	_	_
+1(gesz2)	1(gesz)[sixty]	NU	NU	D	B-COUNT	_	70	cardinal	_	70
+1(u)	1(u)[ten]	NU	NU	D	I-COUNT	*	*	*	*	*
+sa	sa[bundle]	N	N	D	_	_	_	_	_	_
+gi	gi[reed][-ø]	N	N	D	_	_	_	_	_	_
+izi-la2	_	V	V	POS	_	_	_	_	_	_
+ki	ki[place]	N	N	D	_	_	_	_	_	_
+sig4-te-la2-ni	Sigtelani[1][-e]	PN	PN.ERG	D	_	_	_	_	_	_
+ur-ge6-par4-ta	Urgepar[1][-ak]-ta	PN	PN.GEN.ABL	D	_	_	_	_	_	_
+iti	iti[month]	N	N	D	_	_	_	_	_	_
+szu-esz5-sza	Szu'eszsza[1][-'a]	MN	MN.L1	D	_	_	_	_	_	_
+mu	mu[year]	N	N	D	_	_	_	_	_	_
+en	en[priest]	N	N	D	_	_	_	_	_	_
+ga-esz{ki}	Ga'esz[1][-ak][-ø]	SN	SN.GEN.ABS	D	_	_	_	_	_	_
+ur-{d}nun-gal	Urnungal[1][-ak]	PN	PN.GEN	D	_	_	_	_	_	_
+dub-sar	dubsar[scribe]	N	N	D	_	_	_	_	_	_
+dumu	dumu[child]	N	N	D	_	_	_	_	_	_
+ur-{d}szara2	Urszara[1]	PN	PN	D	_	_	_	_	_	_
+sza13-dub-ba	bisagdubak[archivist]	N	N	D	_	_	_	_	_	_

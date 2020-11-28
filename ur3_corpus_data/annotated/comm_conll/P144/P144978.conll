@@ -1,0 +1,17 @@
+#new_text=P144978					
+FORM	SEGM	XPOSTAG	XPOSTAG	POS	?	?	?	?	?	?
+9(asz)	9(asz)[one]	NU	NU	D	B-COUNT	*	*	*	*	*
+4(ban2)	4(ban)[unit]	NU	N	D	I-COUNT	*	*	*	*	*
+sze	sze[barley]	N	N	D	I-COUNT	*	*	*	*	*
+gur	gur[unit]	N	N	D	I-COUNT	*	*	*	*	*
+sza3	szag[heart]	N	N	D	_	_	_	_	_	_
+mu-sza3-ge	_	V	V	POS	_	_	_	_	_	_
+...	_[_]	PN	N	D	_	_	_	_	_	_
+ki	ki[place]	N	N	D	B-COM	_	_	_	_	_
+ur-{d}nin-...	_	PN	PN	Ia	_	_	_	_	_	_
+gaba-ri	gabari[copy]	N	N	D	_	_	_	_	_	_
+kiszib3	kiszib[seal]	N	N	D	_	_	_	_	_	_
+{d}szara2-i3-zu	_	PN	PN.DAT-H	Iabcdefgh	_	_	_	_	_	_
+mu	mu[year]	N	N	D	_	_	_	_	_	_
+na-ru2-a-mah	naruamah[magnificent_stele][-ø]	PN	N.ABS	D	_	_	_	_	_	_
+ba-du3	ba-du[build][-ø]	V	MID.V.3-SG-S	D	_	_	_	_	_	_

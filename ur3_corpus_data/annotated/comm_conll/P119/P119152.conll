@@ -1,0 +1,24 @@
+#new_text=P119152					
+FORM	SEGM	XPOSTAG	XPOSTAG	POS	B-COUNT	l	330	"dry	*	*
+1(disz)	1(disz)[one]	NU	NU	D	I-COUNT	*	*	*	sila3	330
+3(ban2)	3(ban)[unit]	NU	N	D	I-COUNT	*	*	*	*	*
+li-ni	_	PN	PN	Iabcdefgh	_	_	_	_	_	_
+lu2	lu[person]	N	N	D	_	_	_	_	_	_
+azlag2-sze3	_	N	N.3-SG-H-POSS.TERM	Iabcdef	_	_	_	_	_	_
+a-ru-a	_	GN	GN	POS	_	_	_	_	_	_
+na-we-er-dingir	_	PN	PN	D	_	_	_	_	_	_
+ki	ki[place]	N	N	D	B-COM	_	_	_	_	_
+lugal-nir-ta	_	PN	PN.GEN.ABL	Iab	_	_	_	_	_	_
+i3-kal-la	Ikala[1][-ak]	PN	PN	D	_	_	_	_	_	_
+i3-dab5	i[-n]-dab[seize][-ø]	V	FIN.3-SG-H-A.V.3-SG-P	D	_	_	_	_	_	_
+iti	iti[month]	N	N	D	_	_	_	_	_	_
+pa4-u2-e	Pa'u'e[1][-'a]	MN	MN.L1	D	_	_	_	_	_	_
+mu	mu[year]	N	N	D	_	_	_	_	_	_
+{d}szu-{d}suen	Szusuen[1]	RN	RN	D	_	_	_	_	_	_
+lugal-e	lugal[king]-e	N	N.ERG	D	_	_	_	_	_	_
+ma2-gur8-mah	magurmah[great_barge][-ø]	N	N.ABS	D	_	_	_	_	_	_
+i3-dim2	_	V	V	POS	_	_	_	_	_	_
+i3-kal-la	Ikala[1][-ak]	PN	PN	D	_	_	_	_	_	_
+dub-sar	dubsar[scribe]	N	N	D	_	_	_	_	_	_
+dumu	dumu[child]	N	N	D	_	_	_	_	_	_
+lu2-sa6-ga	_	PN	PN	Iabcde	_	_	_	_	_	_

@@ -1,0 +1,23 @@
+#new_text=P211619					
+FORM	SEGM	XPOSTAG	XPOSTAG	POS	?	?	?	?	?	?
+2(disz)	2(disz)[one]	NU	NU	D	B-COUNT	_	2	cardinal	_	2
+szah2-gesz-gi	_	N	N	Ia	_	_	_	_	_	_
+2(disz)	2(disz)[one]	NU	NU	D	B-COUNT	_	2	cardinal	_	2
+uz-tur	_	PN	PN	POS	_	_	_	_	_	_
+5(gesz'u)	5(gesz'u)[six_hundred]	NU	NU	D	B-COUNT	_	3000	cardinal	_	3000
+sa	sa[bundle]	N	N	D	_	_	_	_	_	_
+{gesz}ma-nu	manu[wood_type][-ø]	FN	N.ABS	D	_	_	_	_	_	_
+1(gesz'u)	1(gesz'u)[six_hundred]	NU	NU	D	B-COUNT	_	600	cardinal	_	600
+sa	sa[bundle]	N	N	D	_	_	_	_	_	_
+{gesz}asalx(|A.TU.NIR|)	_	N	N	Ia	_	_	_	_	_	_
+1(gesz2)	1(gesz)[sixty]	NU	NU	D	B-COUNT	_	60	cardinal	_	60
+sa	sa[bundle]	N	N	D	_	_	_	_	_	_
+u2-{gesz}haszhur	_	PN	PN	Iabcde	_	_	_	_	_	_
+uri5{ki}-sze3	Urim[1]-sze	SN	SN.TERM	D	_	_	_	_	_	_
+giri3	giri[foot]	N	N	D	_	_	_	_	_	_
+da-da-a-ta	_	PN	PN.GEN.GEN.ABL	Iab	_	_	_	_	_	_
+lu2-du10-ga	Luduga[1]	PN	PN	D	_	_	_	_	_	_
+szu	szu[hand][-e]	N	N.L3-NH	D	B-COM	_	_	_	_	_
+ba-ti	ba[-n]-teg[accept][-ø]	V	MID.3-SG-H-A.V.3-SG-P	D	_	_	_	_	_	_
+iti	iti[month]	N	N	D	_	_	_	_	_	_
+e2-iti-6(disz)	E'iti6[1][-'a]	NU	MN.L1	D	_	_	_	_	_	_

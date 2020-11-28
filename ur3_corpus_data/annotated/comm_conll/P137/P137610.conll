@@ -1,0 +1,26 @@
+#new_text=P137610					
+FORM	SEGM	XPOSTAG	XPOSTAG	POS	?	?	?	?	?	?
+1(disz)	1(disz)[one]	NU	NU	D	B-COUNT	_	1	cardinal	_	1
+kusz	kusz[leather]	N	N	D	B-COM	_	_	_	_	_
+gu4	gud[ox]	N	N	D	_	_	_	_	_	_
+a-gar	_	N	N	POS	_	_	_	_	_	_
+gu7-a	_	V	NF.V.PT.ABS	Iabcdefg	_	_	_	_	_	_
+e2	e[house]	N	N	D	_	_	_	_	_	_
+{d}ma-at-i3-li2-x-um-sze3	_	DN	DN	POS	_	_	_	_	_	_
+ki	ki[place]	N	N	D	_	_	_	_	_	_
+ur-{d}ba-ba6-ta	Urbaba[1][-ak]-ta	PN	PN.GEN.ABL	D	_	_	_	_	_	_
+ur-mes	Urmes[1]	PN	PN	D	_	_	_	_	_	_
+szu	szu[hand][-e]	N	N.L3-NH	D	_	_	_	_	_	_
+ba-an-ti	ba-n-teg[accept][-ø]	V	MID.3-SG-H-A.V.3-SG-P	D	_	_	_	_	_	_
+kiszib3	kiszib[seal]	N	N	D	_	_	_	_	_	_
+se-la-{d}iszkur	_	PN	PN	POS	_	_	_	_	_	_
+aszgab	aszgab[leatherworker]	N	N	D	_	_	_	_	_	_
+iti	iti[month]	N	N	D	_	_	_	_	_	_
+ses-da-gu7	Sesdagu[1][-'a]	MN	MN.L1	D	_	_	_	_	_	_
+mu	mu[year]	N	N	D	_	_	_	_	_	_
+x	_[_]	N	N	D	_	_	_	_	_	_
+x	_[_]	N	N	D	_	_	_	_	_	_
+x	_[_]	N	N	D	_	_	_	_	_	_
+si-{d}iszkur	_	PN	PN	Iabcdefgh	_	_	_	_	_	_
+dumu	dumu[child]	N	N	D	_	_	_	_	_	_
+szul-la-x	_	PN	PN.GEN	Iab	_	_	_	_	_	_

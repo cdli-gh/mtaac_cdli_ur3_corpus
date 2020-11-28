@@ -1,0 +1,13 @@
+#new_text=P145340					
+FORM	SEGM	XPOSTAG	XPOSTAG	POS	?	?	?	?	?	?
+1(disz)	1(disz)[one]	NU	NU	D	B-COUNT	_	1	cardinal	_	1
+da-gi-mu	_	PN	PN.GEN	Iabcde	_	_	_	_	_	_
+1(disz)	1(disz)[one]	NU	NU	D	B-COUNT	_	1	cardinal	_	1
+ma-a-ti	_	PN	PN	Iabc	_	_	_	_	_	_
+1(disz)	1(disz)[one]	NU	NU	D	B-COUNT	_	1	cardinal	_	1
+a-al-li2	_	PN	PN	POS	_	_	_	_	_	_
+kiszib3	kiszib[seal]	N	N	D	_	_	_	_	_	_
+nu-ra-a	Nuraya[1][-ak]	PN	PN.GEN	D	_	_	_	_	_	_
+u4	ud[day]	N	N	D	_	_	_	_	_	_
+1(u)	1(u)[ten]	NU	NU	D	B-COUNT	_	11	cardinal	_	11
+1(disz)-me	_	NU	NU.GEN.COP-3-SG	Iabcdefghij	I-COUNT	*	*	*	*	*

@@ -1,0 +1,23 @@
+#new_text=P110699					
+FORM	SEGM	XPOSTAG	XPOSTAG	POS	?	?	?	?	?	?
+1(u)	1(u)[ten]	NU	NU	D	B-COUNT	_	0.16666666666666666	cardinal	_	0.16666666666666666
+gin2	gig[unit]	N	N	D	I-COUNT	*	*	*	*	*
+i3-gesz	igesz[oil]	V	N	D	B-COM	_	_	_	_	_
+*RETOK*-capacity"	?	?	?	?	B-COUNT	l	2	"liquid	*	*
+*RETOK*-capacity"	?	?	?	?	I-COUNT	l	2	"dry	sila3	2
+2(disz)	2(disz)[one]	NU	NU	D	I-COUNT	*	*	*	sila3	2
+sila3	sila[unit]	N	N	D	I-COUNT	*	*	*	*	*
+zu2-lum	zulum[date]	N	N	D	_	_	_	_	_	_
+nig2	_	N	N	D	_	_	_	_	_	_
+siskur2-ra	_	N	N.GEN.3-SG-H-POSS.L1	Iabcdefgh	_	_	_	_	_	_
+pesz	pesz[thick][-ø]	NU	N.ABS	D	B-COM	_	_	_	_	_
+murgu	_	N	N	D	_	_	_	_	_	_
+al-ur5-ra	_	V	V	POS	_	_	_	_	_	_
+{d}szul-gi-pirig-sze3	_	PN	PN.GEN.TERM	Iabcdef	_	_	_	_	_	_
+giri3	giri[foot]	N	N	D	_	_	_	_	_	_
+lu2-{d}nin-gir2-su	Luningirsu[1]	PN	PN	D	_	_	_	_	_	_
+dumu	dumu[child]	N	N	D	_	_	_	_	_	_
+ur-{d}ba-ba6	Urbaba[1]	PN	PN	D	_	_	_	_	_	_
+zi-ga	zig[expend]-a	V	NF.V.PT	D	_	_	_	_	_	_
+iti	iti[month]	N	N	D	_	_	_	_	_	_
+ezem-{d}dumu-zi	Ezemdumuzi[1][-'a]	MN	MN.L1	D	_	_	_	_	_	_

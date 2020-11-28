@@ -1,0 +1,25 @@
+#new_text=P109942					
+FORM	SEGM	XPOSTAG	XPOSTAG	POS	?	?	?	?	?	?
+2(barig)	2(bariga)[unit]	NU	N	D	B-COUNT	*	*	*	*	*
+sze	sze[barley]	N	N	D	I-COUNT	*	*	*	*	*
+lugal	lugal[king]	N	N	D	_	_	_	_	_	_
+li-ra	_	GN	GN	POS	_	_	_	_	_	_
+i3-dub	idub[granary]	N	N	D	_	_	_	_	_	_
+he-gal2-ta	_	FN	FN	POS	B-COM	_	_	_	_	_
+lugal-dumu-gi7	_	PN	PN	D	_	_	_	_	_	_
+szu	szu[hand][-e]	N	N.L3-NH	D	_	_	_	_	_	_
+ba-ti	ba[-n]-teg[accept][-ø]	V	MID.3-SG-H-A.V.3-SG-P	D	_	_	_	_	_	_
+mu	mu[year]	N	N	D	_	_	_	_	_	_
+lugal-dumu-gi7-sze3	_	PN	PN.GEN.TERM	Iabcdef	_	_	_	_	_	_
+kiszib3	kiszib[seal]	N	N	D	_	_	_	_	_	_
+lu2-{d}na-ru2-a	_	PN	PN	D	_	_	_	_	_	_
+dumu	dumu[child]	N	N	D	_	_	_	_	_	_
+ur-{d}dumu-zi	Urdumuzi[1][-e]	PN	PN.ERG	D	_	_	_	_	_	_
+iti	iti[month]	N	N	D	_	_	_	_	_	_
+amar-a-a-si	Amarayasi[1][-'a]	MN	MN.L1	D	_	_	_	_	_	_
+mu	mu[year]	N	N	D	_	_	_	_	_	_
+{d}amar-{d}suen	Amarsuen[1]	RN	RN	D	_	_	_	_	_	_
+lugal	lugal[king]	N	N	D	_	_	_	_	_	_
+lu2-{d}na-ru2-a	_	PN	PN	D	_	_	_	_	_	_
+dumu	dumu[child]	N	N	D	_	_	_	_	_	_
+ur-{d}dumu-zi	Urdumuzi[1][-e]	PN	PN.ERG	D	_	_	_	_	_	_

@@ -1,0 +1,17 @@
+#new_text=P340287					
+FORM	SEGM	XPOSTAG	XPOSTAG	POS	?	?	?	?	?	?
+2(asz)	2(asz)[one]	NU	NU	D	B-COUNT	g	60000.00000000001	weight	gin2	7200
+gu2	gun[unit]	N	N	D	I-COUNT	*	*	*	*	*
+siki-ud5	siki'ud[goat_wool]	N	N	D	_	_	_	_	_	_
+ad-tab	_	N	N	POS	B-COM	_	_	_	_	_
+ur-ra	_	PN	PN.GEN.ABL	Iabcdefgh	_	_	_	_	_	_
+ki	ki[place]	N	N	D	_	_	_	_	_	_
+nir-i3-da-gal2	Niridagal[1][-e]	AJ	PN.ERG	D	_	_	_	_	_	_
+nig2-dab5	nigdab[requisitions]	N	N	D	_	_	_	_	_	_
+za3-mu-ka	zagmuk[new_year][-ak]	N	N.GEN	D	_	_	_	_	_	_
+ki	ki[place]	N	N	D	_	_	_	_	_	_
+ur-e11-e-ta	Ure'e[1][-ak]-ta	PN	PN.GEN.ABL	D	_	_	_	_	_	_
+mu	mu[year]	N	N	D	_	_	_	_	_	_
+en	en[priest]	N	N	D	_	_	_	_	_	_
+eridu{ki}	Eridug[1][-ak][-ø]	SN	SN.GEN.ABS	D	_	_	_	_	_	_
+ba-hun	ba-hug[hire][-ø]	V	MID.V.3-SG-S	D	_	_	_	_	_	_

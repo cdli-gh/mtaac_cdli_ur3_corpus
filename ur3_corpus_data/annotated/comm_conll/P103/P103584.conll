@@ -1,0 +1,23 @@
+#new_text=P103584					
+FORM	SEGM	XPOSTAG	XPOSTAG	POS	?	?	?	?	?	?
+1(gesz2)	1(gesz)[sixty]	NU	NU	D	B-COUNT	_	64	cardinal	_	64
+4(disz)	4(disz)[one]	NU	NU	D	I-COUNT	*	*	*	*	*
+udu	udu[sheep]	N	N	D	B-COM	_	_	_	_	_
+bar-su-ga	barsuga[without_fleece][-ø]	V	NF.V.ABS	D	_	_	_	_	_	_
+2(u)	2(u)[ten]	NU	NU	D	B-COUNT	_	20	cardinal	_	20
+masz2	masz[goat]	N	N	D	_	_	_	_	_	_
+ki	ki[place]	N	N	D	_	_	_	_	_	_
+ur-nigar{gar}	Urnigar[1]	PN	PN	D	_	_	_	_	_	_
+kuruszda-ta	_	N	N.ABL	Iabcde	_	_	_	_	_	_
+5(u)	5(u)[ten]	NU	NU	D	B-COUNT	_	55	cardinal	_	55
+5(disz)	5(disz)[one]	NU	NU	D	I-COUNT	*	*	*	*	*
+udu	udu[sheep]	N	N	D	B-COM	_	_	_	_	_
+bar-su-ga	barsuga[without_fleece][-ø]	V	NF.V.ABS	D	_	_	_	_	_	_
+7(disz)	7(disz)[one][-sze]	NU	NU	D	B-COUNT	_	7	cardinal	_	7
+masz2	masz[goat]	N	N	D	_	_	_	_	_	_
+ki	ki[place]	N	N	D	_	_	_	_	_	_
+lugal-a2-zi-da	Lugalazida[1]	PN	PN	D	_	_	_	_	_	_
+gudu4-ta	_	N	N.ABL	Iabcde	_	_	_	_	_	_
+mu	mu[year]	N	N	D	_	_	_	_	_	_
+an-sza-an{ki}	Anszan[1][-ø]	GN	GN.ABS	D	_	_	_	_	_	_
+ba-hul	ba-hulu[destroy][-ø]	V	MID.V.3-SG-S	D	_	_	_	_	_	_

@@ -1,0 +1,17 @@
+#new_text=P390997					
+FORM	SEGM	XPOSTAG	XPOSTAG	POS	?	?	?	?	?	?
+1(asz)	1(asz)[one]	NU	NU	D	B-COUNT	_	1	cardinal	_	1
+zu2-lum	zulum[date]	N	N	D	B-COM	_	_	_	_	_
+gur	gur[unit]	N	N	D	_	_	_	_	_	_
+du2-ta	_	N	N	POS	_	_	_	_	_	_
+gi4-a	_	V	V	POS	_	_	_	_	_	_
+e2	e[house]	N	N	D	_	_	_	_	_	_
+ur-kun	Urkun[1]	PN	PN	D	_	_	_	_	_	_
+nu-{gesz}kiri6-ta	_	N	N.GEN.ABL	Iabcdefg	_	_	_	_	_	_
+mu	mu[year]	N	N	D	_	_	_	_	_	_
+...	_[_]	PN	N	D	_	_	_	_	_	_
+iti	iti[month]	N	N	D	_	_	_	_	_	_
+{d}li9-si4	Lisi[1][-'a]	MN	MN.L1	D	_	_	_	_	_	_
+mu	mu[year]	N	N	D	_	_	_	_	_	_
+en-mah-gal-an-na	Enmahgalana[1]	PN	PN	D	_	_	_	_	_	_
+ba-hun	ba-hug[hire][-ø]	V	MID.V.3-SG-S	D	_	_	_	_	_	_

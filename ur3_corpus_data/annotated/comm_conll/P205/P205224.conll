@@ -1,0 +1,21 @@
+#new_text=P205224					
+FORM	SEGM	XPOSTAG	XPOSTAG	POS	?	?	?	?	?	?
+1(gesz'u)	1(gesz'u)[six_hundred]	NU	NU	D	B-COUNT	_	624	cardinal	_	624
+2(u)	2(u)[ten]	NU	NU	D	I-COUNT	*	*	*	*	*
+4(disz)	4(disz)[one]	NU	NU	D	I-COUNT	*	*	*	*	*
+geme2	geme[female_worker]	N	N	D	_	_	_	_	_	_
+u4	ud[day]	N	N	D	_	_	_	_	_	_
+1(disz)-sze3	1(disz)[one]-sze	NU	NU.TERM	D	B-COUNT	_	1	cardinal	_	1
+ki	ki[place]	N	N	D	_	_	_	_	_	_
+giri3-ni-i3-sa6-ta	_	PN	PN.GEN.ABL	Iab	_	_	_	_	_	_
+kiszib3	kiszib[seal]	N	N	D	_	_	_	_	_	_
+lu2-{d}en-ki	_	PN	PN	Ia	_	_	_	_	_	_
+iti	iti[month]	N	N	D	_	_	_	_	_	_
+GAN2-masz	GANmasz[1][-'a]	MN	MN.L1	D	_	_	_	_	_	_
+mu	mu[year]	N	N	D	_	_	_	_	_	_
+{d}szu-{d}suen	Szusuen[1]	RN	RN	D	_	_	_	_	_	_
+lugal	lugal[king]	N	N	D	_	_	_	_	_	_
+lu2-{d}en-ki	_	PN	PN	Ia	_	_	_	_	_	_
+dub-sar	dubsar[scribe]	N	N	D	_	_	_	_	_	_
+dumu	dumu[child]	N	N	D	_	_	_	_	_	_
+ur-...	_[1][-ak]	PN	PN.GEN.ABS	D	_	_	_	_	_	_

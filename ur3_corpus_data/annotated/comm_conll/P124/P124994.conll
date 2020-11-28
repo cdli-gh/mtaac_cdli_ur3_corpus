@@ -1,0 +1,21 @@
+#new_text=P124994					
+FORM	SEGM	XPOSTAG	XPOSTAG	POS	?	?	?	?	?	?
+5(u)	5(u)[ten]	NU	NU	D	B-COUNT	_	58	cardinal	_	58
+8(disz)	8(disz)[one]	NU	NU	D	I-COUNT	*	*	*	*	*
+u8	u[ewe]	N	N	D	B-COM	_	_	_	_	_
+1(u)	1(u)[ten]	NU	NU	D	B-COUNT	_	17	cardinal	_	17
+7(disz)	7(disz)[one][-sze]	NU	NU	D	I-COUNT	*	*	*	*	*
+udu	udu[sheep]	N	N	D	_	_	_	_	_	_
+ki	ki[place]	N	N	D	_	_	_	_	_	_
+ab-ba-sa6-ga-ta	Abbasaga[1][-ak]-ta	PN	PN.GEN.ABL	D	_	_	_	_	_	_
+er3-pa2-dan	_	PN	PN.GEN	Iab	_	_	_	_	_	_
+na-gada	nagada[herdsman][-ak]	N	N.GEN	D	_	_	_	_	_	_
+i3-dab5	i[-n]-dab[seize][-ø]	V	FIN.3-SG-H-A.V.3-SG-P	D	_	_	_	_	_	_
+iti	iti[month]	N	N	D	_	_	_	_	_	_
+u5-bi2-gu7	Ubigu[1][-'a]	MN	MN.L1	D	_	_	_	_	_	_
+mu	mu[year]	N	N	D	_	_	_	_	_	_
+hu-uh2-nu-ri{ki}	Huhnuri[1][-ø]	GN	SN.ABS	D	_	_	_	_	_	_
+ba-hul	ba-hulu[destroy][-ø]	V	MID.V.3-SG-S	D	_	_	_	_	_	_
+1(gesz2)	1(gesz)[sixty]	NU	NU	D	B-COUNT	_	75	cardinal	_	75
+1(u)	1(u)[ten]	NU	NU	D	I-COUNT	*	*	*	*	*
+5(disz)	5(disz)[one]	NU	NU	D	I-COUNT	*	*	*	*	*

@@ -1,0 +1,11 @@
+#new_text=P142520					
+FORM	SEGM	XPOSTAG	XPOSTAG	POS	?	?	?	?	?	?
+1(u)	1(u)[ten]	NU	NU	D	B-COUNT	_	10	cardinal	_	10
+udu	udu[sheep]	N	N	D	B-COM	_	_	_	_	_
+1(u)	1(u)[ten]	NU	NU	D	B-COUNT	_	10	cardinal	_	10
+sila4	sila[lamb]	N	N	D	_	_	_	_	_	_
+ki	ki[place]	N	N	D	_	_	_	_	_	_
+nig2-u2-rum-ta	_	PN	PN.GEN.ABL	Iab	_	_	_	_	_	_
+...	_[_]	PN	N	D	_	_	_	_	_	_
+szu	szu[hand][-e]	N	N.L3-NH	D	B-COM	_	_	_	_	_
+ba-ab-ti	ba-b-teg[accept][-ø]	V	MID.3-SG-NH-A.V.3-SG-P	D	_	_	_	_	_	_

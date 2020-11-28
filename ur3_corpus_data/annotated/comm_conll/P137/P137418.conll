@@ -1,0 +1,26 @@
+#new_text=P137418					
+FORM	SEGM	XPOSTAG	XPOSTAG	POS	?	?	?	?	?	?
+...	_[_]	PN	N	D	_	_	_	_	_	_
+1(asz)	1(asz)[one]	NU	NU	D	B-COUNT	_	1	cardinal	_	1
+zu2-lum	zulum[date]	N	N	D	B-COM	_	_	_	_	_
+gur	gur[unit]	N	N	D	_	_	_	_	_	_
+mu	mu[year]	N	N	D	_	_	_	_	_	_
+sze-ba	szeba[ration]	N	N	D	_	_	_	_	_	_
+geme2	geme[female_worker]	N	N	D	_	_	_	_	_	_
+ARAD2-e-ne-sze3	_	N	N	POS	_	_	_	_	_	_
+mu	mu[year]	N	N	D	_	_	_	_	_	_
+ur-ku3-nun-na-sze3	_	PN	PN.GEN.TERM	Iabcdefg	_	_	_	_	_	_
+e2-kiszib3-ba	ekiszibak[storeroom]-ak	PN	TN.L1	D	_	_	_	_	_	_
+{d}nin-gal-e	_	DN	DN.DAT-H	Iabcdef	_	_	_	_	_	_
+gar-ra-ta	_	V	V	POS	_	_	_	_	_	_
+ga-ti-e	_	PN	PN	Iabcdefgh	_	_	_	_	_	_
+szu	szu[hand][-e]	N	N.L3-NH	D	_	_	_	_	_	_
+ba-an-ti	ba-n-teg[accept][-ø]	V	MID.3-SG-H-A.V.3-SG-P	D	_	_	_	_	_	_
+a-ra2	ara[times]	N	N	D	_	_	_	_	_	_
+2(disz)-kam	2(disz)[one]-ak-am	NU	NU.GEN.COP-3-SG	D	B-COUNT	_	2	cardinal	_	2
+iti	iti[month]	N	N	D	_	_	_	_	_	_
+ezem-{d}me-ki-gal2	Ezemmekigal[1]-['a]	MN	MN.L1	D	_	_	_	_	_	_
+mu	mu[year]	N	N	D	_	_	_	_	_	_
+x	_[_]	N	N	D	_	_	_	_	_	_
+x	_[_]	N	N	D	_	_	_	_	_	_
+x	_[_]	N	N	D	_	_	_	_	_	_

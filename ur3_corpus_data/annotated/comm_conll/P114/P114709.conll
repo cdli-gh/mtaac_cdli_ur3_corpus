@@ -1,0 +1,20 @@
+#new_text=P114709					
+FORM	SEGM	XPOSTAG	XPOSTAG	POS	?	?	?	?	?	?
+...	_[_]	PN	N	D	_	_	_	_	_	_
+giri3-ni-sze3	_	N	N	POS	_	_	_	_	_	_
+*RETOK*-capacity"	?	?	?	?	B-COUNT	l	30	"dry	*	*
+3(ban2)	3(ban)[unit]	NU	N	D	I-COUNT	*	*	*	sila3	30
+lu2-{d}nin-gir2-su	Luningirsu[1]	PN	PN	D	_	_	_	_	_	_
+dumu-ni	dumu[child]-ani	N	N.3-SG-H-POSS	D	_	_	_	_	_	_
+*RETOK*-capacity"	?	?	?	?	B-COUNT	l	50	"dry	*	*
+5(ban2)	5(ban)[unit]	NU	N	D	I-COUNT	*	*	*	sila3	50
+lu2-{d}nin-gir2-su	Luningirsu[1]	PN	PN	D	_	_	_	_	_	_
+*RETOK*-capacity"	?	?	?	?	B-COUNT	l	40	"dry	*	*
+4(ban2)	4(ban)[unit]	NU	N	D	I-COUNT	*	*	*	sila3	40
+ur-sag-ub3{ki}	_	PN	PN.GEN.GEN	Iabcdefg	_	_	_	_	_	_
+nar-me	_	N	N	POS	_	_	_	_	_	_
+lugal-dub-la2	Lugaldubla[1][-ak]	PN	PN.GEN	D	_	_	_	_	_	_
+ur-{d}nin-mar{ki}	_	PN	PN	D	_	_	_	_	_	_
+dub-sar	dubsar[scribe]	N	N	D	_	_	_	_	_	_
+dumu	dumu[child]	N	N	D	_	_	_	_	_	_
+nam-ha-ni	Namhani[1]	N	PN	D	_	_	_	_	_	_

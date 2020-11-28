@@ -1,0 +1,16 @@
+#new_text=P106613					
+FORM	SEGM	XPOSTAG	XPOSTAG	POS	?	?	?	?	?	?
+4(gesz'u)	4(gesz'u)[six_hundred]	NU	NU	D	B-COUNT	_	2994	cardinal	_	2994
+9(gesz2)	9(gesz)[sixty]	NU	NU	D	I-COUNT	*	*	*	*	*
+5(u)	5(u)[ten]	NU	NU	D	I-COUNT	*	*	*	*	*
+4(disz)	4(disz)[one]	NU	NU	D	I-COUNT	*	*	*	*	*
+sa	sa[bundle]	N	N	D	_	_	_	_	_	_
+gi	gi[reed][-ø]	N	N	D	_	_	_	_	_	_
+ki	ki[place]	N	N	D	_	_	_	_	_	_
+da-da-ta	Dada[1][-ak]-ta	PN	PN.GEN.ABL	D	_	_	_	_	_	_
+la-ni-mu	Lanimu[1]	PN	PN	D	_	_	_	_	_	_
+szu	szu[hand][-e]	N	N.L3-NH	D	B-COM	_	_	_	_	_
+ba-ti	ba[-n]-teg[accept][-ø]	V	MID.3-SG-H-A.V.3-SG-P	D	_	_	_	_	_	_
+mu	mu[year]	N	N	D	_	_	_	_	_	_
+{d}amar-{d}suen	Amarsuen[1]	RN	RN	D	_	_	_	_	_	_
+lugal	lugal[king]	N	N	D	_	_	_	_	_	_

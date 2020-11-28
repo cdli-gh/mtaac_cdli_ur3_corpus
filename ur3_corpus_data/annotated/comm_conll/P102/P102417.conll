@@ -1,0 +1,22 @@
+#new_text=P102417					
+FORM	SEGM	XPOSTAG	XPOSTAG	POS	?	?	?	?	?	?
+x	_[_]	N	N	D	_	_	_	_	_	_
+...	_[_]	PN	N	D	_	_	_	_	_	_
+5(disz)	5(disz)[one]	NU	NU	D	B-COUNT	_	none	unknown	_	none
+...	_[_]	PN	N	D	I-COUNT	*	*	*	*	*
+4(disz)	4(disz)[one]	NU	NU	D	B-COUNT	_	none	unknown	_	none
+...	_[_]	PN	N	D	I-COUNT	*	*	*	*	*
+sa2-du11	sadug[offerings]	N	N	D	_	_	_	_	_	_
+...	_[_]	PN	N	D	_	_	_	_	_	_
+x	_[_]	N	N	D	_	_	_	_	_	_
+...	_[_]	PN	N	D	_	_	_	_	_	_
+lu2	lu[person]	N	N	D	_	_	_	_	_	_
+kas4	kas[runner][-ra]	N	N.DAT-H	D	_	_	_	_	_	_
+szuszin{ki}-ta	Szuszin[1]-ta	SN	SN.ABL	D	_	_	_	_	_	_
+uri5{ki}-sze3	Urim[1]-sze	SN	SN.TERM	D	_	_	_	_	_	_
+gen-na	gen[go]-a	V	NF.V.PT	D	_	_	_	_	_	_
+iti	iti[month]	N	N	D	_	_	_	_	_	_
+ezem-{d}li9-si4	_	MN	MN	POS	_	_	_	_	_	_
+mu	mu[year]	N	N	D	_	_	_	_	_	_
+{d}amar-{d}suen	Amarsuen[1]	RN	RN	D	_	_	_	_	_	_
+lugal	lugal[king]	N	N	D	_	_	_	_	_	_

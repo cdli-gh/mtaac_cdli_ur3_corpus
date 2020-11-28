@@ -1,0 +1,15 @@
+#new_text=P500383					
+FORM	SEGM	XPOSTAG	XPOSTAG	POS	?	?	?	?	?	?
+1(disz)	1(disz)[one]	NU	NU	D	B-COUNT	_	1	cardinal	_	1
+ma2	ma[ship]	N	N	D	_	_	_	_	_	_
+ur-ma-ni	_	PN	PN	Iabc	_	_	_	_	_	_
+TUR	_			POS	_	_	_	_	_	_
+1(disz)	1(disz)[one]	NU	NU	D	B-COUNT	_	1	cardinal	_	1
+ma2	ma[ship]	N	N	D	_	_	_	_	_	_
+lugal-inim-gi-na	Lugalinimgina[1][-ak]	PN	PN	D	_	_	_	_	_	_
+szunigin	szunigin[total]	N	N	D	_	_	_	_	_	_
+5(gesz2)	5(gesz)[sixty]	NU	NU	D	B-COUNT	_	300	cardinal	_	300
+dabin	dabin[semolina]	N	N	D	B-COM	_	_	_	_	_
+gur	gur[unit]	N	N	D	_	_	_	_	_	_
+ugula	ugula[overseer][-ø]	N	N	D	_	_	_	_	_	_
+lu2-{d}ba-ba6	Lubaba[1][-ak][-ak][-ø]	PN	PN	D	_	_	_	_	_	_

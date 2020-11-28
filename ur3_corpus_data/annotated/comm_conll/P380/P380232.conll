@@ -1,0 +1,19 @@
+#new_text=P380232					
+FORM	SEGM	XPOSTAG	XPOSTAG	POS	?	?	?	?	?	?
+2(barig)	2(bariga)[unit]	NU	N	D	B-COUNT	*	*	*	*	*
+sze	sze[barley]	N	N	D	I-COUNT	*	*	*	*	*
+lugal	lugal[king]	N	N	D	_	_	_	_	_	_
+i3-dub	idub[granary]	N	N	D	_	_	_	_	_	_
+a-sza3	aszag[field]	N	N	D	_	_	_	_	_	_
+he-gal2	_	FN	FN	POS	B-COM	_	_	_	_	_
+kiszib3	kiszib[seal]	N	N	D	_	_	_	_	_	_
+lugal-e2-a-ab-tum2	_	PN	PN	Iabcdefgh	_	_	_	_	_	_
+iti	iti[month]	N	N	D	_	_	_	_	_	_
+amar-a-a-si	Amarayasi[1][-'a]	MN	MN.L1	D	_	_	_	_	_	_
+mu	mu[year]	N	N	D	_	_	_	_	_	_
+{d}amar-{d}suen	Amarsuen[1]	RN	RN	D	_	_	_	_	_	_
+lugal	lugal[king]	N	N	D	_	_	_	_	_	_
+lugal-e2-a-ab-tum2	_	PN	PN	Iabcdefgh	_	_	_	_	_	_
+dub-sar	dubsar[scribe]	N	N	D	_	_	_	_	_	_
+dumu	dumu[child]	N	N	D	_	_	_	_	_	_
+lu2-{d}igi-ma-sze3	Lu'igimasze[1]	PN	PN	D	_	_	_	_	_	_

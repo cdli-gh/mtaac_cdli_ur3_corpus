@@ -1,0 +1,14 @@
+#new_text=P340383					
+FORM	SEGM	XPOSTAG	XPOSTAG	POS	?	?	?	?	?	?
+5(disz)	5(disz)[one]	NU	NU	D	B-COUNT	_	0.08333333333333333	cardinal	_	0.08333333333333333
+gin2	gig[unit]	N	N	D	I-COUNT	*	*	*	*	*
+ku3-babbar	kugbabbar[silver]	N	N	D	B-COM	_	_	_	_	_
+dam	dam[spouse]	N	N	D	_	_	_	_	_	_
+nam-ha-ni	Namhani[1]	N	PN	D	_	_	_	_	_	_
+6(disz)	6(disz)[one][-sze]	NU	NU	D	B-COUNT	_	0.11111111111111112	cardinal	_	0.11111111111111112
+2/3(disz)	2/3(disz)[one]	NU	NU	D	I-COUNT	*	*	*	*	*
+gin2	gig[unit]	N	N	D	I-COUNT	*	*	*	*	*
+ku3-babbar	kugbabbar[silver]	N	N	D	B-COM	_	_	_	_	_
+dumu	dumu[child]	N	N	D	_	_	_	_	_	_
+ka-sa6	_	PN	PN	POS	_	_	_	_	_	_
+mu-kux(DU)	mukur[delivery][-ø]	N	N	D	_	_	_	_	_	_

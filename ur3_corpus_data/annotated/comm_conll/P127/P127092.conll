@@ -1,0 +1,27 @@
+#new_text=P127092					
+FORM	SEGM	XPOSTAG	XPOSTAG	POS	?	?	?	?	?	?
+1(u)	1(u)[ten]	NU	NU	D	B-COUNT	_	17	cardinal	_	17
+7(disz)	7(disz)[one][-sze]	NU	NU	D	I-COUNT	*	*	*	*	*
+gurusz	gurusz[male]	N	N	D	B-COM	_	_	_	_	_
+u4	ud[day]	N	N	D	_	_	_	_	_	_
+4(disz)-sze3	4(disz)[one]-sze	NU	NU.TERM	D	B-COUNT	_	4	cardinal	_	4
+kun-zi-da	kunzida[weir]	N	N	D	_	_	_	_	_	_
+ki-gu-ru-ma-ka	_	N	N	POS	_	_	_	_	_	_
+gub-ba	gub[assigned]-a[-ak][-ø]	V	NF.V.PT	D	_	_	_	_	_	_
+1(u)	1(u)[ten]	NU	NU	D	B-COUNT	_	15	cardinal	_	15
+5(disz)	5(disz)[one]	NU	NU	D	I-COUNT	*	*	*	*	*
+gurusz	gurusz[male]	N	N	D	B-COM	_	_	_	_	_
+u4	ud[day]	N	N	D	_	_	_	_	_	_
+2(disz)-sze3	2(disz)[one]-sze	NU	NU.TERM	D	B-COUNT	_	2	cardinal	_	2
+a-da	_	PN	PN	Iabcde	B-COM	_	_	_	_	_
+gub-ba	gub[assigned]-a[-ak][-ø]	V	NF.V.PT	D	_	_	_	_	_	_
+e	eg[levee]	N	N	D	_	_	_	_	_	_
+be6-la-ar-da-ma-ka	_	PN	PN	Iabcdefgh	_	_	_	_	_	_
+giri3	giri[foot]	N	N	D	_	_	_	_	_	_
+a-szi-an	Aszi'an[1][-ak]	PN	PN.GEN	D	_	_	_	_	_	_
+ugula	ugula[overseer][-ø]	N	N	D	_	_	_	_	_	_
+lugal-mu-ma-ag2	Lugalmumag[1][-ø]	PN	PN.ABS	D	_	_	_	_	_	_
+mu	mu[year]	N	N	D	_	_	_	_	_	_
+{d}amar-{d}suen	Amarsuen[1]	RN	RN	D	_	_	_	_	_	_
+lugal	lugal[king]	N	N	D	_	_	_	_	_	_
+a-szi-an	Aszi'an[1][-ak]	PN	PN.GEN	D	_	_	_	_	_	_

@@ -1,0 +1,26 @@
+#new_text=P121391					
+FORM	SEGM	XPOSTAG	XPOSTAG	POS	B-COUNT	l	300	"liquid	*	*
+1(u)	1(u)[ten]	NU	NU	D	I-COUNT	*	*	*	sila3	300
+dug	dug[pot]	N	N	D	I-COUNT	*	*	*	*	*
+*RETOK*-capacity"	?	?	?	?	B-COUNT	l	30	"dry	*	*
+3(ban2)	3(ban)[unit]	NU	N	D	I-COUNT	*	*	*	sila3	30
+*RETOK*-capacity"	?	?	?	?	B-COUNT	l	300	"liquid	*	*
+1(u)	1(u)[ten]	NU	NU	D	I-COUNT	*	*	*	sila3	300
+dug	dug[pot]	N	N	D	I-COUNT	*	*	*	*	*
+*RETOK*-capacity"	?	?	?	?	B-COUNT	l	30	"dry	*	*
+3(ban2)	3(ban)[unit]	NU	N	D	I-COUNT	*	*	*	sila3	30
+esir2-bi	_	N	N.GEN.ABS	Iabcdefg	B-COM	_	_	_	_	_
+*RETOK*-capacity"	?	?	?	?	B-COUNT	l	60	"dry	*	*
+1(barig)	1(bariga)[unit]	NU	N	D	I-COUNT	*	*	*	sila3	60
+al-kal-kal-ga	_	PN	PN	POS	_	_	_	_	_	_
+zi3-gu	zidgu[flour_type]	N	N	D	B-COM	_	_	_	_	_
+se-ge5-de3	_	V	NF.V.PF.DAT-NH	Iabcdefg	_	_	_	_	_	_
+ki	ki[place]	N	N	D	_	_	_	_	_	_
+lu2-dingir-ra-ta	Ludingira[1][-ak]-ta	PN	PN.GEN.ABL	D	_	_	_	_	_	_
+kiszib3	kiszib[seal]	N	N	D	_	_	_	_	_	_
+lugal-nam-tar-re	_	FN	FN	POS	_	_	_	_	_	_
+lugal-nam-tar-re	_	FN	FN	POS	_	_	_	_	_	_
+dub-sar	dubsar[scribe]	N	N	D	_	_	_	_	_	_
+dumu	dumu[child]	N	N	D	_	_	_	_	_	_
+ur2-ra-dingir	_	PN	PN.GEN.DAT-H	Iab	_	_	_	_	_	_
+gu-za-la2	guzala[throne_bearer]	N	N	D	_	_	_	_	_	_

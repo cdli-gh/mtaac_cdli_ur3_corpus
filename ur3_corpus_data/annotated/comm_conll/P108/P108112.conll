@@ -1,0 +1,19 @@
+#new_text=P108112					
+FORM	SEGM	XPOSTAG	XPOSTAG	POS	?	?	?	?	?	?
+5(disz)	5(disz)[one]	NU	NU	D	B-COUNT	g	2500.0	weight	gin2	300
+ma-na	mana[unit]	N	N	D	I-COUNT	*	*	*	*	*
+siki-gi	sikigi[wool_type]	N	N	D	_	_	_	_	_	_
+ki	ki[place]	N	N	D	B-COM	_	_	_	_	_
+ur-{d}szara2-ta	Urszara[1][-ak]-ta	PN	PN.GEN.ABL	D	_	_	_	_	_	_
+kiszib3	kiszib[seal]	N	N	D	_	_	_	_	_	_
+{d}szara2-ba-zi-ge	Szarabazige[1][-ra]	PN	PN.DAT-H	D	_	_	_	_	_	_
+mu	mu[year]	N	N	D	_	_	_	_	_	_
+x	_[_]	N	N	D	_	_	_	_	_	_
+x	_[_]	N	N	D	_	_	_	_	_	_
+x	_[_]	N	N	D	_	_	_	_	_	_
+ur-{d}li9-si4	Urlisi[1]	PN	PN	D	_	_	_	_	_	_
+ensi2	ensik[ruler]	N	N	D	_	_	_	_	_	_
+umma{ki}	Umma[1][-ak][-ø]	SN	SN.GEN.ABS	D	_	_	_	_	_	_
+{d}szara2-ba-zi-ge	Szarabazige[1][-ra]	PN	PN.DAT-H	D	_	_	_	_	_	_
+dub-sar	dubsar[scribe]	N	N	D	_	_	_	_	_	_
+ARAD2-zu	arad[slave]-zu[-ø]	PN	N.2-SG-POSS.ABS	D	_	_	_	_	_	_

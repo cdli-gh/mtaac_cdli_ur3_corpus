@@ -1,0 +1,24 @@
+#new_text=P108795					
+FORM	SEGM	XPOSTAG	XPOSTAG	POS	?	?	?	?	?	?
+x	_[_]	N	N	D	_	_	_	_	_	_
+1(u)	1(u)[ten]	NU	NU	D	B-COUNT	_	15	cardinal	_	15
+5(disz)	5(disz)[one]	NU	NU	D	I-COUNT	*	*	*	*	*
+{ansze}kunga2-nita2	_	PN	PN	POS	_	_	_	_	_	_
+2(u)	2(u)[ten]	NU	NU	D	B-COUNT	_	25	cardinal	_	25
+5(disz)	5(disz)[one]	NU	NU	D	I-COUNT	*	*	*	*	*
+{ansze}kunga2-munus	_	N	N	Ia	_	_	_	_	_	_
+sza3	szag[heart]	N	N	D	_	_	_	_	_	_
+mu-kux(DU)	mukur[delivery][-ø]	N	N	D	_	_	_	_	_	_
+zabar-dab5	zabardab[official][-e]	N	N	D	_	_	_	_	_	_
+ki	ki[place]	N	N	D	B-COM	_	_	_	_	_
+na-ra-am-i3-li2-ta	_	PN	PN.GEN.ABL	Iab	_	_	_	_	_	_
+mu	mu[year]	N	N	D	_	_	_	_	_	_
+x-...-ne-sze3	_			POS	_	_	_	_	_	_
+e2-a-i3-li2	E’a’ili[1][-e]	PN	PN.ERG	D	_	_	_	_	_	_
+i3-dab5	i[-n]-dab[seize][-ø]	V	FIN.3-SG-H-A.V.3-SG-P	D	_	_	_	_	_	_
+iti	iti[month]	N	N	D	_	_	_	_	_	_
+ezem-{d}nin-a-zu	Ezemninazu[1][-'a]	MN	MN.L1	D	_	_	_	_	_	_
+mu	mu[year]	N	N	D	_	_	_	_	_	_
+us2-sa	us[follow]-a	V	NF.V.PT	D	_	_	_	_	_	_
+ki-masz{ki}	Kimasz[1]	SN	SN.ABS	D	_	_	_	_	_	_
+ba-hul	ba-hulu[destroy][-ø]	V	MID.V.3-SG-S	D	_	_	_	_	_	_

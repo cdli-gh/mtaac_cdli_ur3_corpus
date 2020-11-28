@@ -1,0 +1,24 @@
+#new_text=P291835					
+FORM	SEGM	XPOSTAG	XPOSTAG	POS	?	?	?	?	?	?
+2(u)	2(u)[ten]	NU	NU	D	B-COUNT	_	22	cardinal	_	22
+2(disz)	2(disz)[one]	NU	NU	D	I-COUNT	*	*	*	*	*
+tug2	tug[textile]	N	N	D	B-COM	_	_	_	_	_
+u2	u[grass]	N	N	D	_	_	_	_	_	_
+ki-la2-bi	kila[weight]-bi[-ø]	N	N.3-SG-NH-POSS.ABS	D	_	_	_	_	_	_
+1(asz)	1(asz)[one]	NU	NU	D	B-COUNT	g	36500.0	weight	gin2	4380
+gu2	gun[unit]	N	N	D	I-COUNT	*	*	*	*	*
+1(u)	1(u)[ten]	NU	NU	D	I-COUNT	*	*	*	*	*
+3(disz)	3(disz)[one]	NU	NU	D	I-COUNT	*	*	*	*	*
+ma-na	mana[unit]	N	N	D	I-COUNT	*	*	*	*	*
+siki	siki[wool][-'a]	N	N	D	B-COM	_	_	_	_	_
+szu-pesz5-a	_	N	N	POS	_	_	_	_	_	_
+tug2	tug[textile]	N	N	D	_	_	_	_	_	_
+ki-la2	kila[weight][-ø]	N	N	D	_	_	_	_	_	_
+tag-ga	tag[weigh]-a	V	NF.V.PT	D	_	_	_	_	_	_
+ki	ki[place]	N	N	D	_	_	_	_	_	_
+lugal-e2-mah-e-ta	_	PN	PN.GEN.ABL	Iab	_	_	_	_	_	_
+i3-kal-la	Ikala[1][-ak]	PN	PN	D	_	_	_	_	_	_
+in-la2	i-n-la[weigh][-esz]	V	FIN.3-SG-H-A.V.3-SG-P	D	_	_	_	_	_	_
+mu	mu[year]	N	N	D	_	_	_	_	_	_
+en-mah-gal-an-na	Enmahgalana[1]	PN	PN	D	_	_	_	_	_	_
+ba-hun	ba-hug[hire][-ø]	V	MID.V.3-SG-S	D	_	_	_	_	_	_

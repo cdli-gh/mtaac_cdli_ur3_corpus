@@ -1,0 +1,26 @@
+#new_text=P133267					
+FORM	SEGM	XPOSTAG	XPOSTAG	POS	?	?	?	?	?	?
+1(gesz2)	1(gesz)[sixty]	NU	NU	D	B-COUNT	g	57000.00000000001	weight	gin2	6840
+5(u)	5(u)[ten]	NU	NU	D	I-COUNT	*	*	*	*	*
+4(disz)	4(disz)[one]	NU	NU	D	I-COUNT	*	*	*	*	*
+ma-na	mana[unit]	N	N	D	I-COUNT	*	*	*	*	*
+siki	siki[wool][-'a]	N	N	D	B-COM	_	_	_	_	_
+da-da-mu	_	PN	PN	Iabcde	_	_	_	_	_	_
+dumu	dumu[child]	N	N	D	_	_	_	_	_	_
+ARAD2-mu	Aradmu[1]	PN	PN	D	_	_	_	_	_	_
+gudu4	gudug[priest]	N	N	D	_	_	_	_	_	_
+sag	sag[head]	N	N	D	_	_	_	_	_	_
+ur-{d}hendur-sag-sze3	_	PN	PN.GEN.TERM	Iabcdef	_	_	_	_	_	_
+1(gesz2)	1(gesz)[sixty]	NU	NU	D	B-COUNT	_	64	cardinal	_	64
+4(disz)	4(disz)[one]	NU	NU	D	I-COUNT	*	*	*	*	*
+ab-ba-mu	Abbamu[1][-ak][-ak]	PN	PN.GEN.GEN	D	_	_	_	_	_	_
+dumu	dumu[child]	N	N	D	_	_	_	_	_	_
+nig2-u2-rum	Nigurum[1][-e]	N	PN	D	_	_	_	_	_	_
+sag	sag[head]	N	N	D	_	_	_	_	_	_
+lugal-ra-gaba-sze3	_	N	N	POS	_	_	_	_	_	_
+u2	u[grass]	N	N	D	B-COM	_	_	_	_	_
+IL2-me	_	PN	PN.DAT-H	Iabcdefgh	_	_	_	_	_	_
+e2	e[house]	N	N	D	_	_	_	_	_	_
+{d}dumu-zi	Dumuzi[1][-'a]	MN	MN.L1	D	_	_	_	_	_	_
+sza3	szag[heart]	N	N	D	_	_	_	_	_	_
+ki-nu-nir{ki}	Kinunir[1][-ak][-'a]	GN	SN.GEN.L1	D	_	_	_	_	_	_

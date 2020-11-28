@@ -1,0 +1,12 @@
+#new_text=P380046					
+FORM	SEGM	XPOSTAG	XPOSTAG	POS	?	?	?	?	?	?
+1(disz)	1(disz)[one]	NU	NU	D	B-COUNT	_	1	cardinal	_	1
+lu2-{d}utu	Lu'utu[1]	PN	PN	D	_	_	_	_	_	_
+dumu	dumu[child]	N	N	D	_	_	_	_	_	_
+ur-{gesz}gigir	Urgigir[1]	PN	PN	D	B-COM	_	_	_	_	_
+ugula	ugula[overseer][-ø]	N	N	D	_	_	_	_	_	_
+lu2-{d}gir16-da	_	PN	PN	Iabcde	_	_	_	_	_	_
+nu-banda3	nubanda[overseer][-ø]	N	N	D	_	_	_	_	_	_
+ur-{d}nin-ma-da	_	PN	PN	Iabcde	_	_	_	_	_	_
+e2	e[house]	N	N	D	_	_	_	_	_	_
+{d}nin-gir2-su	Ningirsu[1][-ak][-ak]	DN	DN	D	_	_	_	_	_	_

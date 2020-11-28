@@ -1,0 +1,14 @@
+#new_text=P103266					
+FORM	SEGM	XPOSTAG	XPOSTAG	POS	?	?	?	?	?	?
+2(u)	2(u)[ten]	NU	NU	D	B-COUNT	_	21	cardinal	_	21
+1(disz)	1(disz)[one]	NU	NU	D	I-COUNT	*	*	*	*	*
+gu4-gesz	gudgesz[draught_ox]	N	N.ABS	D	_	_	_	_	_	_
+hi-a	hi[mix]-a[-ø]	V	NF.V.PT	D	B-COM	_	_	_	_	_
+1(u)	1(u)[ten]	NU	NU	D	B-COUNT	_	15	cardinal	_	15
+5(disz)	5(disz)[one]	NU	NU	D	I-COUNT	*	*	*	*	*
+ansze-gesz	_	N	N	Ia	_	_	_	_	_	_
+hi-a	hi[mix]-a[-ø]	V	NF.V.PT	D	B-COM	_	_	_	_	_
+la2-ia3	la'u[arrears]	N	N	D	_	_	_	_	_	_
+engar	engar[farmer]	N	N	D	_	_	_	_	_	_
+1(u)	1(u)[ten]	NU	NU	D	B-COUNT	_	10	cardinal	_	10
+5(disz)-kam	5(disz)[one]-ak-am[-ak][-ø]	NU	NU.GEN.COP-3-SG	D	B-COUNT	_	5	cardinal	_	5

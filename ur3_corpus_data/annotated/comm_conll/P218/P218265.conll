@@ -1,0 +1,24 @@
+#new_text=P218265					
+FORM	SEGM	XPOSTAG	XPOSTAG	POS	?	?	?	?	?	?
+2(gesz2)	2(gesz)[sixty]	NU	NU	D	B-COUNT	_	121	cardinal	_	121
+1(disz)	1(disz)[one]	NU	NU	D	I-COUNT	*	*	*	*	*
+ba-usz2	ba-ug[die][-esz]	V	MID.V.PL.3-PL-S	D	B-COM	_	_	_	_	_
+nun	_	N	N	D	_	_	_	_	_	_
+2(disz)	2(disz)[one]	NU	NU	D	B-COUNT	_	none	unknown	_	none
+x	_[_]	N	N	D	I-COUNT	*	*	*	*	*
+2(disz)	2(disz)[one]	NU	NU	D	I-COUNT	*	*	*	*	*
+nam	_	N	N.ABS	D	_	_	_	_	_	_
+mu	mu[year]	N	N	D	_	_	_	_	_	_
+...	_[_]	PN	N	D	_	_	_	_	_	_
+masz2	masz[goat]	N	N	D	B-COM	_	_	_	_	_
+hu-nu-nu-ur	_	PN	PN	Iabcde	_	_	_	_	_	_
+8(disz)	8(disz)[one]	NU	NU	D	B-COUNT	_	8	cardinal	_	8
+zi-ga-am3	zig[expend]-a[-ø]-am	N	NF.V.PT.ABS.COP-3-SG	D	_	_	_	_	_	_
+1(u)	1(u)[ten]	NU	NU	D	B-COUNT	_	11	cardinal	_	11
+1(disz)	1(disz)[one]	NU	NU	D	I-COUNT	*	*	*	*	*
+udu	udu[sheep]	N	N	D	B-COM	_	_	_	_	_
+...	_[_]	PN	N	D	_	_	_	_	_	_
+x	_[_]	N	N	D	_	_	_	_	_	_
+x	_[_]	N	N	D	_	_	_	_	_	_
+x	_[_]	N	N	D	_	_	_	_	_	_
+u4	ud[day]	N	N	D	_	_	_	_	_	_

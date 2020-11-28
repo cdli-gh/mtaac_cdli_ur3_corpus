@@ -1,0 +1,28 @@
+#new_text=P378653					
+FORM	SEGM	XPOSTAG	XPOSTAG	POS	B-COUNT	l	0.00018518518518518518	"dry	*	*
+2(asz)	2(asz)[one]	NU	NU	D	I-COUNT	*	*	*	sila3	0.00018518518518518518
+sze	sze[barley]	N	N	D	I-COUNT	*	*	*	*	*
+gur	gur[unit]	N	N	D	I-COUNT	*	*	*	*	*
+lugal	lugal[king]	N	N	D	_	_	_	_	_	_
+sze	sze[barley]	N	N	D	B-COM	_	_	_	_	_
+zi3	zid[flour]	N	N	D	_	_	_	_	_	_
+KA-sze3	KA[flour type]-sze	N	N.TERM	D	_	_	_	_	_	_
+ki	ki[place]	N	N	D	_	_	_	_	_	_
+i3-kal-la	Ikala[1][-ak]	PN	PN	D	_	_	_	_	_	_
+dumu	dumu[child]	N	N	D	_	_	_	_	_	_
+ur-{d}lamma-ta	Urlamma[1][-ak]-ta	PN	PN.GEN.ABL	D	_	_	_	_	_	_
+kiszib3	kiszib[seal]	N	N	D	_	_	_	_	_	_
+sa6-sa6-ga	_	PN	PN	POS	_	_	_	_	_	_
+giri3	giri[foot]	N	N	D	_	_	_	_	_	_
+ab-ba-kal-la	Abbakala[1][-ak][-ak]	PN	PN	D	_	_	_	_	_	_
+dumu	dumu[child]	N	N	D	_	_	_	_	_	_
+sanga	sagga[temple_administrator]	N	N	D	_	_	_	_	_	_
+uru11{ki}	_	SN	SN.GEN.ABS	D	_	_	_	_	_	_
+mu	mu[year]	N	N	D	_	_	_	_	_	_
+us2-sa	us[follow]-a	V	NF.V.PT	D	_	_	_	_	_	_
+ki-masz{ki}	Kimasz[1]	SN	SN.ABS	D	_	_	_	_	_	_
+ba-hul	ba-hulu[destroy][-ø]	V	MID.V.3-SG-S	D	_	_	_	_	_	_
+ur-{d}nansze	Urnansze[1]	PN	PN	D	_	_	_	_	_	_
+dub-sar	dubsar[scribe]	N	N	D	_	_	_	_	_	_
+dumu	dumu[child]	N	N	D	_	_	_	_	_	_
+ur-sukkal	_	PN	PN	Iabcde	_	_	_	_	_	_

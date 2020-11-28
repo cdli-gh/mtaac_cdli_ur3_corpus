@@ -1,0 +1,21 @@
+#new_text=P107144					
+FORM	SEGM	XPOSTAG	XPOSTAG	POS	B-COUNT	l	1500	"dry	*	*
+5(asz)	5(asz)[one]	NU	NU	D	I-COUNT	*	*	*	sila3	1500
+gur	gur[unit]	N	N	D	I-COUNT	*	*	*	*	*
+lugal	lugal[king]	N	N	D	_	_	_	_	_	_
+*RETOK*-capacity"	?	?	?	?	B-COUNT	l	140	"dry	*	*
+2(barig)	2(bariga)[unit]	NU	N	D	I-COUNT	*	*	*	sila3	140
+2(ban2)	2(ban)[unit]	NU	N	D	I-COUNT	*	*	*	*	*
+zu2-lum	zulum[date]	N	N	D	B-COM	_	_	_	_	_
+{gesz}kiri6	kiri[orchard][-'a][-ø]	N	N	D	_	_	_	_	_	_
+kab2-du11-ga	kabdug[check]-a	V	NF.V.PT	D	_	_	_	_	_	_
+nin-dingir	_	PN	N	D	_	_	_	_	_	_
+{d}hendur-sag	Hendursag[1]	PN	DN	D	_	_	_	_	_	_
+sza3	szag[heart]	N	N	D	_	_	_	_	_	_
+nigin6{ki}	_	SN	SN.GEN.GEN.TERM	Iabcdefgh	_	_	_	_	_	_
+mu	mu[year]	N	N	D	_	_	_	_	_	_
+us2-sa	us[follow]-a	V	NF.V.PT	D	_	_	_	_	_	_
+puzur4-isz-da-gan	_	SN	SN.ABS	Iab	_	_	_	_	_	_
+ba-du3	ba-du[build][-ø]	V	MID.V.3-SG-S	D	_	_	_	_	_	_
+mu	mu[year]	N	N	D	_	_	_	_	_	_
+us2-a-bi	_	V	NF.V.PT.3-SG-NH-POSS	Iabcdef	_	_	_	_	_	_

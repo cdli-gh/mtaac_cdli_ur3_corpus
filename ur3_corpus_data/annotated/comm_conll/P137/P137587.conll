@@ -1,0 +1,15 @@
+#new_text=P137587					
+FORM	SEGM	XPOSTAG	XPOSTAG	POS	?	?	?	?	?	?
+3(u)	3(u)[ten]	NU	NU	D	B-COUNT	_	32	cardinal	_	32
+2(disz)	2(disz)[one]	NU	NU	D	I-COUNT	*	*	*	*	*
+kusz	kusz[leather]	N	N	D	B-COM	_	_	_	_	_
+gu4	gud[ox]	N	N	D	_	_	_	_	_	_
+e2-kiszib3-ba-ta	_	TN	TN	POS	_	_	_	_	_	_
+{d}utu-bar-ra	Utubara[1][-e]	PN	PN.ERG	D	_	_	_	_	_	_
+u3	u[and]	CNJ	CNJ	D	_	_	_	_	_	_
+lu2-me-lam2	_	PN	PN.GEN.ABL	Iabcdefgh	_	_	_	_	_	_
+iti	iti[month]	N	N	D	_	_	_	_	_	_
+ses-da-gu7	Sesdagu[1][-'a]	MN	MN.L1	D	_	_	_	_	_	_
+mu	mu[year]	N	N	D	_	_	_	_	_	_
+sza-asz-ru{ki}	Szaszru[1][-ø]	SN	SN.ABS	D	_	_	_	_	_	_
+ba-hul	ba-hulu[destroy][-ø]	V	MID.V.3-SG-S	D	_	_	_	_	_	_

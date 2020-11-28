@@ -1,0 +1,26 @@
+#new_text=P145209					
+FORM	SEGM	XPOSTAG	XPOSTAG	POS	?	?	?	?	?	?
+2(disz)	2(disz)[one]	NU	NU	D	B-COUNT	g	1000.0000000000001	weight	gin2	120
+ma-na	mana[unit]	N	N	D	I-COUNT	*	*	*	*	*
+gu	gu[cord]	N	N	D	B-COM	_	_	_	_	_
+gada	gada[flax]	N	N	D	_	_	_	_	_	_
+...	_[_]	PN	N	D	_	_	_	_	_	_
+a2-an	_	N	N	Ia	_	_	_	_	_	_
+{gesz}ban-na	_	N	N	Ia	_	_	_	_	_	_
+siki-ba-sze3	_	N	N.3-SG-H-POSS.GEN.GEN.TERM	Iabcdefg	_	_	_	_	_	_
+giri3	giri[foot]	N	N	D	_	_	_	_	_	_
+ur-zigum	_	PN	PN.GEN.ABL	Iabcdefgh	_	_	_	_	_	_
+lu2	lu[person]	N	N	D	_	_	_	_	_	_
+na4	_	FN	FN	POS	_	_	_	_	_	_
+{gesz}ban-na	_	N	N	Ia	_	_	_	_	_	_
+zi-ga	zig[expend]-a	V	NF.V.PT	D	_	_	_	_	_	_
+ki	ki[place]	N	N	D	_	_	_	_	_	_
+ur-{d}szul-gi-ra	_	PN	PN	D	_	_	_	_	_	_
+dub-sar-ta	_	N	N.ABL	Iabcde	_	_	_	_	_	_
+mu	mu[year]	N	N	D	_	_	_	_	_	_
+tu-ki-in-PA-mi-ig-ri-sza	_	PN	PN	Ia	_	_	_	_	_	_
+dumu-munus	dumumunus[daughter]	N	N	D	_	_	_	_	_	_
+lugal	lugal[king]	N	N	D	_	_	_	_	_	_
+ensi2	ensik[ruler]	N	N	D	_	_	_	_	_	_
+za-ab-sza-li{ki}-ke4	_	SN	SN.GEN.GEN.ERG	Iabcdef	_	_	_	_	_	_
+ba-an-tuku	_	V	MID.3-SG-H.DAT.V.3-SG-S	Iabcdefg	_	_	_	_	_	_

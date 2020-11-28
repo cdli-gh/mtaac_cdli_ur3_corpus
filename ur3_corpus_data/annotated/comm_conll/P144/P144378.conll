@@ -1,0 +1,25 @@
+#new_text=P144378					
+FORM	SEGM	XPOSTAG	XPOSTAG	POS	B-COUNT	l	0.0004629629629629629	"dry	*	*
+5(asz)	5(asz)[one]	NU	NU	D	I-COUNT	*	*	*	sila3	0.0004629629629629629
+sze	sze[barley]	N	N	D	I-COUNT	*	*	*	*	*
+gur	gur[unit]	N	N	D	I-COUNT	*	*	*	*	*
+lugal	lugal[king]	N	N	D	_	_	_	_	_	_
+kiszib3	kiszib[seal]	N	N	D	_	_	_	_	_	_
+{d}szara2-za-me	Szarazame[1][-ak]	PN	PN.GEN	D	_	_	_	_	_	_
+*RETOK*-capacity"	?	?	?	?	B-COUNT	l	1500	"dry	*	*
+5(asz)	5(asz)[one]	NU	NU	D	I-COUNT	*	*	*	sila3	1500
+gur	gur[unit]	N	N	D	I-COUNT	*	*	*	*	*
+kiszib3	kiszib[seal]	N	N	D	_	_	_	_	_	_
+lu2-bala-saga	_	PN	PN	Ia	_	_	_	_	_	_
+e2-kikken	_	TN	TN	POS	_	_	_	_	_	_
+gibil	gibil[new][-ø]	V	NF.V.ABS	D	_	_	_	_	_	_
+e2	e[house]	N	N	D	_	_	_	_	_	_
+gu2	gun[unit]	N	N	D	_	_	_	_	_	_
+i7-da-ta	id[river]-ak-ta	PN	N.GEN.ABL	D	_	_	_	_	_	_
+iti	iti[month]	N	N	D	_	_	_	_	_	_
+sig4-{gesz}i3-szub-ba-gar	Sigiszubbagar[1][-'a]	MN	MN.L1	D	B-COM	_	_	_	_	_
+mu	mu[year]	N	N	D	_	_	_	_	_	_
+us2-sa	us[follow]-a	V	NF.V.PT	D	_	_	_	_	_	_
+en	en[priest]	N	N	D	_	_	_	_	_	_
+ga-esz{ki}	Ga'esz[1][-ak][-ø]	SN	SN.GEN.ABS	D	_	_	_	_	_	_
+ba-hun	ba-hug[hire][-ø]	V	MID.V.3-SG-S	D	_	_	_	_	_	_

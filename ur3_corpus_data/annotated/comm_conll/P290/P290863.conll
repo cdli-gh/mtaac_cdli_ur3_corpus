@@ -1,0 +1,25 @@
+#new_text=P290863					
+FORM	SEGM	XPOSTAG	XPOSTAG	POS	?	?	?	?	?	?
+1(asz)	1(asz)[one]	NU	NU	D	B-COUNT	g	30000.000000000004	weight	gin2	3600
+gu2	gun[unit]	N	N	D	I-COUNT	*	*	*	*	*
+mangaga	_	N	N	Ia	B-COM	_	_	_	_	_
+kin	kig[work]	N	N	D	_	_	_	_	_	_
+la2	la[hang][-ø]	V	NF.V.ABS	D	_	_	_	_	_	_
+al	al[hoeing]	N	N	D	_	_	_	_	_	_
+IL2-sze3	_			POS	_	_	_	_	_	_
+ki	ki[place]	N	N	D	_	_	_	_	_	_
+lu2-dingir-ra-ka-sze3	_	PN	PN.GEN.TERM	Iabcdefg	_	_	_	_	_	_
+ki	ki[place]	N	N	D	_	_	_	_	_	_
+ur-{d}szul-pa-e3-ta	Urszulpa'e[1][-ak]-ta	PN	PN.GEN.ABL	D	_	_	_	_	_	_
+kiszib3	kiszib[seal]	N	N	D	_	_	_	_	_	_
+ur-ama-na	Uramana[1]	PN	PN	D	_	_	_	_	_	_
+iti	iti[month]	N	N	D	_	_	_	_	_	_
+pa4-u2-e	Pa'u'e[1][-'a]	MN	MN.L1	D	_	_	_	_	_	_
+mu	mu[year]	N	N	D	_	_	_	_	_	_
+{d}amar-{d}suen	Amarsuen[1]	RN	RN	D	_	_	_	_	_	_
+lugal	lugal[king]	N	N	D	_	_	_	_	_	_
+ur-ama-na	Uramana[1]	PN	PN	D	_	_	_	_	_	_
+dub-sar	dubsar[scribe]	N	N	D	_	_	_	_	_	_
+dumu	dumu[child]	N	N	D	_	_	_	_	_	_
+ur-{gesz}gigir	Urgigir[1]	PN	PN	D	_	_	_	_	_	_
+sza3-tam	_	N	N.ABS	D	_	_	_	_	_	_

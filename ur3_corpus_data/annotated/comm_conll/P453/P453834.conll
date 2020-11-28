@@ -1,0 +1,27 @@
+#new_text=P453834					
+FORM	SEGM	XPOSTAG	XPOSTAG	POS	?	?	?	?	?	?
+pisan-dub-ba	bisagdubak[filing_basket]	N	N	D	_	_	_	_	_	_
+nig2-ka9-ak	nigSZID[account]	N	N	D	_	_	_	_	_	_
+siki	siki[wool][-'a]	N	N	D	_	_	_	_	_	_
+geme2	geme[female_worker]	N	N	D	_	_	_	_	_	_
+usz-bar	uszbar[weaver][-ak]	N	N	D	_	_	_	_	_	_
+u3	u[and]	CNJ	CNJ	D	_	_	_	_	_	_
+lu2	lu[person]	N	N	D	_	_	_	_	_	_
+hun-ga2-ne	_	V	NF.V.PT	Iabcdefgh	_	_	_	_	_	_
+mu	mu[year]	N	N	D	_	_	_	_	_	_
+{d}szu-{d}suen	Szusuen[1]	RN	RN	D	_	_	_	_	_	_
+lugal	lugal[king]	N	N	D	_	_	_	_	_	_
+uri5{ki}-ma-ke4	Urim[1]-ak-e	SN	SN.GEN.ERG	D	_	_	_	_	_	_
+na-ru2-a-mah	naruamah[magnificent_stele][-ø]	PN	N.ABS	D	_	_	_	_	_	_
+{d}en-lil2	Enlil[1]	DN	DN	D	_	_	_	_	_	_
+{d}nin-lil2-ra	Ninlil[1]-ra	DN	DN.DAT-H	D	_	_	_	_	_	_
+mu-ne-du3-ta	_	V	VEN.3-PL.DAT.3-SG-H-A.V.3-SG-P	Iabcdefgh	_	_	_	_	_	_
+mu	mu[year]	N	N	D	_	_	_	_	_	_
+za-ab-sza-li{ki}-sze3	_	SN	SN.GEN.GEN.TERM	Iabcdef	_	_	_	_	_	_
+mu-bi	mu[name]-bi[-ø]	N	N.3-SG-NH-POSS.ABS.COP-3-SG	D	_	_	_	_	_	_
+mu	mu[year]	N	N	D	_	_	_	_	_	_
+2(disz)-am3	2(disz)[one][-ø]-am	NU	NU.ABS.COP-3-SG	D	B-COUNT	_	2	cardinal	_	2
+iti-bi	iti[month]-bi[-ø]	N	N.3-SG-NH-POSS.ABS	D	_	_	_	_	_	_
+iti	iti[month]	N	N	D	_	_	_	_	_	_
+2(u)	2(u)[ten]	NU	NU	D	B-COUNT	_	24	cardinal	_	24
+4(disz)-am3	4(disz)[one][-ø]-am	NU	NU.ABS.COP-3-SG	D	I-COUNT	*	*	*	*	*

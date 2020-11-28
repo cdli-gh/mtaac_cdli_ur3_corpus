@@ -1,0 +1,24 @@
+#new_text=P107471					
+FORM	SEGM	XPOSTAG	XPOSTAG	POS	?	?	?	?	?	?
+6(disz)	6(disz)[one][-sze]	NU	NU	D	B-COUNT	_	6	cardinal	_	6
+gurusz	gurusz[male]	N	N	D	B-COM	_	_	_	_	_
+sza3-gu4	szagu[ox-driver]	PN	N	D	_	_	_	_	_	_
+u4	ud[day]	N	N	D	_	_	_	_	_	_
+6(disz)-sze3	6(disz)[one]-sze	NU	NU.TERM	D	B-COUNT	_	6	cardinal	_	6
+gu7	_	V	NF.V.PF.F.3-SG-H-POSS.L1	Iabcdefg	B-COM	_	_	_	_	_
+i7	id[river]	N	N	D	_	_	_	_	_	_
+e2-ansze-ka-sze3	_	WN	WN	POS	_	_	_	_	_	_
+u2	u[grass]	N	N	D	_	_	_	_	_	_
+ga6	_	N	N	POS	_	_	_	_	_	_
+kiszib3	kiszib[seal]	N	N	D	_	_	_	_	_	_
+lu2-{d}szara2	Luszara[1][-ak]	PN	PN	D	_	_	_	_	_	_
+ugula	ugula[overseer][-ø]	N	N	D	_	_	_	_	_	_
+lugal-ezem	Lugalezem[1]	PN	PN	D	_	_	_	_	_	_
+mu	mu[year]	N	N	D	_	_	_	_	_	_
+en	en[priest]	N	N	D	_	_	_	_	_	_
+eridu{ki}	Eridug[1][-ak][-ø]	SN	SN.GEN.ABS	D	_	_	_	_	_	_
+ba-hun	ba-hug[hire][-ø]	V	MID.V.3-SG-S	D	_	_	_	_	_	_
+lu2-{d}szara2	Luszara[1][-ak]	PN	PN	D	_	_	_	_	_	_
+dub-sar	dubsar[scribe]	N	N	D	_	_	_	_	_	_
+dumu	dumu[child]	N	N	D	_	_	_	_	_	_
+la-gi-ip	_	PN	PN.GEN.ABL	Iabcdefgh	_	_	_	_	_	_

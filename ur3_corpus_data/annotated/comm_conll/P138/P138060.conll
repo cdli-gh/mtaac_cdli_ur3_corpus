@@ -1,0 +1,23 @@
+#new_text=P138060					
+FORM	SEGM	XPOSTAG	XPOSTAG	POS	?	?	?	?	?	?
+1(u)	1(u)[ten]	NU	NU	D	B-COUNT	_	15	cardinal	_	15
+5(disz)	5(disz)[one]	NU	NU	D	I-COUNT	*	*	*	*	*
+tug2	tug[textile]	N	N	D	B-COM	_	_	_	_	_
+sag	sag[head]	N	N	D	_	_	_	_	_	_
+usz-bar	uszbar[weaver][-ak]	N	N	D	_	_	_	_	_	_
+tug2	tug[textile]	N	N	D	_	_	_	_	_	_
+u3-x	_	PN	PN.DAT-H	Iab	_	_	_	_	_	_
+szabra-ke4-ne	_	N	N.GEN.PL	Iabcde	_	_	_	_	_	_
+inim	inim[word]	N	N	D	_	_	_	_	_	_
+szu-ku8-bu-um-ta	_	PN	PN.GEN.ABL	Iabcdefgh	_	_	_	_	_	_
+giri3	giri[foot]	N	N	D	_	_	_	_	_	_
+ku3-{d}nanna	Kugnanna[1]	PN	PN	D	_	_	_	_	_	_
+sukkal	sukkal[secretary][-ak][-ra]	N	N	D	_	_	_	_	_	_
+tug2-ba	_	N	N	Ia	_	_	_	_	_	_
+zi-ga	zig[expend]-a	V	NF.V.PT	D	_	_	_	_	_	_
+iti	iti[month]	N	N	D	_	_	_	_	_	_
+szu-esz5-sza	Szu'eszsza[1][-'a]	MN	MN.L1	D	_	_	_	_	_	_
+mu	mu[year]	N	N	D	_	_	_	_	_	_
+x	_[_]	N	N	D	_	_	_	_	_	_
+x	_[_]	N	N	D	_	_	_	_	_	_
+x	_[_]	N	N	D	_	_	_	_	_	_

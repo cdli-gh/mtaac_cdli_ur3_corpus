@@ -1,0 +1,29 @@
+#new_text=P100814					
+FORM	SEGM	XPOSTAG	XPOSTAG	POS	?	?	?	?	?	?
+2(u)	2(u)[ten]	NU	NU	D	B-COUNT	g	767833.3333333334	weight	gin2	92140.0
+5(asz)	5(asz)[one]	NU	NU	D	I-COUNT	*	*	*	*	*
+gu2	gun[unit]	N	N	D	I-COUNT	*	*	*	*	*
+3(u)	3(u)[ten]	NU	NU	D	I-COUNT	*	*	*	*	*
+5(disz)	5(disz)[one]	NU	NU	D	I-COUNT	*	*	*	*	*
+2/3(disz)	2/3(disz)[one]	NU	NU	D	I-COUNT	*	*	*	*	*
+ma-na	mana[unit]	N	N	D	I-COUNT	*	*	*	*	*
+siki	siki[wool][-'a]	N	N	D	B-COM	_	_	_	_	_
+GI	_			POS	_	_	_	_	_	_
+ku3-bi	kug[silver]-bi[-ø]	N	N.3-SG-NH-POSS.ABS	D	_	_	_	_	_	_
+2(disz)	2(disz)[one]	NU	NU	D	B-COUNT	g	1279.7222222222222	weight	gin2	153.56666666666666
+1/2(disz)	1/2(disz)[one]	NU	NU	D	I-COUNT	*	*	*	*	*
+ma-na	mana[unit]	N	N	D	I-COUNT	*	*	*	*	*
+3(disz)	3(disz)[one]	NU	NU	D	I-COUNT	*	*	*	*	*
+1/2(disz)	1/2(disz)[one]	NU	NU	D	I-COUNT	*	*	*	*	*
+gin2	gig[unit]	N	N	D	I-COUNT	*	*	*	*	*
+1(u)	1(u)[ten]	NU	NU	D	I-COUNT	*	*	*	*	*
+2(disz)	2(disz)[one]	NU	NU	D	I-COUNT	*	*	*	*	*
+sze	sze[barley]	N	N	D	I-COUNT	*	*	*	*	*
+ki	ki[place]	N	N	D	_	_	_	_	_	_
+ensi2-ta	ensik[ruler][-ak]-ta	N	N.GEN.ABL	D	_	_	_	_	_	_
+ur-{d}dumu-zi-da	Urdumuzida[1][-e]	PN	PN.GEN.ABS	D	_	_	_	_	_	_
+szu	szu[hand][-e]	N	N.L3-NH	D	B-COM	_	_	_	_	_
+ba-ti	ba[-n]-teg[accept][-ø]	V	MID.3-SG-H-A.V.3-SG-P	D	_	_	_	_	_	_
+mu	mu[year]	N	N	D	_	_	_	_	_	_
+ki-masz{ki}	Kimasz[1]	SN	SN.ABS	D	_	_	_	_	_	_
+ba-hul	ba-hulu[destroy][-ø]	V	MID.V.3-SG-S	D	_	_	_	_	_	_

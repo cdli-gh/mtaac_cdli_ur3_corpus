@@ -1,0 +1,25 @@
+#new_text=P291589					
+FORM	SEGM	XPOSTAG	XPOSTAG	POS	B-COUNT	l	60	"dry	*	*
+1(barig)	1(bariga)[unit]	NU	N	D	I-COUNT	*	*	*	sila3	60
+5(iku)	5(iku)[unit]	NU	N	D	B-COUNT	m^2	3.0	surface	gin2	5
+sze-ba	szeba[ration]	N	N	D	B-COM	_	_	_	_	_
+u3-bi	_	N	N	POS	_	_	_	_	_	_
+*RETOK*-capacity"	?	?	?	?	B-COUNT	l	330	"dry	*	*
+1(asz)	1(asz)[one]	NU	NU	D	I-COUNT	*	*	*	sila3	330
+3(ban2)	3(ban)[unit]	NU	N	D	I-COUNT	*	*	*	*	*
+gur	gur[unit]	N	N	D	I-COUNT	*	*	*	*	*
+lugal	lugal[king]	N	N	D	_	_	_	_	_	_
+a-sza3	aszag[field]	N	N	D	_	_	_	_	_	_
+a-ba-gal	_	FN	FN	POS	_	_	_	_	_	_
+gu-la	gal[big][-ø][-sze]	PN	NF.V.ABS	D	_	_	_	_	_	_
+kiszib3	kiszib[seal]	N	N	D	_	_	_	_	_	_
+la-a-mu	Layamu[1][-ak]	PN	PN	D	_	_	_	_	_	_
+mu	mu[year]	N	N	D	_	_	_	_	_	_
+us2-sa	us[follow]-a	V	NF.V.PT	D	_	_	_	_	_	_
+ur-bi2-lum	_	GN	GN	POS	_	_	_	_	_	_
+ba-hul	ba-hulu[destroy][-ø]	V	MID.V.3-SG-S	D	_	_	_	_	_	_
+lu2-{d}szara2	Luszara[1][-ak]	PN	PN	D	_	_	_	_	_	_
+agrig	_	N	N	D	_	_	_	_	_	_
+{d}szara2	Szara[1][-ak]	DN	DN	D	_	_	_	_	_	_
+dumu	dumu[child]	N	N	D	_	_	_	_	_	_
+ba-bil-za	_	PN	PN	Iabcde	_	_	_	_	_	_

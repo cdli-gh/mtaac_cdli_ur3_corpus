@@ -1,0 +1,19 @@
+#new_text=P129957					
+FORM	SEGM	XPOSTAG	XPOSTAG	POS	B-COUNT	l	5	"liquid	*	*
+*RETOK*-capacity"	?	?	?	?	I-COUNT	l	5	"dry	sila3	5
+5(disz)	5(disz)[one]	NU	NU	D	I-COUNT	*	*	*	sila3	5
+sila3	sila[unit]	N	N	D	I-COUNT	*	*	*	*	*
+i3	i[oil]	N	N	D	B-COM	_	_	_	_	_
+i3-ba	iba[oil_ration]	N	N	D	_	_	_	_	_	_
+he2-dab5	hedab[worker]	V	N.DAT-H	D	_	_	_	_	_	_
+ki	ki[place]	N	N	D	_	_	_	_	_	_
+ur-ab-ba-ta	Uraba[1][-ak]-ta	PN	PN.GEN.ABL	D	_	_	_	_	_	_
+kiszib3	kiszib[seal]	N	N	D	_	_	_	_	_	_
+nam-zi-tar-ra	_	PN	PN	D	_	_	_	_	_	_
+iti	iti[month]	N	N	D	_	_	_	_	_	_
+szu-numun	Szunumun[1][-'a]	MN	MN.L1	D	_	_	_	_	_	_
+mu	mu[year]	N	N	D	_	_	_	_	_	_
+si-mu-ru-um{ki}	Simurrum[1]	SN	SN.ABS	D	_	_	_	_	_	_
+ba-hul	ba-hulu[destroy][-ø]	V	MID.V.3-SG-S	D	_	_	_	_	_	_
+nam-zi-tar-ra	_	PN	PN	D	_	_	_	_	_	_
+...	_[_]	PN	N	D	_	_	_	_	_	_

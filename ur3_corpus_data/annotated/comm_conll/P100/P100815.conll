@@ -1,0 +1,15 @@
+#new_text=P100815					
+FORM	SEGM	XPOSTAG	XPOSTAG	POS	?	?	?	?	?	?
+1(asz)	1(asz)[one]	NU	NU	D	B-COUNT	g	30000.000000000004	weight	gin2	3600
+gu2	gun[unit]	N	N	D	I-COUNT	*	*	*	*	*
+siki-gi	sikigi[wool_type]	N	N	D	_	_	_	_	_	_
+siki	siki[wool][-'a]	N	N	D	B-COM	_	_	_	_	_
+udu-lah5	_	N	N	Ia	_	_	_	_	_	_
+giri3	giri[foot]	N	N	D	_	_	_	_	_	_
+kas4	kas[runner][-ra]	N	N.DAT-H	D	_	_	_	_	_	_
+szusz3	kusz[cattle_manager][-ak]	N	N.GEN	D	_	_	_	_	_	_
+mu	mu[year]	N	N	D	_	_	_	_	_	_
+ku3	kug[silver]	N	N	D	_	_	_	_	_	_
+gu-za	guza[chair][-ø]	N	N	D	_	_	_	_	_	_
+{d}en-lil2-la2	Enlil[1][-ak][-ø]	DN	DN.GEN	D	_	_	_	_	_	_
+ba-dim2	ba-dim[create][-ø]	V	MID.V.3-SG-S	D	_	_	_	_	_	_

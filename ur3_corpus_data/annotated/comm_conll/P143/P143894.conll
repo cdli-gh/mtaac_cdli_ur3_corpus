@@ -1,0 +1,20 @@
+#new_text=P143894					
+FORM	SEGM	XPOSTAG	XPOSTAG	POS	?	?	?	?	?	?
+3(u)	3(u)[ten]	NU	NU	D	B-COUNT	bricks	293760	bricks	gin2	24480
+4(disz)	4(disz)[one]	NU	NU	D	I-COUNT	*	*	*	*	*
+sar	sar[unit]	N	N	D	I-COUNT	*	*	*	*	*
+sig4	szeg[brick]	N	N	D	_	_	_	_	_	_
+*RETOK*-capacity"	?	?	?	?	B-COUNT	l	10	"dry	*	*
+1(ban2)	1(ban)[unit]	NU	N	D	I-COUNT	*	*	*	sila3	10
+sze-sze3	_	N	N	POS	B-COM	_	_	_	_	_
+ki	ki[place]	N	N	D	_	_	_	_	_	_
+ARAD2-ta	Arad[1][-ak]-ta	PN	PN.GEN.ABL	D	_	_	_	_	_	_
+ma2-gur8-re	Magure[1]	PN	PN	D	_	_	_	_	_	_
+du8-u3-dam	_	V	NF.V.PT.ABS.COP-3-SG	Iabcdef	_	_	_	_	_	_
+mu	mu[year]	N	N	D	_	_	_	_	_	_
+{d}amar-{d}suen-ke4	_	DN	RN.GEN.ERG	D	_	_	_	_	_	_
+ur-bi2-lum{ki}	Urbilum[1][-ø]	GN	SN.ABS	D	_	_	_	_	_	_
+mu-hul	mu[-n]-hulu[destroy][-ø]	V	VEN.3-SG-H-A.V.3-SG-P	D	_	_	_	_	_	_
+ni-bu3-...	_	PN	PN.GEN	Iabc	_	_	_	_	_	_
+dumu	dumu[child]	N	N	D	_	_	_	_	_	_
+lu2-ga	Luga[1][-ak]	PN	PN.GEN	D	_	_	_	_	_	_

@@ -1,0 +1,26 @@
+#new_text=P129341					
+FORM	SEGM	XPOSTAG	XPOSTAG	POS	?	?	?	?	?	?
+4(disz)	4(disz)[one]	NU	NU	D	B-COUNT	_	4	cardinal	_	4
+{gi}kid	kid[mat]	N	N	D	B-COM	_	_	_	_	_
+szu2	_	V	V	POS	_	_	_	_	_	_
+ma2	ma[ship]	N	N	D	_	_	_	_	_	_
+ki-la2-bi	kila[weight]-bi[-ø]	N	N.3-SG-NH-POSS.ABS	D	_	_	_	_	_	_
+2/3(disz)	2/3(disz)[one]	NU	NU	D	B-COUNT	bricks	6480.0	bricks	gin2	540.0
+sar	sar[unit]	N	N	D	I-COUNT	*	*	*	*	*
+5(disz)	5(disz)[one]	NU	NU	D	I-COUNT	*	*	*	*	*
+gin2	gig[unit]	N	N	D	I-COUNT	*	*	*	*	*
+ma2	ma[ship]	N	N	D	_	_	_	_	_	_
+ra2-gaba	ragaba[rider]	N	N.ABS	D	_	_	_	_	_	_
+ba-a-dul9	_	V	V	POS	_	_	_	_	_	_
+ki	ki[place]	N	N	D	_	_	_	_	_	_
+lu2-igi-sa6-sa6-ta	Lu'igisasa[1][-ak]-ta	PN	PN.GEN.ABL	D	_	_	_	_	_	_
+kiszib3	kiszib[seal]	N	N	D	_	_	_	_	_	_
+sze-er-ha-an	_	PN	PN	POS	_	_	_	_	_	_
+iti	iti[month]	N	N	D	_	_	_	_	_	_
+pa4-u2-e	Pa'u'e[1][-'a]	MN	MN.L1	D	_	_	_	_	_	_
+mu	mu[year]	N	N	D	_	_	_	_	_	_
+ur-bi2-lum{ki}	Urbilum[1][-ø]	GN	SN.ABS	D	_	_	_	_	_	_
+ba-hul	ba-hulu[destroy][-ø]	V	MID.V.3-SG-S	D	_	_	_	_	_	_
+sze-er-ha-an	_	PN	PN	POS	_	_	_	_	_	_
+dumu	dumu[child]	N	N	D	_	_	_	_	_	_
+lu2-...	_[1][-ra]	PN	PN	D	_	_	_	_	_	_

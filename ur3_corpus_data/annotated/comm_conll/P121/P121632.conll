@@ -1,0 +1,26 @@
+#new_text=P121632					
+FORM	SEGM	XPOSTAG	XPOSTAG	POS	?	?	?	?	?	?
+5(disz)	5(disz)[one]	NU	NU	D	B-COUNT	m	30	length	gi	10
+ninda	ninda[bread]	N	N	D	I-COUNT	*	*	*	*	*
+sag	sag[head]	N	N	D	_	_	_	_	_	_
+a2	a[time]	N	N	D	_	_	_	_	_	_
+a2-bi2-li2	_	PN	PN	Ia	_	_	_	_	_	_
+9(disz)	9(disz)[one]	NU	NU	D	B-COUNT	_	9.5	cardinal	_	9.5
+1/2(disz)	1/2(disz)[one]	NU	NU	D	I-COUNT	*	*	*	*	*
+sag	sag[head]	N	N	D	_	_	_	_	_	_
+a2	a[time]	N	N	D	_	_	_	_	_	_
+x	_[_]	N	N	D	_	_	_	_	_	_
+2(u)	2(u)[ten]	NU	NU	D	B-COUNT	m	138	length	gi	46
+3(disz)	3(disz)[one]	NU	NU	D	I-COUNT	*	*	*	*	*
+ninda	ninda[bread]	N	N	D	I-COUNT	*	*	*	*	*
+us2	us[follow][-ø]	V	NF.V.ABS	D	B-COM	_	_	_	_	_
+a-sza3-bi	_	N	N.3-SG-NH-POSS.ABS	D	_	_	_	_	_	_
+2(gesz2)	2(gesz)[sixty]	NU	NU	D	B-COUNT	bricks	1399680	bricks	gin2	116640
+4(u)	4(u)[ten]	NU	NU	D	I-COUNT	*	*	*	*	*
+2(disz)	2(disz)[one]	NU	NU	D	I-COUNT	*	*	*	*	*
+sar	sar[unit]	N	N	D	I-COUNT	*	*	*	*	*
+gesz-ur3	geszur[harrow]	N	N	D	_	_	_	_	_	_
+engar	engar[farmer]	N	N	D	_	_	_	_	_	_
+{gesz}kiri6	kiri[orchard][-'a][-ø]	N	N	D	B-COM	_	_	_	_	_
+a2-bi2-li2-ke4	_	N	N	POS	_	_	_	_	_	_
+us2-x	_	V	V	POS	_	_	_	_	_	_

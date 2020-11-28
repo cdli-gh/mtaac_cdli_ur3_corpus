@@ -1,0 +1,25 @@
+#new_text=P211402					
+FORM	SEGM	XPOSTAG	XPOSTAG	POS	B-COUNT	l	360	"dry	*	*
+1(asz)	1(asz)[one]	NU	NU	D	I-COUNT	*	*	*	sila3	360
+1(barig)	1(bariga)[unit]	NU	N	D	I-COUNT	*	*	*	*	*
+dabin	dabin[semolina]	N	N	D	B-COM	_	_	_	_	_
+gur	gur[unit]	N	N	D	_	_	_	_	_	_
+lugal	lugal[king]	N	N	D	_	_	_	_	_	_
+ki	ki[place]	N	N	D	_	_	_	_	_	_
+ur-nig2-ta	_	PN	PN.GEN.ABL	Iabcdef	_	_	_	_	_	_
+mu	mu[year]	N	N	D	_	_	_	_	_	_
+{d}nansze-kam-sze3	_	PN	PN	POS	_	_	_	_	_	_
+kiszib3	kiszib[seal]	N	N	D	_	_	_	_	_	_
+ma-an-szum2	Manszum[1][-ak]	PN	PN.GEN	D	_	_	_	_	_	_
+dumu	dumu[child]	N	N	D	_	_	_	_	_	_
+lugal-erin2	_	PN	PN	Iabcde	_	_	_	_	_	_
+iti	iti[month]	N	N	D	_	_	_	_	_	_
+mu-szu-du7	Muszudu[1][-'a]	MN	MN.L1	D	_	_	_	_	_	_
+mu	mu[year]	N	N	D	_	_	_	_	_	_
+us2-sa	us[follow]-a	V	NF.V.PT	D	_	_	_	_	_	_
+ki-masz{ki}	Kimasz[1]	SN	SN.ABS	D	_	_	_	_	_	_
+ba-hul	ba-hulu[destroy][-ø]	V	MID.V.3-SG-S	D	_	_	_	_	_	_
+ma-an-szum2-na	_	PN	PN.GEN.ABL	Iabcdefgh	_	_	_	_	_	_
+dub-sar	dubsar[scribe]	N	N	D	_	_	_	_	_	_
+dumu	dumu[child]	N	N	D	_	_	_	_	_	_
+lugal-erin2	_	PN	PN	Iabcde	_	_	_	_	_	_

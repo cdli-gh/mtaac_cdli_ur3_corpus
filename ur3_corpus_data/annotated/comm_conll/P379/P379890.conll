@@ -1,0 +1,24 @@
+#new_text=P379890					
+FORM	SEGM	XPOSTAG	XPOSTAG	POS	?	?	?	?	?	?
+...	_[_]	PN	N	D	_	_	_	_	_	_
+*RETOK*-capacity"	?	?	?	?	B-COUNT	l	4	"liquid	*	*
+*RETOK*-capacity"	?	?	?	?	I-COUNT	l	4	"dry	sila3	4
+4(disz)	4(disz)[one]	NU	NU	D	I-COUNT	*	*	*	sila3	4
+sila3	sila[unit]	N	N	D	I-COUNT	*	*	*	*	*
+i3	i[oil]	N	N	D	B-COM	_	_	_	_	_
+gur	gur[unit]	N	N	D	_	_	_	_	_	_
+la2-ia3	la'u[arrears]	N	N	D	_	_	_	_	_	_
+su-ga	sug[repay]-a	V	NF.V.PT	D	_	_	_	_	_	_
+i3	i[oil]	N	N	D	_	_	_	_	_	_
+su	_	N	N	Ia	_	_	_	_	_	_
+ki	ki[place]	N	N	D	_	_	_	_	_	_
+lu2-{d}nansze-ta	_	PN	PN.GEN.ABL	Iab	_	_	_	_	_	_
+...-da	_[_]	PN	PN	Iabcde	_	_	_	_	_	_
+mu	mu[year]	N	N	D	_	_	_	_	_	_
+na-ru2-a-mah	naruamah[magnificent_stele][-ø]	PN	N.ABS	D	_	_	_	_	_	_
+ba-du3	ba-du[build][-ø]	V	MID.V.3-SG-S	D	_	_	_	_	_	_
+da-an-ba	_	PN	PN	Iabcdefgh	_	_	_	_	_	_
+...	_[_]	PN	N	D	_	_	_	_	_	_
+ur-{d}...	_[1][-ra]	PN	PN.GEN	D	_	_	_	_	_	_
+ugula	ugula[overseer][-ø]	N	N	D	_	_	_	_	_	_
+usz-bar	uszbar[weaver][-ak]	N	N	D	_	_	_	_	_	_

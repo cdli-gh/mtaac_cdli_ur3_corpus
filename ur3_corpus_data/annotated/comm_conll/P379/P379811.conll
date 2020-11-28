@@ -1,0 +1,26 @@
+#new_text=P379811					
+FORM	SEGM	XPOSTAG	XPOSTAG	POS	?	?	?	?	?	?
+3(u)	3(u)[ten]	NU	NU	D	B-COUNT	g	15000.000000000002	weight	gin2	1800
+ma-na	mana[unit]	N	N	D	I-COUNT	*	*	*	*	*
+siki	siki[wool][-'a]	N	N	D	B-COM	_	_	_	_	_
+tug2	tug[textile]	N	N	D	_	_	_	_	_	_
+3(disz)-kam	3(disz)[one]-ak-am	NU	NU.GEN.COP-3-SG	D	B-COUNT	_	3	cardinal	_	3
+us2	us[follow][-ø]	V	NF.V.ABS	D	_	_	_	_	_	_
+3(asz)	3(asz)[one]	NU	NU	D	B-COUNT	g	94000.0	weight	gin2	11280
+gu2	gun[unit]	N	N	D	I-COUNT	*	*	*	*	*
+8(disz)	8(disz)[one]	NU	NU	D	I-COUNT	*	*	*	*	*
+ma-na	mana[unit]	N	N	D	I-COUNT	*	*	*	*	*
+siki	siki[wool][-'a]	N	N	D	_	_	_	_	_	_
+tug2	tug[textile]	N	N	D	_	_	_	_	_	_
+4(disz)-kam	4(disz)[one]-ak-am[-'a]	NU	NU.GEN.COP-3-SG	D	B-COUNT	_	4	cardinal	_	4
+us2	us[follow][-ø]	V	NF.V.ABS	D	_	_	_	_	_	_
+a2	a[time]	N	N	D	_	_	_	_	_	_
+gesz-gar-ra	geszgar[assign]-a	N	NF.V.PT	D	_	_	_	_	_	_
+lu2-{d}igi-ma-sze3	Lu'igimasze[1]	PN	PN	D	_	_	_	_	_	_
+szu	szu[hand][-e]	N	N.L3-NH	D	B-COM	_	_	_	_	_
+ba-ti	ba[-n]-teg[accept][-ø]	V	MID.3-SG-H-A.V.3-SG-P	D	_	_	_	_	_	_
+iti	iti[month]	N	N	D	_	_	_	_	_	_
+munu4-gu7	Munugu[1][-'a]	MN	MN.L1	D	_	_	_	_	_	_
+mu	mu[year]	N	N	D	_	_	_	_	_	_
+hu-uh2-nu-ri{ki}	Huhnuri[1][-ø]	GN	SN.ABS	D	_	_	_	_	_	_
+ba-hul	ba-hulu[destroy][-ø]	V	MID.V.3-SG-S	D	_	_	_	_	_	_

@@ -1,0 +1,20 @@
+#new_text=P145020					
+FORM	SEGM	XPOSTAG	XPOSTAG	POS	B-COUNT	l	0.009259259259259259	"dry	*	*
+1(gesz2)	1(gesz)[sixty]	NU	NU	D	I-COUNT	*	*	*	sila3	0.009259259259259259
+4(u)	4(u)[ten]	NU	NU	D	I-COUNT	*	*	*	*	*
+sze	sze[barley]	N	N	D	I-COUNT	*	*	*	*	*
+gur	gur[unit]	N	N	D	I-COUNT	*	*	*	*	*
+u4-sa6-ga	_	PN	PN	POS	_	_	_	_	_	_
+szu-ku6	szukud[fisherman][-ak][-ak]	N	N	D	_	_	_	_	_	_
+ugula	ugula[overseer][-ø]	N	N	D	_	_	_	_	_	_
+szesz-kal-la	Szeszkala[1][-ra]	PN	PN	D	_	_	_	_	_	_
+nu-banda3-gu4	nubandagu[ox_overseer][-ak][-ak][-ak]	N	N	D	_	_	_	_	_	_
+...	_[_]	PN	N	D	_	_	_	_	_	_
+e2-lu2-...	_	PN	PN.DAT-H	Ia	_	_	_	_	_	_
+mu-kux(DU)	mukur[delivery][-ø]	N	N	D	_	_	_	_	_	_
+iti	iti[month]	N	N	D	_	_	_	_	_	_
+sig4	szeg[brick]	N	N	D	_	_	_	_	_	_
+mu	mu[year]	N	N	D	_	_	_	_	_	_
+ma-da	mada[land][-ak][-ø]	N	N	D	_	_	_	_	_	_
+za-ab-sza-li{ki}	Zabszali[1][-ak][-ø]	GN	SN.GEN.ABS	D	_	_	_	_	_	_
+ba-hul	ba-hulu[destroy][-ø]	V	MID.V.3-SG-S	D	_	_	_	_	_	_

@@ -1,0 +1,16 @@
+#new_text=P112674					
+FORM	SEGM	XPOSTAG	XPOSTAG	POS	?	?	?	?	?	?
+5(disz)	5(disz)[one]	NU	NU	D	B-COUNT	_	5	cardinal	_	5
+gurusz	gurusz[male]	N	N	D	B-COM	_	_	_	_	_
+1(u)	1(u)[ten]	NU	NU	D	B-COUNT	_	15	cardinal	_	15
+5(disz)	5(disz)[one]	NU	NU	D	I-COUNT	*	*	*	*	*
+du3-a-ku5	_	V	V	POS	_	_	_	_	_	_
+ur-dam	_	PN	PN.GEN.COP-3-SG	Iabcdef	_	_	_	_	_	_
+4(disz)	4(disz)[one]	NU	NU	D	B-COUNT	_	4	cardinal	_	4
+gurusz	gurusz[male]	N	N	D	B-COM	_	_	_	_	_
+1(u)	1(u)[ten]	NU	NU	D	B-COUNT	_	17	cardinal	_	17
+7(disz)	7(disz)[one][-sze]	NU	NU	D	I-COUNT	*	*	*	*	*
+du3-a-ku5	_	V	V	POS	_	_	_	_	_	_
+ur-{d}ba-ba6	Urbaba[1]	PN	PN	D	_	_	_	_	_	_
+ki	ki[place]	N	N	D	_	_	_	_	_	_
+na-ba-sa6-ga-ta	_	PN	PN.GEN.ABL	Iab	_	_	_	_	_	_

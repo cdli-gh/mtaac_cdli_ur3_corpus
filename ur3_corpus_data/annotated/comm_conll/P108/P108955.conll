@@ -1,0 +1,22 @@
+#new_text=P108955					
+FORM	SEGM	XPOSTAG	XPOSTAG	POS	?	?	?	?	?	?
+1(asz)	1(asz)[one]	NU	NU	D	B-COUNT	m	6	length	gi	2
+ninda	ninda[bread]	N	N	D	I-COUNT	*	*	*	*	*
+gur	gur[unit]	N	N	D	_	_	_	_	_	_
+lugal	lugal[king]	N	N	D	_	_	_	_	_	_
+*RETOK*-capacity"	?	?	?	?	B-COUNT	l	20	"dry	*	*
+2(ban2)	2(ban)[unit]	NU	N	D	I-COUNT	*	*	*	sila3	20
+nig2-ar3-ra	nigara[groats]	N	N	D	B-COM	_	_	_	_	_
+tu7	tu[soup]	N	N	D	_	_	_	_	_	_
+a-ra2	ara[times]	N	N	D	_	_	_	_	_	_
+2(disz)-kam	2(disz)[one]-ak-am	NU	NU.GEN.COP-3-SG	D	B-COUNT	_	2	cardinal	_	2
+he2-dab5	hedab[worker]	V	N.DAT-H	D	B-COM	_	_	_	_	_
+u4-tusz-a-ke4	_	N	N.GEN.GEN.L3-NH	Iabcdefg	_	_	_	_	_	_
+szu	szu[hand][-e]	N	N.L3-NH	D	_	_	_	_	_	_
+ba-ab-ti	ba-b-teg[accept][-ø]	V	MID.3-SG-NH-A.V.3-SG-P	D	_	_	_	_	_	_
+giri3	giri[foot]	N	N	D	_	_	_	_	_	_
+ur-nigar{gar}	Urnigar[1]	PN	PN	D	_	_	_	_	_	_
+zi-ga	zig[expend]-a	V	NF.V.PT	D	_	_	_	_	_	_
+iti	iti[month]	N	N	D	_	_	_	_	_	_
+diri	diri[intercalary_month]	N	N	D	_	_	_	_	_	_
+sze-sag11-ku5	Szesagku[1][-'a]	MN	MN.L1	D	_	_	_	_	_	_

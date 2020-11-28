@@ -1,0 +1,17 @@
+#new_text=P332405					
+FORM	SEGM	XPOSTAG	XPOSTAG	POS	?	?	?	?	?	?
+2(disz)	2(disz)[one]	NU	NU	D	B-COUNT	_	2	cardinal	_	2
+udu	udu[sheep]	N	N	D	B-COM	_	_	_	_	_
+niga	niga[fattened][-ø]	V	NF.V.ABS	D	_	_	_	_	_	_
+saga	saga[good][-ø]	V	NF.V.ABS	D	_	_	_	_	_	_
+2(disz)	2(disz)[one]	NU	NU	D	B-COUNT	_	2	cardinal	_	2
+udu	udu[sheep]	N	N	D	B-COM	_	_	_	_	_
+niga	niga[fattened][-ø]	V	NF.V.ABS	D	_	_	_	_	_	_
+saga	saga[good][-ø]	V	NF.V.ABS	D	_	_	_	_	_	_
+us2	us[follow][-ø]	V	NF.V.ABS	D	_	_	_	_	_	_
+{d}nanna	Nanna[1][-ak]	DN	DN	D	_	_	_	_	_	_
+siskur2	siszkur[offering]	N	N	D	_	_	_	_	_	_
+sza3-e2-gal	_	PN	PN	POS	_	_	_	_	_	_
+{d}suen-a-bu-szu	Suenabuszu[1]	PN	PN	D	_	_	_	_	_	_
+sagi	sagi[cup_bearer][-ø]	N	N	D	_	_	_	_	_	_
+maszkim	maszkim[administrator]	N	N.ABS	D	_	_	_	_	_	_

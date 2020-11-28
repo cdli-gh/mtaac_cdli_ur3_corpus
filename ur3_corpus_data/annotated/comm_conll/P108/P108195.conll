@@ -1,0 +1,23 @@
+#new_text=P108195					
+FORM	SEGM	XPOSTAG	XPOSTAG	POS	B-COUNT	l	20	"dry	*	*
+2(ban2)	2(ban)[unit]	NU	N	D	I-COUNT	*	*	*	sila3	20
+szesz-a-ni	Szeszani[1][-ak]	PN	PN	D	_	_	_	_	_	_
+*RETOK*-capacity"	?	?	?	?	B-COUNT	l	40	"dry	*	*
+4(ban2)	4(ban)[unit]	NU	N	D	I-COUNT	*	*	*	sila3	40
+en-mu10-us2-sa2	_	PN	PN	Iabcde	_	_	_	_	_	_
+*RETOK*-capacity"	?	?	?	?	B-COUNT	l	115	"dry	*	*
+1(barig)	1(bariga)[unit]	NU	N	D	I-COUNT	*	*	*	sila3	115
+5(ban2)	5(ban)[unit]	NU	N	D	I-COUNT	*	*	*	*	*
+5(disz)	5(disz)[one]	NU	NU	D	I-COUNT	*	*	*	*	*
+sila3	sila[unit]	N	N	D	I-COUNT	*	*	*	*	*
+e2	e[house]	N	N	D	_	_	_	_	_	_
+{d}szul-gi-ta	_	DN	DN	POS	_	_	_	_	_	_
+ki	ki[place]	N	N	D	_	_	_	_	_	_
+mu-ni-ta	_	V	V	POS	_	_	_	_	_	_
+giri3	giri[foot]	N	N	D	_	_	_	_	_	_
+da-da	Dada[1][-ak]	PN	PN	D	_	_	_	_	_	_
+iti	iti[month]	N	N	D	_	_	_	_	_	_
+ezem-{d}szul-gi	Ezemszulgir[1][-'a]	MN	MN.L1	D	_	_	_	_	_	_
+mu	mu[year]	N	N	D	_	_	_	_	_	_
+si-mu-ru-um	Simurum[1]	GN	SN	D	_	_	_	_	_	_
+ba-hul	ba-hulu[destroy][-ø]	V	MID.V.3-SG-S	D	_	_	_	_	_	_

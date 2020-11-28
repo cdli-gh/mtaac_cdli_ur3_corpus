@@ -1,0 +1,27 @@
+#new_text=P123223					
+FORM	SEGM	XPOSTAG	XPOSTAG	POS	?	?	?	?	?	?
+geme2-{d}gesztin-an-ka	_	PN	PN.ERG	Iab	_	_	_	_	_	_
+geme2	geme[female_worker]	N	N	D	_	_	_	_	_	_
+szesz-kal-la	Szeszkala[1][-ra]	PN	PN	D	_	_	_	_	_	_
+4(disz)	4(disz)[one]	NU	NU	D	B-COUNT	_	0.06666666666666667	cardinal	_	0.06666666666666667
+gin2	gig[unit]	N	N	D	I-COUNT	*	*	*	*	*
+ku3-babbar-sze3	_	N	N.TERM	Iabcde	B-COM	_	_	_	_	_
+lu2-{d}szara2	Luszara[1][-ak]	PN	PN	D	_	_	_	_	_	_
+dam-gar3	damgar[merchant][-ak]	N	N	D	_	_	_	_	_	_
+in-szi-sa10	i-nn-szi[-n]-sa[pay_for][-ø][-a]	V	FIN.3-SG-H.TERM.3-SG-H-A.V.3-SG-P.SUB	D	_	_	_	_	_	_
+ur-da-da	_	PN	PN.GEN	Iabcde	_	_	_	_	_	_
+dumu	dumu[child]	N	N	D	_	_	_	_	_	_
+lu2-me-lam2	_	PN	PN.GEN.ABL	Iabcdefgh	_	_	_	_	_	_
+a-da-ga	Adaga[1]	PN	PN	D	_	_	_	_	_	_
+dumu	dumu[child]	N	N	D	_	_	_	_	_	_
+a-ab-ba-mu	Ayabbamu[1][-ra]	PN	PN	D	_	_	_	_	_	_
+dingir-ra-am3	_	PN	PN	POS	_	_	_	_	_	_
+dumu	dumu[child]	N	N	D	_	_	_	_	_	_
+lugal-pa-e3	Lugalpa’e[1]	PN	PN	D	_	_	_	_	_	_
+ur-am3-ma	Uramma[1][-ak]	PN	PN	D	_	_	_	_	_	_
+dam-gar3	damgar[merchant][-ak]	N	N	D	_	_	_	_	_	_
+lu2-inim-ma-bi-me	lu'inimak[witness]-bi[-ø]-mesz	N	N.3-SG-NH-POSS.ABS.COP-3-PL	D	_	_	_	_	_	_
+mu	mu[year]	N	N	D	_	_	_	_	_	_
+e2	e[house]	N	N	D	_	_	_	_	_	_
+puzur4-isz-{d}da-gan	Puzuriszdagan[1][-ø]	SN	SN.ABS	D	_	_	_	_	_	_
+ba-du3	ba-du[build][-ø]	V	MID.V.3-SG-S	D	_	_	_	_	_	_

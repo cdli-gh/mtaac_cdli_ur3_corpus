@@ -1,0 +1,23 @@
+#new_text=P124599					
+FORM	SEGM	XPOSTAG	XPOSTAG	POS	?	?	?	?	?	?
+2(disz)	2(disz)[one]	NU	NU	D	B-COUNT	_	2	cardinal	_	2
+udu-nita2	udunita[ram]	N	N	D	B-COM	_	_	_	_	_
+2(disz)	2(disz)[one]	NU	NU	D	B-COUNT	_	2	cardinal	_	2
+sila4	sila[lamb]	N	N	D	_	_	_	_	_	_
+2(disz)	2(disz)[one]	NU	NU	D	B-COUNT	_	2	cardinal	_	2
+masz2	masz[goat]	N	N	D	_	_	_	_	_	_
+sa2-du11	sadug[offerings]	N	N	D	_	_	_	_	_	_
+{d}be-la-at-suh6-ner	_	DN	DN	Ia	_	_	_	_	_	_
+{d}be-la-at-dar-ra-ba-an	Belatdarraban[1][-ak][-ak][-sze]	PN	DN.GEN.GEN.TERM	D	_	_	_	_	_	_
+an-nu-ni-tum	Annunitum[1][-ra]	PN	PN.DAT-H	D	_	_	_	_	_	_
+u3	u[and]	CNJ	CNJ	D	B-COM	_	_	_	_	_
+{d}ul-ma-szi-tum	Ulmaszitum[1][-ra]	PN	DN.DAT-H	D	_	_	_	_	_	_
+iti	iti[month]	N	N	D	_	_	_	_	_	_
+ki-siki-{d}nin-a-zu	Kisikininazu[1][-'a]	MN	MN.L1	D	_	_	_	_	_	_
+mu	mu[year]	N	N	D	_	_	_	_	_	_
+us2-sa	us[follow]-a	V	NF.V.PT	D	_	_	_	_	_	_
+e2	e[house]	N	N	D	_	_	_	_	_	_
+puzur4-isz-{d}da-gan	Puzuriszdagan[1][-ø]	SN	SN.ABS	D	_	_	_	_	_	_
+ba-du3	ba-du[build][-ø]	V	MID.V.3-SG-S	D	_	_	_	_	_	_
+mu	mu[year]	N	N	D	_	_	_	_	_	_
+us2-sa-bi	us[follow]-a-bi	V	NF.V.PT.3-SG-NH-POSS	D	_	_	_	_	_	_

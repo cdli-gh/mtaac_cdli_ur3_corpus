@@ -1,0 +1,18 @@
+#new_text=P110414					
+FORM	SEGM	XPOSTAG	XPOSTAG	POS	?	?	?	?	?	?
+6(disz)	6(disz)[one][-sze]	NU	NU	D	B-COUNT	_	6	cardinal	_	6
+udu	udu[sheep]	N	N	D	B-COM	_	_	_	_	_
+7(disz)	7(disz)[one][-sze]	NU	NU	D	B-COUNT	_	7	cardinal	_	7
+masz2	masz[goat]	N	N	D	_	_	_	_	_	_
+sa2-du11	sadug[offerings]	N	N	D	_	_	_	_	_	_
+{d}dumu-zi-sze3	_	MN	MN.TERM	Iabcdefg	_	_	_	_	_	_
+ki	ki[place]	N	N	D	_	_	_	_	_	_
+ur3-re-ba-du7-ta	_	PN	PN.GEN.ABL	Iabcdef	_	_	_	_	_	_
+lu2-{d}igi-ma-sze3	Lu'igimasze[1]	PN	PN	D	_	_	_	_	_	_
+kuruszda	kuruszda[animal_fattener][-ø]	N	N.GEN.ABS	D	_	_	_	_	_	_
+szu	szu[hand][-e]	N	N.L3-NH	D	B-COM	_	_	_	_	_
+ba-ti	ba[-n]-teg[accept][-ø]	V	MID.3-SG-H-A.V.3-SG-P	D	_	_	_	_	_	_
+mu	mu[year]	N	N	D	_	_	_	_	_	_
+ma-da	mada[land][-ak][-ø]	N	N	D	_	_	_	_	_	_
+za-ab-sza-li{ki}	Zabszali[1][-ak][-ø]	GN	SN.GEN.ABS	D	_	_	_	_	_	_
+ba-hul	ba-hulu[destroy][-ø]	V	MID.V.3-SG-S	D	_	_	_	_	_	_

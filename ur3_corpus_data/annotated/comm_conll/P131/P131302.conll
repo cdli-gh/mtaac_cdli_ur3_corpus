@@ -1,0 +1,10 @@
+#new_text=P131302					
+FORM	SEGM	XPOSTAG	XPOSTAG	POS	?	?	?	?	?	?
+1(u)	1(u)[ten]	NU	NU	D	B-COUNT	_	11	cardinal	_	11
+1(disz)	1(disz)[one]	NU	NU	D	I-COUNT	*	*	*	*	*
+dusu2	_	N	N	POS	B-COM	_	_	_	_	_
+gesz	gesz[tree]	N	N	D	_	_	_	_	_	_
+ki	ki[place]	N	N	D	_	_	_	_	_	_
+ur-sa6-ga-ta	_	PN	PN.GEN.ABL	Iab	_	_	_	_	_	_
+engar	engar[farmer]	N	N	D	_	_	_	_	_	_
+{d}nin-gesz-zi-da-sze3	_	DN	DN.GEN.TERM	Iabcdef	_	_	_	_	_	_

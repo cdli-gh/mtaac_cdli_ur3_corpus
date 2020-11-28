@@ -1,0 +1,19 @@
+#new_text=P379820					
+FORM	SEGM	XPOSTAG	XPOSTAG	POS	B-COUNT	l	20	"dry	*	*
+2(ban2)	2(ban)[unit]	NU	N	D	I-COUNT	*	*	*	sila3	20
+{gesz}haszhur	_	N	N	Ia	B-COM	_	_	_	_	_
+had2	had[pure][-ø]	V	NF.V.ABS	D	_	_	_	_	_	_
+ki	ki[place]	N	N	D	_	_	_	_	_	_
+ur-{d}inanna-ta	_	PN	PN.GEN.ABL	Iab	_	_	_	_	_	_
+kiszib3	kiszib[seal]	N	N	D	_	_	_	_	_	_
+ur-{d}nin-gesz-zi-da	_	PN	PN.GEN.ABS	D	_	_	_	_	_	_
+iti	iti[month]	N	N	D	_	_	_	_	_	_
+gu4-ra2-bi2-mu2	_	MN	MN.L1	Ia	_	_	_	_	_	_
+mu	mu[year]	N	N	D	_	_	_	_	_	_
+us2-sa	us[follow]-a	V	NF.V.PT	D	_	_	_	_	_	_
+{d}i-bi2-{d}suen	Ibbisuen[1]	RN	RN	D	_	_	_	_	_	_
+lugal	lugal[king]	N	N	D	_	_	_	_	_	_
+ur-{d}nin-gesz-zi-da	_	PN	PN.GEN.ABS	D	_	_	_	_	_	_
+dub-sar	dubsar[scribe]	N	N	D	_	_	_	_	_	_
+dumu	dumu[child]	N	N	D	_	_	_	_	_	_
+...	_[_]	PN	N	D	_	_	_	_	_	_

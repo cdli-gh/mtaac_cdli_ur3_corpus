@@ -1,0 +1,20 @@
+#new_text=P110562					
+FORM	SEGM	XPOSTAG	XPOSTAG	POS	B-COUNT	l	0.11018518518518518	"dry	*	*
+1(gesz'u)	1(gesz'u)[six_hundred]	NU	NU	D	I-COUNT	*	*	*	sila3	0.11018518518518518
+9(gesz2)	9(gesz)[sixty]	NU	NU	D	I-COUNT	*	*	*	*	*
+5(u)	5(u)[ten]	NU	NU	D	I-COUNT	*	*	*	*	*
+sze	sze[barley]	N	N	D	I-COUNT	*	*	*	*	*
+gur	gur[unit]	N	N	D	I-COUNT	*	*	*	*	*
+lugal	lugal[king]	N	N	D	_	_	_	_	_	_
+gur-bi	_	N	N.GEN.3-SG-NH-POSS.ABS	Iabcdef	_	_	_	_	_	_
+su-su	sug-sug[repay][-ed]	V	NF.V.RDP.PF	D	_	_	_	_	_	_
+ki	ki[place]	N	N	D	_	_	_	_	_	_
+gu3-de2-a-ta	_	PN	PN.GEN.ABL	Iabcdef	_	_	_	_	_	_
+ur-{d}en-lil2-la2	Urenlilak[1][-ak][-'a]	PN	PN.DAT-H	D	_	_	_	_	_	_
+szu	szu[hand][-e]	N	N.L3-NH	D	B-COM	_	_	_	_	_
+ba-ti	ba[-n]-teg[accept][-ø]	V	MID.3-SG-H-A.V.3-SG-P	D	_	_	_	_	_	_
+i3-dub	idub[granary]	N	N	D	_	_	_	_	_	_
+ku-ki-nig2-du10-ga	_	V	V	POS	_	_	_	_	_	_
+mu	mu[year]	N	N	D	_	_	_	_	_	_
+si-mu-ru-um{ki}	Simurrum[1]	SN	SN.ABS	D	_	_	_	_	_	_
+ba-hul	ba-hulu[destroy][-ø]	V	MID.V.3-SG-S	D	_	_	_	_	_	_

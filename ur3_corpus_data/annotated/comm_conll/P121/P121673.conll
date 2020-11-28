@@ -1,0 +1,14 @@
+#new_text=P121673					
+FORM	SEGM	XPOSTAG	XPOSTAG	POS	?	?	?	?	?	?
+...	_[_]	PN	N	D	_	_	_	_	_	_
+*RETOK*-capacity"	?	?	?	?	B-COUNT	l	6000	"dry	*	*
+2(u)	2(u)[ten]	NU	NU	D	I-COUNT	*	*	*	sila3	6000
+gur	gur[unit]	N	N	D	I-COUNT	*	*	*	*	*
+szum2	szum[garlic]	N	N	D	B-COM	_	_	_	_	_
+u3-ma-ni	Umani[1]	V	PN	D	_	_	_	_	_	_
+aktum2	_	V	V	POS	_	_	_	_	_	_
+x-lu-an-ka	_	PN	PN	Ia	_	_	_	_	_	_
+lu2-{d}suen	Lusuen[1]	PN	PN	D	_	_	_	_	_	_
+dub-sar	dubsar[scribe]	N	N	D	_	_	_	_	_	_
+dumu	dumu[child]	N	N	D	_	_	_	_	_	_
+ur-nigar{gar}	Urnigar[1]	PN	PN	D	_	_	_	_	_	_

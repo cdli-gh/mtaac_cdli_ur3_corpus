@@ -1,0 +1,19 @@
+#new_text=P332161					
+FORM	SEGM	XPOSTAG	XPOSTAG	POS	?	?	?	?	?	?
+1(disz)	1(disz)[one]	NU	NU	D	B-COUNT	_	1	cardinal	_	1
+udu	udu[sheep]	N	N	D	B-COM	_	_	_	_	_
+4(disz)	4(disz)[one]	NU	NU	D	B-COUNT	_	4	cardinal	_	4
+masz2	masz[goat]	N	N	D	_	_	_	_	_	_
+...	_[_]	PN	N	D	_	_	_	_	_	_
+ku3-{d}nanna	Kugnanna[1]	PN	PN	D	_	_	_	_	_	_
+2(disz)	2(disz)[one]	NU	NU	D	B-COUNT	_	2	cardinal	_	2
+masz2	masz[goat]	N	N	D	B-COM	_	_	_	_	_
+hal-li2	_	PN	PN	Iabcde	_	_	_	_	_	_
+1(disz)	1(disz)[one]	NU	NU	D	B-COUNT	_	1	cardinal	_	1
+masz2	masz[goat]	N	N	D	B-COM	_	_	_	_	_
+lu2-sa6-i3-zu	Lusa'izu[1]	PN	PN.GEN	D	_	_	_	_	_	_
+n	_(_)[_]	NU	NU	D	_	_	_	_	_	_
+masz2	masz[goat]	N	N	D	_	_	_	_	_	_
+ur-nigar{gar}	Urnigar[1]	PN	PN	D	_	_	_	_	_	_
+...	_[_]	PN	N	D	_	_	_	_	_	_
+ur-{d}ba-ba6	Urbaba[1]	PN	PN	D	_	_	_	_	_	_

@@ -1,0 +1,27 @@
+#new_text=P122571					
+FORM	SEGM	XPOSTAG	XPOSTAG	POS	B-COUNT	l	0.03194444444444444	"dry	*	*
+5(gesz2)	5(gesz)[sixty]	NU	NU	D	I-COUNT	*	*	*	sila3	0.03194444444444444
+4(u)	4(u)[ten]	NU	NU	D	I-COUNT	*	*	*	*	*
+5(asz)	5(asz)[one]	NU	NU	D	I-COUNT	*	*	*	*	*
+sze	sze[barley]	N	N	D	I-COUNT	*	*	*	*	*
+gur	gur[unit]	N	N	D	I-COUNT	*	*	*	*	*
+lugal	lugal[king]	N	N	D	_	_	_	_	_	_
+1(u)	1(u)[ten]	NU	NU	D	B-COUNT	_	15	cardinal	_	15
+5(asz)	5(asz)[one]	NU	NU	D	I-COUNT	*	*	*	*	*
+gig	gig[resin_type]	N	N	D	B-COM	_	_	_	_	_
+gur	gur[unit]	N	N	D	_	_	_	_	_	_
+ki-su7	kisur[threshing_floor]	N	N	D	_	_	_	_	_	_
+e2	e[house]	N	N	D	_	_	_	_	_	_
+{d}gu-la	Gula[1][-ak][-ra]	DN	DN	D	_	_	_	_	_	_
+*RETOK*-capacity"	?	?	?	?	B-COUNT	l	0.01111111111111111	"dry	*	*
+2(gesz2)	2(gesz)[sixty]	NU	NU	D	I-COUNT	*	*	*	sila3	0.01111111111111111
+sze	sze[barley]	N	N	D	I-COUNT	*	*	*	*	*
+gur	gur[unit]	N	N	D	I-COUNT	*	*	*	*	*
+kiszib3-bi	kiszib[seal]-bi[-ø]	N	N.3-SG-NH-POSS.ABS	D	B-COM	_	_	_	_	_
+ki	ki[place]	N	N	D	_	_	_	_	_	_
+lu2-...	_[1][-ra]	PN	PN	D	_	_	_	_	_	_
+ki-su7	kisur[threshing_floor]	N	N	D	_	_	_	_	_	_
+a-kun-kum2-ta	_	FN	FN	POS	_	_	_	_	_	_
+dub-ba	[dub-ba]	N	dub[tablet]-ak	D	_	_	_	_	_	_
+en3-bi	en[word]-bi[-ø]	N	N.3-SG-H-POSS.ABS	D	_	_	_	_	_	_
+tar-re-dam	_	V	NF.V.F.ABS.COP-3-SG	Iabcdef	_	_	_	_	_	_

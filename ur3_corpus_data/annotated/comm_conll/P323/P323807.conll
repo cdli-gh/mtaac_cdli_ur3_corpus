@@ -1,0 +1,24 @@
+#new_text=P323807					
+FORM	SEGM	XPOSTAG	XPOSTAG	POS	?	?	?	?	?	?
+4(disz)	4(disz)[one]	NU	NU	D	B-COUNT	_	4	cardinal	_	4
+geme2	geme[female_worker]	N	N	D	_	_	_	_	_	_
+usz-bar	uszbar[weaver][-ak]	N	N	D	B-COM	_	_	_	_	_
+u4	ud[day]	N	N	D	_	_	_	_	_	_
+1(disz)-sze3	1(disz)[one]-sze	NU	NU.TERM	D	B-COUNT	_	1	cardinal	_	1
+siki	siki[wool][-'a]	N	N	D	B-COM	_	_	_	_	_
+igi-sag-ga2	igisag[choose]-a	V	NF.V.PT	D	_	_	_	_	_	_
+sza3	szag[heart]	N	N	D	_	_	_	_	_	_
+e2-{d}szu-{d}suen{ki}	_	SN	SN	POS	_	_	_	_	_	_
+giri3	giri[foot]	N	N	D	_	_	_	_	_	_
+u3-zi-na-we-er	_	PN	PN	Ia	_	_	_	_	_	_
+u3	u[and]	CNJ	CNJ	D	_	_	_	_	_	_
+en-um-i3-li2	_	PN	PN.GEN	Iabc	_	_	_	_	_	_
+ki	ki[place]	N	N	D	_	_	_	_	_	_
+{d}iszkur-illat-ta	Iszkurillat[1][-ak]-ta	PN	PN.GEN.ABL	D	_	_	_	_	_	_
+ba-zi	ba-zig[expend][-ø]	PN	MID.V.3-SG-S	D	_	_	_	_	_	_
+iti	iti[month]	N	N	D	_	_	_	_	_	_
+a2-ki-ti	Akiti[1][-'a]	N	MN.L1	D	_	_	_	_	_	_
+mu	mu[year]	N	N	D	_	_	_	_	_	_
+{d}i-bi2-{d}suen	Ibbisuen[1]	RN	RN	D	_	_	_	_	_	_
+lugal	lugal[king]	N	N	D	_	_	_	_	_	_
+gaba-ri	gabari[copy]	N	N	D	_	_	_	_	_	_

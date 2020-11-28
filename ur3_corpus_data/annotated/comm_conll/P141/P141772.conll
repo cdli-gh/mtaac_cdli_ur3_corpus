@@ -1,0 +1,19 @@
+#new_text=P141772					
+FORM	SEGM	XPOSTAG	XPOSTAG	POS	?	?	?	?	?	?
+5/6(disz)	5/6(disz)[one]	NU	NU	D	B-COUNT	_	0.8333333333333334	cardinal	_	0.8333333333333334
+...-kal-la	_	PN	PN	POS	_	_	_	_	_	_
+*RETOK*-capacity"	?	?	?	?	B-COUNT	l	27	"dry	*	*
+2(ban2)	2(ban)[unit]	NU	N	D	I-COUNT	*	*	*	sila3	27
+7(disz)	7(disz)[one][-sze]	NU	NU	D	I-COUNT	*	*	*	*	*
+sila3	sila[unit]	N	N	D	I-COUNT	*	*	*	*	*
+sa2-du11	sadug[offerings]	N	N	D	_	_	_	_	_	_
+*RETOK*-capacity"	?	?	?	?	B-COUNT	l	2	"liquid	*	*
+*RETOK*-capacity"	?	?	?	?	I-COUNT	l	2	"dry	sila3	2
+2(disz)	2(disz)[one]	NU	NU	D	I-COUNT	*	*	*	sila3	2
+sila3	sila[unit]	N	N	D	I-COUNT	*	*	*	*	*
+sze-kam	_	N	N	POS	B-COM	_	_	_	_	_
+u4	ud[day]	N	N	D	_	_	_	_	_	_
+3(disz)-kam	3(disz)[one]-ak-am	NU	NU.GEN.COP-3-SG	D	B-COUNT	_	3	cardinal	_	3
+iti	iti[month]	N	N	D	_	_	_	_	_	_
+nesag	Nesag[1][-'a]	N	MN.L1	D	_	_	_	_	_	_
+x	_[_]	N	N	D	_	_	_	_	_	_

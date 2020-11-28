@@ -1,0 +1,27 @@
+#new_text=P145346					
+FORM	SEGM	XPOSTAG	XPOSTAG	POS	?	?	?	?	?	?
+1(u)	1(u)[ten]	NU	NU	D	B-COUNT	_	10	cardinal	_	10
+gurusz	gurusz[male]	N	N	D	B-COM	_	_	_	_	_
+ugula	ugula[overseer][-ø]	N	N	D	_	_	_	_	_	_
+lugal-mu-ma-ag2	Lugalmumag[1][-ø]	PN	PN.ABS	D	_	_	_	_	_	_
+3(disz)	3(disz)[one]	NU	NU	D	B-COUNT	_	3	cardinal	_	3
+ugula	ugula[overseer][-ø]	N	N	D	_	_	_	_	_	_
+lugal-ma2-gur8-re	Lugalmagure[1][-ø]	PN	PN	D	_	_	_	_	_	_
+6(disz)	6(disz)[one][-sze]	NU	NU	D	B-COUNT	_	6	cardinal	_	6
+ugula	ugula[overseer][-ø]	N	N	D	_	_	_	_	_	_
+da-da	Dada[1][-ak]	PN	PN	D	_	_	_	_	_	_
+3(disz)	3(disz)[one]	NU	NU	D	B-COUNT	_	3	cardinal	_	3
+ugula	ugula[overseer][-ø]	N	N	D	_	_	_	_	_	_
+ur-ama-na	Uramana[1]	PN	PN	D	_	_	_	_	_	_
+5(disz)	5(disz)[one]	NU	NU	D	B-COUNT	_	5	cardinal	_	5
+ugula	ugula[overseer][-ø]	N	N	D	_	_	_	_	_	_
+ur-{d}szul-pa-e3	Urszulpa'e[1]	PN	PN	D	_	_	_	_	_	_
+szunigin	szunigin[total]	N	N	D	_	_	_	_	_	_
+2(u)	2(u)[ten]	NU	NU	D	B-COUNT	_	27	cardinal	_	27
+7(disz)	7(disz)[one][-sze]	NU	NU	D	I-COUNT	*	*	*	*	*
+gurusz	gurusz[male]	N	N	D	B-COM	_	_	_	_	_
+gub-ba-am3	_	V	NF.V.PT.ABS.COP-3-SG	Iab	_	_	_	_	_	_
+gurum2	gurum[inspection]	N	N	D	_	_	_	_	_	_
+ak	ak[excavate][-a][-ak]	V	NF.V.PT	D	_	_	_	_	_	_
+igi	igi[eye][-ø]	N	N	D	_	_	_	_	_	_
+e2-amar	_	N	N	POS	_	_	_	_	_	_

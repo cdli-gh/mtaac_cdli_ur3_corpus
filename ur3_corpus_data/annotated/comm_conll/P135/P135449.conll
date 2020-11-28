@@ -1,0 +1,16 @@
+#new_text=P135449					
+FORM	SEGM	XPOSTAG	XPOSTAG	POS	?	?	?	?	?	?
+4(disz)	4(disz)[one]	NU	NU	D	B-COUNT	g	2000.0000000000002	weight	gin2	240
+ma-na	mana[unit]	N	N	D	I-COUNT	*	*	*	*	*
+siki-ba	_	V	V	POS	B-COM	_	_	_	_	_
+{d}szara2-kam	Szarakam[1]	PN	PN	D	_	_	_	_	_	_
+dumu	dumu[child]	N	N	D	_	_	_	_	_	_
+al-szi-dingir	_	PN	PN	Ia	_	_	_	_	_	_
+ki	ki[place]	N	N	D	_	_	_	_	_	_
+ur-{d}szara2-ra	_	PN	PN.GEN.ABL	Iabcdefgh	_	_	_	_	_	_
+gaba-ri	gabari[copy]	N	N	D	_	_	_	_	_	_
+kiszib3	kiszib[seal]	N	N	D	_	_	_	_	_	_
+ur-e2-mah	Uremah[1]	PN	PN	D	_	_	_	_	_	_
+mu	mu[year]	N	N	D	_	_	_	_	_	_
+ma2-gur8-mah	magurmah[great_barge][-ø]	N	N.ABS	D	_	_	_	_	_	_
+ba-dim2	ba-dim[create][-ø]	V	MID.V.3-SG-S	D	_	_	_	_	_	_

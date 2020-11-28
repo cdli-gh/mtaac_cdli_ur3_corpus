@@ -1,0 +1,25 @@
+#new_text=P250777					
+FORM	SEGM	XPOSTAG	XPOSTAG	POS	B-COUNT	l	40	"dry	*	*
+4(ban2)	4(ban)[unit]	NU	N	D	I-COUNT	*	*	*	sila3	40
+sze-ba	szeba[ration]	N	N	D	B-COM	_	_	_	_	_
+inim-{d}szara2	Inimszara[1][-ak][-ra]	PN	PN	D	_	_	_	_	_	_
+*RETOK*-capacity"	?	?	?	?	B-COUNT	l	40	"dry	*	*
+4(ban2)	4(ban)[unit]	NU	N	D	I-COUNT	*	*	*	sila3	40
+ab-ba-gi-na	Abbagina[1]	PN	PN	D	_	_	_	_	_	_
+*RETOK*-capacity"	?	?	?	?	B-COUNT	l	40	"dry	*	*
+4(ban2)	4(ban)[unit]	NU	N	D	I-COUNT	*	*	*	sila3	40
+lugal-ezem	Lugalezem[1]	PN	PN	D	_	_	_	_	_	_
+sze-ba	szeba[ration]	N	N	D	B-COM	_	_	_	_	_
+er2-dingir-ka	_	PN	PN	Iabcdefgh	_	_	_	_	_	_
+ku5-dam	_	V	V	POS	_	_	_	_	_	_
+sze-bi	sze[barley]-bi[-ø]	N	N.3-SG-NH-POSS.ABS	D	_	_	_	_	_	_
+ki	ki[place]	N	N	D	_	_	_	_	_	_
+gu-du-du-ta	_	PN	PN.GEN.ABL	Iabcdef	_	_	_	_	_	_
+szu	szu[hand][-e]	N	N.L3-NH	D	_	_	_	_	_	_
+ba-ab-ti	ba-b-teg[accept][-ø]	V	MID.3-SG-NH-A.V.3-SG-P	D	_	_	_	_	_	_
+iti	iti[month]	N	N	D	_	_	_	_	_	_
+{d}li9-si4	Lisi[1][-'a]	MN	MN.L1	D	_	_	_	_	_	_
+mu	mu[year]	N	N	D	_	_	_	_	_	_
+en	en[priest]	N	N	D	_	_	_	_	_	_
+eridu{ki}	Eridug[1][-ak][-ø]	SN	SN.GEN.ABS	D	_	_	_	_	_	_
+ba-hun	ba-hug[hire][-ø]	V	MID.V.3-SG-S	D	_	_	_	_	_	_

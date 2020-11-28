@@ -1,0 +1,23 @@
+#new_text=P339833					
+FORM	SEGM	XPOSTAG	XPOSTAG	POS	?	?	?	?	?	?
+5(asz)	5(asz)[one]	NU	NU	D	B-COUNT	_	5	cardinal	_	5
+sze-numun	szenumun[seed]	N	N	D	_	_	_	_	_	_
+ur5-ra	urra[loan]	N	N	D	B-COM	_	_	_	_	_
+gur	gur[unit]	N	N	D	_	_	_	_	_	_
+ki-su7	kisur[threshing_floor]	N	N	D	_	_	_	_	_	_
+gu-la-ta	_	V	NF.V.ABS.GEN.GEN.ABL	Iabcdefg	_	_	_	_	_	_
+ki	ki[place]	N	N	D	_	_	_	_	_	_
+lu2-{d}szul-gi-ra-ta	_	PN	PN.GEN.ABL	Iabcdef	_	_	_	_	_	_
+kiszib3	kiszib[seal]	N	N	D	_	_	_	_	_	_
+ur-{gesz}gigir	Urgigir[1]	PN	PN	D	_	_	_	_	_	_
+szabra	szabra[chief_administrator][-ak]	N	N	D	_	_	_	_	_	_
+iti	iti[month]	N	N	D	_	_	_	_	_	_
+{d}li9-si4	Lisi[1][-'a]	MN	MN.L1	D	_	_	_	_	_	_
+mu	mu[year]	N	N	D	_	_	_	_	_	_
+en	en[priest]	N	N	D	_	_	_	_	_	_
+eridu{ki}	Eridug[1][-ak][-ø]	SN	SN.GEN.ABS	D	_	_	_	_	_	_
+ba-hun	ba-hug[hire][-ø]	V	MID.V.3-SG-S	D	_	_	_	_	_	_
+ur-{gesz}gigir	Urgigir[1]	PN	PN	D	_	_	_	_	_	_
+dub-sar	dubsar[scribe]	N	N	D	_	_	_	_	_	_
+dumu	dumu[child]	N	N	D	_	_	_	_	_	_
+bar-ra-an	_	PN	PN	POS	_	_	_	_	_	_

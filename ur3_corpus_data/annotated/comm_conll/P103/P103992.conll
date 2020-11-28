@@ -1,0 +1,25 @@
+#new_text=P103992					
+FORM	SEGM	XPOSTAG	XPOSTAG	POS	?	?	?	?	?	?
+1(u)	1(u)[ten]	NU	NU	D	B-COUNT	g	7000.000000000001	weight	gin2	840
+4(disz)	4(disz)[one]	NU	NU	D	I-COUNT	*	*	*	*	*
+ma-na	mana[unit]	N	N	D	I-COUNT	*	*	*	*	*
+gi	gi[reed][-ø]	N	N	D	_	_	_	_	_	_
+1(disz)	1(disz)[one]	NU	NU	D	B-COUNT	g	500.00000000000006	weight	gin2	60
+ma-na	mana[unit]	N	N	D	I-COUNT	*	*	*	*	*
+szu-ur2-me	_	N	N	POS	_	_	_	_	_	_
+2(disz)	2(disz)[one]	NU	NU	D	B-COUNT	g	1000.0000000000001	weight	gin2	120
+ma-na	mana[unit]	N	N	D	I-COUNT	*	*	*	*	*
+za-ba-lum	_	DN	DN	POS	_	_	_	_	_	_
+*RETOK*-capacity"	?	?	?	?	B-COUNT	l	2	"liquid	*	*
+*RETOK*-capacity"	?	?	?	?	I-COUNT	l	2	"dry	sila3	2
+2(disz)	2(disz)[one]	NU	NU	D	I-COUNT	*	*	*	sila3	2
+sila3	sila[unit]	N	N	D	I-COUNT	*	*	*	*	*
+SZIM	szim[beer_malt]	N	N	D	_	_	_	_	_	_
+za-du5	_	N	N	POS	_	_	_	_	_	_
+2(disz)	2(disz)[one]	NU	NU	D	B-COUNT	g	1000.0000000000001	weight	gin2	120
+ma-na	mana[unit]	N	N	D	I-COUNT	*	*	*	*	*
+SZIM	szim[beer_malt]	N	N	D	B-COM	_	_	_	_	_
+din	_	N	N	POS	_	_	_	_	_	_
+1(disz)	1(disz)[one]	NU	NU	D	B-COUNT	_	1	cardinal	_	1
+SZIM	szim[beer_malt]	N	N	D	B-COM	_	_	_	_	_
+gu4-ku-ru	_	PN	PN	POS	_	_	_	_	_	_

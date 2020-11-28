@@ -1,0 +1,25 @@
+#new_text=P143912					
+FORM	SEGM	XPOSTAG	XPOSTAG	POS	?	?	?	?	?	?
+3(disz)	3(disz)[one]	NU	NU	D	B-COUNT	_	3	cardinal	_	3
+gurusz	gurusz[male]	N	N	D	B-COM	_	_	_	_	_
+sza3-gu4	szagu[ox-driver]	PN	N	D	_	_	_	_	_	_
+ma2	ma[ship]	N	N	D	_	_	_	_	_	_
+zi-da	zid[right]-a	V	NF.V.PT	D	_	_	_	_	_	_
+gid2-da	gid[lengthen]-a[-ø]	V	NF.V.PT	D	_	_	_	_	_	_
+1(u)	1(u)[ten]	NU	NU	D	B-COUNT	_	14	cardinal	_	14
+4(disz)	4(disz)[one]	NU	NU	D	I-COUNT	*	*	*	*	*
+u4-sze3	_	N	N	POS	_	_	_	_	_	_
+ki	ki[place]	N	N	D	_	_	_	_	_	_
+ur-e2-nun-na-ta	Urenuna[1][-ak]-ta	PN	PN.GEN.ABL	D	_	_	_	_	_	_
+giri3	giri[foot]	N	N	D	_	_	_	_	_	_
+ku3-ga-ni	Kugani[1]	PN	PN	D	_	_	_	_	_	_
+iti	iti[month]	N	N	D	_	_	_	_	_	_
+diri	diri[intercalary_month]	N	N	D	_	_	_	_	_	_
+mu	mu[year]	N	N	D	_	_	_	_	_	_
+{d}amar-{d}suen	Amarsuen[1]	RN	RN	D	_	_	_	_	_	_
+lugal-e	lugal[king]-e	N	N.ERG	D	B-COM	_	_	_	_	_
+ur-bi2-i3-lum{ki}	_	GN	GN	POS	_	_	_	_	_	_
+mu-hul	mu[-n]-hulu[destroy][-ø]	V	VEN.3-SG-H-A.V.3-SG-P	D	_	_	_	_	_	_
+ku3-ga-ni	Kugani[1]	PN	PN	D	_	_	_	_	_	_
+dumu	dumu[child]	N	N	D	_	_	_	_	_	_
+gu3-de2-a	Gude'a[1][-ra]	PN	PN	D	_	_	_	_	_	_

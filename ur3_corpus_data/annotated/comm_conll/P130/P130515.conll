@@ -1,0 +1,27 @@
+#new_text=P130515					
+FORM	SEGM	XPOSTAG	XPOSTAG	POS	?	?	?	?	?	?
+1(asz)	1(asz)[one]	NU	NU	D	B-COUNT	*	*	*	*	*
+2(barig)	2(bariga)[unit]	NU	N	D	I-COUNT	*	*	*	*	*
+sze	sze[barley]	N	N	D	I-COUNT	*	*	*	*	*
+gur	gur[unit]	N	N	D	I-COUNT	*	*	*	*	*
+lugal	lugal[king]	N	N	D	_	_	_	_	_	_
+sa2-du11-sze3	_	N	N.TERM	D	_	_	_	_	_	_
+ki	ki[place]	N	N	D	_	_	_	_	_	_
+szu-esz18-dar-ta	_	PN	PN.GEN.ABL	Iabcdef	_	_	_	_	_	_
+bi2-du11-i3-sa6	_	PN	PN.GEN.DAT-H	Iabcdef	_	_	_	_	_	_
+szu	szu[hand][-e]	N	N.L3-NH	D	B-COM	_	_	_	_	_
+ba-ti	ba[-n]-teg[accept][-ø]	V	MID.3-SG-H-A.V.3-SG-P	D	_	_	_	_	_	_
+kiszib3	kiszib[seal]	N	N	D	_	_	_	_	_	_
+nin-inim-gi-na	Nininimgina[1][-ra]	PN	PN	D	_	_	_	_	_	_
+ib2-ra	_	PN	PN	POS	_	_	_	_	_	_
+sze	sze[barley]	N	N	D	_	_	_	_	_	_
+da-ra	_	AJ	AJ	POS	_	_	_	_	_	_
+dub-ba	[dub-ba]	N	dub[tablet]-ak	D	_	_	_	_	_	_
+giri3	giri[foot]	N	N	D	_	_	_	_	_	_
+ur-{d}nin-gesz-zi-da	_	PN	PN.GEN.ABS	D	_	_	_	_	_	_
+iti	iti[month]	N	N	D	_	_	_	_	_	_
+ses-da-gu7	Sesdagu[1][-'a]	MN	MN.L1	D	_	_	_	_	_	_
+mu	mu[year]	N	N	D	_	_	_	_	_	_
+en	en[priest]	N	N	D	_	_	_	_	_	_
+eridu{ki}	Eridug[1][-ak][-ø]	SN	SN.GEN.ABS	D	_	_	_	_	_	_
+ba-hun	ba-hug[hire][-ø]	V	MID.V.3-SG-S	D	_	_	_	_	_	_

@@ -1,0 +1,21 @@
+#new_text=P125704					
+FORM	SEGM	XPOSTAG	XPOSTAG	POS	?	?	?	?	?	?
+5(disz)	5(disz)[one]	NU	NU	D	B-COUNT	_	5	cardinal	_	5
+gukkal	gukkal[fat-tailed_sheep]	N	N	D	B-COM	_	_	_	_	_
+u4	ud[day]	N	N	D	_	_	_	_	_	_
+1(disz)-kam	1(disz)[one]-ak-am	NU	NU.GEN.COP-3-SG	D	B-COUNT	_	1	cardinal	_	1
+4(disz)	4(disz)[one]	NU	NU	D	B-COUNT	_	4	cardinal	_	4
+sila4	sila[lamb]	N	N	D	B-COM	_	_	_	_	_
+u4	ud[day]	N	N	D	_	_	_	_	_	_
+2(disz)-kam	2(disz)[one]-ak-am	NU	NU.GEN.COP-3-SG	D	B-COUNT	_	2	cardinal	_	2
+ki	ki[place]	N	N	D	B-COM	_	_	_	_	_
+in-ta-e3-a-ta	Inta'e'a[1][-ak]-ta	PN	PN.GEN.ABL	D	_	_	_	_	_	_
+du11-ga	dug[irrigate]-a	V	PN	D	_	_	_	_	_	_
+i3-dab5	i[-n]-dab[seize][-ø]	V	FIN.3-SG-H-A.V.3-SG-P	D	_	_	_	_	_	_
+mu	mu[year]	N	N	D	_	_	_	_	_	_
+ma2-dara3-abzu-ke4	_	N	N.GEN.ERG	Iabcdefgh	_	_	_	_	_	_
+ba-du8	_	V	MID.V.3-SG-S	Iabcde	_	_	_	_	_	_
+ur-mes	Urmes[1]	PN	PN	D	_	_	_	_	_	_
+dumu	dumu[child]	N	N	D	_	_	_	_	_	_
+la-na	Lana[1]	PN	PN	D	_	_	_	_	_	_
+kuruszda	kuruszda[animal_fattener][-ø]	N	N.GEN.ABS	D	_	_	_	_	_	_

@@ -1,0 +1,19 @@
+#new_text=P109175					
+FORM	SEGM	XPOSTAG	XPOSTAG	POS	?	?	?	?	?	?
+x	_[_]	N	N	D	_	_	_	_	_	_
+{gesz}u3-suh5	usuh[tree]	N	N	D	_	_	_	_	_	_
+3(disz)	3(disz)[one]	NU	NU	D	B-COUNT	_	3	cardinal	_	3
+{gesz}x-x	_	FN	FN	POS	_	_	_	_	_	_
+1(disz)	1(disz)[one]	NU	NU	D	B-COUNT	_	1	cardinal	_	1
+{gesz}x-DU-x	_	PN	PN.DAT-H	Iabcdefgh	_	_	_	_	_	_
+5(disz)	5(disz)[one]	NU	NU	D	B-COUNT	_	5	cardinal	_	5
+{gesz}u3-suh5	usuh[tree]	N	N	D	_	_	_	_	_	_
+x	_[_]	N	N	D	_	_	_	_	_	_
+dub-la2-mah	dublamah[magnificent_tower][-sze]	TN	TN.TERM	D	_	_	_	_	_	_
+ur-{d}ig-alim	Urigalim[1]	FN	PN	D	_	_	_	_	_	_
+u3	u[and]	CNJ	CNJ	D	B-COM	_	_	_	_	_
+lu2-{d}ba-ba6-ke4	_	PN	PN.GEN.ERG	Iabcdefg	_	_	_	_	_	_
+szu	szu[hand][-e]	N	N.L3-NH	D	_	_	_	_	_	_
+ba-ti-esz	_	V	MID.3-SG-H-A.V.3-PL	Iabcdefghi	_	_	_	_	_	_
+iti	iti[month]	N	N	D	_	_	_	_	_	_
+ezem-{d}li9-si4	_	MN	MN	POS	_	_	_	_	_	_

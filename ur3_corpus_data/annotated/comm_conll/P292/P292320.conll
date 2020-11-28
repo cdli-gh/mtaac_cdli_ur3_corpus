@@ -1,0 +1,16 @@
+#new_text=P292320					
+FORM	SEGM	XPOSTAG	XPOSTAG	POS	?	?	?	?	?	?
+1(asz)	1(asz)[one]	NU	NU	D	B-COUNT	_	1	cardinal	_	1
+ur-{d}suen	Ursuen[1]	PN	PN	D	_	_	_	_	_	_
+1(asz)	1(asz)[one]	NU	NU	D	B-COUNT	_	1	cardinal	_	1
+ur-nigar{gar}	Urnigar[1]	PN	PN	D	_	_	_	_	_	_
+lu2	lu[person]	N	N	D	_	_	_	_	_	_
+ma2	ma[ship]	N	N	D	_	_	_	_	_	_
+i3-da-mu-ka-sze3	_	N	N	POS	_	_	_	_	_	_
+bi2-du-sza-me-esz2	_	V	V	POS	_	_	_	_	_	_
+...-me-esz2	_	PN	PN	Iabcdefgh	_	_	_	_	_	_
+...	_[_]	PN	N	D	_	_	_	_	_	_
+en8-bi	_	N	N.ABS	Iabcdef	_	_	_	_	_	_
+tar-re-dam	_	V	NF.V.F.ABS.COP-3-SG	Iabcdef	B-COM	_	_	_	_	_
+gesz-tug2-ga	_	N	N.GEN	Iabcde	_	_	_	_	_	_
+ru-dam	_	V	V	POS	_	_	_	_	_	_

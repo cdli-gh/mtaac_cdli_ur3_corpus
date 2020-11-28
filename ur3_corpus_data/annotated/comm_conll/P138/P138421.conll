@@ -1,0 +1,16 @@
+#new_text=P138421					
+FORM	SEGM	XPOSTAG	XPOSTAG	POS	?	?	?	?	?	?
+2(disz)	2(disz)[one]	NU	NU	D	B-COUNT	_	2	cardinal	_	2
+tug2	tug[textile]	N	N	D	B-COM	_	_	_	_	_
+mug	mug[inferior_wool]	N	N	D	_	_	_	_	_	_
+sa-gi4-de3	_	PN	PN	POS	_	_	_	_	_	_
+ba-a-a	_	PN	PN	D	_	_	_	_	_	_
+dub-sar	dubsar[scribe]	N	N	D	_	_	_	_	_	_
+1(disz)	1(disz)[one]	NU	NU	D	B-COUNT	_	1	cardinal	_	1
+tug2	tug[textile]	N	N	D	B-COM	_	_	_	_	_
+usz-bar	uszbar[weaver][-ak]	N	N	D	_	_	_	_	_	_
+3(u)	3(u)[ten]	NU	NU	D	B-COUNT	_	37	cardinal	_	37
+7(disz)	7(disz)[one][-sze]	NU	NU	D	I-COUNT	*	*	*	*	*
+tug2	tug[textile]	N	N	D	_	_	_	_	_	_
+usz-bar	uszbar[weaver][-ak]	N	N	D	_	_	_	_	_	_
+ge6	giggi[black][-ø]	V	NF.V.ABS	D	_	_	_	_	_	_

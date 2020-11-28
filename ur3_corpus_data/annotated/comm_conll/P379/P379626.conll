@@ -1,0 +1,23 @@
+#new_text=P379626					
+FORM	SEGM	XPOSTAG	XPOSTAG	POS	?	?	?	?	?	?
+6(asz)	6(asz)[one]	NU	NU	D	B-COUNT	_	0.0005555555555555556	cardinal	_	0.0005555555555555556
+sze	sze[barley]	N	N	D	I-COUNT	*	*	*	*	*
+szim	_	N	N	Ia	B-COM	_	_	_	_	_
+gur	gur[unit]	N	N	D	_	_	_	_	_	_
+ga2-nun	_	N	N	D	_	_	_	_	_	_
+gesz-ta	_	N	N.ABL	Iabcdefghi	_	_	_	_	_	_
+ki	ki[place]	N	N	D	_	_	_	_	_	_
+lu2-kal-la-ta	Lukala[1][-ak]-ta	PN	PN.GEN.ABL	D	_	_	_	_	_	_
+kiszib3	kiszib[seal]	N	N	D	_	_	_	_	_	_
+lugal-dumu-gi7	_	PN	PN	D	_	_	_	_	_	_
+giri3	giri[foot]	N	N	D	_	_	_	_	_	_
+ur-an-nu-ni-tum	_	PN	PN.DAT-H	Iab	_	_	_	_	_	_
+iti	iti[month]	N	N	D	_	_	_	_	_	_
+ezem-{d}li9-si4	_	MN	MN	POS	_	_	_	_	_	_
+mu	mu[year]	N	N	D	_	_	_	_	_	_
+en	en[priest]	N	N	D	_	_	_	_	_	_
+{d}inanna	Inanna[1][-ak]	DN	DN	D	_	_	_	_	_	_
+ba-hun	ba-hug[hire][-ø]	V	MID.V.3-SG-S	D	_	_	_	_	_	_
+lugal-dumu-gi7	_	PN	PN	D	_	_	_	_	_	_
+dumu	dumu[child]	N	N	D	_	_	_	_	_	_
+ur-e2-dub	_	PN	PN	Iabcde	_	_	_	_	_	_

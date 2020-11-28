@@ -1,0 +1,26 @@
+#new_text=P491938					
+FORM	SEGM	XPOSTAG	XPOSTAG	POS	?	?	?	?	?	?
+1(disz)	1(disz)[one]	NU	NU	D	B-COUNT	_	1	cardinal	_	1
+tug2	tug[textile]	N	N	D	B-COM	_	_	_	_	_
+a2-bu-um	_	PN	PN	Ia	_	_	_	_	_	_
+2(disz)	2(disz)[one]	NU	NU	D	B-COUNT	_	2	cardinal	_	2
+tug2	tug[textile]	N	N	D	B-COM	_	_	_	_	_
+mu-du8-um	_	V	VEN.3-SG-H-A.V.3-SG-P.SUB.3-SG-H-POSS.GEN	Iabcdef	_	_	_	_	_	_
+saga	saga[good][-ø]	V	NF.V.ABS	D	_	_	_	_	_	_
+2(disz)	2(disz)[one]	NU	NU	D	B-COUNT	_	2	cardinal	_	2
+gada	gada[flax]	N	N	D	B-COM	_	_	_	_	_
+du	gin[quality_designation][-ø]	V	NF.V.ABS	D	_	_	_	_	_	_
+e2-du10-us2-ta	_	PN	PN	POS	_	_	_	_	_	_
+8(disz)	8(disz)[one]	NU	NU	D	B-COUNT	_	8	cardinal	_	8
+gu2-e3	_	N	N	POS	_	_	_	_	_	_
+6(disz)	6(disz)[one][-sze]	NU	NU	D	B-COUNT	_	6	cardinal	_	6
+tug2	tug[textile]	N	N	D	B-COM	_	_	_	_	_
+nig2-lam2	niglam[ceremonial_garment][-ak]	N	N.GEN	D	_	_	_	_	_	_
+saga	saga[good][-ø]	V	NF.V.ABS	D	_	_	_	_	_	_
+1(disz)	1(disz)[one]	NU	NU	D	B-COUNT	_	1	cardinal	_	1
+gada	gada[flax]	N	N	D	B-COM	_	_	_	_	_
+du	gin[quality_designation][-ø]	V	NF.V.ABS	D	_	_	_	_	_	_
+e2-dub-ba-du3	_	PN	PN	POS	_	_	_	_	_	_
+ur-szul	_	PN	PN	Iabcde	_	_	_	_	_	_
+szu	szu[hand][-e]	N	N.L3-NH	D	_	_	_	_	_	_
+ba-ti	ba[-n]-teg[accept][-ø]	V	MID.3-SG-H-A.V.3-SG-P	D	_	_	_	_	_	_

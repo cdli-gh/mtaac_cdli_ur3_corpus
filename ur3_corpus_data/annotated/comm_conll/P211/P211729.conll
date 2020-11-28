@@ -1,0 +1,24 @@
+#new_text=P211729					
+FORM	SEGM	XPOSTAG	XPOSTAG	POS	?	?	?	?	?	?
+3(disz)	3(disz)[one]	NU	NU	D	B-COUNT	g	1591.6666666666667	weight	gin2	191
+ma-na	mana[unit]	N	N	D	I-COUNT	*	*	*	*	*
+1(u)	1(u)[ten]	NU	NU	D	I-COUNT	*	*	*	*	*
+1(disz)	1(disz)[one]	NU	NU	D	I-COUNT	*	*	*	*	*
+gin2	gig[unit]	N	N	D	I-COUNT	*	*	*	*	*
+uruda	urud[copper][-ak]	N	N	D	B-COM	_	_	_	_	_
+kin	kig[work]	N	N	D	_	_	_	_	_	_
+til-la	til[complete]-a	V	NF.V.PT	D	_	_	_	_	_	_
+HAR-DUB	_			POS	_	_	_	_	_	_
+KA-a-ba-ka	_			POS	_	_	_	_	_	_
+ba-a-kesz2	_	V	V	POS	_	_	_	_	_	_
+e2-gal	egal[palace][-ak][-'a]	N	N	D	_	_	_	_	_	_
+tum-ma-al{ki}	_	SN	SN	Iabc	_	_	_	_	_	_
+giri3	giri[foot]	N	N	D	_	_	_	_	_	_
+lugal-nesag-e	Lugalnesage[1][-e]	PN	PN	D	_	_	_	_	_	_
+mu	mu[year]	N	N	D	_	_	_	_	_	_
+{d}nanna	Nanna[1][-ak]	DN	DN	D	_	_	_	_	_	_
+kar-zi-da	Karzida[1][-ak][-ak][-ø]	SN	SN.GEN.GEN.ABS	D	_	_	_	_	_	_
+a-ra2	ara[times]	N	N	D	_	_	_	_	_	_
+2(disz)-kam-asz	_	NU	NU.GEN.COP-3-SG.TERM	Iabcdef	B-COUNT	_	2	cardinal	_	2
+e2-a-na	Eana[1][-'a]	TN	TN.L1	D	_	_	_	_	_	_
+ba-kux(KWU147)	ba[-n]-kur[enter][-ø]	V	MID.L1-SYN.V.3-SG-S	D	_	_	_	_	_	_

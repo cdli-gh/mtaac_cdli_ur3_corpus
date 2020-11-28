@@ -1,0 +1,25 @@
+#new_text=P130776					
+FORM	SEGM	XPOSTAG	XPOSTAG	POS	?	?	?	?	?	?
+1(disz)	1(disz)[one]	NU	NU	D	B-COUNT	_	1	cardinal	_	1
+gurusz	gurusz[male]	N	N	D	B-COM	_	_	_	_	_
+u4	ud[day]	N	N	D	_	_	_	_	_	_
+4(u)-sze3	_	NU	NU.GEN.COP-3-SG.TERM	Iabcdefg	B-COUNT	_	40	cardinal	_	40
+ga2-nun	_	N	N	D	_	_	_	_	_	_
+en-du8-an-du	_	PN	PN	Iabcde	_	_	_	_	_	_
+gaba	gaba[frontier][-ak]	N	N	D	B-COM	_	_	_	_	_
+e2	e[house]	N	N	D	_	_	_	_	_	_
+lugal-ka-da	_	N	N.GEN.GEN.GEN.TERM	Iabcdefghi	_	_	_	_	_	_
+tusz-a	tusz[dewell]-a	V	NF.V.PT	D	_	_	_	_	_	_
+ugula	ugula[overseer][-ø]	N	N	D	_	_	_	_	_	_
+a-gu-gu	Agugu[1][-ak]	PN	PN.GEN	D	_	_	_	_	_	_
+kiszib3	kiszib[seal]	N	N	D	_	_	_	_	_	_
+szesz-kal-la	Szeszkala[1][-ra]	PN	PN	D	_	_	_	_	_	_
+mu	mu[year]	N	N	D	_	_	_	_	_	_
+ha-ar-szi{ki}	Harszi[1]	SN	SN	D	_	_	_	_	_	_
+u3	u[and]	CNJ	CNJ	D	_	_	_	_	_	_
+ki-masz{ki}	Kimasz[1]	SN	SN.ABS	D	_	_	_	_	_	_
+ba-hul	ba-hulu[destroy][-ø]	V	MID.V.3-SG-S	D	_	_	_	_	_	_
+szesz-kal-la	Szeszkala[1][-ra]	PN	PN	D	_	_	_	_	_	_
+dub-sar	dubsar[scribe]	N	N	D	_	_	_	_	_	_
+dumu	dumu[child]	N	N	D	_	_	_	_	_	_
+ugu2-du6	Ugudu[1][-ak]	PN	PN.GEN	D	_	_	_	_	_	_

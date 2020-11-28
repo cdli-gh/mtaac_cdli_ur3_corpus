@@ -1,0 +1,19 @@
+#new_text=P133712					
+FORM	SEGM	XPOSTAG	XPOSTAG	POS	?	?	?	?	?	?
+5(gesz2)	5(gesz)[sixty]	NU	NU	D	B-COUNT	*	*	*	*	*
+8(asz)	8(asz)[one]	NU	NU	D	I-COUNT	*	*	*	*	*
+2(barig)	2(bariga)[unit]	NU	N	D	I-COUNT	*	*	*	*	*
+sze	sze[barley]	N	N	D	I-COUNT	*	*	*	*	*
+gur	gur[unit]	N	N	D	I-COUNT	*	*	*	*	*
+sze-ba	szeba[ration]	N	N	D	B-COM	_	_	_	_	_
+erin2-na	erin[people]	N	N.GEN	D	_	_	_	_	_	_
+ki	ki[place]	N	N	D	_	_	_	_	_	_
+lugal-a-ma-ru-ta	_	PN	PN.GEN.GEN.ABL	Iabcdefg	_	_	_	_	_	_
+lu2-dingir-ra	Ludingira[1][-ra]	PN	PN	D	_	_	_	_	_	_
+szu	szu[hand][-e]	N	N.L3-NH	D	_	_	_	_	_	_
+ba-ti	ba[-n]-teg[accept][-ø]	V	MID.3-SG-H-A.V.3-SG-P	D	_	_	_	_	_	_
+i3-dub	idub[granary]	N	N	D	_	_	_	_	_	_
+a-sza3	aszag[field]	N	N	D	_	_	_	_	_	_
+ul4-ul4	_	FN	FN	POS	_	_	_	_	_	_
+e2-babbar	_	TN	TN.GEN	Iabcde	_	_	_	_	_	_
+...	_[_]	PN	N	D	_	_	_	_	_	_

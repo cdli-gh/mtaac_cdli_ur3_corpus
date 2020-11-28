@@ -1,0 +1,23 @@
+#new_text=P122727					
+FORM	SEGM	XPOSTAG	XPOSTAG	POS	?	?	?	?	?	?
+la2-ia3	la'u[arrears]	N	N	D	_	_	_	_	_	_
+5(gesz2)	5(gesz)[sixty]	NU	NU	D	B-COUNT	_	304	cardinal	_	304
+4(disz)	4(disz)[one]	NU	NU	D	I-COUNT	*	*	*	*	*
+gurusz	gurusz[male]	N	N	D	B-COM	_	_	_	_	_
+u4	ud[day]	N	N	D	_	_	_	_	_	_
+1(disz)-sze3	1(disz)[one]-sze	NU	NU.TERM	D	B-COUNT	_	1	cardinal	_	1
+la2-ia3	la'u[arrears]	N	N	D	_	_	_	_	_	_
+su-su	sug-sug[repay][-ed]	V	NF.V.RDP.PF	D	_	_	_	_	_	_
+a2	a[time]	N	N	D	_	_	_	_	_	_
+bala-a-ka	_	N	N.GEN	Iabcde	_	_	_	_	_	_
+kiszib3	kiszib[seal]	N	N	D	_	_	_	_	_	_
+a-kal-la	Akala[1]	PN	PN	D	_	_	_	_	_	_
+mu	mu[year]	N	N	D	_	_	_	_	_	_
+ku3	kug[silver]	N	N	D	B-COM	_	_	_	_	_
+gu-za	guza[chair][-ø]	N	N	D	_	_	_	_	_	_
+{d}en-lil2-la2	Enlil[1][-ak][-ø]	DN	DN.GEN	D	_	_	_	_	_	_
+ba-dim2	ba-dim[create][-ø]	V	MID.V.3-SG-S	D	_	_	_	_	_	_
+a-kal-la	Akala[1]	PN	PN	D	_	_	_	_	_	_
+dub-sar	dubsar[scribe]	N	N	D	_	_	_	_	_	_
+dumu	dumu[child]	N	N	D	_	_	_	_	_	_
+lu2-sa6-ga	_	PN	PN	Iabcde	_	_	_	_	_	_

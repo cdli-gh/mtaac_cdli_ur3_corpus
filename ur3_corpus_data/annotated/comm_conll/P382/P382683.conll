@@ -1,0 +1,24 @@
+#new_text=P382683					
+FORM	SEGM	XPOSTAG	XPOSTAG	POS	?	?	?	?	?	?
+1(disz)	1(disz)[one]	NU	NU	D	B-COUNT	_	1	cardinal	_	1
+mu-du-lum	_	PN	PN	POS	B-COM	_	_	_	_	_
+udu-niga	_	N	N.2-SG-POSS.ABS	Iabcdef	_	_	_	_	_	_
+sag	sag[head]	N	N	D	_	_	_	_	_	_
+u4-sakar	usakar[crescent_moon][-sze]	N	N.TERM	D	_	_	_	_	_	_
+1(disz)	1(disz)[one]	NU	NU	D	B-COUNT	_	1	cardinal	_	1
+mu-du-lum	_	PN	PN	POS	B-COM	_	_	_	_	_
+udu-niga	_	N	N.2-SG-POSS.ABS	Iabcdef	_	_	_	_	_	_
+e2-u4-1(u)	_	NU	NU	Iabcdefgh	_	_	_	_	_	_
+5(disz)	5(disz)[one]	NU	NU	D	B-COUNT	_	5	cardinal	_	5
+sa2-du11	sadug[offerings]	N	N	D	_	_	_	_	_	_
+me-{d}isztaran	Me'isztaran[1]	PN	PN	D	_	_	_	_	_	_
+e2-gal-ta	egal[palace]-ta	N	N.ABL	D	_	_	_	_	_	_
+lu2-sza-lim	Luszalim[1]	PN	PN	D	_	_	_	_	_	_
+szu	szu[hand][-e]	N	N.L3-NH	D	B-COM	_	_	_	_	_
+ba-an-ti	ba-n-teg[accept][-ø]	V	MID.3-SG-H-A.V.3-SG-P	D	_	_	_	_	_	_
+iti	iti[month]	N	N	D	_	_	_	_	_	_
+sze-sag11-ku5	Szesagku[1][-'a]	MN	MN.L1	D	_	_	_	_	_	_
+mu	mu[year]	N	N	D	_	_	_	_	_	_
+si-ma-nu-um{ki}	_	GN	GN	POS	_	_	_	_	_	_
+ba-hul	ba-hulu[destroy][-ø]	V	MID.V.3-SG-S	D	_	_	_	_	_	_
+gaba-ri	gabari[copy]	N	N	D	_	_	_	_	_	_

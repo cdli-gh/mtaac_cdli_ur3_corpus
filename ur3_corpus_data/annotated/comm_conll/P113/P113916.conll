@@ -1,0 +1,21 @@
+#new_text=P113916					
+FORM	SEGM	XPOSTAG	XPOSTAG	POS	?	?	?	?	?	?
+1(u)	1(u)[ten]	NU	NU	D	B-COUNT	_	10	cardinal	_	10
+zi3	zid[flour]	N	N	D	B-COM	_	_	_	_	_
+sig15	sig[flour_type]	V	N	D	_	_	_	_	_	_
+lu2	lu[person]	N	N	D	_	_	_	_	_	_
+sze-ip-ri	_	V	V	POS	_	_	_	_	_	_
+1(u)	1(u)[ten]	NU	NU	D	B-COUNT	_	10	cardinal	_	10
+zi3	zid[flour]	N	N	D	B-COM	_	_	_	_	_
+sig15	sig[flour_type]	V	N	D	_	_	_	_	_	_
+mu	mu[year]	N	N	D	_	_	_	_	_	_
+ur-gi7	_	N	N.GEN	D	_	_	_	_	_	_
+tur-tur	_	V	V	POS	_	_	_	_	_	_
+u4	ud[day]	N	N	D	_	_	_	_	_	_
+7(disz)-kam	7(disz)[one]-ak-am[-'a]	NU	NU.GEN.COP-3-SG	D	B-COUNT	_	7	cardinal	_	7
+ha-ba-lu5-ge2	Habaluge[1][-ra]	PN	PN	D	_	_	_	_	_	_
+ensi2	ensik[ruler]	N	N	D	_	_	_	_	_	_
+adab{ki}	_	SN	SN.GEN.ABS	D	_	_	_	_	_	_
+amar-szuba3	_	PN	PN	D	_	_	_	_	_	_
+dub-sar	dubsar[scribe]	N	N	D	_	_	_	_	_	_
+ARAD2-zu	arad[slave]-zu[-ø]	PN	N.2-SG-POSS.ABS	D	_	_	_	_	_	_

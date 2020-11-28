@@ -1,0 +1,25 @@
+#new_text=P341939					
+FORM	SEGM	XPOSTAG	XPOSTAG	POS	?	?	?	?	?	?
+...	_[_]	PN	N	D	_	_	_	_	_	_
+6(disz)	6(disz)[one][-sze]	NU	NU	D	B-COUNT	_	6	cardinal	_	6
+sila3-ta	sila[unit]-ta	N	N.ABL	D	_	_	_	_	_	_
+a2-bi	a[labor]-bi	N	N.3-SG-NH-POSS.ABS	D	B-COM	_	_	_	_	_
+u4	ud[day]	N	N	D	_	_	_	_	_	_
+3(gesz'u)	3(gesz'u)[six_hundred]	NU	NU	D	B-COUNT	_	2040	cardinal	_	2040
+4(gesz2)	4(gesz)[sixty]	NU	NU	D	I-COUNT	*	*	*	*	*
+2(disz)-kam	2(disz)[one]-ak-am	NU	NU.GEN.COP-3-SG	D	B-COUNT	_	2	cardinal	_	2
+ki	ki[place]	N	N	D	_	_	_	_	_	_
+ARAD2-ta	Arad[1][-ak]-ta	PN	PN.GEN.ABL	D	_	_	_	_	_	_
+a2	a[time]	N	N	D	_	_	_	_	_	_
+lu2	lu[person]	N	N	D	_	_	_	_	_	_
+hun-ga2	hug[hire]-a	V	NF.V.PT	D	_	_	_	_	_	_
+2(u)	2(u)[ten]	NU	NU	D	B-COUNT	_	24	cardinal	_	24
+4(disz)	4(disz)[one]	NU	NU	D	I-COUNT	*	*	*	*	*
+gurusz	gurusz[male]	N	N	D	B-COM	_	_	_	_	_
+engar	engar[farmer]	N	N	D	_	_	_	_	_	_
+x	_[_]	N	N	D	_	_	_	_	_	_
+2(gesz2)	2(gesz)[sixty]	NU	NU	D	B-COUNT	_	132	cardinal	_	132
+1(u)	1(u)[ten]	NU	NU	D	I-COUNT	*	*	*	*	*
+2(disz)	2(disz)[one]	NU	NU	D	I-COUNT	*	*	*	*	*
+sze	sze[barley]	N	N	D	B-COM	_	_	_	_	_
+...	_[_]	PN	N	D	_	_	_	_	_	_

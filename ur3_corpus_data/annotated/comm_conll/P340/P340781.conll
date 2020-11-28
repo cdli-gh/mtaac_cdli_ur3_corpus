@@ -1,0 +1,18 @@
+#new_text=P340781					
+FORM	SEGM	XPOSTAG	XPOSTAG	POS	?	?	?	?	?	?
+1(asz)	1(asz)[one]	NU	NU	D	B-COUNT	_	1	cardinal	_	1
+sze-ba	szeba[ration]	N	N	D	B-COM	_	_	_	_	_
+za3-mu	Zamu[1][-ak]	PN	N	D	_	_	_	_	_	_
+gur	gur[unit]	N	N	D	_	_	_	_	_	_
+a-ab-ba-mu	Ayabbamu[1][-ra]	PN	PN	D	_	_	_	_	_	_
+szitim	_	N	N	Ia	_	_	_	_	_	_
+*RETOK*-capacity"	?	?	?	?	B-COUNT	l	180	"dry	*	*
+3(barig)	3(bariga)[unit]	NU	N	D	I-COUNT	*	*	*	sila3	180
+ARAD2-{d}szara2	Aradszara[1][-ak]	PN	PN.GEN	D	_	_	_	_	_	_
+sze-ba	szeba[ration]	N	N	D	B-COM	_	_	_	_	_
+za3-mu	Zamu[1][-ak]	PN	N	D	_	_	_	_	_	_
+didli	didli[several][-ø][-ak]	V	NF.V.ABS	D	_	_	_	_	_	_
+mu	mu[year]	N	N	D	_	_	_	_	_	_
+en	en[priest]	N	N	D	_	_	_	_	_	_
+eridu{ki}	Eridug[1][-ak][-ø]	SN	SN.GEN.ABS	D	_	_	_	_	_	_
+ba-hun	ba-hug[hire][-ø]	V	MID.V.3-SG-S	D	_	_	_	_	_	_

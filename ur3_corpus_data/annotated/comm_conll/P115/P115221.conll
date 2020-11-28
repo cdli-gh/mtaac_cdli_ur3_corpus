@@ -1,0 +1,21 @@
+#new_text=P115221					
+FORM	SEGM	XPOSTAG	XPOSTAG	POS	?	?	?	?	?	?
+2(disz)	2(disz)[one]	NU	NU	D	B-COUNT	_	2	cardinal	_	2
+gurusz	gurusz[male]	N	N	D	B-COM	_	_	_	_	_
+*RETOK*-capacity"	?	?	?	?	B-COUNT	l	50	"dry	*	*
+5(ban2)	5(ban)[unit]	NU	N	D	I-COUNT	*	*	*	sila3	50
+dabin	dabin[semolina]	N	N	D	_	_	_	_	_	_
+lugal-ta	lugal[king][-ak]-ta	N	N.GEN.ABL	D	_	_	_	_	_	_
+1(disz)	1(disz)[one]	NU	NU	D	B-COUNT	_	1	cardinal	_	1
+dumu	dumu[child]	N	N	D	_	_	_	_	_	_
+*RETOK*-capacity"	?	?	?	?	B-COUNT	l	30	"dry	*	*
+3(ban2)	3(ban)[unit]	NU	N	D	I-COUNT	*	*	*	sila3	30
+zi3-bi	_	N	N.3-SG-NH-POSS.ABS	Iabcde	B-COM	_	_	_	_	_
+*RETOK*-capacity"	?	?	?	?	B-COUNT	l	130	"dry	*	*
+2(barig)	2(bariga)[unit]	NU	N	D	I-COUNT	*	*	*	sila3	130
+1(ban2)	1(ban)[unit]	NU	N	D	I-COUNT	*	*	*	*	*
+mar-tu	Martu[1][-ø]	EN	EN.ABS	D	_	_	_	_	_	_
+muszen-du3	muszendu[bird_catcher]	N	N	D	_	_	_	_	_	_
+zi-ga	zig[expend]-a	V	NF.V.PT	D	_	_	_	_	_	_
+iti	iti[month]	N	N	D	_	_	_	_	_	_
+gu4-ra2-bi2-mu2-mu2	Gurabimumu[1][-'a]	MN	MN.L1	D	_	_	_	_	_	_

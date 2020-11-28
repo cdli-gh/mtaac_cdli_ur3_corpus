@@ -1,0 +1,26 @@
+#new_text=P135238					
+FORM	SEGM	XPOSTAG	XPOSTAG	POS	B-COUNT	l	30	"dry	*	*
+3(ban2)	3(ban)[unit]	NU	N	D	I-COUNT	*	*	*	sila3	30
+sza3-gal	szaggal[food]	N	N	D	_	_	_	_	_	_
+ansze	ansze[donkey]	N	N	D	B-COM	_	_	_	_	_
+giri3	giri[foot]	N	N	D	_	_	_	_	_	_
+geme2-nigar{gar}	Gemenigar[1][-ra]	PN	PN.DAT-H	D	_	_	_	_	_	_
+*RETOK*-capacity"	?	?	?	?	B-COUNT	l	30	"dry	*	*
+3(ban2)	3(ban)[unit]	NU	N	D	I-COUNT	*	*	*	sila3	30
+sza3-gal	szaggal[food]	N	N	D	_	_	_	_	_	_
+ansze	ansze[donkey]	N	N	D	B-COM	_	_	_	_	_
+1(barig)	1(bariga)[unit]	NU	N	D	B-COUNT	*	*	*	*	*
+sze	sze[barley]	N	N	D	I-COUNT	*	*	*	*	*
+ma2	ma[ship]	N	N	D	_	_	_	_	_	_
+{gesz}nig2	_	N	N	Ia	B-COM	_	_	_	_	_
+giri3	giri[foot]	N	N	D	_	_	_	_	_	_
+ARAD2-da	arad[slave]-da[-ak][-ø]	PN	N.COM.GEN.ABS	D	_	_	_	_	_	_
+x	_[_]	N	N	D	_	_	_	_	_	_
+dabin	dabin[semolina]	N	N	D	_	_	_	_	_	_
+gudu4	gudug[priest]	N	N	D	_	_	_	_	_	_
+x	_[_]	N	N	D	_	_	_	_	_	_
+*RETOK*-capacity"	?	?	?	?	B-COUNT	l	30	"dry	*	*
+3(ban2)	3(ban)[unit]	NU	N	D	I-COUNT	*	*	*	sila3	30
+sza3-gal	szaggal[food]	N	N	D	_	_	_	_	_	_
+ansze	ansze[donkey]	N	N	D	B-COM	_	_	_	_	_
+x	_[_]	N	N	D	_	_	_	_	_	_

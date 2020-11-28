@@ -1,0 +1,29 @@
+#new_text=P291744					
+FORM	SEGM	XPOSTAG	XPOSTAG	POS	B-COUNT	l	180	"dry	*	*
+3(barig)	3(bariga)[unit]	NU	N	D	I-COUNT	*	*	*	sila3	180
+ninda	ninda[bread]	N	N	D	B-COM	_	_	_	_	_
+du	gin[quality_designation][-ø]	V	NF.V.ABS	D	_	_	_	_	_	_
+*RETOK*-capacity"	?	?	?	?	B-COUNT	l	10	"dry	*	*
+1(ban2)	1(ban)[unit]	NU	N	D	I-COUNT	*	*	*	sila3	10
+nig2-ar3-ra	nigara[groats]	N	N	D	_	_	_	_	_	_
+saga	saga[good][-ø]	V	NF.V.ABS	D	_	_	_	_	_	_
+*RETOK*-capacity"	?	?	?	?	B-COUNT	l	13	"dry	*	*
+1(ban2)	1(ban)[unit]	NU	N	D	I-COUNT	*	*	*	sila3	13
+3(disz)	3(disz)[one]	NU	NU	D	I-COUNT	*	*	*	*	*
+sila3	sila[unit]	N	N	D	I-COUNT	*	*	*	*	*
+i3-szah2	iszah[lard][-ø]	N	N	D	B-COM	_	_	_	_	_
+...	_[_]	PN	N	D	_	_	_	_	_	_
+geme2	geme[female_worker]	N	N	D	_	_	_	_	_	_
+usz-bar	uszbar[weaver][-ak]	N	N	D	_	_	_	_	_	_
+geme2	geme[female_worker]	N	N	D	_	_	_	_	_	_
+kikken-na	kikken[miller]-ak	N	N.GEN	D	_	_	_	_	_	_
+...-sze3	_	PN	PN.GEN.TERM	Iabcdefg	_	_	_	_	_	_
+de6-a	de[bring]-a	V	NF.V.PT	D	_	_	_	_	_	_
+u3	u[and]	CNJ	CNJ	D	_	_	_	_	_	_
+...-iri-sag	_			POS	_	_	_	_	_	_
+tusz-a	tusz[dewell]-a	V	NF.V.PT	D	_	_	_	_	_	_
+giri3	giri[foot]	N	N	D	_	_	_	_	_	_
+ur-e11-e	Ure'e[1][-ak]	PN	PN	D	_	_	_	_	_	_
+mu	mu[year]	N	N	D	_	_	_	_	_	_
+{d}amar-{d}suen	Amarsuen[1]	RN	RN	D	_	_	_	_	_	_
+lugal	lugal[king]	N	N	D	_	_	_	_	_	_

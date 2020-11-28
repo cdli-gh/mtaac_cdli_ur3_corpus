@@ -1,0 +1,27 @@
+#new_text=P235596					
+FORM	SEGM	XPOSTAG	XPOSTAG	POS	?	?	?	?	?	?
+2(asz)	2(asz)[one]	NU	NU	D	B-COUNT	g	60000.00000000001	weight	gin2	7200
+gu2	gun[unit]	N	N	D	I-COUNT	*	*	*	*	*
+egir-an-na	_	PN	PN	POS	_	_	_	_	_	_
+3(u)	3(u)[ten]	NU	NU	D	B-COUNT	g	18000.0	weight	gin2	2160
+6(disz)	6(disz)[one][-sze]	NU	NU	D	I-COUNT	*	*	*	*	*
+ma-na	mana[unit]	N	N	D	I-COUNT	*	*	*	*	*
+mangaga	_	N	N	Ia	B-COM	_	_	_	_	_
+4(asz)	4(asz)[one]	NU	NU	D	B-COUNT	g	120000.00000000001	weight	gin2	14400
+gu2	gun[unit]	N	N	D	I-COUNT	*	*	*	*	*
+esir2	esir[bitumen]	N	N	D	_	_	_	_	_	_
+apin	apin[plow]	N	N	D	_	_	_	_	_	_
+mar-sa-asz	marsa[military_depot]-sze	PN	N.TERM	D	_	_	_	_	_	_
+ki	ki[place]	N	N	D	_	_	_	_	_	_
+ur-{d}szul-pa-e3-ta	Urszulpa'e[1][-ak]-ta	PN	PN.GEN.ABL	D	_	_	_	_	_	_
+kiszib3	kiszib[seal]	N	N	D	_	_	_	_	_	_
+lu2-sa6-i3-zu	Lusa'izu[1]	PN	PN.GEN	D	_	_	_	_	_	_
+iti	iti[month]	N	N	D	_	_	_	_	_	_
+diri	diri[intercalary_month]	N	N	D	_	_	_	_	_	_
+mu	mu[year]	N	N	D	_	_	_	_	_	_
+en-mah-gal-an-na	Enmahgalana[1]	PN	PN	D	_	_	_	_	_	_
+ba-hun	ba-hug[hire][-ø]	V	MID.V.3-SG-S	D	_	_	_	_	_	_
+lu2-sa6-i3-zu	Lusa'izu[1]	PN	PN.GEN	D	_	_	_	_	_	_
+dub-sar	dubsar[scribe]	N	N	D	_	_	_	_	_	_
+dumu	dumu[child]	N	N	D	_	_	_	_	_	_
+a-kal-la	Akala[1]	PN	PN	D	_	_	_	_	_	_

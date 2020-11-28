@@ -1,0 +1,22 @@
+#new_text=P102951					
+FORM	SEGM	XPOSTAG	XPOSTAG	POS	?	?	?	?	?	?
+4(disz)	4(disz)[one]	NU	NU	D	B-COUNT	_	4	cardinal	_	4
+tug2	tug[textile]	N	N	D	B-COM	_	_	_	_	_
+u2	u[grass]	N	N	D	_	_	_	_	_	_
+kal	_	V	V	POS	_	_	_	_	_	_
+ki-la2-bi	kila[weight]-bi[-ø]	N	N.3-SG-NH-POSS.ABS	D	_	_	_	_	_	_
+1(u)	1(u)[ten]	NU	NU	D	B-COUNT	g	6250.0	weight	gin2	750.0
+2(disz)	2(disz)[one]	NU	NU	D	I-COUNT	*	*	*	*	*
+1/2(disz)	1/2(disz)[one]	NU	NU	D	I-COUNT	*	*	*	*	*
+ma-na	mana[unit]	N	N	D	I-COUNT	*	*	*	*	*
+7(disz)	7(disz)[one][-sze]	NU	NU	D	B-COUNT	_	7	cardinal	_	7
+tug2	tug[textile]	N	N	D	B-COM	_	_	_	_	_
+u2	u[grass]	N	N	D	_	_	_	_	_	_
+ge6	giggi[black][-ø]	V	NF.V.ABS	D	_	_	_	_	_	_
+kal	_	V	V	POS	_	_	_	_	_	_
+ki-la2-bi	kila[weight]-bi[-ø]	N	N.3-SG-NH-POSS.ABS	D	_	_	_	_	_	_
+2(u)	2(u)[ten]	NU	NU	D	B-COUNT	g	12333.333333333334	weight	gin2	1480.0
+4(disz)	4(disz)[one]	NU	NU	D	I-COUNT	*	*	*	*	*
+2/3(disz)	2/3(disz)[one]	NU	NU	D	I-COUNT	*	*	*	*	*
+ma-na	mana[unit]	N	N	D	I-COUNT	*	*	*	*	*
+...	_[_]	PN	N	D	_	_	_	_	_	_

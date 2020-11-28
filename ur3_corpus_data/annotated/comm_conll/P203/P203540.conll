@@ -1,0 +1,23 @@
+#new_text=P203540					
+FORM	SEGM	XPOSTAG	XPOSTAG	POS	?	?	?	?	?	?
+2(gesz2)	2(gesz)[sixty]	NU	NU	D	B-COUNT	_	none	unknown	_	none
+...	_[_]	PN	N	D	I-COUNT	*	*	*	*	*
+gur	gur[unit]	N	N	D	I-COUNT	*	*	*	*	*
+i3-dub	idub[granary]	N	N	D	_	_	_	_	_	_
+a2-sun2-ta	_	N	N	POS	_	_	_	_	_	_
+sa2-du11	sadug[offerings]	N	N	D	_	_	_	_	_	_
+sze-ba	szeba[ration]	N	N	D	B-COM	_	_	_	_	_
+igi-sze3	igi[eye]-sze	N	N.TERM	D	_	_	_	_	_	_
+erin2	erin[people]	N	N	D	_	_	_	_	_	_
+ki	ki[place]	N	N	D	_	_	_	_	_	_
+ba-zi-ta	_	PN	PN.GEN.DAT-H	Iabcdefg	_	_	_	_	_	_
+lu2-{d}nin-gir2-su	Luningirsu[1]	PN	PN	D	_	_	_	_	_	_
+dumu	dumu[child]	N	N	D	_	_	_	_	_	_
+ur-{d}nansze	Urnansze[1]	PN	PN	D	_	_	_	_	_	_
+szu	szu[hand][-e]	N	N.L3-NH	D	_	_	_	_	_	_
+ba-ti	ba[-n]-teg[accept][-ø]	V	MID.3-SG-H-A.V.3-SG-P	D	_	_	_	_	_	_
+iti	iti[month]	N	N	D	_	_	_	_	_	_
+amar-a-a-si	Amarayasi[1][-'a]	MN	MN.L1	D	_	_	_	_	_	_
+mu	mu[year]	N	N	D	_	_	_	_	_	_
+ki-masz{ki}	Kimasz[1]	SN	SN.ABS	D	_	_	_	_	_	_
+ba-hul	ba-hulu[destroy][-ø]	V	MID.V.3-SG-S	D	_	_	_	_	_	_

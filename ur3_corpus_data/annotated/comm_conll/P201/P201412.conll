@@ -1,0 +1,27 @@
+#new_text=P201412					
+FORM	SEGM	XPOSTAG	XPOSTAG	POS	?	?	?	?	?	?
+6(disz)	6(disz)[one][-sze]	NU	NU	D	B-COUNT	g	3000.0	weight	gin2	360
+ma-na	mana[unit]	N	N	D	I-COUNT	*	*	*	*	*
+ku3-babbar	kugbabbar[silver]	N	N	D	B-COM	_	_	_	_	_
+sag	sag[head]	N	N	D	_	_	_	_	_	_
+na4-bi	_	N	N	POS	_	_	_	_	_	_
+6(disz)	6(disz)[one][-sze]	NU	NU	D	B-COUNT	_	0.1	cardinal	_	0.1
+gin2	gig[unit]	N	N	D	I-COUNT	*	*	*	*	*
+ku3-ku3-sig17	_	N	N	POS	_	_	_	_	_	_
+6(disz)	6(disz)[one][-sze]	NU	NU	D	B-COUNT	g	3000.0	weight	gin2	360
+ma-na	mana[unit]	N	N	D	I-COUNT	*	*	*	*	*
+ka-gu4	_	N	N	Ia	_	_	_	_	_	_
+sag	sag[head]	N	N	D	_	_	_	_	_	_
+na4-bi	_	N	N	POS	B-COM	_	_	_	_	_
+6(disz)	6(disz)[one][-sze]	NU	NU	D	B-COUNT	_	0.1	cardinal	_	0.1
+gin2	gig[unit]	N	N	D	I-COUNT	*	*	*	*	*
+bi2-gu7-bi	_	N	N	POS	_	_	_	_	_	_
+2(disz)	2(disz)[one]	NU	NU	D	B-COUNT	_	0.033796296296296297	cardinal	_	0.033796296296296297
+gin2	gig[unit]	N	N	D	I-COUNT	*	*	*	*	*
+5(disz)	5(disz)[one]	NU	NU	D	I-COUNT	*	*	*	*	*
+sze	sze[barley]	N	N	D	I-COUNT	*	*	*	*	*
+masz-da-re6-a	_	N	N	Ia	_	_	_	_	_	_
+lugal	lugal[king]	N	N	D	_	_	_	_	_	_
+mu	mu[year]	N	N	D	_	_	_	_	_	_
+an-sza-an{ki}	Anszan[1][-ø]	GN	GN.ABS	D	_	_	_	_	_	_
+ba-hul	ba-hulu[destroy][-ø]	V	MID.V.3-SG-S	D	_	_	_	_	_	_

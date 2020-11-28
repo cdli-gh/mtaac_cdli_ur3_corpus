@@ -1,0 +1,24 @@
+#new_text=P139045					
+FORM	SEGM	XPOSTAG	XPOSTAG	POS	B-COUNT	l	420	"dry	*	*
+1(asz)	1(asz)[one]	NU	NU	D	I-COUNT	*	*	*	sila3	420
+2(barig)	2(bariga)[unit]	NU	N	D	I-COUNT	*	*	*	*	*
+zu2-lum	zulum[date]	N	N	D	B-COM	_	_	_	_	_
+ki	ki[place]	N	N	D	_	_	_	_	_	_
+e2-a-ma-lik	_	PN	PN	Ia	_	_	_	_	_	_
+um-mi-a-ta	_	V	V	POS	_	_	_	_	_	_
+ugula	ugula[overseer][-ø]	N	N	D	_	_	_	_	_	_
+{d}suen-ba-ni	Su'enbani[1][-ra]	PN	PN	D	_	_	_	_	_	_
+szandana	szandanak[gardenner][-ra]	N	N	D	_	_	_	_	_	_
+mu	mu[year]	N	N	D	_	_	_	_	_	_
+sze-ba-sze3	_	N	N.TERM	Iabcde	_	_	_	_	_	_
+ur-ku3-nun-na	Urkununa[1][-e]	PN	PN	D	_	_	_	_	_	_
+szu	szu[hand][-e]	N	N.L3-NH	D	_	_	_	_	_	_
+ba-an-ti	ba-n-teg[accept][-ø]	V	MID.3-SG-H-A.V.3-SG-P	D	_	_	_	_	_	_
+giri3	giri[foot]	N	N	D	_	_	_	_	_	_
+ga-ti-e	_	PN	PN	Iabcdefgh	_	_	_	_	_	_
+iti	iti[month]	N	N	D	_	_	_	_	_	_
+ezem-{d}szul-gi	Ezemszulgir[1][-'a]	MN	MN.L1	D	_	_	_	_	_	_
+...	_[_]	PN	N	D	_	_	_	_	_	_
+mu	mu[year]	N	N	D	_	_	_	_	_	_
+bad3-gal	badgal[great_wall][-ø]	N	N.ABS	D	_	_	_	_	_	_
+ba-du3	ba-du[build][-ø]	V	MID.V.3-SG-S	D	_	_	_	_	_	_

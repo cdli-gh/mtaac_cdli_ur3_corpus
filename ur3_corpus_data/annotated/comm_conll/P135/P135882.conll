@@ -1,0 +1,26 @@
+#new_text=P135882					
+FORM	SEGM	XPOSTAG	XPOSTAG	POS	?	?	?	?	?	?
+1(disz)	1(disz)[one]	NU	NU	D	B-COUNT	_	0.017499999999999998	cardinal	_	0.017499999999999998
+gin2	gig[unit]	N	N	D	I-COUNT	*	*	*	*	*
+1(u)	1(u)[ten]	NU	NU	D	I-COUNT	*	*	*	*	*
+la2	la[hang][-ø]	V	NF.V.ABS	D	I-COUNT	*	*	*	*	*
+1(disz)	1(disz)[one]	NU	NU	D	I-COUNT	*	*	*	*	*
+sze	sze[barley]	N	N	D	I-COUNT	*	*	*	*	*
+ku3-babbar	kugbabbar[silver]	N	N	D	B-COM	_	_	_	_	_
+2(u)	2(u)[ten]	NU	NU	D	B-COUNT	g	12000.0	weight	gin2	1440
+4(disz)	4(disz)[one]	NU	NU	D	I-COUNT	*	*	*	*	*
+ma-na	mana[unit]	N	N	D	I-COUNT	*	*	*	*	*
+siki-gi	sikigi[wool_type]	N	N	D	_	_	_	_	_	_
+si-i3-tum	situm[balance]	N	N	D	_	_	_	_	_	_
+nig2-ka9-ak	nigSZID[account]	N	N	D	_	_	_	_	_	_
+mu	mu[year]	N	N	D	_	_	_	_	_	_
+en	en[priest]	N	N	D	_	_	_	_	_	_
+{d}nanna	Nanna[1][-ak]	DN	DN	D	_	_	_	_	_	_
+ba-hun-ga2	ba-hug[hire][-ø]	V	MID.V.3-SG-S	D	_	_	_	_	_	_
+...	_[_]	PN	N	D	_	_	_	_	_	_
+al-la	Alla[1]	PN	PN	D	_	_	_	_	_	_
+...	_[_]	PN	N	D	_	_	_	_	_	_
+x	_[_]	N	N	D	_	_	_	_	_	_
+mu	mu[year]	N	N	D	_	_	_	_	_	_
+{d}amar-{d}suen	Amarsuen[1]	RN	RN	D	_	_	_	_	_	_
+lugal	lugal[king]	N	N	D	_	_	_	_	_	_

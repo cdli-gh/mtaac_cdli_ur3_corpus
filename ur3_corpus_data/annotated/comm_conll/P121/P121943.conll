@@ -1,0 +1,11 @@
+#new_text=P121943					
+FORM	SEGM	XPOSTAG	XPOSTAG	POS	B-COUNT	l	0.007407407407407407	"dry	*	*
+1(gesz2)	1(gesz)[sixty]	NU	NU	D	I-COUNT	*	*	*	sila3	0.007407407407407407
+2(u)	2(u)[ten]	NU	NU	D	I-COUNT	*	*	*	*	*
+sze	sze[barley]	N	N	D	I-COUNT	*	*	*	*	*
+gur	gur[unit]	N	N	D	I-COUNT	*	*	*	*	*
+{d}eb-gal	_	DN	DN	Iabcde	_	_	_	_	_	_
+u3	u[and]	CNJ	CNJ	D	B-COM	_	_	_	_	_
+{d}en-ki	Enki[1][-ak][-ø]	DN	DN.GEN.ABS	D	_	_	_	_	_	_
+sze	sze[barley]	N	N	D	_	_	_	_	_	_
+gu2-edin-na	Gu'edina[1][-ak][-'a]	SN	SN.GEN.L1	D	_	_	_	_	_	_

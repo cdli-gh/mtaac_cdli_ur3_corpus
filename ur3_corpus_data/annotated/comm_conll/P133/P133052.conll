@@ -1,0 +1,22 @@
+#new_text=P133052					
+FORM	SEGM	XPOSTAG	XPOSTAG	POS	?	?	?	?	?	?
+2(gesz2)	2(gesz)[sixty]	NU	NU	D	B-COUNT	_	none	unknown	_	none
+x	_[_]	N	N	D	I-COUNT	*	*	*	*	*
+sze	sze[barley]	N	N	D	I-COUNT	*	*	*	*	*
+gur	gur[unit]	N	N	D	I-COUNT	*	*	*	*	*
+sze-ba	szeba[ration]	N	N	D	B-COM	_	_	_	_	_
+ug3-IL2	uggaga[porter]	N	N	D	_	_	_	_	_	_
+ki	ki[place]	N	N	D	_	_	_	_	_	_
+ur-nig2-ta	_	PN	PN.GEN.ABL	Iabcdef	_	_	_	_	_	_
+kiszib3	kiszib[seal]	N	N	D	_	_	_	_	_	_
+lu2-{d}dumu-zi	_	PN	PN.GEN.TERM	Iabcdefg	_	_	_	_	_	_
+dumu	dumu[child]	N	N	D	_	_	_	_	_	_
+al-la-mu	Allamu[1][-e]	PN	PN	D	_	_	_	_	_	_
+mu	mu[year]	N	N	D	_	_	_	_	_	_
+{d}i-bi2-{d}suen	Ibbisuen[1]	RN	RN	D	_	_	_	_	_	_
+lugal	lugal[king]	N	N	D	_	_	_	_	_	_
+lu2-{d}dumu-zi	_	PN	PN.GEN.TERM	Iabcdefg	_	_	_	_	_	_
+dub-sar	dubsar[scribe]	N	N	D	_	_	_	_	_	_
+dumu	dumu[child]	N	N	D	_	_	_	_	_	_
+al-la-mu	Allamu[1][-e]	PN	PN	D	_	_	_	_	_	_
+szabra	szabra[chief_administrator][-ak]	N	N	D	_	_	_	_	_	_

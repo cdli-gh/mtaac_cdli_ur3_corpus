@@ -1,0 +1,19 @@
+#new_text=P201351					
+FORM	SEGM	XPOSTAG	XPOSTAG	POS	?	?	?	?	?	?
+5(disz)	5(disz)[one]	NU	NU	D	B-COUNT	_	5	cardinal	_	5
+sila4	sila[lamb]	N	N	D	B-COM	_	_	_	_	_
+ga	ga[milk]	N	N	D	_	_	_	_	_	_
+3(u)	3(u)[ten]	NU	NU	D	B-COUNT	_	36	cardinal	_	36
+6(disz)	6(disz)[one][-sze]	NU	NU	D	I-COUNT	*	*	*	*	*
+masz2	masz[goat]	N	N	D	_	_	_	_	_	_
+masz2	masz[goat]	N	N	D	_	_	_	_	_	_
+szu-nir-ra	_	PN	PN	Iabcde	_	_	_	_	_	_
+ki	ki[place]	N	N	D	_	_	_	_	_	_
+sza3-ku3-ge-ta	_	PN	PN.GEN.ABL	Iabcdefg	_	_	_	_	_	_
+usz-mu	Uszmu[1]	PN	PN	D	_	_	_	_	_	_
+i3-dab5	i[-n]-dab[seize][-ø]	V	FIN.3-SG-H-A.V.3-SG-P	D	_	_	_	_	_	_
+mu	mu[year]	N	N	D	_	_	_	_	_	_
+en	en[priest]	N	N	D	_	_	_	_	_	_
+{d}nanna	Nanna[1][-ak]	DN	DN	D	_	_	_	_	_	_
+kar-zi-da	Karzida[1][-ak][-ak][-ø]	SN	SN.GEN.GEN.ABS	D	_	_	_	_	_	_
+ba-hun	ba-hug[hire][-ø]	V	MID.V.3-SG-S	D	_	_	_	_	_	_

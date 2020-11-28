@@ -1,0 +1,25 @@
+#new_text=P333763					
+FORM	SEGM	XPOSTAG	XPOSTAG	POS	?	?	?	?	?	?
+2(disz)	2(disz)[one]	NU	NU	D	B-COUNT	_	2	cardinal	_	2
+udu	udu[sheep]	N	N	D	B-COM	_	_	_	_	_
+sze6-ga2	_	N	N	POS	_	_	_	_	_	_
+u4	ud[day]	N	N	D	_	_	_	_	_	_
+1(disz)-kam	1(disz)[one]-ak-am	NU	NU.GEN.COP-3-SG	D	B-COUNT	_	1	cardinal	_	1
+1(disz)	1(disz)[one]	NU	NU	D	B-COUNT	_	1	cardinal	_	1
+udu	udu[sheep]	N	N	D	B-COM	_	_	_	_	_
+sze6-ga2	_	N	N	POS	_	_	_	_	_	_
+u4	ud[day]	N	N	D	_	_	_	_	_	_
+2(disz)-kam	2(disz)[one]-ak-am	NU	NU.GEN.COP-3-SG	D	B-COUNT	_	2	cardinal	_	2
+suhusz-ki-in	_	PN	PN	POS	_	_	_	_	_	_
+nar	_	N	N	POS	_	_	_	_	_	_
+u4	ud[day]	N	N	D	_	_	_	_	_	_
+sza3	szag[heart]	N	N	D	_	_	_	_	_	_
+x-x-szi-ne	_			POS	_	_	_	_	_	_
+im-gen-na-a	i-m-gen[go][-ø]-a-'a	V	FIN.VEN.V.3-SG-S.SUB.L1	D	_	_	_	_	_	_
+zi-ga	zig[expend]-a	V	NF.V.PT	D	_	_	_	_	_	_
+iti	iti[month]	N	N	D	_	_	_	_	_	_
+ezem-{d}li9-si4	_	MN	MN	POS	_	_	_	_	_	_
+mu	mu[year]	N	N	D	_	_	_	_	_	_
+ma2-dara3-abzu	Madara'abzu[1]	ON	ON	D	_	_	_	_	_	_
+{d}en-ki-ka	Enkik[1][-ak]	DN	DN.GEN.ABS	D	_	_	_	_	_	_
+bi2-in-du8	_	V	3-SG-NH.L3.3-SG-H-A.V.3-SG-P	Iabcdefgh	B-COM	_	_	_	_	_

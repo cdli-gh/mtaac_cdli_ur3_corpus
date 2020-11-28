@@ -1,0 +1,23 @@
+#new_text=P133535					
+FORM	SEGM	XPOSTAG	XPOSTAG	POS	?	?	?	?	?	?
+1(gesz'u)	1(gesz'u)[six_hundred]	NU	NU	D	B-COUNT	m	6972	length	gi	2324
+9(gesz2)	9(gesz)[sixty]	NU	NU	D	I-COUNT	*	*	*	*	*
+2(u)	2(u)[ten]	NU	NU	D	I-COUNT	*	*	*	*	*
+2(disz)	2(disz)[one]	NU	NU	D	I-COUNT	*	*	*	*	*
+ninda	ninda[bread]	N	N	D	I-COUNT	*	*	*	*	*
+zi3	zid[flour]	N	N	D	B-COM	_	_	_	_	_
+sig15	sig[flour_type]	V	N	D	_	_	_	_	_	_
+al	al[hoeing]	N	N	D	_	_	_	_	_	_
+x	_[_]	N	N	D	_	_	_	_	_	_
+gur	gur[unit]	N	N	D	_	_	_	_	_	_
+ki	ki[place]	N	N	D	_	_	_	_	_	_
+lu2-kal-la-ta	Lukala[1][-ak]-ta	PN	PN.GEN.ABL	D	_	_	_	_	_	_
+lu2-ma2-gu-la	_	PN	PN.GEN.DAT-H	Iabcdef	_	_	_	_	_	_
+szu	szu[hand][-e]	N	N.L3-NH	D	_	_	_	_	_	_
+ba-ti	ba[-n]-teg[accept][-ø]	V	MID.3-SG-H-A.V.3-SG-P	D	_	_	_	_	_	_
+giri3	giri[foot]	N	N	D	_	_	_	_	_	_
+lu2-{d}inanna	Lu'inanna[1]	PN	PN	D	_	_	_	_	_	_
+gu-za-la2	guzala[throne_bearer]	N	N	D	_	_	_	_	_	_
+mu	mu[year]	N	N	D	_	_	_	_	_	_
+ma2-dara3-abzu	Madara'abzu[1]	ON	ON	D	_	_	_	_	_	_
+ba-ab-du8	ba-b-du[caulk][-ø]	V	MID.3-SG-NH-L3.V.3-SG-S	D	_	_	_	_	_	_

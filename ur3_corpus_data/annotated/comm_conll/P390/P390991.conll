@@ -1,0 +1,20 @@
+#new_text=P390991					
+FORM	SEGM	XPOSTAG	XPOSTAG	POS	?	?	?	?	?	?
+2(u)	2(u)[ten]	NU	NU	D	B-COUNT	_	20	cardinal	_	20
+{uruda}ha-bu3-da	habuda[hoe]	N	N	D	B-COM	_	_	_	_	_
+1(asz)	1(asz)[one]	NU	NU	D	B-COUNT	_	none	unknown	_	none
+...	_[_]	PN	N	D	I-COUNT	*	*	*	*	*
+{uruda}gur10	_	N	N.ABS	Iabcde	_	_	_	_	_	_
+i3	i[oil]	N	N	D	_	_	_	_	_	_
+...	_[_]	PN	N	D	_	_	_	_	_	_
+gu-u	_	PN	PN	Iabcde	_	_	_	_	_	_
+gam	_	PN	PN	POS	_	_	_	_	_	_
+...	_[_]	PN	N	D	_	_	_	_	_	_
+{uruda}ha-bu3-da	habuda[hoe]	N	N	D	B-COM	_	_	_	_	_
+lu2-bi-mu	_	PN	PN	Iabcde	_	_	_	_	_	_
+ki	ki[place]	N	N	D	_	_	_	_	_	_
+...-ta	_[_]-ta	PN	PN.GEN.ABL	D	_	_	_	_	_	_
+ba-zi	ba-zig[expend][-ø]	PN	MID.V.3-SG-S	D	_	_	_	_	_	_
+mu	mu[year]	N	N	D	_	_	_	_	_	_
+sza-asz-ru{ki}	Szaszru[1][-ø]	SN	SN.ABS	D	_	_	_	_	_	_
+ba-hul	ba-hulu[destroy][-ø]	V	MID.V.3-SG-S	D	_	_	_	_	_	_

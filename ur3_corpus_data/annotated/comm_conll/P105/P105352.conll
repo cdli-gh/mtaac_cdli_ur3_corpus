@@ -1,0 +1,24 @@
+#new_text=P105352					
+FORM	SEGM	XPOSTAG	XPOSTAG	POS	?	?	?	?	?	?
+1(u)	1(u)[ten]	NU	NU	D	B-COUNT	g	5966.666666666667	weight	gin2	716
+2(disz)	2(disz)[one]	NU	NU	D	I-COUNT	*	*	*	*	*
+ma-na	mana[unit]	N	N	D	I-COUNT	*	*	*	*	*
+la2	la[hang][-ø]	V	NF.V.ABS	D	I-COUNT	*	*	*	*	*
+4(disz)	4(disz)[one]	NU	NU	D	I-COUNT	*	*	*	*	*
+gin2	gig[unit]	N	N	D	I-COUNT	*	*	*	*	*
+uruda	urud[copper][-ak]	N	N	D	B-COM	_	_	_	_	_
+6(disz)	6(disz)[one][-sze]	NU	NU	D	B-COUNT	g	3000.0	weight	gin2	360
+ma-na	mana[unit]	N	N	D	I-COUNT	*	*	*	*	*
+siki-gi	sikigi[wool_type]	N	N	D	_	_	_	_	_	_
+3(u)	3(u)[ten]	NU	NU	D	B-COUNT	g	14500.000000000002	weight	gin2	1740
+la2	la[hang][-ø]	V	NF.V.ABS	D	I-COUNT	*	*	*	*	*
+1(disz)	1(disz)[one]	NU	NU	D	I-COUNT	*	*	*	*	*
+ma-na	mana[unit]	N	N	D	I-COUNT	*	*	*	*	*
+siki-ud5	siki'ud[goat_wool]	N	N	D	_	_	_	_	_	_
+la2-ia3-am3	_	V	V	POS	_	_	_	_	_	_
+ki	ki[place]	N	N	D	_	_	_	_	_	_
+lu2-{d}en-lil2-la2-ka	_	PN	PN.GEN.GEN	Iabcdef	_	_	_	_	_	_
+i3-ib2-gal2	_	V	FIN.3-SG-H.L3.3-SG-H-A.V.3-PL.SUB.L2-NH	Iabcdefghi	B-COM	_	_	_	_	_
+mu	mu[year]	N	N	D	_	_	_	_	_	_
+ha-ar-szum{ki}	_	GN	GN	POS	_	_	_	_	_	_
+ba-hul	ba-hulu[destroy][-ø]	V	MID.V.3-SG-S	D	_	_	_	_	_	_

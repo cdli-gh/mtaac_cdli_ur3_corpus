@@ -1,0 +1,21 @@
+#new_text=P129282					
+FORM	SEGM	XPOSTAG	XPOSTAG	POS	?	?	?	?	?	?
+6(disz)	6(disz)[one][-sze]	NU	NU	D	B-COUNT	_	6	cardinal	_	6
+gurusz	gurusz[male]	N	N	D	B-COM	_	_	_	_	_
+u4	ud[day]	N	N	D	_	_	_	_	_	_
+1(disz)-sze3	1(disz)[one]-sze	NU	NU.TERM	D	B-COUNT	_	1	cardinal	_	1
+pa4-a-da-ga	_	N	N	POS	_	_	_	_	_	_
+ba-al-la	bala[transfer]-a	V	NF.V.PT	D	_	_	_	_	_	_
+a2	a[time]	N	N	D	_	_	_	_	_	_
+sza3-gu4-ka	_	PN	PN	POS	_	_	_	_	_	_
+a-sza3	aszag[field]	N	N	D	_	_	_	_	_	_
+amar-kiszi17	Amarkiszi[1][-ak]	FN	PN.GEN	D	_	_	_	_	_	_
+ugula	ugula[overseer][-ø]	N	N	D	_	_	_	_	_	_
+ha-ba-lu5-ge2	Habaluge[1][-ra]	PN	PN	D	_	_	_	_	_	_
+kiszib3	kiszib[seal]	N	N	D	_	_	_	_	_	_
+da-a-gi	Dayagi[1][-ra]	PN	PN.DAT-H	D	_	_	_	_	_	_
+mu	mu[year]	N	N	D	_	_	_	_	_	_
+{d}amar-{d}suen	Amarsuen[1]	RN	RN	D	_	_	_	_	_	_
+lugal	lugal[king]	N	N	D	_	_	_	_	_	_
+da-a-gi	Dayagi[1][-ra]	PN	PN.DAT-H	D	_	_	_	_	_	_
+dub-sar	dubsar[scribe]	N	N	D	_	_	_	_	_	_

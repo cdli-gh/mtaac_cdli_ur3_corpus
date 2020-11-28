@@ -1,0 +1,14 @@
+#new_text=P111720					
+FORM	SEGM	XPOSTAG	XPOSTAG	POS	?	?	?	?	?	?
+1(gesz'u)	1(gesz'u)[six_hundred]	NU	NU	D	B-COUNT	_	720	cardinal	_	720
+2(gesz2)	2(gesz)[sixty]	NU	NU	D	I-COUNT	*	*	*	*	*
+nunuz	_	N	N	Ia	B-COM	_	_	_	_	_
+muszen	_	N	N	Ia	_	_	_	_	_	_
+DUB	_	V	V	POS	_	_	_	_	_	_
+6(gesz2)	6(gesz)[sixty]	NU	NU	D	B-COUNT	_	360	cardinal	_	360
+nunuz	_	N	N	Ia	B-COM	_	_	_	_	_
+{muszen}ka-an	_	PN	PN	POS	_	_	_	_	_	_
+ki	ki[place]	N	N	D	_	_	_	_	_	_
+sukkal-mah-sze3	_	V	V	POS	_	_	_	_	_	_
+sza3	szag[heart]	N	N	D	_	_	_	_	_	_
+nibru{ki}	Nibru[1][-'a]	SN	SN.GEN.ABS	D	_	_	_	_	_	_

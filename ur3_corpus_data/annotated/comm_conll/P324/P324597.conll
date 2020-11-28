@@ -1,0 +1,22 @@
+#new_text=P324597					
+FORM	SEGM	XPOSTAG	XPOSTAG	POS	?	?	?	?	?	?
+1(gesz2)	1(gesz)[sixty]	NU	NU	D	B-COUNT	bricks	978624	bricks	gin2	81552
+5(u)	5(u)[ten]	NU	NU	D	I-COUNT	*	*	*	*	*
+3(disz)	3(disz)[one]	NU	NU	D	I-COUNT	*	*	*	*	*
+sar	sar[unit]	N	N	D	I-COUNT	*	*	*	*	*
+1(u)	1(u)[ten]	NU	NU	D	I-COUNT	*	*	*	*	*
+6(disz)	6(disz)[one][-sze]	NU	NU	D	I-COUNT	*	*	*	*	*
+gin2	gig[unit]	N	N	D	I-COUNT	*	*	*	*	*
+sig4	szeg[brick]	N	N	D	_	_	_	_	_	_
+bi2-gu7-bi	_	N	N	POS	_	_	_	_	_	_
+nu-zi	nu-zi[cut][-a]	V	NEG.NF.V.PT	D	_	_	_	_	_	_
+...-ir	_	PN	PN.DAT-H	Iabcdef	_	_	_	_	_	_
+2(disz)-kam	2(disz)[one]-ak-am	NU	NU.GEN.COP-3-SG	D	B-COUNT	_	2	cardinal	_	2
+x-da	_[_]	PN	PN	Ia	_	_	_	_	_	_
+giri3	giri[foot]	N	N	D	_	_	_	_	_	_
+e2-a-szar	_	PN	PN	Ia	_	_	_	_	_	_
+iti	iti[month]	N	N	D	_	_	_	_	_	_
+a2-ki-ti	Akiti[1][-'a]	N	MN.L1	D	_	_	_	_	_	_
+mu	mu[year]	N	N	D	_	_	_	_	_	_
+ma2-gur8-mah	magurmah[great_barge][-ø]	N	N.ABS	D	_	_	_	_	_	_
+ba-dim2	ba-dim[create][-ø]	V	MID.V.3-SG-S	D	_	_	_	_	_	_

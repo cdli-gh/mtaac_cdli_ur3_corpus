@@ -1,0 +1,14 @@
+#new_text=P136164					
+FORM	SEGM	XPOSTAG	XPOSTAG	POS	B-COUNT	l	1	"liquid	*	*
+*RETOK*-capacity"	?	?	?	?	I-COUNT	l	1	"dry	sila3	1
+1(disz)	1(disz)[one]	NU	NU	D	I-COUNT	*	*	*	sila3	1
+sila3	sila[unit]	N	N	D	I-COUNT	*	*	*	*	*
+lal3	lal[syrup]	N	N	D	B-COM	_	_	_	_	_
+ki	ki[place]	N	N	D	_	_	_	_	_	_
+a-gi4-ta	_	PN	PN	POS	_	_	_	_	_	_
+sza3	szag[heart]	N	N	D	_	_	_	_	_	_
+nigin6{ki}-ta	_	SN	SN.GEN.GEN.ABL	Iabcdefg	_	_	_	_	_	_
+kiszib3	kiszib[seal]	N	N	D	_	_	_	_	_	_
+ur-dam	_	PN	PN.GEN.COP-3-SG	Iabcdef	_	_	_	_	_	_
+iti	iti[month]	N	N	D	_	_	_	_	_	_
+amar-a-a-si	Amarayasi[1][-'a]	MN	MN.L1	D	_	_	_	_	_	_

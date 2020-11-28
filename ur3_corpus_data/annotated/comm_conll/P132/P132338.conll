@@ -1,0 +1,25 @@
+#new_text=P132338					
+FORM	SEGM	XPOSTAG	XPOSTAG	POS	B-COUNT	l	0.0027777777777777775	"dry	*	*
+3(u)	3(u)[ten]	NU	NU	D	I-COUNT	*	*	*	sila3	0.0027777777777777775
+sze	sze[barley]	N	N	D	I-COUNT	*	*	*	*	*
+gur	gur[unit]	N	N	D	I-COUNT	*	*	*	*	*
+lugal	lugal[king]	N	N	D	_	_	_	_	_	_
+i3-dub	idub[granary]	N	N	D	_	_	_	_	_	_
+e2-duru5-gu-la	_	PN	PN	POS	_	_	_	_	_	_
+ki	ki[place]	N	N	D	B-COM	_	_	_	_	_
+ba-zi-ta	_	PN	PN.GEN.DAT-H	Iabcdefg	_	_	_	_	_	_
+kiszib3	kiszib[seal]	N	N	D	_	_	_	_	_	_
+ur-e2-ninnu	_	PN	PN	D	_	_	_	_	_	_
+su-su-dam	sug-sug[repay]-ed[-ø]-am	PN	NF.V.RDP.F.ABS.COP-3-SG	D	_	_	_	_	_	_
+giri3	giri[foot]	N	N	D	_	_	_	_	_	_
+ur-sa6-ga	Ursaga[1][-ak]	PN	PN	D	_	_	_	_	_	_
+sanga	sagga[temple_administrator]	N	N	D	_	_	_	_	_	_
+{d}dumu-zi	Dumuzi[1][-'a]	MN	MN.L1	D	_	_	_	_	_	_
+mu	mu[year]	N	N	D	_	_	_	_	_	_
+ma2-dara3-abzu	Madara'abzu[1]	ON	ON	D	_	_	_	_	_	_
+ba-a-du8	_	V	V	POS	_	_	_	_	_	_
+ur-e2-ninnu	_	PN	PN	D	_	_	_	_	_	_
+dub-sar	dubsar[scribe]	N	N	D	_	_	_	_	_	_
+dumu	dumu[child]	N	N	D	_	_	_	_	_	_
+al-la-mu	Allamu[1][-e]	PN	PN	D	_	_	_	_	_	_
+szabra	szabra[chief_administrator][-ak]	N	N	D	_	_	_	_	_	_

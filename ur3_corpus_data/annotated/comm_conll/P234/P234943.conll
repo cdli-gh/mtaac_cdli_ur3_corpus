@@ -1,0 +1,19 @@
+#new_text=P234943					
+FORM	SEGM	XPOSTAG	XPOSTAG	POS	?	?	?	?	?	?
+1(u)	1(u)[ten]	NU	NU	D	B-COUNT	_	9	cardinal	_	9
+la2	la[hang][-ø]	V	NF.V.ABS	D	I-COUNT	*	*	*	*	*
+1(disz)	1(disz)[one]	NU	NU	D	I-COUNT	*	*	*	*	*
+udu	udu[sheep]	N	N	D	B-COM	_	_	_	_	_
+1(gesz2)	1(gesz)[sixty]	NU	NU	D	B-COUNT	_	76	cardinal	_	76
+1(u)	1(u)[ten]	NU	NU	D	I-COUNT	*	*	*	*	*
+6(disz)	6(disz)[one][-sze]	NU	NU	D	I-COUNT	*	*	*	*	*
+masz2	masz[goat]	N	N	D	_	_	_	_	_	_
+la2-ia3	la'u[arrears]	N	N	D	_	_	_	_	_	_
+su-su	sug-sug[repay][-ed]	V	NF.V.RDP.PF	D	_	_	_	_	_	_
+ka-ga	kag[mouth]-'a	N	N.L1	D	_	_	_	_	_	_
+gi-na	gina[dues]	PN	N	D	_	_	_	_	_	_
+{d}szara2-ki-ag2	_	PN	PN	Iabcde	_	_	_	_	_	_
+simug	simug[smith][-ra]	N	N.DAT-H	D	_	_	_	_	_	_
+mu	mu[year]	N	N	D	_	_	_	_	_	_
+an-sza-an{ki}	Anszan[1][-ø]	GN	GN.ABS	D	_	_	_	_	_	_
+ba-hul	ba-hulu[destroy][-ø]	V	MID.V.3-SG-S	D	_	_	_	_	_	_

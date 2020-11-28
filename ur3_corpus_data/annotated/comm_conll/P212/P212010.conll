@@ -1,0 +1,24 @@
+#new_text=P212010					
+FORM	SEGM	XPOSTAG	XPOSTAG	POS	?	?	?	?	?	?
+3(u)	3(u)[ten]	NU	NU	D	B-COUNT	*	*	*	*	*
+3(asz)	3(asz)[one]	NU	NU	D	I-COUNT	*	*	*	*	*
+2(barig)	2(bariga)[unit]	NU	N	D	I-COUNT	*	*	*	*	*
+3(ban2)	3(ban)[unit]	NU	N	D	I-COUNT	*	*	*	*	*
+sze	sze[barley]	N	N	D	I-COUNT	*	*	*	*	*
+gur	gur[unit]	N	N	D	I-COUNT	*	*	*	*	*
+sze	sze[barley]	N	N	D	I-COUNT	*	*	*	*	*
+apin-la2	apinla[tenancy]	N	N	D	B-COM	_	_	_	_	_
+a-sza3	aszag[field]	N	N	D	_	_	_	_	_	_
+na-ra-am-i3-li2	Naramili[1]	PN	PN	D	_	_	_	_	_	_
+kiszib3	kiszib[seal]	N	N	D	_	_	_	_	_	_
+i-di3-er3-ra	_	PN	PN.GEN.ABS	D	_	_	_	_	_	_
+mu	mu[year]	N	N	D	_	_	_	_	_	_
+a-ra2	ara[times]	N	N	D	_	_	_	_	_	_
+2(disz)-kam-asz	_	NU	NU.GEN.COP-3-SG.TERM	Iabcdef	B-COUNT	_	2	cardinal	_	2
+kar2-har{ki}	_	GN	SN.GEN	D	_	_	_	_	_	_
+ba-hul	ba-hulu[destroy][-ø]	V	MID.V.3-SG-S	D	_	_	_	_	_	_
+la-ni	Lani[1]	PN	PN	D	_	_	_	_	_	_
+sukkal-mah	_	PN	N	D	_	_	_	_	_	_
+i-di3-er3-ra	_	PN	PN.GEN.ABS	D	_	_	_	_	_	_
+dub-sar	dubsar[scribe]	N	N	D	_	_	_	_	_	_
+ARAD2-zu	arad[slave]-zu[-ø]	PN	N.2-SG-POSS.ABS	D	_	_	_	_	_	_

@@ -1,0 +1,23 @@
+#new_text=P205661					
+FORM	SEGM	XPOSTAG	XPOSTAG	POS	B-COUNT	l	4	"liquid	*	*
+*RETOK*-capacity"	?	?	?	?	I-COUNT	l	4	"dry	sila3	4
+4(disz)	4(disz)[one]	NU	NU	D	I-COUNT	*	*	*	sila3	4
+sila3	sila[unit]	N	N	D	I-COUNT	*	*	*	*	*
+gin2	gig[unit]	N	N	D	I-COUNT	*	*	*	*	*
+i3	i[oil]	N	N	D	B-COM	_	_	_	_	_
+*RETOK*-capacity"	?	?	?	?	B-COUNT	l	2.5	"liquid	*	*
+*RETOK*-capacity"	?	?	?	?	I-COUNT	l	2.5	"dry	sila3	2.5
+2(disz)	2(disz)[one]	NU	NU	D	I-COUNT	*	*	*	sila3	2.5
+1/2(disz)	1/2(disz)[one]	NU	NU	D	I-COUNT	*	*	*	*	*
+sila3	sila[unit]	N	N	D	I-COUNT	*	*	*	*	*
+ga-ar3	ga'ar[cheese]	N	N	D	_	_	_	_	_	_
+ki	ki[place]	N	N	D	_	_	_	_	_	_
+ur-e2-ninnu-ta	_	PN	PN.GEN.ABL	Iabcdef	_	_	_	_	_	_
+kiszib3	kiszib[seal]	N	N	D	_	_	_	_	_	_
+nam-mah-{d}ba-ba6	_	PN	PN	D	_	_	_	_	_	_
+iti	iti[month]	N	N	D	_	_	_	_	_	_
+ezem-{d}ba-ba6	Ezembaba[1][-'a]	MN	MN.L1	D	_	_	_	_	_	_
+mu	mu[year]	N	N	D	_	_	_	_	_	_
+ma-da	mada[land][-ak][-ø]	N	N	D	_	_	_	_	_	_
+za-ab-sza-li{ki}	Zabszali[1][-ak][-ø]	GN	SN.GEN.ABS	D	_	_	_	_	_	_
+ba-hul	ba-hulu[destroy][-ø]	V	MID.V.3-SG-S	D	_	_	_	_	_	_

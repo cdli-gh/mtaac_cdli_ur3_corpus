@@ -1,0 +1,19 @@
+#new_text=P324421					
+FORM	SEGM	XPOSTAG	XPOSTAG	POS	?	?	?	?	?	?
+2(disz)	2(disz)[one]	NU	NU	D	B-COUNT	_	2	cardinal	_	2
+gurusz	gurusz[male]	N	N	D	B-COM	_	_	_	_	_
+szitim	_	N	N	Ia	_	_	_	_	_	_
+lu2-i3-si-in{ki}	_	PN	PN.GEN.ABS	Iabcdef	_	_	_	_	_	_
+1(disz)	1(disz)[one]	NU	NU	D	B-COUNT	_	1	cardinal	_	1
+gurusz	gurusz[male]	N	N	D	B-COM	_	_	_	_	_
+szitim	_	N	N	Ia	_	_	_	_	_	_
+lu2	lu[person]	N	N	D	_	_	_	_	_	_
+nig2-{d}ba-ba6	Nigbaba[1][-e]	PN	PN.ERG	D	_	_	_	_	_	_
+mu	mu[year]	N	N	D	_	_	_	_	_	_
+{d}szu-{d}suen	Szusuen[1]	RN	RN	D	_	_	_	_	_	_
+lugal	lugal[king]	N	N	D	_	_	_	_	_	_
+uri5{ki}-ma-ke4	Urim[1]-ak-e	SN	SN.GEN.ERG	D	_	_	_	_	_	_
+na-ru2-a-mah	naruamah[magnificent_stele][-ø]	PN	N.ABS	D	_	_	_	_	_	_
+{d}en-lil2	Enlil[1]	DN	DN	D	_	_	_	_	_	_
+{d}nin-lil2-ka	_	DN	DN.GEN.GEN	Iabcdefg	_	_	_	_	_	_
+mu-du3	mu[-n]-du[build][-ø]	V	VEN.3-SG-H-A.V.3-SG-P	D	_	_	_	_	_	_

@@ -1,0 +1,21 @@
+#new_text=P378570					
+FORM	SEGM	XPOSTAG	XPOSTAG	POS	B-COUNT	l	30	"dry	*	*
+3(ban2)	3(ban)[unit]	NU	N	D	I-COUNT	*	*	*	sila3	30
+*RETOK*-($	?	?	?	?	_	_	_	_	_	_
+*RETOK*-blank	?	?	?	?	_	_	_	_	_	_
+*RETOK*-space	?	?	?	?	_	_	_	_	_	_
+*RETOK*-$)	?	?	?	?	_	_	_	_	_	_
+sila3	sila[unit]	N	N	D	_	_	_	_	_	_
+sze	sze[barley]	N	N	D	B-COM	_	_	_	_	_
+ur5-ra	urra[loan]	N	N	D	_	_	_	_	_	_
+geme2-{d}nun-gal	_	PN	PN	Iabcde	_	_	_	_	_	_
+*RETOK*-capacity"	?	?	?	?	B-COUNT	l	30	"dry	*	*
+3(ban2)	3(ban)[unit]	NU	N	D	I-COUNT	*	*	*	sila3	30
+a-gal-zi-ga	_	PN	PN.GEN.ABS	Iabcdef	_	_	_	_	_	_
+ki	ki[place]	N	N	D	_	_	_	_	_	_
+lu2-du10-ga	Luduga[1]	PN	PN	D	_	_	_	_	_	_
+iti	iti[month]	N	N	D	_	_	_	_	_	_
+{d}dumu-zi	Dumuzi[1][-'a]	MN	MN.L1	D	_	_	_	_	_	_
+mu	mu[year]	N	N	D	_	_	_	_	_	_
+na-ru2-a-mah	naruamah[magnificent_stele][-ø]	PN	N.ABS	D	_	_	_	_	_	_
+ba-du3	ba-du[build][-ø]	V	MID.V.3-SG-S	D	B-COM	_	_	_	_	_

@@ -1,0 +1,15 @@
+#new_text=P121432					
+FORM	SEGM	XPOSTAG	XPOSTAG	POS	?	?	?	?	?	?
+3(u)	3(u)[ten]	NU	NU	D	B-COUNT	m	90	length	gi	30
+gi	gi[reed][-ø]	N	N	D	I-COUNT	*	*	*	*	*
+NE	ne[unknown]	MN	MN	POS	B-COM	_	_	_	_	_
+gu	gu[cord]	N	N	D	_	_	_	_	_	_
+a-ra2	ara[times]	N	N	D	_	_	_	_	_	_
+1(disz)-a-kam	_	NU	NU.GEN.COP-3-SG	Iabcdef	B-COUNT	_	1	cardinal	_	1
+2(u)	2(u)[ten]	NU	NU	D	B-COUNT	_	25	cardinal	_	25
+5(disz)	5(disz)[one]	NU	NU	D	I-COUNT	*	*	*	*	*
+gu-la2-a-du	_	PN	PN	POS	_	_	_	_	_	_
+x	_[_]	N	N	D	_	_	_	_	_	_
+x	_[_]	N	N	D	_	_	_	_	_	_
+gu-la2-a-du	_	PN	PN	POS	_	_	_	_	_	_
+x	_[_]	N	N	D	_	_	_	_	_	_

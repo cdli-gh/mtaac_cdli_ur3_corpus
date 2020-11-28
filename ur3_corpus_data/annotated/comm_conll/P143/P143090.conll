@@ -1,0 +1,26 @@
+#new_text=P143090					
+FORM	SEGM	XPOSTAG	XPOSTAG	POS	?	?	?	?	?	?
+1(disz)	1(disz)[one]	NU	NU	D	B-COUNT	_	1	cardinal	_	1
+ug3	ug[people]	N	N	D	_	_	_	_	_	_
+dub-si-ga	_	PN	PN	POS	_	_	_	_	_	_
+sza3-gu4-sze3	_	PN	PN	POS	_	_	_	_	_	_
+iti	iti[month]	N	N	D	_	_	_	_	_	_
+min-esz3-ta	Minesz[1]-ta	MN	MN.ABL	D	B-COM	_	_	_	_	_
+u4	ud[day]	N	N	D	_	_	_	_	_	_
+6(disz)-am3	_	NU	NU.ABS.COP-3-SG	Iab	B-COUNT	_	6	cardinal	_	6
+ba-ra-zal-la-ta	_	V	NF.V.PT.ABL	Iab	_	_	_	_	_	_
+ki	ki[place]	N	N	D	B-COM	_	_	_	_	_
+a-a-kal-la-ta	Ayakala[1][-ak]-ta	PN	PN.GEN.ABL	D	_	_	_	_	_	_
+i7-pa-e3	Ipa'e[1][-ø]	PN	PN	D	_	_	_	_	_	_
+i3-dab5	i[-n]-dab[seize][-ø]	V	FIN.3-SG-H-A.V.3-SG-P	D	_	_	_	_	_	_
+mu	mu[year]	N	N	D	_	_	_	_	_	_
+us2-sa	us[follow]-a	V	NF.V.PT	D	_	_	_	_	_	_
+bad3	bad[wall]	N	N	D	_	_	_	_	_	_
+mar-tu	Martu[1][-ø]	EN	EN.ABS	D	_	_	_	_	_	_
+ba-du3	ba-du[build][-ø]	V	MID.V.3-SG-S	D	_	_	_	_	_	_
+lu2-banda3{da}	Lubanda[1]	PN	PN	D	_	_	_	_	_	_
+dumu	dumu[child]	N	N	D	_	_	_	_	_	_
+i7-pa-e3	Ipa'e[1][-ø]	PN	PN	D	_	_	_	_	_	_
+nu-banda3	nubanda[overseer][-ø]	N	N	D	_	_	_	_	_	_
+gu4	gud[ox]	N	N	D	_	_	_	_	_	_
+{d}szara2-ka	_	DN	DN	POS	_	_	_	_	_	_

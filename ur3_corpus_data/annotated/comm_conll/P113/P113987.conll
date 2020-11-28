@@ -1,0 +1,25 @@
+#new_text=P113987					
+FORM	SEGM	XPOSTAG	XPOSTAG	POS	B-COUNT	l	72.00037037037038	"dry	*	*
+4(asz)	4(asz)[one]	NU	NU	D	I-COUNT	*	*	*	sila3	72.00037037037038
+sze	sze[barley]	N	N	D	I-COUNT	*	*	*	*	*
+gur	gur[unit]	N	N	D	I-COUNT	*	*	*	*	*
+sila3	sila[unit]	N	N	D	I-COUNT	*	*	*	*	*
+1(gesz2)	1(gesz)[sixty]	NU	NU	D	I-COUNT	*	*	*	*	*
+1(u)	1(u)[ten]	NU	NU	D	I-COUNT	*	*	*	*	*
+2(disz)-ta	2(disz)[one]-ta	NU	NU.ABL	D	I-COUNT	*	*	*	*	*
+ur-tesz2	_	PN	PN.GEN.ABS	D	_	_	_	_	_	_
+kaskal-ga	_	N	N	POS	_	_	_	_	_	_
+3(barig)	3(bariga)[unit]	NU	N	D	B-COUNT	*	*	*	*	*
+sze	sze[barley]	N	N	D	I-COUNT	*	*	*	*	*
+lugal	lugal[king]	N	N	D	_	_	_	_	_	_
+lu2-ga-mu	_	PN	PN.GEN	Iabcdef	_	_	_	_	_	_
+*RETOK*-capacity"	?	?	?	?	B-COUNT	l	180	"dry	*	*
+3(barig)	3(bariga)[unit]	NU	N	D	I-COUNT	*	*	*	sila3	180
+ur-{d}isztaran	Urisztaran[1]	PN	PN.GEN.ABS	D	_	_	_	_	_	_
+ki	ki[place]	N	N	D	_	_	_	_	_	_
+ur-nigar{gar}	Urnigar[1]	PN	PN	D	_	_	_	_	_	_
+iti	iti[month]	N	N	D	_	_	_	_	_	_
+sze-sag-ku5	Szesagku[1][-'a]	MN	MN.L1	D	_	_	_	_	_	_
+mu	mu[year]	N	N	D	_	_	_	_	_	_
+si-mu-ru-um{ki}	Simurrum[1]	SN	SN.ABS	D	_	_	_	_	_	_
+ba-hul	ba-hulu[destroy][-ø]	V	MID.V.3-SG-S	D	_	_	_	_	_	_

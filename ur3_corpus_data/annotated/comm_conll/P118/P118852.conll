@@ -1,0 +1,22 @@
+#new_text=P118852					
+FORM	SEGM	XPOSTAG	XPOSTAG	POS	?	?	?	?	?	?
+1(u)	1(u)[ten]	NU	NU	D	B-COUNT	_	10	cardinal	_	10
+gurusz	gurusz[male]	N	N	D	B-COM	_	_	_	_	_
+u4	ud[day]	N	N	D	_	_	_	_	_	_
+8(disz)-sze3	8(disz)[one]-sze	NU	NU.TERM	D	B-COUNT	_	8	cardinal	_	8
+a-sza3	aszag[field]	N	N	D	_	_	_	_	_	_
+{gesz}ma-nu	manu[wood_type][-ø]	FN	N.ABS	D	B-COM	_	_	_	_	_
+a	a[water][-ø]	N	N.ABS	D	_	_	_	_	_	_
+du11-ga	dug[irrigate]-a	V	PN	D	_	_	_	_	_	_
+ugula	ugula[overseer][-ø]	N	N	D	_	_	_	_	_	_
+lugal-e2-mah-e	Lugalemahe[1]	N	PN	D	_	_	_	_	_	_
+kiszib3	kiszib[seal]	N	N	D	_	_	_	_	_	_
+lugal-nesag-e	Lugalnesage[1][-e]	PN	PN	D	_	_	_	_	_	_
+mu	mu[year]	N	N	D	_	_	_	_	_	_
+bad3	bad[wall]	N	N	D	_	_	_	_	_	_
+mar-tu	Martu[1][-ø]	EN	EN.ABS	D	_	_	_	_	_	_
+ba-du3	ba-du[build][-ø]	V	MID.V.3-SG-S	D	_	_	_	_	_	_
+lugal-nesag-e	Lugalnesage[1][-e]	PN	PN	D	_	_	_	_	_	_
+dub-sar	dubsar[scribe]	N	N	D	_	_	_	_	_	_
+dumu	dumu[child]	N	N	D	_	_	_	_	_	_
+lu2-banda3{da}	Lubanda[1]	PN	PN	D	_	_	_	_	_	_

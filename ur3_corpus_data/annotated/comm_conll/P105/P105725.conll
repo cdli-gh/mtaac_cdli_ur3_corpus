@@ -1,0 +1,24 @@
+#new_text=P105725					
+FORM	SEGM	XPOSTAG	XPOSTAG	POS	?	?	?	?	?	?
+4(disz)	4(disz)[one]	NU	NU	D	B-COUNT	_	4	cardinal	_	4
+tug2	tug[textile]	N	N	D	B-COM	_	_	_	_	_
+hi-a	hi[mix]-a[-ø]	V	NF.V.PT	D	_	_	_	_	_	_
+szar3	szar[cloth_designation][-ø]	V	NF.V.ABS	D	_	_	_	_	_	_
+giri3	giri[foot]	N	N	D	_	_	_	_	_	_
+nu-banda3	nubanda[overseer][-ø]	N	N	D	_	_	_	_	_	_
+a-sza3	aszag[field]	N	N	D	_	_	_	_	_	_
+nigin	_	N	N	Ia	_	_	_	_	_	_
+gen-na-me	gen[go]-a-mesz	V	NF.V.PT.COP-3-PL	D	_	_	_	_	_	_
+1(asz)	1(asz)[one]	NU	NU	D	B-COUNT	_	1	cardinal	_	1
+ga-ga-tum	_	N	N	POS	B-COM	_	_	_	_	_
+gur	gur[unit]	N	N	D	_	_	_	_	_	_
+giri3	giri[foot]	N	N	D	_	_	_	_	_	_
+ba-ba-an-na	_	PN	PN.GEN.GEN	Iab	_	_	_	_	_	_
+zabar-dab5	zabardab[official][-e]	N	N	D	_	_	_	_	_	_
+ki	ki[place]	N	N	D	_	_	_	_	_	_
+lu2-{d}nin-szubur-ta	Luninszubur[1][-ak]-ta	PN	PN.GEN.ABL	D	_	_	_	_	_	_
+giri3	giri[foot]	N	N	D	_	_	_	_	_	_
+lugal-pa-e3	Lugalpa’e[1]	PN	PN	D	_	_	_	_	_	_
+muhaldim	_	N	N	D	_	_	_	_	_	_
+iti	iti[month]	N	N	D	_	_	_	_	_	_
+amar-a-a-si	Amarayasi[1][-'a]	MN	MN.L1	D	_	_	_	_	_	_

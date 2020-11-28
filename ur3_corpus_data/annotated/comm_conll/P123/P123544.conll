@@ -1,0 +1,14 @@
+#new_text=P123544					
+FORM	SEGM	XPOSTAG	XPOSTAG	POS	?	?	?	?	?	?
+1(asz)	1(asz)[one]	NU	NU	D	B-COUNT	g	30000.000000000004	weight	gin2	3600
+gu2	gun[unit]	N	N	D	I-COUNT	*	*	*	*	*
+uruda	urud[copper][-ak]	N	N	D	B-COM	_	_	_	_	_
+sa10	_	V	NF.V.3-SG-NH-POSS.GEN	Iabcdef	_	_	_	_	_	_
+ku3-babbar	kugbabbar[silver]	N	N	D	_	_	_	_	_	_
+1/2(disz)	1/2(disz)[one]	NU	NU	D	B-COUNT	_	0.5	cardinal	_	0.5
+ma-na-kam	_	N	N	POS	_	_	_	_	_	_
+e2-kiszib3-ba-sze3	ekiszibak[storeroom]-sze	TN	N.TERM	D	_	_	_	_	_	_
+ba-an-kux(KWU147)	_	V	MID.L1-SYN.V.3-SG-S	Ia	_	_	_	_	_	_
+mu	mu[year]	N	N	D	_	_	_	_	_	_
+sza-asz-ru{ki}	Szaszru[1][-ø]	SN	SN.ABS	D	_	_	_	_	_	_
+ba-hul	ba-hulu[destroy][-ø]	V	MID.V.3-SG-S	D	_	_	_	_	_	_

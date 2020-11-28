@@ -1,0 +1,24 @@
+#new_text=P131299					
+FORM	SEGM	XPOSTAG	XPOSTAG	POS	?	?	?	?	?	?
+2(disz)	2(disz)[one]	NU	NU	D	B-COUNT	_	2	cardinal	_	2
+ab2	ab[cow][-ø]	N	N	D	B-COM	_	_	_	_	_
+mu	mu[year]	N	N	D	_	_	_	_	_	_
+2(disz)	2(disz)[one]	NU	NU	D	B-COUNT	_	2	cardinal	_	2
+szu-gi4	_	PN	PN	POS	_	_	_	_	_	_
+na-gab2-tum	nakabtum[stockyard][-ak][-ak]	N	N.GEN.ABS	D	_	_	_	_	_	_
+{d}nin-gir2-su-ta	_	FN	FN	POS	_	_	_	_	_	_
+e2-kikken2	ekinkin[mill]	GN	N	D	_	_	_	_	_	_
+ba-ku4	_	V	MID.L1-SYN.V.3-SG-S	Iabcde	_	_	_	_	_	_
+ki	ki[place]	N	N	D	B-COM	_	_	_	_	_
+ur-mes	Urmes[1]	PN	PN	D	_	_	_	_	_	_
+unu3-ta	_	N	N	POS	_	_	_	_	_	_
+iti	iti[month]	N	N	D	_	_	_	_	_	_
+mu-szu-du7	Muszudu[1][-'a]	MN	MN.L1	D	_	_	_	_	_	_
+u4	ud[day]	N	N	D	_	_	_	_	_	_
+1(u)	1(u)[ten]	NU	NU	D	B-COUNT	_	14	cardinal	_	14
+4(disz)	4(disz)[one]	NU	NU	D	I-COUNT	*	*	*	*	*
+ba-zal	ba-zal[pass][-ø][-a][-'a]	V	MID.V.3-SG-S.SUB	D	_	_	_	_	_	_
+mu	mu[year]	N	N	D	_	_	_	_	_	_
+us2-sa	us[follow]-a	V	NF.V.PT	D	_	_	_	_	_	_
+ki-masz	_	PN	PN	POS	_	_	_	_	_	_
+ba-hul	ba-hulu[destroy][-ø]	V	MID.V.3-SG-S	D	_	_	_	_	_	_

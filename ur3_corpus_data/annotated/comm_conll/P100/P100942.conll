@@ -1,0 +1,19 @@
+#new_text=P100942					
+FORM	SEGM	XPOSTAG	XPOSTAG	POS	B-COUNT	l	30	"liquid	*	*
+1(disz)	1(disz)[one]	NU	NU	D	I-COUNT	*	*	*	sila3	30
+dug	dug[pot]	N	N	D	I-COUNT	*	*	*	*	*
+dida	dida[sweet_wort]	N	N	D	B-COM	_	_	_	_	_
+saga	saga[good][-ø]	V	NF.V.ABS	D	_	_	_	_	_	_
+ur-{d}hendur-sag	Urhendursag[1]	PN	PN	D	_	_	_	_	_	_
+*RETOK*-capacity"	?	?	?	?	B-COUNT	l	30	"liquid	*	*
+1(disz)	1(disz)[one]	NU	NU	D	I-COUNT	*	*	*	sila3	30
+dug	dug[pot]	N	N	D	I-COUNT	*	*	*	*	*
+dida	dida[sweet_wort]	N	N	D	B-COM	_	_	_	_	_
+saga	saga[good][-ø]	V	NF.V.ABS	D	_	_	_	_	_	_
+a-sila-luh	_	PN	PN	POS	_	_	_	_	_	_
+*RETOK*-capacity"	?	?	?	?	B-COUNT	l	10	"liquid	*	*
+*RETOK*-capacity"	?	?	?	?	I-COUNT	l	10	"dry	sila3	10
+1(u)	1(u)[ten]	NU	NU	D	I-COUNT	*	*	*	sila3	10
+sila3	sila[unit]	N	N	D	I-COUNT	*	*	*	*	*
+uluszinx(|BI.ASZ2|)	_	PN	PN	POS	_	_	_	_	_	_
+zi-ga	zig[expend]-a	V	NF.V.PT	D	_	_	_	_	_	_

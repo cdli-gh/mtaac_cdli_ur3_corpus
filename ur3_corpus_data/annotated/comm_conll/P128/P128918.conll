@@ -1,0 +1,27 @@
+#new_text=P128918					
+FORM	SEGM	XPOSTAG	XPOSTAG	POS	?	?	?	?	?	?
+5(disz)	5(disz)[one]	NU	NU	D	B-COUNT	_	5	cardinal	_	5
+udu	udu[sheep]	N	N	D	B-COM	_	_	_	_	_
+5(disz)	5(disz)[one]	NU	NU	D	B-COUNT	_	5	cardinal	_	5
+u8	u[ewe]	N	N	D	_	_	_	_	_	_
+1(u)	1(u)[ten]	NU	NU	D	B-COUNT	_	10	cardinal	_	10
+masz2-gal	maszgal[billy_goat]	N	N	D	_	_	_	_	_	_
+szu-gid2	szugid[animal_designation][-ø]	N	N	D	_	_	_	_	_	_
+e2-muhaldim	emuhaldim[kitchen][-sze]	N	N.TERM	D	_	_	_	_	_	_
+mu	mu[year]	N	N	D	_	_	_	_	_	_
+gar3-du-e-ne-sze3	_	PN	PN	POS	B-COM	_	_	_	_	_
+sza3	szag[heart]	N	N	D	_	_	_	_	_	_
+tum-ma-al{ki}	_	SN	SN	Iabc	_	_	_	_	_	_
+u4	ud[day]	N	N	D	_	_	_	_	_	_
+1(u)	1(u)[ten]	NU	NU	D	B-COUNT	_	10	cardinal	_	10
+3(disz)-kam	3(disz)[one]-ak-am	NU	NU.GEN.COP-3-SG	D	B-COUNT	_	3	cardinal	_	3
+ki	ki[place]	N	N	D	B-COM	_	_	_	_	_
+du11-ga-ta	_	PN	PN.GEN.ABL	Iab	_	_	_	_	_	_
+ba-zi	ba-zig[expend][-ø]	PN	MID.V.3-SG-S	D	_	_	_	_	_	_
+iti	iti[month]	N	N	D	_	_	_	_	_	_
+szu-esz5-sza	Szu'eszsza[1][-'a]	MN	MN.L1	D	_	_	_	_	_	_
+mu	mu[year]	N	N	D	_	_	_	_	_	_
+en	en[priest]	N	N	D	_	_	_	_	_	_
+eridu{ki}	Eridug[1][-ak][-ø]	SN	SN.GEN.ABS	D	_	_	_	_	_	_
+ba-hun	ba-hug[hire][-ø]	V	MID.V.3-SG-S	D	_	_	_	_	_	_
+2(u)	2(u)[ten]	NU	NU	D	B-COUNT	_	20	cardinal	_	20

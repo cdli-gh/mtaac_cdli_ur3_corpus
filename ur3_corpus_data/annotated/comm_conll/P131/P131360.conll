@@ -1,0 +1,22 @@
+#new_text=P131360					
+FORM	SEGM	XPOSTAG	XPOSTAG	POS	B-COUNT	l	1200	"dry	*	*
+4(asz)	4(asz)[one]	NU	NU	D	I-COUNT	*	*	*	sila3	1200
+gur	gur[unit]	N	N	D	I-COUNT	*	*	*	*	*
+lugal	lugal[king]	N	N	D	_	_	_	_	_	_
+dabin	dabin[semolina]	N	N	D	B-COM	_	_	_	_	_
+ma2-a	ma[ship]-'a	N	N.L1	D	_	_	_	_	_	_
+si-ga	sig[load]-a	N	NF.V.PT	D	_	_	_	_	_	_
+giri3	giri[foot]	N	N	D	_	_	_	_	_	_
+ur-igi-zi-bar-ra	_	PN	PN.GEN	Iabc	_	_	_	_	_	_
+ki	ki[place]	N	N	D	_	_	_	_	_	_
+ur-igi-zi-bar-ra-ta	_	PN	PN.GEN.ABL	Iabcdefg	_	_	_	_	_	_
+kiszib3	kiszib[seal]	N	N	D	_	_	_	_	_	_
+a-tu	Atu[1][-ak]	PN	PN	D	_	_	_	_	_	_
+iti	iti[month]	N	N	D	_	_	_	_	_	_
+ezem-{d}li9-si4	_	MN	MN	POS	_	_	_	_	_	_
+a-tu	Atu[1][-ak]	PN	PN	D	_	_	_	_	_	_
+dub-sar	dubsar[scribe]	N	N	D	_	_	_	_	_	_
+dumu	dumu[child]	N	N	D	_	_	_	_	_	_
+lu2-{d}nansze	Lunansze[1]	PN	PN	D	_	_	_	_	_	_
+dub-sar	dubsar[scribe]	N	N	D	_	_	_	_	_	_
+he2-dab5	hedab[worker]	V	N.DAT-H	D	_	_	_	_	_	_

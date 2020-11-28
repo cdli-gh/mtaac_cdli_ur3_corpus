@@ -1,0 +1,23 @@
+#new_text=P454002					
+FORM	SEGM	XPOSTAG	XPOSTAG	POS	B-COUNT	l	860	"dry	*	*
+2(asz)	2(asz)[one]	NU	NU	D	I-COUNT	*	*	*	sila3	860
+4(barig)	4(bariga)[unit]	NU	N	D	I-COUNT	*	*	*	*	*
+2(ban2)	2(ban)[unit]	NU	N	D	I-COUNT	*	*	*	*	*
+bappir2	_	N	N	Ia	B-COM	_	_	_	_	_
+gur	gur[unit]	N	N	D	_	_	_	_	_	_
+mu	mu[year]	N	N	D	_	_	_	_	_	_
+bala-a-sze3	bala[tax]-ak-sze	N	N.GEN.TERM	D	_	_	_	_	_	_
+ki	ki[place]	N	N	D	_	_	_	_	_	_
+szu-nu-a-ri2	_	PN	PN	Iabc	_	_	_	_	_	_
+a-da-lal3	Adalal[1][-ra]	N	PN	D	_	_	_	_	_	_
+szu	szu[hand][-e]	N	N.L3-NH	D	_	_	_	_	_	_
+ba-ti	ba[-n]-teg[accept][-ø]	V	MID.3-SG-H-A.V.3-SG-P	D	_	_	_	_	_	_
+kiszib3	kiszib[seal]	N	N	D	_	_	_	_	_	_
+sza3-ku3-ge	Szakuge[1][-e]	PN	PN.ERG	D	_	_	_	_	_	_
+mu	mu[year]	N	N	D	_	_	_	_	_	_
+{d}i-bi2-{d}suen	Ibbisuen[1]	RN	RN	D	_	_	_	_	_	_
+lugal	lugal[king]	N	N	D	_	_	_	_	_	_
+sza3-ku3-ge	Szakuge[1][-e]	PN	PN.ERG	D	_	_	_	_	_	_
+dub-sar	dubsar[scribe]	N	N	D	_	_	_	_	_	_
+dumu	dumu[child]	N	N	D	_	_	_	_	_	_
+ur-e2-mah	Uremah[1]	PN	PN	D	_	_	_	_	_	_

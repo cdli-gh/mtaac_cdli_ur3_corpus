@@ -1,0 +1,14 @@
+#new_text=P138521					
+FORM	SEGM	XPOSTAG	XPOSTAG	POS	?	?	?	?	?	?
+1(u)	1(u)[ten]	NU	NU	D	B-COUNT	g	480000.00000000006	weight	gin2	57600
+6(asz)	6(asz)[one]	NU	NU	D	I-COUNT	*	*	*	*	*
+gu2	gun[unit]	N	N	D	I-COUNT	*	*	*	*	*
+szu-x-sar	_	N	N	POS	_	_	_	_	_	_
+mangaga	_	N	N	Ia	B-COM	_	_	_	_	_
+mu-kux(DU)	mukur[delivery][-ø]	N	N	D	_	_	_	_	_	_
+x-x-x-ma-...-ri	_	PN	PN	Iabcde	_	_	_	_	_	_
+iti	iti[month]	N	N	D	_	_	_	_	_	_
+ezem-{d}nin	_	MN	MN	Iabcde	_	_	_	_	_	_
+mu	mu[year]	N	N	D	_	_	_	_	_	_
+si-mu-ur-ru-um{ki}	_	SN	SN.ABS	Iab	_	_	_	_	_	_
+ba-hul	ba-hulu[destroy][-ø]	V	MID.V.3-SG-S	D	_	_	_	_	_	_

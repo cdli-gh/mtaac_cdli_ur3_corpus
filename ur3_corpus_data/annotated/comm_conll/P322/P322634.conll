@@ -1,0 +1,25 @@
+#new_text=P322634					
+FORM	SEGM	XPOSTAG	XPOSTAG	POS	?	?	?	?	?	?
+n	_(_)[_]	NU	NU	D	_	_	_	_	_	_
+gurusz	gurusz[male]	N	N	D	_	_	_	_	_	_
+lu2	lu[person]	N	N	D	_	_	_	_	_	_
+azlag2	azlag[fuller][-ra]	N	N.DAT-H	D	_	_	_	_	_	_
+a2	a[time]	N	N	D	_	_	_	_	_	_
+1/2(disz)	1/2(disz)[one]	NU	NU	D	B-COUNT	_	0.5	cardinal	_	0.5
+u4	ud[day]	N	N	D	_	_	_	_	_	_
+8(disz)-sze3	8(disz)[one]-sze	NU	NU.TERM	D	B-COUNT	_	8	cardinal	_	8
+se-li-bur-ni-rum	_	PN	PN	POS	_	_	_	_	_	_
+mu-kux(DU)	mukur[delivery][-ø]	N	N	D	_	_	_	_	_	_
+sze	sze[barley]	N	N	D	B-COM	_	_	_	_	_
+apin-la2-a	_	N	N	POS	_	_	_	_	_	_
+nag-ti-te	_	PN	PN	POS	_	_	_	_	_	_
+i3-im-gen-na-a	_	V	FIN.3-SG-H.DAT.V.3-SG-S.SUB.L1	Iabcdefg	_	_	_	_	_	_
+ki	ki[place]	N	N	D	_	_	_	_	_	_
+{d}iszkur-illat-ta	Iszkurillat[1][-ak]-ta	PN	PN.GEN.ABL	D	_	_	_	_	_	_
+ba-zi	ba-zig[expend][-ø]	PN	MID.V.3-SG-S	D	_	_	_	_	_	_
+iti	iti[month]	N	N	D	_	_	_	_	_	_
+ezem-me-ki-gal2	Ezemmekigal[1][-ø]	MN	MN.L1	D	_	_	_	_	_	_
+mu	mu[year]	N	N	D	_	_	_	_	_	_
+{d}i-bi2-{d}suen	Ibbisuen[1]	RN	RN	D	_	_	_	_	_	_
+lugal	lugal[king]	N	N	D	_	_	_	_	_	_
+gaba-ri	gabari[copy]	N	N	D	_	_	_	_	_	_

@@ -1,0 +1,19 @@
+#new_text=P115121					
+FORM	SEGM	XPOSTAG	XPOSTAG	POS	B-COUNT	l	3	"liquid	*	*
+*RETOK*-capacity"	?	?	?	?	I-COUNT	l	3	"dry	sila3	3
+3(disz)	3(disz)[one]	NU	NU	D	I-COUNT	*	*	*	sila3	3
+sila3	sila[unit]	N	N	D	I-COUNT	*	*	*	*	*
+kasz	kasz[beer]	N	N	D	B-COM	_	_	_	_	_
+i3-gu2-ra	_	V	V	POS	_	_	_	_	_	_
+*RETOK*-capacity"	?	?	?	?	B-COUNT	l	3	"liquid	*	*
+*RETOK*-capacity"	?	?	?	?	I-COUNT	l	3	"dry	sila3	3
+3(disz)	3(disz)[one]	NU	NU	D	I-COUNT	*	*	*	sila3	3
+sila3	sila[unit]	N	N	D	I-COUNT	*	*	*	*	*
+kasz	kasz[beer]	N	N	D	B-COM	_	_	_	_	_
+szu-{d}utu	Szu'utu[1]	PN	PN	D	_	_	_	_	_	_
+lu2	lu[person]	N	N	D	_	_	_	_	_	_
+kas4	kas[runner][-ra]	N	N.DAT-H	D	_	_	_	_	_	_
+an-sza-an{ki}-ta	Anszan[1]-ta	SN	GN.ABL	D	_	_	_	_	_	_
+gen-na	gen[go]-a	V	NF.V.PT	D	_	_	_	_	_	_
+iti	iti[month]	N	N	D	_	_	_	_	_	_
+mu-szu-du7	Muszudu[1][-'a]	MN	MN.L1	D	_	_	_	_	_	_

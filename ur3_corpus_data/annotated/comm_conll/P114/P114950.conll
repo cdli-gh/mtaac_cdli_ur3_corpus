@@ -1,0 +1,19 @@
+#new_text=P114950					
+FORM	SEGM	XPOSTAG	XPOSTAG	POS	B-COUNT	l	60	"dry	*	*
+1(barig)	1(bariga)[unit]	NU	N	D	I-COUNT	*	*	*	sila3	60
+zi3-gu	zidgu[flour_type]	N	N	D	B-COM	_	_	_	_	_
+lugal	lugal[king]	N	N	D	_	_	_	_	_	_
+ARAD2-{d}nanna	Aradnanna[1]	PN	PN	D	_	_	_	_	_	_
+*RETOK*-capacity"	?	?	?	?	B-COUNT	l	60	"dry	*	*
+1(barig)	1(bariga)[unit]	NU	N	D	I-COUNT	*	*	*	sila3	60
+zi3-gu	zidgu[flour_type]	N	N	D	B-COM	_	_	_	_	_
+lu2-{gesz}e2-KA	_	PN	PN.GEN.ABS	Iab	_	_	_	_	_	_
+*RETOK*-capacity"	?	?	?	?	B-COUNT	l	60	"dry	*	*
+1(barig)	1(bariga)[unit]	NU	N	D	I-COUNT	*	*	*	sila3	60
+zi3-gu	zidgu[flour_type]	N	N	D	_	_	_	_	_	_
+ur-{d}nin-gesz-zi-da	_	PN	PN.GEN.ABS	D	_	_	_	_	_	_
+aga3-us2	aga'us[soldier]	N	N	D	B-COM	_	_	_	_	_
+lugal-me	_	PN	PN	Iabcdefgh	_	_	_	_	_	_
+zi-ga	zig[expend]-a	V	NF.V.PT	D	_	_	_	_	_	_
+iti	iti[month]	N	N	D	_	_	_	_	_	_
+mu-szu-du8	_	MN	MN.L1	Iabcdefgh	_	_	_	_	_	_

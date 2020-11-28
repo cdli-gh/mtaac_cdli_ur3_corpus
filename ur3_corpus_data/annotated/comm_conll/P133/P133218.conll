@@ -1,0 +1,22 @@
+#new_text=P133218					
+FORM	SEGM	XPOSTAG	XPOSTAG	POS	B-COUNT	l	0.5	"liquid	*	*
+*RETOK*-capacity"	?	?	?	?	I-COUNT	l	0.5	"dry	sila3	0.5
+1/2(disz)	1/2(disz)[one]	NU	NU	D	I-COUNT	*	*	*	sila3	0.5
+sila3	sila[unit]	N	N	D	I-COUNT	*	*	*	*	*
+i3-gesz	igesz[oil]	V	N	D	B-COM	_	_	_	_	_
+*RETOK*-capacity"	?	?	?	?	B-COUNT	l	6	"liquid	*	*
+*RETOK*-capacity"	?	?	?	?	I-COUNT	l	6	"dry	sila3	6
+6(disz)	6(disz)[one][-sze]	NU	NU	D	I-COUNT	*	*	*	sila3	6
+sila3	sila[unit]	N	N	D	I-COUNT	*	*	*	*	*
+zu2-lum	zulum[date]	N	N	D	_	_	_	_	_	_
+nig2-siskur2-ra-sze3	_	N	N.3-SG-H-POSS.GEN.GEN.TERM	Iabcdefg	_	_	_	_	_	_
+2(disz)	2(disz)[one]	NU	NU	D	B-COUNT	_	2	cardinal	_	2
+pesz-murgu2	_	N	N	Ia	_	_	_	_	_	_
+engar-gesz-i3-sze3	_	N	N	POS	_	_	_	_	_	_
+ki	ki[place]	N	N	D	_	_	_	_	_	_
+gesz-i3-ta	_	N	N.3-SG-NH-POSS.ABL	Iabcdefg	B-COM	_	_	_	_	_
+giri3	giri[foot]	N	N	D	_	_	_	_	_	_
+nam-mah	Nammah[1]	PN	PN	D	_	_	_	_	_	_
+zi-ga	zig[expend]-a	V	NF.V.PT	D	_	_	_	_	_	_
+iti	iti[month]	N	N	D	_	_	_	_	_	_
+ezem-{d}dumu-zi	Ezemdumuzi[1][-'a]	MN	MN.L1	D	_	_	_	_	_	_

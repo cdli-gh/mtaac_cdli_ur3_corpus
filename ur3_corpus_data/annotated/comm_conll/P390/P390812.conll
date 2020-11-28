@@ -1,0 +1,25 @@
+#new_text=P390812					
+FORM	SEGM	XPOSTAG	XPOSTAG	POS	?	?	?	?	?	?
+1/2(disz)	1/2(disz)[one]	NU	NU	D	B-COUNT	_	0.5	cardinal	_	0.5
+ba-an-sa6	Bayansa[1][-e]	PN	PN.ERG	D	_	_	_	_	_	_
+dumu	dumu[child]	N	N	D	_	_	_	_	_	_
+i3-li2-mu	Ili-mu[1][-ak]	PN	PN.GEN	D	_	_	_	_	_	_
+1(disz)	1(disz)[one]	NU	NU	D	B-COUNT	_	1	cardinal	_	1
+ug3	ug[people]	N	N	D	_	_	_	_	_	_
+nigar{gar}-ki-du10	Nigarkidu[1][-ak][-ø]	PN	PN	D	_	_	_	_	_	_
+dumu	dumu[child]	N	N	D	_	_	_	_	_	_
+ka5-a	Kaya[1]	PN	PN	D	B-COM	_	_	_	_	_
+nu-{gesz}kiri6	_	N	N	D	_	_	_	_	_	_
+e2-te-na-ka-ta	_	PN	PN	POS	_	_	_	_	_	_
+lil-la	Lila[1][-ø]	PN	PN.ABS	D	_	_	_	_	_	_
+i3-dab5	i[-n]-dab[seize][-ø]	V	FIN.3-SG-H-A.V.3-SG-P	D	_	_	_	_	_	_
+iti	iti[month]	N	N	D	_	_	_	_	_	_
+sze-sag11-ku5-ta	Szesagku[1]-ta	MN	MN.ABL	D	_	_	_	_	_	_
+u4	ud[day]	N	N	D	_	_	_	_	_	_
+7(disz)-am3	_	NU	NU.GEN.COP-3-SG	Iabcdef	B-COUNT	_	7	cardinal	_	7
+ba-ra-zal-la-ta	_	V	NF.V.PT.ABL	Iab	_	_	_	_	_	_
+mu	mu[year]	N	N	D	_	_	_	_	_	_
+us2-sa	us[follow]-a	V	NF.V.PT	D	_	_	_	_	_	_
+bad3	bad[wall]	N	N	D	_	_	_	_	_	_
+mar-tu	Martu[1][-ø]	EN	EN.ABS	D	_	_	_	_	_	_
+ba-du3	ba-du[build][-ø]	V	MID.V.3-SG-S	D	B-COM	_	_	_	_	_

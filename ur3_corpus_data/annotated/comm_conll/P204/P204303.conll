@@ -1,0 +1,19 @@
+#new_text=P204303					
+FORM	SEGM	XPOSTAG	XPOSTAG	POS	?	?	?	?	?	?
+1(disz)	1(disz)[one]	NU	NU	D	B-COUNT	_	1	cardinal	_	1
+{gesz}x	_	PN	PN	POS	B-COM	_	_	_	_	_
+x	_[_]	N	N	D	_	_	_	_	_	_
+nu-ur2-ma	_	V	V	POS	_	_	_	_	_	_
+e2	e[house]	N	N	D	_	_	_	_	_	_
+ur-dun-ta	_	PN	PN.GEN.ABL	Iabcdef	_	_	_	_	_	_
+x	_[_]	N	N	D	_	_	_	_	_	_
+{d}ba-ba6	_	DN	DN	D	_	_	_	_	_	_
+ur-{d}lamma	Urlamma[1]	PN	PN	D	_	_	_	_	_	_
+nagar	nagar[carpenter]	N	N	D	_	_	_	_	_	_
+szu	szu[hand][-e]	N	N.L3-NH	D	_	_	_	_	_	_
+ba-ti	ba[-n]-teg[accept][-ø]	V	MID.3-SG-H-A.V.3-SG-P	D	_	_	_	_	_	_
+iti	iti[month]	N	N	D	_	_	_	_	_	_
+ezem-{d}szul-gi	Ezemszulgir[1][-'a]	MN	MN.L1	D	_	_	_	_	_	_
+mu	mu[year]	N	N	D	_	_	_	_	_	_
+{d}amar-{d}suen	Amarsuen[1]	RN	RN	D	_	_	_	_	_	_
+lugal	lugal[king]	N	N	D	_	_	_	_	_	_

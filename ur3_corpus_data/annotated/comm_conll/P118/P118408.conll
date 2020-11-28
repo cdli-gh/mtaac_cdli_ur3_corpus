@@ -1,0 +1,25 @@
+#new_text=P118408					
+FORM	SEGM	XPOSTAG	XPOSTAG	POS	?	?	?	?	?	?
+5(disz)	5(disz)[one]	NU	NU	D	B-COUNT	_	5	cardinal	_	5
+gu4	gud[ox]	N	N	D	B-COM	_	_	_	_	_
+apin	apin[plow]	N	N	D	_	_	_	_	_	_
+sze	sze[barley]	N	N	D	_	_	_	_	_	_
+mu-kux(DU)-bi	_	V	VEN.3-SG-H-A.V.3-SG-P.ABS	Iabcdefg	_	_	_	_	_	_
+*RETOK*-capacity"	?	?	?	?	B-COUNT	l	22500	"dry	*	*
+1(gesz2)	1(gesz)[sixty]	NU	NU	D	I-COUNT	*	*	*	sila3	22500
+1(u)	1(u)[ten]	NU	NU	D	I-COUNT	*	*	*	*	*
+5(asz)	5(asz)[one]	NU	NU	D	I-COUNT	*	*	*	*	*
+gur	gur[unit]	N	N	D	I-COUNT	*	*	*	*	*
+lugal	lugal[king]	N	N	D	_	_	_	_	_	_
+buru14-sze3	_	N	N.3-SG-H-POSS.TERM	Iabcdef	_	_	_	_	_	_
+ag2-e-da	_	V	NF.V.F.ABS.COP-3-SG	Iabcdefghi	B-COM	_	_	_	_	_
+bu3-lu5	_	PN	PN	Iabcde	_	_	_	_	_	_
+nu-banda3-gu4	nubandagu[ox_overseer][-ak][-ak][-ak]	N	N	D	_	_	_	_	_	_
+mu	mu[year]	N	N	D	_	_	_	_	_	_
+lugal	lugal[king]	N	N	D	_	_	_	_	_	_
+in-pa3	i-n-pad[name][-ø]	V	FIN.3-SG-H-A.V.3-SG-P	D	_	_	_	_	_	_
+iti	iti[month]	N	N	D	_	_	_	_	_	_
+ezem-mah	Ezemmah[1][-'a]	MN	MN.L1	D	_	_	_	_	_	_
+mu	mu[year]	N	N	D	_	_	_	_	_	_
+{d}amar-{d}suen	Amarsuen[1]	RN	RN	D	_	_	_	_	_	_
+lugal	lugal[king]	N	N	D	_	_	_	_	_	_

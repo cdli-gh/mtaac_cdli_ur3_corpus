@@ -1,0 +1,18 @@
+#new_text=P119712					
+FORM	SEGM	XPOSTAG	XPOSTAG	POS	B-COUNT	l	550	"dry	*	*
+1(asz)	1(asz)[one]	NU	NU	D	I-COUNT	*	*	*	sila3	550
+4(barig)	4(bariga)[unit]	NU	N	D	I-COUNT	*	*	*	*	*
+1(ban2)	1(ban)[unit]	NU	N	D	I-COUNT	*	*	*	*	*
+nig2-ar3-ra	nigara[groats]	N	N	D	B-COM	_	_	_	_	_
+saga	saga[good][-ø]	V	NF.V.ABS	D	_	_	_	_	_	_
+gur	gur[unit]	N	N	D	_	_	_	_	_	_
+ma2	ma[ship]	N	N	D	_	_	_	_	_	_
+u2-da-ta	_	PN	PN	Iabcdefgh	_	_	_	_	_	_
+kiszib3	kiszib[seal]	N	N	D	_	_	_	_	_	_
+lugal-an-na-tum2	_	PN	PN	POS	_	_	_	_	_	_
+iti	iti[month]	N	N	D	_	_	_	_	_	_
+sze-sag11-ku5	Szesagku[1][-'a]	MN	MN.L1	D	_	_	_	_	_	_
+lugal-an-na-tum2	_	PN	PN	POS	_	_	_	_	_	_
+dub-sar	dubsar[scribe]	N	N	D	_	_	_	_	_	_
+dumu	dumu[child]	N	N	D	_	_	_	_	_	_
+na-ki-ni	_	PN	PN.GEN.ABS	Iabcdefg	_	_	_	_	_	_

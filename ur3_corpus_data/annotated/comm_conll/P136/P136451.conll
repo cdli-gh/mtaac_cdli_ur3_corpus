@@ -1,0 +1,24 @@
+#new_text=P136451					
+FORM	SEGM	XPOSTAG	XPOSTAG	POS	B-COUNT	l	549.5	"dry	*	*
+1(asz)	1(asz)[one]	NU	NU	D	I-COUNT	*	*	*	sila3	549.5
+4(barig)	4(bariga)[unit]	NU	N	D	I-COUNT	*	*	*	*	*
+9(disz)	9(disz)[one]	NU	NU	D	I-COUNT	*	*	*	*	*
+1/2(disz)	1/2(disz)[one]	NU	NU	D	I-COUNT	*	*	*	*	*
+sila3	sila[unit]	N	N	D	I-COUNT	*	*	*	*	*
+kasz	kasz[beer]	N	N	D	B-COM	_	_	_	_	_
+du	gin[quality_designation][-ø]	V	NF.V.ABS	D	_	_	_	_	_	_
+gur	gur[unit]	N	N	D	_	_	_	_	_	_
+esz3	esz[shrine]	N	N	D	_	_	_	_	_	_
+ge6-zal-sze3	_	PN	PN	POS	_	_	_	_	_	_
+ki	ki[place]	N	N	D	_	_	_	_	_	_
+a2-ki-ti	Akiti[1][-'a]	N	MN.L1	D	_	_	_	_	_	_
+ga-esz{ki}	Ga'esz[1][-ak][-ø]	SN	SN.GEN.ABS	D	_	_	_	_	_	_
+zi-ga	zig[expend]-a	V	NF.V.PT	D	_	_	_	_	_	_
+iti	iti[month]	N	N	D	_	_	_	_	_	_
+a2-ki-ti	Akiti[1][-'a]	N	MN.L1	D	_	_	_	_	_	_
+mu	mu[year]	N	N	D	_	_	_	_	_	_
+dumu-munus	dumumunus[daughter]	N	N	D	_	_	_	_	_	_
+lugal	lugal[king]	N	N	D	_	_	_	_	_	_
+ensi2	ensik[ruler]	N	N	D	_	_	_	_	_	_
+za-ab-sza-li{ki}-ke4	_	SN	SN.GEN.GEN.ERG	Iabcdef	_	_	_	_	_	_
+ba-an-tuku	_	V	MID.3-SG-H.DAT.V.3-SG-S	Iabcdefg	_	_	_	_	_	_

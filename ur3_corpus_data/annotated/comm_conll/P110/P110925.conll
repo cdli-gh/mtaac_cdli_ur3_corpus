@@ -1,0 +1,23 @@
+#new_text=P110925					
+FORM	SEGM	XPOSTAG	XPOSTAG	POS	?	?	?	?	?	?
+1(disz)	1(disz)[one]	NU	NU	D	B-COUNT	_	1	cardinal	_	1
+ur-{d}ga2-tum3-du10	_	PN	PN	POS	_	_	_	_	_	_
+ARAD2	arad[slave]	N	N	D	_	_	_	_	_	_
+nin-dingir	_	PN	N	D	_	_	_	_	_	_
+{d}ga2-tum3-du10	_	DN	DN	D	_	_	_	_	_	_
+1(disz)	1(disz)[one]	NU	NU	D	B-COUNT	_	1	cardinal	_	1
+lugal-ku3-ga-ni	Lugalkugani[1][-ak]	PN	PN.GEN	D	_	_	_	_	_	_
+1(disz)	1(disz)[one]	NU	NU	D	B-COUNT	_	1	cardinal	_	1
+ur-{d}hendur-sag	Urhendursag[1]	PN	PN	D	_	_	_	_	_	_
+ARAD2	arad[slave]	N	N	D	_	_	_	_	_	_
+nin-dingir	_	PN	N	D	_	_	_	_	_	_
+{d}hendur-sag	Hendursag[1]	PN	DN	D	_	_	_	_	_	_
+1(disz)	1(disz)[one]	NU	NU	D	B-COUNT	_	1	cardinal	_	1
+lugal-zi-a	_	PN	PN	Iabcde	_	_	_	_	_	_
+1(disz)	1(disz)[one]	NU	NU	D	B-COUNT	_	1	cardinal	_	1
+lugal-me-lam2	Lugalmelam[1]	PN	PN	D	_	_	_	_	_	_
+1(disz)	1(disz)[one]	NU	NU	D	B-COUNT	_	1	cardinal	_	1
+da-da	Dada[1][-ak]	PN	PN	D	_	_	_	_	_	_
+ARAD2	arad[slave]	N	N	D	_	_	_	_	_	_
+nin-dingir	_	PN	N	D	_	_	_	_	_	_
+{d}nin-dar-a	_	DN	DN	D	_	_	_	_	_	_

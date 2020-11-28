@@ -1,0 +1,24 @@
+#new_text=P200825					
+FORM	SEGM	XPOSTAG	XPOSTAG	POS	?	?	?	?	?	?
+3(gesz2)	3(gesz)[sixty]	NU	NU	D	B-COUNT	_	216.5	cardinal	_	216.5
+3(u)	3(u)[ten]	NU	NU	D	I-COUNT	*	*	*	*	*
+6(disz)	6(disz)[one][-sze]	NU	NU	D	I-COUNT	*	*	*	*	*
+1/2(disz)	1/2(disz)[one]	NU	NU	D	I-COUNT	*	*	*	*	*
+sa	sa[bundle]	N	N	D	_	_	_	_	_	_
+gi-zi	gizi[reed][-ak][-ak]	N	N.GEN.GEN	D	_	_	_	_	_	_
+gu-nigin2-ta	_	N	N.3-SG-NH-POSS.ABL	Iabcdefg	_	_	_	_	_	_
+e3-a	e[leave]-a	V	NF.V.PT	D	_	_	_	_	_	_
+gurusz-e	_	N	N.L3-NH	Iab	_	_	_	_	_	_
+gu-nigin2	_	PN	PN	POS	_	_	_	_	_	_
+2(disz)-ta	2(disz)[one]-ta	NU	NU.ABL	D	B-COUNT	_	2	cardinal	_	2
+ugula	ugula[overseer][-ø]	N	N	D	_	_	_	_	_	_
+lugal-mu-ma-ag2	Lugalmumag[1][-ø]	PN	PN.ABS	D	_	_	_	_	_	_
+kiszib3	kiszib[seal]	N	N	D	_	_	_	_	_	_
+ukken-ne2	_	PN	PN	POS	_	_	_	_	_	_
+mu	mu[year]	N	N	D	_	_	_	_	_	_
+en-mah-gal-an-na	Enmahgalana[1]	PN	PN	D	_	_	_	_	_	_
+ba-hun	ba-hug[hire][-ø]	V	MID.V.3-SG-S	D	_	_	_	_	_	_
+ukken-ne2	_	PN	PN	POS	_	_	_	_	_	_
+dub-sar	dubsar[scribe]	N	N	D	_	_	_	_	_	_
+dumu	dumu[child]	N	N	D	_	_	_	_	_	_
+ur-{gesz}gigir	Urgigir[1]	PN	PN	D	B-COM	_	_	_	_	_

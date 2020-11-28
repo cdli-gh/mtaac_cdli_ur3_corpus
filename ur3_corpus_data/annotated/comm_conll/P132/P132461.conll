@@ -1,0 +1,17 @@
+#new_text=P132461					
+FORM	SEGM	XPOSTAG	XPOSTAG	POS	?	?	?	?	?	?
+1(barig)	1(bariga)[unit]	NU	N	D	B-COUNT	*	*	*	*	*
+sze	sze[barley]	N	N	D	I-COUNT	*	*	*	*	*
+ur-{d}nansze	Urnansze[1]	PN	PN	D	_	_	_	_	_	_
+bahar2	_	PN	PN	POS	_	_	_	_	_	_
+nu-dab5	nudab[worker]	V	N	D	_	_	_	_	_	_
+inim	inim[word]	N	N	D	_	_	_	_	_	_
+sza13-dub-ba-ta	_	N	N	POS	_	_	_	_	_	_
+kiszib3	kiszib[seal]	N	N	D	_	_	_	_	_	_
+nu-tuku	nu-tuku[acquire][-a]	V	NEG.NF.V.PT	D	_	_	_	_	_	_
+iti	iti[month]	N	N	D	_	_	_	_	_	_
+diri	diri[intercalary_month]	N	N	D	_	_	_	_	_	_
+sze-sag11-ku5	Szesagku[1][-'a]	MN	MN.L1	D	_	_	_	_	_	_
+mu	mu[year]	N	N	D	_	_	_	_	_	_
+si-mu-ru-um{ki}	Simurrum[1]	SN	SN.ABS	D	_	_	_	_	_	_
+ba-hul	ba-hulu[destroy][-ø]	V	MID.V.3-SG-S	D	_	_	_	_	_	_

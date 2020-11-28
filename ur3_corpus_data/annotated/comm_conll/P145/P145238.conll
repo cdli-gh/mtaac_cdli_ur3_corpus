@@ -1,0 +1,8 @@
+#new_text=P145238					
+FORM	SEGM	XPOSTAG	XPOSTAG	POS	?	?	?	?	?	?
+1(disz)	1(disz)[one]	NU	NU	D	B-COUNT	_	1	cardinal	_	1
+{uruda}gurx(|SZE.KIN|)	_	N	N	Ia	B-COM	_	_	_	_	_
+ur-{d}suen	Ursuen[1]	PN	PN	D	_	_	_	_	_	_
+3(disz)	3(disz)[one]	NU	NU	D	B-COUNT	_	3	cardinal	_	3
+{uruda}gurx(|SZE.KIN|)	_	N	N	Ia	B-COM	_	_	_	_	_
+lu2-{d}nin-ur4-ra	Luninura[1][-ak]	PN	PN.GEN	D	_	_	_	_	_	_

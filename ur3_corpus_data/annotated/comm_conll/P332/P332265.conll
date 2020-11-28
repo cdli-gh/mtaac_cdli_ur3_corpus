@@ -1,0 +1,27 @@
+#new_text=P332265					
+FORM	SEGM	XPOSTAG	XPOSTAG	POS	B-COUNT	l	5760	"dry	*	*
+1(u)	1(u)[ten]	NU	NU	D	I-COUNT	*	*	*	sila3	5760
+9(asz)	9(asz)[one]	NU	NU	D	I-COUNT	*	*	*	*	*
+1(barig)	1(bariga)[unit]	NU	N	D	I-COUNT	*	*	*	*	*
+nig2-ar3-ra	nigara[groats]	N	N	D	B-COM	_	_	_	_	_
+du	gin[quality_designation][-ø]	V	NF.V.ABS	D	_	_	_	_	_	_
+gur	gur[unit]	N	N	D	_	_	_	_	_	_
+sze-bi	sze[barley]-bi[-ø]	N	N.3-SG-NH-POSS.ABS	D	_	_	_	_	_	_
+*RETOK*-capacity"	?	?	?	?	B-COUNT	l	17820	"dry	*	*
+5(u)	5(u)[ten]	NU	NU	D	I-COUNT	*	*	*	sila3	17820
+9(asz)	9(asz)[one]	NU	NU	D	I-COUNT	*	*	*	*	*
+2(barig)	2(bariga)[unit]	NU	N	D	I-COUNT	*	*	*	*	*
+gur	gur[unit]	N	N	D	I-COUNT	*	*	*	*	*
+sza3-gal	szaggal[food]	N	N	D	_	_	_	_	_	_
+amar	amar[calf][-ak]	N	N	D	B-COM	_	_	_	_	_
+du3-a	du[build]-a	V	NF.V.PT	D	_	_	_	_	_	_
+szer3-ra2	_	N	N	Ia	_	_	_	_	_	_
+ki	ki[place]	N	N	D	_	_	_	_	_	_
+ur-e11-e-ta	Ure'e[1][-ak]-ta	PN	PN.GEN.ABL	D	_	_	_	_	_	_
+giri3	giri[foot]	N	N	D	_	_	_	_	_	_
+a-tu	Atu[1][-ak]	PN	PN	D	_	_	_	_	_	_
+mu	mu[year]	N	N	D	_	_	_	_	_	_
+{d}amar-{d}suen	Amarsuen[1]	RN	RN	D	_	_	_	_	_	_
+lugal-e	lugal[king]-e	N	N.ERG	D	_	_	_	_	_	_
+ur-bi2-lum{ki}	Urbilum[1][-ø]	GN	SN.ABS	D	_	_	_	_	_	_
+mu-hul	mu[-n]-hulu[destroy][-ø]	V	VEN.3-SG-H-A.V.3-SG-P	D	_	_	_	_	_	_

@@ -1,0 +1,13 @@
+#new_text=P120737					
+FORM	SEGM	XPOSTAG	XPOSTAG	POS	B-COUNT	l	32	"dry	*	*
+3(ban2)	3(ban)[unit]	NU	N	D	I-COUNT	*	*	*	sila3	32
+2(disz)	2(disz)[one]	NU	NU	D	I-COUNT	*	*	*	*	*
+sila3	sila[unit]	N	N	D	I-COUNT	*	*	*	*	*
+esza	esza[flour]	N	N	D	B-COM	_	_	_	_	_
+*RETOK*-capacity"	?	?	?	?	B-COUNT	l	40	"dry	*	*
+4(ban2)	4(ban)[unit]	NU	N	D	I-COUNT	*	*	*	sila3	40
+zi3-gu	zidgu[flour_type]	N	N	D	_	_	_	_	_	_
+lu2	lu[person]	N	N	D	_	_	_	_	_	_
+kar-zi-da	Karzida[1][-ak][-ak][-ø]	SN	SN.GEN.GEN.ABS	D	_	_	_	_	_	_
+siskur2	siszkur[offering]	N	N	D	_	_	_	_	_	_
+{d}da-gan	_	DN	DN.GEN.ABS	Iabcdef	_	_	_	_	_	_

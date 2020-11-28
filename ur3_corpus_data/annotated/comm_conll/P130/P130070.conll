@@ -1,0 +1,22 @@
+#new_text=P130070					
+FORM	SEGM	XPOSTAG	XPOSTAG	POS	B-COUNT	l	40	"dry	*	*
+4(ban2)	4(ban)[unit]	NU	N	D	I-COUNT	*	*	*	sila3	40
+zi3	zid[flour]	N	N	D	B-COM	_	_	_	_	_
+gu2-gal	gugala[chickpea][-ak]	PN	N	D	_	_	_	_	_	_
+nig2-dab5	nigdab[requisitions]	N	N	D	_	_	_	_	_	_
+gesz-kin-ti	geszkigti[workshop][-ak]	N	N.GEN	D	_	_	_	_	_	_
+ki	ki[place]	N	N	D	_	_	_	_	_	_
+a-a-mu	Ayamu[1][-ak]	PN	PN.GEN	D	_	_	_	_	_	_
+kiszib3	kiszib[seal]	N	N	D	_	_	_	_	_	_
+ur-{d}szara2-ka	_	PN	PN.GEN	Iabc	_	_	_	_	_	_
+u3-de6	_	PN	PN	Iabcdefgh	_	_	_	_	_	_
+kiszib3	kiszib[seal]	N	N	D	_	_	_	_	_	_
+lugal-nig2-lagar-e	Lugalniglagare[1][-ak]	PN	PN.GEN	D	_	_	_	_	_	_
+zi-re-dam	_	PN	PN	POS	_	_	_	_	_	_
+mu	mu[year]	N	N	D	_	_	_	_	_	_
+{d}amar-{d}suen	Amarsuen[1]	RN	RN	D	_	_	_	_	_	_
+lugal	lugal[king]	N	N	D	_	_	_	_	_	_
+lugal-si-NE-e	Lugalsine'e[1]	PN	PN	D	_	_	_	_	_	_
+dub-sar	dubsar[scribe]	N	N	D	_	_	_	_	_	_
+dumu	dumu[child]	N	N	D	_	_	_	_	_	_
+lugal-sa6-ga	Lugalsaga[1][-ak]	PN	PN.GEN	D	_	_	_	_	_	_

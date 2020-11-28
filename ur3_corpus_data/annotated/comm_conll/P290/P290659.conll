@@ -1,0 +1,24 @@
+#new_text=P290659					
+FORM	SEGM	XPOSTAG	XPOSTAG	POS	?	?	?	?	?	?
+3(u)	3(u)[ten]	NU	NU	D	B-COUNT	_	38	cardinal	_	38
+8(disz)	8(disz)[one]	NU	NU	D	I-COUNT	*	*	*	*	*
+{kusz}NIG2	_	N	N	Ia	B-COM	_	_	_	_	_
+ka	kag[mouth]	N	N	D	_	_	_	_	_	_
+SZIM	szim[beer_malt]	N	N	D	_	_	_	_	_	_
+mun-gazi	_	N	N	Ia	_	_	_	_	_	_
+bala-a-ka	_	N	N.GEN	Iabcde	_	_	_	_	_	_
+ba-ra-kesz2	_	V	NF.V.PT.GEN	Iabcdef	_	_	_	_	_	_
+ki	ki[place]	N	N	D	_	_	_	_	_	_
+a-kal-la-ta	Akala[1][-ak]-ta	PN	PN.GEN.ABL	D	_	_	_	_	_	_
+kiszib3	kiszib[seal]	N	N	D	_	_	_	_	_	_
+ur-x	_	PN	PN	Iabcdefgh	_	_	_	_	_	_
+sza3	szag[heart]	N	N	D	_	_	_	_	_	_
+bala-a	bala[tax][-ak]-'a	N	N.GEN.L1	D	_	_	_	_	_	_
+mu	mu[year]	N	N	D	_	_	_	_	_	_
+us2-sa	us[follow]-a	V	NF.V.PT	D	_	_	_	_	_	_
+ki-masz{ki}	Kimasz[1]	SN	SN.ABS	D	_	_	_	_	_	_
+ba-hul	ba-hulu[destroy][-ø]	V	MID.V.3-SG-S	D	_	_	_	_	_	_
+lugal-si-NE-e	Lugalsine'e[1]	PN	PN	D	_	_	_	_	_	_
+dub-sar	dubsar[scribe]	N	N	D	_	_	_	_	_	_
+dumu	dumu[child]	N	N	D	_	_	_	_	_	_
+lugal-sa6-ga	Lugalsaga[1][-ak]	PN	PN.GEN	D	_	_	_	_	_	_

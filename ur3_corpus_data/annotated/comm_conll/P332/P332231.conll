@@ -1,0 +1,17 @@
+#new_text=P332231					
+FORM	SEGM	XPOSTAG	XPOSTAG	POS	B-COUNT	l	15	"dry	*	*
+1(ban2)	1(ban)[unit]	NU	N	D	I-COUNT	*	*	*	sila3	15
+5(disz)	5(disz)[one]	NU	NU	D	I-COUNT	*	*	*	*	*
+sila3	sila[unit]	N	N	D	I-COUNT	*	*	*	*	*
+zi3	zid[flour]	N	N	D	B-COM	_	_	_	_	_
+sig15	sig[flour_type]	V	N	D	_	_	_	_	_	_
+ki	ki[place]	N	N	D	_	_	_	_	_	_
+im-ti-dam-ta	_	PN	PN.GEN.ABL	Iabcdefgh	_	_	_	_	_	_
+kiszib3	kiszib[seal]	N	N	D	_	_	_	_	_	_
+lu2-{d}nanna	Lunanna[1]	PN	PN	D	_	_	_	_	_	_
+iti	iti[month]	N	N	D	_	_	_	_	_	_
+ezem-mah	Ezemmah[1][-'a]	MN	MN.L1	D	_	_	_	_	_	_
+lu2-{d}nanna	Lunanna[1]	PN	PN	D	_	_	_	_	_	_
+dub-sar	dubsar[scribe]	N	N	D	_	_	_	_	_	_
+dumu	dumu[child]	N	N	D	_	_	_	_	_	_
+ki-tusz-lu2	Kituszlu[1][-ra]	PN	PN.DAT-H	D	_	_	_	_	_	_

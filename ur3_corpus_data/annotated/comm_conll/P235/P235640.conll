@@ -1,0 +1,26 @@
+#new_text=P235640					
+FORM	SEGM	XPOSTAG	XPOSTAG	POS	?	?	?	?	?	?
+1(szar2)	1(szar)[unit]	NU	N	D	B-COUNT	_	4800	cardinal	_	4800
+2(gesz'u)	2(gesz'u)[six_hundred]	NU	NU	D	I-COUNT	*	*	*	*	*
+gala-mah	_	V	NF.V.3-SG-NH-POSS.GEN.ABS	Iabcdef	_	_	_	_	_	_
+1(szar2)	1(szar)[unit]	NU	N	D	B-COUNT	_	3760	cardinal	_	3760
+2(gesz2)	2(gesz)[sixty]	NU	NU	D	I-COUNT	*	*	*	*	*
+4(u)	4(u)[ten]	NU	NU	D	I-COUNT	*	*	*	*	*
+nigar{gar}-ki-du10	Nigarkidu[1][-ak][-ø]	PN	PN	D	_	_	_	_	_	_
+aszgab	aszgab[leatherworker]	N	N	D	_	_	_	_	_	_
+1(szar2)	1(szar)[unit]	NU	N	D	B-COUNT	_	3600	cardinal	_	3600
+ad-da	Adda[1]	PN	PN	D	_	_	_	_	_	_
+aszgab	aszgab[leatherworker]	N	N	D	_	_	_	_	_	_
+1(szar2)	1(szar)[unit]	NU	N	D	B-COUNT	_	6300	cardinal	_	6300
+4(gesz'u)	4(gesz'u)[six_hundred]	NU	NU	D	I-COUNT	*	*	*	*	*
+5(gesz2)	5(gesz)[sixty]	NU	NU	D	I-COUNT	*	*	*	*	*
+lugal-saga	_	PN	PN	Ia	_	_	_	_	_	_
+szu-ku6	szukud[fisherman][-ak][-ak]	N	N	D	_	_	_	_	_	_
+2(gesz'u)	2(gesz'u)[six_hundred]	NU	NU	D	B-COUNT	_	1380	cardinal	_	1380
+3(gesz2)	3(gesz)[sixty]	NU	NU	D	I-COUNT	*	*	*	*	*
+du10-ga-mu	Dugamu[1]	PN	PN	D	_	_	_	_	_	_
+nar	_	N	N	POS	_	_	_	_	_	_
+sig4	szeg[brick]	N	N	D	_	_	_	_	_	_
+szid-da	szid[count]-a	V	NF.V.PT	D	_	_	_	_	_	_
+giri3	giri[foot]	N	N	D	_	_	_	_	_	_
+i3-kal-la	Ikala[1][-ak]	PN	PN	D	_	_	_	_	_	_

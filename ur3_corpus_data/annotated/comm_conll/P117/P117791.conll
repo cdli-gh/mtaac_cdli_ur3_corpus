@@ -1,0 +1,20 @@
+#new_text=P117791					
+FORM	SEGM	XPOSTAG	XPOSTAG	POS	?	?	?	?	?	?
+2(disz)	2(disz)[one]	NU	NU	D	B-COUNT	_	2	cardinal	_	2
+gurusz	gurusz[male]	N	N	D	B-COM	_	_	_	_	_
+muhaldim	_	N	N	D	_	_	_	_	_	_
+u4	ud[day]	N	N	D	_	_	_	_	_	_
+8(disz)-sze3	8(disz)[one]-sze	NU	NU.TERM	D	B-COUNT	_	8	cardinal	_	8
+a-da	_	PN	PN	Iabcde	B-COM	_	_	_	_	_
+gub-ba	gub[assigned]-a[-ak][-ø]	V	NF.V.PT	D	_	_	_	_	_	_
+a-sza3	aszag[field]	N	N	D	_	_	_	_	_	_
+me-en-kar2	Menkar[1][-ø]	FN	FN.ABS	D	_	_	_	_	_	_
+iti	iti[month]	N	N	D	_	_	_	_	_	_
+min-esz3	Minesz[1][-'a]	MN	MN.L1	D	_	_	_	_	_	_
+mu	mu[year]	N	N	D	_	_	_	_	_	_
+us2-sa	us[follow]-a	V	NF.V.PT	D	_	_	_	_	_	_
+mu	mu[year]	N	N	D	_	_	_	_	_	_
+lugal-sila-si	_	PN	PN.DAT-H	Iab	_	_	_	_	_	_
+dub-sar	dubsar[scribe]	N	N	D	_	_	_	_	_	_
+dumu	dumu[child]	N	N	D	_	_	_	_	_	_
+szesz-sa6-ga	_	PN	PN	Iabc	_	_	_	_	_	_

@@ -1,0 +1,23 @@
+#new_text=P312793					
+FORM	SEGM	XPOSTAG	XPOSTAG	POS	B-COUNT	l	0.0002777777777777778	"dry	*	*
+3(asz)	3(asz)[one]	NU	NU	D	I-COUNT	*	*	*	sila3	0.0002777777777777778
+sze	sze[barley]	N	N	D	I-COUNT	*	*	*	*	*
+gur	gur[unit]	N	N	D	I-COUNT	*	*	*	*	*
+sa2-du11	sadug[offerings]	N	N	D	_	_	_	_	_	_
+sanga	sagga[temple_administrator]	N	N	D	_	_	_	_	_	_
+szu-palil2	_	PN	PN	Ia	_	_	_	_	_	_
+ki-su7	kisur[threshing_floor]	N	N	D	_	_	_	_	_	_
+a-sza3	aszag[field]	N	N	D	_	_	_	_	_	_
+{d}nin-ur4-ra-ta	_	DN	DN.GEN.ABL	Iabcdef	_	_	_	_	_	_
+ki	ki[place]	N	N	D	B-COM	_	_	_	_	_
+ka-guru7-ta	Kaguru[1][-ak]-ta	PN	PN.GEN.ABL	D	_	_	_	_	_	_
+iti	iti[month]	N	N	D	_	_	_	_	_	_
+sze-sag11-ku5	Szesagku[1][-'a]	MN	MN.L1	D	_	_	_	_	_	_
+mu	mu[year]	N	N	D	_	_	_	_	_	_
+us2-sa	us[follow]-a	V	NF.V.PT	D	_	_	_	_	_	_
+ma-da	mada[land][-ak][-ø]	N	N	D	_	_	_	_	_	_
+za-ab-sza-li{ki}	Zabszali[1][-ak][-ø]	GN	SN.GEN.ABS	D	_	_	_	_	_	_
+ba-hul	ba-hulu[destroy][-ø]	V	MID.V.3-SG-S	D	_	_	_	_	_	_
+ka-ku3	_	PN	PN.GEN.ABS	D	_	_	_	_	_	_
+dumu	dumu[child]	N	N	D	_	_	_	_	_	_
+lugal-i3-sa6-ga	_	PN	PN.GEN	Iabc	_	_	_	_	_	_

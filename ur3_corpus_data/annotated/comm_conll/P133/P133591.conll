@@ -1,0 +1,10 @@
+#new_text=P133591					
+FORM	SEGM	XPOSTAG	XPOSTAG	POS	?	?	?	?	?	?
+1(gesz'u)	1(gesz'u)[six_hundred]	NU	NU	D	B-COUNT	_	1020	cardinal	_	1020
+7(gesz2)	7(gesz)[sixty]	NU	NU	D	I-COUNT	*	*	*	*	*
+nig2-ki-luh	_	N	N	Ia	B-COM	_	_	_	_	_
+7(gesz2)	7(gesz)[sixty]	NU	NU	D	B-COUNT	_	420	cardinal	_	420
+pa	pa[branch]	N	N.ABS	D	_	_	_	_	_	_
+geszimmar	gesznimbar[date_palm][-ak]	N	N.GEN	D	_	_	_	_	_	_
+7(gesz2)	7(gesz)[sixty]	NU	NU	D	B-COUNT	_	420	cardinal	_	420
+pesz-murgu2	_	N	N	Ia	_	_	_	_	_	_

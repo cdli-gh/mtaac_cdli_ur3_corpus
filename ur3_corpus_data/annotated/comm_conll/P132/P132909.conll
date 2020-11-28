@@ -1,0 +1,16 @@
+#new_text=P132909					
+FORM	SEGM	XPOSTAG	XPOSTAG	POS	?	?	?	?	?	?
+4(u)	4(u)[ten]	NU	NU	D	B-COUNT	_	none	unknown	_	none
+4(asz)	4(asz)[one]	NU	NU	D	I-COUNT	*	*	*	*	*
+5(ban2)	5(ban)[unit]	NU	N	D	I-COUNT	*	*	*	*	*
+x	_[_]	N	N	D	I-COUNT	*	*	*	*	*
+gur	gur[unit]	N	N	D	I-COUNT	*	*	*	*	*
+ziz2-numun-sze3	_	PN	PN	POS	_	_	_	_	_	_
+ki	ki[place]	N	N	D	B-COM	_	_	_	_	_
+lu2-{d}ba-ba6-ta	Lubaba[-ak]-ta	PN	PN.GEN.ABL	D	_	_	_	_	_	_
+ab-ba-kal-la	Abbakala[1][-ak][-ak]	PN	PN	D	_	_	_	_	_	_
+szu	szu[hand][-e]	N	N.L3-NH	D	_	_	_	_	_	_
+ba-ti	ba[-n]-teg[accept][-ø]	V	MID.3-SG-H-A.V.3-SG-P	D	_	_	_	_	_	_
+mu	mu[year]	N	N	D	_	_	_	_	_	_
+{d}i-bi2-{d}suen	Ibbisuen[1]	RN	RN	D	_	_	_	_	_	_
+lugal	lugal[king]	N	N	D	_	_	_	_	_	_

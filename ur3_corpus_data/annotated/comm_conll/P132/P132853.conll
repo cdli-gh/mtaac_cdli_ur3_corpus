@@ -1,0 +1,18 @@
+#new_text=P132853					
+FORM	SEGM	XPOSTAG	XPOSTAG	POS	?	?	?	?	?	?
+5(asz)	5(asz)[one]	NU	NU	D	B-COUNT	*	*	*	*	*
+4(barig)	4(bariga)[unit]	NU	N	D	I-COUNT	*	*	*	*	*
+sze	sze[barley]	N	N	D	I-COUNT	*	*	*	*	*
+gur	gur[unit]	N	N	D	I-COUNT	*	*	*	*	*
+ki	ki[place]	N	N	D	B-COM	_	_	_	_	_
+ur-{d}ba-ba6-ta	Urbaba[1][-ak]-ta	PN	PN.GEN.ABL	D	_	_	_	_	_	_
+zi3	zid[flour]	N	N	D	_	_	_	_	_	_
+KA-sze3	KA[flour type]-sze	N	N.TERM	D	_	_	_	_	_	_
+kiszib3	kiszib[seal]	N	N	D	_	_	_	_	_	_
+ab-ba-kal-la	Abbakala[1][-ak][-ak]	PN	PN	D	_	_	_	_	_	_
+ka5-a-mu	Kayamu[1][-ak]	PN	PN.GEN	D	_	_	_	_	_	_
+tum3-dam	_	V	V	POS	_	_	_	_	_	_
+mu	mu[year]	N	N	D	_	_	_	_	_	_
+ma-da	mada[land][-ak][-ø]	N	N	D	_	_	_	_	_	_
+za-ab-sza-li{ki}	Zabszali[1][-ak][-ø]	GN	SN.GEN.ABS	D	_	_	_	_	_	_
+ba-hul	ba-hulu[destroy][-ø]	V	MID.V.3-SG-S	D	_	_	_	_	_	_

@@ -1,0 +1,25 @@
+#new_text=P130603					
+FORM	SEGM	XPOSTAG	XPOSTAG	POS	?	?	?	?	?	?
+1(u)	1(u)[ten]	NU	NU	D	B-COUNT	_	16	cardinal	_	16
+6(disz)	6(disz)[one][-sze]	NU	NU	D	I-COUNT	*	*	*	*	*
+gurusz	gurusz[male]	N	N	D	B-COM	_	_	_	_	_
+u4	ud[day]	N	N	D	_	_	_	_	_	_
+2(disz)-sze3	2(disz)[one]-sze	NU	NU.TERM	D	B-COUNT	_	2	cardinal	_	2
+kun-zi-da	kunzida[weir]	N	N	D	_	_	_	_	_	_
+u3-bad-da-ke4	_	N	N	POS	_	_	_	_	_	_
+a	a[water][-ø]	N	N.ABS	D	B-COM	_	_	_	_	_
+ku5-re6-sze3	_	V	NF.V.3-SG-NH-POSS.GEN.GEN.TERM	Iabcdefg	_	_	_	_	_	_
+u2	u[grass]	N	N	D	_	_	_	_	_	_
+ga6-ga2	gag[carry]-a	V	NF.V.PT	D	_	_	_	_	_	_
+ugula	ugula[overseer][-ø]	N	N	D	_	_	_	_	_	_
+a-gu-gu	Agugu[1][-ak]	PN	PN.GEN	D	_	_	_	_	_	_
+kiszib3	kiszib[seal]	N	N	D	_	_	_	_	_	_
+da-a-ga	_	PN	PN	Ia	_	_	_	_	_	_
+mu	mu[year]	N	N	D	_	_	_	_	_	_
+en	en[priest]	N	N	D	_	_	_	_	_	_
+eridu{ki}	Eridug[1][-ak][-ø]	SN	SN.GEN.ABS	D	_	_	_	_	_	_
+ba-hun	ba-hug[hire][-ø]	V	MID.V.3-SG-S	D	_	_	_	_	_	_
+da-a-ga	_	PN	PN	Ia	_	_	_	_	_	_
+dub-sar	dubsar[scribe]	N	N	D	_	_	_	_	_	_
+dumu	dumu[child]	N	N	D	_	_	_	_	_	_
+ur-gesz-sza3-ga	_	PN	PN	Iabcde	_	_	_	_	_	_

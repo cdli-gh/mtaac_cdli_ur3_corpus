@@ -1,0 +1,17 @@
+#new_text=P104227					
+FORM	SEGM	XPOSTAG	XPOSTAG	POS	?	?	?	?	?	?
+3(disz)	3(disz)[one]	NU	NU	D	B-COUNT	_	3	cardinal	_	3
+{gesz}u3-suh5	usuh[tree]	N	N	D	B-COM	_	_	_	_	_
+ki	ki[place]	N	N	D	_	_	_	_	_	_
+ur-{d}...	_[1][-ra]	PN	PN.GEN	D	_	_	_	_	_	_
+gesz	gesz[tree]	N	N	D	_	_	_	_	_	_
+ad-...	_	N	N	POS	_	_	_	_	_	_
+x	_[_]	N	N	D	_	_	_	_	_	_
+ga2	ga[house]	N	N	D	_	_	_	_	_	_
+...	_[_]	PN	N	D	_	_	_	_	_	_
+e2-...	_	PN	PN.GEN.ABS	D	_	_	_	_	_	_
+...-ab	_	PN	PN	POS	_	_	_	_	_	_
+mu	mu[year]	N	N	D	_	_	_	_	_	_
+us2-sa	us[follow]-a	V	NF.V.PT	D	_	_	_	_	_	_
+mu	mu[year]	N	N	D	_	_	_	_	_	_
+us2-sa-bi	us[follow]-a-bi	V	NF.V.PT.3-SG-NH-POSS	D	_	_	_	_	_	_

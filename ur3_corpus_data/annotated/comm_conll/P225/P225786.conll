@@ -1,0 +1,15 @@
+#new_text=P225786					
+FORM	SEGM	XPOSTAG	XPOSTAG	POS	?	?	?	?	?	?
+szunigin	szunigin[total]	N	N	D	_	_	_	_	_	_
+*RETOK*-capacity"	?	?	?	?	B-COUNT	l	0.00018518518518518518	"dry	*	*
+2(asz)	2(asz)[one]	NU	NU	D	I-COUNT	*	*	*	sila3	0.00018518518518518518
+sze	sze[barley]	N	N	D	I-COUNT	*	*	*	*	*
+gur	gur[unit]	N	N	D	I-COUNT	*	*	*	*	*
+lugal	lugal[king]	N	N	D	_	_	_	_	_	_
+x	_[_]	N	N	D	_	_	_	_	_	_
+a2	a[time]	N	N	D	_	_	_	_	_	_
+lu2	lu[person]	N	N	D	_	_	_	_	_	_
+hun-ga2	hug[hire]-a	V	NF.V.PT	D	_	_	_	_	_	_
+gurx(|SZE.KIN|)	_	V	NF.V.PT.GEN	Iabcdef	_	_	_	_	_	_
+...-lugal	_	PN	PN	Iabcde	_	_	_	_	_	_
+...-kal-la	_	PN	PN	POS	_	_	_	_	_	_

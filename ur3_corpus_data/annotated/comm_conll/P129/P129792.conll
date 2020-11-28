@@ -1,0 +1,21 @@
+#new_text=P129792					
+FORM	SEGM	XPOSTAG	XPOSTAG	POS	?	?	?	?	?	?
+5(disz)	5(disz)[one]	NU	NU	D	B-COUNT	g	2500.0	weight	gin2	300
+ma-na	mana[unit]	N	N	D	I-COUNT	*	*	*	*	*
+siki-ud5	siki'ud[goat_wool]	N	N	D	_	_	_	_	_	_
+su4	su[red][-ø]	V	NF.V.ABS	D	_	_	_	_	_	_
+a2	a[time]	N	N	D	_	_	_	_	_	_
+ma2	ma[ship]	N	N	D	_	_	_	_	_	_
+ninda	ninda[bread]	N	N	D	B-COM	_	_	_	_	_
+saga	saga[good][-ø]	V	NF.V.ABS	D	_	_	_	_	_	_
+KA	ka[mouth]	N	N	D	_	_	_	_	_	_
+e2-da	_	PN	PN	POS	_	_	_	_	_	_
+ba-NE	_	PN	PN	Iabcdefgh	_	_	_	_	_	_
+ki	ki[place]	N	N	D	_	_	_	_	_	_
+ur-ab-ba-ta	Uraba[1][-ak]-ta	PN	PN.GEN.ABL	D	_	_	_	_	_	_
+ur-gu2-en-na	_	PN	PN.GEN.GEN	Iabcdef	_	_	_	_	_	_
+szu	szu[hand][-e]	N	N.L3-NH	D	_	_	_	_	_	_
+ba-ti	ba[-n]-teg[accept][-ø]	V	MID.3-SG-H-A.V.3-SG-P	D	_	_	_	_	_	_
+mu	mu[year]	N	N	D	_	_	_	_	_	_
+sza-asz-ru-um{ki}	Szaszrum[1][-ø]	GN	SN.ABS	D	_	_	_	_	_	_
+ba-hul	ba-hulu[destroy][-ø]	V	MID.V.3-SG-S	D	_	_	_	_	_	_

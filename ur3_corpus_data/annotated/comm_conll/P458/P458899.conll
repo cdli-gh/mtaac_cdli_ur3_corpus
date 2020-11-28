@@ -1,0 +1,25 @@
+#new_text=P458899					
+FORM	SEGM	XPOSTAG	XPOSTAG	POS	B-COUNT	l	600	"dry	*	*
+2(asz)	2(asz)[one]	NU	NU	D	I-COUNT	*	*	*	sila3	600
+gur	gur[unit]	N	N	D	I-COUNT	*	*	*	*	*
+sze	sze[barley]	N	N	D	I-COUNT	*	*	*	*	*
+szuku	szukur[prebend_land]	N	N	D	B-COM	_	_	_	_	_
+ba-la	Bala[1]	PN	PN	D	_	_	_	_	_	_
+engar	engar[farmer]	N	N	D	_	_	_	_	_	_
+ki	ki[place]	N	N	D	_	_	_	_	_	_
+ma-an-szum2-ta	Manszum[1][-ak]-ta	PN	PN.GEN.ABL	D	_	_	_	_	_	_
+ugu2	ugu[capital]	N	N	D	_	_	_	_	_	_
+da-da	Dada[1][-ak]	PN	PN	D	_	_	_	_	_	_
+ba-a-gar	ba-e-gar[place][-ø]	V	MID.L2.V.3-SG-S	D	_	_	_	_	_	_
+kiszib3	kiszib[seal]	N	N	D	_	_	_	_	_	_
+lu2-{d}szul-gi	Luszulgir[1]	PN	PN	D	_	_	_	_	_	_
+mu	mu[year]	N	N	D	_	_	_	_	_	_
+en	en[priest]	N	N	D	_	_	_	_	_	_
+eridu{ki}	Eridug[1][-ak][-ø]	SN	SN.GEN.ABS	D	_	_	_	_	_	_
+ba-hun	ba-hug[hire][-ø]	V	MID.V.3-SG-S	D	_	_	_	_	_	_
+lu2-{d}szul-gi	Luszulgir[1]	PN	PN	D	_	_	_	_	_	_
+dub-sar	dubsar[scribe]	N	N	D	_	_	_	_	_	_
+dumu	dumu[child]	N	N	D	_	_	_	_	_	_
+ur-{d}li9-si4	Urlisi[1]	PN	PN	D	_	_	_	_	_	_
+ensi2	ensik[ruler]	N	N	D	_	_	_	_	_	_
+umma{ki}-ka	Umma[1]-ak-ak[-ø]	FN	SN.GEN.GEN.ABS	D	_	_	_	_	_	_

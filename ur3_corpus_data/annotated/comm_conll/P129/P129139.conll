@@ -1,0 +1,24 @@
+#new_text=P129139					
+FORM	SEGM	XPOSTAG	XPOSTAG	POS	?	?	?	?	?	?
+2(disz)	2(disz)[one]	NU	NU	D	B-COUNT	_	2	cardinal	_	2
+{gi}kid	kid[mat]	N	N	D	B-COM	_	_	_	_	_
+szer7-ru-um	szerrum[mat]	N	N	D	_	_	_	_	_	_
+ki-la2-bi	kila[weight]-bi[-ø]	N	N.3-SG-NH-POSS.ABS	D	_	_	_	_	_	_
+2/3(disz)	2/3(disz)[one]	NU	NU	D	B-COUNT	bricks	5760.0	bricks	gin2	480.0
+sar	sar[unit]	N	N	D	I-COUNT	*	*	*	*	*
+ma2	ma[ship]	N	N	D	_	_	_	_	_	_
+zi3-da-ka	zid[flour]-ak-ak	N	N.GEN.GEN	D	B-COM	_	_	_	_	_
+ba-a-dul9	_	V	V	POS	_	_	_	_	_	_
+ki	ki[place]	N	N	D	_	_	_	_	_	_
+a-gu-ta	Agu[1][-ak]-ta	PN	PN.GEN.ABL	D	_	_	_	_	_	_
+kiszib3	kiszib[seal]	N	N	D	_	_	_	_	_	_
+a-du	Adu[1][-ak]	PN	PN.GEN	D	_	_	_	_	_	_
+iti	iti[month]	N	N	D	_	_	_	_	_	_
+e2-iti-6(disz)	E'iti6[1][-'a]	NU	MN.L1	D	_	_	_	_	_	_
+mu	mu[year]	N	N	D	_	_	_	_	_	_
+en-unu6-gal	Enunugal[1]	PN	PN	D	_	_	_	_	_	_
+{d}inanna	Inanna[1][-ak]	DN	DN	D	_	_	_	_	_	_
+a-du	Adu[1][-ak]	PN	PN.GEN	D	_	_	_	_	_	_
+dub-sar	dubsar[scribe]	N	N	D	_	_	_	_	_	_
+dumu	dumu[child]	N	N	D	_	_	_	_	_	_
+lu2-ga	Luga[1][-ak]	PN	PN.GEN	D	_	_	_	_	_	_

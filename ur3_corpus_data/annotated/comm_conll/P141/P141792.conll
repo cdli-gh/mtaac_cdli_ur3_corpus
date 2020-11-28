@@ -1,0 +1,22 @@
+#new_text=P141792					
+FORM	SEGM	XPOSTAG	XPOSTAG	POS	?	?	?	?	?	?
+2(u)	2(u)[ten]	NU	NU	D	B-COUNT	_	none	unknown	_	none
+4(disz)	4(disz)[one]	NU	NU	D	I-COUNT	*	*	*	*	*
+...	_[_]	PN	N	D	I-COUNT	*	*	*	*	*
+la2-ia3	la'u[arrears]	N	N	D	_	_	_	_	_	_
+3(disz)	3(disz)[one]	NU	NU	D	B-COUNT	_	3	cardinal	_	3
+sila4	sila[lamb]	N	N	D	B-COM	_	_	_	_	_
+ka2	kan[gate]	N	N	D	_	_	_	_	_	_
+bar-ra	bar[outside]-ak	V	N.GEN	D	_	_	_	_	_	_
+a-x	_	PN	PN	Iabcde	_	_	_	_	_	_
+2(u)	2(u)[ten]	NU	NU	D	B-COUNT	_	20	cardinal	_	20
+kir11	kir[female_lamb]	N	N	D	B-COM	_	_	_	_	_
+la2-ia3	la'u[arrears]	N	N	D	_	_	_	_	_	_
+1(u)	1(u)[ten]	NU	NU	D	B-COUNT	_	12	cardinal	_	12
+2(disz)	2(disz)[one]	NU	NU	D	I-COUNT	*	*	*	*	*
+szah2	szah[pig][-ak]	N	N	D	B-COM	_	_	_	_	_
+sza3	szag[heart]	N	N	D	_	_	_	_	_	_
+e2-duru5	eduru[village]	N	N	D	_	_	_	_	_	_
+i-bi2-...	_	PN	PN	Ia	_	_	_	_	_	_
+ga2-nun	_	N	N	D	_	_	_	_	_	_
+da-bahar2	_	PN	PN	POS	_	_	_	_	_	_

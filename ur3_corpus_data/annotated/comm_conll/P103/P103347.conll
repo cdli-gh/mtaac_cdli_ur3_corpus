@@ -1,0 +1,23 @@
+#new_text=P103347					
+FORM	SEGM	XPOSTAG	XPOSTAG	POS	?	?	?	?	?	?
+1(u)	1(u)[ten]	NU	NU	D	B-COUNT	g	5000.0	weight	gin2	600
+ma-na	mana[unit]	N	N	D	I-COUNT	*	*	*	*	*
+ku3-babbar	kugbabbar[silver]	N	N	D	B-COM	_	_	_	_	_
+nig2-sa10-ma	_	N	N.3-SG-H-POSS.GEN	Iabcdef	_	_	_	_	_	_
+ku3-sig17	kugsig[gold]	N	N	D	_	_	_	_	_	_
+1(u)-ta-sze3	_	NU	NU.GEN.COP-3-SG.TERM	Iabcdefg	B-COUNT	_	10	cardinal	_	10
+i3-lal3-lum	_	PN	PN.GEN	Iabcde	_	_	_	_	_	_
+mu-kux(DU)	mukur[delivery][-ø]	N	N	D	_	_	_	_	_	_
+puzur4-er3-ra	_	PN	PN	Ia	_	_	_	_	_	_
+szu	szu[hand][-e]	N	N.L3-NH	D	B-COM	_	_	_	_	_
+ba-ti	ba[-n]-teg[accept][-ø]	V	MID.3-SG-H-A.V.3-SG-P	D	_	_	_	_	_	_
+sza3	szag[heart]	N	N	D	_	_	_	_	_	_
+puzur4-isz-{d}da-gan	Puzuriszdagan[1][-ø]	SN	SN.ABS	D	_	_	_	_	_	_
+iti	iti[month]	N	N	D	_	_	_	_	_	_
+sze-sag11-ku5	Szesagku[1][-'a]	MN	MN.L1	D	_	_	_	_	_	_
+mu	mu[year]	N	N	D	_	_	_	_	_	_
+en	en[priest]	N	N	D	_	_	_	_	_	_
+{d}nanna	Nanna[1][-ak]	DN	DN	D	_	_	_	_	_	_
+ba-hun	ba-hug[hire][-ø]	V	MID.V.3-SG-S	D	_	_	_	_	_	_
+1(u)	1(u)[ten]	NU	NU	D	B-COUNT	g	5000.0	weight	gin2	600
+ma-na	mana[unit]	N	N	D	I-COUNT	*	*	*	*	*

@@ -1,0 +1,21 @@
+#new_text=P129533					
+FORM	SEGM	XPOSTAG	XPOSTAG	POS	B-COUNT	l	6	"liquid	*	*
+*RETOK*-capacity"	?	?	?	?	I-COUNT	l	6	"dry	sila3	6
+6(disz)	6(disz)[one][-sze]	NU	NU	D	I-COUNT	*	*	*	sila3	6
+sila3	sila[unit]	N	N	D	I-COUNT	*	*	*	*	*
+zu2-lum	zulum[date]	N	N	D	B-COM	_	_	_	_	_
+*RETOK*-capacity"	?	?	?	?	B-COUNT	l	6	"liquid	*	*
+*RETOK*-capacity"	?	?	?	?	I-COUNT	l	6	"dry	sila3	6
+6(disz)	6(disz)[one][-sze]	NU	NU	D	I-COUNT	*	*	*	sila3	6
+sila3	sila[unit]	N	N	D	I-COUNT	*	*	*	*	*
+{gesz}|UR2x(A.NA)|	_	N	N	Ia	_	_	_	_	_	_
+a-pi4-sal4{ki}	Apisal[1][-ak]	GN	FN.L1	D	_	_	_	_	_	_
+ki	ki[place]	N	N	D	B-COM	_	_	_	_	_
+lugal-nesag-e-ta	_	PN	PN.GEN.GEN.ABL	Iabcdefg	_	_	_	_	_	_
+kiszib3	kiszib[seal]	N	N	D	_	_	_	_	_	_
+lugal-nig2-lagar-e	Lugalniglagare[1][-ak]	PN	PN.GEN	D	_	_	_	_	_	_
+iti	iti[month]	N	N	D	_	_	_	_	_	_
+min-esz3	Minesz[1][-'a]	MN	MN.L1	D	_	_	_	_	_	_
+mu	mu[year]	N	N	D	_	_	_	_	_	_
+sza3-asz-ru-um{ki}	Szaszrum[1][-ø]	GN	SN.ABS	D	_	_	_	_	_	_
+ba-hul	ba-hulu[destroy][-ø]	V	MID.V.3-SG-S	D	_	_	_	_	_	_

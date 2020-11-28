@@ -1,0 +1,26 @@
+#new_text=P106710					
+FORM	SEGM	XPOSTAG	XPOSTAG	POS	?	?	?	?	?	?
+1(bur3)	1(bur)[unit]	NU	N	D	B-COUNT	m^2	95400.0	surface	gin2	159000.0
+1(esze3)	1(esze)[unit]	NU	N	D	I-COUNT	*	*	*	*	*
+2(iku)	2(iku)[unit]	NU	N	D	I-COUNT	*	*	*	*	*
+1/2(iku)	1/2(iku)[unit]	NU	N	D	I-COUNT	*	*	*	*	*
+GAN2	gana[field]	N	N	D	I-COUNT	*	*	*	*	*
+1(u)	1(u)[ten]	NU	NU	D	B-COUNT	_	9.5	cardinal	_	9.5
+la2	la[hang][-ø]	V	NF.V.ABS	D	I-COUNT	*	*	*	*	*
+1/2(disz)-ta	1/2(disz)[one]-ta	NU	NU.ABL	D	I-COUNT	*	*	*	*	*
+sze-bi	sze[barley]-bi[-ø]	N	N.3-SG-NH-POSS.ABS	D	B-COM	_	_	_	_	_
+*RETOK*-capacity"	?	?	?	?	B-COUNT	l	9300	"dry	*	*
+3(u)	3(u)[ten]	NU	NU	D	I-COUNT	*	*	*	sila3	9300
+1(asz)	1(asz)[one]	NU	NU	D	I-COUNT	*	*	*	*	*
+gur	gur[unit]	N	N	D	I-COUNT	*	*	*	*	*
+szuku	szukur[prebend_land]	N	N	D	_	_	_	_	_	_
+ensi2	ensik[ruler]	N	N	D	_	_	_	_	_	_
+a-sza3	aszag[field]	N	N	D	_	_	_	_	_	_
+igi-e2-mah-sze3	_	N	N.GEN.TERM	Iabcde	_	_	_	_	_	_
+a-sza3	aszag[field]	N	N	D	_	_	_	_	_	_
+gid2-da	gid[lengthen]-a[-ø]	V	NF.V.PT	D	B-COM	_	_	_	_	_
+buru14	_	N	N	Ia	_	_	_	_	_	_
+mu	mu[year]	N	N	D	_	_	_	_	_	_
+e2	e[house]	N	N	D	_	_	_	_	_	_
+{d}szara2	Szara[1][-ak]	DN	DN	D	_	_	_	_	_	_
+ba-du3	ba-du[build][-ø]	V	MID.V.3-SG-S	D	_	_	_	_	_	_

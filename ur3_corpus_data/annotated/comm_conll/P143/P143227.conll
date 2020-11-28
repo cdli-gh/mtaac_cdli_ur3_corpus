@@ -1,0 +1,16 @@
+#new_text=P143227					
+FORM	SEGM	XPOSTAG	XPOSTAG	POS	?	?	?	?	?	?
+3(barig)	3(bariga)[unit]	NU	N	D	B-COUNT	*	*	*	*	*
+sze	sze[barley]	N	N	D	I-COUNT	*	*	*	*	*
+lugal	lugal[king]	N	N	D	_	_	_	_	_	_
+sze-ba	szeba[ration]	N	N	D	B-COM	_	_	_	_	_
+za3-mu-ka	zagmuk[new_year][-ak]	N	N.GEN	D	_	_	_	_	_	_
+e2-kikken-ta	_	TN	TN	POS	_	_	_	_	_	_
+nu-e3-a	_	V	NEG.NF.V.GEN	Iabcdef	_	_	_	_	_	_
+la2-ia3	la'u[arrears]	N	N	D	_	_	_	_	_	_
+su-ga	sug[repay]-a	V	NF.V.PT	D	_	_	_	_	_	_
+sza	_	N	N	Ia	_	_	_	_	_	_
+iri	iri[city]	N	N	D	_	_	_	_	_	_
+mu	mu[year]	N	N	D	_	_	_	_	_	_
+dumu-munus	dumumunus[daughter]	N	N	D	_	_	_	_	_	_
+lugal	lugal[king]	N	N	D	_	_	_	_	_	_

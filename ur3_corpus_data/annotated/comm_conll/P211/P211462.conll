@@ -1,0 +1,25 @@
+#new_text=P211462					
+FORM	SEGM	XPOSTAG	XPOSTAG	POS	?	?	?	?	?	?
+1(disz)	1(disz)[one]	NU	NU	D	B-COUNT	_	1	cardinal	_	1
+gu-du-du	Gududu[1]	PN	PN	D	_	_	_	_	_	_
+aszgab	aszgab[leatherworker]	N	N	D	_	_	_	_	_	_
+1(disz)	1(disz)[one]	NU	NU	D	B-COUNT	_	1	cardinal	_	1
+nam-ha-ni	Namhani[1]	N	PN	D	_	_	_	_	_	_
+nagar	nagar[carpenter]	N	N	D	_	_	_	_	_	_
+1(disz)	1(disz)[one]	NU	NU	D	B-COUNT	_	1	cardinal	_	1
+puzur4-ma-am3	_	PN	PN	Ia	_	_	_	_	_	_
+ad-kup4	adKID[basket_weaver][-ak]	N	N.GEN	D	_	_	_	_	_	_
+u4	ud[day]	N	N	D	_	_	_	_	_	_
+2(u)	2(u)[ten]	NU	NU	D	B-COUNT	_	19	cardinal	_	19
+la2	la[hang][-ø]	V	NF.V.ABS	D	I-COUNT	*	*	*	*	*
+1(disz)-asz	_	NU	NU.GEN.COP-3-SG.TERM	Iabcdef	I-COUNT	*	*	*	*	*
+ki	ki[place]	N	N	D	B-COM	_	_	_	_	_
+ki-ag2-ka	_	PN	PN	POS	_	_	_	_	_	_
+kin-gi4-a	kiggia[messenger]	N	N	D	_	_	_	_	_	_
+gi4-a	_	V	V	POS	_	_	_	_	_	_
+iti	iti[month]	N	N	D	_	_	_	_	_	_
+szu-numun	Szunumun[1][-'a]	MN	MN.L1	D	_	_	_	_	_	_
+mu	mu[year]	N	N	D	_	_	_	_	_	_
+us2-sa	us[follow]-a	V	NF.V.PT	D	_	_	_	_	_	_
+an-sza-an{ki}	Anszan[1][-ø]	GN	GN.ABS	D	_	_	_	_	_	_
+ba-hul	ba-hulu[destroy][-ø]	V	MID.V.3-SG-S	D	_	_	_	_	_	_

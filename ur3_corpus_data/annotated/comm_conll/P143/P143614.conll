@@ -1,0 +1,22 @@
+#new_text=P143614					
+FORM	SEGM	XPOSTAG	XPOSTAG	POS	?	?	?	?	?	?
+8(disz)	8(disz)[one]	NU	NU	D	B-COUNT	_	8	cardinal	_	8
+gurusz	gurusz[male]	N	N	D	B-COM	_	_	_	_	_
+u4	ud[day]	N	N	D	_	_	_	_	_	_
+1(disz)-sze3	1(disz)[one]-sze	NU	NU.TERM	D	B-COUNT	_	1	cardinal	_	1
+{gesz}kiri6	kiri[orchard][-'a][-ø]	N	N	D	B-COM	_	_	_	_	_
+kar-ra	_	V	V	POS	_	_	_	_	_	_
+al	al[hoeing]	N	N	D	_	_	_	_	_	_
+ak	ak[excavate][-a][-ak]	V	NF.V.PT	D	_	_	_	_	_	_
+ugula	ugula[overseer][-ø]	N	N	D	_	_	_	_	_	_
+ukken-ne2	_	PN	PN	POS	_	_	_	_	_	_
+kiszib3	kiszib[seal]	N	N	D	_	_	_	_	_	_
+ur-{d}a-szar2	_	PN	PN	Ia	_	_	_	_	_	_
+nu-{gesz}kiri6	_	N	N	D	_	_	_	_	_	_
+mu	mu[year]	N	N	D	_	_	_	_	_	_
+ur-bi2-i3-lum{ki}	_	GN	GN	POS	_	_	_	_	_	_
+ba-hul	ba-hulu[destroy][-ø]	V	MID.V.3-SG-S	D	_	_	_	_	_	_
+ur-{d}a-szar2	_	PN	PN	Ia	_	_	_	_	_	_
+dumu	dumu[child]	N	N	D	_	_	_	_	_	_
+lugal-iti-da	Lugalitida[1]	PN	PN	D	_	_	_	_	_	_
+nu-{gesz}kiri6	_	N	N	D	_	_	_	_	_	_

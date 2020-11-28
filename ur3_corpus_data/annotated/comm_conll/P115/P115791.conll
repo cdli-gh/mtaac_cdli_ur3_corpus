@@ -1,0 +1,13 @@
+#new_text=P115791					
+FORM	SEGM	XPOSTAG	XPOSTAG	POS	?	?	?	?	?	?
+4(disz)	4(disz)[one]	NU	NU	D	B-COUNT	_	0.075	cardinal	_	0.075
+1/2(disz)	1/2(disz)[one]	NU	NU	D	I-COUNT	*	*	*	*	*
+gin2	gig[unit]	N	N	D	I-COUNT	*	*	*	*	*
+ku3-babbar	kugbabbar[silver]	N	N	D	B-COM	_	_	_	_	_
+si-i3-tum	situm[balance]	N	N	D	_	_	_	_	_	_
+ib2-tak4	_	N	N	POS	_	_	_	_	_	_
+ki	ki[place]	N	N	D	_	_	_	_	_	_
+nig2-u2-rum	Nigurum[1][-e]	N	PN	D	_	_	_	_	_	_
+nar	_	N	N	POS	_	_	_	_	_	_
+...-x	_[_]	WN	RN	D	_	_	_	_	_	_
+...	_[_]	PN	N	D	_	_	_	_	_	_

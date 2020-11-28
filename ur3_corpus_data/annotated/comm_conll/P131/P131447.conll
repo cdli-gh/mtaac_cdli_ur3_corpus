@@ -1,0 +1,16 @@
+#new_text=P131447					
+FORM	SEGM	XPOSTAG	XPOSTAG	POS	?	?	?	?	?	?
+7(gesz2)	7(gesz)[sixty]	NU	NU	D	B-COUNT	*	*	*	*	*
+3(u)	3(u)[ten]	NU	NU	D	I-COUNT	*	*	*	*	*
+7(asz)	7(asz)[one]	NU	NU	D	I-COUNT	*	*	*	*	*
+3(ban2)	3(ban)[unit]	NU	N	D	I-COUNT	*	*	*	*	*
+sze	sze[barley]	N	N	D	I-COUNT	*	*	*	*	*
+gur	gur[unit]	N	N	D	I-COUNT	*	*	*	*	*
+lugal	lugal[king]	N	N	D	_	_	_	_	_	_
+{d}utu-bar-ra	Utubara[1][-e]	PN	PN.ERG	D	_	_	_	_	_	_
+engar	engar[farmer]	N	N	D	_	_	_	_	_	_
+a-sza3	aszag[field]	N	N	D	_	_	_	_	_	_
+inim-ma-dingir	Inimmadingir[1][-ak][-ra]	FN	PN.GEN.DAT-H	D	_	_	_	_	_	_
+tur	Tur[1]	V	NF.V.ABS	D	_	_	_	_	_	_
+a-sza3	aszag[field]	N	N	D	_	_	_	_	_	_
+gu4-eme-ka-ka	_	FN	FN	POS	_	_	_	_	_	_

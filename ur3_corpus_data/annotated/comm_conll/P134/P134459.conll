@@ -1,0 +1,26 @@
+#new_text=P134459					
+FORM	SEGM	XPOSTAG	XPOSTAG	POS	B-COUNT	l	50	"dry	*	*
+5(ban2)	5(ban)[unit]	NU	N	D	I-COUNT	*	*	*	sila3	50
+sze-ba	szeba[ration]	N	N	D	B-COM	_	_	_	_	_
+ab-ba-du10-ga	_	PN	PN	Iabcde	_	_	_	_	_	_
+*RETOK*-capacity"	?	?	?	?	B-COUNT	l	40	"dry	*	*
+4(ban2)	4(ban)[unit]	NU	N	D	I-COUNT	*	*	*	sila3	40
+nig2-gur11-{d}ba-ba6	_	PN	PN	POS	_	_	_	_	_	_
+ki	ki[place]	N	N	D	B-COM	_	_	_	_	_
+dingir-ba-ni-ta	Dingirbani[1][-ak]-ta	PN	PN.GEN.ABL	D	_	_	_	_	_	_
+*RETOK*-capacity"	?	?	?	?	B-COUNT	l	20	"dry	*	*
+2(ban2)	2(ban)[unit]	NU	N	D	I-COUNT	*	*	*	sila3	20
+dabin	dabin[semolina]	N	N	D	B-COM	_	_	_	_	_
+nig2-gur11-{d}ba-ba6	_	PN	PN	POS	_	_	_	_	_	_
+ki	ki[place]	N	N	D	_	_	_	_	_	_
+ur-me-me-ta	Urmeme[1][-ak]-ta	PN	PN.GEN.ABL	D	_	_	_	_	_	_
+iti	iti[month]	N	N	D	_	_	_	_	_	_
+ezem-{d}szul-gi	Ezemszulgir[1][-'a]	MN	MN.L1	D	_	_	_	_	_	_
+mu	mu[year]	N	N	D	_	_	_	_	_	_
+us2-sa	us[follow]-a	V	NF.V.PT	D	_	_	_	_	_	_
+bad3	bad[wall]	N	N	D	_	_	_	_	_	_
+ba-du3	ba-du[build][-ø]	V	MID.V.3-SG-S	D	_	_	_	_	_	_
+ur-me-me	Urmeme[1][-ra]	PN	PN	D	_	_	_	_	_	_
+dub-sar	dubsar[scribe]	N	N	D	_	_	_	_	_	_
+dumu	dumu[child]	N	N	D	_	_	_	_	_	_
+ur-{d}samanx(|BU.NUN.SZE.SZE3|)-ka	_	PN	PN	Iabcde	_	_	_	_	_	_

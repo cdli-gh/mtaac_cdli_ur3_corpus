@@ -1,0 +1,21 @@
+#new_text=P145381					
+FORM	SEGM	XPOSTAG	XPOSTAG	POS	B-COUNT	l	284	"dry	*	*
+4(barig)	4(bariga)[unit]	NU	N	D	I-COUNT	*	*	*	sila3	284
+4(ban2)	4(ban)[unit]	NU	N	D	I-COUNT	*	*	*	*	*
+4(disz)	4(disz)[one]	NU	NU	D	I-COUNT	*	*	*	*	*
+sila3	sila[unit]	N	N	D	I-COUNT	*	*	*	*	*
+sze	sze[barley]	N	N	D	I-COUNT	*	*	*	*	*
+gur	gur[unit]	N	N	D	I-COUNT	*	*	*	*	*
+sza3-gal	szaggal[food]	N	N	D	_	_	_	_	_	_
+nam-ra-ak	_	N	N.ADV	Iabcdefgh	_	_	_	_	_	_
+e2-gal-ta	egal[palace]-ta	N	N.ABL	D	_	_	_	_	_	_
+gen-na	gen[go]-a	V	NF.V.PT	D	_	_	_	_	_	_
+u4	ud[day]	N	N	D	_	_	_	_	_	_
+1(u)	1(u)[ten]	NU	NU	D	B-COUNT	_	10	cardinal	_	10
+9(disz)-kam	9(disz)[one]-ak-am	NU	NU.GEN.COP-3-SG	D	B-COUNT	_	9	cardinal	_	9
+ki	ki[place]	N	N	D	B-COM	_	_	_	_	_
+ur-{d}szul-pa-e3-ta	Urszulpa'e[1][-ak]-ta	PN	PN.GEN.ABL	D	_	_	_	_	_	_
+kiszib3	kiszib[seal]	N	N	D	_	_	_	_	_	_
+ensi2-ka	ensik[ruler]-ak	N	N.GEN	D	_	_	_	_	_	_
+mu	mu[year]	N	N	D	_	_	_	_	_	_
+{d}...	_[1][-'a]	MN	DN.GEN	D	_	_	_	_	_	_

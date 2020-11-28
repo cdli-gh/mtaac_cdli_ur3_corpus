@@ -1,0 +1,19 @@
+#new_text=P378480					
+FORM	SEGM	XPOSTAG	XPOSTAG	POS	?	?	?	?	?	?
+1(bur3)	1(bur)[unit]	NU	N	D	B-COUNT	m^2	64800.0	surface	gin2	108000
+GAN2	gana[field]	N	N	D	I-COUNT	*	*	*	*	*
+uru4-a	uru[sow]-a	V	NF.V.PT	D	B-COM	_	_	_	_	_
+1(u)	1(u)[ten]	NU	NU	D	B-COUNT	_	12	cardinal	_	12
+2(disz)-ta	2(disz)[one]-ta	NU	NU.ABL	D	I-COUNT	*	*	*	*	*
+lu2	lu[person]	N	N	D	_	_	_	_	_	_
+hun-ga2-me	_	V	NF.V.PT.DAT-H	Iabcdefg	_	_	_	_	_	_
+szuku	szukur[prebend_land]	N	N	D	B-COM	_	_	_	_	_
+lu2-giri17-zal	Lugirizal[1][-ra]	PN	PN	D	_	_	_	_	_	_
+giri3	giri[foot]	N	N	D	_	_	_	_	_	_
+lu2-{d}na-ru2-a	_	PN	PN	D	_	_	_	_	_	_
+dumu	dumu[child]	N	N	D	_	_	_	_	_	_
+na-ba-sa6	Nabasa[1][-ak]	PN	PN.GEN	D	_	_	_	_	_	_
+a-sza3	aszag[field]	N	N	D	_	_	_	_	_	_
+nin-zi-iri-na	_	FN	FN	POS	_	_	_	_	_	_
+iti	iti[month]	N	N	D	_	_	_	_	_	_
+amar-a-a-si	Amarayasi[1][-'a]	MN	MN.L1	D	_	_	_	_	_	_

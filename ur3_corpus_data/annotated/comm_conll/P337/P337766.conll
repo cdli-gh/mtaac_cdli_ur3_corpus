@@ -1,0 +1,17 @@
+#new_text=P337766					
+FORM	SEGM	XPOSTAG	XPOSTAG	POS	?	?	?	?	?	?
+3(disz)	3(disz)[one]	NU	NU	D	B-COUNT	_	3	cardinal	_	3
+ma2	ma[ship]	N	N	D	_	_	_	_	_	_
+*RETOK*-capacity"	?	?	?	?	B-COUNT	l	15000	"dry	*	*
+5(u)	5(u)[ten]	NU	NU	D	I-COUNT	*	*	*	sila3	15000
+gur	gur[unit]	N	N	D	I-COUNT	*	*	*	*	*
+ma2-lah5-bi	_	N	N.ABS	Iabcdef	B-COM	_	_	_	_	_
+i3-ib2-u3	_	V	FIN.3-SG-H.L3.3-SG-H-A.V.3-PL.SUB.L2-NH	Iabcdefghi	_	_	_	_	_	_
+a2	a[time]	N	N	D	_	_	_	_	_	_
+u4	ud[day]	N	N	D	_	_	_	_	_	_
+1(gesz2)	1(gesz)[sixty]	NU	NU	D	B-COUNT	_	62	cardinal	_	62
+2(disz)-bi	_	NU	NU.3-SG-NH-POSS.ABS	Iab	I-COUNT	*	*	*	*	*
+iti	iti[month]	N	N	D	_	_	_	_	_	_
+sze-kar-ra-gal2-la	Szekaragala[1][-'a]	MN	MN.L1	D	_	_	_	_	_	_
+mu	mu[year]	N	N	D	_	_	_	_	_	_
+en-nun-e	_	PN	PN	POS	_	_	_	_	_	_

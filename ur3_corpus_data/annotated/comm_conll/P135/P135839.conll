@@ -1,0 +1,26 @@
+#new_text=P135839					
+FORM	SEGM	XPOSTAG	XPOSTAG	POS	B-COUNT	l	240	"dry	*	*
+4(barig)	4(bariga)[unit]	NU	N	D	I-COUNT	*	*	*	sila3	240
+dabin	dabin[semolina]	N	N	D	B-COM	_	_	_	_	_
+lugal	lugal[king]	N	N	D	_	_	_	_	_	_
+*RETOK*-capacity"	?	?	?	?	B-COUNT	l	2	"dry	*	*
+2(disz)	2(disz)[one]	NU	NU	D	I-COUNT	*	*	*	sila3	2
+sila3	sila[unit]	N	N	D	I-COUNT	*	*	*	*	*
+sze	sze[barley]	N	N	D	I-COUNT	*	*	*	*	*
+in-nu-ha	_	N	N	POS	_	_	_	_	_	_
+*RETOK*-capacity"	?	?	?	?	B-COUNT	l	2	"liquid	*	*
+*RETOK*-capacity"	?	?	?	?	I-COUNT	l	2	"dry	sila3	2
+2(disz)	2(disz)[one]	NU	NU	D	I-COUNT	*	*	*	sila3	2
+sila3	sila[unit]	N	N	D	I-COUNT	*	*	*	*	*
+gu2-tur	_	PN	PN	POS	B-COM	_	_	_	_	_
+ki	ki[place]	N	N	D	_	_	_	_	_	_
+inim-{d}ba-ba6-i3-dab5-ta	_	PN	PN.GEN.ABL	Iabcdef	_	_	_	_	_	_
+nin-a-na	_	PN	PN	POS	_	_	_	_	_	_
+szu	szu[hand][-e]	N	N.L3-NH	D	_	_	_	_	_	_
+ba-ti	ba[-n]-teg[accept][-ø]	V	MID.3-SG-H-A.V.3-SG-P	D	_	_	_	_	_	_
+iti	iti[month]	N	N	D	_	_	_	_	_	_
+GAN2-masz	GANmasz[1][-'a]	MN	MN.L1	D	_	_	_	_	_	_
+mu	mu[year]	N	N	D	_	_	_	_	_	_
+kar2-har{ki}	_	GN	SN.GEN	D	_	_	_	_	_	_
+a-ra2	ara[times]	N	N	D	_	_	_	_	_	_
+2(disz)-kam-asz	_	NU	NU.GEN.COP-3-SG.TERM	Iabcdef	B-COUNT	_	2	cardinal	_	2

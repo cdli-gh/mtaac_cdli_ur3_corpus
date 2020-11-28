@@ -1,0 +1,22 @@
+#new_text=P209011					
+FORM	SEGM	XPOSTAG	XPOSTAG	POS	?	?	?	?	?	?
+1(gesz2)	1(gesz)[sixty]	NU	NU	D	B-COUNT	_	60	cardinal	_	60
+sa	sa[bundle]	N	N	D	_	_	_	_	_	_
+gi	gi[reed][-ø]	N	N	D	_	_	_	_	_	_
+kun-zi-da	kunzida[weir]	N	N	D	_	_	_	_	_	_
+i7	id[river]	N	N	D	_	_	_	_	_	_
+gibil	gibil[new][-ø]	V	NF.V.ABS	D	_	_	_	_	_	_
+NE	ne[unknown]	MN	MN	POS	B-COM	_	_	_	_	_
+a-sza3	aszag[field]	N	N	D	_	_	_	_	_	_
+{gesz}ma-nu-ka	_	FN	FN	POS	_	_	_	_	_	_
+ba-ra-kesz2	_	V	NF.V.PT.GEN	Iabcdef	_	_	_	_	_	_
+ki	ki[place]	N	N	D	_	_	_	_	_	_
+da-da-ta	Dada[1][-ak]-ta	PN	PN.GEN.ABL	D	_	_	_	_	_	_
+kiszib3	kiszib[seal]	N	N	D	_	_	_	_	_	_
+lu2-saga	Lusaga[1][-e]	PN	PN.ERG	D	_	_	_	_	_	_
+iti	iti[month]	N	N	D	_	_	_	_	_	_
+sze-kar-ra-gal2-la	Szekaragala[1][-'a]	MN	MN.L1	D	_	_	_	_	_	_
+mu	mu[year]	N	N	D	_	_	_	_	_	_
+us2-sa	us[follow]-a	V	NF.V.PT	D	_	_	_	_	_	_
+{d}amar-{d}suen	Amarsuen[1]	RN	RN	D	_	_	_	_	_	_
+lugal	lugal[king]	N	N	D	_	_	_	_	_	_

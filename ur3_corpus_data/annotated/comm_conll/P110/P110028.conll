@@ -1,0 +1,24 @@
+#new_text=P110028					
+FORM	SEGM	XPOSTAG	XPOSTAG	POS	?	?	?	?	?	?
+1/2(disz)	1/2(disz)[one]	NU	NU	D	B-COUNT	g	250.00000000000003	weight	gin2	30.0
+ma-na	mana[unit]	N	N	D	I-COUNT	*	*	*	*	*
+ku3-babbar	kugbabbar[silver]	N	N	D	B-COM	_	_	_	_	_
+ur-mes	Urmes[1]	PN	PN	D	_	_	_	_	_	_
+i3-dab5	i[-n]-dab[seize][-ø]	V	FIN.3-SG-H-A.V.3-SG-P	D	_	_	_	_	_	_
+1/2(disz)	1/2(disz)[one]	NU	NU	D	B-COUNT	g	250.00000000000003	weight	gin2	30.0
+ma-na	mana[unit]	N	N	D	I-COUNT	*	*	*	*	*
+lu2	lu[person]	N	N	D	_	_	_	_	_	_
+{d}pa-KU	_	DN	DN	POS	_	_	_	_	_	_
+1/2(disz)	1/2(disz)[one]	NU	NU	D	B-COUNT	_	none	unknown	_	none
+ma-na	mana[unit]	N	N	D	I-COUNT	*	*	*	*	*
+...	_[_]	PN	N	D	I-COUNT	*	*	*	*	*
+1/2(disz)	1/2(disz)[one]	NU	NU	D	B-COUNT	_	none	unknown	_	none
+ma-na	mana[unit]	N	N	D	I-COUNT	*	*	*	*	*
+...	_[_]	PN	N	D	I-COUNT	*	*	*	*	*
+1(u)	1(u)[ten]	NU	NU	D	B-COUNT	_	0.16666666666666666	cardinal	_	0.16666666666666666
+gin2	gig[unit]	N	N	D	I-COUNT	*	*	*	*	*
+lu2-bi	_	PN	PN.DAT-H	Iab	_	_	_	_	_	_
+u3	u[and]	CNJ	CNJ	D	B-COM	_	_	_	_	_
+NE-dam	_	PN	PN	POS	_	_	_	_	_	_
+mu-kux(DU)	mukur[delivery][-ø]	N	N	D	_	_	_	_	_	_
+ensi2	ensik[ruler]	N	N	D	_	_	_	_	_	_

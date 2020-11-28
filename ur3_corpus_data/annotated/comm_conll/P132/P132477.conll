@@ -1,0 +1,27 @@
+#new_text=P132477					
+FORM	SEGM	XPOSTAG	XPOSTAG	POS	?	?	?	?	?	?
+3(disz)	3(disz)[one]	NU	NU	D	B-COUNT	_	3	cardinal	_	3
+gurusz	gurusz[male]	N	N	D	B-COM	_	_	_	_	_
+*RETOK*-capacity"	?	?	?	?	B-COUNT	l	4	"liquid	*	*
+*RETOK*-capacity"	?	?	?	?	I-COUNT	l	4	"dry	sila3	4
+4(disz)	4(disz)[one]	NU	NU	D	I-COUNT	*	*	*	sila3	4
+sila3	sila[unit]	N	N	D	I-COUNT	*	*	*	*	*
+ninda-ta	nindan[unit]-ta	N	N.ABL	D	_	_	_	_	_	_
+u4	ud[day]	N	N	D	_	_	_	_	_	_
+7(disz)-sze3	7(disz)[one]-sze	NU	NU.TERM	D	B-COUNT	_	7	cardinal	_	7
+sza3-iri	Sza'iri[1][-ra]	PN	PN.DAT-H	D	_	_	_	_	_	_
+en-nu-sze3	_	N	N	POS	_	_	_	_	_	_
+*RETOK*-capacity"	?	?	?	?	B-COUNT	l	4	"liquid	*	*
+*RETOK*-capacity"	?	?	?	?	I-COUNT	l	4	"dry	sila3	4
+4(disz)	4(disz)[one]	NU	NU	D	I-COUNT	*	*	*	sila3	4
+sila3	sila[unit]	N	N	D	I-COUNT	*	*	*	*	*
+ninda	ninda[bread]	N	N	D	B-COM	_	_	_	_	_
+u4	ud[day]	N	N	D	_	_	_	_	_	_
+1(disz)-kam	1(disz)[one]-ak-am	NU	NU.GEN.COP-3-SG	D	B-COUNT	_	1	cardinal	_	1
+kaskal-sze3	kaskal[journey]-sze	N	N.TERM	D	_	_	_	_	_	_
+elam	Elam[1][-ak]	EN	GN.GEN	D	_	_	_	_	_	_
+zah3	zah[disappear][-a]	V	NF.V.PT	D	_	_	_	_	_	_
+dumu	dumu[child]	N	N	D	_	_	_	_	_	_
+za-har{ki}-me	_	PN	PN	Iabcdefgh	_	_	_	_	_	_
+iti	iti[month]	N	N	D	_	_	_	_	_	_
+gu4-ra2-bi2-mu2-mu2	Gurabimumu[1][-'a]	MN	MN.L1	D	_	_	_	_	_	_

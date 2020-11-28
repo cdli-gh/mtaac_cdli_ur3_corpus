@@ -1,0 +1,13 @@
+#new_text=P124824					
+FORM	SEGM	XPOSTAG	XPOSTAG	POS	?	?	?	?	?	?
+4(disz)	4(disz)[one]	NU	NU	D	B-COUNT	m	2.0	length	gi	0.6666666666666666
+kusz3	kusz[unit]	N	N	D	I-COUNT	*	*	*	*	*
+bur3	_	N	N	Ia	_	_	_	_	_	_
+isz-zi-zi-ba2	_	PN	PN	Iabcde	_	_	_	_	_	_
+sanga	sagga[temple_administrator]	N	N	D	_	_	_	_	_	_
+gir13-gesz{ki}	_	SN	SN.GEN.ABS	Iab	_	_	_	_	_	_
+mu	mu[year]	N	N	D	_	_	_	_	_	_
+en-mah-gal-an-na	Enmahgalana[1]	PN	PN	D	_	_	_	_	_	_
+en	en[priest]	N	N	D	_	_	_	_	_	_
+{d}nanna	Nanna[1][-ak]	DN	DN	D	_	_	_	_	_	_
+ba-hun	ba-hug[hire][-ø]	V	MID.V.3-SG-S	D	_	_	_	_	_	_

@@ -1,0 +1,10 @@
+#new_text=P207102					
+FORM	SEGM	XPOSTAG	XPOSTAG	POS	B-COUNT	l	5350	"dry	*	*
+1(u)	1(u)[ten]	NU	NU	D	I-COUNT	*	*	*	sila3	5350
+7(asz)	7(asz)[one]	NU	NU	D	I-COUNT	*	*	*	*	*
+4(barig)	4(bariga)[unit]	NU	N	D	I-COUNT	*	*	*	*	*
+1(ban2)	1(ban)[unit]	NU	N	D	I-COUNT	*	*	*	*	*
+dabin	dabin[semolina]	N	N	D	B-COM	_	_	_	_	_
+szu	szu[hand][-e]	N	N.L3-NH	D	_	_	_	_	_	_
+ti-a	ti[receive]-a	V	NF.V.PT	D	_	_	_	_	_	_
+da-da-a	Dadaya[1][-ak]	PN	PN	D	_	_	_	_	_	_

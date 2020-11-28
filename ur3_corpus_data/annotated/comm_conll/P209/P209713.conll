@@ -1,0 +1,23 @@
+#new_text=P209713					
+FORM	SEGM	XPOSTAG	XPOSTAG	POS	?	?	?	?	?	?
+la2-ia3	la'u[arrears]	N	N	D	_	_	_	_	_	_
+1(u)	1(u)[ten]	NU	NU	D	B-COUNT	*	*	*	*	*
+4(asz)	4(asz)[one]	NU	NU	D	I-COUNT	*	*	*	*	*
+3(ban2)	3(ban)[unit]	NU	N	D	I-COUNT	*	*	*	*	*
+sze	sze[barley]	N	N	D	I-COUNT	*	*	*	*	*
+gur	gur[unit]	N	N	D	I-COUNT	*	*	*	*	*
+lugal	lugal[king]	N	N	D	_	_	_	_	_	_
+la2-ia3	la'u[arrears]	N	N	D	_	_	_	_	_	_
+su-su	sug-sug[repay][-ed]	V	NF.V.RDP.PF	D	_	_	_	_	_	_
+engar-e-ne	_	N	N.PL	Iabcde	_	_	_	_	_	_
+ki	ki[place]	N	N	D	_	_	_	_	_	_
+ur-{d}li9-si4-ta	_	PN	PN.GEN.ABL	Iabcdefg	_	_	_	_	_	_
+lugal-ku3-ga-ni	Lugalkugani[1][-ak]	PN	PN.GEN	D	_	_	_	_	_	_
+szu	szu[hand][-e]	N	N.L3-NH	D	B-COM	_	_	_	_	_
+ba-ti	ba[-n]-teg[accept][-ø]	V	MID.3-SG-H-A.V.3-SG-P	D	_	_	_	_	_	_
+mu	mu[year]	N	N	D	_	_	_	_	_	_
+dumu-munus	dumumunus[daughter]	N	N	D	_	_	_	_	_	_
+lugal	lugal[king]	N	N	D	_	_	_	_	_	_
+ensi2	ensik[ruler]	N	N	D	_	_	_	_	_	_
+an-sza-an{ki}-na	_	SN	SN.GEN.ABS	D	_	_	_	_	_	_
+ba-an-tuku	_	V	MID.3-SG-H.DAT.V.3-SG-S	Iabcdefg	_	_	_	_	_	_

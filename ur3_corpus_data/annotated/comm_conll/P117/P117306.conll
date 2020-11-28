@@ -1,0 +1,27 @@
+#new_text=P117306					
+FORM	SEGM	XPOSTAG	XPOSTAG	POS	?	?	?	?	?	?
+1(disz)	1(disz)[one]	NU	NU	D	B-COUNT	_	1	cardinal	_	1
+masz2	masz[goat]	N	N	D	B-COM	_	_	_	_	_
+lu2-ma2-gur8-re	Lumagure[1]	PN	PN	D	_	_	_	_	_	_
+e2-muhaldim	emuhaldim[kitchen][-sze]	N	N.TERM	D	_	_	_	_	_	_
+ki-a-nag	ki'anag[place_of_libations]	N	N	D	_	_	_	_	_	_
+1(disz)	1(disz)[one]	NU	NU	D	B-COUNT	_	1	cardinal	_	1
+sila4	sila[lamb]	N	N	D	B-COM	_	_	_	_	_
+1(disz)	1(disz)[one]	NU	NU	D	B-COUNT	_	1	cardinal	_	1
+masz2	masz[goat]	N	N	D	_	_	_	_	_	_
+{gesz}gu-za	guza[chair]	N	N	D	_	_	_	_	_	_
+{d}szul-gi-ra	Szulgir[1]-ak	DN	DN.GEN	D	_	_	_	_	_	_
+gaba-ri	gabari[copy]	N	N	D	_	_	_	_	_	_
+a-x	_	PN	PN	Iabcde	_	_	_	_	_	_
+...	_[_]	PN	N	D	_	_	_	_	_	_
+x	_[_]	N	N	D	_	_	_	_	_	_
+ki	ki[place]	N	N	D	B-COM	_	_	_	_	_
+na-lu5-ta	Nalu[1][-ak]-ta	PN	PN.GEN.ABL	D	_	_	_	_	_	_
+ba-zi	ba-zig[expend][-ø]	PN	MID.V.3-SG-S	D	_	_	_	_	_	_
+sza3	szag[heart]	N	N	D	_	_	_	_	_	_
+uri5{ki}-ma	Urim[1]-ak	SN	SN.GEN	D	_	_	_	_	_	_
+iti	iti[month]	N	N	D	_	_	_	_	_	_
+u5-bi2-gu7	Ubigu[1][-'a]	MN	MN.L1	D	_	_	_	_	_	_
+mu	mu[year]	N	N	D	_	_	_	_	_	_
+{d}amar-{d}suen	Amarsuen[1]	RN	RN	D	_	_	_	_	_	_
+lugal	lugal[king]	N	N	D	_	_	_	_	_	_

@@ -1,0 +1,23 @@
+#new_text=P126816					
+FORM	SEGM	XPOSTAG	XPOSTAG	POS	?	?	?	?	?	?
+4(gesz'u)	4(gesz'u)[six_hundred]	NU	NU	D	B-COUNT	_	2760	cardinal	_	2760
+6(gesz2)	6(gesz)[sixty]	NU	NU	D	I-COUNT	*	*	*	*	*
+sa	sa[bundle]	N	N	D	_	_	_	_	_	_
+gi	gi[reed][-ø]	N	N	D	_	_	_	_	_	_
+gu-nigin2-na	_	N	N.3-SG-NH-POSS.GEN	Iabcdefg	_	_	_	_	_	_
+1(u)	1(u)[ten]	NU	NU	D	B-COUNT	_	16	cardinal	_	16
+6(disz)	6(disz)[one][-sze]	NU	NU	D	I-COUNT	*	*	*	*	*
+sa	sa[bundle]	N	N	D	_	_	_	_	_	_
+i3-gal2	i[-ni]-gal[be][-ø]	V	FIN.L1.V.3-SG-S	D	_	_	_	_	_	_
+kiszib3	kiszib[seal]	N	N	D	_	_	_	_	_	_
+dabx(U8)-ba	dab[seize]-a	PN	NF.V.PT	D	_	_	_	_	_	_
+ur-{d}nin-gesz-zi-da	_	PN	PN.GEN.ABS	D	_	_	_	_	_	_
+la-ni-mu	Lanimu[1]	PN	PN	D	_	_	_	_	_	_
+szu	szu[hand][-e]	N	N.L3-NH	D	B-COM	_	_	_	_	_
+ba-ti	ba[-n]-teg[accept][-ø]	V	MID.3-SG-H-A.V.3-SG-P	D	_	_	_	_	_	_
+iti	iti[month]	N	N	D	_	_	_	_	_	_
+a2-ki-ti	Akiti[1][-'a]	N	MN.L1	D	_	_	_	_	_	_
+mu	mu[year]	N	N	D	_	_	_	_	_	_
+us2-sa	us[follow]-a	V	NF.V.PT	D	_	_	_	_	_	_
+bad3	bad[wall]	N	N	D	_	_	_	_	_	_
+ba-du3	ba-du[build][-ø]	V	MID.V.3-SG-S	D	_	_	_	_	_	_

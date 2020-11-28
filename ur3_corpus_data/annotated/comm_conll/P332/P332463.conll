@@ -1,0 +1,8 @@
+#new_text=P332463					
+FORM	SEGM	XPOSTAG	XPOSTAG	POS	?	?	?	?	?	?
+...	_[_]	PN	N	D	_	_	_	_	_	_
+2(asz)	2(asz)[one]	NU	NU	D	B-COUNT	_	none	unknown	_	none
+...	_[_]	PN	N	D	I-COUNT	*	*	*	*	*
+1(asz)	1(asz)[one]	NU	NU	D	B-COUNT	_	none	unknown	_	none
+x	_[_]	N	N	D	I-COUNT	*	*	*	*	*
+...	_[_]	PN	N	D	I-COUNT	*	*	*	*	*

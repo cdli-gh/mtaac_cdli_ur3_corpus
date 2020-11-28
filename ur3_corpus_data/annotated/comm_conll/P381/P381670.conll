@@ -1,0 +1,25 @@
+#new_text=P381670					
+FORM	SEGM	XPOSTAG	XPOSTAG	POS	B-COUNT	l	0.0011111111111111111	"dry	*	*
+1(u)	1(u)[ten]	NU	NU	D	I-COUNT	*	*	*	sila3	0.0011111111111111111
+2(asz)	2(asz)[one]	NU	NU	D	I-COUNT	*	*	*	*	*
+sze	sze[barley]	N	N	D	I-COUNT	*	*	*	*	*
+gur	gur[unit]	N	N	D	I-COUNT	*	*	*	*	*
+numun	numun[seed]	N	N	D	_	_	_	_	_	_
+mur-gu4	murgu[fodder]	N	N	D	B-COM	_	_	_	_	_
+4(barig)	4(bariga)[unit]	NU	N	D	B-COUNT	*	*	*	*	*
+3(ban2)	3(ban)[unit]	NU	N	D	I-COUNT	*	*	*	*	*
+sze	sze[barley]	N	N	D	I-COUNT	*	*	*	*	*
+amar	amar[calf][-ak]	N	N	D	_	_	_	_	_	_
+2(barig)	2(bariga)[unit]	NU	N	D	B-COUNT	*	*	*	*	*
+3(ban2)	3(ban)[unit]	NU	N	D	I-COUNT	*	*	*	*	*
+sze	sze[barley]	N	N	D	I-COUNT	*	*	*	*	*
+gu4	gud[ox]	N	N	D	_	_	_	_	_	_
+hu-nu	_	V	V	POS	_	_	_	_	_	_
+ki	ki[place]	N	N	D	_	_	_	_	_	_
+ARAD2-mu-ta	_	PN	PN.GEN.ABL	Iab	_	_	_	_	_	_
+na-ba	_	PN	PN	Iabcdefgh	B-COM	_	_	_	_	_
+szu	szu[hand][-e]	N	N.L3-NH	D	_	_	_	_	_	_
+ba-ti	ba[-n]-teg[accept][-ø]	V	MID.3-SG-H-A.V.3-SG-P	D	_	_	_	_	_	_
+mu	mu[year]	N	N	D	_	_	_	_	_	_
+{d}i-bi2-{d}suen	Ibbisuen[1]	RN	RN	D	_	_	_	_	_	_
+lugal	lugal[king]	N	N	D	_	_	_	_	_	_

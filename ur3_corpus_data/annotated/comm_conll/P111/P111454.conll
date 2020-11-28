@@ -1,0 +1,30 @@
+#new_text=P111454					
+FORM	SEGM	XPOSTAG	XPOSTAG	POS	?	?	?	?	?	?
+...	_[_]	PN	N	D	_	_	_	_	_	_
+x	_[_]	N	N	D	_	_	_	_	_	_
+...	_[_]	PN	N	D	_	_	_	_	_	_
+x-{d}nansze	_	PN	PN.DAT-H	Iabcdefgh	_	_	_	_	_	_
+la-ba-da-ni-ib2-zi-ge-esz2	_	PN	PN	Iabcdefgh	_	_	_	_	_	_
+mu	mu[year]	N	N	D	_	_	_	_	_	_
+lugal	lugal[king]	N	N	D	_	_	_	_	_	_
+ba-ra-ab-gi4-gi4-de3	_	V	NF.V.PF.DAT-NH	Iabcdef	_	_	_	_	_	_
+ur-{d}lamma-ra	_	PN	PN.GEN	Iabcdef	_	_	_	_	_	_
+ur-{d}ba-ba6-ke4	_	RN	RN	POS	_	_	_	_	_	_
+in-na-an-du11-ga	_	PN	PN	POS	_	_	_	_	_	_
+x	_[_]	N	N	D	_	_	_	_	_	_
+x	_[_]	N	N	D	_	_	_	_	_	_
+...	_[_]	PN	N	D	_	_	_	_	_	_
+x	_[_]	N	N	D	_	_	_	_	_	_
+...	_[_]	PN	N	D	_	_	_	_	_	_
+x	_[_]	N	N	D	_	_	_	_	_	_
+...	_[_]	PN	N	D	_	_	_	_	_	_
+ku-li	Kuli[1]	PN	PN	D	_	_	_	_	_	_
+...	_[_]	PN	N	D	_	_	_	_	_	_
+kiszib3	kiszib[seal]	N	N	D	_	_	_	_	_	_
+x	_[_]	N	N	D	_	_	_	_	_	_
+...	_[_]	PN	N	D	_	_	_	_	_	_
+nu-ra-...	_			POS	_	_	_	_	_	_
+geme2	geme[female_worker]	N	N	D	_	_	_	_	_	_
+2(disz)	2(disz)[one]	NU	NU	D	B-COUNT	_	none	unknown	_	none
+...	_[_]	PN	N	D	I-COUNT	*	*	*	*	*
+ha-ra-se3-se3-ge-de3	_	V	V	POS	_	_	_	_	_	_

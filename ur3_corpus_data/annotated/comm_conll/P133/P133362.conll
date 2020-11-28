@@ -1,0 +1,19 @@
+#new_text=P133362					
+FORM	SEGM	XPOSTAG	XPOSTAG	POS	?	?	?	?	?	?
+3(disz)	3(disz)[one]	NU	NU	D	B-COUNT	_	3	cardinal	_	3
+sar-am3	_	PN	PN	POS	_	_	_	_	_	_
+szum2{sar}	_	N	N	Ia	B-COM	_	_	_	_	_
+gesz	gesz[tree]	N	N	D	_	_	_	_	_	_
+3(disz)-am3	3(disz)[one][-ø]-am	NU	NU.ABS.COP-3-SG	D	B-COUNT	_	3	cardinal	_	3
+ki	ki[place]	N	N	D	_	_	_	_	_	_
+{d}nin-mar{ki}-ka-ta	_	DN	DN.GEN.GEN.GEN.ABL	Iabcdefg	_	_	_	_	_	_
+ki	ki[place]	N	N	D	_	_	_	_	_	_
+sukkal-mah-ta	_	N	N	POS	_	_	_	_	_	_
+kiszib3	kiszib[seal]	N	N	D	_	_	_	_	_	_
+ur-{d}ba-ba6	Urbaba[1]	PN	PN	D	_	_	_	_	_	_
+nu-banda3	nubanda[overseer][-ø]	N	N	D	_	_	_	_	_	_
+ur-{d}ba-ba6	Urbaba[1]	PN	PN	D	_	_	_	_	_	_
+dub-sar	dubsar[scribe]	N	N	D	_	_	_	_	_	_
+dumu	dumu[child]	N	N	D	_	_	_	_	_	_
+lugal-im-ru-a	_	PN	PN	Iabcde	_	_	_	_	_	_
+nu-banda3	nubanda[overseer][-ø]	N	N	D	_	_	_	_	_	_

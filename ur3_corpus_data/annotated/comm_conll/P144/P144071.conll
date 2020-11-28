@@ -1,0 +1,24 @@
+#new_text=P144071					
+FORM	SEGM	XPOSTAG	XPOSTAG	POS	?	?	?	?	?	?
+8(disz)	8(disz)[one]	NU	NU	D	B-COUNT	_	8	cardinal	_	8
+gurusz	gurusz[male]	N	N	D	B-COM	_	_	_	_	_
+u4	ud[day]	N	N	D	_	_	_	_	_	_
+2(disz)-sze3	2(disz)[one]-sze	NU	NU.TERM	D	B-COUNT	_	2	cardinal	_	2
+a-sza3	aszag[field]	N	N	D	_	_	_	_	_	_
+la2-mah-ta	_	FN	FN	POS	_	_	_	_	_	_
+musz-bi-an-na-sze3	_	N	N	POS	_	_	_	_	_	_
+gu4	gud[ox]	N	N	D	B-COM	_	_	_	_	_
+bu3-ra	_	PN	PN	Iabcde	_	_	_	_	_	_
+ugula	ugula[overseer][-ø]	N	N	D	_	_	_	_	_	_
+ur-ab-ba	Urabba[1][-ak]	PN	PN.GEN	D	_	_	_	_	_	_
+kiszib3	kiszib[seal]	N	N	D	_	_	_	_	_	_
+lugal-ku3-zu	Lugalkuzu[1]	PN	PN	D	_	_	_	_	_	_
+mu	mu[year]	N	N	D	_	_	_	_	_	_
+en-unu6-gal	Enunugal[1]	PN	PN	D	_	_	_	_	_	_
+{d}inanna	Inanna[1][-ak]	DN	DN	D	_	_	_	_	_	_
+ba-hun	ba-hug[hire][-ø]	V	MID.V.3-SG-S	D	_	_	_	_	_	_
+lugal-ku3-zu	Lugalkuzu[1]	PN	PN	D	_	_	_	_	_	_
+dub-sar	dubsar[scribe]	N	N	D	_	_	_	_	_	_
+dumu	dumu[child]	N	N	D	_	_	_	_	_	_
+ur-nigar{gar}	Urnigar[1]	PN	PN	D	_	_	_	_	_	_
+szusz3	kusz[cattle_manager][-ak]	N	N.GEN	D	_	_	_	_	_	_

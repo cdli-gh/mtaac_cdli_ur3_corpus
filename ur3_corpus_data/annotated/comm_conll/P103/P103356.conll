@@ -1,0 +1,18 @@
+#new_text=P103356					
+FORM	SEGM	XPOSTAG	XPOSTAG	POS	B-COUNT	l	0.23546296296296296	"dry	*	*
+4(gesz'u)	4(gesz'u)[six_hundred]	NU	NU	D	I-COUNT	*	*	*	sila3	0.23546296296296296
+2(gesz2)	2(gesz)[sixty]	NU	NU	D	I-COUNT	*	*	*	*	*
+2(u)	2(u)[ten]	NU	NU	D	I-COUNT	*	*	*	*	*
+3(asz)	3(asz)[one]	NU	NU	D	I-COUNT	*	*	*	*	*
+sze	sze[barley]	N	N	D	I-COUNT	*	*	*	*	*
+gur	gur[unit]	N	N	D	I-COUNT	*	*	*	*	*
+sze	sze[barley]	N	N	D	B-COM	_	_	_	_	_
+ur-{d}su4-a-na	_	PN	PN.GEN.L1	Iabcdefg	_	_	_	_	_	_
+dam-gar3	damgar[merchant][-ak]	N	N	D	_	_	_	_	_	_
+u4	ud[day]	N	N	D	_	_	_	_	_	_
+1(disz)-kam	1(disz)[one]-ak-am	NU	NU.GEN.COP-3-SG	D	B-COUNT	_	1	cardinal	_	1
+sza3	szag[heart]	N	N	D	_	_	_	_	_	_
+ku-ru-x	_	PN	PN.DAT-H	Iab	_	_	_	_	_	_
+x	_[_]	N	N	D	_	_	_	_	_	_
+x	_[_]	N	N	D	_	_	_	_	_	_
+...	_[_]	PN	N	D	_	_	_	_	_	_

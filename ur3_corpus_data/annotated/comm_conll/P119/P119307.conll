@@ -1,0 +1,24 @@
+#new_text=P119307					
+FORM	SEGM	XPOSTAG	XPOSTAG	POS	?	?	?	?	?	?
+2(bur3)	2(bur)[unit]	NU	N	D	B-COUNT	m^2	129600.0	surface	gin2	216000
+GAN2	gana[field]	N	N	D	I-COUNT	*	*	*	*	*
+gesz-ur3-ra	geszur[harrow]-a	V	NF.V.PT	D	_	_	_	_	_	_
+a-ra2	ara[times]	N	N	D	_	_	_	_	_	_
+1(disz)	1(disz)[one]	NU	NU	D	B-COUNT	m^2	3.3	surface	gin2	5.5
+4(iku)	4(iku)[unit]	NU	N	D	I-COUNT	*	*	*	*	*
+1/2(iku)	1/2(iku)[unit]	NU	N	D	I-COUNT	*	*	*	*	*
+GAN2-ta	gana[field]-ta	N	N.ABL	D	_	_	_	_	_	_
+a-sza3	aszag[field]	N	N	D	_	_	_	_	_	_
+gibil	gibil[new][-ø]	V	NF.V.ABS	D	_	_	_	_	_	_
+ugula	ugula[overseer][-ø]	N	N	D	_	_	_	_	_	_
+lugal-ku3-zu	Lugalkuzu[1]	PN	PN	D	_	_	_	_	_	_
+kiszib3	kiszib[seal]	N	N	D	_	_	_	_	_	_
+na-ba-sa6	Nabasa[1][-ak]	PN	PN.GEN	D	_	_	_	_	_	_
+mu	mu[year]	N	N	D	_	_	_	_	_	_
+si-ma-num2{ki}	Simanum[1][-ø]	GN	SN.ABS	D	_	_	_	_	_	_
+ba-hul	ba-hulu[destroy][-ø]	V	MID.V.3-SG-S	D	_	_	_	_	_	_
+na-ba-sa6	Nabasa[1][-ak]	PN	PN.GEN	D	_	_	_	_	_	_
+dumu	dumu[child]	N	N	D	_	_	_	_	_	_
+he2-sa6	Hesa[1]	PN	PN	D	_	_	_	_	_	_
+iszib	iszib[priest]	N	N	D	_	_	_	_	_	_
+{d}szara2	Szara[1][-ak]	DN	DN	D	_	_	_	_	_	_

@@ -1,0 +1,23 @@
+#new_text=P123382					
+FORM	SEGM	XPOSTAG	XPOSTAG	POS	?	?	?	?	?	?
+3(disz)	3(disz)[one]	NU	NU	D	B-COUNT	_	3	cardinal	_	3
+szah2-NE-tur-nita2	_	N	N	POS	_	_	_	_	_	_
+iri	iri[city]	N	N	D	_	_	_	_	_	_
+sa2-du11	sadug[offerings]	N	N	D	_	_	_	_	_	_
+ku5-ta	_	V	V	POS	_	_	_	_	_	_
+iti-ta	_	N	N	POS	_	_	_	_	_	_
+u4	ud[day]	N	N	D	_	_	_	_	_	_
+1(u)	1(u)[ten]	NU	NU	D	B-COUNT	_	18	cardinal	_	18
+8(disz)	8(disz)[one]	NU	NU	D	I-COUNT	*	*	*	*	*
+ba-ra-zal	_	V	MID.V.3-SG-S.SUB	Iabcde	_	_	_	_	_	_
+ki	ki[place]	N	N	D	B-COM	_	_	_	_	_
+ur-{d}dumu-zi-da-ta	_	PN	PN.GEN.GEN.ABL	Iabcdefg	_	_	_	_	_	_
+ur-lugal-edin-na	_	PN	PN	Ia	_	_	_	_	_	_
+geme2	geme[female_worker]	N	N	D	_	_	_	_	_	_
+usz-bar-me	_	N	N.3-SG-NH-POSS.ABS.COP-3-PL	Iabcdefg	_	_	_	_	_	_
+i-di3-er3-ra	_	PN	PN.GEN.ABS	D	_	_	_	_	_	_
+i3-dab5	i[-n]-dab[seize][-ø]	V	FIN.3-SG-H-A.V.3-SG-P	D	_	_	_	_	_	_
+mu	mu[year]	N	N	D	_	_	_	_	_	_
+si-mu-ru-um{ki}	Simurrum[1]	SN	SN.ABS	D	_	_	_	_	_	_
+lu-lu-bu-um{ki}	Lulubum[1][-ø]	SN	SN.ABS	D	_	_	_	_	_	_
+...	_[_]	PN	N	D	_	_	_	_	_	_

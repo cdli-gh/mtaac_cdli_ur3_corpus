@@ -1,0 +1,26 @@
+#new_text=P143428					
+FORM	SEGM	XPOSTAG	XPOSTAG	POS	B-COUNT	l	0.002407407407407407	"dry	*	*
+2(u)	2(u)[ten]	NU	NU	D	I-COUNT	*	*	*	sila3	0.002407407407407407
+6(asz)	6(asz)[one]	NU	NU	D	I-COUNT	*	*	*	*	*
+sze	sze[barley]	N	N	D	I-COUNT	*	*	*	*	*
+gur	gur[unit]	N	N	D	I-COUNT	*	*	*	*	*
+2(asz)	2(asz)[one]	NU	NU	D	B-COUNT	_	2	cardinal	_	2
+ziz2	ziz[emmer]	N	N	D	B-COM	_	_	_	_	_
+gur	gur[unit]	N	N	D	_	_	_	_	_	_
+sa2-du11	sadug[offerings]	N	N	D	_	_	_	_	_	_
+{d}nin-e11-e	_	DN	DN	Iabcde	_	_	_	_	_	_
+en-mu10-us2-sa2	_	PN	PN	Iabcde	_	_	_	_	_	_
+*RETOK*-capacity"	?	?	?	?	B-COUNT	l	0.00037037037037037035	"dry	*	*
+4(asz)	4(asz)[one]	NU	NU	D	I-COUNT	*	*	*	sila3	0.00037037037037037035
+sze	sze[barley]	N	N	D	I-COUNT	*	*	*	*	*
+gur	gur[unit]	N	N	D	I-COUNT	*	*	*	*	*
+sa2-du11	sadug[offerings]	N	N	D	_	_	_	_	_	_
+{d}dumu-zi	Dumuzi[1][-'a]	MN	MN.L1	D	_	_	_	_	_	_
+ur-{d}dumu-zi-da	Urdumuzida[1][-e]	PN	PN.GEN.ABS	D	_	_	_	_	_	_
+kiszib3	kiszib[seal]	N	N	D	_	_	_	_	_	_
+nu-ra-a	Nuraya[1][-ak]	PN	PN.GEN	D	_	_	_	_	_	_
+gu2-edin-na-ta	_	PN	PN	POS	_	_	_	_	_	_
+mu	mu[year]	N	N	D	_	_	_	_	_	_
+e2	e[house]	N	N	D	_	_	_	_	_	_
+puzur4-da-gan	Puzurdagan[1][-ø]	SN	SN.ABS	D	_	_	_	_	_	_
+ba-du3	ba-du[build][-ø]	V	MID.V.3-SG-S	D	B-COM	_	_	_	_	_

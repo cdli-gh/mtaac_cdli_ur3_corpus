@@ -1,0 +1,21 @@
+#new_text=P142665					
+FORM	SEGM	XPOSTAG	XPOSTAG	POS	?	?	?	?	?	?
+2(barig)	2(bariga)[unit]	NU	N	D	B-COUNT	_	none	unknown	_	none
+...	_[_]	PN	N	D	I-COUNT	*	*	*	*	*
+sza3-gal	szaggal[food]	N	N	D	_	_	_	_	_	_
+ansze	ansze[donkey]	N	N	D	B-COM	_	_	_	_	_
+zi-gu5-um-sze3	_	N	N.TERM	Iabcde	_	_	_	_	_	_
+i3-ra	_	V	V	POS	_	_	_	_	_	_
+szu-{d}dumu-zi	_	PN	PN.ERG	Iab	_	_	_	_	_	_
+szu	szu[hand][-e]	N	N.L3-NH	D	_	_	_	_	_	_
+ba-ti	ba[-n]-teg[accept][-ø]	V	MID.3-SG-H-A.V.3-SG-P	D	_	_	_	_	_	_
+giri3	giri[foot]	N	N	D	_	_	_	_	_	_
+szesz-kal-la	Szeszkala[1][-ra]	PN	PN	D	_	_	_	_	_	_
+szu-i	szu'i[barber][-ak]	N	N.ABS	D	_	_	_	_	_	_
+e2-kikken-ta	_	TN	TN	POS	_	_	_	_	_	_
+iti	iti[month]	N	N	D	_	_	_	_	_	_
+szu-numun-na	_	MN	MN	POS	_	_	_	_	_	_
+mu	mu[year]	N	N	D	_	_	_	_	_	_
+ma-da	mada[land][-ak][-ø]	N	N	D	_	_	_	_	_	_
+za-ab-sza-li{ki}	Zabszali[1][-ak][-ø]	GN	SN.GEN.ABS	D	_	_	_	_	_	_
+ba-hul	ba-hulu[destroy][-ø]	V	MID.V.3-SG-S	D	_	_	_	_	_	_

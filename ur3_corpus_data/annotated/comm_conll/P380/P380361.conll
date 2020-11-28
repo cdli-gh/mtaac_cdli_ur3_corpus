@@ -1,0 +1,21 @@
+#new_text=P380361					
+FORM	SEGM	XPOSTAG	XPOSTAG	POS	B-COUNT	l	4710	"dry	*	*
+1(u)	1(u)[ten]	NU	NU	D	I-COUNT	*	*	*	sila3	4710
+5(asz)	5(asz)[one]	NU	NU	D	I-COUNT	*	*	*	*	*
+3(barig)	3(bariga)[unit]	NU	N	D	I-COUNT	*	*	*	*	*
+3(ban2)	3(ban)[unit]	NU	N	D	I-COUNT	*	*	*	*	*
+gur	gur[unit]	N	N	D	I-COUNT	*	*	*	*	*
+sze	sze[barley]	N	N	D	B-COM	_	_	_	_	_
+ur5-ra	urra[loan]	N	N	D	_	_	_	_	_	_
+	_	_	?	?	?	?	?	?	?	?
+nu-tuku	nu-tuku[acquire][-a]	V	NEG.NF.V.PT	D	_	_	_	_	_	_
+...	_[_]	PN	N	D	_	_	_	_	_	_
+ur-mes	Urmes[1]	PN	PN	D	?	?	?	?	?	?
+	_	_	?	?	?	?	?	?	?	?
+*RETOK*-ur-mes	?	?	?	?	_	_	_	_	_	_
+lu2-dingir-ra	Ludingira[1][-ra]	PN	PN	D	_	_	_	_	_	_
+szu	szu[hand][-e]	N	N.L3-NH	D	_	_	_	_	_	_
+ba-ti	ba[-n]-teg[accept][-ø]	V	MID.3-SG-H-A.V.3-SG-P	D	_	_	_	_	_	_
+mu	mu[year]	N	N	D	_	_	_	_	_	_
+en-am-gal-an-na	_	PN	PN	Ia	_	_	_	_	_	_
+ba-hun	ba-hug[hire][-ø]	V	MID.V.3-SG-S	D	_	_	_	_	_	_

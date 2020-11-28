@@ -1,0 +1,17 @@
+#new_text=P337926					
+FORM	SEGM	XPOSTAG	XPOSTAG	POS	?	?	?	?	?	?
+szunigin	szunigin[total]	N	N	D	_	_	_	_	_	_
+2(disz)	2(disz)[one]	NU	NU	D	B-COUNT	_	2	cardinal	_	2
+n	_(_)[_]	NU	NU	D	_	_	_	_	_	_
+...	_[_]	PN	N	D	_	_	_	_	_	_
+szunigin	szunigin[total]	N	N	D	_	_	_	_	_	_
+...	_[_]	PN	N	D	_	_	_	_	_	_
+x	_[_]	N	N	D	_	_	_	_	_	_
+...	_[_]	PN	N	D	_	_	_	_	_	_
+...	_[_]	PN	N	D	_	_	_	_	_	_
+n	_(_)[_]	NU	NU	D	_	_	_	_	_	_
+2(disz)	2(disz)[one]	NU	NU	D	B-COUNT	_	2	cardinal	_	2
+masz-da3	maszda[gazelle][-ø]	N	N	D	B-COM	_	_	_	_	_
+...	_[_]	PN	N	D	_	_	_	_	_	_
+n	_(_)[_]	NU	NU	D	_	_	_	_	_	_
+1(u)	1(u)[ten]	NU	NU	D	B-COUNT	_	10	cardinal	_	10

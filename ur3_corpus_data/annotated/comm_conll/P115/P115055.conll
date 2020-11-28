@@ -1,0 +1,25 @@
+#new_text=P115055					
+FORM	SEGM	XPOSTAG	XPOSTAG	POS	?	?	?	?	?	?
+1(gesz2)	1(gesz)[sixty]	NU	NU	D	B-COUNT	_	89	cardinal	_	89
+2(u)	2(u)[ten]	NU	NU	D	I-COUNT	*	*	*	*	*
+9(disz)	9(disz)[one]	NU	NU	D	I-COUNT	*	*	*	*	*
+ze2-na	zena[midrib]	FN	N	D	_	_	_	_	_	_
+mu	mu[year]	N	N	D	_	_	_	_	_	_
+na-ru2-a	narua[stele]	PN	N	D	B-COM	_	_	_	_	_
+5(u)	5(u)[ten]	NU	NU	D	B-COUNT	_	57	cardinal	_	57
+7(disz)	7(disz)[one][-sze]	NU	NU	D	I-COUNT	*	*	*	*	*
+ze2-na	zena[midrib]	FN	N	D	_	_	_	_	_	_
+mu	mu[year]	N	N	D	_	_	_	_	_	_
+ma-da	mada[land][-ak][-ø]	N	N	D	_	_	_	_	_	_
+za-ab-sza-li{ki}	Zabszali[1][-ak][-ø]	GN	SN.GEN.ABS	D	_	_	_	_	_	_
+ba-hul	ba-hulu[destroy][-ø]	V	MID.V.3-SG-S	D	_	_	_	_	_	_
+2(gesz2)	2(gesz)[sixty]	NU	NU	D	B-COUNT	_	120	cardinal	_	120
+ze2-na	zena[midrib]	FN	N	D	_	_	_	_	_	_
+gal	gal[big][-ø]	V	NF.V.ABS	D	_	_	_	_	_	_
+2(u)	2(u)[ten]	NU	NU	D	B-COUNT	_	28	cardinal	_	28
+8(disz)	8(disz)[one]	NU	NU	D	I-COUNT	*	*	*	*	*
+ze2-na	zena[midrib]	FN	N	D	_	_	_	_	_	_
+mu	mu[year]	N	N	D	_	_	_	_	_	_
+ma2-gur8-mah	magurmah[great_barge][-ø]	N	N.ABS	D	_	_	_	_	_	_
+kiszib3-bi	kiszib[seal]-bi[-ø]	N	N.3-SG-NH-POSS.ABS	D	B-COM	_	_	_	_	_
+9(disz)-am3	_	NU	NU.GEN.COP-3-SG	Iab	B-COUNT	_	9	cardinal	_	9

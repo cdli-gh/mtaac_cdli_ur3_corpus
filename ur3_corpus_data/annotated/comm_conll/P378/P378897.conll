@@ -1,0 +1,21 @@
+#new_text=P378897					
+FORM	SEGM	XPOSTAG	XPOSTAG	POS	B-COUNT	l	12245	"dry	*	*
+4(u)	4(u)[ten]	NU	NU	D	I-COUNT	*	*	*	sila3	12245
+4(barig)	4(bariga)[unit]	NU	N	D	I-COUNT	*	*	*	*	*
+5(disz)	5(disz)[one]	NU	NU	D	I-COUNT	*	*	*	*	*
+sila3	sila[unit]	N	N	D	I-COUNT	*	*	*	*	*
+sze	sze[barley]	N	N	D	I-COUNT	*	*	*	*	*
+gur	gur[unit]	N	N	D	I-COUNT	*	*	*	*	*
+lugal	lugal[king]	N	N	D	_	_	_	_	_	_
+ki	ki[place]	N	N	D	_	_	_	_	_	_
+lu2-gi-na-ta	Lugina[1][-ak]-ta	PN	PN.GEN.ABL	D	_	_	_	_	_	_
+kiszib3	kiszib[seal]	N	N	D	_	_	_	_	_	_
+lugal-an-na-ab-tum2	_	PN	PN	POS	_	_	_	_	_	_
+ugu2	ugu[capital]	N	N	D	_	_	_	_	_	_
+ba-a-gar	ba-e-gar[place][-ø]	V	MID.L2.V.3-SG-S	D	_	_	_	_	_	_
+iti	iti[month]	N	N	D	_	_	_	_	_	_
+sze-sag11-ku5	Szesagku[1][-'a]	MN	MN.L1	D	_	_	_	_	_	_
+lugal-an-na-ab-tum2	_	PN	PN	POS	_	_	_	_	_	_
+dub-sar	dubsar[scribe]	N	N	D	_	_	_	_	_	_
+dumu	dumu[child]	N	N	D	_	_	_	_	_	_
+na-ki-ni	_	PN	PN.GEN.ABS	Iabcdefg	_	_	_	_	_	_

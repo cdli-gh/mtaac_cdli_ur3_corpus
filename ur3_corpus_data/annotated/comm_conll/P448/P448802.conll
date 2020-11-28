@@ -1,0 +1,11 @@
+#new_text=P448802					
+FORM	SEGM	XPOSTAG	XPOSTAG	POS	?	?	?	?	?	?
+3(disz)	3(disz)[one]	NU	NU	D	B-COUNT	_	3	cardinal	_	3
+zi-x	_	PN	PN	POS	_	_	_	_	_	_
+...	_[_]	PN	N	D	_	_	_	_	_	_
+2(disz)	2(disz)[one]	NU	NU	D	B-COUNT	_	2	cardinal	_	2
+am-hu-usz	_	PN	PN	Iabcde	_	_	_	_	_	_
+1(disz)	1(disz)[one]	NU	NU	D	B-COUNT	_	1	cardinal	_	1
+ip-hu-szu	_	PN	PN	Ia	_	_	_	_	_	_
+zi-ga	zig[expend]-a	V	NF.V.PT	D	_	_	_	_	_	_
+a-da-mu	_	PN	PN	Iabcde	_	_	_	_	_	_

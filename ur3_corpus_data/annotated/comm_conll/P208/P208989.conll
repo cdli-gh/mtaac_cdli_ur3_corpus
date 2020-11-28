@@ -1,0 +1,20 @@
+#new_text=P208989					
+FORM	SEGM	XPOSTAG	XPOSTAG	POS	?	?	?	?	?	?
+1(disz)	1(disz)[one]	NU	NU	D	B-COUNT	g	500.00000000000006	weight	gin2	60
+ma-na	mana[unit]	N	N	D	I-COUNT	*	*	*	*	*
+sze-gin2	szegin[paint]	N	N	D	B-COM	_	_	_	_	_
+{gesz}gigir	gigir[chariot][-sze]	N	N.TERM	D	_	_	_	_	_	_
+da-da-sze3	_	SN	SN	POS	_	_	_	_	_	_
+ki	ki[place]	N	N	D	_	_	_	_	_	_
+a-kal-la-ta	Akala[1][-ak]-ta	PN	PN.GEN.ABL	D	_	_	_	_	_	_
+kiszib3	kiszib[seal]	N	N	D	_	_	_	_	_	_
+{d}szara2-kam	Szarakam[1]	PN	PN	D	_	_	_	_	_	_
+iti	iti[month]	N	N	D	_	_	_	_	_	_
+{d}dumu-zi	Dumuzi[1][-'a]	MN	MN.L1	D	_	_	_	_	_	_
+mu	mu[year]	N	N	D	_	_	_	_	_	_
+{d}szu-{d}suen	Szusuen[1]	RN	RN	D	_	_	_	_	_	_
+lugal	lugal[king]	N	N	D	_	_	_	_	_	_
+{d}szara2-kam	Szarakam[1]	PN	PN	D	_	_	_	_	_	_
+dub-sar	dubsar[scribe]	N	N	D	_	_	_	_	_	_
+dumu	dumu[child]	N	N	D	_	_	_	_	_	_
+lugal-{gesz}kiri6	Lugalkiri[1]	PN	PN	D	_	_	_	_	_	_

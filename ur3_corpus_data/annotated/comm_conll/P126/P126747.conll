@@ -1,0 +1,25 @@
+#new_text=P126747					
+FORM	SEGM	XPOSTAG	XPOSTAG	POS	?	?	?	?	?	?
+3(disz)	3(disz)[one]	NU	NU	D	B-COUNT	_	3	cardinal	_	3
+udu	udu[sheep]	N	N	D	B-COM	_	_	_	_	_
+x	_[_]	N	N	D	_	_	_	_	_	_
+...	_[_]	PN	N	D	_	_	_	_	_	_
+2(disz)	2(disz)[one]	NU	NU	D	B-COUNT	_	2	cardinal	_	2
+udu	udu[sheep]	N	N	D	B-COM	_	_	_	_	_
+e2	e[house]	N	N	D	_	_	_	_	_	_
+...	_[_]	PN	N	D	_	_	_	_	_	_
+2(disz)	2(disz)[one]	NU	NU	D	B-COUNT	_	2	cardinal	_	2
+masz2	masz[goat]	N	N	D	B-COM	_	_	_	_	_
+{d}nisaba	_	DN	DN	POS	_	_	_	_	_	_
+...	_[_]	PN	N	D	_	_	_	_	_	_
+7(disz)	7(disz)[one][-sze]	NU	NU	D	B-COUNT	_	7	cardinal	_	7
+sza3-bi-ta	szag[heart]-bi-ta	PN	N.3-SG-NH-POSS.ABL	D	_	_	_	_	_	_
+1(disz)	1(disz)[one]	NU	NU	D	B-COUNT	_	1	cardinal	_	1
+u8	u[ewe]	N	N	D	B-COM	_	_	_	_	_
+1(disz)	1(disz)[one]	NU	NU	D	B-COUNT	_	1	cardinal	_	1
+ud5	uzud[goat]	N	N	D	_	_	_	_	_	_
+e2-udu-ka	_	PN	PN	POS	_	_	_	_	_	_
+gub-ba	gub[assigned]-a[-ak][-ø]	V	NF.V.PT	D	_	_	_	_	_	_
+5(disz)	5(disz)[one]	NU	NU	D	B-COUNT	_	5	cardinal	_	5
+udu	udu[sheep]	N	N	D	B-COM	_	_	_	_	_
+ib2-tak4	_	N	N	POS	_	_	_	_	_	_

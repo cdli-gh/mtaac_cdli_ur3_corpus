@@ -1,0 +1,20 @@
+#new_text=P100028					
+FORM	SEGM	XPOSTAG	XPOSTAG	POS	?	?	?	?	?	?
+1(gesz2)	1(gesz)[sixty]	NU	NU	D	B-COUNT	_	73	cardinal	_	73
+1(u)	1(u)[ten]	NU	NU	D	I-COUNT	*	*	*	*	*
+3(disz)	3(disz)[one]	NU	NU	D	I-COUNT	*	*	*	*	*
+gu4	gud[ox]	N	N	D	B-COM	_	_	_	_	_
+ab2	ab[cow][-ø]	N	N	D	_	_	_	_	_	_
+hi-a	hi[mix]-a[-ø]	V	NF.V.PT	D	_	_	_	_	_	_
+ka2	kan[gate]	N	N	D	_	_	_	_	_	_
+gu4-sze3	_	N	N	POS	_	_	_	_	_	_
+ki	ki[place]	N	N	D	_	_	_	_	_	_
+lugal-a2-zi-da-ta	Lugalazida[1][-ak]-ta	PN	PN.GEN.ABL	D	_	_	_	_	_	_
+ba-sa6	Basa[1][-ak]	PN	PN.GEN	D	_	_	_	_	_	_
+i3-dab5	i[-n]-dab[seize][-ø]	V	FIN.3-SG-H-A.V.3-SG-P	D	_	_	_	_	_	_
+iti	iti[month]	N	N	D	_	_	_	_	_	_
+szu-numun	Szunumun[1][-'a]	MN	MN.L1	D	_	_	_	_	_	_
+mu	mu[year]	N	N	D	_	_	_	_	_	_
+us2-sa	us[follow]-a	V	NF.V.PT	D	_	_	_	_	_	_
+an-sza-an{ki}	Anszan[1][-ø]	GN	GN.ABS	D	_	_	_	_	_	_
+ba-hul	ba-hulu[destroy][-ø]	V	MID.V.3-SG-S	D	_	_	_	_	_	_

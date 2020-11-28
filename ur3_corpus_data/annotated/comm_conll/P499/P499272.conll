@@ -1,0 +1,21 @@
+#new_text=P499272					
+FORM	SEGM	XPOSTAG	XPOSTAG	POS	?	?	?	?	?	?
+3(u)	3(u)[ten]	NU	NU	D	B-COUNT	*	*	*	*	*
+2(barig)	2(bariga)[unit]	NU	N	D	I-COUNT	*	*	*	*	*
+sze	sze[barley]	N	N	D	I-COUNT	*	*	*	*	*
+gur	gur[unit]	N	N	D	I-COUNT	*	*	*	*	*
+si-sa2	_	V	V	POS	_	_	_	_	_	_
+ki	ki[place]	N	N	D	B-COM	_	_	_	_	_
+da-da-ta	Dada[1][-ak]-ta	PN	PN.GEN.ABL	D	_	_	_	_	_	_
+sze	sze[barley]	N	N	D	_	_	_	_	_	_
+apin-la2	apinla[tenancy]	N	N	D	_	_	_	_	_	_
+ab-za-na	_	FN	FN	POS	_	_	_	_	_	_
+ur-sa6-ga	Ursaga[1][-ak]	PN	PN	D	_	_	_	_	_	_
+dumu	dumu[child]	N	N	D	_	_	_	_	_	_
+sa12-du5	sagDUN[land_recorder][-ak]	N	N	D	_	_	_	_	_	_
+su-su-dam	sug-sug[repay]-ed[-ø]-am	PN	NF.V.RDP.F.ABS.COP-3-SG	D	_	_	_	_	_	_
+mu	mu[year]	N	N	D	_	_	_	_	_	_
+{d}szul-gi	Szulgir[1]	RN	RN	D	_	_	_	_	_	_
+lugal	lugal[king]	N	N	D	_	_	_	_	_	_
+a2	a[time]	N	N	D	_	_	_	_	_	_
+szum2-ma	szum[garlic]-ak	V	N.GEN	D	_	_	_	_	_	_

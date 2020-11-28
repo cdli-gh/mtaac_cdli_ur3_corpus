@@ -1,0 +1,33 @@
+#new_text=P138265					
+FORM	SEGM	XPOSTAG	XPOSTAG	POS	?	?	?	?	?	?
+...	_[_]	PN	N	D	_	_	_	_	_	_
+...	_[_]	PN	N	D	_	_	_	_	_	_
+im-ti-dam	_	PN	PN	POS	_	_	_	_	_	_
+...-za-a	_			POS	_	_	_	_	_	_
+dumu-munus-ni	_	N	N.3-SG-H-POSS.ABS	Iabcde	_	_	_	_	_	_
+...	_[_]	PN	N	D	_	_	_	_	_	_
+ti-a	ti[receive]-a	V	NF.V.PT	D	_	_	_	_	_	_
+dumu-nita2	_	N	N	Ia	_	_	_	_	_	_
+*RETOK*-capacity"	?	?	?	?	B-COUNT	l	40	"dry	*	*
+4(ban2)	4(ban)[unit]	NU	N	D	I-COUNT	*	*	*	sila3	40
+PI-...	_	PN	PN	POS	_	_	_	_	_	_
+*RETOK*-capacity"	?	?	?	?	B-COUNT	l	30	"dry	*	*
+3(ban2)	3(ban)[unit]	NU	N	D	I-COUNT	*	*	*	sila3	30
+sza-at-...	_	V	V	POS	_	_	_	_	_	_
+*RETOK*-capacity"	?	?	?	?	B-COUNT	l	10	"dry	*	*
+1(ban2)	1(ban)[unit]	NU	N	D	I-COUNT	*	*	*	sila3	10
+ARAD2-{d}...	_	PN	PN	Ia	_	_	_	_	_	_
+4(ban2)	4(ban)[unit]	NU	N	D	B-COUNT	_	none	unknown	_	none
+...	_[_]	PN	N	D	I-COUNT	*	*	*	*	*
+*RETOK*-capacity"	?	?	?	?	B-COUNT	l	20	"dry	*	*
+2(ban2)	2(ban)[unit]	NU	N	D	I-COUNT	*	*	*	sila3	20
+al-x-...	_	PN	PN	Iabcde	_	_	_	_	_	_
+*RETOK*-capacity"	?	?	?	?	B-COUNT	l	20	"dry	*	*
+2(ban2)	2(ban)[unit]	NU	N	D	I-COUNT	*	*	*	sila3	20
+{d}iszkur-...	_	PN	PN	Iabcde	_	_	_	_	_	_
+se-lu-...	_			POS	_	_	_	_	_	_
+iti	iti[month]	N	N	D	_	_	_	_	_	_
+u5-bi2{muszen}-gu7	Ubigu[1][-'a]	MN	MN.L1	D	B-COM	_	_	_	_	_
+mu	mu[year]	N	N	D	_	_	_	_	_	_
+bad3-gal	badgal[great_wall][-ø]	N	N.ABS	D	_	_	_	_	_	_
+ba-du3	ba-du[build][-ø]	V	MID.V.3-SG-S	D	_	_	_	_	_	_

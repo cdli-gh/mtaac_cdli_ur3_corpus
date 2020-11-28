@@ -1,0 +1,27 @@
+#new_text=P113804					
+FORM	SEGM	XPOSTAG	XPOSTAG	POS	?	?	?	?	?	?
+4(u)	4(u)[ten]	NU	NU	D	B-COUNT	m	258	length	gi	86
+3(disz)	3(disz)[one]	NU	NU	D	I-COUNT	*	*	*	*	*
+ninda	ninda[bread]	N	N	D	I-COUNT	*	*	*	*	*
+du	gin[quality_designation][-ø]	V	NF.V.ABS	D	B-COM	_	_	_	_	_
+GIN2	_	N	N	Ia	_	_	_	_	_	_
+ninda-bi	_	N	N.ABS.3-SG-NH-POSS.ABS	Iabcdefg	_	_	_	_	_	_
+x-...	_[_]	PN	PN	D	_	_	_	_	_	_
+ki	ki[place]	N	N	D	_	_	_	_	_	_
+an-ne2-zu-ta	_	PN	PN.GEN.ABL	Ia	_	_	_	_	_	_
+kiszib3	kiszib[seal]	N	N	D	_	_	_	_	_	_
+ki-ag2	ki'ag[love][-ø]	V	NF.V	D	_	_	_	_	_	_
+u4	ud[day]	N	N	D	_	_	_	_	_	_
+8(disz)-kam	8(disz)[one]-ak-am	NU	NU.GEN.COP-3-SG	D	B-COUNT	_	8	cardinal	_	8
+iti	iti[month]	N	N	D	_	_	_	_	_	_
+ezem-me-ki-gal2	Ezemmekigal[1][-ø]	MN	MN.L1	D	_	_	_	_	_	_
+mu	mu[year]	N	N	D	_	_	_	_	_	_
+en	en[priest]	N	N	D	_	_	_	_	_	_
+{d}nanna	Nanna[1][-ak]	DN	DN	D	_	_	_	_	_	_
+ba-hun	ba-hug[hire][-ø]	V	MID.V.3-SG-S	D	_	_	_	_	_	_
+ki-ag2	ki'ag[love][-ø]	V	NF.V	D	_	_	_	_	_	_
+dub-sar	dubsar[scribe]	N	N	D	_	_	_	_	_	_
+dumu	dumu[child]	N	N	D	_	_	_	_	_	_
+ku-li	Kuli[1]	PN	PN	D	_	_	_	_	_	_
+dub-sar	dubsar[scribe]	N	N	D	_	_	_	_	_	_
+lugal-ka	_	DN	N.GEN.GEN.ABS	D	B-COM	_	_	_	_	_

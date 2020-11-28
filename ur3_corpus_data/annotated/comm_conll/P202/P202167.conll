@@ -1,0 +1,21 @@
+#new_text=P202167					
+FORM	SEGM	XPOSTAG	XPOSTAG	POS	?	?	?	?	?	?
+4(disz)	4(disz)[one]	NU	NU	D	B-COUNT	_	0.06666666666666667	cardinal	_	0.06666666666666667
+gin2	gig[unit]	N	N	D	I-COUNT	*	*	*	*	*
+ku3-babbar	kugbabbar[silver]	N	N	D	B-COM	_	_	_	_	_
+szu-nir	szunir[emblem][-sze]	N	N	D	_	_	_	_	_	_
+gu2-edin-na	Gu'edina[1][-ak][-'a]	SN	SN.GEN.L1	D	_	_	_	_	_	_
+1(u)	1(u)[ten]	NU	NU	D	B-COUNT	g	6000.0	weight	gin2	720
+2(disz)	2(disz)[one]	NU	NU	D	I-COUNT	*	*	*	*	*
+ma-na	mana[unit]	N	N	D	I-COUNT	*	*	*	*	*
+ku3	kug[silver]	N	N	D	B-COM	_	_	_	_	_
+sag	sag[head]	N	N	D	_	_	_	_	_	_
+na4-bi	_	N	N	POS	_	_	_	_	_	_
+1(u)	1(u)[ten]	NU	NU	D	B-COUNT	_	0.19999999999999998	cardinal	_	0.19999999999999998
+2(disz)	2(disz)[one]	NU	NU	D	I-COUNT	*	*	*	*	*
+gin2	gig[unit]	N	N	D	I-COUNT	*	*	*	*	*
+masz-da-re6-a	_	N	N	Ia	_	_	_	_	_	_
+lugal	lugal[king]	N	N	D	_	_	_	_	_	_
+mu	mu[year]	N	N	D	_	_	_	_	_	_
+{d}nanna	Nanna[1][-ak]	DN	DN	D	_	_	_	_	_	_
+kar-zi-da	Karzida[1][-ak][-ak][-ø]	SN	SN.GEN.GEN.ABS	D	_	_	_	_	_	_

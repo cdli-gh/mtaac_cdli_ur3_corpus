@@ -1,0 +1,16 @@
+#new_text=P121511					
+FORM	SEGM	XPOSTAG	XPOSTAG	POS	?	?	?	?	?	?
+1(asz)	1(asz)[one]	NU	NU	D	B-COUNT	_	1	cardinal	_	1
+kasz	kasz[beer]	N	N	D	B-COM	_	_	_	_	_
+gur	gur[unit]	N	N	D	_	_	_	_	_	_
+1(asz)	1(asz)[one]	NU	NU	D	B-COUNT	m	6	length	gi	2
+ninda	ninda[bread]	N	N	D	I-COUNT	*	*	*	*	*
+gur	gur[unit]	N	N	D	_	_	_	_	_	_
+{d}suen	_	DN	DN	POS	_	_	_	_	_	_
+2(asz)	2(asz)[one]	NU	NU	D	B-COUNT	_	2	cardinal	_	2
+kasz	kasz[beer]	N	N	D	B-COM	_	_	_	_	_
+ninda	ninda[bread]	N	N	D	_	_	_	_	_	_
+hi-a	hi[mix]-a[-ø]	V	NF.V.PT	D	_	_	_	_	_	_
+gur	gur[unit]	N	N	D	_	_	_	_	_	_
+igi-kar2	_	N	N	POS	_	_	_	_	_	_
+lu2-{d}nanna	Lunanna[1]	PN	PN	D	_	_	_	_	_	_

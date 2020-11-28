@@ -1,0 +1,18 @@
+#new_text=P114420					
+FORM	SEGM	XPOSTAG	XPOSTAG	POS	B-COUNT	l	360	"dry	*	*
+1(asz)	1(asz)[one]	NU	NU	D	I-COUNT	*	*	*	sila3	360
+1(barig)	1(bariga)[unit]	NU	N	D	I-COUNT	*	*	*	*	*
+ziz2	ziz[emmer]	N	N	D	B-COM	_	_	_	_	_
+gur	gur[unit]	N	N	D	_	_	_	_	_	_
+kiszib3	kiszib[seal]	N	N	D	_	_	_	_	_	_
+lugal-amar-ku3	_	PN	PN	D	_	_	_	_	_	_
+ki	ki[place]	N	N	D	_	_	_	_	_	_
+lu2-{d}nin-dar-a-ta	_	PN	PN.GEN.ABL	Iabcdef	_	_	_	_	_	_
+tum3-dam	_	V	V	POS	_	_	_	_	_	_
+zi-ir-dam	_	PN	PN	POS	_	_	_	_	_	_
+mu	mu[year]	N	N	D	_	_	_	_	_	_
+ma2-gur8-mah	magurmah[great_barge][-ø]	N	N.ABS	D	_	_	_	_	_	_
+ba-dim2	ba-dim[create][-ø]	V	MID.V.3-SG-S	D	_	_	_	_	_	_
+lu2-{d}nin-dar-a	Lunindara[1]	PN	PN	D	_	_	_	_	_	_
+muhaldim	_	N	N	D	_	_	_	_	_	_
+lugal	lugal[king]	N	N	D	_	_	_	_	_	_

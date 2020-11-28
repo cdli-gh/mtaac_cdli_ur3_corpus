@@ -1,0 +1,21 @@
+#new_text=P206121					
+FORM	SEGM	XPOSTAG	XPOSTAG	POS	?	?	?	?	?	?
+2(u)	2(u)[ten]	NU	NU	D	B-COUNT	_	20	cardinal	_	20
+kusz	kusz[leather]	N	N	D	B-COM	_	_	_	_	_
+udu	udu[sheep]	N	N	D	_	_	_	_	_	_
+1(gesz2)	1(gesz)[sixty]	NU	NU	D	B-COUNT	_	80	cardinal	_	80
+2(u)	2(u)[ten]	NU	NU	D	I-COUNT	*	*	*	*	*
+kusz	kusz[leather]	N	N	D	_	_	_	_	_	_
+udu	udu[sheep]	N	N	D	_	_	_	_	_	_
+szu-gi4	_	PN	PN	POS	_	_	_	_	_	_
+ki	ki[place]	N	N	D	_	_	_	_	_	_
+ur-{d}nansze-ta	Urnansze[1][-ak]-ta	PN	PN.GEN.ABL	D	_	_	_	_	_	_
+ba-la	Bala[1]	PN	PN	D	_	_	_	_	_	_
+szu	szu[hand][-e]	N	N.L3-NH	D	B-COM	_	_	_	_	_
+ba-ti	ba[-n]-teg[accept][-ø]	V	MID.3-SG-H-A.V.3-SG-P	D	_	_	_	_	_	_
+iti	iti[month]	N	N	D	_	_	_	_	_	_
+GAN2-masz	GANmasz[1][-'a]	MN	MN.L1	D	_	_	_	_	_	_
+mu	mu[year]	N	N	D	_	_	_	_	_	_
+i7	id[river]	N	N	D	_	_	_	_	_	_
+{d}nin-tu	_	PN	PN	POS	_	_	_	_	_	_
+ba-ba-al	_	PN	PN	Iabcdefgh	_	_	_	_	_	_

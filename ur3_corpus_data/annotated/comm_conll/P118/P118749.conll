@@ -1,0 +1,15 @@
+#new_text=P118749					
+FORM	SEGM	XPOSTAG	XPOSTAG	POS	?	?	?	?	?	?
+...	_[_]	PN	N	D	_	_	_	_	_	_
+kesz2-ra	_	V	V	POS	_	_	_	_	_	_
+gurum2	gurum[inspection]	N	N	D	_	_	_	_	_	_
+ak	ak[excavate][-a][-ak]	V	NF.V.PT	D	_	_	_	_	_	_
+u4	ud[day]	N	N	D	_	_	_	_	_	_
+2(u)	2(u)[ten]	NU	NU	D	B-COUNT	_	20	cardinal	_	20
+2(disz)-kam	2(disz)[one]-ak-am	NU	NU.GEN.COP-3-SG	D	B-COUNT	_	2	cardinal	_	2
+iti	iti[month]	N	N	D	_	_	_	_	_	_
+sig4-{gesz}i3-szub-ba-gar-ra	_	MN	MN	POS	B-COM	_	_	_	_	_
+mu	mu[year]	N	N	D	_	_	_	_	_	_
+us2-sa	us[follow]-a	V	NF.V.PT	D	_	_	_	_	_	_
+{d}i-bi2-{d}suen	Ibbisuen[1]	RN	RN	D	_	_	_	_	_	_
+lugal	lugal[king]	N	N	D	_	_	_	_	_	_

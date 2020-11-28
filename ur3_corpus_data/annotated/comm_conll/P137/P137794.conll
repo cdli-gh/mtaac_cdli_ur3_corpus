@@ -1,0 +1,17 @@
+#new_text=P137794					
+FORM	SEGM	XPOSTAG	XPOSTAG	POS	?	?	?	?	?	?
+...	_[_]	PN	N	D	_	_	_	_	_	_
+u4	ud[day]	N	N	D	_	_	_	_	_	_
+1(u)	1(u)[ten]	NU	NU	D	B-COUNT	_	none	unknown	_	none
+1(disz)	1(disz)[one]	NU	NU	D	I-COUNT	*	*	*	*	*
+...	_[_]	PN	N	D	I-COUNT	*	*	*	*	*
+u4	ud[day]	N	N	D	_	_	_	_	_	_
+1(u)	1(u)[ten]	NU	NU	D	B-COUNT	_	10	cardinal	_	10
+lu2	lu[person]	N	N	D	_	_	_	_	_	_
+lunga	lungak[brewer][-ak]	N	N.GEN	D	_	_	_	_	_	_
+x	_[_]	N	N	D	_	_	_	_	_	_
+erin2	erin[people]	N	N	D	B-COM	_	_	_	_	_
+bad3-da	_	N	N	POS	_	_	_	_	_	_
+nu2	_	V	V	POS	_	_	_	_	_	_
+giri3-se3-ga	girsiga[attendant]	N	N	D	_	_	_	_	_	_
+en-na	en[priest]-ak[-e]	PN	N.GEN.ERG	D	_	_	_	_	_	_

@@ -1,0 +1,16 @@
+#new_text=P139431					
+FORM	SEGM	XPOSTAG	XPOSTAG	POS	_	_	_	_	_	_
+...-da-lal3	_			POS	_	_	_	_	_	_
+*RETOK*-x.	?	?	?	?	_	_	_	_	_	_
+...	_[_]	PN	N	D	_	_	_	_	_	_
+5(disz)	5(disz)[one]	NU	NU	D	B-COUNT	_	5	cardinal	_	5
+ur-{d}iszkur	Uriszkur[1][-ra]	PN	PN	D	_	_	_	_	_	_
+*RETOK*-x.	?	?	?	?	_	_	_	_	_	_
+...	_[_]	PN	N	D	_	_	_	_	_	_
+us2	us[follow][-ø]	V	NF.V.ABS	D	B-COM	_	_	_	_	_
+*RETOK*-x.	?	?	?	?	_	_	_	_	_	_
+e2-kiszib3-ba-ka	_	TN	TN	POS	_	_	_	_	_	_
+lu2-gi-na	Lugina[1][-ak][-ak]	PN	PN.GEN	D	_	_	_	_	_	_
+dub-sar	dubsar[scribe]	N	N	D	_	_	_	_	_	_
+dumu	dumu[child]	N	N	D	_	_	_	_	_	_
+lu2-nin-ga2-ka	Luningaka[1][-ak]	PN	PN.GEN	D	_	_	_	_	_	_

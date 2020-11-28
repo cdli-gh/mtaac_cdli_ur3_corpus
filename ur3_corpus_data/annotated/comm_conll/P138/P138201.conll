@@ -1,0 +1,30 @@
+#new_text=P138201					
+FORM	SEGM	XPOSTAG	XPOSTAG	POS	?	?	?	?	?	?
+...	_[_]	PN	N	D	_	_	_	_	_	_
+x	_[_]	N	N	D	_	_	_	_	_	_
+1(disz)	1(disz)[one]	NU	NU	D	B-COUNT	_	1	cardinal	_	1
+lu2-...	_[1][-ra]	PN	PN	D	_	_	_	_	_	_
+1(disz)	1(disz)[one]	NU	NU	D	B-COUNT	_	1	cardinal	_	1
+{d}nanna-sa6-ga	_	PN	PN	POS	_	_	_	_	_	_
+lu2-giri3-si-sa2(KI)	_	NU	NU	POS	_	_	_	_	_	_
+A	_			POS	_	_	_	_	_	_
+x	_[_]	N	N	D	_	_	_	_	_	_
+1(disz)	1(disz)[one]	NU	NU	D	B-COUNT	_	1	cardinal	_	1
+amar-ma(KU)-ma	_	PN	PN	Iabcde	_	_	_	_	_	_
+1(disz)	1(disz)[one]	NU	NU	D	B-COUNT	_	1	cardinal	_	1
+ARAD2-{d}nanna	Aradnanna[1]	PN	PN	D	_	_	_	_	_	_
+1(disz)	1(disz)[one]	NU	NU	D	B-COUNT	_	1	cardinal	_	1
+ARAD2-{d}nanna	Aradnanna[1]	PN	PN	D	_	_	_	_	_	_
+1(disz)	1(disz)[one]	NU	NU	D	?	?	?	?	?	?
+	_	_	?	?	?	?	?	?	?	?
+*RETOK*-1(disz)	?	?	?	?	B-COUNT	_	1	cardinal	_	1
+ur-mes	Urmes[1]	PN	PN	D	_	_	_	_	_	_
+1(disz)	1(disz)[one]	NU	NU	D	B-COUNT	_	1	cardinal	_	1
+lu2-{d}nanna	Lunanna[1]	PN	PN	D	_	_	_	_	_	_
+lugal-{d}nanna	_	PN	PN	Iabcde	_	_	_	_	_	_
+erin2	erin[people]	N	N	D	B-COM	_	_	_	_	_
+gal-gal-me	_	V	NF.V.PT.COP-3-PL	Iabcdefg	_	_	_	_	_	_
+x	_[_]	N	N	D	?	?	?	?	?	?
+	_	_	?	?	?	?	?	?	?	?
+*RETOK*-x	?	?	?	?	_	_	_	_	_	_
+ur-mes	Urmes[1]	PN	PN	D	_	_	_	_	_	_

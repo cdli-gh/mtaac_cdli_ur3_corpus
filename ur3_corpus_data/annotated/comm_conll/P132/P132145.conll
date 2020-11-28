@@ -1,0 +1,20 @@
+#new_text=P132145					
+FORM	SEGM	XPOSTAG	XPOSTAG	POS	?	?	?	?	?	?
+1(u)	1(u)[ten]	NU	NU	D	B-COUNT	g	5000.0	weight	gin2	600
+ma-na	mana[unit]	N	N	D	I-COUNT	*	*	*	*	*
+gu	gu[cord]	N	N	D	B-COM	_	_	_	_	_
+1(u)	1(u)[ten]	NU	NU	D	B-COUNT	_	10	cardinal	_	10
+nu	nu[not][-ø]	V	NF.V.ABS	D	_	_	_	_	_	_
+a-gen-na	_	PN	PN	Iabcdefgh	_	_	_	_	_	_
+PAP	_[_]	PN	PN	POS	_	_	_	_	_	_
+ugula	ugula[overseer][-ø]	N	N	D	_	_	_	_	_	_
+mah-kal-kal-gi-ne2	_	PN	PN	POS	_	_	_	_	_	_
+ki	ki[place]	N	N	D	B-COM	_	_	_	_	_
+ur-{d}nin-tu-ta	_	PN	PN.GEN.ABL	Iab	_	_	_	_	_	_
+kiszib3	kiszib[seal]	N	N	D	_	_	_	_	_	_
+lu2-{d}nin-szubur	Luninszubur[1][-ra]	PN	PN	D	_	_	_	_	_	_
+iti	iti[month]	N	N	D	_	_	_	_	_	_
+sze-kar-gal2-la	_	MN	MN.L1	Ia	_	_	_	_	_	_
+mu	mu[year]	N	N	D	_	_	_	_	_	_
+ne2-eb-ra-bi2-um{ki}	_	GN	GN	POS	_	_	_	_	_	_
+ba-hul	ba-hulu[destroy][-ø]	V	MID.V.3-SG-S	D	_	_	_	_	_	_

@@ -1,0 +1,20 @@
+#new_text=P339728					
+FORM	SEGM	XPOSTAG	XPOSTAG	POS	?	?	?	?	?	?
+7(disz)	7(disz)[one][-sze]	NU	NU	D	B-COUNT	_	7	cardinal	_	7
+gurusz	gurusz[male]	N	N	D	B-COM	_	_	_	_	_
+u4	ud[day]	N	N	D	_	_	_	_	_	_
+3(u)-sze3	3(u)[ten]-sze	NU	NU.TERM	D	B-COUNT	_	30	cardinal	_	30
+ab-za-na-asz	_	PN	PN.GEN.TERM	Iabcdef	_	_	_	_	_	_
+ma2	ma[ship]	N	N	D	_	_	_	_	_	_
+gid2-da	gid[lengthen]-a[-ø]	V	NF.V.PT	D	B-COM	_	_	_	_	_
+giri3	giri[foot]	N	N	D	_	_	_	_	_	_
+sze-er-ha-an	_	PN	PN	POS	_	_	_	_	_	_
+ugula	ugula[overseer][-ø]	N	N	D	_	_	_	_	_	_
+lu2-{d}szara2	Luszara[1][-ak]	PN	PN	D	_	_	_	_	_	_
+mu	mu[year]	N	N	D	_	_	_	_	_	_
+us2-sa	us[follow]-a	V	NF.V.PT	D	_	_	_	_	_	_
+an-sza-an{ki}	Anszan[1][-ø]	GN	GN.ABS	D	_	_	_	_	_	_
+ba-hul	ba-hulu[destroy][-ø]	V	MID.V.3-SG-S	D	_	_	_	_	_	_
+sze-er-ha-an	_	PN	PN	POS	_	_	_	_	_	_
+dumu	dumu[child]	N	N	D	_	_	_	_	_	_
+lu2-...	_[1][-ra]	PN	PN	D	_	_	_	_	_	_

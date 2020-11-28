@@ -1,0 +1,26 @@
+#new_text=P412122					
+FORM	SEGM	XPOSTAG	XPOSTAG	POS	?	?	?	?	?	?
+1(gesz2)	1(gesz)[sixty]	NU	NU	D	B-COUNT	_	67	cardinal	_	67
+7(disz)	7(disz)[one][-sze]	NU	NU	D	I-COUNT	*	*	*	*	*
+kusz	kusz[leather]	N	N	D	B-COM	_	_	_	_	_
+udu	udu[sheep]	N	N	D	_	_	_	_	_	_
+ba-usz2	ba-ug[die][-esz]	V	MID.V.PL.3-PL-S	D	_	_	_	_	_	_
+8(disz)	8(disz)[one]	NU	NU	D	B-COUNT	_	8	cardinal	_	8
+kusz	kusz[leather]	N	N	D	_	_	_	_	_	_
+udu	udu[sheep]	N	N	D	_	_	_	_	_	_
+szum-ma	_	PN	PN	POS	_	_	_	_	_	_
+ki	ki[place]	N	N	D	_	_	_	_	_	_
+sza-at-esz18-dar-ta	_	PN	PN.GEN.ABL	Iabcdef	_	_	_	_	_	_
+a-ga-ti-a	_	PN	PN	Ia	_	_	_	_	_	_
+szu	szu[hand][-e]	N	N.L3-NH	D	B-COM	_	_	_	_	_
+ba-ti	ba[-n]-teg[accept][-ø]	V	MID.3-SG-H-A.V.3-SG-P	D	_	_	_	_	_	_
+iti	iti[month]	N	N	D	_	_	_	_	_	_
+ezem-{d}szul-gi	Ezemszulgir[1][-'a]	MN	MN.L1	D	_	_	_	_	_	_
+mu	mu[year]	N	N	D	_	_	_	_	_	_
+...-x	_[_]	WN	RN	D	_	_	_	_	_	_
+...	_[_]	PN	N	D	_	_	_	_	_	_
+sza-at-esz18-dar	_	PN	PN	Iabcde	_	_	_	_	_	_
+dumu-munus	dumumunus[daughter]	N	N	D	_	_	_	_	_	_
+lugal	lugal[king]	N	N	D	_	_	_	_	_	_
+a-ga-ti-a	_	PN	PN	Ia	_	_	_	_	_	_
+ka-al-du-a	_	PN	PN	POS	_	_	_	_	_	_

@@ -1,0 +1,15 @@
+#new_text=P290389					
+FORM	SEGM	XPOSTAG	XPOSTAG	POS	?	?	?	?	?	?
+1(gesz2)	1(gesz)[sixty]	NU	NU	D	B-COUNT	_	61	cardinal	_	61
+1(disz)	1(disz)[one]	NU	NU	D	I-COUNT	*	*	*	*	*
+udu	udu[sheep]	N	N	D	B-COM	_	_	_	_	_
+kur-ra	kur[mountain]-ak	N	N.GEN.ABS	D	_	_	_	_	_	_
+ur-ru	_	PN	PN.GEN.ABL	Iabcdefgh	_	_	_	_	_	_
+2(u)	2(u)[ten]	NU	NU	D	B-COUNT	_	28	cardinal	_	28
+8(disz)	8(disz)[one]	NU	NU	D	I-COUNT	*	*	*	*	*
+udu	udu[sheep]	N	N	D	B-COM	_	_	_	_	_
+kur-ra	kur[mountain]-ak	N	N.GEN.ABS	D	_	_	_	_	_	_
+nig2-du10-ga-mu	_	PN	PN	Ia	_	_	_	_	_	_
+ri-ri-ga-am3	deg[collect]-a[-ø]-am[-ø]	V	NF.V.PT.ABS.COP-3-SG.ABS	D	_	_	_	_	_	_
+iti	iti[month]	N	N	D	_	_	_	_	_	_
+ezem-{d}szul-gi	Ezemszulgir[1][-'a]	MN	MN.L1	D	_	_	_	_	_	_

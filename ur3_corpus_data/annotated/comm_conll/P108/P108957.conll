@@ -1,0 +1,22 @@
+#new_text=P108957					
+FORM	SEGM	XPOSTAG	XPOSTAG	POS	B-COUNT	l	2	"liquid	*	*
+*RETOK*-capacity"	?	?	?	?	I-COUNT	l	2	"dry	sila3	2
+2(disz)	2(disz)[one]	NU	NU	D	I-COUNT	*	*	*	sila3	2
+sila3	sila[unit]	N	N	D	I-COUNT	*	*	*	*	*
+ninda	ninda[bread]	N	N	D	B-COM	_	_	_	_	_
+na-silim	Nasilim[1][-ak][-ø]	PN	PN	D	_	_	_	_	_	_
+2(disz)	2(disz)[one]	NU	NU	D	B-COUNT	_	2	cardinal	_	2
+dumu-ni	dumu[child]-ani	N	N.3-SG-H-POSS	D	_	_	_	_	_	_
+1(disz)	1(disz)[one]	NU	NU	D	B-COUNT	_	1	cardinal	_	1
+sila3-ta	sila[unit]-ta	N	N.ABL	D	_	_	_	_	_	_
+lu2	lu[person]	N	N	D	_	_	_	_	_	_
+hu-bu7{bu}-me	_	V	V	POS	_	_	_	_	_	_
+u4	ud[day]	N	N	D	_	_	_	_	_	_
+1(disz)-kam	1(disz)[one]-ak-am	NU	NU.GEN.COP-3-SG	D	B-COUNT	_	1	cardinal	_	1
+u4	ud[day]	N	N	D	_	_	_	_	_	_
+2(u)-sze3	_	NU	NU.TERM	Iab	B-COUNT	_	20	cardinal	_	20
+iti	iti[month]	N	N	D	_	_	_	_	_	_
+ezem-{d}szul-gi	Ezemszulgir[1][-'a]	MN	MN.L1	D	_	_	_	_	_	_
+u4	ud[day]	N	N	D	_	_	_	_	_	_
+1(u)	1(u)[ten]	NU	NU	D	B-COUNT	_	10	cardinal	_	10
+ba-zal-ta	_	V	MID.V.3-SG-S.ABL	Iabcdefg	_	_	_	_	_	_

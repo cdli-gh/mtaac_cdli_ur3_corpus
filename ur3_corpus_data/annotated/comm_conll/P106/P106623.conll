@@ -1,0 +1,23 @@
+#new_text=P106623					
+FORM	SEGM	XPOSTAG	XPOSTAG	POS	?	?	?	?	?	?
+2(gesz2)	2(gesz)[sixty]	NU	NU	D	B-COUNT	g	4050000.0000000005	weight	gin2	486000
+1(u)	1(u)[ten]	NU	NU	D	I-COUNT	*	*	*	*	*
+5(asz)	5(asz)[one]	NU	NU	D	I-COUNT	*	*	*	*	*
+gu2	gun[unit]	N	N	D	I-COUNT	*	*	*	*	*
+esir2	esir[bitumen]	N	N	D	B-COM	_	_	_	_	_
+gul-gul	_	V	V	POS	_	_	_	_	_	_
+1(gesz2)	1(gesz)[sixty]	NU	NU	D	B-COUNT	g	3210000.0	weight	gin2	385200
+4(u)	4(u)[ten]	NU	NU	D	I-COUNT	*	*	*	*	*
+7(asz)	7(asz)[one]	NU	NU	D	I-COUNT	*	*	*	*	*
+gu2	gun[unit]	N	N	D	I-COUNT	*	*	*	*	*
+esir2	esir[bitumen]	N	N	D	_	_	_	_	_	_
+aga3-zi	_	N	N	POS	_	_	_	_	_	_
+a-pi4-sal4{ki}-ta	Apisal[1]-ta	GN	SN.ABL	D	_	_	_	_	_	_
+giri3	giri[foot]	N	N	D	_	_	_	_	_	_
+lugal-{gesz}kiri6	Lugalkiri[1]	PN	PN	D	B-COM	_	_	_	_	_
+lugal-e-ba-an-sa6	Lugalebansa[1][-ra]	PN	PN	D	_	_	_	_	_	_
+szu	szu[hand][-e]	N	N.L3-NH	D	_	_	_	_	_	_
+ba-ti	ba[-n]-teg[accept][-ø]	V	MID.3-SG-H-A.V.3-SG-P	D	_	_	_	_	_	_
+mu	mu[year]	N	N	D	_	_	_	_	_	_
+bad3	bad[wall]	N	N	D	_	_	_	_	_	_
+ba-du3	ba-du[build][-ø]	V	MID.V.3-SG-S	D	_	_	_	_	_	_

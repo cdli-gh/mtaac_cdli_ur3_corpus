@@ -1,0 +1,21 @@
+#new_text=P118869					
+FORM	SEGM	XPOSTAG	XPOSTAG	POS	?	?	?	?	?	?
+4(disz)	4(disz)[one]	NU	NU	D	B-COUNT	_	4	cardinal	_	4
+{gi}kid	kid[mat]	N	N	D	B-COM	_	_	_	_	_
+szu2	_	V	V	POS	_	_	_	_	_	_
+ma2	ma[ship]	N	N	D	_	_	_	_	_	_
+ki	ki[place]	N	N	D	_	_	_	_	_	_
+ba-za-ta	_	V	MID.V.3-SG-S.ABL	Iabcdefg	_	_	_	_	_	_
+lugal-e-ba-an-sa6	Lugalebansa[1][-ra]	PN	PN	D	_	_	_	_	_	_
+szu	szu[hand][-e]	N	N.L3-NH	D	_	_	_	_	_	_
+ba-ti	ba[-n]-teg[accept][-ø]	V	MID.3-SG-H-A.V.3-SG-P	D	_	_	_	_	_	_
+sza3	szag[heart]	N	N	D	_	_	_	_	_	_
+bala	bala[turn][-'a]	N	N.L1	D	_	_	_	_	_	_
+giri3	giri[foot]	N	N	D	_	_	_	_	_	_
+{d}suen-il-szu	_	PN	PN	Ia	_	_	_	_	_	_
+mu	mu[year]	N	N	D	_	_	_	_	_	_
+szu-{d}suen	Szusuen[1]	PN	RN	D	_	_	_	_	_	_
+lugal-e-ba-an-sa6	Lugalebansa[1][-ra]	PN	PN	D	_	_	_	_	_	_
+dub-sar	dubsar[scribe]	N	N	D	_	_	_	_	_	_
+dumu	dumu[child]	N	N	D	_	_	_	_	_	_
+ur-{d}isztaran	Urisztaran[1]	PN	PN.GEN.ABS	D	_	_	_	_	_	_

@@ -1,0 +1,14 @@
+#new_text=P332649					
+FORM	SEGM	XPOSTAG	XPOSTAG	POS	?	?	?	?	?	?
+1(u)	1(u)[ten]	NU	NU	D	B-COUNT	_	12	cardinal	_	12
+2(disz)	2(disz)[one]	NU	NU	D	I-COUNT	*	*	*	*	*
+{gi}gur	gur[measuring_vessel]	N	N	D	B-COM	_	_	_	_	_
+in-nu-da	_	N	N.GEN.ERG	Iabcdefg	_	_	_	_	_	_
+e2-gu4-gaz-sze3	_	N	N.3-SG-H-POSS.TERM	Iabcdefg	_	_	_	_	_	_
+ki	ki[place]	N	N	D	_	_	_	_	_	_
+a-gu-ta	Agu[1][-ak]-ta	PN	PN.GEN.ABL	D	_	_	_	_	_	_
+kiszib3	kiszib[seal]	N	N	D	_	_	_	_	_	_
+lugal-he2-gal	_	PN	PN	Iabcde	_	_	_	_	_	_
+lugal-he2-gal	_	PN	PN	Iabcde	_	_	_	_	_	_
+dub-sar	dubsar[scribe]	N	N	D	_	_	_	_	_	_
+...	_[_]	PN	N	D	_	_	_	_	_	_

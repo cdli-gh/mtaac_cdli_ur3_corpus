@@ -1,0 +1,14 @@
+#new_text=P124728					
+FORM	SEGM	XPOSTAG	XPOSTAG	POS	B-COUNT	l	5	"liquid	*	*
+*RETOK*-capacity"	?	?	?	?	I-COUNT	l	5	"dry	sila3	5
+5(disz)	5(disz)[one]	NU	NU	D	I-COUNT	*	*	*	sila3	5
+sila3	sila[unit]	N	N	D	I-COUNT	*	*	*	*	*
+kasz	kasz[beer]	N	N	D	B-COM	_	_	_	_	_
+a-ra2	ara[times]	N	N	D	_	_	_	_	_	_
+1(disz)-kam	1(disz)[one]-ak-am	NU	NU.GEN.COP-3-SG	D	B-COUNT	_	1	cardinal	_	1
+ur-{d}lamma	Urlamma[1]	PN	PN	D	_	_	_	_	_	_
+mar-tu	Martu[1][-ø]	EN	EN.ABS	D	_	_	_	_	_	_
+nibru{ki}-ta	Nibru[1]-ta	SN	SN.ABL	D	_	_	_	_	_	_
+gen-na	gen[go]-a	V	NF.V.PT	D	_	_	_	_	_	_
+iti	iti[month]	N	N	D	_	_	_	_	_	_
+amar-a-a-si	Amarayasi[1][-'a]	MN	MN.L1	D	_	_	_	_	_	_

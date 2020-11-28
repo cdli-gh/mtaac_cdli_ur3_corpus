@@ -1,0 +1,22 @@
+#new_text=P111462					
+FORM	SEGM	XPOSTAG	XPOSTAG	POS	?	?	?	?	?	?
+1(u)	1(u)[ten]	NU	NU	D	B-COUNT	_	15	cardinal	_	15
+5(disz)	5(disz)[one]	NU	NU	D	I-COUNT	*	*	*	*	*
+gada	gada[flax]	N	N	D	B-COM	_	_	_	_	_
+us2	us[follow][-ø]	V	NF.V.ABS	D	_	_	_	_	_	_
+2(disz)	2(disz)[one]	NU	NU	D	B-COUNT	_	2	cardinal	_	2
+tug2	tug[textile]	N	N	D	_	_	_	_	_	_
+usz-bar	uszbar[weaver][-ak]	N	N	D	_	_	_	_	_	_
+ba-kesz2	_	V	MID.L1-SYN.V.3-SG-S	Iabcdefgh	_	_	_	_	_	_
+uri5{ki}-sze3	Urim[1]-sze	SN	SN.TERM	D	_	_	_	_	_	_
+giri3	giri[foot]	N	N	D	_	_	_	_	_	_
+lu2-{d}ba-ba6	Lubaba[1][-ak][-ak][-ø]	PN	PN	D	_	_	_	_	_	_
+dub-sar	dubsar[scribe]	N	N	D	_	_	_	_	_	_
+uri5{ki}-ma	Urim[1]-ak	SN	SN.GEN	D	_	_	_	_	_	_
+mar-tu	Martu[1][-ø]	EN	EN.ABS	D	_	_	_	_	_	_
+i3-de6	_	V	MID.V.3-SG-S	Iabcdefgh	_	_	_	_	_	_
+iti	iti[month]	N	N	D	_	_	_	_	_	_
+UR	_	MN	MN	POS	_	_	_	_	_	_
+mu	mu[year]	N	N	D	_	_	_	_	_	_
+{d}isztaran	Isztaran[1]	DN	DN	D	_	_	_	_	_	_
+|BAD3.AN|{ki}	_	SN	SN.GEN.ABS	D	_	_	_	_	_	_

@@ -1,0 +1,24 @@
+#new_text=P115046					
+FORM	SEGM	XPOSTAG	XPOSTAG	POS	?	?	?	?	?	?
+1(bur3)	1(bur)[unit]	NU	N	D	B-COUNT	m^2	64800.0	surface	gin2	108000
+GAN2	gana[field]	N	N	D	I-COUNT	*	*	*	*	*
+sza3-ku3-ge	Szakuge[1][-e]	PN	PN.ERG	D	_	_	_	_	_	_
+1(asz)	1(asz)[one]	NU	NU	D	B-COUNT	_	1	cardinal	_	1
+ma-an-szum2	Manszum[1][-ak]	PN	PN.GEN	D	_	_	_	_	_	_
+1(asz)	1(asz)[one]	NU	NU	D	B-COUNT	_	1	cardinal	_	1
+lu2-{d}igi-ma-sze3	Lu'igimasze[1]	PN	PN	D	_	_	_	_	_	_
+4(asz)	4(asz)[one]	NU	NU	D	B-COUNT	_	4	cardinal	_	4
+dumu	dumu[child]	N	N	D	_	_	_	_	_	_
+gir2-nun-ta-me	_	V	V	POS	_	_	_	_	_	_
+7(bur3)	_	NU	NU.GEN	Iabcdef	B-COUNT	m^2	453600.0	surface	gin2	756000
+GAN2	gana[field]	N	N	D	I-COUNT	*	*	*	*	*
+...	_[_]	PN	N	D	_	_	_	_	_	_
+NE	ne[unknown]	MN	MN	POS	B-COM	_	_	_	_	_
+li	_	AJ	AJ	POS	_	_	_	_	_	_
+...	_[_]	PN	N	D	_	_	_	_	_	_
+sanga	sagga[temple_administrator]	N	N	D	_	_	_	_	_	_
+{d}nansze	Nansze[1]	DN	DN	D	_	_	_	_	_	_
+mu	mu[year]	N	N	D	_	_	_	_	_	_
+en	en[priest]	N	N	D	_	_	_	_	_	_
+{d}inanna	Inanna[1][-ak]	DN	DN	D	_	_	_	_	_	_
+ba-hun	ba-hug[hire][-ø]	V	MID.V.3-SG-S	D	_	_	_	_	_	_

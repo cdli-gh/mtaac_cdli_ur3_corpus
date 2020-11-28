@@ -1,0 +1,20 @@
+#new_text=P115138					
+FORM	SEGM	XPOSTAG	XPOSTAG	POS	?	?	?	?	?	?
+1(disz)	1(disz)[one]	NU	NU	D	B-COUNT	_	1	cardinal	_	1
+id-gur2	idgurum[ladle]	N	N	D	_	_	_	_	_	_
+i3	i[oil]	N	N	D	B-COM	_	_	_	_	_
+nimgir	_	PN	PN	Iabcde	_	_	_	_	_	_
+1(disz)	1(disz)[one]	NU	NU	D	B-COUNT	_	1	cardinal	_	1
+lu2	lu[person]	N	N	D	_	_	_	_	_	_
+sar	sar[unit]	N	N	D	_	_	_	_	_	_
+2(disz)	2(disz)[one]	NU	NU	D	B-COUNT	_	2	cardinal	_	2
+muszen-du3	muszendu[bird_catcher]	N	N	D	_	_	_	_	_	_
+1(disz)	1(disz)[one]	NU	NU	D	B-COUNT	_	1	cardinal	_	1
+ga:esz8	_	N	N	Ia	_	_	_	_	_	_
+1(disz)	1(disz)[one]	NU	NU	D	B-COUNT	_	1	cardinal	_	1
+nun-ak-ak	_	PN	PN	POS	_	_	_	_	_	_
+3(disz)	3(disz)[one]	NU	NU	D	B-COUNT	_	3	cardinal	_	3
+i3-udu	i'udu[sheep_fat]	N	N	D	B-COM	_	_	_	_	_
+us2	us[follow][-ø]	V	NF.V.ABS	D	_	_	_	_	_	_
+{gesz}gu-za	guza[chair]	N	N	D	_	_	_	_	_	_
+zi-ga	zig[expend]-a	V	NF.V.PT	D	_	_	_	_	_	_

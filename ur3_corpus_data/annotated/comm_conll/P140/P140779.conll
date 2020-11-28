@@ -1,0 +1,23 @@
+#new_text=P140779					
+FORM	SEGM	XPOSTAG	XPOSTAG	POS	?	?	?	?	?	?
+1(u)	1(u)[ten]	NU	NU	D	B-COUNT	g	5000.0	weight	gin2	600
+ma-na	mana[unit]	N	N	D	I-COUNT	*	*	*	*	*
+im-babbar2	imbabbar[gypsum]	N	N	D	B-COM	_	_	_	_	_
+ba-ri2-ga	_	V	NF.V.ABS.GEN.GEN	Iabcdefg	_	_	_	_	_	_
+su-bu-de3	_	V	NEG.NF.V.PF.DAT-NH	Iabcde	_	_	_	_	_	_
+ki	ki[place]	N	N	D	_	_	_	_	_	_
+{d}szara2-kam-ta	Szarakam[1][-ak]-ta	PN	PN.GEN.ABL	D	_	_	_	_	_	_
+kiszib3	kiszib[seal]	N	N	D	_	_	_	_	_	_
+lu2-{d}nam2-an-ka	_	PN	PN	Ia	_	_	_	_	_	_
+iti	iti[month]	N	N	D	_	_	_	_	_	_
+sze-kar-ra-gal2-la	Szekaragala[1][-'a]	MN	MN.L1	D	_	_	_	_	_	_
+mu	mu[year]	N	N	D	_	_	_	_	_	_
+us2-sa	us[follow]-a	V	NF.V.PT	D	_	_	_	_	_	_
+ma2	ma[ship]	N	N	D	_	_	_	_	_	_
+{d}en-ki	Enki[1][-ak][-ø]	DN	DN.GEN.ABS	D	_	_	_	_	_	_
+ba-ab-du8	ba-b-du[caulk][-ø]	V	MID.3-SG-NH-L3.V.3-SG-S	D	_	_	_	_	_	_
+lu2-{d}nam2-an-ka	_	PN	PN	Ia	_	_	_	_	_	_
+dub-sar	dubsar[scribe]	N	N	D	_	_	_	_	_	_
+dumu	dumu[child]	N	N	D	_	_	_	_	_	_
+lu2-{d}szara2	Luszara[1][-ak]	PN	PN	D	_	_	_	_	_	_
+sa12-du5-ka	_	PN	PN	POS	_	_	_	_	_	_

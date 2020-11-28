@@ -1,0 +1,14 @@
+#new_text=P123198					
+FORM	SEGM	XPOSTAG	XPOSTAG	POS	?	?	?	?	?	?
+iti	iti[month]	N	N	D	_	_	_	_	_	_
+apin-du8-a	Apindu'a[1][-ta]	MN	MN.ABL	D	_	_	_	_	_	_
+u4	ud[day]	N	N	D	_	_	_	_	_	_
+2(u)	2(u)[ten]	NU	NU	D	B-COUNT	_	28	cardinal	_	28
+8(disz)	8(disz)[one]	NU	NU	D	I-COUNT	*	*	*	*	*
+zal-la	zal[pass]-a	V	NF.V.PT	D	_	_	_	_	_	_
+mu	mu[year]	N	N	D	_	_	_	_	_	_
+us2-sa	us[follow]-a	V	NF.V.PT	D	_	_	_	_	_	_
+ki-masz{ki}	Kimasz[1]	SN	SN.ABS	D	_	_	_	_	_	_
+ba-hul	ba-hulu[destroy][-ø]	V	MID.V.3-SG-S	D	_	_	_	_	_	_
+mu	mu[year]	N	N	D	_	_	_	_	_	_
+us2-sa-bi	us[follow]-a-bi	V	NF.V.PT.3-SG-NH-POSS	D	_	_	_	_	_	_

@@ -1,0 +1,26 @@
+#new_text=P140028					
+FORM	SEGM	XPOSTAG	XPOSTAG	POS	?	?	?	?	?	?
+1/2(disz)	1/2(disz)[one]	NU	NU	D	B-COUNT	g	250.00000000000003	weight	gin2	30.0
+ma-na	mana[unit]	N	N	D	I-COUNT	*	*	*	*	*
+ku3	kug[silver]	N	N	D	B-COM	_	_	_	_	_
+ur-{d}ba-ba6	Urbaba[1]	PN	PN	D	_	_	_	_	_	_
+5(disz)	5(disz)[one]	NU	NU	D	B-COUNT	_	0.08333333333333333	cardinal	_	0.08333333333333333
+gin2	gig[unit]	N	N	D	I-COUNT	*	*	*	*	*
+lu2-eb-gal	Lu'ebgal[1]	PN	PN	D	_	_	_	_	_	_
+ad-kup4	adKID[basket_weaver][-ak]	N	N.GEN	D	_	_	_	_	_	_
+5(disz)	5(disz)[one]	NU	NU	D	B-COUNT	_	0.08333333333333333	cardinal	_	0.08333333333333333
+gin2	gig[unit]	N	N	D	I-COUNT	*	*	*	*	*
+ur-{gesz}gigir	Urgigir[1]	PN	PN	D	B-COM	_	_	_	_	_
+unu3	_	GN	GN	POS	_	_	_	_	_	_
+3(disz)	3(disz)[one]	NU	NU	D	B-COUNT	_	0.05	cardinal	_	0.05
+gin2	gig[unit]	N	N	D	I-COUNT	*	*	*	*	*
+ur-{d}szara2	Urszara[1]	PN	PN	D	_	_	_	_	_	_
+dumu	dumu[child]	N	N	D	_	_	_	_	_	_
+lu5-lu5-ni	_	PN	PN.GEN.GEN.ABS	Iabcdef	_	_	_	_	_	_
+mu-kux(DU)	mukur[delivery][-ø]	N	N	D	_	_	_	_	_	_
+iti	iti[month]	N	N	D	_	_	_	_	_	_
+{d}dumu-zi	Dumuzi[1][-'a]	MN	MN.L1	D	_	_	_	_	_	_
+mu	mu[year]	N	N	D	_	_	_	_	_	_
+bad3	bad[wall]	N	N	D	_	_	_	_	_	_
+mar-tu	Martu[1][-ø]	EN	EN.ABS	D	_	_	_	_	_	_
+ba-du3	ba-du[build][-ø]	V	MID.V.3-SG-S	D	B-COM	_	_	_	_	_

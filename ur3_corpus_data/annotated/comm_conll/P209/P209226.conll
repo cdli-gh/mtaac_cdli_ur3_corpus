@@ -1,0 +1,22 @@
+#new_text=P209226					
+FORM	SEGM	XPOSTAG	XPOSTAG	POS	B-COUNT	l	120	"dry	*	*
+2(barig)	2(bariga)[unit]	NU	N	D	I-COUNT	*	*	*	sila3	120
+sza3-gal	szaggal[food]	N	N	D	_	_	_	_	_	_
+simug	simug[smith][-ra]	N	N.DAT-H	D	_	_	_	_	_	_
+1(barig)	1(bariga)[unit]	NU	N	D	B-COUNT	*	*	*	*	*
+sze	sze[barley]	N	N	D	I-COUNT	*	*	*	*	*
+sa10	_	V	NF.V.3-SG-NH-POSS.GEN	Iabcdef	_	_	_	_	_	_
+gi	gi[reed][-ø]	N	N	D	_	_	_	_	_	_
+in-su-su	_	PN	PN.GEN	Iabcdefgh	_	_	_	_	_	_
+*RETOK*-capacity"	?	?	?	?	B-COUNT	l	60	"dry	*	*
+1(barig)	1(bariga)[unit]	NU	N	D	I-COUNT	*	*	*	sila3	60
+lugal-gu2-du10	_	PN	PN	Ia	_	_	_	_	_	_
+*RETOK*-capacity"	?	?	?	?	B-COUNT	l	180	"dry	*	*
+3(barig)	3(bariga)[unit]	NU	N	D	I-COUNT	*	*	*	sila3	180
+sza3-gal	szaggal[food]	N	N	D	_	_	_	_	_	_
+udu	udu[sheep]	N	N	D	B-COM	_	_	_	_	_
+al-lu	_	PN	PN	Iabcde	_	_	_	_	_	_
+sze	sze[barley]	N	N	D	_	_	_	_	_	_
+bur-{d}iszkur	_	PN	PN	Iabcde	_	_	_	_	_	_
+kiszib3	kiszib[seal]	N	N	D	_	_	_	_	_	_
+nu-ra-a	Nuraya[1][-ak]	PN	PN.GEN	D	_	_	_	_	_	_

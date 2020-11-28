@@ -1,0 +1,27 @@
+#new_text=P145620					
+FORM	SEGM	XPOSTAG	XPOSTAG	POS	?	?	?	?	?	?
+1(barig)	1(bariga)[unit]	NU	N	D	B-COUNT	*	*	*	*	*
+sze	sze[barley]	N	N	D	I-COUNT	*	*	*	*	*
+lugal	lugal[king]	N	N	D	_	_	_	_	_	_
+{d}lamma-re	_	PN	PN	Iabcde	_	_	_	_	_	_
+*RETOK*-capacity"	?	?	?	?	B-COUNT	l	60	"dry	*	*
+1(barig)	1(bariga)[unit]	NU	N	D	I-COUNT	*	*	*	sila3	60
+u2-u2	_	PN	PN.GEN.ERG	D	_	_	_	_	_	_
+iti	iti[month]	N	N	D	_	_	_	_	_	_
+ezem-{d}dumu-zi	Ezemdumuzi[1][-'a]	MN	MN.L1	D	_	_	_	_	_	_
+1(u)	1(u)[ten]	NU	NU	D	B-COUNT	_	13	cardinal	_	13
+3(disz)	3(disz)[one]	NU	NU	D	I-COUNT	*	*	*	*	*
+amar	amar[calf][-ak]	N	N	D	B-COM	_	_	_	_	_
+*RETOK*-($	?	?	?	?	_	_	_	_	_	_
+*RETOK*-blank	?	?	?	?	_	_	_	_	_	_
+*RETOK*-space	?	?	?	?	_	_	_	_	_	_
+*RETOK*-$)	?	?	?	?	_	_	_	_	_	_
+sze	sze[barley]	N	N	D	_	_	_	_	_	_
+lugal	lugal[king]	N	N	D	_	_	_	_	_	_
+sze	sze[barley]	N	N	D	_	_	_	_	_	_
+amar	amar[calf][-ak]	N	N	D	_	_	_	_	_	_
+da-ba	_	PN	PN	POS	_	_	_	_	_	_
+unu3-de3-gin7	_	N	N	POS	_	_	_	_	_	_
+he2-ne-szum2-mu	_	V	MOD.FIN.3-SG-H.DAT.3-SG-NH-P.V.3-SG-A	Iab	_	_	_	_	_	_
+amar-bi	_	N	N	POS	_	_	_	_	_	_
+gu2-na-kam	_	PN	PN	Iabcdefgh	_	_	_	_	_	_

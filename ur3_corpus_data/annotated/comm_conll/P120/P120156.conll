@@ -1,0 +1,24 @@
+#new_text=P120156					
+FORM	SEGM	XPOSTAG	XPOSTAG	POS	B-COUNT	l	9	"liquid	*	*
+*RETOK*-capacity"	?	?	?	?	I-COUNT	l	9	"dry	sila3	9
+9(disz)	9(disz)[one]	NU	NU	D	I-COUNT	*	*	*	sila3	9
+sila3	sila[unit]	N	N	D	I-COUNT	*	*	*	*	*
+kasz	kasz[beer]	N	N	D	B-COM	_	_	_	_	_
+du	gin[quality_designation][-ø]	V	NF.V.ABS	D	_	_	_	_	_	_
+*RETOK*-capacity"	?	?	?	?	B-COUNT	l	6	"liquid	*	*
+*RETOK*-capacity"	?	?	?	?	I-COUNT	l	6	"dry	sila3	6
+6(disz)	6(disz)[one][-sze]	NU	NU	D	I-COUNT	*	*	*	sila3	6
+sila3	sila[unit]	N	N	D	I-COUNT	*	*	*	*	*
+zi3-gu	zidgu[flour_type]	N	N	D	_	_	_	_	_	_
+3(disz)	3(disz)[one]	NU	NU	D	B-COUNT	_	3	cardinal	_	3
+id-gur2	idgurum[ladle]	N	N	D	_	_	_	_	_	_
+i3-gesz	igesz[oil]	V	N	D	B-COM	_	_	_	_	_
+u4	ud[day]	N	N	D	_	_	_	_	_	_
+3(disz)-kam	3(disz)[one]-ak-am	NU	NU.GEN.COP-3-SG	D	B-COUNT	_	3	cardinal	_	3
+dingir-dan	_	PN	PN.GEN	Iab	_	_	_	_	_	_
+lu2	lu[person]	N	N	D	_	_	_	_	_	_
+kas4	kas[runner][-ra]	N	N.DAT-H	D	_	_	_	_	_	_
+{u2}iri-a-ta	_	N	N.GEN.ABL	Iabcdef	B-COM	_	_	_	_	_
+du-ni	du[go][-ed]-ani[-'a]	V	NF.V.PF.F.3-SG-H-POSS.L1	D	_	_	_	_	_	_
+iti	iti[month]	N	N	D	_	_	_	_	_	_
+ezem-{d}szul-gi	Ezemszulgir[1][-'a]	MN	MN.L1	D	_	_	_	_	_	_

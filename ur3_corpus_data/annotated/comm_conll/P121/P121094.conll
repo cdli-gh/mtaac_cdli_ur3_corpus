@@ -1,0 +1,12 @@
+#new_text=P121094					
+FORM	SEGM	XPOSTAG	XPOSTAG	POS	?	?	?	?	?	?
+7(disz)	7(disz)[one][-sze]	NU	NU	D	B-COUNT	_	none	unknown	_	none
+...	_[_]	PN	N	D	I-COUNT	*	*	*	*	*
+kaskal	kaskal[journey][-sze]	N	N.TERM	D	_	_	_	_	_	_
+ga-...	_	PN	PN.GEN	Iab	_	_	_	_	_	_
+ugula	ugula[overseer][-ø]	N	N	D	_	_	_	_	_	_
+igi-zi-...	_	PN	PN	Iabcdefgh	_	_	_	_	_	_
+lugal-a2-zi-da	Lugalazida[1]	PN	PN	D	_	_	_	_	_	_
+dub-sar	dubsar[scribe]	N	N	D	_	_	_	_	_	_
+dumu	dumu[child]	N	N	D	_	_	_	_	_	_
+ur-{d}en-lil2	_	PN	PN	Iabcde	_	_	_	_	_	_

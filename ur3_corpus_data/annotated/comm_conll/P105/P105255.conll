@@ -1,0 +1,8 @@
+#new_text=P105255					
+FORM	SEGM	XPOSTAG	XPOSTAG	POS	?	?	?	?	?	?
+1(u)	1(u)[ten]	NU	NU	D	B-COUNT	_	11	cardinal	_	11
+1(disz)	1(disz)[one]	NU	NU	D	I-COUNT	*	*	*	*	*
+u8	u[ewe]	N	N	D	B-COM	_	_	_	_	_
+mu-kux(DU)	mukur[delivery][-ø]	N	N	D	_	_	_	_	_	_
+{d}szara2	Szara[1][-ak]	DN	DN	D	_	_	_	_	_	_
+a-pi4-sal4{ki}	Apisal[1][-ak]	GN	FN.L1	D	_	_	_	_	_	_

@@ -1,0 +1,20 @@
+#new_text=P131320					
+FORM	SEGM	XPOSTAG	XPOSTAG	POS	?	?	?	?	?	?
+4(gesz2)	4(gesz)[sixty]	NU	NU	D	B-COUNT	_	241	cardinal	_	241
+1(disz)	1(disz)[one]	NU	NU	D	I-COUNT	*	*	*	*	*
+udu	udu[sheep]	N	N	D	B-COM	_	_	_	_	_
+5(u)	5(u)[ten]	NU	NU	D	B-COUNT	_	59	cardinal	_	59
+9(disz)	9(disz)[one]	NU	NU	D	I-COUNT	*	*	*	*	*
+masz2-gal	maszgal[billy_goat]	N	N	D	_	_	_	_	_	_
+ki	ki[place]	N	N	D	_	_	_	_	_	_
+na-lu5-ta	Nalu[1][-ak]-ta	PN	PN.GEN.ABL	D	_	_	_	_	_	_
+ka5-a-mu	Kayamu[1][-ak]	PN	PN.GEN	D	_	_	_	_	_	_
+i3-dab5	i[-n]-dab[seize][-ø]	V	FIN.3-SG-H-A.V.3-SG-P	D	_	_	_	_	_	_
+sza3	szag[heart]	N	N	D	_	_	_	_	_	_
+uri5{ki}-ma	Urim[1]-ak	SN	SN.GEN	D	_	_	_	_	_	_
+iti	iti[month]	N	N	D	_	_	_	_	_	_
+ezem-an-na	Ezemanna[1][-'a]	MN	MN.L1	D	_	_	_	_	_	_
+mu	mu[year]	N	N	D	_	_	_	_	_	_
+en	en[priest]	N	N	D	_	_	_	_	_	_
+eridu{ki}	Eridug[1][-ak][-ø]	SN	SN.GEN.ABS	D	_	_	_	_	_	_
+ba-hun	ba-hug[hire][-ø]	V	MID.V.3-SG-S	D	_	_	_	_	_	_

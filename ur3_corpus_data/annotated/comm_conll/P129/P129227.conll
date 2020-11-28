@@ -1,0 +1,27 @@
+#new_text=P129227					
+FORM	SEGM	XPOSTAG	XPOSTAG	POS	?	?	?	?	?	?
+2(gesz2)	2(gesz)[sixty]	NU	NU	D	B-COUNT	_	143	cardinal	_	143
+2(u)	2(u)[ten]	NU	NU	D	I-COUNT	*	*	*	*	*
+3(disz)	3(disz)[one]	NU	NU	D	I-COUNT	*	*	*	*	*
+u8	u[ewe]	N	N	D	B-COM	_	_	_	_	_
+3(u)	3(u)[ten]	NU	NU	D	B-COUNT	_	35	cardinal	_	35
+5(disz)	5(disz)[one]	NU	NU	D	I-COUNT	*	*	*	*	*
+kir11	kir[female_lamb]	N	N	D	_	_	_	_	_	_
+gub	_	V	NF.V.PT	Iabcdefgh	_	_	_	_	_	_
+6(disz)	6(disz)[one][-sze]	NU	NU	D	B-COUNT	_	6	cardinal	_	6
+udu	udu[sheep]	N	N	D	_	_	_	_	_	_
+5(u)	5(u)[ten]	NU	NU	D	B-COUNT	_	54	cardinal	_	54
+4(disz)	4(disz)[one]	NU	NU	D	I-COUNT	*	*	*	*	*
+sila4	sila[lamb]	N	N	D	_	_	_	_	_	_
+gub	_	V	NF.V.PT	Iabcdefgh	_	_	_	_	_	_
+2(u)	2(u)[ten]	NU	NU	D	B-COUNT	_	26	cardinal	_	26
+6(disz)	6(disz)[one][-sze]	NU	NU	D	I-COUNT	*	*	*	*	*
+ud5	uzud[goat]	N	N	D	_	_	_	_	_	_
+1(disz)	1(disz)[one]	NU	NU	D	B-COUNT	_	1	cardinal	_	1
+masz2-nita2	masznita[male_goat][-ø]	N	N.ABS	D	_	_	_	_	_	_
+udu	udu[sheep]	N	N	D	B-COM	_	_	_	_	_
+si-il-la	_	V	V	POS	_	_	_	_	_	_
+mu	mu[year]	N	N	D	_	_	_	_	_	_
+ma2	ma[ship]	N	N	D	_	_	_	_	_	_
+{d}en-ki	Enki[1][-ak][-ø]	DN	DN.GEN.ABS	D	_	_	_	_	_	_
+ba-ab-du8	ba-b-du[caulk][-ø]	V	MID.3-SG-NH-L3.V.3-SG-S	D	_	_	_	_	_	_

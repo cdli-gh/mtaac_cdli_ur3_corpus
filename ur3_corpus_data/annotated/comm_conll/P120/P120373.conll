@@ -1,0 +1,27 @@
+#new_text=P120373					
+FORM	SEGM	XPOSTAG	XPOSTAG	POS	?	?	?	?	?	?
+3(disz)	3(disz)[one]	NU	NU	D	B-COUNT	bricks	28800.0	bricks	gin2	2400.0
+1/3(disz)	1/3(disz)[one]	NU	NU	D	I-COUNT	*	*	*	*	*
+sar	sar[unit]	N	N	D	I-COUNT	*	*	*	*	*
+sahar	sahar[earth][-ø]	N	N.GEN	D	B-COM	_	_	_	_	_
+kab2-ku5	kabkul[water_installation]	N	N	D	_	_	_	_	_	_
+na-ra-am-{d}suen	Naramsuen[1][-ak]-sze]	RN	RN.GEN.TERM	D	_	_	_	_	_	_
+si-ga	sig[load]-a	N	NF.V.PT	D	_	_	_	_	_	_
+a2	a[time]	N	N	D	_	_	_	_	_	_
+lu2	lu[person]	N	N	D	_	_	_	_	_	_
+hun-ga2	hug[hire]-a	V	NF.V.PT	D	_	_	_	_	_	_
+6(disz)	6(disz)[one][-sze]	NU	NU	D	B-COUNT	_	6	cardinal	_	6
+sila3-ta	sila[unit]-ta	N	N.ABL	D	_	_	_	_	_	_
+ugula	ugula[overseer][-ø]	N	N	D	_	_	_	_	_	_
+da-a-ga	_	PN	PN	Ia	_	_	_	_	_	_
+kiszib3	kiszib[seal]	N	N	D	_	_	_	_	_	_
+lu2-{d}szara2	Luszara[1][-ak]	PN	PN	D	_	_	_	_	_	_
+mu	mu[year]	N	N	D	_	_	_	_	_	_
+ha-ar-szi{ki}	Harszi[1]	SN	SN	D	_	_	_	_	_	_
+hu-ur5-ti	_	GN	GN	POS	_	_	_	_	_	_
+ki-masz{ki}	Kimasz[1]	SN	SN.ABS	D	_	_	_	_	_	_
+ba-hul	ba-hulu[destroy][-ø]	V	MID.V.3-SG-S	D	_	_	_	_	_	_
+lu2-{d}szara2	Luszara[1][-ak]	PN	PN	D	_	_	_	_	_	_
+dub-sar	dubsar[scribe]	N	N	D	_	_	_	_	_	_
+dumu	dumu[child]	N	N	D	_	_	_	_	_	_
+iri-bar-e	Iribare[1][-ak]	PN	PN.GEN	D	_	_	_	_	_	_

@@ -1,0 +1,23 @@
+#new_text=P114533					
+FORM	SEGM	XPOSTAG	XPOSTAG	POS	?	?	?	?	?	?
+1(disz)	1(disz)[one]	NU	NU	D	B-COUNT	_	1	cardinal	_	1
+nu-banda3	nubanda[overseer][-ø]	N	N	D	_	_	_	_	_	_
+1(disz)	1(disz)[one]	NU	NU	D	B-COUNT	_	1	cardinal	_	1
+szesz-tab-ba	_	V	V	POS	_	_	_	_	_	_
+2(disz)	2(disz)[one]	NU	NU	D	B-COUNT	_	2	cardinal	_	2
+ugula	ugula[overseer][-ø]	N	N	D	_	_	_	_	_	_
+2(disz)	2(disz)[one]	NU	NU	D	B-COUNT	_	2	cardinal	_	2
+szesz-tab-ba	_	V	V	POS	_	_	_	_	_	_
+5(u)	5(u)[ten]	NU	NU	D	B-COUNT	_	56	cardinal	_	56
+6(disz)	6(disz)[one][-sze]	NU	NU	D	I-COUNT	*	*	*	*	*
+erin2	erin[people]	N	N	D	B-COM	_	_	_	_	_
+2(u)	2(u)[ten]	NU	NU	D	B-COUNT	_	25	cardinal	_	25
+5(disz)	5(disz)[one]	NU	NU	D	I-COUNT	*	*	*	*	*
+gudu4	gudug[priest]	N	N	D	_	_	_	_	_	_
+nu-banda3	nubanda[overseer][-ø]	N	N	D	_	_	_	_	_	_
+ur-mes	Urmes[1]	PN	PN	D	_	_	_	_	_	_
+e2	e[house]	N	N	D	_	_	_	_	_	_
+{d}nin-gir2-su	Ningirsu[1][-ak][-ak]	DN	DN	D	_	_	_	_	_	_
+mu	mu[year]	N	N	D	_	_	_	_	_	_
+sza-asz-ru-um{ki}	Szaszrum[1][-ø]	GN	SN.ABS	D	_	_	_	_	_	_
+ba-hul	ba-hulu[destroy][-ø]	V	MID.V.3-SG-S	D	_	_	_	_	_	_

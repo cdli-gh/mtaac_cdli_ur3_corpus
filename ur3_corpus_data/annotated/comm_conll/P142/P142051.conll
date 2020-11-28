@@ -1,0 +1,27 @@
+#new_text=P142051					
+FORM	SEGM	XPOSTAG	XPOSTAG	POS	?	?	?	?	?	?
+2(gesz2)	2(gesz)[sixty]	NU	NU	D	B-COUNT	_	144	cardinal	_	144
+2(u)	2(u)[ten]	NU	NU	D	I-COUNT	*	*	*	*	*
+4(disz)	4(disz)[one]	NU	NU	D	I-COUNT	*	*	*	*	*
+udu	udu[sheep]	N	N	D	B-COM	_	_	_	_	_
+bar-gal2	bargal[fleeced_sheep]	N	N	D	_	_	_	_	_	_
+4(disz)	4(disz)[one]	NU	NU	D	B-COUNT	_	4	cardinal	_	4
+sila4	sila[lamb]	N	N	D	_	_	_	_	_	_
+bar-gal2	bargal[fleeced_sheep]	N	N	D	_	_	_	_	_	_
+7(disz)	7(disz)[one][-sze]	NU	NU	D	B-COUNT	_	7	cardinal	_	7
+udu	udu[sheep]	N	N	D	_	_	_	_	_	_
+bar-su-ga	barsuga[without_fleece][-ø]	V	NF.V.ABS	D	_	_	_	_	_	_
+3(gesz2)	3(gesz)[sixty]	NU	NU	D	B-COUNT	_	192	cardinal	_	192
+1(u)	1(u)[ten]	NU	NU	D	I-COUNT	*	*	*	*	*
+2(disz)	2(disz)[one]	NU	NU	D	I-COUNT	*	*	*	*	*
+ud5	uzud[goat]	N	N	D	_	_	_	_	_	_
+masz2	masz[goat]	N	N	D	_	_	_	_	_	_
+hi-a	hi[mix]-a[-ø]	V	NF.V.PT	D	_	_	_	_	_	_
+ki	ki[place]	N	N	D	_	_	_	_	_	_
+kas4-ta	Kas[1][-ak]-ta	PN	PN.GEN.ABL	D	_	_	_	_	_	_
+lu2-{d}suen	Lusuen[1]	PN	PN	D	_	_	_	_	_	_
+i3-dab5	i[-n]-dab[seize][-ø]	V	FIN.3-SG-H-A.V.3-SG-P	D	_	_	_	_	_	_
+mu	mu[year]	N	N	D	_	_	_	_	_	_
+us2-sa	us[follow]-a	V	NF.V.PT	D	_	_	_	_	_	_
+ki-masz{ki}	Kimasz[1]	SN	SN.ABS	D	_	_	_	_	_	_
+ba-hul	ba-hulu[destroy][-ø]	V	MID.V.3-SG-S	D	_	_	_	_	_	_

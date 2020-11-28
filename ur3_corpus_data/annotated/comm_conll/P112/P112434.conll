@@ -1,0 +1,19 @@
+#new_text=P112434					
+FORM	SEGM	XPOSTAG	XPOSTAG	POS	?	?	?	?	?	?
+1(u)	1(u)[ten]	NU	NU	D	B-COUNT	_	19	cardinal	_	19
+9(disz)	9(disz)[one]	NU	NU	D	I-COUNT	*	*	*	*	*
+geme2	geme[female_worker]	N	N	D	_	_	_	_	_	_
+u4	ud[day]	N	N	D	_	_	_	_	_	_
+1(disz)-sze3	1(disz)[one]-sze	NU	NU.TERM	D	B-COUNT	_	1	cardinal	_	1
+a-sza3	aszag[field]	N	N	D	_	_	_	_	_	_
+la2-mah	Lamah[1]	FN	FN	D	_	_	_	_	_	_
+ab-sin2-ta	_	N	N	POS	_	_	_	_	_	_
+la-ag	_	N	N	POS	_	_	_	_	_	_
+ri-ri-ga	deg[collect]-a	V	NF.V.PT	D	_	_	_	_	_	_
+ugula	ugula[overseer][-ø]	N	N	D	_	_	_	_	_	_
+ur-{d}nin-tu	Urnintu[1][-ak]	PN	PN	D	_	_	_	_	_	_
+kiszib3	kiszib[seal]	N	N	D	_	_	_	_	_	_
+gu-u2-gu	_	PN	PN	Iabcde	_	_	_	_	_	_
+mu	mu[year]	N	N	D	_	_	_	_	_	_
+bad3	bad[wall]	N	N	D	_	_	_	_	_	_
+mar-...	_	PN	PN	POS	_	_	_	_	_	_

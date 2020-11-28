@@ -1,0 +1,15 @@
+#new_text=P356039					
+FORM	SEGM	XPOSTAG	XPOSTAG	POS	B-COUNT	l	30	"liquid	*	*
+1(disz)	1(disz)[one]	NU	NU	D	I-COUNT	*	*	*	sila3	30
+dug	dug[pot]	N	N	D	I-COUNT	*	*	*	*	*
+dida	dida[sweet_wort]	N	N	D	B-COM	_	_	_	_	_
+saga	saga[good][-ø]	V	NF.V.ABS	D	_	_	_	_	_	_
+*RETOK*-capacity"	?	?	?	?	B-COUNT	l	15	"dry	*	*
+1(ban2)	1(ban)[unit]	NU	N	D	I-COUNT	*	*	*	sila3	15
+5(disz)	5(disz)[one]	NU	NU	D	I-COUNT	*	*	*	*	*
+sila3	sila[unit]	N	N	D	I-COUNT	*	*	*	*	*
+dabin	dabin[semolina]	N	N	D	B-COM	_	_	_	_	_
+sza-ru-um-i3-li2	_	PN	PN.GEN	Iabcdefgh	_	_	_	_	_	_
+nu-banda3	nubanda[overseer][-ø]	N	N	D	_	_	_	_	_	_
+iti	iti[month]	N	N	D	_	_	_	_	_	_
+ezem-{d}szul-gi	Ezemszulgir[1][-'a]	MN	MN.L1	D	_	_	_	_	_	_

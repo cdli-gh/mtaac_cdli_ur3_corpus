@@ -1,0 +1,25 @@
+#new_text=P290648					
+FORM	SEGM	XPOSTAG	XPOSTAG	POS	?	?	?	?	?	?
+1(disz)	1(disz)[one]	NU	NU	D	B-COUNT	_	1	cardinal	_	1
+gurusz	gurusz[male]	N	N	D	B-COM	_	_	_	_	_
+nagar	nagar[carpenter]	N	N	D	_	_	_	_	_	_
+u4	ud[day]	N	N	D	_	_	_	_	_	_
+1(u)	1(u)[ten]	NU	NU	D	B-COUNT	_	11	cardinal	_	11
+1(disz)-sze3	1(disz)[one]-sze	NU	NU.TERM	D	I-COUNT	*	*	*	*	*
+{gesz}apin	apin[plow]	N	N	D	B-COM	_	_	_	_	_
+{gesz}ig	ig[door]	N	N	D	_	_	_	_	_	_
+nibru{ki}-ta	Nibru[1]-ta	SN	SN.ABL	D	_	_	_	_	_	_
+umma{ki}-sze3	_	SN	SN.GEN.TERM	Iabcd	_	_	_	_	_	_
+de6-a	de[bring]-a	V	NF.V.PT	D	_	_	_	_	_	_
+ki	ki[place]	N	N	D	_	_	_	_	_	_
+a-gu-ta	Agu[1][-ak]-ta	PN	PN.GEN.ABL	D	_	_	_	_	_	_
+kiszib3	kiszib[seal]	N	N	D	_	_	_	_	_	_
+ur-{d}szul-pa-e3	Urszulpa'e[1]	PN	PN	D	_	_	_	_	_	_
+mu	mu[year]	N	N	D	_	_	_	_	_	_
+en	en[priest]	N	N	D	_	_	_	_	_	_
+ga-esz{ki}	Ga'esz[1][-ak][-ø]	SN	SN.GEN.ABS	D	_	_	_	_	_	_
+ba-hun	ba-hug[hire][-ø]	V	MID.V.3-SG-S	D	_	_	_	_	_	_
+ur-{d}szul-pa-e3	Urszulpa'e[1]	PN	PN	D	_	_	_	_	_	_
+dub-sar	dubsar[scribe]	N	N	D	_	_	_	_	_	_
+dumu	dumu[child]	N	N	D	_	_	_	_	_	_
+lugal-ku3-ga-ni	Lugalkugani[1][-ak]	PN	PN.GEN	D	_	_	_	_	_	_

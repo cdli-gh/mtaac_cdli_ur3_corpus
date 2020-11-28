@@ -1,0 +1,25 @@
+#new_text=P132376					
+FORM	SEGM	XPOSTAG	XPOSTAG	POS	?	?	?	?	?	?
+4(u)	4(u)[ten]	NU	NU	D	B-COUNT	g	20000.0	weight	gin2	2400
+ma-na	mana[unit]	N	N	D	I-COUNT	*	*	*	*	*
+siki	siki[wool][-'a]	N	N	D	B-COM	_	_	_	_	_
+gir2-gul	_	V	V	POS	_	_	_	_	_	_
+nig2-gu3-de2-a	_	N	N	Ia	_	_	_	_	_	_
+ki-a-nag-sze3	_	N	N	POS	_	_	_	_	_	_
+e2	e[house]	N	N	D	_	_	_	_	_	_
+ur-dun-ta	_	PN	PN.GEN.ABL	Iabcdef	_	_	_	_	_	_
+ki	ki[place]	N	N	D	_	_	_	_	_	_
+lu2-inim-nig2-sa6-ga-ta	_	PN	PN	POS	_	_	_	_	_	_
+kiszib3	kiszib[seal]	N	N	D	_	_	_	_	_	_
+lu2-sa6-ga	_	PN	PN	Iabcde	_	_	_	_	_	_
+lu2-x	_	PN	PN.DAT-H	Iab	_	_	_	_	_	_
+iti	iti[month]	N	N	D	_	_	_	_	_	_
+munu4-gu7	Munugu[1][-'a]	MN	MN.L1	D	_	_	_	_	_	_
+mu	mu[year]	N	N	D	_	_	_	_	_	_
+e2	e[house]	N	N	D	_	_	_	_	_	_
+{d}szara2	Szara[1][-ak]	DN	DN	D	_	_	_	_	_	_
+ba-du3	ba-du[build][-ø]	V	MID.V.3-SG-S	D	_	_	_	_	_	_
+lu2-sa6-ga	_	PN	PN	Iabcde	_	_	_	_	_	_
+dumu	dumu[child]	N	N	D	_	_	_	_	_	_
+nig2-{d}ba-ba6	Nigbaba[1][-e]	PN	PN.ERG	D	_	_	_	_	_	_
+aszgab	aszgab[leatherworker]	N	N	D	_	_	_	_	_	_

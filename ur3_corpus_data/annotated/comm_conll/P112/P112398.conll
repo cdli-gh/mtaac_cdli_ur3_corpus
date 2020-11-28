@@ -1,0 +1,26 @@
+#new_text=P112398					
+FORM	SEGM	XPOSTAG	XPOSTAG	POS	?	?	?	?	?	?
+4(disz)	4(disz)[one]	NU	NU	D	B-COUNT	g	2000.0000000000002	weight	gin2	240
+ma-na	mana[unit]	N	N	D	I-COUNT	*	*	*	*	*
+siki	siki[wool][-'a]	N	N	D	B-COM	_	_	_	_	_
+mu	mu[year]	N	N	D	_	_	_	_	_	_
+ra-UD	_	PN	PN	POS	_	_	_	_	_	_
+siki	siki[wool][-'a]	N	N	D	_	_	_	_	_	_
+gaba-a	_	N	N.GEN.L1	Iabcdefg	_	_	_	_	_	_
+x	_[_]	N	N	D	_	_	_	_	_	_
+lu2	lu[person]	N	N	D	_	_	_	_	_	_
+3(disz)-kam	3(disz)[one]-ak-am	NU	NU.GEN.COP-3-SG	D	B-COUNT	_	3	cardinal	_	3
+us2	us[follow][-ø]	V	NF.V.ABS	D	B-COM	_	_	_	_	_
+szar3	szar[cloth_designation][-ø]	V	NF.V.ABS	D	_	_	_	_	_	_
+ki	ki[place]	N	N	D	_	_	_	_	_	_
+szu-ma-ma	Szumama[1][-e]	PN	PN.DAT-H	D	_	_	_	_	_	_
+te	_	PN	PN	POS	_	_	_	_	_	_
+puzur4-i3-li2	Puzurili[1][-ra]	PN	PN	D	_	_	_	_	_	_
+szu	szu[hand][-e]	N	N.L3-NH	D	_	_	_	_	_	_
+ba-ti	ba[-n]-teg[accept][-ø]	V	MID.3-SG-H-A.V.3-SG-P	D	_	_	_	_	_	_
+iti	iti[month]	N	N	D	_	_	_	_	_	_
+sig4-{gesz}i3-szub-ba-gar	Sigiszubbagar[1][-'a]	MN	MN.L1	D	_	_	_	_	_	_
+mu	mu[year]	N	N	D	_	_	_	_	_	_
+en-unu6-gal	Enunugal[1]	PN	PN	D	_	_	_	_	_	_
+{d}inanna	Inanna[1][-ak]	DN	DN	D	_	_	_	_	_	_
+ba-hun	ba-hug[hire][-ø]	V	MID.V.3-SG-S	D	_	_	_	_	_	_

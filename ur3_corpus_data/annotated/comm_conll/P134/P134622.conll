@@ -1,0 +1,23 @@
+#new_text=P134622					
+FORM	SEGM	XPOSTAG	XPOSTAG	POS	?	?	?	?	?	?
+1(gesz2)	1(gesz)[sixty]	NU	NU	D	B-COUNT	_	64	cardinal	_	64
+4(asz)	4(asz)[one]	NU	NU	D	I-COUNT	*	*	*	*	*
+isz-tum	_	N	N	POS	_	_	_	_	_	_
+gur	gur[unit]	N	N	D	_	_	_	_	_	_
+sig4	szeg[brick]	N	N	D	_	_	_	_	_	_
+ur5-sze3	urra[loan]-sze	PN	N.TERM	D	_	_	_	_	_	_
+ki	ki[place]	N	N	D	_	_	_	_	_	_
+sila4-sa6-ga-ta	_	PN	PN.GEN	Iabc	_	_	_	_	_	_
+ur-ba-ba	_	PN	PN	Ia	_	_	_	_	_	_
+ugula	ugula[overseer][-ø]	N	N	D	_	_	_	_	_	_
+szu	szu[hand][-e]	N	N.L3-NH	D	B-COM	_	_	_	_	_
+ba-ti	ba[-n]-teg[accept][-ø]	V	MID.3-SG-H-A.V.3-SG-P	D	_	_	_	_	_	_
+iti	iti[month]	N	N	D	_	_	_	_	_	_
+szu-numun-a	_	MN	MN.L1	Iabcdefgh	_	_	_	_	_	_
+mu	mu[year]	N	N	D	_	_	_	_	_	_
+{gesz}gu-za-mah	_	N	N.3-SG-H-POSS.ABS	Iabcdefg	_	_	_	_	_	_
+{d}en-lil2-la2	Enlil[1][-ak][-ø]	DN	DN.GEN	D	_	_	_	_	_	_
+ba-dim2	ba-dim[create][-ø]	V	MID.V.3-SG-S	D	_	_	_	_	_	_
+ur-ba-ba	_	PN	PN	Ia	_	_	_	_	_	_
+dumu	dumu[child]	N	N	D	_	_	_	_	_	_
+ur-...	_[1][-ak]	PN	PN.GEN.ABS	D	_	_	_	_	_	_

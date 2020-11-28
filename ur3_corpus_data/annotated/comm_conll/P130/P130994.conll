@@ -1,0 +1,23 @@
+#new_text=P130994					
+FORM	SEGM	XPOSTAG	XPOSTAG	POS	B-COUNT	l	650	"dry	*	*
+2(asz)	2(asz)[one]	NU	NU	D	I-COUNT	*	*	*	sila3	650
+5(ban2)	5(ban)[unit]	NU	N	D	I-COUNT	*	*	*	*	*
+zi3-gu	zidgu[flour_type]	N	N	D	B-COM	_	_	_	_	_
+*RETOK*-capacity"	?	?	?	?	B-COUNT	l	1300	"dry	*	*
+4(asz)	4(asz)[one]	NU	NU	D	I-COUNT	*	*	*	sila3	1300
+1(barig)	1(bariga)[unit]	NU	N	D	I-COUNT	*	*	*	*	*
+4(ban2)	4(ban)[unit]	NU	N	D	I-COUNT	*	*	*	*	*
+dabin	dabin[semolina]	N	N	D	_	_	_	_	_	_
+sa2-du11	sadug[offerings]	N	N	D	_	_	_	_	_	_
+ensi2	ensik[ruler]	N	N	D	_	_	_	_	_	_
+*RETOK*-capacity"	?	?	?	?	B-COUNT	l	200	"dry	*	*
+3(barig)	3(bariga)[unit]	NU	N	D	I-COUNT	*	*	*	sila3	200
+2(ban2)	2(ban)[unit]	NU	N	D	I-COUNT	*	*	*	*	*
+zi3-gu	zidgu[flour_type]	N	N	D	B-COM	_	_	_	_	_
+*RETOK*-capacity"	?	?	?	?	B-COUNT	l	800	"dry	*	*
+2(asz)	2(asz)[one]	NU	NU	D	I-COUNT	*	*	*	sila3	800
+3(barig)	3(bariga)[unit]	NU	N	D	I-COUNT	*	*	*	*	*
+2(ban2)	2(ban)[unit]	NU	N	D	I-COUNT	*	*	*	*	*
+dabin	dabin[semolina]	N	N	D	_	_	_	_	_	_
+sa2-du11	sadug[offerings]	N	N	D	_	_	_	_	_	_
+nin-ga2	Ninga[1][-ak]	PN	PN.GEN	D	_	_	_	_	_	_

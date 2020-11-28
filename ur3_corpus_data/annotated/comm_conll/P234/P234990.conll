@@ -1,0 +1,20 @@
+#new_text=P234990					
+FORM	SEGM	XPOSTAG	XPOSTAG	POS	?	?	?	?	?	?
+1(disz)	1(disz)[one]	NU	NU	D	B-COUNT	_	1	cardinal	_	1
+gurusz	gurusz[male]	N	N	D	B-COM	_	_	_	_	_
+u4	ud[day]	N	N	D	_	_	_	_	_	_
+1(u)	1(u)[ten]	NU	NU	D	B-COUNT	_	12	cardinal	_	12
+2(disz)-sze3	2(disz)[one]-sze	NU	NU.TERM	D	I-COUNT	*	*	*	*	*
+uri5{ki}-ta	_	SN	SN.ABL	Iabcd	_	_	_	_	_	_
+umma{ki}-me	Umma[1][-ak][-ø]-mesz	SN	SN.GEN.ABS.COP-3-PL	D	_	_	_	_	_	_
+na4	_	FN	FN	POS	B-COM	_	_	_	_	_
+de6-a	de[bring]-a	V	NF.V.PT	D	_	_	_	_	_	_
+ugula	ugula[overseer][-ø]	N	N	D	_	_	_	_	_	_
+inim-{d}szara2	Inimszara[1][-ak][-ra]	PN	PN	D	_	_	_	_	_	_
+mu	mu[year]	N	N	D	_	_	_	_	_	_
+si-ma-num2{ki}	Simanum[1][-ø]	GN	SN.ABS	D	_	_	_	_	_	_
+ba-hul	ba-hulu[destroy][-ø]	V	MID.V.3-SG-S	D	_	_	_	_	_	_
+...	_[_]	PN	N	D	_	_	_	_	_	_
+dub-sar	dubsar[scribe]	N	N	D	_	_	_	_	_	_
+dumu	dumu[child]	N	N	D	_	_	_	_	_	_
+lugal-ku3-ga	_	PN	PN.GEN	Iab	_	_	_	_	_	_

@@ -1,0 +1,23 @@
+#new_text=P111901					
+FORM	SEGM	XPOSTAG	XPOSTAG	POS	?	?	?	?	?	?
+2(gesz'u)	2(gesz'u)[six_hundred]	NU	NU	D	B-COUNT	_	1235	cardinal	_	1235
+3(u)	3(u)[ten]	NU	NU	D	I-COUNT	*	*	*	*	*
+5(disz)	5(disz)[one]	NU	NU	D	I-COUNT	*	*	*	*	*
+ad7	_	N	N	POS	_	_	_	_	_	_
+udu	udu[sheep]	N	N	D	B-COM	_	_	_	_	_
+hi-a	hi[mix]-a[-ø]	V	NF.V.PT	D	_	_	_	_	_	_
+ki	ki[place]	N	N	D	_	_	_	_	_	_
+tu-ra-a-ta	_	PN	PN.GEN.GEN.ABL	Iabcdef	_	_	_	_	_	_
+erin2-e	erin[people]-e	N	N.ERG	D	_	_	_	_	_	_
+szu	szu[hand][-e]	N	N.L3-NH	D	_	_	_	_	_	_
+ba-ti	ba[-n]-teg[accept][-ø]	V	MID.3-SG-H-A.V.3-SG-P	D	_	_	_	_	_	_
+giri3	giri[foot]	N	N	D	_	_	_	_	_	_
+lu2-{d}nanna	Lunanna[1]	PN	PN	D	_	_	_	_	_	_
+sza3	szag[heart]	N	N	D	_	_	_	_	_	_
+nim-zi2-um{ki}	_	GN	GN	POS	_	_	_	_	_	_
+iti	iti[month]	N	N	D	_	_	_	_	_	_
+ezem-{d}szul-gi	Ezemszulgir[1][-'a]	MN	MN.L1	D	_	_	_	_	_	_
+mu	mu[year]	N	N	D	_	_	_	_	_	_
+en	en[priest]	N	N	D	_	_	_	_	_	_
+{d}nanna	Nanna[1][-ak]	DN	DN	D	_	_	_	_	_	_
+ba-hun-ga2	ba-hug[hire][-ø]	V	MID.V.3-SG-S	D	_	_	_	_	_	_

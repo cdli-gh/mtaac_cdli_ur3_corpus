@@ -1,0 +1,21 @@
+#new_text=P113560					
+FORM	SEGM	XPOSTAG	XPOSTAG	POS	B-COUNT	l	0.0005555555555555556	"dry	*	*
+6(asz)	6(asz)[one]	NU	NU	D	I-COUNT	*	*	*	sila3	0.0005555555555555556
+sze	sze[barley]	N	N	D	I-COUNT	*	*	*	*	*
+gur	gur[unit]	N	N	D	I-COUNT	*	*	*	*	*
+ki	ki[place]	N	N	D	B-COM	_	_	_	_	_
+ka5-a-mu-ta	_	PN	PN.GEN.ABL	Iab	_	_	_	_	_	_
+kiszib3	kiszib[seal]	N	N	D	_	_	_	_	_	_
+lugal-dur2-du10	_	PN	PN	Ia	_	_	_	_	_	_
+giri3	giri[foot]	N	N	D	_	_	_	_	_	_
+en-ne2-lu	_	PN	PN	POS	_	_	_	_	_	_
+mu	mu[year]	N	N	D	_	_	_	_	_	_
+e2	e[house]	N	N	D	_	_	_	_	_	_
+{d}szara2	Szara[1][-ak]	DN	DN	D	_	_	_	_	_	_
+ba-du3	ba-du[build][-ø]	V	MID.V.3-SG-S	D	_	_	_	_	_	_
+lugal-dur2-du10	_	PN	PN	Ia	_	_	_	_	_	_
+dub-sar	dubsar[scribe]	N	N	D	_	_	_	_	_	_
+dumu	dumu[child]	N	N	D	_	_	_	_	_	_
+ma-ni	_	N	N.3-SG-H-POSS	Iabcde	_	_	_	_	_	_
+sagi	sagi[cup_bearer][-ø]	N	N	D	_	_	_	_	_	_
+{d}gu3-de2-a	_	DN	DN	Iabcde	_	_	_	_	_	_

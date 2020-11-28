@@ -1,0 +1,17 @@
+#new_text=P136081					
+FORM	SEGM	XPOSTAG	XPOSTAG	POS	?	?	?	?	?	?
+1(disz)	1(disz)[one]	NU	NU	D	B-COUNT	_	0.016666666666666666	cardinal	_	0.016666666666666666
+gin2	gig[unit]	N	N	D	I-COUNT	*	*	*	*	*
+ku3	kug[silver]	N	N	D	B-COM	_	_	_	_	_
+ku6	kud[fish]	N	N	D	_	_	_	_	_	_
+mun	mun[salt]	N	N	D	_	_	_	_	_	_
+ki	ki[place]	N	N	D	_	_	_	_	_	_
+lugal-nir	Lugalnir[1][-ak][-ta]	PN	PN	D	_	_	_	_	_	_
+szu-nir	szunir[emblem][-sze]	N	N	D	_	_	_	_	_	_
+gu2-edin-na	Gu'edina[1][-ak][-'a]	SN	SN.GEN.L1	D	_	_	_	_	_	_
+giri3	giri[foot]	N	N	D	_	_	_	_	_	_
+ur-{d}szul-pa-e3	Urszulpa'e[1]	PN	PN	D	_	_	_	_	_	_
+ku3-dim2	kugdim[smith]	N	N	D	_	_	_	_	_	_
+mu	mu[year]	N	N	D	_	_	_	_	_	_
+{d}szu-{d}suen	Szusuen[1]	RN	RN	D	_	_	_	_	_	_
+lugal	lugal[king]	N	N	D	_	_	_	_	_	_

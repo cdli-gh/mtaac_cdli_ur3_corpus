@@ -1,0 +1,22 @@
+#new_text=P324336					
+FORM	SEGM	XPOSTAG	XPOSTAG	POS	?	?	?	?	?	?
+2(gesz2)	2(gesz)[sixty]	NU	NU	D	B-COUNT	_	120	cardinal	_	120
+pa	pa[branch]	N	N.ABS	D	_	_	_	_	_	_
+{gesz}kin2	_	N	N	Ia	B-COM	_	_	_	_	_
+{gesz}kiri6	kiri[orchard][-'a][-ø]	N	N	D	_	_	_	_	_	_
+me-{d}isztaran	Me'isztaran[1]	PN	PN	D	_	_	_	_	_	_
+gar-sza-an-na{ki}	_	SN	SN.GEN	Ia	_	_	_	_	_	_
+szu-esz18-dar	Szu'eszdar[1][-ak]	PN	PN	D	_	_	_	_	_	_
+lu2	lu[person]	N	N	D	_	_	_	_	_	_
+kin-gi4-a-lugal	kiggia[messenger][-ra]	N	N.DAT-H	D	_	_	_	_	_	_
+in-tar	_	V	V	POS	_	_	_	_	_	_
+iti	iti[month]	N	N	D	_	_	_	_	_	_
+ezem-{d}nin-a-zu	Ezemninazu[1][-'a]	MN	MN.L1	D	_	_	_	_	_	_
+mu	mu[year]	N	N	D	_	_	_	_	_	_
+{d}i-bi2-{d}suen	Ibbisuen[1]	RN	RN	D	_	_	_	_	_	_
+lugal	lugal[king]	N	N	D	_	_	_	_	_	_
+szu-esz18-dar	Szu'eszdar[1][-ak]	PN	PN	D	_	_	_	_	_	_
+sukkal	sukkal[secretary][-ak][-ra]	N	N	D	_	_	_	_	_	_
+lugal	lugal[king]	N	N	D	_	_	_	_	_	_
+dumu	dumu[child]	N	N	D	_	_	_	_	_	_
+i3-li2-mi-ti	_	PN	PN.DAT-H	Iab	_	_	_	_	_	_

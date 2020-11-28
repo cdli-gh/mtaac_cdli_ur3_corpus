@@ -1,0 +1,21 @@
+#new_text=P339730					
+FORM	SEGM	XPOSTAG	XPOSTAG	POS	?	?	?	?	?	?
+a-hu-ba-qar	_	PN	PN	Ia	_	_	_	_	_	_
+dumu	dumu[child]	N	N	D	_	_	_	_	_	_
+a-bu-du10	_	PN	PN	D	_	_	_	_	_	_
+2(disz)	2(disz)[one]	NU	NU	D	B-COUNT	_	0.03333333333333333	cardinal	_	0.03333333333333333
+gin2	gig[unit]	N	N	D	I-COUNT	*	*	*	*	*
+ku3-babbar-sze3	_	N	N.TERM	Iabcde	B-COM	_	_	_	_	_
+a-bu-du10-sze3	_	PN	PN	Iabcdefgh	_	_	_	_	_	_
+szesz-kal-la	Szeszkala[1][-ra]	PN	PN	D	_	_	_	_	_	_
+in-szi-sa10	i-nn-szi[-n]-sa[pay_for][-ø][-a]	V	FIN.3-SG-H.TERM.3-SG-H-A.V.3-SG-P.SUB	D	_	_	_	_	_	_
+puzur4-{d}pirig3	_	PN	PN	Iabcde	_	_	_	_	_	_
+lu2	lu[person]	N	N	D	_	_	_	_	_	_
+szutum2-ma	_	V	V	POS	_	_	_	_	_	_
+dumu	dumu[child]	N	N	D	_	_	_	_	_	_
+pa5-tibira{ki}	_	GN	GN	POS	_	_	_	_	_	_
+mu	mu[year]	N	N	D	_	_	_	_	_	_
+{d}amar-{d}suen	Amarsuen[1]	RN	RN	D	_	_	_	_	_	_
+lugal-e	lugal[king]-e	N	N.ERG	D	_	_	_	_	_	_
+ur-bi2-lum{ki}	Urbilum[1][-ø]	GN	SN.ABS	D	_	_	_	_	_	_
+mu-hul	mu[-n]-hulu[destroy][-ø]	V	VEN.3-SG-H-A.V.3-SG-P	D	_	_	_	_	_	_

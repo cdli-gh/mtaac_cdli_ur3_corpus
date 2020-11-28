@@ -1,0 +1,19 @@
+#new_text=P116942					
+FORM	SEGM	XPOSTAG	XPOSTAG	POS	B-COUNT	l	995	"dry	*	*
+3(asz)	3(asz)[one]	NU	NU	D	I-COUNT	*	*	*	sila3	995
+1(barig)	1(bariga)[unit]	NU	N	D	I-COUNT	*	*	*	*	*
+3(ban2)	3(ban)[unit]	NU	N	D	I-COUNT	*	*	*	*	*
+5(disz)	5(disz)[one]	NU	NU	D	I-COUNT	*	*	*	*	*
+sila3	sila[unit]	N	N	D	I-COUNT	*	*	*	*	*
+sze	sze[barley]	N	N	D	I-COUNT	*	*	*	*	*
+gur	gur[unit]	N	N	D	I-COUNT	*	*	*	*	*
+sza3-gal	szaggal[food]	N	N	D	_	_	_	_	_	_
+udu	udu[sheep]	N	N	D	B-COM	_	_	_	_	_
+niga	niga[fattened][-ø]	V	NF.V.ABS	D	_	_	_	_	_	_
+kiszib3	kiszib[seal]	N	N	D	_	_	_	_	_	_
+nu-ra-a	Nuraya[1][-ak]	PN	PN.GEN	D	_	_	_	_	_	_
+a-lu5-lu5	Alulu[1][-ak]	PN	PN.GEN	D	_	_	_	_	_	_
+iti	iti[month]	N	N	D	_	_	_	_	_	_
+pa4-u2-e	Pa'u'e[1][-'a]	MN	MN.L1	D	_	_	_	_	_	_
+mu	mu[year]	N	N	D	_	_	_	_	_	_
+hu-uh2-nu-ri{ki}	Huhnuri[1][-ø]	GN	SN.ABS	D	_	_	_	_	_	_

@@ -1,0 +1,27 @@
+#new_text=P454195					
+FORM	SEGM	XPOSTAG	XPOSTAG	POS	?	?	?	?	?	?
+la2-ia3	la'u[arrears]	N	N	D	_	_	_	_	_	_
+6(gesz2)	6(gesz)[sixty]	NU	NU	D	B-COUNT	_	383	cardinal	_	383
+2(u)	2(u)[ten]	NU	NU	D	I-COUNT	*	*	*	*	*
+3(disz)	3(disz)[one]	NU	NU	D	I-COUNT	*	*	*	*	*
+u8	u[ewe]	N	N	D	B-COM	_	_	_	_	_
+6(gesz2)	6(gesz)[sixty]	NU	NU	D	B-COUNT	_	409	cardinal	_	409
+4(u)	4(u)[ten]	NU	NU	D	I-COUNT	*	*	*	*	*
+9(disz)	9(disz)[one]	NU	NU	D	I-COUNT	*	*	*	*	*
+udu-nita2	udunita[ram]	N	N	D	_	_	_	_	_	_
+7(gesz2)	7(gesz)[sixty]	NU	NU	D	B-COUNT	_	420	cardinal	_	420
+masz2-nita2	masznita[male_goat][-ø]	N	N.ABS	D	_	_	_	_	_	_
+la2-ia3	la'u[arrears]	N	N	D	_	_	_	_	_	_
+sipa	sipa[shepherd]	N	N	D	_	_	_	_	_	_
+udu	udu[sheep]	N	N	D	B-COM	_	_	_	_	_
+eme-gi-ra-ke4-ne	_	N	N.GEN.PL	Iabcde	_	_	_	_	_	_
+nig2-szu	_	N	N	POS	_	_	_	_	_	_
+ur-mes	Urmes[1]	PN	PN	D	_	_	_	_	_	_
+{d}szul-gi	Szulgir[1]	RN	RN	D	_	_	_	_	_	_
+nita	nita[male]	N	N	D	_	_	_	_	_	_
+kal-ga	kalag[strong]-a	V	NF.V.SUB	D	_	_	_	_	_	_
+lugal	lugal[king]	N	N	D	_	_	_	_	_	_
+uri5-ma{ki}	Urim[1][-ak][-e]	GN	SN.GEN.ERG	D	_	_	_	_	_	_
+...	_[_]	PN	N	D	_	_	_	_	_	_
+...	_[_]	PN	N	D	_	_	_	_	_	_
+...	_[_]	PN	N	D	_	_	_	_	_	_

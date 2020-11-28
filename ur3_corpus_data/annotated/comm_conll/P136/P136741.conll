@@ -1,0 +1,21 @@
+#new_text=P136741					
+FORM	SEGM	XPOSTAG	XPOSTAG	POS	?	?	?	?	?	?
+1(gesz'u)	1(gesz'u)[six_hundred]	NU	NU	D	B-COUNT	_	1098	cardinal	_	1098
+8(gesz2)	8(gesz2)[sixty]	NU	NU	D	I-COUNT	*	*	*	*	*
+1(u)	1(u)[ten]	NU	NU	D	I-COUNT	*	*	*	*	*
+8(disz)	8(disz)[one]	NU	NU	D	I-COUNT	*	*	*	*	*
+za	za[unknown]	V	N	D	B-COM	_	_	_	_	_
+...	_[_]	PN	N	D	_	_	_	_	_	_
+gug	_	N	N	Ia	_	_	_	_	_	_
+x	_[_]	N	N	D	_	_	_	_	_	_
+2(disz)	2(disz)[one]	NU	NU	D	B-COUNT	_	0.03333333333333333	cardinal	_	0.03333333333333333
+gin2	gig[unit]	N	N	D	I-COUNT	*	*	*	*	*
+{na4}gug	_	N	N	Ia	B-COM	_	_	_	_	_
+za3	_	N	N	Ia	_	_	_	_	_	_
+gaz-bi	_	N	N.3-SG-NH-POSS.ABS	Iabcde	_	_	_	_	_	_
+usz-bar	uszbar[weaver][-ak]	N	N	D	_	_	_	_	_	_
+nam-dux(GIN2)-la2	_	V	V	POS	_	_	_	_	_	_
+mu	mu[year]	N	N	D	_	_	_	_	_	_
+x	_[_]	N	N	D	_	_	_	_	_	_
+x	_[_]	N	N	D	_	_	_	_	_	_
+x	_[_]	N	N	D	_	_	_	_	_	_

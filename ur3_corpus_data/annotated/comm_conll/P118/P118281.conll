@@ -1,0 +1,19 @@
+#new_text=P118281					
+FORM	SEGM	XPOSTAG	XPOSTAG	POS	?	?	?	?	?	?
+3(bur3)	3(bur)[unit]	NU	N	D	B-COUNT	m^2	194400.0	surface	gin2	324000
+GAN2	gana[field]	N	N	D	I-COUNT	*	*	*	*	*
+bar	bar[unknown]	N	N.ABS	D	B-COM	_	_	_	_	_
+*RETOK*-capacity"	?	?	?	?	B-COUNT	l	620	"dry	*	*
+2(asz)	2(asz)[one]	NU	NU	D	I-COUNT	*	*	*	sila3	620
+2(ban2)	2(ban)[unit]	NU	N	D	I-COUNT	*	*	*	*	*
+ki-zi	_	PN	PN	POS	_	_	_	_	_	_
+7(bur3)	_	NU	NU.GEN	Iabcdef	B-COUNT	m^2	475200.0	surface	gin2	792000
+1(esze3)	1(esze)[unit]	NU	N	D	I-COUNT	*	*	*	*	*
+GAN2	gana[field]	N	N	D	I-COUNT	*	*	*	*	*
+sza3-te	_	V	V	POS	_	_	_	_	_	_
+szunigin	szunigin[total]	N	N	D	_	_	_	_	_	_
+1(bur'u)	1(bur'u)[unit]	NU	N	D	B-COUNT	m^2	662400.0	surface	gin2	1104000
+4(iku)	4(iku)[unit]	NU	N	D	I-COUNT	*	*	*	*	*
+GAN2	gana[field]	N	N	D	I-COUNT	*	*	*	*	*
+a-sza3	aszag[field]	N	N	D	_	_	_	_	_	_
+gu4-suhub2	Gusuhub[1][-ak][-sze]	N	FN	D	_	_	_	_	_	_

@@ -1,0 +1,27 @@
+#new_text=P500254					
+FORM	SEGM	XPOSTAG	XPOSTAG	POS	B-COUNT	l	157779	"dry	*	*
+8(gesz2)	8(gesz2)[sixty]	NU	NU	D	I-COUNT	*	*	*	sila3	157779
+4(u)	4(u)[ten]	NU	NU	D	I-COUNT	*	*	*	*	*
+5(asz)	5(asz)[one]	NU	NU	D	I-COUNT	*	*	*	*	*
+4(barig)	4(bariga)[unit]	NU	N	D	I-COUNT	*	*	*	*	*
+4(ban2)	4(ban)[unit]	NU	N	D	I-COUNT	*	*	*	*	*
+la2	la[hang][-ø]	V	NF.V.ABS	D	I-COUNT	*	*	*	*	*
+1(disz)	1(disz)[one]	NU	NU	D	I-COUNT	*	*	*	*	*
+sila3	sila[unit]	N	N	D	I-COUNT	*	*	*	*	*
+sze	sze[barley]	N	N	D	I-COUNT	*	*	*	*	*
+gur	gur[unit]	N	N	D	I-COUNT	*	*	*	*	*
+lugal	lugal[king]	N	N	D	_	_	_	_	_	_
+la2-ia3	la'u[arrears]	N	N	D	_	_	_	_	_	_
+su-ga	sug[repay]-a	V	NF.V.PT	D	_	_	_	_	_	_
+didli	didli[several][-ø][-ak]	V	NF.V.ABS	D	_	_	_	_	_	_
+ki	ki[place]	N	N	D	B-COM	_	_	_	_	_
+igi-zu-bar-ra-ta	_	PN	PN	POS	_	_	_	_	_	_
+ur-ba-gara2	Urbagara[1]	PN	PN	D	_	_	_	_	_	_
+szu	szu[hand][-e]	N	N.L3-NH	D	_	_	_	_	_	_
+ba-ti	ba[-n]-teg[accept][-ø]	V	MID.3-SG-H-A.V.3-SG-P	D	_	_	_	_	_	_
+kiszib3	kiszib[seal]	N	N	D	_	_	_	_	_	_
+didli	didli[several][-ø][-ak]	V	NF.V.ABS	D	_	_	_	_	_	_
+nigin2-ba	_	N	N.3-SG-NH-POSS.L1	Iabcde	_	_	_	_	_	_
+mu	mu[year]	N	N	D	_	_	_	_	_	_
+en-mah-gal-an-na	Enmahgalana[1]	PN	PN	D	_	_	_	_	_	_
+ba-a-hun	ba-hug[hire][-ø]	V	MID.V.3-SG-S	D	_	_	_	_	_	_

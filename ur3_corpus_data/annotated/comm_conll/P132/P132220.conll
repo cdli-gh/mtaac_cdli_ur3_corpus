@@ -1,0 +1,13 @@
+#new_text=P132220					
+FORM	SEGM	XPOSTAG	XPOSTAG	POS	?	?	?	?	?	?
+2(gesz2)	2(gesz)[sixty]	NU	NU	D	B-COUNT	m	948	length	gi	316
+3(u)	3(u)[ten]	NU	NU	D	I-COUNT	*	*	*	*	*
+8(asz)	8(asz)[one]	NU	NU	D	I-COUNT	*	*	*	*	*
+ninda	ninda[bread]	N	N	D	I-COUNT	*	*	*	*	*
+gur	gur[unit]	N	N	D	_	_	_	_	_	_
+ninda	ninda[bread]	N	N	D	B-COM	_	_	_	_	_
+aga3-us2	aga'us[soldier]	N	N	D	_	_	_	_	_	_
+sza3	szag[heart]	N	N	D	_	_	_	_	_	_
+gir2-su{ki}	Girsu[1][-ak]	SN	SN.GEN	D	_	_	_	_	_	_
+zi3	zid[flour]	N	N	D	_	_	_	_	_	_
+ka-ta	_	N	N	POS	_	_	_	_	_	_

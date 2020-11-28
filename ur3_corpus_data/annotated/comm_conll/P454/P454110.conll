@@ -1,0 +1,21 @@
+#new_text=P454110					
+FORM	SEGM	XPOSTAG	XPOSTAG	POS	?	?	?	?	?	?
+1(gesz'u)	1(gesz'u)[six_hundred]	NU	NU	D	B-COUNT	_	690	cardinal	_	690
+1(gesz2)	1(gesz)[sixty]	NU	NU	D	I-COUNT	*	*	*	*	*
+3(u)	3(u)[ten]	NU	NU	D	I-COUNT	*	*	*	*	*
+geme2	geme[female_worker]	N	N	D	_	_	_	_	_	_
+kikken2	_	N	N.GEN.GEN.ABS	D	_	_	_	_	_	_
+a2	a[time]	N	N	D	_	_	_	_	_	_
+nig2-ar3-ra	nigara[groats]	N	N	D	B-COM	_	_	_	_	_
+sza3-gal	szaggal[food]	N	N	D	_	_	_	_	_	_
+amar-ra	_	PN	PN	Iabcde	_	_	_	_	_	_
+ki	ki[place]	N	N	D	_	_	_	_	_	_
+a-li2-ni-su-ta	_	PN	PN.GEN.ABL	Iab	_	_	_	_	_	_
+ur-{d}isztaran-ke4	_	PN	PN.GEN.ERG	Iabcdefg	_	_	_	_	_	_
+i3-dab5	i[-n]-dab[seize][-ø]	V	FIN.3-SG-H-A.V.3-SG-P	D	_	_	_	_	_	_
+mu	mu[year]	N	N	D	_	_	_	_	_	_
+en	en[priest]	N	N	D	_	_	_	_	_	_
+{d}inanna	Inanna[1][-ak]	DN	DN	D	_	_	_	_	_	_
+unu{ki}-ga	Unug[1]-ak[-ak][-ø]	SN	SN.GEN	D	_	_	_	_	_	_
+masz-e	masz[goat]-e	N	N.L3-NH	D	_	_	_	_	_	_
+i3-pa3	i-pad[find][-ø]	V	FIN.V.3-SG-S	D	_	_	_	_	_	_

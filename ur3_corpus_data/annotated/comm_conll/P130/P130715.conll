@@ -1,0 +1,25 @@
+#new_text=P130715					
+FORM	SEGM	XPOSTAG	XPOSTAG	POS	?	?	?	?	?	?
+8(disz)	8(disz)[one]	NU	NU	D	B-COUNT	_	8	cardinal	_	8
+gurusz	gurusz[male]	N	N	D	B-COM	_	_	_	_	_
+u4	ud[day]	N	N	D	_	_	_	_	_	_
+2(disz)-sze3	2(disz)[one]-sze	NU	NU.TERM	D	B-COUNT	_	2	cardinal	_	2
+ziz2	ziz[emmer]	N	N	D	B-COM	_	_	_	_	_
+gan-ga2	_	V	V	POS	_	_	_	_	_	_
+u4	ud[day]	N	N	D	_	_	_	_	_	_
+1/2(disz)-sze3	1/2(disz)[one]-sze	NU	NU.TERM	D	B-COUNT	_	0.5	cardinal	_	0.5
+kun-zi-da	kunzida[weir]	N	N	D	_	_	_	_	_	_
+masz-kan2{ki}-ta	_	SN	SN.GEN.ABL	Iabcdef	_	_	_	_	_	_
+ma2	ma[ship]	N	N	D	_	_	_	_	_	_
+e3-a	e[leave]-a	V	NF.V.PT	D	B-COM	_	_	_	_	_
+ugula	ugula[overseer][-ø]	N	N	D	_	_	_	_	_	_
+lugal-ku3-zu	Lugalkuzu[1]	PN	PN	D	_	_	_	_	_	_
+iti	iti[month]	N	N	D	_	_	_	_	_	_
+{d}dumu-zi	Dumuzi[1][-'a]	MN	MN.L1	D	_	_	_	_	_	_
+mu	mu[year]	N	N	D	_	_	_	_	_	_
+ki-masz{ki}	Kimasz[1]	SN	SN.ABS	D	_	_	_	_	_	_
+ba-hul	ba-hulu[destroy][-ø]	V	MID.V.3-SG-S	D	_	_	_	_	_	_
+lu2-giri17-zal	Lugirizal[1][-ra]	PN	PN	D	_	_	_	_	_	_
+dub-sar	dubsar[scribe]	N	N	D	_	_	_	_	_	_
+dumu	dumu[child]	N	N	D	_	_	_	_	_	_
+da-du-mu	Dadumu[1][-ak]	PN	PN.GEN	D	_	_	_	_	_	_

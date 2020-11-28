@@ -1,0 +1,15 @@
+#new_text=P121284					
+FORM	SEGM	XPOSTAG	XPOSTAG	POS	?	?	?	?	?	?
+5(disz)	5(disz)[one]	NU	NU	D	B-COUNT	bricks	43200	bricks	gin2	3600
+sar	sar[unit]	N	N	D	I-COUNT	*	*	*	*	*
+sahar	sahar[earth][-ø]	N	N.GEN	D	B-COM	_	_	_	_	_
+kin	kig[work]	N	N	D	_	_	_	_	_	_
+til-la	til[complete]-a	V	NF.V.PT	D	_	_	_	_	_	_
+zu2-lum	zulum[date]	N	N	D	_	_	_	_	_	_
+a-sza3	aszag[field]	N	N	D	_	_	_	_	_	_
+{d}en-lil2-la2-igi-bar-ra	_	FN	FN	POS	_	_	_	_	_	_
+...	_[_]	PN	N	D	_	_	_	_	_	_
+dumu	dumu[child]	N	N	D	_	_	_	_	_	_
+lugal-he2-gal2	Lugalhegal[1]	PN	PN	D	_	_	_	_	_	_
+x	_[_]	N	N	D	_	_	_	_	_	_
+ur-mes	Urmes[1]	PN	PN	D	_	_	_	_	_	_

@@ -1,0 +1,27 @@
+#new_text=P102836					
+FORM	SEGM	XPOSTAG	XPOSTAG	POS	?	?	?	?	?	?
+5(disz)	5(disz)[one]	NU	NU	D	B-COUNT	_	none	unknown	_	none
+ma-na	mana[unit]	N	N	D	I-COUNT	*	*	*	*	*
+x	_[_]	N	N	D	I-COUNT	*	*	*	*	*
+sagi	sagi[cup_bearer][-ø]	N	N	D	_	_	_	_	_	_
+4(disz)	4(disz)[one]	NU	NU	D	B-COUNT	_	4	cardinal	_	4
+lugal-du	_	PN	PN	Iabcde	_	_	_	_	_	_
+5(disz)	5(disz)[one]	NU	NU	D	B-COUNT	_	5	cardinal	_	5
+szu-i	szu'i[barber][-ak]	N	N.ABS	D	_	_	_	_	_	_
+PAP	_[_]	PN	PN	POS	_	_	_	_	_	_
+5(gesz2)	5(gesz)[sixty]	NU	NU	D	B-COUNT	g	149500.0	weight	gin2	17940
+la2	la[hang][-ø]	V	NF.V.ABS	D	I-COUNT	*	*	*	*	*
+1(disz)	1(disz)[one]	NU	NU	D	I-COUNT	*	*	*	*	*
+ma-na	mana[unit]	N	N	D	I-COUNT	*	*	*	*	*
+lugal-ma2	_	PN	PN	Iabcde	_	_	_	_	_	_
+1(u)	1(u)[ten]	NU	NU	D	B-COUNT	_	10	cardinal	_	10
+szesz-szesz	Szeszszesz[1][-ak]	PN	PN.GEN	D	_	_	_	_	_	_
+PAP	_[_]	PN	PN	POS	_	_	_	_	_	_
+4(disz)	4(disz)[one]	NU	NU	D	B-COUNT	_	4	cardinal	_	4
+ba-al-li2	_	PN	PN	POS	_	_	_	_	_	_
+3(disz)	3(disz)[one]	NU	NU	D	B-COUNT	_	3	cardinal	_	3
+hul	_	V	NF.V.ABS	Iabcdef	_	_	_	_	_	_
+5(disz)	5(disz)[one]	NU	NU	D	B-COUNT	_	5	cardinal	_	5
+ur-nirx(|MIR.ZA|)	_	PN	PN	Iabcde	_	_	_	_	_	_
+5(disz)	5(disz)[one]	NU	NU	D	B-COUNT	_	5	cardinal	_	5
+lul-gu-ak	_	PN	PN	Iabcde	_	_	_	_	_	_

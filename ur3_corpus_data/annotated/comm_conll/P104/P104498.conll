@@ -1,0 +1,26 @@
+#new_text=P104498					
+FORM	SEGM	XPOSTAG	XPOSTAG	POS	B-COUNT	l	5	"liquid	*	*
+*RETOK*-capacity"	?	?	?	?	I-COUNT	l	5	"dry	sila3	5
+5(disz)	5(disz)[one]	NU	NU	D	I-COUNT	*	*	*	sila3	5
+sila3	sila[unit]	N	N	D	I-COUNT	*	*	*	*	*
+al-la-ha-ru	allaharu[unknown]	N	N	D	_	_	_	_	_	_
+*RETOK*-capacity"	?	?	?	?	B-COUNT	l	1	"liquid	*	*
+*RETOK*-capacity"	?	?	?	?	I-COUNT	l	1	"dry	sila3	1
+1(disz)	1(disz)[one]	NU	NU	D	I-COUNT	*	*	*	sila3	1
+sila3	sila[unit]	N	N	D	I-COUNT	*	*	*	*	*
+im-ku3-ge	_	V	V	POS	_	_	_	_	_	_
+ki	ki[place]	N	N	D	B-COM	_	_	_	_	_
+ba-sa6-ga-ta	_	PN	PN.GEN.ABL	Iab	_	_	_	_	_	_
+kiszib3	kiszib[seal]	N	N	D	_	_	_	_	_	_
+lugal-e-ba-an-sa6	Lugalebansa[1][-ra]	PN	PN	D	_	_	_	_	_	_
+mu	mu[year]	N	N	D	_	_	_	_	_	_
+{d}nanna	Nanna[1][-ak]	DN	DN	D	_	_	_	_	_	_
+kar-zi-da	Karzida[1][-ak][-ak][-ø]	SN	SN.GEN.GEN.ABS	D	_	_	_	_	_	_
+ur-{d}li9-si4	Urlisi[1]	PN	PN	D	_	_	_	_	_	_
+ensi2	ensik[ruler]	N	N	D	_	_	_	_	_	_
+umma{ki}	Umma[1][-ak][-ø]	SN	SN.GEN.ABS	D	_	_	_	_	_	_
+lugal-e-ba-an-sa6	Lugalebansa[1][-ra]	PN	PN	D	_	_	_	_	_	_
+dub-sar	dubsar[scribe]	N	N	D	_	_	_	_	_	_
+dumu	dumu[child]	N	N	D	_	_	_	_	_	_
+ur-{d}isztaran	Urisztaran[1]	PN	PN.GEN.ABS	D	_	_	_	_	_	_
+ARAD2-zu	arad[slave]-zu[-ø]	PN	N.2-SG-POSS.ABS	D	_	_	_	_	_	_

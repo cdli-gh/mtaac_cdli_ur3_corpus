@@ -1,0 +1,26 @@
+#new_text=P134056					
+FORM	SEGM	XPOSTAG	XPOSTAG	POS	?	?	?	?	?	?
+4(disz)	4(disz)[one]	NU	NU	D	B-COUNT	_	4	cardinal	_	4
+{gi}dim	_	N	N	Ia	B-COM	_	_	_	_	_
+ab-ba	abba[father]	PN	PN	D	_	_	_	_	_	_
+1(disz)	1(disz)[one]	NU	NU	D	B-COUNT	_	1	cardinal	_	1
+{gesz}ka2	_	N	N.GEN	Iabcde	B-COM	_	_	_	_	_
+geszimmar	gesznimbar[date_palm][-ak]	N	N.GEN	D	_	_	_	_	_	_
+esir2-bi	_	N	N.GEN.ABS	Iabcdefg	_	_	_	_	_	_
+*RETOK*-capacity"	?	?	?	?	B-COUNT	l	11	"dry	*	*
+1(ban2)	1(ban)[unit]	NU	N	D	I-COUNT	*	*	*	sila3	11
+1(disz)	1(disz)[one]	NU	NU	D	I-COUNT	*	*	*	*	*
+sila3	sila[unit]	N	N	D	I-COUNT	*	*	*	*	*
+ba-ab-szesz4	_	V	MID.3-SG-NH-A.V.3-SG-P	Iabcdefg	_	_	_	_	_	_
+giri3	giri[foot]	N	N	D	_	_	_	_	_	_
+i-szar-lu-ba-li2-it	_	PN	PN	Iabc	_	_	_	_	_	_
+u4	ud[day]	N	N	D	_	_	_	_	_	_
+7(disz)-kam	7(disz)[one]-ak-am[-'a]	NU	NU.GEN.COP-3-SG	D	B-COUNT	_	7	cardinal	_	7
+iti	iti[month]	N	N	D	_	_	_	_	_	_
+kin-{d}inanna	Kin-Inanna[1].[-’a]MN.L1	MN	MN.L1	D	_	_	_	_	_	_
+mu	mu[year]	N	N	D	_	_	_	_	_	_
+en	en[priest]	N	N	D	_	_	_	_	_	_
+{d}inanna	Inanna[1][-ak]	DN	DN	D	_	_	_	_	_	_
+masz2-e	masz[goat]-e	N	N.L3-NH	D	B-COM	_	_	_	_	_
+i3-pa3	i-pad[find][-ø]	V	FIN.V.3-SG-S	D	_	_	_	_	_	_
+gaba-ri	gabari[copy]	N	N	D	_	_	_	_	_	_

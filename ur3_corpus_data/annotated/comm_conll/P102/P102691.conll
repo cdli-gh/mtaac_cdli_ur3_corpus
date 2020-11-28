@@ -1,0 +1,15 @@
+#new_text=P102691					
+FORM	SEGM	XPOSTAG	XPOSTAG	POS	B-COUNT	l	10	"dry	*	*
+1(ban2)	1(ban)[unit]	NU	N	D	I-COUNT	*	*	*	sila3	10
+kasz	kasz[beer]	N	N	D	B-COM	_	_	_	_	_
+dida	dida[sweet_wort]	N	N	D	_	_	_	_	_	_
+*RETOK*-capacity"	?	?	?	?	B-COUNT	l	3	"liquid	*	*
+*RETOK*-capacity"	?	?	?	?	I-COUNT	l	3	"dry	sila3	3
+3(disz)	3(disz)[one]	NU	NU	D	I-COUNT	*	*	*	sila3	3
+sila3	sila[unit]	N	N	D	I-COUNT	*	*	*	*	*
+ninda	ninda[bread]	N	N	D	_	_	_	_	_	_
+giri3	giri[foot]	N	N	D	_	_	_	_	_	_
+du11-ga-ni	Dugani[1][-ra]	PN	PN.DAT-H	D	_	_	_	_	_	_
+iri-sa12-rig7{ki}-ta	Irisagrig[1][-ak][-ak]-ta	SN	SN.GEN.GEN.ABL	D	_	_	_	_	_	_
+mu-kux(DU)	mukur[delivery][-ø]	N	N	D	_	_	_	_	_	_
+...	_[_]	PN	N	D	_	_	_	_	_	_

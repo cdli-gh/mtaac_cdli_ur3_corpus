@@ -1,0 +1,16 @@
+#new_text=P143325					
+FORM	SEGM	XPOSTAG	XPOSTAG	POS	?	?	?	?	?	?
+1(u)	1(u)[ten]	NU	NU	D	B-COUNT	_	0.16666666666666666	cardinal	_	0.16666666666666666
+gin2	gig[unit]	N	N	D	I-COUNT	*	*	*	*	*
+ku3	kug[silver]	N	N	D	B-COM	_	_	_	_	_
+gu4-a	_	N	N	POS	_	_	_	_	_	_
+sa10	_	V	NF.V.3-SG-NH-POSS.GEN	Iabcdef	_	_	_	_	_	_
+giri3	giri[foot]	N	N	D	_	_	_	_	_	_
+ba-sa6	Basa[1][-ak]	PN	PN.GEN	D	_	_	_	_	_	_
+zi-ga	zig[expend]-a	V	NF.V.PT	D	_	_	_	_	_	_
+lugal-sze3	lugal[king][-ak]-sze	N	N.GEN.TERM	D	_	_	_	_	_	_
+nu-de6	_	V	MID.V.3-SG-S	Iabcdefgh	_	_	_	_	_	_
+mu	mu[year]	N	N	D	_	_	_	_	_	_
+us2-sa	us[follow]-a	V	NF.V.PT	D	_	_	_	_	_	_
+an-sza-an{ki}	Anszan[1][-ø]	GN	GN.ABS	D	_	_	_	_	_	_
+ba-hul	ba-hulu[destroy][-ø]	V	MID.V.3-SG-S	D	_	_	_	_	_	_

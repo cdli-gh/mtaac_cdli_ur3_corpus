@@ -1,0 +1,24 @@
+#new_text=P454212					
+FORM	SEGM	XPOSTAG	XPOSTAG	POS	?	?	?	?	?	?
+4(disz)	4(disz)[one]	NU	NU	D	B-COUNT	_	4	cardinal	_	4
+gu4	gud[ox]	N	N	D	B-COM	_	_	_	_	_
+szabra	szabra[chief_administrator][-ak]	N	N	D	_	_	_	_	_	_
+2(disz)	2(disz)[one]	NU	NU	D	B-COUNT	_	2	cardinal	_	2
+dub-sar	dubsar[scribe]	N	N	D	_	_	_	_	_	_
+gu4-1(u)	_	NU	NU	Iabcde	_	_	_	_	_	_
+2(disz)	2(disz)[one]	NU	NU	D	B-COUNT	_	2	cardinal	_	2
+nu-banda3-gu4	nubandagu[ox_overseer][-ak][-ak][-ak]	N	N	D	_	_	_	_	_	_
+1(disz)	1(disz)[one]	NU	NU	D	B-COUNT	_	1	cardinal	_	1
+sza3-tam	_	N	N.ABS	D	_	_	_	_	_	_
+1(disz)	1(disz)[one]	NU	NU	D	B-COUNT	_	1	cardinal	_	1
+sa12-du5	sagDUN[land_recorder][-ak]	N	N	D	_	_	_	_	_	_
+u3	u[and]	CNJ	CNJ	D	B-COM	_	_	_	_	_
+sza13-dub-ba	bisagdubak[archivist]	N	N	D	_	_	_	_	_	_
+*RETOK*-($	?	?	?	?	_	_	_	_	_	_
+*RETOK*-blank	?	?	?	?	_	_	_	_	_	_
+*RETOK*-space	?	?	?	?	_	_	_	_	_	_
+*RETOK*-$)	?	?	?	?	_	_	_	_	_	_
+1(u)	1(u)[ten]	NU	NU	D	B-COUNT	_	10	cardinal	_	10
+su-su-dam	sug-sug[repay]-ed[-ø]-am	PN	NF.V.RDP.F.ABS.COP-3-SG	D	_	_	_	_	_	_
+en-um-me-e	_	PN	PN.GEN.ABL	Iabcdefgh	_	_	_	_	_	_
+szabra	szabra[chief_administrator][-ak]	N	N	D	_	_	_	_	_	_

@@ -1,0 +1,26 @@
+#new_text=P103642					
+FORM	SEGM	XPOSTAG	XPOSTAG	POS	?	?	?	?	?	?
+4(disz)	4(disz)[one]	NU	NU	D	B-COUNT	_	4	cardinal	_	4
+tug2	tug[textile]	N	N	D	B-COM	_	_	_	_	_
+lugal-gu4-e	_	PN	PN	Iabcdefgh	_	_	_	_	_	_
+nu-banda3-gu4	nubandagu[ox_overseer][-ak][-ak][-ak]	N	N	D	_	_	_	_	_	_
+2(disz)	2(disz)[one]	NU	NU	D	B-COUNT	_	2	cardinal	_	2
+tug2	tug[textile]	N	N	D	B-COM	_	_	_	_	_
+aga3-us2	aga'us[soldier]	N	N	D	_	_	_	_	_	_
+szesz-tab-ba	_	V	V	POS	_	_	_	_	_	_
+6(disz)	6(disz)[one][-sze]	NU	NU	D	B-COUNT	_	6	cardinal	_	6
+tug2	tug[textile]	N	N	D	B-COM	_	_	_	_	_
+engar	engar[farmer]	N	N	D	_	_	_	_	_	_
+ugula	ugula[overseer][-ø]	N	N	D	_	_	_	_	_	_
+lugal-gu4-e	_	PN	PN	Iabcdefgh	_	_	_	_	_	_
+tug2	tug[textile]	N	N	D	_	_	_	_	_	_
+ha-la-a	_	PN	PN.GEN.GEN	Iabcdef	_	_	_	_	_	_
+giri3	giri[foot]	N	N	D	_	_	_	_	_	_
+ur-ge6-par4	Ur-gepar[1]	PN	PN	D	_	_	_	_	_	_
+u3	u[and]	CNJ	CNJ	D	_	_	_	_	_	_
+lu2-{d}nam2-an-ka	_	PN	PN	Ia	_	_	_	_	_	_
+iti	iti[month]	N	N	D	_	_	_	_	_	_
+szu-numun	Szunumun[1][-'a]	MN	MN.L1	D	_	_	_	_	_	_
+mu	mu[year]	N	N	D	_	_	_	_	_	_
+{d}amar-{d}suen	Amarsuen[1]	RN	RN	D	_	_	_	_	_	_
+lugal	lugal[king]	N	N	D	_	_	_	_	_	_

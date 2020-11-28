@@ -1,0 +1,15 @@
+#new_text=P103761					
+FORM	SEGM	XPOSTAG	XPOSTAG	POS	?	?	?	?	?	?
+la2-ia3	la'u[arrears]	N	N	D	_	_	_	_	_	_
+6(disz)	6(disz)[one][-sze]	NU	NU	D	B-COUNT	_	6	cardinal	_	6
+gu4	gud[ox]	N	N	D	B-COM	_	_	_	_	_
+nig2-ka9-ak	nigSZID[account]	N	N	D	_	_	_	_	_	_
+iti	iti[month]	N	N	D	_	_	_	_	_	_
+ezem-an-na	Ezemanna[1][-'a]	MN	MN.L1	D	_	_	_	_	_	_
+{d}nansze-kam	_	PN	PN	POS	_	_	_	_	_	_
+i3-da-gal2	_	V	FIN.3-SG-H-A.V.3-SG-P.SUB.ERG	Iabcdefg	_	_	_	_	_	_
+mu	mu[year]	N	N	D	_	_	_	_	_	_
+ha-ar-szi{ki}	Harszi[1]	SN	SN	D	_	_	_	_	_	_
+u3	u[and]	CNJ	CNJ	D	_	_	_	_	_	_
+ki-masz{ki}	Kimasz[1]	SN	SN.ABS	D	_	_	_	_	_	_
+ba-hul	ba-hulu[destroy][-ø]	V	MID.V.3-SG-S	D	_	_	_	_	_	_

@@ -1,0 +1,26 @@
+#new_text=P119520					
+FORM	SEGM	XPOSTAG	XPOSTAG	POS	?	?	?	?	?	?
+4(disz)	4(disz)[one]	NU	NU	D	B-COUNT	_	4	cardinal	_	4
+gurusz	gurusz[male]	N	N	D	B-COM	_	_	_	_	_
+u4	ud[day]	N	N	D	_	_	_	_	_	_
+1(gesz2)	1(gesz)[sixty]	NU	NU	D	B-COUNT	_	90	cardinal	_	90
+3(u)-sze3	3(u)[ten]-sze	NU	NU.TERM	D	I-COUNT	*	*	*	*	*
+{gesz}ma2	_	N	N	Ia	B-COM	_	_	_	_	_
+ma2-gan-na	_	N	GN	D	_	_	_	_	_	_
+sag3-ga	_	V	V	POS	_	_	_	_	_	_
+giri3	giri[foot]	N	N	D	_	_	_	_	_	_
+inim-{d}inanna	Iniminanna[1]	PN	PN	D	_	_	_	_	_	_
+lu2	lu[person]	N	N	D	_	_	_	_	_	_
+kin-gi4-a	kiggia[messenger]	N	N	D	_	_	_	_	_	_
+ugula	ugula[overseer][-ø]	N	N	D	_	_	_	_	_	_
+a-gu	Agu[1][-ak]	PN	PN	D	_	_	_	_	_	_
+kiszib3	kiszib[seal]	N	N	D	_	_	_	_	_	_
+nam-sza3-tam	namszatam[administration]	N	N	D	_	_	_	_	_	_
+ur-e2-masz	Uremasz[1]	PN	PN	D	_	_	_	_	_	_
+mu	mu[year]	N	N	D	_	_	_	_	_	_
+ma2	ma[ship]	N	N	D	_	_	_	_	_	_
+{d}en-ki	Enki[1][-ak][-ø]	DN	DN.GEN.ABS	D	_	_	_	_	_	_
+ur-e2-masz	Uremasz[1]	PN	PN	D	_	_	_	_	_	_
+dub-sar	dubsar[scribe]	N	N	D	_	_	_	_	_	_
+dumu	dumu[child]	N	N	D	_	_	_	_	_	_
+ur-sila-luh	_	N	N	POS	_	_	_	_	_	_

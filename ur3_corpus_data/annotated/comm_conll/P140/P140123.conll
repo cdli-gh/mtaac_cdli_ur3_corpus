@@ -1,0 +1,22 @@
+#new_text=P140123					
+FORM	SEGM	XPOSTAG	XPOSTAG	POS	?	?	?	?	?	?
+3(gesz2)	3(gesz)[sixty]	NU	NU	D	B-COUNT	bricks	1555200	bricks	gin2	129600
+sar	sar[unit]	N	N	D	I-COUNT	*	*	*	*	*
+al	al[hoeing]	N	N	D	B-COM	_	_	_	_	_
+3(disz)	3(disz)[one]	NU	NU	D	B-COUNT	_	3	cardinal	_	3
+sar-ta	sar[unit]-ta	PN	N.ABL	D	_	_	_	_	_	_
+a-sza3	aszag[field]	N	N	D	_	_	_	_	_	_
+a-bu3-du-du	_	FN	FN.GEN.TERM	Iabcdefgh	_	_	_	_	_	_
+a2	a[time]	N	N	D	_	_	_	_	_	_
+sza3-gu4	szagu[ox-driver]	PN	N	D	_	_	_	_	_	_
+ugula	ugula[overseer][-ø]	N	N	D	_	_	_	_	_	_
+lugal-{d}isztaran	_	PN	PN	Iabcde	_	_	_	_	_	_
+kiszib3	kiszib[seal]	N	N	D	_	_	_	_	_	_
+inim-{d}szara2	Inimszara[1][-ak][-ra]	PN	PN	D	_	_	_	_	_	_
+mu	mu[year]	N	N	D	_	_	_	_	_	_
+en	en[priest]	N	N	D	_	_	_	_	_	_
+eridu{ki}	Eridug[1][-ak][-ø]	SN	SN.GEN.ABS	D	_	_	_	_	_	_
+ba-hun	ba-hug[hire][-ø]	V	MID.V.3-SG-S	D	_	_	_	_	_	_
+inim-{d}szara2	Inimszara[1][-ak][-ra]	PN	PN	D	_	_	_	_	_	_
+dumu	dumu[child]	N	N	D	_	_	_	_	_	_
+ur-nigar{gar}	Urnigar[1]	PN	PN	D	_	_	_	_	_	_

@@ -1,0 +1,21 @@
+#new_text=P109424					
+FORM	SEGM	XPOSTAG	XPOSTAG	POS	?	?	?	?	?	?
+3(bur3)	3(bur)[unit]	NU	N	D	B-COUNT	m^2	194400.0	surface	gin2	324000
+GAN2	gana[field]	N	N	D	I-COUNT	*	*	*	*	*
+uru4-a	uru[sow]-a	V	NF.V.PT	D	B-COM	_	_	_	_	_
+2(iku)	2(iku)[unit]	NU	N	D	B-COUNT	m^2	7200.0	surface	gin2	12000
+GAN2	gana[field]	N	N	D	I-COUNT	*	*	*	*	*
+szuku	szukur[prebend_land]	N	N	D	_	_	_	_	_	_
+uru4-a	uru[sow]-a	V	NF.V.PT	D	_	_	_	_	_	_
+ugula	ugula[overseer][-ø]	N	N	D	_	_	_	_	_	_
+ur-{d}en-lil2-la2	Urenlilak[1][-ak][-'a]	PN	PN.DAT-H	D	_	_	_	_	_	_
+kiszib3	kiszib[seal]	N	N	D	_	_	_	_	_	_
+ur-dun	Urdun[1]	PN	PN	D	_	_	_	_	_	_
+mu	mu[year]	N	N	D	_	_	_	_	_	_
+en	en[priest]	N	N	D	_	_	_	_	_	_
+ga-esz{ki}	Ga'esz[1][-ak][-ø]	SN	SN.GEN.ABS	D	_	_	_	_	_	_
+ba-hun	ba-hug[hire][-ø]	V	MID.V.3-SG-S	D	_	_	_	_	_	_
+ur-dun	Urdun[1]	PN	PN	D	_	_	_	_	_	_
+dub-sar	dubsar[scribe]	N	N	D	_	_	_	_	_	_
+dumu	dumu[child]	N	N	D	_	_	_	_	_	_
+da-da	Dada[1][-ak]	PN	PN	D	_	_	_	_	_	_

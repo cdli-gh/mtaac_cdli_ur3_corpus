@@ -1,0 +1,24 @@
+#new_text=P141468					
+FORM	SEGM	XPOSTAG	XPOSTAG	POS	?	?	?	?	?	?
+x	_[_]	N	N	D	_	_	_	_	_	_
+2(u)	2(u)[ten]	NU	NU	D	B-COUNT	_	20	cardinal	_	20
+gurusz	gurusz[male]	N	N	D	B-COM	_	_	_	_	_
+i3-szah2	iszah[lard][-ø]	N	N	D	_	_	_	_	_	_
+5(disz)	5(disz)[one]	NU	NU	D	B-COUNT	_	5	cardinal	_	5
+sila3-ta	sila[unit]-ta	N	N.ABL	D	_	_	_	_	_	_
+i3-szah2-bi	_	N	N.GEN.TERM	Iabcdefgh	_	_	_	_	_	_
+*RETOK*-capacity"	?	?	?	?	B-COUNT	l	100	"dry	*	*
+1(barig)	1(bariga)[unit]	NU	N	D	I-COUNT	*	*	*	sila3	100
+4(ban2)	4(ban)[unit]	NU	N	D	I-COUNT	*	*	*	*	*
+i3-ba	iba[oil_ration]	N	N	D	B-COM	_	_	_	_	_
+bahar3	bahar[potter]	N	N	D	_	_	_	_	_	_
+dug	dug[pot]	N	N	D	_	_	_	_	_	_
+gesztin-na-ke4-ne	_	N	N.GEN.PL	Iabcde	_	_	_	_	_	_
+ki	ki[place]	N	N	D	_	_	_	_	_	_
+ur-{d}szul-pa-e3-ta	Urszulpa'e[1][-ak]-ta	PN	PN.GEN.ABL	D	_	_	_	_	_	_
+kiszib3	kiszib[seal]	N	N	D	_	_	_	_	_	_
+ensi2-ka	ensik[ruler]-ak	N	N.GEN	D	_	_	_	_	_	_
+mu	mu[year]	N	N	D	_	_	_	_	_	_
+en	en[priest]	N	N	D	_	_	_	_	_	_
+ga-esz{ki}	Ga'esz[1][-ak][-ø]	SN	SN.GEN.ABS	D	_	_	_	_	_	_
+ba-hun	ba-hug[hire][-ø]	V	MID.V.3-SG-S	D	_	_	_	_	_	_

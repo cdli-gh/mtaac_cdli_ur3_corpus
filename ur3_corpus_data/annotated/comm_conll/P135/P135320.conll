@@ -1,0 +1,27 @@
+#new_text=P135320					
+FORM	SEGM	XPOSTAG	XPOSTAG	POS	?	?	?	?	?	?
+la2-ia3	la'u[arrears]	N	N	D	_	_	_	_	_	_
+*RETOK*-capacity"	?	?	?	?	B-COUNT	l	1027.5	"dry	*	*
+3(asz)	3(asz)[one]	NU	NU	D	I-COUNT	*	*	*	sila3	1027.5
+2(barig)	2(bariga)[unit]	NU	N	D	I-COUNT	*	*	*	*	*
+7(disz)	7(disz)[one][-sze]	NU	NU	D	I-COUNT	*	*	*	*	*
+1/2(disz)	1/2(disz)[one]	NU	NU	D	I-COUNT	*	*	*	*	*
+sila3	sila[unit]	N	N	D	I-COUNT	*	*	*	*	*
+zi3	zid[flour]	N	N	D	B-COM	_	_	_	_	_
+gu2-na	gun[tax]-ak[-ø]	N	N.GEN	D	_	_	_	_	_	_
+gur	gur[unit]	N	N	D	_	_	_	_	_	_
+ki	ki[place]	N	N	D	_	_	_	_	_	_
+lugal-e-ba-an-sa6-ta	_	PN	PN.GEN.ABL	Iab	_	_	_	_	_	_
+ARAD2-dam	Aradam[1][-ak]	PN	PN.GEN	D	_	_	_	_	_	_
+dumu	dumu[child]	N	N	D	_	_	_	_	_	_
+al-la-ke4	_	PN	PN.GEN.ERG	Iabcdef	_	_	_	_	_	_
+ra	_	V	V	POS	_	_	_	_	_	_
+su-su-dam	sug-sug[repay]-ed[-ø]-am	PN	NF.V.RDP.F.ABS.COP-3-SG	D	_	_	_	_	_	_
+mu	mu[year]	N	N	D	_	_	_	_	_	_
+a-ra2	ara[times]	N	N	D	_	_	_	_	_	_
+2(disz)-kam	2(disz)[one]-ak-am	NU	NU.GEN.COP-3-SG	D	B-COUNT	_	2	cardinal	_	2
+sza-asz-szu2-ru-um{ki}	Szaszszurum[1][-ø]	SN	SN.ABS	D	_	_	_	_	_	_
+ba-hul	ba-hulu[destroy][-ø]	V	MID.V.3-SG-S	D	_	_	_	_	_	_
+ARAD2-dam	Aradam[1][-ak]	PN	PN.GEN	D	_	_	_	_	_	_
+dumu	dumu[child]	N	N	D	_	_	_	_	_	_
+al-la	Alla[1]	PN	PN	D	_	_	_	_	_	_

@@ -1,0 +1,12 @@
+#new_text=P111627					
+FORM	SEGM	XPOSTAG	XPOSTAG	POS	B-COUNT	l	20	"dry	*	*
+2(ban2)	2(ban)[unit]	NU	N	D	I-COUNT	*	*	*	sila3	20
+zi3	zid[flour]	N	N	D	B-COM	_	_	_	_	_
+dub-dub	dubdub[flour_designation]	N	N	D	_	_	_	_	_	_
+*RETOK*-capacity"	?	?	?	?	B-COUNT	l	10	"dry	*	*
+1(ban2)	1(ban)[unit]	NU	N	D	I-COUNT	*	*	*	sila3	10
+esza	esza[flour]	N	N	D	_	_	_	_	_	_
+{d}balag-...-u18-x	_	PN	PN	Iabcde	_	_	_	_	_	_
+zi-ga	zig[expend]-a	V	NF.V.PT	D	_	_	_	_	_	_
+iti	iti[month]	N	N	D	_	_	_	_	_	_
+munu4-gu7	Munugu[1][-'a]	MN	MN.L1	D	_	_	_	_	_	_

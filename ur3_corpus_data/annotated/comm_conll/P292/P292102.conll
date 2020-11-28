@@ -1,0 +1,24 @@
+#new_text=P292102					
+FORM	SEGM	XPOSTAG	XPOSTAG	POS	B-COUNT	l	1	"liquid	*	*
+*RETOK*-capacity"	?	?	?	?	I-COUNT	l	1	"dry	sila3	1
+1(disz)	1(disz)[one]	NU	NU	D	I-COUNT	*	*	*	sila3	1
+sila3	sila[unit]	N	N	D	I-COUNT	*	*	*	*	*
+esza	esza[flour]	N	N	D	B-COM	_	_	_	_	_
+*RETOK*-capacity"	?	?	?	?	B-COUNT	l	1	"liquid	*	*
+*RETOK*-capacity"	?	?	?	?	I-COUNT	l	1	"dry	sila3	1
+1(disz)	1(disz)[one]	NU	NU	D	I-COUNT	*	*	*	sila3	1
+sila3	sila[unit]	N	N	D	I-COUNT	*	*	*	*	*
+dabin	dabin[semolina]	N	N	D	_	_	_	_	_	_
+nam-erim2	_	N	N	Ia	_	_	_	_	_	_
+ku5-ra2	kud[cut]-a	V	NF.V.PT	D	_	_	_	_	_	_
+ugula	ugula[overseer][-ø]	N	N	D	_	_	_	_	_	_
+lu2	lu[person]	N	N	D	_	_	_	_	_	_
+zah3-ne	_	V	NF.V.PT.GEN.ABS	Iabcdefg	_	_	_	_	_	_
+ki	ki[place]	N	N	D	_	_	_	_	_	_
+ur-{d}szul-pa-e3-ta	Urszulpa'e[1][-ak]-ta	PN	PN.GEN.ABL	D	_	_	_	_	_	_
+kiszib3	kiszib[seal]	N	N	D	_	_	_	_	_	_
+ensi2-ka	ensik[ruler]-ak	N	N.GEN	D	_	_	_	_	_	_
+mu	mu[year]	N	N	D	_	_	_	_	_	_
+en	en[priest]	N	N	D	_	_	_	_	_	_
+ga-esz{ki}	Ga'esz[1][-ak][-ø]	SN	SN.GEN.ABS	D	_	_	_	_	_	_
+ba-hun	ba-hug[hire][-ø]	V	MID.V.3-SG-S	D	_	_	_	_	_	_

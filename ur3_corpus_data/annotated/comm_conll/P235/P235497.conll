@@ -1,0 +1,11 @@
+#new_text=P235497					
+FORM	SEGM	XPOSTAG	XPOSTAG	POS	B-COUNT	l	4500	"dry	*	*
+1(u)	1(u)[ten]	NU	NU	D	I-COUNT	*	*	*	sila3	4500
+5(asz)	5(asz)[one]	NU	NU	D	I-COUNT	*	*	*	*	*
+gur	gur[unit]	N	N	D	I-COUNT	*	*	*	*	*
+giri3	giri[foot]	N	N	D	_	_	_	_	_	_
+ab-ba-gi-na	Abbagina[1]	PN	PN	D	_	_	_	_	_	_
+...	_[_]	PN	N	D	_	_	_	_	_	_
+x-{gesz}gigir-x	_	PN	PN.DAT-H	Iabcdefgh	B-COM	_	_	_	_	_
+mu	mu[year]	N	N	D	_	_	_	_	_	_
+si-ma-num2{ki}	Simanum[1][-ø]	GN	SN.ABS	D	_	_	_	_	_	_

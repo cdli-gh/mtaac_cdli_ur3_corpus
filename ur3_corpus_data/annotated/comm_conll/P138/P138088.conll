@@ -1,0 +1,22 @@
+#new_text=P138088					
+FORM	SEGM	XPOSTAG	XPOSTAG	POS	?	?	?	?	?	?
+2(u)	2(u)[ten]	NU	NU	D	B-COUNT	_	24	cardinal	_	24
+4(disz)	4(disz)[one]	NU	NU	D	I-COUNT	*	*	*	*	*
+tug2	tug[textile]	N	N	D	B-COM	_	_	_	_	_
+usz-bar	uszbar[weaver][-ak]	N	N	D	_	_	_	_	_	_
+da-da	Dada[1][-ak]	PN	PN	D	_	_	_	_	_	_
+dumu	dumu[child]	N	N	D	_	_	_	_	_	_
+da-a-ga	_	PN	PN	Ia	_	_	_	_	_	_
+2(u)	2(u)[ten]	NU	NU	D	B-COUNT	_	20	cardinal	_	20
+tug2	tug[textile]	N	N	D	B-COM	_	_	_	_	_
+usz-bar	uszbar[weaver][-ak]	N	N	D	_	_	_	_	_	_
+la-a-la-a	_	PN	PN.GEN.GEN	Iabcdef	_	_	_	_	_	_
+6(disz)	6(disz)[one][-sze]	NU	NU	D	B-COUNT	_	6	cardinal	_	6
+tug2	tug[textile]	N	N	D	B-COM	_	_	_	_	_
+guz-za	guz[tufted]-a	V	NF.V.PT	D	_	_	_	_	_	_
+4(disz)-kam	4(disz)[one]-ak-am[-'a]	NU	NU.GEN.COP-3-SG	D	B-COUNT	_	4	cardinal	_	4
+us2	us[follow][-ø]	V	NF.V.ABS	D	_	_	_	_	_	_
+lugal-inim-gi-na	Lugalinimgina[1][-ak]	PN	PN	D	_	_	_	_	_	_
+sanga	sagga[temple_administrator]	N	N	D	_	_	_	_	_	_
+{d}x-ISZ-mun-na	_	DN	DN.GEN.GEN	Iabcdef	_	_	_	_	_	_
+...	_[_]	PN	N	D	_	_	_	_	_	_

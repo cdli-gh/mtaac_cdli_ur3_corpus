@@ -1,0 +1,12 @@
+#new_text=P106473					
+FORM	SEGM	XPOSTAG	XPOSTAG	POS	B-COUNT	l	25	"liquid	*	*
+*RETOK*-capacity"	?	?	?	?	I-COUNT	l	25	"dry	sila3	25
+2(u)	2(u)[ten]	NU	NU	D	I-COUNT	*	*	*	sila3	25
+5(disz)	5(disz)[one]	NU	NU	D	I-COUNT	*	*	*	*	*
+sila3	sila[unit]	N	N	D	I-COUNT	*	*	*	*	*
+kasz	kasz[beer]	N	N	D	B-COM	_	_	_	_	_
+saga	saga[good][-ø]	V	NF.V.ABS	D	_	_	_	_	_	_
+sa2-du11	sadug[offerings]	N	N	D	_	_	_	_	_	_
+nesag	Nesag[1][-'a]	N	MN.L1	D	_	_	_	_	_	_
+u4	ud[day]	N	N	D	_	_	_	_	_	_
+2(u)-kam	2(u)[ten]-ak-am	NU	NU.GEN.COP-3-SG	D	B-COUNT	_	20	cardinal	_	20

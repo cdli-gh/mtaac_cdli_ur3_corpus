@@ -1,0 +1,27 @@
+#new_text=P109014					
+FORM	SEGM	XPOSTAG	XPOSTAG	POS	?	?	?	?	?	?
+1(disz)	1(disz)[one]	NU	NU	D	B-COUNT	_	1	cardinal	_	1
+eme3	_	N	N.GEN	Iabcde	B-COM	_	_	_	_	_
+1(disz)	1(disz)[one]	NU	NU	D	B-COUNT	_	1	cardinal	_	1
+dur3-gesz	_	PN	PN	POS	_	_	_	_	_	_
+1(disz)	1(disz)[one]	NU	NU	D	B-COUNT	_	1	cardinal	_	1
+eme3	_	N	N.GEN	Iabcde	B-COM	_	_	_	_	_
+amar	amar[calf][-ak]	N	N	D	_	_	_	_	_	_
+ga	ga[milk]	N	N	D	_	_	_	_	_	_
+a-ru-a	_	GN	GN	POS	_	_	_	_	_	_
+apin	apin[plow]	N	N	D	_	_	_	_	_	_
+ensi2-sze3	_	N	N.3-SG-H-POSS.TERM	Iabcdef	_	_	_	_	_	_
+ki	ki[place]	N	N	D	_	_	_	_	_	_
+lu2-bala-sa6-ga-ta	_	PN	PN.GEN.ABL	Iab	_	_	_	_	_	_
+ba-ad-da-ri2	Baddari[1][-ø]	PN	PN	D	_	_	_	_	_	_
+i3-dab5	i[-n]-dab[seize][-ø]	V	FIN.3-SG-H-A.V.3-SG-P	D	_	_	_	_	_	_
+mu	mu[year]	N	N	D	_	_	_	_	_	_
+ba-ad-da-ri2	Baddari[1][-ø]	PN	PN	D	_	_	_	_	_	_
+lu2-da-da	_	PN	PN	Iabcde	_	_	_	_	_	_
+i3-dab5	i[-n]-dab[seize][-ø]	V	FIN.3-SG-H-A.V.3-SG-P	D	_	_	_	_	_	_
+iti	iti[month]	N	N	D	_	_	_	_	_	_
+munu4-gu7	Munugu[1][-'a]	MN	MN.L1	D	_	_	_	_	_	_
+mu	mu[year]	N	N	D	_	_	_	_	_	_
+en	en[priest]	N	N	D	_	_	_	_	_	_
+eridu{ki}	Eridug[1][-ak][-ø]	SN	SN.GEN.ABS	D	_	_	_	_	_	_
+ba-hun	ba-hug[hire][-ø]	V	MID.V.3-SG-S	D	_	_	_	_	_	_

@@ -1,0 +1,27 @@
+#new_text=P137737					
+FORM	SEGM	XPOSTAG	XPOSTAG	POS	?	?	?	?	?	?
+8(disz)	8(disz)[one]	NU	NU	D	B-COUNT	_	none	unknown	_	none
+x	_[_]	N	N	D	I-COUNT	*	*	*	*	*
+gurusz	gurusz[male]	N	N	D	B-COM	_	_	_	_	_
+ki	ki[place]	N	N	D	_	_	_	_	_	_
+x	_[_]	N	N	D	_	_	_	_	_	_
+dumu-la2	_	N	N	POS	_	_	_	_	_	_
+x-ki-am3	_	PN	PN	POS	_	_	_	_	_	_
+x-x	_[_]	PN	N.2-SG-POSS.ABS	D	_	_	_	_	_	_
+zi-ga	zig[expend]-a	V	NF.V.PT	D	_	_	_	_	_	_
+x	_[_]	N	N	D	_	_	_	_	_	_
+...	_[_]	PN	N	D	_	_	_	_	_	_
+5(disz)-am3	5(disz)[one][-ak]-am	NU	NU.GEN.COP-3-SG	D	B-COUNT	_	5	cardinal	_	5
+sze	sze[barley]	N	N	D	B-COM	_	_	_	_	_
+zar3	zar[sheaf]	N	N	D	_	_	_	_	_	_
+tab-ba	tab[grasp]-a	V	NF.V.PT	D	_	_	_	_	_	_
+a2-bi	a[labor]-bi	N	N.3-SG-NH-POSS.ABS	D	_	_	_	_	_	_
+1(gesz'u)	1(gesz'u)[six_hundred]	NU	NU	D	B-COUNT	_	none	unknown	_	none
+3(gesz2)	3(gesz)[sixty]	NU	NU	D	I-COUNT	*	*	*	*	*
+x	_[_]	N	N	D	I-COUNT	*	*	*	*	*
+x-ki	_	PN	PN	POS	_	_	_	_	_	_
+gurusz	gurusz[male]	N	N	D	B-COM	_	_	_	_	_
+u4	ud[day]	N	N	D	_	_	_	_	_	_
+1(disz)-sze3	1(disz)[one]-sze	NU	NU.TERM	D	B-COUNT	_	1	cardinal	_	1
+kiszib3	kiszib[seal]	N	N	D	_	_	_	_	_	_
+nu-ub-ra	_	V	NEG.NF.V.GEN	Iabcdef	_	_	_	_	_	_

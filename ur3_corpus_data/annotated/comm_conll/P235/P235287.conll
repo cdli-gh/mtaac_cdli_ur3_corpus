@@ -1,0 +1,24 @@
+#new_text=P235287					
+FORM	SEGM	XPOSTAG	XPOSTAG	POS	?	?	?	?	?	?
+6(gesz2)	6(gesz)[sixty]	NU	NU	D	B-COUNT	_	370	cardinal	_	370
+1(u)	1(u)[ten]	NU	NU	D	I-COUNT	*	*	*	*	*
+sa	sa[bundle]	N	N	D	_	_	_	_	_	_
+gu-nigin2	_	PN	PN	POS	_	_	_	_	_	_
+1(u)	1(u)[ten]	NU	NU	D	B-COUNT	_	9	cardinal	_	9
+la2	la[hang][-ø]	V	NF.V.ABS	D	I-COUNT	*	*	*	*	*
+1(disz)-ta	1(disz)[one]-ta	NU	NU.ABL	D	I-COUNT	*	*	*	*	*
+gu-nigin2-bi	_	N	N.3-SG-NH-POSS.ABS	Iabcdefg	_	_	_	_	_	_
+4(u)	4(u)[ten]	NU	NU	D	B-COUNT	_	none	unknown	_	none
+1(disz)	1(disz)[one]	NU	NU	D	I-COUNT	*	*	*	*	*
+x	_[_]	N	N	D	I-COUNT	*	*	*	*	*
+u4	ud[day]	N	N	D	_	_	_	_	_	_
+3(disz)-kam	3(disz)[one]-ak-am	NU	NU.GEN.COP-3-SG	D	B-COUNT	_	3	cardinal	_	3
+nu-banda3	nubanda[overseer][-ø]	N	N	D	_	_	_	_	_	_
+e-te-x	_	PN	PN	POS	_	_	_	_	_	_
+x-{d}szul-gi	_	PN	PN.DAT-H	Iabcdefgh	_	_	_	_	_	_
+lu2-x-x	_	PN	PN	D	_	_	_	_	_	_
+x	_[_]	N	N	D	_	_	_	_	_	_
+e2	e[house]	N	N	D	_	_	_	_	_	_
+{d}nin-gesz-zi-da	Ningeszzida[1][-ak]	DN	DN	D	_	_	_	_	_	_
+kiszib3	kiszib[seal]	N	N	D	_	_	_	_	_	_
+ba-za-x	_	PN	PN	POS	_	_	_	_	_	_

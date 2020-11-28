@@ -1,0 +1,26 @@
+#new_text=P108094					
+FORM	SEGM	XPOSTAG	XPOSTAG	POS	B-COUNT	l	165.0	"liquid	*	*
+5(disz)	5(disz)[one]	NU	NU	D	I-COUNT	*	*	*	sila3	165.0
+1/2(disz)	1/2(disz)[one]	NU	NU	D	I-COUNT	*	*	*	*	*
+dug	dug[pot]	N	N	D	I-COUNT	*	*	*	*	*
+gal	gal[big][-ø]	V	NF.V.ABS	D	_	_	_	_	_	_
+dug-bi	_	N	N.3-SG-NH-POSS.ABS	Iabcde	_	_	_	_	_	_
+*RETOK*-capacity"	?	?	?	?	B-COUNT	l	2	"liquid	*	*
+*RETOK*-capacity"	?	?	?	?	I-COUNT	l	2	"dry	sila3	2
+2(disz)	2(disz)[one]	NU	NU	D	I-COUNT	*	*	*	sila3	2
+sila3	sila[unit]	N	N	D	I-COUNT	*	*	*	*	*
+tur-re-dam	_	V	V	POS	_	_	_	_	_	_
+ugula	ugula[overseer][-ø]	N	N	D	_	_	_	_	_	_
+ur-e2-nun	_	PN	PN	Iabcde	_	_	_	_	_	_
+kiszib3	kiszib[seal]	N	N	D	_	_	_	_	_	_
+ur-{d}szakkan	Urszakkan[1][-ra]	PN	PN.DAT-H	D	_	_	_	_	_	_
+sa2-du11	sadug[offerings]	N	N	D	_	_	_	_	_	_
+ku5-ra2	kud[cut]-a	V	NF.V.PT	D	_	_	_	_	_	_
+sza3	szag[heart]	N	N	D	_	_	_	_	_	_
+e2-te-na	_	PN	PN	POS	_	_	_	_	_	_
+sza3	szag[heart]	N	N	D	_	_	_	_	_	_
+bala-a	bala[tax][-ak]-'a	N	N.GEN.L1	D	_	_	_	_	_	_
+ur-{d}saman3	_	PN	PN.GEN.ABS	Iabcdef	_	_	_	_	_	_
+dub-sar	dubsar[scribe]	N	N	D	_	_	_	_	_	_
+dumu	dumu[child]	N	N	D	_	_	_	_	_	_
+lu2-gi-na	Lugina[1][-ak][-ak]	PN	PN.GEN	D	_	_	_	_	_	_

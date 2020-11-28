@@ -1,0 +1,16 @@
+#new_text=P337233					
+FORM	SEGM	XPOSTAG	XPOSTAG	POS	?	?	?	?	?	?
+3(gesz'u)	3(gesz'u)[six_hundred]	NU	NU	D	B-COUNT	_	1800	cardinal	_	1800
+la2	la[hang][-ø]	V	NF.V.ABS	D	I-COUNT	*	*	*	*	*
+n	_(_)[_]	NU	NU	D	_	_	_	_	_	_
+...	_[_]	PN	N	D	_	_	_	_	_	_
+...	_[_]	PN	N	D	_	_	_	_	_	_
+mu	mu[year]	N	N	D	_	_	_	_	_	_
+{d}...	_[1][-'a]	MN	DN.GEN	D	_	_	_	_	_	_
+na-ru2-...	_			POS	_	_	_	_	_	_
+...	_[_]	PN	N	D	_	_	_	_	_	_
+dumu	dumu[child]	N	N	D	_	_	_	_	_	_
+ma-...	_	V	V	POS	_	_	_	_	_	_
+sagi	sagi[cup_bearer][-ø]	N	N	D	_	_	_	_	_	_
+x	_[_]	N	N	D	_	_	_	_	_	_
+...	_[_]	PN	N	D	_	_	_	_	_	_

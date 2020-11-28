@@ -1,0 +1,23 @@
+#new_text=P292534					
+FORM	SEGM	XPOSTAG	XPOSTAG	POS	B-COUNT	l	80	"dry	*	*
+1(barig)	1(bariga)[unit]	NU	N	D	I-COUNT	*	*	*	sila3	80
+2(ban2)	2(ban)[unit]	NU	N	D	I-COUNT	*	*	*	*	*
+esir2	esir[bitumen]	N	N	D	B-COM	_	_	_	_	_
+E2-A	Ea[1]	ON	ON	D	_	_	_	_	_	_
+ma2	ma[ship]	N	N	D	_	_	_	_	_	_
+a-KIN	_	PN	PN	Iabcdefgh	_	_	_	_	_	_
+lugal-sze3	lugal[king][-ak]-sze	N	N.GEN.TERM	D	_	_	_	_	_	_
+ki	ki[place]	N	N	D	_	_	_	_	_	_
+ur-{d}dumu-zi-da-ta	_	PN	PN.GEN.GEN.ABL	Iabcdefg	_	_	_	_	_	_
+mar-sa-asz	marsa[military_depot]-sze	PN	N.TERM	D	_	_	_	_	_	_
+kiszib3	kiszib[seal]	N	N	D	_	_	_	_	_	_
+nig2-lagar-e	Niglagare[1]	N	PN	D	_	_	_	_	_	_
+iti	iti[month]	N	N	D	_	_	_	_	_	_
+nesag	Nesag[1][-'a]	N	MN.L1	D	_	_	_	_	_	_
+mu	mu[year]	N	N	D	_	_	_	_	_	_
+bi2-tum-ra-bi2-um	_	PN	PN	POS	_	_	_	_	_	_
+nig2-lagar-e	Niglagare[1]	N	PN	D	_	_	_	_	_	_
+dub-sar	dubsar[scribe]	N	N	D	_	_	_	_	_	_
+dumu	dumu[child]	N	N	D	_	_	_	_	_	_
+lugal-gaba	Lugalgaba[1]	PN	PN	D	_	_	_	_	_	_
+szabra	szabra[chief_administrator][-ak]	N	N	D	_	_	_	_	_	_

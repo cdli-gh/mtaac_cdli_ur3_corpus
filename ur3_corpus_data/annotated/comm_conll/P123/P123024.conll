@@ -1,0 +1,21 @@
+#new_text=P123024					
+FORM	SEGM	XPOSTAG	XPOSTAG	POS	?	?	?	?	?	?
+2(disz)	2(disz)[one]	NU	NU	D	B-COUNT	_	2	cardinal	_	2
+ab2-mah2	abmah[mature_cow]	N	N	D	_	_	_	_	_	_
+1(u)	1(u)[ten]	NU	NU	D	B-COUNT	_	13	cardinal	_	13
+3(disz)	3(disz)[one]	NU	NU	D	I-COUNT	*	*	*	*	*
+gu4-gesz	gudgesz[draught_ox]	N	N.ABS	D	_	_	_	_	_	_
+gu4	gud[ox]	N	N	D	B-COM	_	_	_	_	_
+na-gab2-tum	nakabtum[stockyard][-ak][-ak]	N	N.GEN.ABS	D	_	_	_	_	_	_
+e2-nig2-bi	_	PN	PN	POS	_	_	_	_	_	_
+i3-dab5	i[-n]-dab[seize][-ø]	V	FIN.3-SG-H-A.V.3-SG-P	D	_	_	_	_	_	_
+ugula	ugula[overseer][-ø]	N	N	D	_	_	_	_	_	_
+du-du	Dudu[1]	PN	PN	D	_	_	_	_	_	_
+e2	e[house]	N	N	D	_	_	_	_	_	_
+{d}nansze	Nansze[1]	DN	DN	D	_	_	_	_	_	_
+sza3	szag[heart]	N	N	D	_	_	_	_	_	_
+e2-gibil4-le	_	FN	FN.ABL	Iabcdefgh	_	_	_	_	_	_
+mu	mu[year]	N	N	D	_	_	_	_	_	_
+us2-sa	us[follow]-a	V	NF.V.PT	D	_	_	_	_	_	_
+{d}amar-{d}suen	Amarsuen[1]	RN	RN	D	_	_	_	_	_	_
+lugal	lugal[king]	N	N	D	_	_	_	_	_	_

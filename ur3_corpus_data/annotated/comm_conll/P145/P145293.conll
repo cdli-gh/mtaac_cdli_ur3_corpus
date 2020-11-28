@@ -1,0 +1,15 @@
+#new_text=P145293					
+FORM	SEGM	XPOSTAG	XPOSTAG	POS	?	?	?	?	?	?
+2(esze3)	2(esze)[unit]	NU	N	D	B-COUNT	m^2	54000.0	surface	gin2	90000
+3(iku)	3(iku)[unit]	NU	N	D	I-COUNT	*	*	*	*	*
+GAN2	gana[field]	N	N	D	I-COUNT	*	*	*	*	*
+sze	sze[barley]	N	N	D	B-COM	_	_	_	_	_
+gurx(|SZE.KIN|)-a	gur[reap]-a	V	NF.V.PT	D	_	_	_	_	_	_
+gudu4	gudug[priest]	N	N	D	_	_	_	_	_	_
+{d}szara2	Szara[1][-ak]	DN	DN	D	_	_	_	_	_	_
+GAN2	gana[field]	N	N	D	_	_	_	_	_	_
+lu2-gi-na	Lugina[1][-ak][-ak]	PN	PN.GEN	D	_	_	_	_	_	_
+ugula	ugula[overseer][-ø]	N	N	D	_	_	_	_	_	_
+lugal-i3-zu	_	PN	PN.GEN.GEN	Iabcdef	_	_	_	_	_	_
+dah-hu	_	PN	PN	Iabcde	_	_	_	_	_	_
+sza3-dub-ba	_	N	N	Ia	_	_	_	_	_	_

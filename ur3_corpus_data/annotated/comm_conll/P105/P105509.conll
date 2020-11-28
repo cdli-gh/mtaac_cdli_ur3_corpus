@@ -1,0 +1,15 @@
+#new_text=P105509					
+FORM	SEGM	XPOSTAG	XPOSTAG	POS	B-COUNT	l	0.00018518518518518518	"dry	*	*
+2(asz)	2(asz)[one]	NU	NU	D	I-COUNT	*	*	*	sila3	0.00018518518518518518
+sze	sze[barley]	N	N	D	I-COUNT	*	*	*	*	*
+gur	gur[unit]	N	N	D	I-COUNT	*	*	*	*	*
+lugal	lugal[king]	N	N	D	_	_	_	_	_	_
+sze-ba	szeba[ration]	N	N	D	B-COM	_	_	_	_	_
+za3-mu	Zamu[1][-ak]	PN	N	D	_	_	_	_	_	_
+a-sza3	aszag[field]	N	N	D	_	_	_	_	_	_
+{d}szara2-ta	_	DN	DN	POS	_	_	_	_	_	_
+nam	_	N	N.ABS	D	_	_	_	_	_	_
+lugal-du10-ga	_	PN	PN	Iabcde	_	_	_	_	_	_
+gub-ba	gub[assigned]-a[-ak][-ø]	V	NF.V.PT	D	_	_	_	_	_	_
+iti	iti[month]	N	N	D	_	_	_	_	_	_
+nesag	Nesag[1][-'a]	N	MN.L1	D	_	_	_	_	_	_

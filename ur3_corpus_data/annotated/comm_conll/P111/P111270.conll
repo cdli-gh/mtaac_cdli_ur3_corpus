@@ -1,0 +1,27 @@
+#new_text=P111270					
+FORM	SEGM	XPOSTAG	XPOSTAG	POS	?	?	?	?	?	?
+5(gesz'u)	5(gesz'u)[six_hundred]	NU	NU	D	B-COUNT	_	3000	cardinal	_	3000
+kusz	kusz[leather]	N	N	D	B-COM	_	_	_	_	_
+udu	udu[sheep]	N	N	D	_	_	_	_	_	_
+a-gar	_	N	N	POS	_	_	_	_	_	_
+gu7-a	_	V	NF.V.PT.ABS	Iabcdefg	_	_	_	_	_	_
+1(gesz'u)	1(gesz'u)[six_hundred]	NU	NU	D	B-COUNT	_	600	cardinal	_	600
+kusz	kusz[leather]	N	N	D	B-COM	_	_	_	_	_
+udu	udu[sheep]	N	N	D	_	_	_	_	_	_
+a-gar	_	N	N	POS	_	_	_	_	_	_
+nu-gu7-a	_	V	NEG.NF.V.RDP.PT.ABS	Iabcdefg	_	_	_	_	_	_
+ki	ki[place]	N	N	D	_	_	_	_	_	_
+sur-bara2-rum-ta	_	PN	PN	POS	_	_	_	_	_	_
+mu	mu[year]	N	N	D	_	_	_	_	_	_
+aga3-us2	aga'us[soldier]	N	N	D	_	_	_	_	_	_
+nig2-gur11-an-na{ki}-sze3	_	SN	SN	POS	_	_	_	_	_	_
+i-pa2-li2-is-e	_	PN	PN.DAT-H	Iabcdef	_	_	_	_	_	_
+szu	szu[hand][-e]	N	N.L3-NH	D	_	_	_	_	_	_
+ba-ti	ba[-n]-teg[accept][-ø]	V	MID.3-SG-H-A.V.3-SG-P	D	_	_	_	_	_	_
+iti	iti[month]	N	N	D	_	_	_	_	_	_
+sze-il2-la	Sze'ila[1][-'a]	MN	MN.L1	D	_	_	_	_	_	_
+mu	mu[year]	N	N	D	_	_	_	_	_	_
+e2	e[house]	N	N	D	_	_	_	_	_	_
+{d}szara2	Szara[1][-ak]	DN	DN	D	_	_	_	_	_	_
+umma{ki}	Umma[1][-ak][-ø]	SN	SN.GEN.ABS	D	_	_	_	_	_	_
+ba-du3	ba-du[build][-ø]	V	MID.V.3-SG-S	D	_	_	_	_	_	_

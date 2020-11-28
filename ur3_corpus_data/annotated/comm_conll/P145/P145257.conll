@@ -1,0 +1,16 @@
+#new_text=P145257					
+FORM	SEGM	XPOSTAG	XPOSTAG	POS	?	?	?	?	?	?
+1(gesz2)	1(gesz)[sixty]	NU	NU	D	B-COUNT	_	86	cardinal	_	86
+2(u)	2(u)[ten]	NU	NU	D	I-COUNT	*	*	*	*	*
+6(disz)	6(disz)[one][-sze]	NU	NU	D	I-COUNT	*	*	*	*	*
+geme2	geme[female_worker]	N	N	D	_	_	_	_	_	_
+usz-bar	uszbar[weaver][-ak]	N	N	D	B-COM	_	_	_	_	_
+ugula	ugula[overseer][-ø]	N	N	D	_	_	_	_	_	_
+lugal-nig2-lagar-e	Lugalniglagare[1][-ak]	PN	PN.GEN	D	_	_	_	_	_	_
+igi-kar2	_	N	N	POS	_	_	_	_	_	_
+ak	ak[excavate][-a][-ak]	V	NF.V.PT	D	_	_	_	_	_	_
+u4	ud[day]	N	N	D	_	_	_	_	_	_
+9(disz)-kam	9(disz)[one]-ak-am	NU	NU.GEN.COP-3-SG	D	B-COUNT	_	9	cardinal	_	9
+zar3	zar[sheaf]	N	N	D	B-COM	_	_	_	_	_
+tab-ba	tab[grasp]-a	V	NF.V.PT	D	_	_	_	_	_	_
+nig2-lagar-e	Niglagare[1]	N	PN	D	_	_	_	_	_	_

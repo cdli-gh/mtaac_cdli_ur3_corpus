@@ -1,0 +1,30 @@
+#new_text=P138555					
+FORM	SEGM	XPOSTAG	XPOSTAG	POS	?	?	?	?	?	?
+n	_(_)[_]	NU	NU	D	_	_	_	_	_	_
+{uruda}za3-szu4	_	N	N	Ia	_	_	_	_	_	_
+udu	udu[sheep]	N	N	D	_	_	_	_	_	_
+x	_[_]	N	N	D	_	_	_	_	_	_
+n	_(_)[_]	NU	NU	D	_	_	_	_	_	_
+ma-na	mana[unit]	N	N	D	_	_	_	_	_	_
+uruda	urud[copper][-ak]	N	N	D	_	_	_	_	_	_
+za-ri2-in	_	N	N	POS	_	_	_	_	_	_
+n	_(_)[_]	NU	NU	D	_	_	_	_	_	_
+{uruda}zi3-gaz	_	N	N	Ia	_	_	_	_	_	_
+1(disz)	1(disz)[one]	NU	NU	D	B-COUNT	_	1	cardinal	_	1
+{uruda}mu-x	_	PN	PN.DAT-H	Iabcdefgh	_	_	_	_	_	_
+n	_(_)[_]	NU	NU	D	_	_	_	_	_	_
+1(disz)	1(disz)[one]	NU	NU	D	B-COUNT	_	1	cardinal	_	1
+{uruda}da-ha-sza-x	_	PN	PN	POS	B-COM	_	_	_	_	_
+la2-ia3	la'u[arrears]	N	N	D	_	_	_	_	_	_
+1(u)	1(u)[ten]	NU	NU	D	B-COUNT	_	none	unknown	_	none
+2(asz)	2(asz)[one]	NU	NU	D	I-COUNT	*	*	*	*	*
+gu2	gun[unit]	N	N	D	I-COUNT	*	*	*	*	*
+3(u)	3(u)[ten]	NU	NU	D	I-COUNT	*	*	*	*	*
+x	_[_]	N	N	D	I-COUNT	*	*	*	*	*
+ma-na	mana[unit]	N	N	D	I-COUNT	*	*	*	*	*
+x	_[_]	N	N	D	I-COUNT	*	*	*	*	*
+...-x-la-ta	_			POS	_	_	_	_	_	_
+mu-x	_	PN	PN.DAT-H	Iabcdefgh	_	_	_	_	_	_
+...-x-ta	_	PN	PN.GEN.ABL	Iabcdef	_	_	_	_	_	_
+x	_[_]	N	N	D	_	_	_	_	_	_
+...	_[_]	PN	N	D	_	_	_	_	_	_

@@ -1,0 +1,26 @@
+#new_text=P207665					
+FORM	SEGM	XPOSTAG	XPOSTAG	POS	B-COUNT	l	2660	"dry	*	*
+8(asz)	8(asz)[one]	NU	NU	D	I-COUNT	*	*	*	sila3	2660
+4(barig)	4(bariga)[unit]	NU	N	D	I-COUNT	*	*	*	*	*
+2(ban2)	2(ban)[unit]	NU	N	D	I-COUNT	*	*	*	*	*
+dabin	dabin[semolina]	N	N	D	B-COM	_	_	_	_	_
+gur	gur[unit]	N	N	D	_	_	_	_	_	_
+lugal	lugal[king]	N	N	D	_	_	_	_	_	_
+nig2-gu7-a	_	N	N	POS	_	_	_	_	_	_
+geme2	geme[female_worker]	N	N	D	_	_	_	_	_	_
+dumu	dumu[child]	N	N	D	_	_	_	_	_	_
+bala	bala[turn][-'a]	N	N.L1	D	_	_	_	_	_	_
+zal-la	zal[pass]-a	V	NF.V.PT	D	_	_	_	_	_	_
+iti	iti[month]	N	N	D	_	_	_	_	_	_
+ezem-{d}dumu-zi-ta	_	MN	MN	POS	_	_	_	_	_	_
+iti	iti[month]	N	N	D	_	_	_	_	_	_
+sze-il2-la-sze3	Sze'illa[1]-sze	MN	MN.TERM	D	_	_	_	_	_	_
+iti	iti[month]	N	N	D	_	_	_	_	_	_
+7(disz)-kam	7(disz)[one]-ak-am[-'a]	NU	NU.GEN.COP-3-SG	D	B-COUNT	_	7	cardinal	_	7
+kiszib3	kiszib[seal]	N	N	D	_	_	_	_	_	_
+ur-mes	Urmes[1]	PN	PN	D	_	_	_	_	_	_
+szabra	szabra[chief_administrator][-ak]	N	N	D	_	_	_	_	_	_
+ur-mes	Urmes[1]	PN	PN	D	_	_	_	_	_	_
+dub-sar	dubsar[scribe]	N	N	D	_	_	_	_	_	_
+dumu	dumu[child]	N	N	D	_	_	_	_	_	_
+ur-{d}lamma	Urlamma[1]	PN	PN	D	_	_	_	_	_	_

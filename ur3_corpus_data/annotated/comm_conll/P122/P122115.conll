@@ -1,0 +1,25 @@
+#new_text=P122115					
+FORM	SEGM	XPOSTAG	XPOSTAG	POS	?	?	?	?	?	?
+...	_[_]	PN	N	D	_	_	_	_	_	_
+1(u)	1(u)[ten]	NU	NU	D	B-COUNT	_	14	cardinal	_	14
+4(disz)	4(disz)[one]	NU	NU	D	I-COUNT	*	*	*	*	*
+gesz	gesz[tree]	N	N	D	B-COM	_	_	_	_	_
+hi-a	hi[mix]-a[-ø]	V	NF.V.PT	D	_	_	_	_	_	_
+...	_[_]	PN	N	D	_	_	_	_	_	_
+dub-ba	[dub-ba]	N	dub[tablet]-ak	D	_	_	_	_	_	_
+mar	mar[wagon]	N	N	D	_	_	_	_	_	_
+gesz	gesz[tree]	N	N	D	_	_	_	_	_	_
+...-la	_	PN	PN	Iabcde	_	_	_	_	_	_
+gesz-ra	_	N	N	Ia	_	_	_	_	_	_
+...	_[_]	PN	N	D	_	_	_	_	_	_
+pa	pa[branch]	N	N.ABS	D	_	_	_	_	_	_
+u4	ud[day]	N	N	D	_	_	_	_	_	_
+...-du-ta	_	PN	PN.GEN.ABL	Iabcdef	_	_	_	_	_	_
+...	_[_]	PN	N	D	_	_	_	_	_	_
+lu2-sa6-i3-ba	_	N	N	POS	_	_	_	_	_	_
+iti	iti[month]	N	N	D	_	_	_	_	_	_
+min-esz3	Minesz[1][-'a]	MN	MN.L1	D	_	_	_	_	_	_
+mu	mu[year]	N	N	D	_	_	_	_	_	_
+en-unu6-gal	Enunugal[1]	PN	PN	D	_	_	_	_	_	_
+{d}inanna	Inanna[1][-ak]	DN	DN	D	_	_	_	_	_	_
+ba-hun	ba-hug[hire][-ø]	V	MID.V.3-SG-S	D	_	_	_	_	_	_

@@ -1,0 +1,27 @@
+#new_text=P338109					
+FORM	SEGM	XPOSTAG	XPOSTAG	POS	B-COUNT	l	0.00018518518518518518	"dry	*	*
+2(asz)	2(asz)[one]	NU	NU	D	I-COUNT	*	*	*	sila3	0.00018518518518518518
+sze	sze[barley]	N	N	D	I-COUNT	*	*	*	*	*
+gur	gur[unit]	N	N	D	I-COUNT	*	*	*	*	*
+lugal	lugal[king]	N	N	D	_	_	_	_	_	_
+sze-ba	szeba[ration]	N	N	D	B-COM	_	_	_	_	_
+za3-mu	Zamu[1][-ak]	PN	N	D	_	_	_	_	_	_
+*RETOK*-capacity"	?	?	?	?	B-COUNT	l	20	"dry	*	*
+2(ban2)	2(ban)[unit]	NU	N	D	I-COUNT	*	*	*	sila3	20
+lu2-kal-la	Lukala[1][-ra]	PN	PN.GEN	D	_	_	_	_	_	_
+2(asz)	2(asz)[one]	NU	NU	D	B-COUNT	_	2	cardinal	_	2
+lugal-iti-da	Lugalitida[1]	PN	PN	D	_	_	_	_	_	_
+aszgab	aszgab[leatherworker]	N	N	D	_	_	_	_	_	_
+2(asz)	2(asz)[one]	NU	NU	D	B-COUNT	_	2	cardinal	_	2
+ur-e2-gu-la	Uregula[1][-ra]	PN	PN.DAT-H	D	_	_	_	_	_	_
+a-ru-a	_	GN	GN	POS	_	_	_	_	_	_
+{d}gu-la	Gula[1][-ak][-ra]	DN	DN	D	_	_	_	_	_	_
+sze-ba	szeba[ration]	N	N	D	B-COM	_	_	_	_	_
+za3-mu	Zamu[1][-ak]	PN	N	D	_	_	_	_	_	_
+a-sza3	aszag[field]	N	N	D	_	_	_	_	_	_
+{d}szara2-ta	_	DN	DN	POS	_	_	_	_	_	_
+mu	mu[year]	N	N	D	_	_	_	_	_	_
+dumu-lugal	_	N	N	Ia	_	_	_	_	_	_
+ensi2	ensik[ruler]	N	N	D	_	_	_	_	_	_
+an-sza-na{ki}-ke4	_	SN	SN	POS	_	_	_	_	_	_
+ba-tuku-a	_	V	V	POS	_	_	_	_	_	_

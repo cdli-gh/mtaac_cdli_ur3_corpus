@@ -1,0 +1,20 @@
+#new_text=P291143					
+FORM	SEGM	XPOSTAG	XPOSTAG	POS	?	?	?	?	?	?
+4(disz)	4(disz)[one]	NU	NU	D	B-COUNT	_	4	cardinal	_	4
+{gi}gur	gur[measuring_vessel]	N	N	D	B-COM	_	_	_	_	_
+*RETOK*-capacity"	?	?	?	?	B-COUNT	l	60	"dry	*	*
+1(barig)-ta	bariga[unit]-ta	NU	N.ABL	D	I-COUNT	*	*	*	sila3	60
+e2-kikken-ta	_	TN	TN	POS	_	_	_	_	_	_
+ki	ki[place]	N	N	D	B-COM	_	_	_	_	_
+u3-ma-ni-ta	_	PN	PN.GEN.ABL	Iabcdef	_	_	_	_	_	_
+kiszib3	kiszib[seal]	N	N	D	_	_	_	_	_	_
+lu2-{d}en-lil2-la2	Lu'enlila[1]	PN	PN	D	_	_	_	_	_	_
+iti	iti[month]	N	N	D	_	_	_	_	_	_
+e2	e[house]	N	N	D	_	_	_	_	_	_
+iti-6(disz)	_	NU	NU	POS	_	_	_	_	_	_
+mu	mu[year]	N	N	D	_	_	_	_	_	_
+sza-asz-szu2-ru-um	_	GN	GN	POS	_	_	_	_	_	_
+lu2-{d}en-lil2	Luyenlil[1][-ak]	PN	PN.GEN	D	_	_	_	_	_	_
+dub-sar	dubsar[scribe]	N	N	D	_	_	_	_	_	_
+dumu	dumu[child]	N	N	D	_	_	_	_	_	_
+u3-ma-ni	Umani[1]	V	PN	D	_	_	_	_	_	_

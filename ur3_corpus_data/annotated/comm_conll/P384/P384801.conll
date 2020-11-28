@@ -1,0 +1,15 @@
+#new_text=P384801					
+FORM	SEGM	XPOSTAG	XPOSTAG	POS	B-COUNT	l	0.005277777777777777	"dry	*	*
+5(u)	5(u)[ten]	NU	NU	D	I-COUNT	*	*	*	sila3	0.005277777777777777
+7(asz)	7(asz)[one]	NU	NU	D	I-COUNT	*	*	*	*	*
+sze	sze[barley]	N	N	D	I-COUNT	*	*	*	*	*
+gur	gur[unit]	N	N	D	I-COUNT	*	*	*	*	*
+lugal	lugal[king]	N	N	D	_	_	_	_	_	_
+numun	numun[seed]	N	N	D	_	_	_	_	_	_
+*RETOK*-capacity"	?	?	?	?	B-COUNT	l	106680	"dry	*	*
+5(gesz2)	5(gesz)[sixty]	NU	NU	D	I-COUNT	*	*	*	sila3	106680
+5(u)	5(u)[ten]	NU	NU	D	I-COUNT	*	*	*	*	*
+5(asz)	5(asz)[one]	NU	NU	D	I-COUNT	*	*	*	*	*
+3(barig)	3(bariga)[unit]	NU	N	D	I-COUNT	*	*	*	*	*
+gur	gur[unit]	N	N	D	I-COUNT	*	*	*	*	*
+e2-kiszib3-ba-sze3	ekiszibak[storeroom]-sze	TN	N.TERM	D	_	_	_	_	_	_

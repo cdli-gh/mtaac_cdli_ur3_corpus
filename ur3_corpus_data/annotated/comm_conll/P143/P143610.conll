@@ -1,0 +1,17 @@
+#new_text=P143610					
+FORM	SEGM	XPOSTAG	XPOSTAG	POS	?	?	?	?	?	?
+1(szar2)	1(szar)[unit]	NU	N	D	B-COUNT	_	5884	cardinal	_	5884
+3(gesz'u)	3(gesz'u)[six_hundred]	NU	NU	D	I-COUNT	*	*	*	*	*
+8(gesz2)	8(gesz2)[sixty]	NU	NU	D	I-COUNT	*	*	*	*	*
+4(disz)	4(disz)[one]	NU	NU	D	I-COUNT	*	*	*	*	*
+gurusz	gurusz[male]	N	N	D	B-COM	_	_	_	_	_
+u4	ud[day]	N	N	D	_	_	_	_	_	_
+1(disz)-sze3	1(disz)[one]-sze	NU	NU.TERM	D	B-COUNT	_	1	cardinal	_	1
+gurum2	gurum[inspection]	N	N	D	_	_	_	_	_	_
+sza3	szag[heart]	N	N	D	_	_	_	_	_	_
+buru14	_	N	N	Ia	_	_	_	_	_	_
+iti	iti[month]	N	N	D	_	_	_	_	_	_
+4(disz)-a-kam	_	NU	NU.ABS.COP-3-SG	Iab	B-COUNT	_	4	cardinal	_	4
+mu	mu[year]	N	N	D	_	_	_	_	_	_
+ur-bi2-i3-lum{ki}	_	GN	GN	POS	_	_	_	_	_	_
+ba-hul	ba-hulu[destroy][-ø]	V	MID.V.3-SG-S	D	_	_	_	_	_	_

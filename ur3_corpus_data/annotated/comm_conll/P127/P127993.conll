@@ -1,0 +1,23 @@
+#new_text=P127993					
+FORM	SEGM	XPOSTAG	XPOSTAG	POS	B-COUNT	l	150	"liquid	*	*
+5(disz)	5(disz)[one]	NU	NU	D	I-COUNT	*	*	*	sila3	150
+dug	dug[pot]	N	N	D	I-COUNT	*	*	*	*	*
+dida	dida[sweet_wort]	N	N	D	B-COM	_	_	_	_	_
+saga	saga[good][-ø]	V	NF.V.ABS	D	_	_	_	_	_	_
+5(disz)	5(disz)[one]	NU	NU	D	B-COUNT	_	none	unknown	_	none
+dug	dug[pot]	N	N	D	I-COUNT	*	*	*	*	*
+x	_[_]	N	N	D	I-COUNT	*	*	*	*	*
+x	_[_]	N	N	D	I-COUNT	*	*	*	*	*
+3(disz)	3(disz)[one]	NU	NU	D	B-COUNT	_	none	unknown	_	none
+x	_[_]	N	N	D	I-COUNT	*	*	*	*	*
+zi3-gu	zidgu[flour_type]	N	N	D	B-COM	_	_	_	_	_
+1(u)	1(u)[ten]	NU	NU	D	B-COUNT	_	13	cardinal	_	13
+3(disz)	3(disz)[one]	NU	NU	D	I-COUNT	*	*	*	*	*
+dabin	dabin[semolina]	N	N	D	_	_	_	_	_	_
+ma2-a	ma[ship]-'a	N	N.L1	D	_	_	_	_	_	_
+gar-ra	_	V	V	POS	_	_	_	_	_	_
+ki	ki[place]	N	N	D	_	_	_	_	_	_
+ur-{d}hendur-sag-ta	_	PN	PN	Iabcdefgh	_	_	_	_	_	_
+zi-ga	zig[expend]-a	V	NF.V.PT	D	_	_	_	_	_	_
+iti	iti[month]	N	N	D	_	_	_	_	_	_
+amar-a-a-si	Amarayasi[1][-'a]	MN	MN.L1	D	_	_	_	_	_	_

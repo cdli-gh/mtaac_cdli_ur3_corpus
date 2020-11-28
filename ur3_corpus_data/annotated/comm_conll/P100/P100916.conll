@@ -1,0 +1,14 @@
+#new_text=P100916					
+FORM	SEGM	XPOSTAG	XPOSTAG	POS	?	?	?	?	?	?
+4(disz)	4(disz)[one]	NU	NU	D	B-COUNT	g	2000.0000000000002	weight	gin2	240
+ma-na	mana[unit]	N	N	D	I-COUNT	*	*	*	*	*
+siki	siki[wool][-'a]	N	N	D	B-COM	_	_	_	_	_
+ur-bad3-tibirx(KU)-ra	Urbadtibira[-e]	PN	PN.ERG	D	_	_	_	_	_	_
+i3-du8	idu[doorkeeper][-ø]	PN	N.GEN.ABS	D	_	_	_	_	_	_
+e2	e[house]	N	N	D	_	_	_	_	_	_
+esir2	esir[bitumen]	N	N	D	_	_	_	_	_	_
+mu	mu[year]	N	N	D	_	_	_	_	_	_
+en-me-mah-gal-an-na	_	PN	PN	Ia	_	_	_	_	_	_
+en	en[priest]	N	N	D	_	_	_	_	_	_
+{d}nanna	Nanna[1][-ak]	DN	DN	D	_	_	_	_	_	_
+ba-hun-a	_	V	MID.V.3-SG-S	Iabcdefgh	_	_	_	_	_	_

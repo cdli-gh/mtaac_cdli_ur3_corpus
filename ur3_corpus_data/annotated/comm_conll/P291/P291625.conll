@@ -1,0 +1,27 @@
+#new_text=P291625					
+FORM	SEGM	XPOSTAG	XPOSTAG	POS	?	?	?	?	?	?
+2(u)	2(u)[ten]	NU	NU	D	B-COUNT	_	23	cardinal	_	23
+3(disz)	3(disz)[one]	NU	NU	D	I-COUNT	*	*	*	*	*
+he2-dab5	hedab[worker]	V	N.DAT-H	D	B-COM	_	_	_	_	_
+2(u)	2(u)[ten]	NU	NU	D	B-COUNT	_	22	cardinal	_	22
+2(disz)	2(disz)[one]	NU	NU	D	I-COUNT	*	*	*	*	*
+ug3	ug[people]	N	N	D	_	_	_	_	_	_
+tur-tur	_	V	V	POS	_	_	_	_	_	_
+2(u)	2(u)[ten]	NU	NU	D	B-COUNT	_	20	cardinal	_	20
+ugula	ugula[overseer][-ø]	N	N	D	_	_	_	_	_	_
+ARAD2-{d}szara2	Aradszara[1][-ak]	PN	PN.GEN	D	_	_	_	_	_	_
+e2	e[house]	N	N	D	_	_	_	_	_	_
+{d}szu-{d}suen	Szusuen[1]	RN	RN	D	_	_	_	_	_	_
+gub-ba	gub[assigned]-a[-ak][-ø]	V	NF.V.PT	D	_	_	_	_	_	_
+gurum2	gurum[inspection]	N	N	D	_	_	_	_	_	_
+ak	ak[excavate][-a][-ak]	V	NF.V.PT	D	_	_	_	_	_	_
+u4	ud[day]	N	N	D	_	_	_	_	_	_
+1(u)	1(u)[ten]	NU	NU	D	B-COUNT	_	10	cardinal	_	10
+5(disz)-kam	5(disz)[one]-ak-am[-ak][-ø]	NU	NU.GEN.COP-3-SG	D	B-COUNT	_	5	cardinal	_	5
+iti	iti[month]	N	N	D	_	_	_	_	_	_
+e2	e[house]	N	N	D	_	_	_	_	_	_
+iti-6(disz)	_	NU	NU	POS	_	_	_	_	_	_
+mu	mu[year]	N	N	D	_	_	_	_	_	_
+e2	e[house]	N	N	D	_	_	_	_	_	_
+{d}szara2	Szara[1][-ak]	DN	DN	D	_	_	_	_	_	_
+ba-du3	ba-du[build][-ø]	V	MID.V.3-SG-S	D	B-COM	_	_	_	_	_

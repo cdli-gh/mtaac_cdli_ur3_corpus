@@ -1,0 +1,26 @@
+#new_text=P119821					
+FORM	SEGM	XPOSTAG	XPOSTAG	POS	?	?	?	?	?	?
+2(gesz2)	2(gesz)[sixty]	NU	NU	D	B-COUNT	_	120	cardinal	_	120
+sa	sa[bundle]	N	N	D	_	_	_	_	_	_
+gi	gi[reed][-ø]	N	N	D	_	_	_	_	_	_
+kid	kid[mat]	N	N	D	_	_	_	_	_	_
+dagal	dagal[wide][-ø]	V	NF.V.ABS	D	_	_	_	_	_	_
+ma2-gur8	magur[barge]	N	N	D	_	_	_	_	_	_
+{d}szara2-sze3	_	DN	DN	POS	_	_	_	_	_	_
+ki	ki[place]	N	N	D	_	_	_	_	_	_
+lugal-a2-zi-da-ta	Lugalazida[1][-ak]-ta	PN	PN.GEN.ABL	D	_	_	_	_	_	_
+kiszib3	kiszib[seal]	N	N	D	_	_	_	_	_	_
+lu2-he2-gal2	Luhegal[1][-e]	PN	PN.ERG	D	_	_	_	_	_	_
+iti	iti[month]	N	N	D	_	_	_	_	_	_
+sze-kar-gal2-la	_	MN	MN.L1	Ia	_	_	_	_	_	_
+mu	mu[year]	N	N	D	_	_	_	_	_	_
+x	_[_]	N	N	D	_	_	_	_	_	_
+x	_[_]	N	N	D	_	_	_	_	_	_
+x	_[_]	N	N	D	_	_	_	_	_	_
+x{ki}	_[1][-sze]	SN	GN	D	_	_	_	_	_	_
+...	_[_]	PN	N	D	_	_	_	_	_	_
+lu2-he2-gal2	Luhegal[1][-e]	PN	PN.ERG	D	_	_	_	_	_	_
+dumu	dumu[child]	N	N	D	_	_	_	_	_	_
+ur-{gesz}gigir	Urgigir[1]	PN	PN	D	B-COM	_	_	_	_	_
+mu-sar	_	N	N.3-SG-NH-POSS.ABS	Iabcdefg	_	_	_	_	_	_
+{d}szara2	Szara[1][-ak]	DN	DN	D	_	_	_	_	_	_

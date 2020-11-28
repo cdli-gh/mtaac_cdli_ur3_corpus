@@ -1,0 +1,23 @@
+#new_text=P124829					
+FORM	SEGM	XPOSTAG	XPOSTAG	POS	?	?	?	?	?	?
+2(disz)	2(disz)[one]	NU	NU	D	B-COUNT	g	1000.0000000000001	weight	gin2	120
+ma-na	mana[unit]	N	N	D	I-COUNT	*	*	*	*	*
+siki-kur-ra	sikikurra[type_of_wool]	N	N	D	_	_	_	_	_	_
+ku3-bi	kug[silver]-bi[-ø]	N	N.3-SG-NH-POSS.ABS	D	B-COM	_	_	_	_	_
+igi-4(disz)-gal2	igi4(disz)[one]gal[fraction]	NU	NU	D	B-COUNT	_	0.25	cardinal	_	0.25
+dam	dam[spouse]	N	N	D	_	_	_	_	_	_
+lu2-{d}nin-szubur	Luninszubur[1][-ra]	PN	PN	D	_	_	_	_	_	_
+szabra	szabra[chief_administrator][-ak]	N	N	D	_	_	_	_	_	_
+szu	szu[hand][-e]	N	N.L3-NH	D	B-COM	_	_	_	_	_
+ba-an-ti	ba-n-teg[accept][-ø]	V	MID.3-SG-H-A.V.3-SG-P	D	_	_	_	_	_	_
+ku3-bi	kug[silver]-bi[-ø]	N	N.3-SG-NH-POSS.ABS	D	_	_	_	_	_	_
+nu-mu-kux(KWU147)	_	V	MID.L1-SYN.V.3-SG-S	Iabcdefgh	_	_	_	_	_	_
+kiszib3	kiszib[seal]	N	N	D	_	_	_	_	_	_
+nu-ra-a	Nuraya[1][-ak]	PN	PN.GEN	D	_	_	_	_	_	_
+ur4-sza3-ki-du10	_	PN	PN.GEN.ABL	Iabcdefgh	_	_	_	_	_	_
+iti	iti[month]	N	N	D	_	_	_	_	_	_
+e2-iti-6(disz)	E'iti6[1][-'a]	NU	MN.L1	D	_	_	_	_	_	_
+mu	mu[year]	N	N	D	_	_	_	_	_	_
+us2-sa	us[follow]-a	V	NF.V.PT	D	_	_	_	_	_	_
+{d}szu-{d}suen	Szusuen[1]	RN	RN	D	_	_	_	_	_	_
+lugal	lugal[king]	N	N	D	_	_	_	_	_	_

@@ -1,0 +1,22 @@
+#new_text=P315980					
+FORM	SEGM	XPOSTAG	XPOSTAG	POS	?	?	?	?	?	?
+1(disz)	1(disz)[one]	NU	NU	D	B-COUNT	_	1	cardinal	_	1
+...-lal3	_	PN	PN	Ia	_	_	_	_	_	_
+1(disz)	1(disz)[one]	NU	NU	D	B-COUNT	_	1	cardinal	_	1
+lugal-ezem	Lugalezem[1]	PN	PN	D	_	_	_	_	_	_
+e2	e[house]	N	N	D	_	_	_	_	_	_
+{d}dumu-zi-me	_	DN	DN	POS	_	_	_	_	_	_
+1(disz)	1(disz)[one]	NU	NU	D	B-COUNT	_	1	cardinal	_	1
+lugal-{gesz}gigir	_	PN	PN.DAT-H	Iabcdefgh	B-COM	_	_	_	_	_
+e2	e[house]	N	N	D	_	_	_	_	_	_
+{d}nin-dar-a	_	DN	DN	D	_	_	_	_	_	_
+lu2	lu[person]	N	N	D	_	_	_	_	_	_
+sa-gaz	_	V	V	POS	_	_	_	_	_	_
+ur-gu2-...-a	_	PN	PN	Iabcde	_	_	_	_	_	_
+zi-ga	zig[expend]-a	V	NF.V.PT	D	_	_	_	_	_	_
+ur-da	_	PN	PN.GEN.ABS	Iabcdefg	_	_	_	_	_	_
+en-ru	_	PN	PN.DAT-H	Iabcdefgh	_	_	_	_	_	_
+mu	mu[year]	N	N	D	_	_	_	_	_	_
+us2-sa	us[follow]-a	V	NF.V.PT	D	_	_	_	_	_	_
+en-am-gal	Enamgalanna[1]	PN	PN	D	_	_	_	_	_	_
+ba-hun	ba-hug[hire][-ø]	V	MID.V.3-SG-S	D	_	_	_	_	_	_

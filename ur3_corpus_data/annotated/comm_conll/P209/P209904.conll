@@ -1,0 +1,19 @@
+#new_text=P209904					
+FORM	SEGM	XPOSTAG	XPOSTAG	POS	?	?	?	?	?	?
+1(u)	1(u)[ten]	NU	NU	D	B-COUNT	_	10	cardinal	_	10
+1(u)	1(u)[ten]	NU	NU	D	B-COUNT	_	none	unknown	_	none
+x	_[_]	N	N	D	I-COUNT	*	*	*	*	*
+...	_[_]	PN	N	D	_	_	_	_	_	_
+...-ga	_	PN	PN	Iabcde	_	_	_	_	_	_
+...-ti	_[_]	PN	PN.GEN.ABL	Iabcdefgh	_	_	_	_	_	_
+mu	mu[year]	N	N	D	_	_	_	_	_	_
+en	en[priest]	N	N	D	_	_	_	_	_	_
+{d}nanna	Nanna[1][-ak]	DN	DN	D	_	_	_	_	_	_
+masz-e	masz[goat]-e	N	N.L3-NH	D	B-COM	_	_	_	_	_
+in-pa3	i-n-pad[name][-ø]	V	FIN.3-SG-H-A.V.3-SG-P	D	_	_	_	_	_	_
+ur-{d}{asz}aszgi{gi4}	_	PN	PN	D	_	_	_	_	_	_
+ensi2	ensik[ruler]	N	N	D	_	_	_	_	_	_
+adab{ki}	_	SN	SN.GEN.ABS	D	_	_	_	_	_	_
+usz-sa6-ga	_	PN	PN	D	_	_	_	_	_	_
+dub-sar	dubsar[scribe]	N	N	D	_	_	_	_	_	_
+dumu-ni	dumu[child]-ani	N	N.3-SG-H-POSS	D	_	_	_	_	_	_

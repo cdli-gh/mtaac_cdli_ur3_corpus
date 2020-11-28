@@ -1,0 +1,26 @@
+#new_text=P111699					
+FORM	SEGM	XPOSTAG	XPOSTAG	POS	?	?	?	?	?	?
+2(gesz2)	2(gesz)[sixty]	NU	NU	D	B-COUNT	_	123	cardinal	_	123
+3(disz)	3(disz)[one]	NU	NU	D	I-COUNT	*	*	*	*	*
+he2-dab5	hedab[worker]	V	N.DAT-H	D	B-COM	_	_	_	_	_
+u4	ud[day]	N	N	D	_	_	_	_	_	_
+1(disz)-sze3	1(disz)[one]-sze	NU	NU.TERM	D	B-COUNT	_	1	cardinal	_	1
+gi	gi[reed][-ø]	N	N	D	_	_	_	_	_	_
+zi-da	zid[right]-a	V	NF.V.PT	D	_	_	_	_	_	_
+gi-a	_	N	N	POS	_	_	_	_	_	_
+ka	kag[mouth]	N	N	D	_	_	_	_	_	_
+i7-da	_	N	N.GEN	D	_	_	_	_	_	_
+du8-a	du[spread][-a][-ø]	V	NF.V.PT.ABS	D	B-COM	_	_	_	_	_
+sza3	szag[heart]	N	N	D	_	_	_	_	_	_
+i7	id[river]	N	N	D	_	_	_	_	_	_
+{d}nin-gir2-su	Ningirsu[1][-ak][-ak]	DN	DN	D	_	_	_	_	_	_
+ba-al	_	V	NF.V.PT	Iabcdefgh	_	_	_	_	_	_
+a-nigin2	_	N	N.TERM	Iabcdefgh	_	_	_	_	_	_
+a-sza3	aszag[field]	N	N	D	_	_	_	_	_	_
+u2-szim-{d}ba-ba6	_	FN	FN	POS	_	_	_	_	_	_
+gub-ba	gub[assigned]-a[-ak][-ø]	V	NF.V.PT	D	_	_	_	_	_	_
+iti	iti[month]	N	N	D	_	_	_	_	_	_
+ezem-{d}li9-si4	_	MN	MN	POS	_	_	_	_	_	_
+mu	mu[year]	N	N	D	_	_	_	_	_	_
+en-nun-e-ki-ag2	_	N	N	POS	_	_	_	_	_	_
+ba-hun	ba-hug[hire][-ø]	V	MID.V.3-SG-S	D	_	_	_	_	_	_

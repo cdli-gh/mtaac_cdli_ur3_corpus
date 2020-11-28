@@ -1,0 +1,13 @@
+#new_text=P202361					
+FORM	SEGM	XPOSTAG	XPOSTAG	POS	B-COUNT	l	153716	"dry	*	*
+8(gesz2)	8(gesz2)[sixty]	NU	NU	D	I-COUNT	*	*	*	sila3	153716
+3(u)	3(u)[ten]	NU	NU	D	I-COUNT	*	*	*	*	*
+2(asz)	2(asz)[one]	NU	NU	D	I-COUNT	*	*	*	*	*
+1(barig)	1(bariga)[unit]	NU	N	D	I-COUNT	*	*	*	*	*
+5(ban2)	5(ban)[unit]	NU	N	D	I-COUNT	*	*	*	*	*
+6(disz)	6(disz)[one][-sze]	NU	NU	D	I-COUNT	*	*	*	*	*
+sila3	sila[unit]	N	N	D	I-COUNT	*	*	*	*	*
+sze	sze[barley]	N	N	D	I-COUNT	*	*	*	*	*
+gur	gur[unit]	N	N	D	I-COUNT	*	*	*	*	*
+sa2-du11	sadug[offerings]	N	N	D	_	_	_	_	_	_
+szu-palil2	_	PN	PN	Ia	_	_	_	_	_	_

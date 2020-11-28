@@ -1,0 +1,24 @@
+#new_text=P100343					
+FORM	SEGM	XPOSTAG	XPOSTAG	POS	?	?	?	?	?	?
+1(gesz2)	1(gesz)[sixty]	NU	NU	D	B-COUNT	_	60	cardinal	_	60
+sa	sa[bundle]	N	N	D	_	_	_	_	_	_
+gi	gi[reed][-ø]	N	N	D	_	_	_	_	_	_
+gu-nigin2-bi	_	N	N.3-SG-NH-POSS.ABS	Iabcdefg	_	_	_	_	_	_
+1(u)	1(u)[ten]	NU	NU	D	B-COUNT	_	12	cardinal	_	12
+2(disz)	2(disz)[one]	NU	NU	D	I-COUNT	*	*	*	*	*
+ba-gar	_	PN	PN	Iabcdefgh	_	_	_	_	_	_
+bu3-za-a	_	PN	PN	Ia	_	_	_	_	_	_
+kiszib3	kiszib[seal]	N	N	D	_	_	_	_	_	_
+it-ra-ak-i3-li2	_	PN	PN	D	_	_	_	_	_	_
+iti	iti[month]	N	N	D	_	_	_	_	_	_
+ezem-{d}nin-a-zu	Ezemninazu[1][-'a]	MN	MN.L1	D	_	_	_	_	_	_
+sza-at-{d}suen	_	PN	PN	D	_	_	_	_	_	_
+dam	dam[spouse]	N	N	D	_	_	_	_	_	_
+{d}szul-gi	Szulgir[1]	RN	RN	D	_	_	_	_	_	_
+nita	nita[male]	N	N	D	_	_	_	_	_	_
+kal-ga	kalag[strong]-a	V	NF.V.SUB	D	_	_	_	_	_	_
+lugal	lugal[king]	N	N	D	_	_	_	_	_	_
+uri5{ki}-ma	Urim[1]-ak	SN	SN.GEN	D	_	_	_	_	_	_
+it-ra-ak-i3-li2	_	PN	PN	D	_	_	_	_	_	_
+ra2-gaba	ragaba[rider]	N	N.ABS	D	_	_	_	_	_	_
+ARAD2-zu	arad[slave]-zu[-ø]	PN	N.2-SG-POSS.ABS	D	_	_	_	_	_	_

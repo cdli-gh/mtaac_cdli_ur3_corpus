@@ -1,0 +1,20 @@
+#new_text=P134633					
+FORM	SEGM	XPOSTAG	XPOSTAG	POS	?	?	?	?	?	?
+1(disz)	1(disz)[one]	NU	NU	D	B-COUNT	_	none	unknown	_	none
+x	_[_]	N	N	D	I-COUNT	*	*	*	*	*
+...	_[_]	PN	N	D	I-COUNT	*	*	*	*	*
+ur5-...	_	DET	DET	POS	_	_	_	_	_	_
+en	en[priest]	N	N	D	_	_	_	_	_	_
+ki	ki[place]	N	N	D	B-COM	_	_	_	_	_
+...-da-ta	_	PN	PN.GEN.GEN.ABL	Iabcdef	_	_	_	_	_	_
+ad-da-kal-la	Addakala[1][-ra]	PN	PN	D	_	_	_	_	_	_
+szu	szu[hand][-e]	N	N.L3-NH	D	_	_	_	_	_	_
+ba-ti	ba[-n]-teg[accept][-ø]	V	MID.3-SG-H-A.V.3-SG-P	D	_	_	_	_	_	_
+eb-ta	_	PN	PN.GEN.ABL	Ia	_	_	_	_	_	_
+dumu	dumu[child]	N	N	D	_	_	_	_	_	_
+lugal-nam-tar-re	_	FN	FN	POS	_	_	_	_	_	_
+a-da-lal3	Adalal[1][-ra]	N	PN	D	_	_	_	_	_	_
+lu2-inim-bi-me	_	N	N.3-SG-NH-POSS.ABS.COP-3-PL.SUB.ABS	Iab	_	_	_	_	_	_
+ad-da-kal-la	Addakala[1][-ra]	PN	PN	D	_	_	_	_	_	_
+dumu	dumu[child]	N	N	D	_	_	_	_	_	_
+x-x-...	_	PN	PN	Iabcde	_	_	_	_	_	_

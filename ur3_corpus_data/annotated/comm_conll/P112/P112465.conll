@@ -1,0 +1,27 @@
+#new_text=P112465					
+FORM	SEGM	XPOSTAG	XPOSTAG	POS	?	?	?	?	?	?
+7(gesz2)	7(gesz)[sixty]	NU	NU	D	B-COUNT	m	2613.0	length	gi	871.0
+1(u)	1(u)[ten]	NU	NU	D	I-COUNT	*	*	*	*	*
+5(disz)	5(disz)[one]	NU	NU	D	I-COUNT	*	*	*	*	*
+1/2(disz)	1/2(disz)[one]	NU	NU	D	I-COUNT	*	*	*	*	*
+ninda	ninda[bread]	N	N	D	I-COUNT	*	*	*	*	*
+3(iku)	3(iku)[unit]	NU	N	D	B-COUNT	m^2	10800.0	surface	gin2	18000
+GAN2	gana[field]	N	N	D	I-COUNT	*	*	*	*	*
+szu-BAD	_	PN	PN	Iabcdefgh	_	_	_	_	_	_
+na4	_	FN	FN	POS	B-COM	_	_	_	_	_
+a-sza3-bi	_	N	N.3-SG-NH-POSS.ABS	D	_	_	_	_	_	_
+4(szar'u)	_	NU	NU	POS	B-COUNT	m^2	175618800.0	surface	gin2	292698000
+5(szar2)	_	NU	NU	POS	I-COUNT	*	*	*	*	*
+1(bur'u)	1(bur'u)[unit]	NU	N	D	I-COUNT	*	*	*	*	*
+3(iku)	3(iku)[unit]	NU	N	D	I-COUNT	*	*	*	*	*
+GAN2	gana[field]	N	N	D	I-COUNT	*	*	*	*	*
+1(u)	1(u)[ten]	NU	NU	D	B-COUNT	m^2	45432.0	surface	gin2	75720.0
+2(disz)	2(disz)[one]	NU	NU	D	I-COUNT	*	*	*	*	*
+sar	sar[unit]	N	N	D	I-COUNT	*	*	*	*	*
+2(esze3)	2(esze)[unit]	NU	N	D	I-COUNT	*	*	*	*	*
+1/2(iku)	1/2(iku)[unit]	NU	N	D	I-COUNT	*	*	*	*	*
+GAN2	gana[field]	N	N	D	I-COUNT	*	*	*	*	*
+1(bur3)	1(bur)[unit]	NU	N	D	B-COUNT	_	none	unknown	_	none
+x	_[_]	N	N	D	I-COUNT	*	*	*	*	*
+GAN2	gana[field]	N	N	D	I-COUNT	*	*	*	*	*
+tur	Tur[1]	V	NF.V.ABS	D	_	_	_	_	_	_

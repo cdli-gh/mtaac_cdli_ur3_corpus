@@ -1,0 +1,21 @@
+#new_text=P499847					
+FORM	SEGM	XPOSTAG	XPOSTAG	POS	?	?	?	?	?	?
+gu4	gud[ox]	N	N	D	_	_	_	_	_	_
+u4	ud[day]	N	N	D	_	_	_	_	_	_
+2(u)	2(u)[ten]	NU	NU	D	B-COUNT	_	20	cardinal	_	20
+n-kam	_(_)[_]-ak-am	NU	NU.GEN.COP-3-SG	D	_	_	_	_	_	_
+gu4-numun	_	PN	PN	POS	_	_	_	_	_	_
+ki	ki[place]	N	N	D	_	_	_	_	_	_
+ARAD2-mu-ta	_	PN	PN.GEN.ABL	Iab	_	_	_	_	_	_
+zu2-ba	_	N	N	POS	_	_	_	_	_	_
+engar	engar[farmer]	N	N	D	_	_	_	_	_	_
+{d}szu-{d}suen-ke4	_	DN	DN	POS	_	_	_	_	_	_
+i3-dab5	i[-n]-dab[seize][-ø]	V	FIN.3-SG-H-A.V.3-SG-P	D	_	_	_	_	_	_
+a-sza3	aszag[field]	N	N	D	_	_	_	_	_	_
+ga-ma-ar-da	_	FN	FN	POS	_	_	_	_	_	_
+mu	mu[year]	N	N	D	_	_	_	_	_	_
+na-ru2-a-mah	naruamah[magnificent_stele][-ø]	PN	N.ABS	D	_	_	_	_	_	_
+ba-du3	ba-du[build][-ø]	V	MID.V.3-SG-S	D	B-COM	_	_	_	_	_
+zu-ba	_	PN	PN.GEN.ABS	Iabcdef	_	_	_	_	_	_
+engar	engar[farmer]	N	N	D	_	_	_	_	_	_
+{d}szu-{d}suen	Szusuen[1]	RN	RN	D	_	_	_	_	_	_

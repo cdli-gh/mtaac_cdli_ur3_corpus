@@ -1,0 +1,14 @@
+#new_text=P137538					
+FORM	SEGM	XPOSTAG	XPOSTAG	POS	?	?	?	?	?	?
+...	_[_]	PN	N	D	_	_	_	_	_	_
+kiszib3	kiszib[seal]	N	N	D	_	_	_	_	_	_
+lu2-...	_[1][-ra]	PN	PN	D	_	_	_	_	_	_
+6(gesz2)	6(gesz)[sixty]	NU	NU	D	B-COUNT	_	none	unknown	_	none
+4(u)	4(u)[ten]	NU	NU	D	I-COUNT	*	*	*	*	*
+3(disz)	3(disz)[one]	NU	NU	D	I-COUNT	*	*	*	*	*
+...	_[_]	PN	N	D	I-COUNT	*	*	*	*	*
+ma2-a	ma[ship]-'a	N	N.L1	D	_	_	_	_	_	_
+si-ga	sig[load]-a	N	NF.V.PT	D	_	_	_	_	_	_
+kiszib3	kiszib[seal]	N	N	D	_	_	_	_	_	_
+ma2	ma[ship]	N	N	D	_	_	_	_	_	_
+{d}nanna-ka	Nanna[1]-ak-ak[-'a]	DN	DN.GEN.L1	D	_	_	_	_	_	_

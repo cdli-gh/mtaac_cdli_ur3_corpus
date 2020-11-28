@@ -1,0 +1,29 @@
+#new_text=P127622					
+FORM	SEGM	XPOSTAG	XPOSTAG	POS	?	?	?	?	?	?
+5(u)	5(u)[ten]	NU	NU	D	B-COUNT	_	55	cardinal	_	55
+5(disz)	5(disz)[one]	NU	NU	D	I-COUNT	*	*	*	*	*
+{uruda}gurx(|SZE.KIN|)	_	N	N	Ia	B-COM	_	_	_	_	_
+sza3-bi-ta	szag[heart]-bi-ta	PN	N.3-SG-NH-POSS.ABL	D	_	_	_	_	_	_
+1(u)	1(u)[ten]	NU	NU	D	B-COUNT	_	15	cardinal	_	15
+5(disz)	5(disz)[one]	NU	NU	D	I-COUNT	*	*	*	*	*
+lugal-e2-mah-e	Lugalemahe[1]	N	PN	D	_	_	_	_	_	_
+1(u)	1(u)[ten]	NU	NU	D	B-COUNT	_	15	cardinal	_	15
+5(disz)	5(disz)[one]	NU	NU	D	I-COUNT	*	*	*	*	*
+lugal-nesag-e	Lugalnesage[1][-e]	PN	PN	D	_	_	_	_	_	_
+5(disz)	5(disz)[one]	NU	NU	D	B-COUNT	_	6	cardinal	_	6
+1(disz)	1(disz)[one]	NU	NU	D	I-COUNT	*	*	*	*	*
+szesz-kal-la	Szeszkala[1][-ra]	PN	PN	D	_	_	_	_	_	_
+x	_[_]	N	N	D	_	_	_	_	_	_
+lu2-e2-gal	_	PN	PN	Iabcdefgh	_	_	_	_	_	_
+1(u)	1(u)[ten]	NU	NU	D	B-COUNT	_	none	unknown	_	none
+la2	la[hang][-ø]	V	NF.V.ABS	D	I-COUNT	*	*	*	*	*
+1(disz)	1(disz)[one]	NU	NU	D	I-COUNT	*	*	*	*	*
+...	_[_]	PN	N	D	I-COUNT	*	*	*	*	*
+5(disz)	5(disz)[one]	NU	NU	D	B-COUNT	_	5	cardinal	_	5
+{uruda}gurx(|SZE.KIN|)	_	N	N	Ia	B-COM	_	_	_	_	_
+silim-ma-...	_	V	NF.V.PT.GEN	Iabcdef	_	_	_	_	_	_
+e2-a	e[house][-ak]-'a	GN	N.L1	D	_	_	_	_	_	_
+gal2-la	gal[be]-a[-ø]	V	NF.V.PT	D	_	_	_	_	_	_
+1(u)	1(u)[ten]	NU	NU	D	B-COUNT	_	10	cardinal	_	10
+IG	_			POS	_	_	_	_	_	_
+ki-lu5-la	Kilula[1]	PN	PN	D	_	_	_	_	_	_

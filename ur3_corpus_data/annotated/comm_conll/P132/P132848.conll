@@ -1,0 +1,25 @@
+#new_text=P132848					
+FORM	SEGM	XPOSTAG	XPOSTAG	POS	?	?	?	?	?	?
+5(disz)	5(disz)[one]	NU	NU	D	B-COUNT	_	5	cardinal	_	5
+gurusz	gurusz[male]	N	N	D	B-COM	_	_	_	_	_
+u4	ud[day]	N	N	D	_	_	_	_	_	_
+2(u)-sze3	_	NU	NU.TERM	Iab	B-COUNT	_	20	cardinal	_	20
+{gesz}szu	_	N	N.ABS	Iabcdefgh	B-COM	_	_	_	_	_
+{uruda}gur10	_	N	N.ABS	Iabcde	_	_	_	_	_	_
+kid7-a	_	N	N	POS	_	_	_	_	_	_
+ma2-a	ma[ship]-'a	N	N.L1	D	_	_	_	_	_	_
+gar-ra	_	V	V	POS	_	_	_	_	_	_
+{gesz}ab-ba{ki}-dun-ta	_	GN	GN	POS	_	_	_	_	_	_
+u3	u[and]	CNJ	CNJ	D	_	_	_	_	_	_
+gir2-su{ki}-ta	Girsu[1][-ak][-ak]-ta	SN	SN.GEN.GEN.ABL	D	_	_	_	_	_	_
+e2-gu-za-la2-me	_	N	N.GEN.DAT-H	Iabcdefg	_	_	_	_	_	_
+ugula	ugula[overseer][-ø]	N	N	D	_	_	_	_	_	_
+ur-{d}lamma	Urlamma[1]	PN	PN	D	_	_	_	_	_	_
+giri3	giri[foot]	N	N	D	_	_	_	_	_	_
+ur-usz-gid2-da	_	PN	PN.GEN.ABL	Iabcdefgh	_	_	_	_	_	_
+iti	iti[month]	N	N	D	_	_	_	_	_	_
+sze-sag11-ku5	Szesagku[1][-'a]	MN	MN.L1	D	_	_	_	_	_	_
+mu	mu[year]	N	N	D	_	_	_	_	_	_
+en	en[priest]	N	N	D	_	_	_	_	_	_
+eridu{ki}	Eridug[1][-ak][-ø]	SN	SN.GEN.ABS	D	_	_	_	_	_	_
+ba-a-hun	ba-hug[hire][-ø]	V	MID.V.3-SG-S	D	_	_	_	_	_	_

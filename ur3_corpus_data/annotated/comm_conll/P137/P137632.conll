@@ -1,0 +1,17 @@
+#new_text=P137632					
+FORM	SEGM	XPOSTAG	XPOSTAG	POS	B-COUNT	l	3	"liquid	*	*
+*RETOK*-capacity"	?	?	?	?	I-COUNT	l	3	"dry	sila3	3
+3(disz)	3(disz)[one]	NU	NU	D	I-COUNT	*	*	*	sila3	3
+sila3	sila[unit]	N	N	D	I-COUNT	*	*	*	*	*
+i3	i[oil]	N	N	D	B-COM	_	_	_	_	_
+*RETOK*-capacity"	?	?	?	?	B-COUNT	l	10	"dry	*	*
+1(ban2)	1(ban)[unit]	NU	N	D	I-COUNT	*	*	*	sila3	10
+ku6	kud[fish]	N	N	D	_	_	_	_	_	_
+a-ba-{d}nanna-gin7	_	PN	PN	POS	_	_	_	_	_	_
+nar	_	N	N	POS	_	_	_	_	_	_
+iti	iti[month]	N	N	D	_	_	_	_	_	_
+a2-ki-ti	Akiti[1][-'a]	N	MN.L1	D	_	_	_	_	_	_
+mu	mu[year]	N	N	D	_	_	_	_	_	_
+x	_[_]	N	N	D	_	_	_	_	_	_
+x	_[_]	N	N	D	_	_	_	_	_	_
+x	_[_]	N	N	D	_	_	_	_	_	_

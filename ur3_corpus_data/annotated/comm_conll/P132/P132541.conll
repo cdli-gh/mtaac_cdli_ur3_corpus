@@ -1,0 +1,22 @@
+#new_text=P132541					
+FORM	SEGM	XPOSTAG	XPOSTAG	POS	?	?	?	?	?	?
+1(u)	1(u)[ten]	NU	NU	D	B-COUNT	_	10	cardinal	_	10
+gurusz	gurusz[male]	N	N	D	B-COM	_	_	_	_	_
+u4	ud[day]	N	N	D	_	_	_	_	_	_
+3(u)-sze3	3(u)[ten]-sze	NU	NU.TERM	D	B-COUNT	_	30	cardinal	_	30
+{gesz}szu	_	N	N.ABS	Iabcdefgh	B-COM	_	_	_	_	_
+{uruda}gur10	_	N	N.ABS	Iabcde	_	_	_	_	_	_
+kid7-a	_	N	N	POS	_	_	_	_	_	_
+uri5{ki}-sze3	Urim[1]-sze	SN	SN.TERM	D	_	_	_	_	_	_
+de6-a	de[bring]-a	V	NF.V.PT	D	_	_	_	_	_	_
+e2-gu-za-la2-me	_	N	N.GEN.DAT-H	Iabcdefg	_	_	_	_	_	_
+ugula	ugula[overseer][-ø]	N	N	D	_	_	_	_	_	_
+lu2-{d}ba-ba6	Lubaba[1][-ak][-ak][-ø]	PN	PN	D	_	_	_	_	_	_
+iti	iti[month]	N	N	D	_	_	_	_	_	_
+diri	diri[intercalary_month]	N	N	D	_	_	_	_	_	_
+sze-sag11-ku5	Szesagku[1][-'a]	MN	MN.L1	D	_	_	_	_	_	_
+mu	mu[year]	N	N	D	_	_	_	_	_	_
+en	en[priest]	N	N	D	_	_	_	_	_	_
+{d}nanna	Nanna[1][-ak]	DN	DN	D	_	_	_	_	_	_
+kar-zi-da	Karzida[1][-ak][-ak][-ø]	SN	SN.GEN.GEN.ABS	D	_	_	_	_	_	_
+ba-hun	ba-hug[hire][-ø]	V	MID.V.3-SG-S	D	_	_	_	_	_	_

@@ -1,0 +1,22 @@
+#new_text=P137195					
+FORM	SEGM	XPOSTAG	XPOSTAG	POS	?	?	?	?	?	?
+1(asz)	1(asz)[one]	NU	NU	D	B-COUNT	_	none	unknown	_	none
+gu2	gun[unit]	N	N	D	I-COUNT	*	*	*	*	*
+x	_[_]	N	N	D	I-COUNT	*	*	*	*	*
+a2	a[time]	N	N	D	_	_	_	_	_	_
+lu2	lu[person]	N	N	D	_	_	_	_	_	_
+hun-ga2	hug[hire]-a	V	NF.V.PT	D	_	_	_	_	_	_
+sig4	szeg[brick]	N	N	D	_	_	_	_	_	_
+du8-de3	du[bake]-ed	V	NF.V.F	D	B-COM	_	_	_	_	_
+ki	ki[place]	N	N	D	_	_	_	_	_	_
+szu-ku8-bu-um-ta	_	PN	PN.GEN.ABL	Iabcdefgh	_	_	_	_	_	_
+{d}suen-i-ti	_	PN	PN.DAT-H	Iab	_	_	_	_	_	_
+dumu	dumu[child]	N	N	D	_	_	_	_	_	_
+a2-bi2-li2-a	_	PN	PN	Ia	_	_	_	_	_	_
+szu	szu[hand][-e]	N	N.L3-NH	D	_	_	_	_	_	_
+ba-an-ti	ba-n-teg[accept][-ø]	V	MID.3-SG-H-A.V.3-SG-P	D	_	_	_	_	_	_
+iti	iti[month]	N	N	D	_	_	_	_	_	_
+a2-ki-ti	Akiti[1][-'a]	N	MN.L1	D	_	_	_	_	_	_
+mu	mu[year]	N	N	D	_	_	_	_	_	_
+{d}i-bi2-{d}suen-e	_	DN	DN	POS	_	_	_	_	_	_
+lugal	lugal[king]	N	N	D	_	_	_	_	_	_

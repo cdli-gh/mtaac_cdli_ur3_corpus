@@ -1,0 +1,18 @@
+#new_text=P119884					
+FORM	SEGM	XPOSTAG	XPOSTAG	POS	?	?	?	?	?	?
+...	_[_]	PN	N	D	_	_	_	_	_	_
+1(bur3)	1(bur)[unit]	NU	N	D	B-COUNT	m^2	64800.0	surface	gin2	108000
+GAN2	gana[field]	N	N	D	I-COUNT	*	*	*	*	*
+szuku	szukur[prebend_land]	N	N	D	B-COM	_	_	_	_	_
+...	_[_]	PN	N	D	_	_	_	_	_	_
+giri3-se3-ga	girsiga[attendant]	N	N	D	_	_	_	_	_	_
+bala-a	bala[tax][-ak]-'a	N	N.GEN.L1	D	_	_	_	_	_	_
+2(bur3)	2(bur)[unit]	NU	N	D	B-COUNT	m^2	129600.0	surface	gin2	216000
+GAN2	gana[field]	N	N	D	I-COUNT	*	*	*	*	*
+szuku	szukur[prebend_land]	N	N	D	B-COM	_	_	_	_	_
+szabra	szabra[chief_administrator][-ak]	N	N	D	_	_	_	_	_	_
+...	_[_]	PN	N	D	_	_	_	_	_	_
+...	_[_]	PN	N	D	_	_	_	_	_	_
+mu	mu[year]	N	N	D	_	_	_	_	_	_
+na-ru2-a-mah	naruamah[magnificent_stele][-ø]	PN	N.ABS	D	_	_	_	_	_	_
+ba-du3	ba-du[build][-ø]	V	MID.V.3-SG-S	D	_	_	_	_	_	_

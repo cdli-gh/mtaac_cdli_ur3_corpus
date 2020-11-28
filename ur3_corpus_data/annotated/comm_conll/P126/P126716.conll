@@ -1,0 +1,19 @@
+#new_text=P126716					
+FORM	SEGM	XPOSTAG	XPOSTAG	POS	?	?	?	?	?	?
+8(disz)	8(disz)[one]	NU	NU	D	B-COUNT	_	8	cardinal	_	8
+udu	udu[sheep]	N	N	D	B-COM	_	_	_	_	_
+bar-su-ga	barsuga[without_fleece][-ø]	V	NF.V.ABS	D	_	_	_	_	_	_
+2(disz)	2(disz)[one]	NU	NU	D	B-COUNT	_	2	cardinal	_	2
+ud5	uzud[goat]	N	N	D	_	_	_	_	_	_
+udu	udu[sheep]	N	N	D	_	_	_	_	_	_
+u2-a	_	N	N	POS	_	_	_	_	_	_
+dab5-ba	dab[seize]-a	V	N	D	_	_	_	_	_	_
+ga2	ga[house]	N	N	D	_	_	_	_	_	_
+udu	udu[sheep]	N	N	D	_	_	_	_	_	_
+didli-ta	_	V	NF.V.ABS.GEN.GEN.ABL	Iabcdefg	_	_	_	_	_	_
+kas4	kas[runner][-ra]	N	N.DAT-H	D	_	_	_	_	_	_
+i3-dab5	i[-n]-dab[seize][-ø]	V	FIN.3-SG-H-A.V.3-SG-P	D	_	_	_	_	_	_
+mu	mu[year]	N	N	D	_	_	_	_	_	_
+ha-ar-szi{ki}	Harszi[1]	SN	SN	D	_	_	_	_	_	_
+ki-masz{ki}	Kimasz[1]	SN	SN.ABS	D	_	_	_	_	_	_
+ba-hul	ba-hulu[destroy][-ø]	V	MID.V.3-SG-S	D	_	_	_	_	_	_

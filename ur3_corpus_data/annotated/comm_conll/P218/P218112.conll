@@ -1,0 +1,20 @@
+#new_text=P218112					
+FORM	SEGM	XPOSTAG	XPOSTAG	POS	?	?	?	?	?	?
+x	_[_]	N	N	D	_	_	_	_	_	_
+1(u)	1(u)[ten]	NU	NU	D	B-COUNT	_	9	cardinal	_	9
+la2	la[hang][-ø]	V	NF.V.ABS	D	I-COUNT	*	*	*	*	*
+1(disz)	1(disz)[one]	NU	NU	D	I-COUNT	*	*	*	*	*
+{gesz}u3-suh5	usuh[tree]	N	N	D	B-COM	_	_	_	_	_
+tur	Tur[1]	V	NF.V.ABS	D	_	_	_	_	_	_
+x	_[_]	N	N	D	_	_	_	_	_	_
+1(disz)	1(disz)[one]	NU	NU	D	B-COUNT	_	1	cardinal	_	1
+{gesz}u3-suh5	usuh[tree]	N	N	D	B-COM	_	_	_	_	_
+gal	gal[big][-ø]	V	NF.V.ABS	D	_	_	_	_	_	_
+x	_[_]	N	N	D	_	_	_	_	_	_
+e2-gal	egal[palace][-ak][-'a]	N	N	D	_	_	_	_	_	_
+i-ba-sze3	_	PN	PN.GEN.TERM	Iabcdef	_	_	_	_	_	_
+{gesz}u3-suh5	usuh[tree]	N	N	D	_	_	_	_	_	_
+gal	gal[big][-ø]	V	NF.V.ABS	D	_	_	_	_	_	_
+{gesz}dusu	_	N	N	Ia	_	_	_	_	_	_
+{gesz}geszimmar	gesznimbar[palm]	PN	N	D	_	_	_	_	_	_
+i-ba-sze3	_	PN	PN.GEN.TERM	Iabcdef	_	_	_	_	_	_

@@ -1,0 +1,25 @@
+#new_text=P111613					
+FORM	SEGM	XPOSTAG	XPOSTAG	POS	?	?	?	?	?	?
+5(gesz'u)	5(gesz'u)[six_hundred]	NU	NU	D	B-COUNT	g	98505000.0	weight	gin2	11820600.0
+4(gesz2)	4(gesz)[sixty]	NU	NU	D	I-COUNT	*	*	*	*	*
+4(u)	4(u)[ten]	NU	NU	D	I-COUNT	*	*	*	*	*
+3(asz)	3(asz)[one]	NU	NU	D	I-COUNT	*	*	*	*	*
+1/2(asz)	_	NU	NU	Iabcde	I-COUNT	*	*	*	*	*
+gu2	gun[unit]	N	N	D	I-COUNT	*	*	*	*	*
+gu-nigin2	_	PN	PN	POS	B-COM	_	_	_	_	_
+gi-zi	gizi[reed][-ak][-ak]	N	N.GEN.GEN	D	_	_	_	_	_	_
+gi	gi[reed][-ø]	N	N	D	_	_	_	_	_	_
+udu	udu[sheep]	N	N	D	_	_	_	_	_	_
+gu7-a	_	V	NF.V.PT.ABS	Iabcdefg	_	_	_	_	_	_
+e2-udu	e'udu[sheephouse]	N	N	D	_	_	_	_	_	_
+e2-gal	egal[palace][-ak][-'a]	N	N	D	_	_	_	_	_	_
+iti	iti[month]	N	N	D	_	_	_	_	_	_
+ezem-{d}szul-gi-ta	Ezemszulgir[1]-ta	MN	MN.ABL	D	_	_	_	_	_	_
+iti	iti[month]	N	N	D	_	_	_	_	_	_
+sze-il2-la-sze3	Sze'illa[1]-sze	MN	MN.TERM	D	_	_	_	_	_	_
+x	_[_]	N	N	D	_	_	_	_	_	_
+amar-szuba3	_	PN	PN	D	_	_	_	_	_	_
+mu	mu[year]	N	N	D	_	_	_	_	_	_
+en	en[priest]	N	N	D	_	_	_	_	_	_
+eridu{ki}	Eridug[1][-ak][-ø]	SN	SN.GEN.ABS	D	_	_	_	_	_	_
+ba-a-hun	ba-hug[hire][-ø]	V	MID.V.3-SG-S	D	_	_	_	_	_	_

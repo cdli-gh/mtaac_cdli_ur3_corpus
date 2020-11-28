@@ -1,0 +1,20 @@
+#new_text=P121345					
+FORM	SEGM	XPOSTAG	XPOSTAG	POS	B-COUNT	l	200	"dry	*	*
+3(barig)	3(bariga)[unit]	NU	N	D	I-COUNT	*	*	*	sila3	200
+2(ban2)	2(ban)[unit]	NU	N	D	I-COUNT	*	*	*	*	*
+ziz2	ziz[emmer]	N	N	D	B-COM	_	_	_	_	_
+numun-sze3	_	N	N.3-SG-H-POSS.TERM	Iabcdef	_	_	_	_	_	_
+ki	ki[place]	N	N	D	_	_	_	_	_	_
+{d}en-lil2-la2-al-sa6	_	PN	PN	POS	_	_	_	_	_	_
+ur-{d}ma-mi	Urmami[1][-ra]	PN	PN.DAT-H	D	_	_	_	_	_	_
+szu	szu[hand][-e]	N	N.L3-NH	D	_	_	_	_	_	_
+ba-ti	ba[-n]-teg[accept][-ø]	V	MID.3-SG-H-A.V.3-SG-P	D	_	_	_	_	_	_
+iti	iti[month]	N	N	D	_	_	_	_	_	_
+du6-ku3	_	PN	PN	POS	_	_	_	_	_	_
+mu	mu[year]	N	N	D	_	_	_	_	_	_
+us2-sa	us[follow]-a	V	NF.V.PT	D	_	_	_	_	_	_
+bad3	bad[wall]	N	N	D	_	_	_	_	_	_
+mar-tu	Martu[1][-ø]	EN	EN.ABS	D	_	_	_	_	_	_
+ur-ma-mi	_	PN	PN.GEN.DAT-H	Iabcdef	_	_	_	_	_	_
+dumu	dumu[child]	N	N	D	_	_	_	_	_	_
+hu-ha	_	PN	PN	POS	_	_	_	_	_	_

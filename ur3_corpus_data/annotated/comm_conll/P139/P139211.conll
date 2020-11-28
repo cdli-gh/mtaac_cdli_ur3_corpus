@@ -1,0 +1,16 @@
+#new_text=P139211					
+FORM	SEGM	XPOSTAG	XPOSTAG	POS	?	?	?	?	?	?
+...	_[_]	PN	N	D	_	_	_	_	_	_
+2(gesz2)	2(gesz)[sixty]	NU	NU	D	B-COUNT	_	151	cardinal	_	151
+3(u)	3(u)[ten]	NU	NU	D	I-COUNT	*	*	*	*	*
+1(disz)	1(disz)[one]	NU	NU	D	I-COUNT	*	*	*	*	*
+ku6	kud[fish]	N	N	D	B-COM	_	_	_	_	_
+x	_[_]	N	N	D	_	_	_	_	_	_
+*RETOK*-capacity"	?	?	?	?	B-COUNT	l	50	"dry	*	*
+5(ban2)	5(ban)[unit]	NU	N	D	I-COUNT	*	*	*	sila3	50
+ku6	kud[fish]	N	N	D	B-COM	_	_	_	_	_
+nam	_	N	N.ABS	D	_	_	_	_	_	_
+...	_[_]	PN	N	D	_	_	_	_	_	_
+sa2-du11	sadug[offerings]	N	N	D	_	_	_	_	_	_
+en-na	en[priest]-ak[-e]	PN	N.GEN.ERG	D	_	_	_	_	_	_
+...	_[_]	PN	N	D	_	_	_	_	_	_

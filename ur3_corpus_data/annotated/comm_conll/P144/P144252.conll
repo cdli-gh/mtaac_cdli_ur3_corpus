@@ -1,0 +1,23 @@
+#new_text=P144252					
+FORM	SEGM	XPOSTAG	XPOSTAG	POS	B-COUNT	l	0.0005555555555555556	"dry	*	*
+6(asz)	6(asz)[one]	NU	NU	D	I-COUNT	*	*	*	sila3	0.0005555555555555556
+sze	sze[barley]	N	N	D	I-COUNT	*	*	*	*	*
+gur	gur[unit]	N	N	D	I-COUNT	*	*	*	*	*
+lugal	lugal[king]	N	N	D	_	_	_	_	_	_
+im	im[clay][-ø]	N	N	D	B-COM	_	_	_	_	_
+pa	pa[branch]	N	N.ABS	D	_	_	_	_	_	_
+guru7	guru[grain_heap]	N	N	D	_	_	_	_	_	_
+a-sza3	aszag[field]	N	N	D	_	_	_	_	_	_
+{d}nin-ur4-ra-ka	_	FN	FN	POS	_	_	_	_	_	_
+lu2-{d}szul-gi-ra	_	PN	PN	D	_	_	_	_	_	_
+lugal-ma2-gur8-re	Lugalmagure[1][-ø]	PN	PN	D	_	_	_	_	_	_
+agar4-nigin2-e	_	N	N.ERG	Iabcde	_	_	_	_	_	_
+su-su-dam	sug-sug[repay]-ed[-ø]-am	PN	NF.V.RDP.F.ABS.COP-3-SG	D	_	_	_	_	_	_
+iti	iti[month]	N	N	D	_	_	_	_	_	_
+{d}dumu-zi	Dumuzi[1][-'a]	MN	MN.L1	D	_	_	_	_	_	_
+mu	mu[year]	N	N	D	_	_	_	_	_	_
+hu-uh2-nu-ri{ki}	Huhnuri[1][-ø]	GN	SN.ABS	D	_	_	_	_	_	_
+ba-hul	ba-hulu[destroy][-ø]	V	MID.V.3-SG-S	D	_	_	_	_	_	_
+lugal-ma2-gur8-re	Lugalmagure[1][-ø]	PN	PN	D	_	_	_	_	_	_
+dumu	dumu[child]	N	N	D	_	_	_	_	_	_
+a-da-na-ah	_	N	PN	D	_	_	_	_	_	_

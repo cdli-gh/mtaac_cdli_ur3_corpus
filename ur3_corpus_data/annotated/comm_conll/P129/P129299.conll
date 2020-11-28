@@ -1,0 +1,25 @@
+#new_text=P129299					
+FORM	SEGM	XPOSTAG	XPOSTAG	POS	?	?	?	?	?	?
+5(disz)	5(disz)[one]	NU	NU	D	B-COUNT	_	5	cardinal	_	5
+{gi}pisan	bisag[basket]	N	N	D	B-COM	_	_	_	_	_
+im-sar	_	V	V	POS	_	_	_	_	_	_
+a2-bi	a[labor]-bi	N	N.3-SG-NH-POSS.ABS	D	_	_	_	_	_	_
+u4	ud[day]	N	N	D	_	_	_	_	_	_
+1(u)-kam	1(u)[ten]-ak-am	NU	NU.GEN.COP-3-SG	D	B-COUNT	_	10	cardinal	_	10
+a-ra2	ara[times]	N	N	D	_	_	_	_	_	_
+1(disz)-kam	1(disz)[one]-ak-am	NU	NU.GEN.COP-3-SG	D	B-COUNT	_	1	cardinal	_	1
+5(disz)	5(disz)[one]	NU	NU	D	B-COUNT	_	5	cardinal	_	5
+{gi}pisan	bisag[basket]	N	N	D	B-COM	_	_	_	_	_
+im-sar	_	V	V	POS	_	_	_	_	_	_
+a2-bi	a[labor]-bi	N	N.3-SG-NH-POSS.ABS	D	_	_	_	_	_	_
+u4	ud[day]	N	N	D	_	_	_	_	_	_
+1(disz)-kam	1(disz)[one]-ak-am	NU	NU.GEN.COP-3-SG	D	B-COUNT	_	1	cardinal	_	1
+ki	ki[place]	N	N	D	_	_	_	_	_	_
+lu2-igi-sa6-sa6-ta	Lu'igisasa[1][-ak]-ta	PN	PN.GEN.ABL	D	_	_	_	_	_	_
+kiszib3	kiszib[seal]	N	N	D	_	_	_	_	_	_
+lu2-banda3{da}	Lubanda[1]	PN	PN	D	_	_	_	_	_	_
+iti	iti[month]	N	N	D	_	_	_	_	_	_
+dumu-zi	_	MN	MN.L1	Iabcdefgh	_	_	_	_	_	_
+mu	mu[year]	N	N	D	_	_	_	_	_	_
+sza-asz-ru	_	GN	GN	POS	_	_	_	_	_	_
+ba-hul	ba-hulu[destroy][-ø]	V	MID.V.3-SG-S	D	_	_	_	_	_	_

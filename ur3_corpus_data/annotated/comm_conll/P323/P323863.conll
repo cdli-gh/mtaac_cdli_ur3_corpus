@@ -1,0 +1,21 @@
+#new_text=P323863					
+FORM	SEGM	XPOSTAG	XPOSTAG	POS	B-COUNT	l	0.002962962962962963	"dry	*	*
+3(u)	3(u)[ten]	NU	NU	D	I-COUNT	*	*	*	sila3	0.002962962962962963
+2(asz)	2(asz)[one]	NU	NU	D	I-COUNT	*	*	*	*	*
+sze	sze[barley]	N	N	D	I-COUNT	*	*	*	*	*
+gur	gur[unit]	N	N	D	I-COUNT	*	*	*	*	*
+sa10	_	V	NF.V.3-SG-NH-POSS.GEN	Iabcdef	_	_	_	_	_	_
+gi-sze3	_	N	N.TERM	Iabcde	B-COM	_	_	_	_	_
+kiszib3	kiszib[seal]	N	N	D	_	_	_	_	_	_
+ur-e2-mah	Uremah[1]	PN	PN	D	_	_	_	_	_	_
+tum3-dam	_	V	V	POS	_	_	_	_	_	_
+...	_[_]	PN	N	D	_	_	_	_	_	_
+...	_[_]	PN	N	D	_	_	_	_	_	_
+mu	mu[year]	N	N	D	_	_	_	_	_	_
+...	_[_]	PN	N	D	_	_	_	_	_	_
+i3-pa3	i-pad[find][-ø]	V	FIN.V.3-SG-S	D	_	_	_	_	_	_
+er3-ra-ma-lik	_	PN	PN	Ia	_	_	_	_	_	_
+dumu	dumu[child]	N	N	D	_	_	_	_	_	_
+zu-ga-li2	_	PN	PN	Iabcde	_	_	_	_	_	_
+muhaldim	_	N	N	D	_	_	_	_	_	_
+lugal	lugal[king]	N	N	D	_	_	_	_	_	_

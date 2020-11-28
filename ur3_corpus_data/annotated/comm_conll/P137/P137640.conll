@@ -1,0 +1,27 @@
+#new_text=P137640					
+FORM	SEGM	XPOSTAG	XPOSTAG	POS	?	?	?	?	?	?
+3(ban2)	3(ban)[unit]	NU	N	D	B-COUNT	*	*	*	*	*
+sze	sze[barley]	N	N	D	I-COUNT	*	*	*	*	*
+lugal	lugal[king]	N	N	D	_	_	_	_	_	_
+*RETOK*-capacity"	?	?	?	?	B-COUNT	l	60	"dry	*	*
+1(barig)	1(bariga)[unit]	NU	N	D	I-COUNT	*	*	*	sila3	60
+ku6	kud[fish]	N	N	D	B-COM	_	_	_	_	_
+lugal	lugal[king]	N	N	D	_	_	_	_	_	_
+lu2-{d}szen-x	_	PN	PN.DAT-H	Iab	_	_	_	_	_	_
+1(ban2)	1(ban)[unit]	NU	N	D	B-COUNT	*	*	*	*	*
+sze	sze[barley]	N	N	D	I-COUNT	*	*	*	*	*
+*RETOK*-capacity"	?	?	?	?	B-COUNT	l	30	"dry	*	*
+3(ban2)	3(ban)[unit]	NU	N	D	I-COUNT	*	*	*	sila3	30
+ku6	kud[fish]	N	N	D	B-COM	_	_	_	_	_
+{d}nanna-ki-ag2	Nannaki'ag[1]	PN	PN	D	_	_	_	_	_	_
+unu3	_	GN	GN	POS	_	_	_	_	_	_
+ugula	ugula[overseer][-ø]	N	N	D	_	_	_	_	_	_
+da-da	Dada[1][-ak]	PN	PN	D	_	_	_	_	_	_
+szusz3	kusz[cattle_manager][-ak]	N	N.GEN	D	_	_	_	_	_	_
+x	_[_]	N	N	D	_	_	_	_	_	_
+su4	su[red][-ø]	V	NF.V.ABS	D	_	_	_	_	_	_
+ab-szum2-mu	_	V	V	POS	_	_	_	_	_	_
+szu-esz18-dar	Szu'eszdar[1][-ak]	PN	PN	D	_	_	_	_	_	_
+dub-sar	dubsar[scribe]	N	N	D	_	_	_	_	_	_
+dumu	dumu[child]	N	N	D	_	_	_	_	_	_
+ur-nigar{gar}	Urnigar[1]	PN	PN	D	_	_	_	_	_	_

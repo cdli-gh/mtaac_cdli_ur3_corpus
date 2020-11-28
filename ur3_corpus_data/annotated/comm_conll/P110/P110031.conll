@@ -1,0 +1,21 @@
+#new_text=P110031					
+FORM	SEGM	XPOSTAG	XPOSTAG	POS	?	?	?	?	?	?
+1(u)	1(u)[ten]	NU	NU	D	B-COUNT	_	15	cardinal	_	15
+5(disz)	5(disz)[one]	NU	NU	D	I-COUNT	*	*	*	*	*
+gu4	gud[ox]	N	N	D	B-COM	_	_	_	_	_
+1(disz)-ta	1(disz)[one]-ta	NU	NU.ABL	D	B-COUNT	_	1	cardinal	_	1
+2(disz)	2(disz)[one]	NU	NU	D	B-COUNT	_	2	cardinal	_	2
+ansze	ansze[donkey]	N	N	D	B-COM	_	_	_	_	_
+igi	igi[eye][-ø]	N	N	D	_	_	_	_	_	_
+3(disz)	3(disz)[one]	NU	NU	D	B-COUNT	_	none	unknown	_	none
+sila3	sila[unit]	N	N	D	I-COUNT	*	*	*	*	*
+x	_[_]	N	N	D	I-COUNT	*	*	*	*	*
+ki	ki[place]	N	N	D	_	_	_	_	_	_
+szid-szid-da	_	PN	PN	POS	B-COM	_	_	_	_	_
+ba-a-gar	ba-e-gar[place][-ø]	V	MID.L2.V.3-SG-S	D	_	_	_	_	_	_
+temen	_	N	N	POS	_	_	_	_	_	_
+ezem-ma	_	N	N	POS	_	_	_	_	_	_
+GAN2-masz-sze3	_	MN	MN.TERM	Iabcdefg	_	_	_	_	_	_
+ba-ta-e3	_	V	MID.3-SG-H.DAT.V.3-SG-S	Iabcdefg	_	_	_	_	_	_
+iti	iti[month]	N	N	D	_	_	_	_	_	_
+GAN2-masz	GANmasz[1][-'a]	MN	MN.L1	D	_	_	_	_	_	_

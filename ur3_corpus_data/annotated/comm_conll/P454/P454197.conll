@@ -1,0 +1,15 @@
+#new_text=P454197					
+FORM	SEGM	XPOSTAG	XPOSTAG	POS	?	?	?	?	?	?
+3(asz)	3(asz)[one]	NU	NU	D	B-COUNT	*	*	*	*	*
+1(barig)	1(bariga)[unit]	NU	N	D	I-COUNT	*	*	*	*	*
+sze	sze[barley]	N	N	D	I-COUNT	*	*	*	*	*
+gur	gur[unit]	N	N	D	I-COUNT	*	*	*	*	*
+ki	ki[place]	N	N	D	_	_	_	_	_	_
+lu-lu-ta	_	PN	PN	POS	_	_	_	_	_	_
+szu-nu-a	_	PN	PN.GEN.GEN.DAT-H	Iabcdefghi	_	_	_	_	_	_
+szu	szu[hand][-e]	N	N.L3-NH	D	B-COM	_	_	_	_	_
+ba-ti	ba[-n]-teg[accept][-ø]	V	MID.3-SG-H-A.V.3-SG-P	D	_	_	_	_	_	_
+szu-nu-a	_	PN	PN.GEN.GEN.DAT-H	Iabcdefghi	_	_	_	_	_	_
+dub-sar	dubsar[scribe]	N	N	D	_	_	_	_	_	_
+dumu	dumu[child]	N	N	D	_	_	_	_	_	_
+e2-zi	_	PN	PN	POS	_	_	_	_	_	_

@@ -1,0 +1,19 @@
+#new_text=P118252					
+FORM	SEGM	XPOSTAG	XPOSTAG	POS	B-COUNT	l	0.028518518518518516	"dry	*	*
+5(gesz2)	5(gesz)[sixty]	NU	NU	D	I-COUNT	*	*	*	sila3	0.028518518518518516
+8(asz)	8(asz)[one]	NU	NU	D	I-COUNT	*	*	*	*	*
+sze	sze[barley]	N	N	D	I-COUNT	*	*	*	*	*
+gur	gur[unit]	N	N	D	I-COUNT	*	*	*	*	*
+sze	sze[barley]	N	N	D	B-COM	_	_	_	_	_
+gesz	gesz[tree]	N	N	D	_	_	_	_	_	_
+e3-a	e[leave]-a	V	NF.V.PT	D	_	_	_	_	_	_
+e2	e[house]	N	N	D	_	_	_	_	_	_
+szu-szum2-ma	szuszuma[consignment][-ak]	N	N.GEN	D	_	_	_	_	_	_
+u4	ud[day]	N	N	D	_	_	_	_	_	_
+4(disz)-kam	4(disz)[one]-ak-am[-'a]	NU	NU.GEN.COP-3-SG	D	B-COUNT	_	4	cardinal	_	4
+sza3	szag[heart]	N	N	D	_	_	_	_	_	_
+guru7-...	_	PN	PN	POS	_	_	_	_	_	_
+mu	mu[year]	N	N	D	_	_	_	_	_	_
+en	en[priest]	N	N	D	_	_	_	_	_	_
+eridu{ki}	Eridug[1][-ak][-ø]	SN	SN.GEN.ABS	D	_	_	_	_	_	_
+ba-hun	ba-hug[hire][-ø]	V	MID.V.3-SG-S	D	_	_	_	_	_	_

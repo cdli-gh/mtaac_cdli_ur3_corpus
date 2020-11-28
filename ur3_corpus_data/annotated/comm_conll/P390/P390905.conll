@@ -1,0 +1,8 @@
+#new_text=P390905					
+FORM	SEGM	XPOSTAG	XPOSTAG	POS	B-COUNT	l	0.02407407407407407	"dry	*	*
+4(gesz2)	4(gesz)[sixty]	NU	NU	D	I-COUNT	*	*	*	sila3	0.02407407407407407
+2(u)	2(u)[ten]	NU	NU	D	I-COUNT	*	*	*	*	*
+sze	sze[barley]	N	N	D	I-COUNT	*	*	*	*	*
+gur	gur[unit]	N	N	D	I-COUNT	*	*	*	*	*
+sila3	sila[unit]	N	N	D	_	_	_	_	_	_
+1(asz)-ta	_	NU	NU.ABL	Iabcdefg	B-COUNT	_	1	cardinal	_	1

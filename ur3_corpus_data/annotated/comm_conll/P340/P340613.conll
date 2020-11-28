@@ -1,0 +1,21 @@
+#new_text=P340613					
+FORM	SEGM	XPOSTAG	XPOSTAG	POS	?	?	?	?	?	?
+su-su	sug-sug[repay][-ed]	V	NF.V.RDP.PF	D	_	_	_	_	_	_
+u3	u[and]	CNJ	CNJ	D	_	_	_	_	_	_
+ur-{d}nun-gal-ra	_	PN	PN	Iabcde	_	_	_	_	_	_
+u3-ne-du11	_	N	N	POS	_	_	_	_	_	_
+*RETOK*-capacity"	?	?	?	?	B-COUNT	l	9.259259259259259e-05	"dry	*	*
+1(asz)	1(asz)[one]	NU	NU	D	I-COUNT	*	*	*	sila3	9.259259259259259e-05
+sze	sze[barley]	N	N	D	I-COUNT	*	*	*	*	*
+gur	gur[unit]	N	N	D	I-COUNT	*	*	*	*	*
+lugal	lugal[king]	N	N	D	_	_	_	_	_	_
+sze-numun	szenumun[seed]	N	N	D	_	_	_	_	_	_
+a-sza3	aszag[field]	N	N	D	_	_	_	_	_	_
+NIM-e-gar-ra-sze3	_	FN	FN	POS	_	_	_	_	_	_
+lugal-iri-da	Lugalirida[1][-e]	PN	PN.ERG	D	_	_	_	_	_	_
+ha-na-ab-szum2-mu	_	PN	PN	Iabcdefgh	_	_	_	_	_	_
+kiszib3	kiszib[seal]	N	N	D	_	_	_	_	_	_
+ur-mes	Urmes[1]	PN	PN	D	_	_	_	_	_	_
+nu-banda3-gu4	nubandagu[ox_overseer][-ak][-ak][-ak]	N	N	D	_	_	_	_	_	_
+szu	szu[hand][-e]	N	N.L3-NH	D	B-COM	_	_	_	_	_
+ha-ba-ab-ti	_	V	V	POS	_	_	_	_	_	_

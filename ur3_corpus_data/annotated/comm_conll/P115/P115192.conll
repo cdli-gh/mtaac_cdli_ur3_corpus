@@ -1,0 +1,21 @@
+#new_text=P115192					
+FORM	SEGM	XPOSTAG	XPOSTAG	POS	?	?	?	?	?	?
+5(ban2)	5(ban)[unit]	NU	N	D	B-COUNT	*	*	*	*	*
+sze	sze[barley]	N	N	D	I-COUNT	*	*	*	*	*
+lugal	lugal[king]	N	N	D	_	_	_	_	_	_
+nin-ga2-i3-gi	_	PN	PN.GEN	Iabcde	_	_	_	_	_	_
+*RETOK*-capacity"	?	?	?	?	B-COUNT	l	50	"dry	*	*
+5(ban2)	5(ban)[unit]	NU	N	D	I-COUNT	*	*	*	sila3	50
+szesz-szesz-ma-an-gi4	_	V	V	POS	_	_	_	_	_	_
+igi-ni-da-a	_	PN	PN.GEN.L1	Iabcdefg	_	_	_	_	_	_
+...	_[_]	PN	N	D	_	_	_	_	_	_
+szu-na	Szuna[1]	N	N.3-SG-H-POSS.L2-NH	D	_	_	_	_	_	_
+IGI	_			POS	_	_	_	_	_	_
+...	_[_]	PN	N	D	_	_	_	_	_	_
+nu-banda3	nubanda[overseer][-ø]	N	N	D	_	_	_	_	_	_
+tul2-ta	Tulta[1][-ak][-ak]	PN	PN.GEN.GEN	D	_	_	_	_	_	_
+giri3	giri[foot]	N	N	D	_	_	_	_	_	_
+nam-mah	Nammah[1]	PN	PN	D	_	_	_	_	_	_
+mu	mu[year]	N	N	D	_	_	_	_	_	_
+sza-asz-ru-um{ki}	Szaszrum[1][-ø]	GN	SN.ABS	D	_	_	_	_	_	_
+ba-hul	ba-hulu[destroy][-ø]	V	MID.V.3-SG-S	D	_	_	_	_	_	_

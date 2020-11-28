@@ -1,0 +1,24 @@
+#new_text=P499854					
+FORM	SEGM	XPOSTAG	XPOSTAG	POS	?	?	?	?	?	?
+6(disz)	6(disz)[one][-sze]	NU	NU	D	B-COUNT	bricks	51840	bricks	gin2	4320
+sar	sar[unit]	N	N	D	I-COUNT	*	*	*	*	*
+e2	e[house]	N	N	D	_	_	_	_	_	_
+ti-a	ti[receive]-a	V	NF.V.PT	D	_	_	_	_	_	_
+{d}nin-urta	Ninurta[1][-ra]	DN	DN	D	_	_	_	_	_	_
+puzur4-asz-bar-ra	_	PN	PN.GEN.GEN.ABS	Iabcdefg	_	_	_	_	_	_
+ARAD2-mu	Aradmu[1]	PN	PN	D	_	_	_	_	_	_
+in-na-a	_	PN	PN	POS	_	_	_	_	_	_
+kiszib3	kiszib[seal]	N	N	D	_	_	_	_	_	_
+er3-ra-kal	_	PN	PN.DAT-H	Iab	_	_	_	_	_	_
+lu2	lu[person]	N	N	D	_	_	_	_	_	_
+ensi2	ensik[ruler]	N	N	D	_	_	_	_	_	_
+szuruppak{ki}-ka	_	PN	PN	POS	_	_	_	_	_	_
+iti	iti[month]	N	N	D	_	_	_	_	_	_
+gan-gan-e3	_	PN	PN	POS	_	_	_	_	_	_
+mu	mu[year]	N	N	D	_	_	_	_	_	_
+si-mu-ru-um	Simurum[1]	GN	SN	D	_	_	_	_	_	_
+ki	ki[place]	N	N	D	B-COM	_	_	_	_	_
+ba-hul	ba-hulu[destroy][-ø]	V	MID.V.3-SG-S	D	_	_	_	_	_	_
+er3-ra-kal	_	PN	PN.DAT-H	Iab	_	_	_	_	_	_
+dumu	dumu[child]	N	N	D	_	_	_	_	_	_
+szesz-kal-la	Szeszkala[1][-ra]	PN	PN	D	_	_	_	_	_	_

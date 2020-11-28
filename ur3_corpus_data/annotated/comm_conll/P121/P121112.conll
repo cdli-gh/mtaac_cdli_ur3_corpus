@@ -1,0 +1,19 @@
+#new_text=P121112					
+FORM	SEGM	XPOSTAG	XPOSTAG	POS	?	?	?	?	?	?
+6(disz)	6(disz)[one][-sze]	NU	NU	D	B-COUNT	_	6	cardinal	_	6
+udu	udu[sheep]	N	N	D	B-COM	_	_	_	_	_
+5(disz)	5(disz)[one]	NU	NU	D	B-COUNT	_	5	cardinal	_	5
+masz2	masz[goat]	N	N	D	_	_	_	_	_	_
+ki	ki[place]	N	N	D	_	_	_	_	_	_
+du11-ga-ni-zi-ta	_	PN	PN.DAT-H	Iab	_	_	_	_	_	_
+ur3-sze3	_	N	N.TERM	Iabcde	_	_	_	_	_	_
+ki	ki[place]	N	N	D	B-COM	_	_	_	_	_
+ka-tar-sze3	_	PN	PN.TERM	Iabcd	_	_	_	_	_	_
+mu-kux(DU)	mukur[delivery][-ø]	N	N	D	_	_	_	_	_	_
+ensi2	ensik[ruler]	N	N	D	_	_	_	_	_	_
+iti	iti[month]	N	N	D	_	_	_	_	_	_
+NE-NE-gar	_	PN	PN	POS	_	_	_	_	_	_
+u4	ud[day]	N	N	D	_	_	_	_	_	_
+2(u)	2(u)[ten]	NU	NU	D	B-COUNT	_	23	cardinal	_	23
+3(disz)	3(disz)[one]	NU	NU	D	I-COUNT	*	*	*	*	*
+zal-la	zal[pass]-a	V	NF.V.PT	D	_	_	_	_	_	_

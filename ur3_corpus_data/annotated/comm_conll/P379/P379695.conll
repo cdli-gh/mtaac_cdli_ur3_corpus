@@ -1,0 +1,16 @@
+#new_text=P379695					
+FORM	SEGM	XPOSTAG	XPOSTAG	POS	B-COUNT	l	2	"liquid	*	*
+*RETOK*-capacity"	?	?	?	?	I-COUNT	l	2	"dry	sila3	2
+2(disz)	2(disz)[one]	NU	NU	D	I-COUNT	*	*	*	sila3	2
+sila3	sila[unit]	N	N	D	I-COUNT	*	*	*	*	*
+i3-gesz	igesz[oil]	V	N	D	B-COM	_	_	_	_	_
+e2	e[house]	N	N	D	_	_	_	_	_	_
+{d}en-dun	_	DN	DN	Iabcde	_	_	_	_	_	_
+...-ka	_	PN	PN	POS	_	_	_	_	_	_
+ak-de3	ak[apply]-ed-e	V	NF.V.F.DAT-NH	D	_	_	_	_	_	_
+ur-nig2	_	PN	PN	Iabcde	_	_	_	_	_	_
+ha-mu--ab-szum2-mu	_	V	MOD.FIN.3-SG-H.DAT.3-SG-NH-P.V.3-SG-A	Iabcdefg	_	_	_	_	_	_
+ur-{d}...	_[1][-ra]	PN	PN.GEN	D	_	_	_	_	_	_
+dub-sar	dubsar[scribe]	N	N	D	_	_	_	_	_	_
+dumu	dumu[child]	N	N	D	_	_	_	_	_	_
+...	_[_]	PN	N	D	_	_	_	_	_	_

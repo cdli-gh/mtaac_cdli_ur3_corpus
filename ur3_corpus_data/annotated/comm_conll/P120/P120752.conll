@@ -1,0 +1,27 @@
+#new_text=P120752					
+FORM	SEGM	XPOSTAG	XPOSTAG	POS	?	?	?	?	?	?
+1(gesz'u)	1(gesz'u)[six_hundred]	NU	NU	D	B-COUNT	m	2160	length	gi	720
+2(gesz2)	2(gesz)[sixty]	NU	NU	D	I-COUNT	*	*	*	*	*
+gi	gi[reed][-ø]	N	N	D	I-COUNT	*	*	*	*	*
+gaszam	_	N	N	POS	B-COM	_	_	_	_	_
+2(gesz'u)	2(gesz'u)[six_hundred]	NU	NU	D	B-COUNT	m	4500	length	gi	1500
+5(gesz2)	5(gesz)[sixty]	NU	NU	D	I-COUNT	*	*	*	*	*
+gi	gi[reed][-ø]	N	N	D	I-COUNT	*	*	*	*	*
+dam-gar3	damgar[merchant][-ak]	N	N	D	_	_	_	_	_	_
+ki	ki[place]	N	N	D	B-COM	_	_	_	_	_
+ugula	ugula[overseer][-ø]	N	N	D	_	_	_	_	_	_
+e2	e[house]	N	N	D	_	_	_	_	_	_
+...	_[_]	PN	N	D	_	_	_	_	_	_
+ma2-gur8-re	Magure[1]	PN	PN	D	_	_	_	_	_	_
+szu	szu[hand][-e]	N	N.L3-NH	D	_	_	_	_	_	_
+ba-ti	ba[-n]-teg[accept][-ø]	V	MID.3-SG-H-A.V.3-SG-P	D	_	_	_	_	_	_
+iti	iti[month]	N	N	D	_	_	_	_	_	_
+sze-sag11-ku5	Szesagku[1][-'a]	MN	MN.L1	D	_	_	_	_	_	_
+mu	mu[year]	N	N	D	_	_	_	_	_	_
+us2-sa	us[follow]-a	V	NF.V.PT	D	_	_	_	_	_	_
+...	_[_]	PN	N	D	_	_	_	_	_	_
+mu	mu[year]	N	N	D	_	_	_	_	_	_
+AB	_	PN	PN	Iabcdefgh	_	_	_	_	_	_
+lugal-ma2-gur8-re	Lugalmagure[1][-ø]	PN	PN	D	_	_	_	_	_	_
+nu-{gesz}kiri6	_	N	N	D	_	_	_	_	_	_
+{d}szu-zi-an-ka	_	DN	DN	POS	_	_	_	_	_	_

@@ -1,0 +1,13 @@
+#new_text=P109178					
+FORM	SEGM	XPOSTAG	XPOSTAG	POS	?	?	?	?	?	?
+4(asz)	4(asz)[one]	NU	NU	D	B-COUNT	_	none	unknown	_	none
+...	_[_]	PN	N	D	I-COUNT	*	*	*	*	*
+gur	gur[unit]	N	N	D	I-COUNT	*	*	*	*	*
+e2-ur3-ra	_	N	N	POS	_	_	_	_	_	_
+gu2-tul2	_	PN	PN	POS	_	_	_	_	_	_
+ba-x-x	_	PN	PN.GEN.ABS	Iabcdefgh	_	_	_	_	_	_
+hu-wa-wa	Huwawa[1][-ak]	DN	PN.GEN	D	B-COM	_	_	_	_	_
+szu	szu[hand][-e]	N	N.L3-NH	D	_	_	_	_	_	_
+ba-ti	ba[-n]-teg[accept][-ø]	V	MID.3-SG-H-A.V.3-SG-P	D	_	_	_	_	_	_
+giri3	giri[foot]	N	N	D	_	_	_	_	_	_
+IGI-NAR-x	_	PN	PN	POS	_	_	_	_	_	_

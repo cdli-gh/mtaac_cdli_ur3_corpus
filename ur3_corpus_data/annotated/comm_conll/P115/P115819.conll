@@ -1,0 +1,25 @@
+#new_text=P115819					
+FORM	SEGM	XPOSTAG	XPOSTAG	POS	B-COUNT	l	1	"liquid	*	*
+*RETOK*-capacity"	?	?	?	?	I-COUNT	l	1	"dry	sila3	1
+1(disz)	1(disz)[one]	NU	NU	D	I-COUNT	*	*	*	sila3	1
+sila3	sila[unit]	N	N	D	I-COUNT	*	*	*	*	*
+gesztin	gesztin[vine]	N	N	D	B-COM	_	_	_	_	_
+had2	had[pure][-ø]	V	NF.V.ABS	D	_	_	_	_	_	_
+x	_[_]	N	N	D	_	_	_	_	_	_
+zu2-lum	zulum[date]	N	N	D	_	_	_	_	_	_
+...-x-ta	_	PN	PN.GEN.ABL	Iabcdef	_	_	_	_	_	_
+...	_[_]	PN	N	D	_	_	_	_	_	_
+x	_[_]	N	N	D	_	_	_	_	_	_
+...	_[_]	PN	N	D	_	_	_	_	_	_
+x	_[_]	N	N	D	_	_	_	_	_	_
+...	_[_]	PN	N	D	_	_	_	_	_	_
+x-NI	_	PN	PN	Iabcde	_	_	_	_	_	_
+{gesz}guzza-ni	_	PN	PN.GEN	Iabcdefgh	_	_	_	_	_	_
+ba-an-dabx(U8)	_	V	V	POS	_	_	_	_	_	_
+iti	iti[month]	N	N	D	_	_	_	_	_	_
+ezem-{d}ba-ba6	Ezembaba[1][-'a]	MN	MN.L1	D	_	_	_	_	_	_
+mu	mu[year]	N	N	D	_	_	_	_	_	_
+us2-sa	us[follow]-a	V	NF.V.PT	D	_	_	_	_	_	_
+en	en[priest]	N	N	D	_	_	_	_	_	_
+eridu{ki}	Eridug[1][-ak][-ø]	SN	SN.GEN.ABS	D	_	_	_	_	_	_
+ba-hun	ba-hug[hire][-ø]	V	MID.V.3-SG-S	D	_	_	_	_	_	_

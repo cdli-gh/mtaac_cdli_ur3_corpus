@@ -1,0 +1,26 @@
+#new_text=P339699					
+FORM	SEGM	XPOSTAG	XPOSTAG	POS	B-COUNT	l	176	"dry	*	*
+2(barig)	2(bariga)[unit]	NU	N	D	I-COUNT	*	*	*	sila3	176
+5(ban2)	5(ban)[unit]	NU	N	D	I-COUNT	*	*	*	*	*
+6(disz)	6(disz)[one][-sze]	NU	NU	D	I-COUNT	*	*	*	*	*
+sila3	sila[unit]	N	N	D	I-COUNT	*	*	*	*	*
+igi-sag	igisag[choose][-a]	N	NF.V.PT	D	_	_	_	_	_	_
+szum2	szum[garlic]	N	N	D	B-COM	_	_	_	_	_
+gaz	gaz[type_of_garlic][-ak]	N	N	D	_	_	_	_	_	_
+1(gesz2)	1(gesz)[sixty]	NU	NU	D	B-COUNT	_	90	cardinal	_	90
+3(u)	3(u)[ten]	NU	NU	D	I-COUNT	*	*	*	*	*
+nigin2	nigin[bundle]	N	N	D	_	_	_	_	_	_
+szum2	szum[garlic]	N	N	D	B-COM	_	_	_	_	_
+gaz	gaz[type_of_garlic][-ak]	N	N	D	_	_	_	_	_	_
+e2-kas4-sze3	_	TN	TN	Iabcdefgh	_	_	_	_	_	_
+ki	ki[place]	N	N	D	_	_	_	_	_	_
+lugal-nig2-lagar-e-ta	Lugalniglagare[1][-ak]-ta	PN	PN.GEN.ABL	D	_	_	_	_	_	_
+kiszib3	kiszib[seal]	N	N	D	_	_	_	_	_	_
+gur4-za-an	_	PN	PN	POS	_	_	_	_	_	_
+mu	mu[year]	N	N	D	_	_	_	_	_	_
+{d}szu-{d}suen	Szusuen[1]	RN	RN	D	_	_	_	_	_	_
+lugal	lugal[king]	N	N	D	_	_	_	_	_	_
+gur8-za-an	_	PN	PN	POS	_	_	_	_	_	_
+muhaldim	_	N	N	D	_	_	_	_	_	_
+dumu	dumu[child]	N	N	D	_	_	_	_	_	_
+du-la-bi	_	PN	PN	Iabcdefgh	_	_	_	_	_	_

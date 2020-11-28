@@ -1,0 +1,12 @@
+#new_text=P111736					
+FORM	SEGM	XPOSTAG	XPOSTAG	POS	?	?	?	?	?	?
+6(gesz2)	6(gesz)[sixty]	NU	NU	D	B-COUNT	_	413	cardinal	_	413
+5(u)	5(u)[ten]	NU	NU	D	I-COUNT	*	*	*	*	*
+3(disz)	3(disz)[one]	NU	NU	D	I-COUNT	*	*	*	*	*
+gurusz	gurusz[male]	N	N	D	B-COM	_	_	_	_	_
+u4	ud[day]	N	N	D	_	_	_	_	_	_
+1(disz)-sze3	1(disz)[one]-sze	NU	NU.TERM	D	B-COUNT	_	1	cardinal	_	1
+gi	gi[reed][-ø]	N	N	D	_	_	_	_	_	_
+ze2-a	ze[cut]-a	V	NF.V.PT	D	_	_	_	_	_	_
+gil-nigin2-esz3-a-bi	_	N	N	POS	_	_	_	_	_	_
+sur-ra	_	V	NF.V.RDP.ABS.GEN.GEN.ABL	Iabcdefghi	B-COM	_	_	_	_	_

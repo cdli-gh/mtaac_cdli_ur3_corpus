@@ -1,0 +1,27 @@
+#new_text=P123364					
+FORM	SEGM	XPOSTAG	XPOSTAG	POS	?	?	?	?	?	?
+2(u)	2(u)[ten]	NU	NU	D	B-COUNT	_	21	cardinal	_	21
+1(disz)	1(disz)[one]	NU	NU	D	I-COUNT	*	*	*	*	*
+ad6	_	N	N	POS	_	_	_	_	_	_
+gu4	gud[ox]	N	N	D	B-COM	_	_	_	_	_
+3(gesz2)	3(gesz)[sixty]	NU	NU	D	B-COUNT	_	231	cardinal	_	231
+5(u)	5(u)[ten]	NU	NU	D	I-COUNT	*	*	*	*	*
+1(disz)	1(disz)[one]	NU	NU	D	I-COUNT	*	*	*	*	*
+ad6	_	N	N	POS	_	_	_	_	_	_
+udu	udu[sheep]	N	N	D	B-COM	_	_	_	_	_
+mu	mu[year]	N	N	D	_	_	_	_	_	_
+aga3-us2-e-ne-sze3	_	N	N.PL.GEN.TERM	Iabcde	_	_	_	_	_	_
+sza3	szag[heart]	N	N	D	_	_	_	_	_	_
+kaskal	kaskal[journey][-sze]	N	N.TERM	D	_	_	_	_	_	_
+kiszib3	kiszib[seal]	N	N	D	_	_	_	_	_	_
+szu-i3-li2	Szu'ili[1]	PN	PN	D	_	_	_	_	_	_
+nu-banda3	nubanda[overseer][-ø]	N	N	D	_	_	_	_	_	_
+e2-kiszib3-ba-ta	_	TN	TN	POS	_	_	_	_	_	_
+ba-zi	ba-zig[expend][-ø]	PN	MID.V.3-SG-S	D	_	_	_	_	_	_
+mu	mu[year]	N	N	D	_	_	_	_	_	_
+us2-sa	us[follow]-a	V	NF.V.PT	D	_	_	_	_	_	_
+e2	e[house]	N	N	D	_	_	_	_	_	_
+puzur4-isz-{d}da-gan	Puzuriszdagan[1][-ø]	SN	SN.ABS	D	_	_	_	_	_	_
+ba-du3	ba-du[build][-ø]	V	MID.V.3-SG-S	D	_	_	_	_	_	_
+mu	mu[year]	N	N	D	_	_	_	_	_	_
+us2-sa-bi	us[follow]-a-bi	V	NF.V.PT.3-SG-NH-POSS	D	_	_	_	_	_	_

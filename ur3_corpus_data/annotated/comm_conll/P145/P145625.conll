@@ -1,0 +1,26 @@
+#new_text=P145625					
+FORM	SEGM	XPOSTAG	XPOSTAG	POS	?	?	?	?	?	?
+ad-da	Adda[1]	PN	PN	D	_	_	_	_	_	_
+u3-na-a-du11	u-nn-a-e-dug[speak][-ø]	N	ANT.3-SG-H.DAT.2-SG-A.V.3-SG-P	D	_	_	_	_	_	_
+*RETOK*-capacity"	?	?	?	?	B-COUNT	l	3612	"dry	*	*
+1(u)	1(u)[ten]	NU	NU	D	I-COUNT	*	*	*	sila3	3612
+2(asz)	2(asz)[one]	NU	NU	D	I-COUNT	*	*	*	*	*
+1(ban2)	1(ban)[unit]	NU	N	D	I-COUNT	*	*	*	*	*
+2(disz)	2(disz)[one]	NU	NU	D	I-COUNT	*	*	*	*	*
+sila3	sila[unit]	N	N	D	I-COUNT	*	*	*	*	*
+sze	sze[barley]	N	N	D	I-COUNT	*	*	*	*	*
+gur	gur[unit]	N	N	D	I-COUNT	*	*	*	*	*
+*RETOK*-capacity"	?	?	?	?	B-COUNT	l	205	"dry	*	*
+3(barig)	3(bariga)[unit]	NU	N	D	I-COUNT	*	*	*	sila3	205
+2(ban2)	2(ban)[unit]	NU	N	D	I-COUNT	*	*	*	*	*
+5(disz)	5(disz)[one]	NU	NU	D	I-COUNT	*	*	*	*	*
+sila3	sila[unit]	N	N	D	I-COUNT	*	*	*	*	*
+ziz2	ziz[emmer]	N	N	D	B-COM	_	_	_	_	_
+sze-ba	szeba[ration]	N	N	D	_	_	_	_	_	_
+libir	_	V	NF.V.ABS.ABS.COP-3-SG.DAT-H	Iabcdefghi	_	_	_	_	_	_
+lu2-na-na	_	PN	PN.ERG	Ia	_	_	_	_	_	_
+4(u)	4(u)[ten]	NU	NU	D	B-COUNT	_	40	cardinal	_	40
+ur-nigar{gar}	Urnigar[1]	PN	PN	D	_	_	_	_	_	_
+engar	engar[farmer]	N	N	D	_	_	_	_	_	_
+2(u)	2(u)[ten]	NU	NU	D	B-COUNT	_	20	cardinal	_	20
+lu5-lu5	Lulu[1][-ak][-ak]	PN	PN.GEN.GEN	D	_	_	_	_	_	_

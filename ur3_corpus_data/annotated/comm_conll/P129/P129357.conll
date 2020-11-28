@@ -1,0 +1,22 @@
+#new_text=P129357					
+FORM	SEGM	XPOSTAG	XPOSTAG	POS	?	?	?	?	?	?
+4(disz)	4(disz)[one]	NU	NU	D	B-COUNT	_	4	cardinal	_	4
+gurusz	gurusz[male]	N	N	D	B-COM	_	_	_	_	_
+ugula	ugula[overseer][-ø]	N	N	D	_	_	_	_	_	_
+x-ba-na	_	PN	PN	POS	_	_	_	_	_	_
+1(disz)	1(disz)[one]	NU	NU	D	B-COUNT	_	1	cardinal	_	1
+ugula	ugula[overseer][-ø]	N	N	D	_	_	_	_	_	_
+a-da-da	_	PN	PN.GEN	Iab	_	_	_	_	_	_
+1(disz)	1(disz)[one]	NU	NU	D	B-COUNT	_	1	cardinal	_	1
+ugula	ugula[overseer][-ø]	N	N	D	_	_	_	_	_	_
+lu2-{d}nin-szubur	Luninszubur[1][-ra]	PN	PN	D	_	_	_	_	_	_
+8(disz)	8(disz)[one]	NU	NU	D	B-COUNT	_	8	cardinal	_	8
+ugula	ugula[overseer][-ø]	N	N	D	_	_	_	_	_	_
+a-da-da	_	PN	PN.GEN	Iab	_	_	_	_	_	_
+1(u)	1(u)[ten]	NU	NU	D	B-COUNT	_	none	unknown	_	none
+4(disz)	4(disz)[one]	NU	NU	D	I-COUNT	*	*	*	*	*
+x	_[_]	N	N	D	I-COUNT	*	*	*	*	*
+...	_[_]	PN	N	D	I-COUNT	*	*	*	*	*
+|KI.AN|{ki}-ta	_[1]-ta	SN	SN.ABL	D	_	_	_	_	_	_
+umma{ki}-sze3	_	SN	SN.GEN.TERM	Iabcd	_	_	_	_	_	_
+in-x	_	PN	PN.DAT-H	Ia	_	_	_	_	_	_

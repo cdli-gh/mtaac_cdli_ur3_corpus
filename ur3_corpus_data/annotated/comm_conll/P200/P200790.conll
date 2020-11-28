@@ -1,0 +1,15 @@
+#new_text=P200790					
+FORM	SEGM	XPOSTAG	XPOSTAG	POS	?	?	?	?	?	?
+5(bur3)	5(bur)[unit]	NU	N	D	B-COUNT	m^2	360000.0	surface	gin2	600000
+1(esze3)	1(esze)[unit]	NU	N	D	I-COUNT	*	*	*	*	*
+4(iku)	4(iku)[unit]	NU	N	D	I-COUNT	*	*	*	*	*
+GAN2	gana[field]	N	N	D	I-COUNT	*	*	*	*	*
+sze-numun	szenumun[seed]	N	N	D	_	_	_	_	_	_
+...-bi	_[1][-e]	PN	PN.ERG	D	_	_	_	_	_	_
+*RETOK*-capacity"	?	?	?	?	B-COUNT	l	2166.6666666666665	"dry	*	*
+7(asz)	7(asz)[one]	NU	NU	D	I-COUNT	*	*	*	sila3	2166.6666666666665
+1(barig)	1(bariga)[unit]	NU	N	D	I-COUNT	*	*	*	*	*
+6(disz)	6(disz)[one][-sze]	NU	NU	D	I-COUNT	*	*	*	*	*
+2/3(disz)	2/3(disz)[one]	NU	NU	D	I-COUNT	*	*	*	*	*
+sila3	sila[unit]	N	N	D	I-COUNT	*	*	*	*	*
+gur	gur[unit]	N	N	D	I-COUNT	*	*	*	*	*

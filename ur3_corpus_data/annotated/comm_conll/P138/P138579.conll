@@ -1,0 +1,25 @@
+#new_text=P138579					
+FORM	SEGM	XPOSTAG	XPOSTAG	POS	?	?	?	?	?	?
+2(disz)	2(disz)[one]	NU	NU	D	B-COUNT	_	2	cardinal	_	2
+{uruda}...	_	N	N	Ia	B-COM	_	_	_	_	_
+1(disz)	1(disz)[one]	NU	NU	D	B-COUNT	_	1	cardinal	_	1
+{uruda}szen-x-x	_	PN	PN.DAT-H	Iabcdefgh	_	_	_	_	_	_
+...	_[_]	PN	N	D	_	_	_	_	_	_
+1(disz)	1(disz)[one]	NU	NU	D	B-COUNT	_	1	cardinal	_	1
+{uruda}ma-szu-x	_	N	N	POS	B-COM	_	_	_	_	_
+...	_[_]	PN	N	D	_	_	_	_	_	_
+1(disz)	1(disz)[one]	NU	NU	D	B-COUNT	_	1	cardinal	_	1
+{uruda}ma2-gur8	_	N	N	Ia	B-COM	_	_	_	_	_
+1(disz)	1(disz)[one]	NU	NU	D	B-COUNT	_	1	cardinal	_	1
+{uruda}...	_	N	N	Ia	_	_	_	_	_	_
+ki-la2-bi	kila[weight]-bi[-ø]	N	N.3-SG-NH-POSS.ABS	D	_	_	_	_	_	_
+2(asz)	2(asz)[one]	NU	NU	D	B-COUNT	_	none	unknown	_	none
+gu2	gun[unit]	N	N	D	I-COUNT	*	*	*	*	*
+...	_[_]	PN	N	D	I-COUNT	*	*	*	*	*
+...	_[_]	PN	N	D	_	_	_	_	_	_
+1/3(disz)	1/3(disz)[one]	NU	NU	D	B-COUNT	g	166.66666666666669	weight	gin2	20.0
+ma-na	mana[unit]	N	N	D	I-COUNT	*	*	*	*	*
+{uruda}szu-...	_	N	N	POS	B-COM	_	_	_	_	_
+...	_[_]	PN	N	D	_	_	_	_	_	_
+x	_[_]	N	N	D	_	_	_	_	_	_
+...	_[_]	PN	N	D	_	_	_	_	_	_

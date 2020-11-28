@@ -1,0 +1,20 @@
+#new_text=P122387					
+FORM	SEGM	XPOSTAG	XPOSTAG	POS	?	?	?	?	?	?
+2(barig)	2(bariga)[unit]	NU	N	D	B-COUNT	*	*	*	*	*
+3(ban2)	3(ban)[unit]	NU	N	D	I-COUNT	*	*	*	*	*
+sze	sze[barley]	N	N	D	I-COUNT	*	*	*	*	*
+ur5-sze3	urra[loan]-sze	PN	N.TERM	D	_	_	_	_	_	_
+masz2-bi	_	N	N.ABS	Iabcdef	B-COM	_	_	_	_	_
+*RETOK*-capacity"	?	?	?	?	B-COUNT	l	100	"dry	*	*
+1(barig)	1(bariga)[unit]	NU	N	D	I-COUNT	*	*	*	sila3	100
+4(ban2)-ta	_	NU	NU	POS	I-COUNT	*	*	*	*	*
+ki	ki[place]	N	N	D	_	_	_	_	_	_
+ur-{d}iszkur-ta	_	PN	PN.GEN.ABL	Iabcdef	_	_	_	_	_	_
+ur-{d}nin-szubur	_	PN	PN	Iabcde	_	_	_	_	_	_
+szu	szu[hand][-e]	N	N.L3-NH	D	B-COM	_	_	_	_	_
+ba-ti	ba[-n]-teg[accept][-ø]	V	MID.3-SG-H-A.V.3-SG-P	D	_	_	_	_	_	_
+mu	mu[year]	N	N	D	_	_	_	_	_	_
+us2-sa	us[follow]-a	V	NF.V.PT	D	_	_	_	_	_	_
+ki-masz2{ki}-ke4	_	SN	SN.GEN.GEN.ERG	Iabcdef	_	_	_	_	_	_
+mu	mu[year]	N	N	D	_	_	_	_	_	_
+ib2-us2-sa	_	V	FIN.3-SG-H-A.V.3-SG-P.SUB.ABS	Iabcdef	_	_	_	_	_	_

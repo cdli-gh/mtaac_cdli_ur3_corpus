@@ -1,0 +1,16 @@
+#new_text=P121468					
+FORM	SEGM	XPOSTAG	XPOSTAG	POS	?	?	?	?	?	?
+...	_[_]	PN	N	D	_	_	_	_	_	_
+1(asz)	1(asz)[one]	NU	NU	D	B-COUNT	*	*	*	*	*
+1(barig)	1(bariga)[unit]	NU	N	D	I-COUNT	*	*	*	*	*
+4(ban2)	4(ban)[unit]	NU	N	D	I-COUNT	*	*	*	*	*
+sze	sze[barley]	N	N	D	I-COUNT	*	*	*	*	*
+gur	gur[unit]	N	N	D	I-COUNT	*	*	*	*	*
+mu-sza	_	PN	PN	POS	_	_	_	_	_	_
+si-ga	sig[load]-a	N	NF.V.PT	D	B-COM	_	_	_	_	_
+ki	ki[place]	N	N	D	_	_	_	_	_	_
+lu2-{d}nin-urta-ta	_	PN	PN.GEN.ABL	Iabcdef	_	_	_	_	_	_
+ama-kal-la	Amakala[1][-ra]	PN	PN.DAT-H	D	_	_	_	_	_	_
+ama-kal-la	Amakala[1][-ra]	PN	PN.DAT-H	D	_	_	_	_	_	_
+geme2	geme[female_worker]	N	N	D	_	_	_	_	_	_
+{d}en-lil2-la2	Enlil[1][-ak][-ø]	DN	DN.GEN	D	_	_	_	_	_	_

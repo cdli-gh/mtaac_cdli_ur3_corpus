@@ -1,0 +1,19 @@
+#new_text=P111024					
+FORM	SEGM	XPOSTAG	XPOSTAG	POS	?	?	?	?	?	?
+1(barig)	1(bariga)[unit]	NU	N	D	B-COUNT	*	*	*	*	*
+sze	sze[barley]	N	N	D	I-COUNT	*	*	*	*	*
+ur3-re-ba-du7	_	N	N	POS	_	_	_	_	_	_
+dumu	dumu[child]	N	N	D	_	_	_	_	_	_
+diri	diri[intercalary_month]	N	N	D	_	_	_	_	_	_
+*RETOK*-capacity"	?	?	?	?	B-COUNT	l	30	"dry	*	*
+3(ban2)	3(ban)[unit]	NU	N	D	I-COUNT	*	*	*	sila3	30
+dumu	dumu[child]	N	N	D	_	_	_	_	_	_
+ur-sag-ub3{ki}	_	PN	PN.GEN.GEN	Iabcdefg	_	_	_	_	_	_
+engar	engar[farmer]	N	N	D	_	_	_	_	_	_
+iti	iti[month]	N	N	D	_	_	_	_	_	_
+amar-a-a-si-ta	_	MN	MN.GEN.ABL	Iabcdefg	_	_	_	_	_	_
+szum2-mu-dam	_	V	V	POS	_	_	_	_	_	_
+a2-zi-da	Azida[1][-ra]	PN	PN.DAT-H	D	_	_	_	_	_	_
+dub-sar	dubsar[scribe]	N	N	D	_	_	_	_	_	_
+dumu	dumu[child]	N	N	D	_	_	_	_	_	_
+szesz-szesz	Szeszszesz[1][-ak]	PN	PN.GEN	D	_	_	_	_	_	_

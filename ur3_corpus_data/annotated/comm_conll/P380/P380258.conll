@@ -1,0 +1,22 @@
+#new_text=P380258					
+FORM	SEGM	XPOSTAG	XPOSTAG	POS	B-COUNT	l	230	"dry	*	*
+4(barig)	4(bariga)[unit]	NU	N	D	I-COUNT	*	*	*	sila3	230
+la2	la[hang][-ø]	V	NF.V.ABS	D	I-COUNT	*	*	*	*	*
+1(ban2)	1(ban)[unit]	NU	N	D	I-COUNT	*	*	*	*	*
+{gesz}haszhur	_	N	N	Ia	B-COM	_	_	_	_	_
+duru5	_	V	V	POS	_	_	_	_	_	_
+ma2	ma[ship]	N	N	D	_	_	_	_	_	_
+u4-zal-la	_	N	N	POS	_	_	_	_	_	_
+gur-si	_	V	V	POS	_	_	_	_	_	_
+ki	ki[place]	N	N	D	_	_	_	_	_	_
+ga-a-a-ta	_	PN	PN.GEN.GEN.ABL	Iabcdef	_	_	_	_	_	_
+kiszib3	kiszib[seal]	N	N	D	_	_	_	_	_	_
+ga-mu	Gamu[1][-ak]	PN	PN.GEN	D	_	_	_	_	_	_
+giri3	giri[foot]	N	N	D	_	_	_	_	_	_
+ur-bad3-tibirx(KU)-ra	Urbadtibira[-e]	PN	PN.ERG	D	_	_	_	_	_	_
+iti	iti[month]	N	N	D	_	_	_	_	_	_
+gu4-ra2-bi2-mu2-mu2	Gurabimumu[1][-'a]	MN	MN.L1	D	_	_	_	_	_	_
+mu	mu[year]	N	N	D	_	_	_	_	_	_
+us2-sa	us[follow]-a	V	NF.V.PT	D	_	_	_	_	_	_
+ki-masz{ki}	Kimasz[1]	SN	SN.ABS	D	_	_	_	_	_	_
+ba-hul	ba-hulu[destroy][-ø]	V	MID.V.3-SG-S	D	_	_	_	_	_	_

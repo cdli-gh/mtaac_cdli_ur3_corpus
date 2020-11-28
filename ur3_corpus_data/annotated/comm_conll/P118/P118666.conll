@@ -1,0 +1,26 @@
+#new_text=P118666					
+FORM	SEGM	XPOSTAG	XPOSTAG	POS	?	?	?	?	?	?
+3(u)	3(u)[ten]	NU	NU	D	B-COUNT	_	34	cardinal	_	34
+4(disz)	4(disz)[one]	NU	NU	D	I-COUNT	*	*	*	*	*
+ug3-IL2	uggaga[porter]	N	N	D	_	_	_	_	_	_
+ugula	ugula[overseer][-ø]	N	N	D	_	_	_	_	_	_
+{d}szara2-nir-gal2	_	PN	PN	Ia	_	_	_	_	_	_
+3(u)	3(u)[ten]	NU	NU	D	B-COUNT	_	33	cardinal	_	33
+3(disz)	3(disz)[one]	NU	NU	D	I-COUNT	*	*	*	*	*
+ug3-IL2	uggaga[porter]	N	N	D	_	_	_	_	_	_
+ugula	ugula[overseer][-ø]	N	N	D	_	_	_	_	_	_
+lu2-{d}nanna	Lunanna[1]	PN	PN	D	_	_	_	_	_	_
+e-a-ur3	_	PN	PN	Iabcde	_	_	_	_	_	_
+sahar	sahar[earth][-ø]	N	N.GEN	D	B-COM	_	_	_	_	_
+si-ga	sig[load]-a	N	NF.V.PT	D	_	_	_	_	_	_
+gurum2	gurum[inspection]	N	N	D	_	_	_	_	_	_
+ak	ak[excavate][-a][-ak]	V	NF.V.PT	D	_	_	_	_	_	_
+u4	ud[day]	N	N	D	_	_	_	_	_	_
+2(u)	2(u)[ten]	NU	NU	D	B-COUNT	_	20	cardinal	_	20
+6(disz)-kam	6(disz)[one]-ak-am	NU	NU.GEN.COP-3-SG	D	B-COUNT	_	6	cardinal	_	6
+iti	iti[month]	N	N	D	_	_	_	_	_	_
+sig4-{gesz}i3-szub-ba-gar-ra	_	MN	MN	POS	B-COM	_	_	_	_	_
+mu	mu[year]	N	N	D	_	_	_	_	_	_
+us2-sa	us[follow]-a	V	NF.V.PT	D	_	_	_	_	_	_
+{d}i-bi2-{d}suen	Ibbisuen[1]	RN	RN	D	_	_	_	_	_	_
+lugal	lugal[king]	N	N	D	_	_	_	_	_	_

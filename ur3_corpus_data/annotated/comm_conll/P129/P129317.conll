@@ -1,0 +1,11 @@
+#new_text=P129317					
+FORM	SEGM	XPOSTAG	XPOSTAG	POS	?	?	?	?	?	?
+1(asz)	1(asz)[one]	NU	NU	D	B-COUNT	_	1	cardinal	_	1
+udu	udu[sheep]	N	N	D	B-COM	_	_	_	_	_
+inim-ma-dingir	Inimmadingir[1][-ak][-ra]	FN	PN.GEN.DAT-H	D	_	_	_	_	_	_
+1(u)	1(u)[ten]	NU	NU	D	B-COUNT	_	10	cardinal	_	10
+GIN2-x	_			POS	_	_	_	_	_	_
+1(asz)	1(asz)[one]	NU	NU	D	B-COUNT	_	1	cardinal	_	1
+masz2	masz[goat]	N	N	D	B-COM	_	_	_	_	_
+ab-LAGAB	_	PN	PN	Iabcdefgh	_	_	_	_	_	_
+masz2-da-re-a	_	PN	PN	POS	_	_	_	_	_	_

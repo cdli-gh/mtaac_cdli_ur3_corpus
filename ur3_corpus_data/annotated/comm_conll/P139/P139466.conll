@@ -1,0 +1,25 @@
+#new_text=P139466					
+FORM	SEGM	XPOSTAG	XPOSTAG	POS	_	_	_	_	_	_
+...	_[_]	PN	N	D	_	_	_	_	_	_
+*RETOK*-x.	?	?	?	?	_	_	_	_	_	_
+ur-{d}...	_[1][-ra]	PN	PN.GEN	D	_	_	_	_	_	_
+*RETOK*-x.	?	?	?	?	_	_	_	_	_	_
+...	_[_]	PN	N	D	_	_	_	_	_	_
+tab-ba	tab[grasp]-a	V	NF.V.PT	D	_	_	_	_	_	_
+...	_[_]	PN	N	D	_	_	_	_	_	_
+sza-at-...	_	V	V	POS	_	_	_	_	_	_
+*RETOK*-x.	?	?	?	?	_	_	_	_	_	_
+...-esz18-dar	_	PN	PN	Iabcde	_	_	_	_	_	_
+dumu	dumu[child]	N	N	D	_	_	_	_	_	_
+...	_[_]	PN	N	D	_	_	_	_	_	_
+*RETOK*-x.	?	?	?	?	_	_	_	_	_	_
+...-{d}suen	_	RN	RN	POS	_	_	_	_	_	_
+dumu	dumu[child]	N	N	D	_	_	_	_	_	_
+...	_[_]	PN	N	D	_	_	_	_	_	_
+*RETOK*-x.	?	?	?	?	_	_	_	_	_	_
+sza-at-sza-esz18-dar	_	V	V	POS	_	_	_	_	_	_
+*RETOK*-x.	?	?	?	?	_	_	_	_	_	_
+...-da	_[_]	PN	PN	Iabcde	_	_	_	_	_	_
+*RETOK*-x.	?	?	?	?	_	_	_	_	_	_
+*RETOK*-capacity"	?	?	?	?	B-COUNT	l	30	"dry	*	*
+3(ban2)	3(ban)[unit]	NU	N	D	I-COUNT	*	*	*	sila3	30

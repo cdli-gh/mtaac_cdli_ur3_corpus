@@ -1,0 +1,27 @@
+#new_text=P118166					
+FORM	SEGM	XPOSTAG	XPOSTAG	POS	?	?	?	?	?	?
+1(u)	1(u)[ten]	NU	NU	D	B-COUNT	_	0.25	cardinal	_	0.25
+5(disz)	5(disz)[one]	NU	NU	D	I-COUNT	*	*	*	*	*
+gin2	gig[unit]	N	N	D	I-COUNT	*	*	*	*	*
+kusz	kusz[leather]	N	N	D	B-COM	_	_	_	_	_
+u2-hab2	_	PN	PN	Iabcde	_	_	_	_	_	_
+ka-tab	_	N	N	Ia	_	_	_	_	_	_
+dug	dug[pot]	N	N	D	_	_	_	_	_	_
+ninda	ninda[bread]	N	N	D	_	_	_	_	_	_
+5(disz)	5(disz)[one]	NU	NU	D	B-COUNT	_	5	cardinal	_	5
+sila3-sze3	_	N	N.GEN.TERM	Iabcdefg	_	_	_	_	_	_
+nir-i3-da-gal2	Niridagal[1][-e]	AJ	PN.ERG	D	_	_	_	_	_	_
+ki	ki[place]	N	N	D	B-COM	_	_	_	_	_
+a-a-kal-la	Ayakala[1]	PN	PN	D	_	_	_	_	_	_
+aszgab-ta	aszgab[leatherworker][-ak]-ta	N	N.GEN.ABL	D	_	_	_	_	_	_
+kiszib3	kiszib[seal]	N	N	D	_	_	_	_	_	_
+{d}szara2-kam	Szarakam[1]	PN	PN	D	_	_	_	_	_	_
+mu	mu[year]	N	N	D	_	_	_	_	_	_
+{d}szu-{d}suen	Szusuen[1]	RN	RN	D	_	_	_	_	_	_
+lugal-e	lugal[king]-e	N	N.ERG	D	_	_	_	_	_	_
+na-ru2-a-mah	naruamah[magnificent_stele][-ø]	PN	N.ABS	D	_	_	_	_	_	_
+mu-du3	mu[-n]-du[build][-ø]	V	VEN.3-SG-H-A.V.3-SG-P	D	_	_	_	_	_	_
+{d}szara2-kam	Szarakam[1]	PN	PN	D	_	_	_	_	_	_
+dub-sar	dubsar[scribe]	N	N	D	_	_	_	_	_	_
+dumu	dumu[child]	N	N	D	_	_	_	_	_	_
+lugal-{gesz}kiri6	Lugalkiri[1]	PN	PN	D	_	_	_	_	_	_

@@ -1,0 +1,23 @@
+#new_text=P332073					
+FORM	SEGM	XPOSTAG	XPOSTAG	POS	?	?	?	?	?	?
+2(disz)	2(disz)[one]	NU	NU	D	B-COUNT	_	2	cardinal	_	2
+masz-da3	maszda[gazelle][-ø]	N	N	D	B-COM	_	_	_	_	_
+a2	a[time]	N	N	D	_	_	_	_	_	_
+gesz	gesz[tree]	N	N	D	_	_	_	_	_	_
+gar-ra	_	V	V	POS	_	_	_	_	_	_
+muszen-du3-e-ne-sze3	_	N	N.PL.GEN.TERM	Iabcde	_	_	_	_	_	_
+giri3	giri[foot]	N	N	D	_	_	_	_	_	_
+i3-la-sza-mar	_	PN	PN.GEN	Iabcde	_	_	_	_	_	_
+ki	ki[place]	N	N	D	_	_	_	_	_	_
+ARAD2-mu-ta	_	PN	PN.GEN.ABL	Iab	_	_	_	_	_	_
+mu-kux(DU)	mukur[delivery][-ø]	N	N	D	_	_	_	_	_	_
+na-ra-am-i3-li2	Naramili[1]	PN	PN	D	_	_	_	_	_	_
+i3-dab5	i[-n]-dab[seize][-ø]	V	FIN.3-SG-H-A.V.3-SG-P	D	_	_	_	_	_	_
+ugu2	ugu[capital]	N	N	D	_	_	_	_	_	_
+ab-ba-sa6-ga-ka	_	PN	PN.GEN.GEN.L1	Iabcdefg	_	_	_	_	_	_
+ba-a-gar	ba-e-gar[place][-ø]	V	MID.L2.V.3-SG-S	D	_	_	_	_	_	_
+iti	iti[month]	N	N	D	_	_	_	_	_	_
+ezem-mah	Ezemmah[1][-'a]	MN	MN.L1	D	_	_	_	_	_	_
+mu	mu[year]	N	N	D	_	_	_	_	_	_
+{d}amar-{d}suen	Amarsuen[1]	RN	RN	D	_	_	_	_	_	_
+lugal	lugal[king]	N	N	D	_	_	_	_	_	_

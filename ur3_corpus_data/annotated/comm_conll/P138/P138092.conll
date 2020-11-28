@@ -1,0 +1,31 @@
+#new_text=P138092					
+FORM	SEGM	XPOSTAG	XPOSTAG	POS	?	?	?	?	?	?
+...	_[_]	PN	N	D	_	_	_	_	_	_
+x-te-ta	_			POS	_	_	_	_	_	_
+x	_[_]	N	N	D	_	_	_	_	_	_
+x	_[_]	N	N	D	_	_	_	_	_	_
+x	_[_]	N	N	D	_	_	_	_	_	_
+sza3	szag[heart]	N	N	D	_	_	_	_	_	_
+uri5{ki}-ma	Urim[1]-ak	SN	SN.GEN	D	_	_	_	_	_	_
+1(disz)	1(disz)[one]	NU	NU	D	B-COUNT	_	1	cardinal	_	1
+tug2	tug[textile]	N	N	D	B-COM	_	_	_	_	_
+nig2-lam2	niglam[ceremonial_garment][-ak]	N	N.GEN	D	_	_	_	_	_	_
+AB-PI	_			POS	_	_	_	_	_	_
+...	_[_]	PN	N	D	_	_	_	_	_	_
+*RETOK*-capacity"	?	?	?	?	B-COUNT	l	0.75	"liquid	*	*
+*RETOK*-capacity"	?	?	?	?	I-COUNT	l	0.75	"dry	sila3	0.75
+2/3(disz)	2/3(disz)[one]	NU	NU	D	I-COUNT	*	*	*	sila3	0.75
+sila3	sila[unit]	N	N	D	I-COUNT	*	*	*	*	*
+5(disz)	5(disz)[one]	NU	NU	D	I-COUNT	*	*	*	*	*
+gin2	gig[unit]	N	N	D	I-COUNT	*	*	*	*	*
+i3-gesz	igesz[oil]	V	N	D	B-COM	_	_	_	_	_
+du10-ga	dug[good]-a	V	NF.V.PT	D	_	_	_	_	_	_
+ba-ab-ak	_	V	V	POS	_	_	_	_	_	_
+tug2-ba	_	N	N	Ia	_	_	_	_	_	_
+nam-engar	_	N	N	Ia	_	_	_	_	_	_
+lugal	lugal[king]	N	N	D	_	_	_	_	_	_
+sze	sze[barley]	N	N	D	_	_	_	_	_	_
+gur10-gur10-da-bi	_	V	NF.V.3-SG-NH-POSS.ABS	Iabcdefg	_	_	_	_	_	_
+sza3	szag[heart]	N	N	D	_	_	_	_	_	_
+a2-ki-ti	Akiti[1][-'a]	N	MN.L1	D	_	_	_	_	_	_
+...	_[_]	PN	N	D	_	_	_	_	_	_

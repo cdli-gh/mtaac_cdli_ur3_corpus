@@ -1,0 +1,21 @@
+#new_text=P323346					
+FORM	SEGM	XPOSTAG	XPOSTAG	POS	B-COUNT	l	80	"dry	*	*
+1(barig)	1(bariga)[unit]	NU	N	D	I-COUNT	*	*	*	sila3	80
+2(ban2)	2(ban)[unit]	NU	N	D	I-COUNT	*	*	*	*	*
+ninda	ninda[bread]	N	N	D	B-COM	_	_	_	_	_
+zi3	zid[flour]	N	N	D	_	_	_	_	_	_
+zi3	zid[flour]	N	N	D	_	_	_	_	_	_
+sig15	sig[flour_type]	V	N	D	_	_	_	_	_	_
+*RETOK*-capacity"	?	?	?	?	B-COUNT	l	20	"dry	*	*
+2(ban2)	2(ban)[unit]	NU	N	D	I-COUNT	*	*	*	sila3	20
+ninda	ninda[bread]	N	N	D	_	_	_	_	_	_
+e-bi-a-tum	_	N	N.3-SG-NH-POSS.GEN	Iabcdef	_	_	_	_	_	_
+iti	iti[month]	N	N	D	_	_	_	_	_	_
+ezem-...	_	MN	MN	Iabcde	_	_	_	_	_	_
+mu	mu[year]	N	N	D	_	_	_	_	_	_
+{d}i-bi2-{d}suen	Ibbisuen[1]	RN	RN	D	_	_	_	_	_	_
+lugal	lugal[king]	N	N	D	_	_	_	_	_	_
+a-da-lal3	Adalal[1][-ra]	N	PN	D	_	_	_	_	_	_
+muhaldim	_	N	N	D	_	_	_	_	_	_
+ARAD2	arad[slave]	N	N	D	_	_	_	_	_	_
+szu-kab-ta2	_	PN	PN	D	_	_	_	_	_	_

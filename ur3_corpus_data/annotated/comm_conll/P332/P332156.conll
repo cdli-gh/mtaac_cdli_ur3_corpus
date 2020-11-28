@@ -1,0 +1,10 @@
+#new_text=P332156					
+FORM	SEGM	XPOSTAG	XPOSTAG	POS	?	?	?	?	?	?
+1(gesz2)	1(gesz)[sixty]	NU	NU	D	B-COUNT	_	none	unknown	_	none
+1(u)	1(u)[ten]	NU	NU	D	I-COUNT	*	*	*	*	*
+8(disz)	8(disz)[one]	NU	NU	D	I-COUNT	*	*	*	*	*
+...	_[_]	PN	N	D	I-COUNT	*	*	*	*	*
+iszib	iszib[priest]	N	N	D	_	_	_	_	_	_
+ba-ba6	_	PN	PN	Iabcde	_	_	_	_	_	_
+nu-banda3	nubanda[overseer][-ø]	N	N	D	_	_	_	_	_	_
+nam-mah	Nammah[1]	PN	PN	D	_	_	_	_	_	_

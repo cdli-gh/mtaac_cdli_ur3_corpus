@@ -1,0 +1,20 @@
+#new_text=P384807					
+FORM	SEGM	XPOSTAG	XPOSTAG	POS	?	?	?	?	?	?
+2(asz)	2(asz)[one]	NU	NU	D	B-COUNT	_	2	cardinal	_	2
+i3-nun	inun[ghee]	PN	N	D	B-COM	_	_	_	_	_
+gur	gur[unit]	N	N	D	_	_	_	_	_	_
+3(asz)	3(asz)[one]	NU	NU	D	B-COUNT	_	none	unknown	_	none
+...	_[_]	PN	N	D	I-COUNT	*	*	*	*	*
+e2	e[house]	N	N	D	_	_	_	_	_	_
+{d}en-lil2	Enlil[1]	DN	DN	D	_	_	_	_	_	_
+{d}nin-lil2-la2	Ninlil[1][-ak][-ø]	DN	DN.GEN.ABS	D	_	_	_	_	_	_
+ba-an-kux(KWU147)	_	V	MID.L1-SYN.V.3-SG-S	Ia	_	_	_	_	_	_
+kiszib3	kiszib[seal]	N	N	D	_	_	_	_	_	_
+ur-{d}en-lil2-la2	Urenlilak[1][-ak][-'a]	PN	PN.DAT-H	D	_	_	_	_	_	_
+e2-kiszib3-ba-ta	_	TN	TN	POS	_	_	_	_	_	_
+ba-zi	ba-zig[expend][-ø]	PN	MID.V.3-SG-S	D	_	_	_	_	_	_
+iti	iti[month]	N	N	D	_	_	_	_	_	_
+szu-esz5-sza	Szu'eszsza[1][-'a]	MN	MN.L1	D	_	_	_	_	_	_
+mu	mu[year]	N	N	D	_	_	_	_	_	_
+sza-asz-ru{ki}	Szaszru[1][-ø]	SN	SN.ABS	D	_	_	_	_	_	_
+ba-hul	ba-hulu[destroy][-ø]	V	MID.V.3-SG-S	D	_	_	_	_	_	_

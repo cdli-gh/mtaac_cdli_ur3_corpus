@@ -1,0 +1,23 @@
+#new_text=P315660					
+FORM	SEGM	XPOSTAG	XPOSTAG	POS	?	?	?	?	?	?
+1(u)	1(u)[ten]	NU	NU	D	B-COUNT	_	12	cardinal	_	12
+2(asz)	2(asz)[one]	NU	NU	D	I-COUNT	*	*	*	*	*
+esir2	esir[bitumen]	N	N	D	B-COM	_	_	_	_	_
+E2-A	Ea[1]	ON	ON	D	_	_	_	_	_	_
+dug	dug[pot]	N	N	D	_	_	_	_	_	_
+gur-TUL2-sze3	_	V	V	POS	_	_	_	_	_	_
+e2-gal-sze3	_	N	N	POS	_	_	_	_	_	_
+e2	e[house]	N	N	D	_	_	_	_	_	_
+ur-dun-ta	_	PN	PN.GEN.ABL	Iabcdef	_	_	_	_	_	_
+kiszib3	kiszib[seal]	N	N	D	_	_	_	_	_	_
+gu-gu-a	_	PN	PN.DAT-H	Iabcdefgh	_	_	_	_	_	_
+iti	iti[month]	N	N	D	_	_	_	_	_	_
+munu4-gu7	Munugu[1][-'a]	MN	MN.L1	D	_	_	_	_	_	_
+mu	mu[year]	N	N	D	_	_	_	_	_	_
+en	en[priest]	N	N	D	_	_	_	_	_	_
+{d}inanna	Inanna[1][-ak]	DN	DN	D	_	_	_	_	_	_
+masz-e	masz[goat]-e	N	N.L3-NH	D	_	_	_	_	_	_
+i3-pa3	i-pad[find][-ø]	V	FIN.V.3-SG-S	D	_	_	_	_	_	_
+gu-gu-a	_	PN	PN.DAT-H	Iabcdefgh	_	_	_	_	_	_
+...	_[_]	PN	N	D	_	_	_	_	_	_
+...	_[_]	PN	N	D	_	_	_	_	_	_

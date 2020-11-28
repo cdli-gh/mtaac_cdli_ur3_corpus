@@ -1,0 +1,13 @@
+#new_text=P337786					
+FORM	SEGM	XPOSTAG	XPOSTAG	POS	?	?	?	?	?	?
+1(u)	1(u)[ten]	NU	NU	D	B-COUNT	_	11	cardinal	_	11
+1(disz)	1(disz)[one]	NU	NU	D	I-COUNT	*	*	*	*	*
+gu4	gud[ox]	N	N	D	B-COM	_	_	_	_	_
+2(gesz2)	2(gesz)[sixty]	NU	NU	D	B-COUNT	_	137	cardinal	_	137
+1(u)	1(u)[ten]	NU	NU	D	I-COUNT	*	*	*	*	*
+7(disz)	7(disz)[one][-sze]	NU	NU	D	I-COUNT	*	*	*	*	*
+udu	udu[sheep]	N	N	D	_	_	_	_	_	_
+kiszib3	kiszib[seal]	N	N	D	_	_	_	_	_	_
+1(u)-am3	1(u)[ten][-ø]-am	NU	NU.ABS.COP-3-SG	D	B-COUNT	_	10	cardinal	_	10
+ki	ki[place]	N	N	D	B-COM	_	_	_	_	_
+du11-ga-ta	_	PN	PN.GEN.ABL	Iab	_	_	_	_	_	_

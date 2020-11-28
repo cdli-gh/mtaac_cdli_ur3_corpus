@@ -1,0 +1,24 @@
+#new_text=P387918					
+FORM	SEGM	XPOSTAG	XPOSTAG	POS	B-COUNT	l	60	"dry	*	*
+1(barig)	1(bariga)[unit]	NU	N	D	I-COUNT	*	*	*	sila3	60
+kasz	kasz[beer]	N	N	D	B-COM	_	_	_	_	_
+*RETOK*-capacity"	?	?	?	?	B-COUNT	l	60	"dry	*	*
+1(barig)	1(bariga)[unit]	NU	N	D	I-COUNT	*	*	*	sila3	60
+ninda	ninda[bread]	N	N	D	_	_	_	_	_	_
+lu2	lu[person]	N	N	D	_	_	_	_	_	_
+si-masz-ku-um{ki}	_	SN	SN.GEN.ABS	Iabcdef	_	_	_	_	_	_
+u4	ud[day]	N	N	D	_	_	_	_	_	_
+si-masz-ku-um{ki}-sze3	_	SN	SN.TERM	Iab	_	_	_	_	_	_
+ba-e-re-sza-a	_	V	V	POS	_	_	_	_	_	_
+giri3	giri[foot]	N	N	D	_	_	_	_	_	_
+u3-sur-ba-szu	_	PN	PN	Iabcdefgh	_	_	_	_	_	_
+zi-ga	zig[expend]-a	V	NF.V.PT	D	_	_	_	_	_	_
+iti	iti[month]	N	N	D	_	_	_	_	_	_
+gi-sig-ga	_	N	N	Ia	_	_	_	_	_	_
+mu	mu[year]	N	N	D	_	_	_	_	_	_
+{d}i-bi2-{d}suen	Ibbisuen[1]	RN	RN	D	_	_	_	_	_	_
+lugal	lugal[king]	N	N	D	_	_	_	_	_	_
+lu2-ga-saga	_	PN	PN.DAT-H	Iab	_	_	_	_	_	_
+ra2-gaba	ragaba[rider]	N	N.ABS	D	_	_	_	_	_	_
+dumu	dumu[child]	N	N	D	_	_	_	_	_	_
+u3-su2-ur-ba-szu	_	PN	PN	Iabcdefgh	_	_	_	_	_	_

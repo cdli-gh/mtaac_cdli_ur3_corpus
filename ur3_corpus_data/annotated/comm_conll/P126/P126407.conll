@@ -1,0 +1,25 @@
+#new_text=P126407					
+FORM	SEGM	XPOSTAG	XPOSTAG	POS	?	?	?	?	?	?
+2(asz)	2(asz)[one]	NU	NU	D	B-COUNT	_	2	cardinal	_	2
+i3-gesz	igesz[oil]	V	N	D	B-COM	_	_	_	_	_
+gur	gur[unit]	N	N	D	_	_	_	_	_	_
+lugal	lugal[king]	N	N	D	_	_	_	_	_	_
+geme2-{d}nanna	_	PN	PN	Ia	_	_	_	_	_	_
+e2-gi4-a	_	N	N	D	_	_	_	_	_	_
+bu3-u2-du	_	PN	PN.GEN.ABS	Iab	_	_	_	_	_	_
+sza3	szag[heart]	N	N	D	_	_	_	_	_	_
+uri5{ki}-ma	Urim[1]-ak	SN	SN.GEN	D	_	_	_	_	_	_
+zi-ga	zig[expend]-a	V	NF.V.PT	D	_	_	_	_	_	_
+geme2-{d}nin-lil2-la2-ka	_	PN	PN.GEN.GEN	Iabcdef	_	_	_	_	_	_
+ki	ki[place]	N	N	D	_	_	_	_	_	_
+szesz-kal-la-ta	Szeszkala[1][-ak]-ta	N	PN.GEN.ABL	D	_	_	_	_	_	_
+iti	iti[month]	N	N	D	_	_	_	_	_	_
+ezem-mah	Ezemmah[1][-'a]	MN	MN.L1	D	_	_	_	_	_	_
+mu	mu[year]	N	N	D	_	_	_	_	_	_
+ki-masz{ki}	Kimasz[1]	SN	SN.ABS	D	_	_	_	_	_	_
+hu-ur5-ti{ki}	Hurti[1][-ø]	GN	SN.ABS	D	_	_	_	_	_	_
+u3	u[and]	CNJ	CNJ	D	_	_	_	_	_	_
+ma-da-bi	mada[land]-bi[[-ø]	N	N.3-SG-NH-POSS.ABS	D	_	_	_	_	_	_
+u4	ud[day]	N	N	D	_	_	_	_	_	_
+1(disz)-a	_	NU	NU.L1	Iab	B-COUNT	_	1	cardinal	_	1
+ba-hul-a	ba-hulu[destroy][-ø]-a	V	MID.V.3-SG-S.SUB	D	_	_	_	_	_	_

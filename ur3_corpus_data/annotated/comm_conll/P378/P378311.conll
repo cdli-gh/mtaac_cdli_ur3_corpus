@@ -1,0 +1,19 @@
+#new_text=P378311					
+FORM	SEGM	XPOSTAG	XPOSTAG	POS	B-COUNT	l	6	"liquid	*	*
+*RETOK*-capacity"	?	?	?	?	I-COUNT	l	6	"dry	sila3	6
+6(disz)	6(disz)[one][-sze]	NU	NU	D	I-COUNT	*	*	*	sila3	6
+sila3	sila[unit]	N	N	D	I-COUNT	*	*	*	*	*
+i3-gesz	igesz[oil]	V	N	D	B-COM	_	_	_	_	_
+i3-...	_	PN	PN.GEN.ABS	Iab	_	_	_	_	_	_
+e2-gal	egal[palace][-ak][-'a]	N	N	D	_	_	_	_	_	_
+sza3	szag[heart]	N	N	D	_	_	_	_	_	_
+gir2-su{ki}	Girsu[1][-ak]	SN	SN.GEN	D	_	_	_	_	_	_
+ki	ki[place]	N	N	D	_	_	_	_	_	_
+ur-ab-ba-ta	Uraba[1][-ak]-ta	PN	PN.GEN.ABL	D	_	_	_	_	_	_
+lugal-di-ku5	_	PN	PN.GEN.ABS	Iabcdef	_	_	_	_	_	_
+szu	szu[hand][-e]	N	N.L3-NH	D	_	_	_	_	_	_
+ba-ti	ba[-n]-teg[accept][-ø]	V	MID.3-SG-H-A.V.3-SG-P	D	_	_	_	_	_	_
+iti	iti[month]	N	N	D	_	_	_	_	_	_
+ezem-{d}szul-gi	Ezemszulgir[1][-'a]	MN	MN.L1	D	_	_	_	_	_	_
+mu	mu[year]	N	N	D	_	_	_	_	_	_
+hu-uh2-nu-ri{ki}	Huhnuri[1][-ø]	GN	SN.ABS	D	_	_	_	_	_	_

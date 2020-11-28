@@ -1,0 +1,25 @@
+#new_text=P111361					
+FORM	SEGM	XPOSTAG	XPOSTAG	POS	?	?	?	?	?	?
+2(disz)	2(disz)[one]	NU	NU	D	B-COUNT	_	2	cardinal	_	2
+kid	kid[mat]	N	N	D	_	_	_	_	_	_
+ma2	ma[ship]	N	N	D	_	_	_	_	_	_
+szu4-a	_	V	V	POS	_	_	_	_	_	_
+3(u)	3(u)[ten]	NU	NU	D	B-COUNT	m	1800	length	gi	600
+esz2	_	N	N	Ia	I-COUNT	*	*	*	*	*
+gal	gal[big][-ø]	V	NF.V.ABS	D	_	_	_	_	_	_
+2(disz)	2(disz)[one]	NU	NU	D	B-COUNT	m	120	length	gi	40
+esz2	_	N	N	Ia	I-COUNT	*	*	*	*	*
+ma2	ma[ship]	N	N	D	_	_	_	_	_	_
+gid2	gid[length]	V	N	D	B-COM	_	_	_	_	_
+bala-sze3	_	N	N	POS	_	_	_	_	_	_
+mar-sa-ta	_	N	N.GEN.ABL	Iabcdefg	_	_	_	_	_	_
+ki	ki[place]	N	N	D	_	_	_	_	_	_
+nam-mah-ta	_	PN	PN	Ia	_	_	_	_	_	_
+mu	mu[year]	N	N	D	_	_	_	_	_	_
+lugal-uszumgal-sze3	_	PN	PN.GEN.TERM	Iabcdefg	_	_	_	_	_	_
+kiszib3	kiszib[seal]	N	N	D	_	_	_	_	_	_
+ur-{d}ig-alim	Urigalim[1]	FN	PN	D	_	_	_	_	_	_
+dumu-na	dumu[child]-ani-ak	N	N.3-SG-H-POSS.GEN	D	_	_	_	_	_	_
+mu	mu[year]	N	N	D	_	_	_	_	_	_
+szu-{d}suen	Szusuen[1]	PN	RN	D	_	_	_	_	_	_
+lugal	lugal[king]	N	N	D	_	_	_	_	_	_

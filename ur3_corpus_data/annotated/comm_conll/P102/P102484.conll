@@ -1,0 +1,14 @@
+#new_text=P102484					
+FORM	SEGM	XPOSTAG	XPOSTAG	POS	B-COUNT	l	0.0002777777777777778	"dry	*	*
+3(asz)	3(asz)[one]	NU	NU	D	I-COUNT	*	*	*	sila3	0.0002777777777777778
+sze	sze[barley]	N	N	D	I-COUNT	*	*	*	*	*
+gur	gur[unit]	N	N	D	I-COUNT	*	*	*	*	*
+i-bi-du3	_	N	N	POS	_	_	_	_	_	_
+geme2	geme[female_worker]	N	N	D	_	_	_	_	_	_
+ki	ki[place]	N	N	D	_	_	_	_	_	_
+la-ki-pu-um	_	PN	PN	Iabcde	_	_	_	_	_	_
+a-wi-lum	_	PN	PN	Iabcdefgh	_	_	_	_	_	_
+szu	szu[hand][-e]	N	N.L3-NH	D	B-COM	_	_	_	_	_
+ba-ti	ba[-n]-teg[accept][-ø]	V	MID.3-SG-H-A.V.3-SG-P	D	_	_	_	_	_	_
+iti	iti[month]	N	N	D	_	_	_	_	_	_
+la-hu-um	_	MN	MN	POS	_	_	_	_	_	_

@@ -1,0 +1,11 @@
+#new_text=P112997					
+FORM	SEGM	XPOSTAG	XPOSTAG	POS	?	?	?	?	?	?
+1(u)	1(u)[ten]	NU	NU	D	B-COUNT	g	300000.0	weight	gin2	36000
+gu2	gun[unit]	N	N	D	I-COUNT	*	*	*	*	*
+uruda	urud[copper][-ak]	N	N	D	B-COM	_	_	_	_	_
+9(disz)	9(disz)[one]	NU	NU	D	B-COUNT	g	4750.0	weight	gin2	570.0
+1/2(disz)	1/2(disz)[one]	NU	NU	D	I-COUNT	*	*	*	*	*
+ma-na	mana[unit]	N	N	D	I-COUNT	*	*	*	*	*
+sza3	szag[heart]	N	N	D	_	_	_	_	_	_
+NIG2	nig[unknown]	N	N	D	_	_	_	_	_	_
+na4	_	FN	FN	POS	B-COM	_	_	_	_	_

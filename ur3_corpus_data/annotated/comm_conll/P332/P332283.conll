@@ -1,0 +1,14 @@
+#new_text=P332283					
+FORM	SEGM	XPOSTAG	XPOSTAG	POS	?	?	?	?	?	?
+1(disz)	1(disz)[one]	NU	NU	D	B-COUNT	_	1	cardinal	_	1
+nin-tesz2	_	PN	PN.GEN.ABS	Iab	_	_	_	_	_	_
+a-ga-am	_	N	N	POS	_	_	_	_	_	_
+e2-masz-sze3	_	PN	PN	Iabcdefgh	_	_	_	_	_	_
+x	_[_]	N	N	D	_	_	_	_	_	_
+mu	mu[year]	N	N	D	_	_	_	_	_	_
+{d}szu-{d}suen	Szusuen[1]	RN	RN	D	_	_	_	_	_	_
+lugal	lugal[king]	N	N	D	_	_	_	_	_	_
+AN-...	_	PN	PN	Iabc	_	_	_	_	_	_
+dub-sar	dubsar[scribe]	N	N	D	_	_	_	_	_	_
+dumu	dumu[child]	N	N	D	_	_	_	_	_	_
+lu2-...	_[1][-ra]	PN	PN	D	_	_	_	_	_	_

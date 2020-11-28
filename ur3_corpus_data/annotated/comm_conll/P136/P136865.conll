@@ -1,0 +1,22 @@
+#new_text=P136865					
+FORM	SEGM	XPOSTAG	XPOSTAG	POS	?	?	?	?	?	?
+1(disz)	1(disz)[one]	NU	NU	D	B-COUNT	_	0.018518518518518517	cardinal	_	0.018518518518518517
+gin2	gig[unit]	N	N	D	I-COUNT	*	*	*	*	*
+2(u)	2(u)[ten]	NU	NU	D	I-COUNT	*	*	*	*	*
+sze	sze[barley]	N	N	D	I-COUNT	*	*	*	*	*
+{na4}gug	_	N	N	Ia	B-COM	_	_	_	_	_
+gir2	_	PN	PN	POS	_	_	_	_	_	_
+szu-i	szu'i[barber][-ak]	N	N.ABS	D	_	_	_	_	_	_
+tur	Tur[1]	V	NF.V.ABS	D	_	_	_	_	_	_
+2(disz)-sze3	2(disz)[one]-sze	NU	NU.TERM	D	B-COUNT	_	2	cardinal	_	2
+ki	ki[place]	N	N	D	_	_	_	_	_	_
+ARAD2-{d}nanna-ta	_	PN	PN.GEN.GEN.ABL	Iabcdef	_	_	_	_	_	_
+a-hu-wa-qar	Ahuwaqar[1][-e]	PN	PN	D	_	_	_	_	_	_
+szu	szu[hand][-e]	N	N.L3-NH	D	B-COM	_	_	_	_	_
+ba-ti	ba[-n]-teg[accept][-ø]	V	MID.3-SG-H-A.V.3-SG-P	D	_	_	_	_	_	_
+iti	iti[month]	N	N	D	_	_	_	_	_	_
+ezem-{d}szu-{d}suen	_	MN	MN	POS	_	_	_	_	_	_
+u4	ud[day]	N	N	D	_	_	_	_	_	_
+2(disz)	2(disz)[one]	NU	NU	D	B-COUNT	_	2	cardinal	_	2
+ba-zal	ba-zal[pass][-ø][-a][-'a]	V	MID.V.3-SG-S.SUB	D	_	_	_	_	_	_
+mu	mu[year]	N	N	D	_	_	_	_	_	_

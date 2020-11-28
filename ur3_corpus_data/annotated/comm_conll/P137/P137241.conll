@@ -1,0 +1,17 @@
+#new_text=P137241					
+FORM	SEGM	XPOSTAG	XPOSTAG	POS	B-COUNT	l	0.05555555555555555	"dry	*	*
+1(gesz'u)	1(gesz'u)[six_hundred]	NU	NU	D	I-COUNT	*	*	*	sila3	0.05555555555555555
+sze	sze[barley]	N	N	D	I-COUNT	*	*	*	*	*
+gur	gur[unit]	N	N	D	I-COUNT	*	*	*	*	*
+sze	sze[barley]	N	N	D	B-COM	_	_	_	_	_
+ki-ba	ki[place]-bi-'a	PN	N.3-SG-NH-POSS.L1	D	_	_	_	_	_	_
+se-ge4	_	V	NF.V.3-SG-NH-POSS.GEN.ERG	Iabcdefg	_	_	_	_	_	_
+aga3-us2	aga'us[soldier]	N	N	D	_	_	_	_	_	_
+lugal-ke4-ne	_	PN	PN	POS	_	_	_	_	_	_
+kiszib3	kiszib[seal]	N	N	D	_	_	_	_	_	_
+a2-pi-la-sza	_	PN	PN	Ia	_	_	_	_	_	_
+mu	mu[year]	N	N	D	_	_	_	_	_	_
+us2-sa	us[follow]-a	V	NF.V.PT	D	_	_	_	_	_	_
+bad3	bad[wall]	N	N	D	_	_	_	_	_	_
+mar-tu	Martu[1][-ø]	EN	EN.ABS	D	_	_	_	_	_	_
+ba-du3	ba-du[build][-ø]	V	MID.V.3-SG-S	D	_	_	_	_	_	_

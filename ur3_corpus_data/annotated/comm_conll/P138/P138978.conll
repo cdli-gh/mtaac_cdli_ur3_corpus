@@ -1,0 +1,18 @@
+#new_text=P138978					
+FORM	SEGM	XPOSTAG	XPOSTAG	POS	B-COUNT	l	3	"liquid	*	*
+*RETOK*-capacity"	?	?	?	?	I-COUNT	l	3	"dry	sila3	3
+3(disz)	3(disz)[one]	NU	NU	D	I-COUNT	*	*	*	sila3	3
+sila3	sila[unit]	N	N	D	I-COUNT	*	*	*	*	*
+i3	i[oil]	N	N	D	B-COM	_	_	_	_	_
+ma-an-szum2	Manszum[1][-ak]	PN	PN.GEN	D	_	_	_	_	_	_
+dumu	dumu[child]	N	N	D	_	_	_	_	_	_
+ur-{d}lamma-mu	_	PN	PN.DAT-H	Iab	_	_	_	_	_	_
+szabra	szabra[chief_administrator][-ak]	N	N	D	_	_	_	_	_	_
+x	_[_]	N	N	D	_	_	_	_	_	_
+x	_[_]	N	N	D	_	_	_	_	_	_
+...	_[_]	PN	N	D	_	_	_	_	_	_
+mu	mu[year]	N	N	D	_	_	_	_	_	_
+x	_[_]	N	N	D	_	_	_	_	_	_
+...	_[_]	PN	N	D	_	_	_	_	_	_
+bad3-gal	badgal[great_wall][-ø]	N	N.ABS	D	_	_	_	_	_	_
+...	_[_]	PN	N	D	_	_	_	_	_	_

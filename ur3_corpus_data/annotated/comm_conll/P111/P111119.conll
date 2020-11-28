@@ -1,0 +1,12 @@
+#new_text=P111119					
+FORM	SEGM	XPOSTAG	XPOSTAG	POS	B-COUNT	l	8	"liquid	*	*
+*RETOK*-capacity"	?	?	?	?	I-COUNT	l	8	"dry	sila3	8
+8(disz)	8(disz)[one]	NU	NU	D	I-COUNT	*	*	*	sila3	8
+sila3	sila[unit]	N	N	D	I-COUNT	*	*	*	*	*
+i3-gesz	igesz[oil]	V	N	D	B-COM	_	_	_	_	_
+aga3-us2	aga'us[soldier]	N	N	D	_	_	_	_	_	_
+lugal	lugal[king]	N	N	D	_	_	_	_	_	_
+szar2-ra-ab-du	szarrabdu[administrator][-ak]	N	N.GEN	D	_	_	_	_	_	_
+a-sza3-ga-me	_	N	N.GEN	Iabcde	_	_	_	_	_	_
+iti	iti[month]	N	N	D	_	_	_	_	_	_
+gu4-ra2-bi2-mu2-mu2	Gurabimumu[1][-'a]	MN	MN.L1	D	_	_	_	_	_	_

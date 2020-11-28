@@ -1,0 +1,25 @@
+#new_text=P130270					
+FORM	SEGM	XPOSTAG	XPOSTAG	POS	?	?	?	?	?	?
+3(disz)	3(disz)[one]	NU	NU	D	B-COUNT	_	3	cardinal	_	3
+tug2	tug[textile]	N	N	D	B-COM	_	_	_	_	_
+u2	u[grass]	N	N	D	_	_	_	_	_	_
+kal	_	V	V	POS	_	_	_	_	_	_
+tug2-ba-a	tugba[textile_distribution]	N	N	D	_	_	_	_	_	_
+bala	bala[turn][-'a]	N	N.L1	D	_	_	_	_	_	_
+mu	mu[year]	N	N	D	_	_	_	_	_	_
+3(disz)-kam	3(disz)[one]-ak-am	NU	NU.GEN.COP-3-SG	D	B-COUNT	_	3	cardinal	_	3
+mu	mu[year]	N	N	D	_	_	_	_	_	_
+{gesz}kiri6	kiri[orchard][-'a][-ø]	N	N	D	B-COM	_	_	_	_	_
+ur-am3-ma	Uramma[1][-ak]	PN	PN	D	_	_	_	_	_	_
+ba-hul-a-sze3	_	V	MID.V.3-SG-S.TERM	Iabcdefg	_	_	_	_	_	_
+lu2-dingir-ra-ke4	_	PN	PN.GEN.ERG	Iabcdefg	_	_	_	_	_	_
+su-su-dam	sug-sug[repay]-ed[-ø]-am	PN	NF.V.RDP.F.ABS.COP-3-SG	D	_	_	_	_	_	_
+mu	mu[year]	N	N	D	_	_	_	_	_	_
+{d}szu-{d}suen	Szusuen[1]	RN	RN	D	_	_	_	_	_	_
+lugal-e	lugal[king]-e	N	N.ERG	D	_	_	_	_	_	_
+na-ru2-a-mah	naruamah[magnificent_stele][-ø]	PN	N.ABS	D	_	_	_	_	_	_
+mu-du3	mu[-n]-du[build][-ø]	V	VEN.3-SG-H-A.V.3-SG-P	D	_	_	_	_	_	_
+lu2-dingir-ra	Ludingira[1][-ra]	PN	PN	D	_	_	_	_	_	_
+dub-sar	dubsar[scribe]	N	N	D	_	_	_	_	_	_
+dumu	dumu[child]	N	N	D	_	_	_	_	_	_
+ha-ba-lu5-ge2	Habaluge[1][-ra]	PN	PN	D	_	_	_	_	_	_

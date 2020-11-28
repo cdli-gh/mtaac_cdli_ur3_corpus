@@ -1,0 +1,13 @@
+#new_text=P121492					
+FORM	SEGM	XPOSTAG	XPOSTAG	POS	?	?	?	?	?	?
+1(u)	1(u)[ten]	NU	NU	D	B-COUNT	m	78	length	gi	26
+3(disz)	3(disz)[one]	NU	NU	D	I-COUNT	*	*	*	*	*
+ninda	ninda[bread]	N	N	D	I-COUNT	*	*	*	*	*
+gid2	gid[length]	V	N	D	B-COM	_	_	_	_	_
+2(disz)	2(disz)[one]	NU	NU	D	B-COUNT	m	1.0	length	gi	0.3333333333333333
+kusz3	kusz[unit]	N	N	D	I-COUNT	*	*	*	*	*
+dagal	dagal[wide][-ø]	V	NF.V.ABS	D	_	_	_	_	_	_
+la2	la[hang][-ø]	V	NF.V.ABS	D	_	_	_	_	_	_
+x	_[_]	N	N	D	_	_	_	_	_	_
+a-sza3	aszag[field]	N	N	D	_	_	_	_	_	_
+gesz-su-edin-x	_	FN	FN	POS	_	_	_	_	_	_

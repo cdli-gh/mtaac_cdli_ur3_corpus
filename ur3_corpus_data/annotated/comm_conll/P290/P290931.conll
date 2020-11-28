@@ -1,0 +1,25 @@
+#new_text=P290931					
+FORM	SEGM	XPOSTAG	XPOSTAG	POS	?	?	?	?	?	?
+4(u)	4(u)[ten]	NU	NU	D	B-COUNT	g	1290000.0	weight	gin2	154800
+3(disz)	3(disz)[one]	NU	NU	D	I-COUNT	*	*	*	*	*
+gu2	gun[unit]	N	N	D	I-COUNT	*	*	*	*	*
+esir2	esir[bitumen]	N	N	D	B-COM	_	_	_	_	_
+a-ba-al	_	V	VEN.3-SG-H.DAT.3-SG-H-A.V.3-SG-P	Iabcdefgh	_	_	_	_	_	_
+1(u)	1(u)[ten]	NU	NU	D	B-COUNT	_	10	cardinal	_	10
+esir2	esir[bitumen]	N	N	D	B-COM	_	_	_	_	_
+E2-A	Ea[1]	ON	ON	D	_	_	_	_	_	_
+gur	gur[unit]	N	N	D	_	_	_	_	_	_
+lugal	lugal[king]	N	N	D	_	_	_	_	_	_
+1(u)	1(u)[ten]	NU	NU	D	B-COUNT	g	4500083.333333334	weight	gin2	540010
+2(gesz2)	2(gesz)[sixty]	NU	NU	D	I-COUNT	*	*	*	*	*
+3(u)	3(u)[ten]	NU	NU	D	I-COUNT	*	*	*	*	*
+gu2	gun[unit]	N	N	D	I-COUNT	*	*	*	*	*
+esir2	esir[bitumen]	N	N	D	B-COM	_	_	_	_	_
+gul-gul	_	V	V	POS	_	_	_	_	_	_
+1(u)	1(u)[ten]	NU	NU	D	B-COUNT	_	11	cardinal	_	11
+1(disz)	1(disz)[one]	NU	NU	D	I-COUNT	*	*	*	*	*
+im-babbar	_	N	N	Ia	_	_	_	_	_	_
+...	_[_]	PN	N	D	_	_	_	_	_	_
+4(u)	4(u)[ten]	NU	NU	D	B-COUNT	_	40	cardinal	_	40
+ur2	_	N	N	POS	_	_	_	_	_	_
+...-ar-ma	_			POS	_	_	_	_	_	_

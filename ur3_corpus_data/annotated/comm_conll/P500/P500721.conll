@@ -1,0 +1,23 @@
+#new_text=P500721					
+FORM	SEGM	XPOSTAG	XPOSTAG	POS	B-COUNT	l	100.015	"dry	*	*
+1(szar2)	1(szar)[unit]	NU	N	D	I-COUNT	*	*	*	sila3	100.015
+2(gesz2)	2(gesz)[sixty]	NU	NU	D	I-COUNT	*	*	*	*	*
+4(u)	4(u)[ten]	NU	NU	D	I-COUNT	*	*	*	*	*
+2(asz)	2(asz)[one]	NU	NU	D	I-COUNT	*	*	*	*	*
+sze	sze[barley]	N	N	D	I-COUNT	*	*	*	*	*
+gur	gur[unit]	N	N	D	I-COUNT	*	*	*	*	*
+kiszib3	kiszib[seal]	N	N	D	_	_	_	_	_	_
+lu2-gu-la	Lugula[1][-ak][-ra]	PN	PN	D	_	_	_	_	_	_
+sanga	sagga[temple_administrator]	N	N	D	_	_	_	_	_	_
+{d}dumu-zi	Dumuzi[1][-'a]	MN	MN.L1	D	_	_	_	_	_	_
+ur-nig2-e	_	N	N	POS	_	_	_	_	_	_
+tum3-dam	_	V	V	POS	_	_	_	_	_	_
+mu	mu[year]	N	N	D	_	_	_	_	_	_
+en	en[priest]	N	N	D	_	_	_	_	_	_
+{d}inanna	Inanna[1][-ak]	DN	DN	D	_	_	_	_	_	_
+masz2-e	masz[goat]-e	N	N.L3-NH	D	B-COM	_	_	_	_	_
+i3-pa3	i-pad[find][-ø]	V	FIN.V.3-SG-S	D	_	_	_	_	_	_
+ur-nig2	_	PN	PN	Iabcde	_	_	_	_	_	_
+dub-sar	dubsar[scribe]	N	N	D	_	_	_	_	_	_
+dumu	dumu[child]	N	N	D	_	_	_	_	_	_
+lugal-gaba	Lugalgaba[1]	PN	PN	D	_	_	_	_	_	_

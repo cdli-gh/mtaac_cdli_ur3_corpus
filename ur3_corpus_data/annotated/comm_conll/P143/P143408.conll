@@ -1,0 +1,15 @@
+#new_text=P143408					
+FORM	SEGM	XPOSTAG	XPOSTAG	POS	?	?	?	?	?	?
+1(disz)	1(disz)[one]	NU	NU	D	B-COUNT	g	591.6666666666667	weight	gin2	71
+ma-na	mana[unit]	N	N	D	I-COUNT	*	*	*	*	*
+1(u)	1(u)[ten]	NU	NU	D	I-COUNT	*	*	*	*	*
+1(disz)	1(disz)[one]	NU	NU	D	I-COUNT	*	*	*	*	*
+gin2	gig[unit]	N	N	D	I-COUNT	*	*	*	*	*
+ku3-babbar	kugbabbar[silver]	N	N	D	B-COM	_	_	_	_	_
+2(disz)	2(disz)[one]	NU	NU	D	B-COUNT	_	0.03333333333333333	cardinal	_	0.03333333333333333
+gin2	gig[unit]	N	N	D	I-COUNT	*	*	*	*	*
+ku3-sig17	kugsig[gold]	N	N	D	_	_	_	_	_	_
+e2	e[house]	N	N	D	_	_	_	_	_	_
+puzur4-isz-{d}da-gan-sze3	_	SN	SN.TERM	Iabcd	_	_	_	_	_	_
+giri3	giri[foot]	N	N	D	_	_	_	_	_	_
+bu-ga	_	V	V	POS	_	_	_	_	_	_

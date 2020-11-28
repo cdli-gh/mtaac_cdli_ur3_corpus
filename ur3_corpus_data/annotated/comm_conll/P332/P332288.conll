@@ -1,0 +1,17 @@
+#new_text=P332288					
+FORM	SEGM	XPOSTAG	XPOSTAG	POS	?	?	?	?	?	?
+1(u)	1(u)[ten]	NU	NU	D	B-COUNT	_	15	cardinal	_	15
+5(disz)	5(disz)[one]	NU	NU	D	I-COUNT	*	*	*	*	*
+la2-ia3	la'u[arrears]	N	N	D	_	_	_	_	_	_
+ad6-bi	_	N	N	POS	_	_	_	_	_	_
+i3-gid2	_	V	V	POS	_	_	_	_	_	_
+kusz	kusz[leather]	N	N	D	B-COM	_	_	_	_	_
+ba-ra-ni-pa-e3	_	V	NF.V.PT.GEN	Iabcdef	_	_	_	_	_	_
+...-a	_	PN	PN	POS	_	_	_	_	_	_
+na-gada	nagada[herdsman][-ak]	N	N.GEN	D	_	_	_	_	_	_
+...	_[_]	PN	N	D	_	_	_	_	_	_
+AN	_[_]	PN	PN.DAT-H	Iabcdefgh	_	_	_	_	_	_
+...-{gesz}gigir	_	PN	PN	Iabcde	_	_	_	_	_	_
+x	_[_]	N	N	D	_	_	_	_	_	_
+szu-{d}iszkur	Szu'iszkur[1][-ak]	PN	PN	D	_	_	_	_	_	_
+lu2-inim-ma-me	_	PN	PN	POS	_	_	_	_	_	_

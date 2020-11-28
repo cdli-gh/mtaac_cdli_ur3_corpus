@@ -1,0 +1,24 @@
+#new_text=P143949					
+FORM	SEGM	XPOSTAG	XPOSTAG	POS	?	?	?	?	?	?
+n	_(_)[_]	NU	NU	D	_	_	_	_	_	_
+3(gesz2)	3(gesz)[sixty]	NU	NU	D	B-COUNT	_	200	cardinal	_	200
+2(u)	2(u)[ten]	NU	NU	D	I-COUNT	*	*	*	*	*
+gurusz	gurusz[male]	N	N	D	B-COM	_	_	_	_	_
+u4	ud[day]	N	N	D	_	_	_	_	_	_
+1(disz)-sze3	1(disz)[one]-sze	NU	NU.TERM	D	B-COUNT	_	1	cardinal	_	1
+a2	a[time]	N	N	D	_	_	_	_	_	_
+ur-ra	_	PN	PN.GEN.ABL	Iabcdefgh	B-COM	_	_	_	_	_
+ARAD2	arad[slave]	N	N	D	_	_	_	_	_	_
+lugal-ezem-ka	_	PN	PN.GEN.GEN.L1	Iabcdefg	_	_	_	_	_	_
+ki	ki[place]	N	N	D	_	_	_	_	_	_
+lugal-gu4-e-ta	_	PN	PN.GEN.ABL	Iab	_	_	_	_	_	_
+lugal-mu-ma-ag2	Lugalmumag[1][-ø]	PN	PN.ABS	D	_	_	_	_	_	_
+i3-dab5	i[-n]-dab[seize][-ø]	V	FIN.3-SG-H-A.V.3-SG-P	D	_	_	_	_	_	_
+mu	mu[year]	N	N	D	_	_	_	_	_	_
+gu-za	guza[chair][-ø]	N	N	D	_	_	_	_	_	_
+ku3	kug[silver]	N	N	D	_	_	_	_	_	_
+{d}en-lil2-la2	Enlil[1][-ak][-ø]	DN	DN.GEN	D	_	_	_	_	_	_
+ba-dim2	ba-dim[create][-ø]	V	MID.V.3-SG-S	D	_	_	_	_	_	_
+lugal-mu-ma-ag2	Lugalmumag[1][-ø]	PN	PN.ABS	D	_	_	_	_	_	_
+ARAD2	arad[slave]	N	N	D	_	_	_	_	_	_
+{d}szara2	Szara[1][-ak]	DN	DN	D	_	_	_	_	_	_

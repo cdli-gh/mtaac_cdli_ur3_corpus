@@ -1,0 +1,20 @@
+#new_text=P121093					
+FORM	SEGM	XPOSTAG	XPOSTAG	POS	B-COUNT	l	0.0018518518518518517	"dry	*	*
+2(u)	2(u)[ten]	NU	NU	D	I-COUNT	*	*	*	sila3	0.0018518518518518517
+sze	sze[barley]	N	N	D	I-COUNT	*	*	*	*	*
+gur	gur[unit]	N	N	D	I-COUNT	*	*	*	*	*
+masz2-bi	_	N	N.ABS	Iabcdef	B-COM	_	_	_	_	_
+*RETOK*-capacity"	?	?	?	?	B-COUNT	l	90	"dry	*	*
+1(barig)	1(bariga)[unit]	NU	N	D	I-COUNT	*	*	*	sila3	90
+3(ban2)-ta	3(ban)[unit]-ta	NU	N.ABL	D	I-COUNT	*	*	*	*	*
+ki	ki[place]	N	N	D	_	_	_	_	_	_
+ur-szu-mah	_	PN	PN	Iabcde	_	_	_	_	_	_
+ARAD2-er3-ra	_	PN	PN	Ia	_	_	_	_	_	_
+szu	szu[hand][-e]	N	N.L3-NH	D	B-COM	_	_	_	_	_
+ba-an-ti	ba-n-teg[accept][-ø]	V	MID.3-SG-H-A.V.3-SG-P	D	_	_	_	_	_	_
+iti	iti[month]	N	N	D	_	_	_	_	_	_
+ma-ak-ra-tum-sze3	_	MN	MN	POS	_	_	_	_	_	_
+szum2-mu-dam	_	V	V	POS	_	_	_	_	_	_
+ARAD2-er3-ra	_	PN	PN	Ia	_	_	_	_	_	_
+kal-kal	_	V	NF.V.3-SG-NH-POSS.GEN.DAT-H	Iabcdefg	_	_	_	_	_	_
+...	_[_]	PN	N	D	_	_	_	_	_	_

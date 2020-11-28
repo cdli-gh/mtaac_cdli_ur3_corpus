@@ -1,0 +1,26 @@
+#new_text=P111598					
+FORM	SEGM	XPOSTAG	XPOSTAG	POS	?	?	?	?	?	?
+5(gesz2)	5(gesz)[sixty]	NU	NU	D	B-COUNT	_	300	cardinal	_	300
+sa	sa[bundle]	N	N	D	_	_	_	_	_	_
+gi	gi[reed][-ø]	N	N	D	_	_	_	_	_	_
+SZID	_	N	N.ABS	Iabcdefghij	_	_	_	_	_	_
+gi	gi[reed][-ø]	N	N	D	_	_	_	_	_	_
+en-gal-du-du	_	PN	PN	Iabcde	_	_	_	_	_	_
+ga2-nun	_	N	N	D	_	_	_	_	_	_
+gesz-ta	_	N	N.ABL	Iabcdefghi	B-COM	_	_	_	_	_
+ki	ki[place]	N	N	D	_	_	_	_	_	_
+ur-{d}nin-gir2-su-ta	_	PN	PN.GEN.ABL	Iab	_	_	_	_	_	_
+kiszib3	kiszib[seal]	N	N	D	_	_	_	_	_	_
+lu2-{d}nin-gir2-su	Luningirsu[1]	PN	PN	D	_	_	_	_	_	_
+dumu	dumu[child]	N	N	D	_	_	_	_	_	_
+ba-zi	ba-zig[expend][-ø]	PN	MID.V.3-SG-S	D	_	_	_	_	_	_
+ig	ig[door]	N	N	D	_	_	_	_	_	_
+gil	_	N	N	POS	_	_	_	_	_	_
+kid	kid[mat]	N	N	D	_	_	_	_	_	_
+e2-duru5	eduru[village]	N	N	D	_	_	_	_	_	_
+sukkal-mah	_	PN	N	D	_	_	_	_	_	_
+x	_[_]	N	N	D	_	_	_	_	_	_
+mu	mu[year]	N	N	D	_	_	_	_	_	_
+en	en[priest]	N	N	D	_	_	_	_	_	_
+eridu{ki}	Eridug[1][-ak][-ø]	SN	SN.GEN.ABS	D	_	_	_	_	_	_
+ba-hun	ba-hug[hire][-ø]	V	MID.V.3-SG-S	D	_	_	_	_	_	_

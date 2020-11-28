@@ -1,0 +1,26 @@
+#new_text=P339507					
+FORM	SEGM	XPOSTAG	XPOSTAG	POS	B-COUNT	l	1005	"dry	*	*
+3(asz)	3(asz)[one]	NU	NU	D	I-COUNT	*	*	*	sila3	1005
+1(barig)	1(bariga)[unit]	NU	N	D	I-COUNT	*	*	*	*	*
+4(ban2)	4(ban)[unit]	NU	N	D	I-COUNT	*	*	*	*	*
+5(disz)	5(disz)[one]	NU	NU	D	I-COUNT	*	*	*	*	*
+sila3	sila[unit]	N	N	D	I-COUNT	*	*	*	*	*
+sze	sze[barley]	N	N	D	I-COUNT	*	*	*	*	*
+gur	gur[unit]	N	N	D	I-COUNT	*	*	*	*	*
+szu-palil2	_	PN	PN	Ia	_	_	_	_	_	_
+*RETOK*-capacity"	?	?	?	?	B-COUNT	l	1200	"dry	*	*
+4(asz)	4(asz)[one]	NU	NU	D	I-COUNT	*	*	*	sila3	1200
+gur	gur[unit]	N	N	D	I-COUNT	*	*	*	*	*
+a-ra2	ara[times]	N	N	D	_	_	_	_	_	_
+2(disz)-kam	2(disz)[one]-ak-am	NU	NU.GEN.COP-3-SG	D	B-COUNT	_	2	cardinal	_	2
+szuszin{ki}-ta	Szuszin[1]-ta	SN	SN.ABL	D	_	_	_	_	_	_
+*RETOK*-capacity"	?	?	?	?	B-COUNT	l	2880	"dry	*	*
+9(asz)	9(asz)[one]	NU	NU	D	I-COUNT	*	*	*	sila3	2880
+3(barig)	3(bariga)[unit]	NU	N	D	I-COUNT	*	*	*	*	*
+gur	gur[unit]	N	N	D	I-COUNT	*	*	*	*	*
+ki-su7	kisur[threshing_floor]	N	N	D	_	_	_	_	_	_
+uku2-nu-ti	_	FN	FN.ABL	Iabcdefgh	_	_	_	_	_	_
+*RETOK*-capacity"	?	?	?	?	B-COUNT	l	900	"dry	*	*
+3(asz)	3(asz)[one]	NU	NU	D	I-COUNT	*	*	*	sila3	900
+gur	gur[unit]	N	N	D	I-COUNT	*	*	*	*	*
+e2-kikken	_	TN	TN	POS	_	_	_	_	_	_

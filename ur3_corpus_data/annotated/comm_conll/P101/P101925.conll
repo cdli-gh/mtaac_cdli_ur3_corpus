@@ -1,0 +1,16 @@
+#new_text=P101925					
+FORM	SEGM	XPOSTAG	XPOSTAG	POS	?	?	?	?	?	?
+5(gesz2)	5(gesz)[sixty]	NU	NU	D	B-COUNT	*	*	*	*	*
+6(asz)	6(asz)[one]	NU	NU	D	I-COUNT	*	*	*	*	*
+1(barig)	1(bariga)[unit]	NU	N	D	I-COUNT	*	*	*	*	*
+sze	sze[barley]	N	N	D	I-COUNT	*	*	*	*	*
+gur	gur[unit]	N	N	D	I-COUNT	*	*	*	*	*
+lugal	lugal[king]	N	N	D	_	_	_	_	_	_
+ur-al-la	_	PN	PN	Iabcdefgh	_	_	_	_	_	_
+engar	engar[farmer]	N	N	D	_	_	_	_	_	_
+GAN2-gu4	GANAgud[1][-ak]	N	FN.GEN	D	_	_	_	_	_	_
+sipa-da	_	FN	FN	POS	_	_	_	_	_	_
+iri	iri[city]	N	N	D	_	_	_	_	_	_
+a-sza3	aszag[field]	N	N	D	_	_	_	_	_	_
+gibil	gibil[new][-ø]	V	NF.V.ABS	D	_	_	_	_	_	_
+lugal-uszumgal	_	PN	PN.GEN.ABS	D	_	_	_	_	_	_

@@ -1,0 +1,25 @@
+#new_text=P120968					
+FORM	SEGM	XPOSTAG	XPOSTAG	POS	B-COUNT	l	0.0002777777777777778	"dry	*	*
+3(asz)	3(asz)[one]	NU	NU	D	I-COUNT	*	*	*	sila3	0.0002777777777777778
+sze	sze[barley]	N	N	D	I-COUNT	*	*	*	*	*
+gur	gur[unit]	N	N	D	I-COUNT	*	*	*	*	*
+masz2	masz[goat]	N	N	D	B-COM	_	_	_	_	_
+1(asz)	1(asz)[one]	NU	NU	D	B-COUNT	_	1	cardinal	_	1
+gur-ra	gur[unit]-ak	V	NF.V.PT	D	_	_	_	_	_	_
+*RETOK*-capacity"	?	?	?	?	B-COUNT	l	40	"dry	*	*
+4(ban2)-ta	_	NU	NU	POS	I-COUNT	*	*	*	sila3	40
+si-i3-tum	situm[balance]	N	N	D	_	_	_	_	_	_
+nig2-ka9-ak	nigSZID[account]	N	N	D	_	_	_	_	_	_
+ki	ki[place]	N	N	D	B-COM	_	_	_	_	_
+a-ba-{d}en-lil2-gin7-ta	Aba'enlilgin[1][-ak]-ta	PN	PN.GEN.ABL	D	_	_	_	_	_	_
+puzur4-{d}suen	Puzursuen[1][-ra]	PN	PN.DAT-H	D	_	_	_	_	_	_
+szu	szu[hand][-e]	N	N.L3-NH	D	_	_	_	_	_	_
+ba-ti	ba[-n]-teg[accept][-ø]	V	MID.3-SG-H-A.V.3-SG-P	D	_	_	_	_	_	_
+iti	iti[month]	N	N	D	_	_	_	_	_	_
+bara2-za3-gar	_	MN	MN	POS	_	_	_	_	_	_
+mu	mu[year]	N	N	D	_	_	_	_	_	_
+na-ru2-a	narua[stele]	PN	N	D	_	_	_	_	_	_
+ba-du3	ba-du[build][-ø]	V	MID.V.3-SG-S	D	_	_	_	_	_	_
+puzur4-{d}suen	Puzursuen[1][-ra]	PN	PN.DAT-H	D	_	_	_	_	_	_
+dumu	dumu[child]	N	N	D	_	_	_	_	_	_
+ku-ku	_	V	V	POS	_	_	_	_	_	_

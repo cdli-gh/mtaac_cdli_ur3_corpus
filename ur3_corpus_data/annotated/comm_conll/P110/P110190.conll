@@ -1,0 +1,14 @@
+#new_text=P110190					
+FORM	SEGM	XPOSTAG	XPOSTAG	POS	?	?	?	?	?	?
+1(disz)	1(disz)[one]	NU	NU	D	B-COUNT	_	1	cardinal	_	1
+lu2-{d}nin-mar{ki}	_	PN	PN	Ia	_	_	_	_	_	_
+dumu	dumu[child]	N	N	D	_	_	_	_	_	_
+lugal-u2-szim-e	_	PN	PN	Iabcdefgh	_	_	_	_	_	_
+gurum2	gurum[inspection]	N	N	D	_	_	_	_	_	_
+e2	e[house]	N	N	D	_	_	_	_	_	_
+{d}nin-mar{ki}-ka	_	PN	DN.GEN.ABS	D	_	_	_	_	_	_
+en3-bi	en[word]-bi[-ø]	N	N.3-SG-H-POSS.ABS	D	_	_	_	_	_	_
+tar-re-dam	_	V	NF.V.F.ABS.COP-3-SG	Iabcdef	B-COM	_	_	_	_	_
+dumu	dumu[child]	N	N	D	_	_	_	_	_	_
+lu2	lu[person]	N	N	D	_	_	_	_	_	_
+didli	didli[several][-ø][-ak]	V	NF.V.ABS	D	_	_	_	_	_	_

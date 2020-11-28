@@ -1,0 +1,23 @@
+#new_text=P387961					
+FORM	SEGM	XPOSTAG	XPOSTAG	POS	?	?	?	?	?	?
+1(gesz'u)	1(gesz'u)[six_hundred]	NU	NU	D	B-COUNT	_	900	cardinal	_	900
+5(gesz2)	5(gesz)[sixty]	NU	NU	D	I-COUNT	*	*	*	*	*
+pesz-murgu2	_	N	N	Ia	_	_	_	_	_	_
+8(gesz2)	8(gesz2)[sixty]	NU	NU	D	B-COUNT	_	480	cardinal	_	480
+pa	pa[branch]	N	N.ABS	D	_	_	_	_	_	_
+{gesz}geszimmar	gesznimbar[palm]	PN	N	D	B-COM	_	_	_	_	_
+ki	ki[place]	N	N	D	_	_	_	_	_	_
+ur-{d}dumu-zi	Urdumuzi[1][-e]	PN	PN.ERG	D	_	_	_	_	_	_
+dub-sar	dubsar[scribe]	N	N	D	_	_	_	_	_	_
+mun-gazi-ta	_	N	N	POS	_	_	_	_	_	_
+ku-e-la-ak	_	PN	PN.DAT-H	Iab	_	_	_	_	_	_
+ugula	ugula[overseer][-ø]	N	N	D	_	_	_	_	_	_
+gesz-kin-ti	geszkigti[workshop][-ak]	N	N.GEN	D	_	_	_	_	_	_
+szu	szu[hand][-e]	N	N.L3-NH	D	_	_	_	_	_	_
+ba-ti	ba[-n]-teg[accept][-ø]	V	MID.3-SG-H-A.V.3-SG-P	D	_	_	_	_	_	_
+mu	mu[year]	N	N	D	_	_	_	_	_	_
+en	en[priest]	N	N	D	_	_	_	_	_	_
+{d}inanna	Inanna[1][-ak]	DN	DN	D	_	_	_	_	_	_
+unu{ki}-ga	Unug[1]-ak[-ak][-ø]	SN	SN.GEN	D	_	_	_	_	_	_
+masz2-e	masz[goat]-e	N	N.L3-NH	D	_	_	_	_	_	_
+i3-pa3	i-pad[find][-ø]	V	FIN.V.3-SG-S	D	_	_	_	_	_	_

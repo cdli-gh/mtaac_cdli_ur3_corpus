@@ -1,0 +1,17 @@
+#new_text=P249143					
+FORM	SEGM	XPOSTAG	XPOSTAG	POS	?	?	?	?	?	?
+3(u)	3(u)[ten]	NU	NU	D	B-COUNT	_	60	cardinal	_	60
+3(u)	3(u)[ten]	NU	NU	D	I-COUNT	*	*	*	*	*
+3(u)	3(u)[ten]	NU	NU	D	B-COUNT	_	30	cardinal	_	30
+*RETOK*-($	?	?	?	?	_	_	_	_	_	_
+*RETOK*-blank	?	?	?	?	_	_	_	_	_	_
+*RETOK*-space	?	?	?	?	_	_	_	_	_	_
+*RETOK*-$)	?	?	?	?	_	_	_	_	_	_
+a-lu5-lu5	Alulu[1][-ak]	PN	PN.GEN	D	_	_	_	_	_	_
+*RETOK*-capacity"	?	?	?	?	B-COUNT	l	6210	"dry	*	*
+3(u)	3(u)[ten]	NU	NU	D	I-COUNT	*	*	*	sila3	6210
+2(u)	2(u)[ten]	NU	NU	D	I-COUNT	*	*	*	*	*
+3(barig)	3(bariga)[unit]	NU	N	D	I-COUNT	*	*	*	*	*
+ur-{d}ma-mi	Urmami[1][-ra]	PN	PN.DAT-H	D	_	_	_	_	_	_
+nar-igi-zi-ta	_	N	N	POS	_	_	_	_	_	_
+9(disz@v)	_	NU	NU	Ia	B-COUNT	_	9	cardinal	_	9

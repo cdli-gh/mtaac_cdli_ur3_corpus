@@ -1,0 +1,16 @@
+#new_text=P110422					
+FORM	SEGM	XPOSTAG	XPOSTAG	POS	?	?	?	?	?	?
+5(disz)	5(disz)[one]	NU	NU	D	B-COUNT	_	5	cardinal	_	5
+aga3-us2	aga'us[soldier]	N	N	D	B-COM	_	_	_	_	_
+*RETOK*-capacity"	?	?	?	?	B-COUNT	l	120	"dry	*	*
+2(barig)	2(bariga)[unit]	NU	N	D	I-COUNT	*	*	*	sila3	120
+dabin	dabin[semolina]	N	N	D	_	_	_	_	_	_
+lugal-ta	lugal[king][-ak]-ta	N	N.GEN.ABL	D	_	_	_	_	_	_
+1(disz)	1(disz)[one]	NU	NU	D	B-COUNT	_	1	cardinal	_	1
+gu-za-la2	guzala[throne_bearer]	N	N	D	_	_	_	_	_	_
+*RETOK*-capacity"	?	?	?	?	B-COUNT	l	120	"dry	*	*
+2(barig)	2(bariga)[unit]	NU	N	D	I-COUNT	*	*	*	sila3	120
+nu-{gesz}kiri6-me	_	N	N.ABS.COP-3-PL	Iabcdefg	B-COM	_	_	_	_	_
+nu-banda3	nubanda[overseer][-ø]	N	N	D	_	_	_	_	_	_
+nim-mu	_	PN	PN	Iabcde	_	_	_	_	_	_
+zi-zi-dam	_	V	V	POS	_	_	_	_	_	_

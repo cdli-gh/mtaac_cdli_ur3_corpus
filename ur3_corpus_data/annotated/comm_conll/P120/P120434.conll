@@ -1,0 +1,18 @@
+#new_text=P120434					
+FORM	SEGM	XPOSTAG	XPOSTAG	POS	?	?	?	?	?	?
+1(disz)	1(disz)[one]	NU	NU	D	B-COUNT	_	1	cardinal	_	1
+ur-dun	Urdun[1]	PN	PN	D	_	_	_	_	_	_
+1(disz)	1(disz)[one]	NU	NU	D	B-COUNT	_	1	cardinal	_	1
+a-a-kal-la	Ayakala[1]	PN	PN	D	_	_	_	_	_	_
+1(disz)	1(disz)[one]	NU	NU	D	B-COUNT	_	1	cardinal	_	1
+lugal-ezem	Lugalezem[1]	PN	PN	D	_	_	_	_	_	_
+1(disz)	1(disz)[one]	NU	NU	D	B-COUNT	_	1	cardinal	_	1
+gu-da-ti	_	PN	PN	Iabcde	_	_	_	_	_	_
+1(disz)	1(disz)[one]	NU	NU	D	B-COUNT	_	1	cardinal	_	1
+e2-mah-ki-bi	_	PN	PN	POS	_	_	_	_	_	_
+1(disz)	1(disz)[one]	NU	NU	D	B-COUNT	_	1	cardinal	_	1
+ab-ba-sila-na	_	PN	PN	Ia	_	_	_	_	_	_
+lu2	lu[person]	N	N	D	_	_	_	_	_	_
+al-dab5-ba	_	V	V	POS	_	_	_	_	_	_
+lu2	lu[person]	N	N	D	_	_	_	_	_	_
+lu2-mah-me	_	N	N.ABS.COP-3-PL	Iabcdef	_	_	_	_	_	_

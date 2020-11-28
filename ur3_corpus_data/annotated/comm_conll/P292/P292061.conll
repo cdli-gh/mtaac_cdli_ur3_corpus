@@ -1,0 +1,24 @@
+#new_text=P292061					
+FORM	SEGM	XPOSTAG	XPOSTAG	POS	B-COUNT	l	23	"dry	*	*
+2(ban2)	2(ban)[unit]	NU	N	D	I-COUNT	*	*	*	sila3	23
+3(disz)	3(disz)[one]	NU	NU	D	I-COUNT	*	*	*	*	*
+sila3	sila[unit]	N	N	D	I-COUNT	*	*	*	*	*
+i3-nun	inun[ghee]	PN	N	D	B-COM	_	_	_	_	_
+*RETOK*-capacity"	?	?	?	?	B-COUNT	l	34.5	"dry	*	*
+3(ban2)	3(ban)[unit]	NU	N	D	I-COUNT	*	*	*	sila3	34.5
+4(disz)	4(disz)[one]	NU	NU	D	I-COUNT	*	*	*	*	*
+1/2(disz)	1/2(disz)[one]	NU	NU	D	I-COUNT	*	*	*	*	*
+sila3	sila[unit]	N	N	D	I-COUNT	*	*	*	*	*
+ga-UD@g	_	PN	PN	Iabcde	_	_	_	_	_	_
+i3	i[oil]	N	N	D	B-COM	_	_	_	_	_
+ud5	uzud[goat]	N	N	D	_	_	_	_	_	_
+masz2-da3-a	_	N	N.ABS	Iabcdef	_	_	_	_	_	_
+bala-a	bala[tax][-ak]-'a	N	N.GEN.L1	D	_	_	_	_	_	_
+zi-ga	zig[expend]-a	V	NF.V.PT	D	_	_	_	_	_	_
+ki	ki[place]	N	N	D	_	_	_	_	_	_
+kas4-ta	Kas[1][-ak]-ta	PN	PN.GEN.ABL	D	_	_	_	_	_	_
+inim	inim[word]	N	N	D	_	_	_	_	_	_
+e2-kiszib3-ba-ta	_	TN	TN	POS	_	_	_	_	_	_
+mu	mu[year]	N	N	D	_	_	_	_	_	_
+{d}amar-{d}suen	Amarsuen[1]	RN	RN	D	_	_	_	_	_	_
+lugal	lugal[king]	N	N	D	_	_	_	_	_	_

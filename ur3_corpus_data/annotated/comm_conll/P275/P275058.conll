@@ -1,0 +1,24 @@
+#new_text=P275058					
+FORM	SEGM	XPOSTAG	XPOSTAG	POS	?	?	?	?	?	?
+lu2-{d}nanna	Lunanna[1]	PN	PN	D	_	_	_	_	_	_
+u3-na-a-du11	u-nn-a-e-dug[speak][-ø]	N	ANT.3-SG-H.DAT.2-SG-A.V.3-SG-P	D	_	_	_	_	_	_
+*RETOK*-capacity"	?	?	?	?	B-COUNT	l	9.259259259259259e-05	"dry	*	*
+1(asz)	1(asz)[one]	NU	NU	D	I-COUNT	*	*	*	sila3	9.259259259259259e-05
+sze	sze[barley]	N	N	D	I-COUNT	*	*	*	*	*
+gur	gur[unit]	N	N	D	I-COUNT	*	*	*	*	*
+zi-ba-nu-um	_	PN	PN	Iabcdefgh	_	_	_	_	_	_
+n	_(_)[_]	NU	NU	D	_	_	_	_	_	_
+szu-{d}dumu-zi	_	PN	PN.ERG	Iab	_	_	_	_	_	_
+n	_(_)[_]	NU	NU	D	_	_	_	_	_	_
+x-la-a	_	DN	DN	POS	_	_	_	_	_	_
+*RETOK*-capacity"	?	?	?	?	B-COUNT	l	310	"dry	*	*
+1(asz)	1(asz)[one]	NU	NU	D	I-COUNT	*	*	*	sila3	310
+1(ban2)	1(ban)[unit]	NU	N	D	I-COUNT	*	*	*	*	*
+gu-la-as	_	V	NF.V.ABS.GEN	Iabcdef	_	_	_	_	_	_
+sze-ba	szeba[ration]	N	N	D	B-COM	_	_	_	_	_
+iti	iti[month]	N	N	D	_	_	_	_	_	_
+du6-ku3	_	PN	PN	POS	_	_	_	_	_	_
+u3	u[and]	CNJ	CNJ	D	_	_	_	_	_	_
+apin-du8-a	Apindu'a[1][-ta]	MN	MN.ABL	D	_	_	_	_	_	_
+ki-ni-ta	_	N	N	POS	_	_	_	_	_	_
+he2-ne-eb-szum2-mu	_	V	MOD.FIN.3-SG-H.DAT.3-SG-NH-P.V.3-SG-A	Iab	_	_	_	_	_	_

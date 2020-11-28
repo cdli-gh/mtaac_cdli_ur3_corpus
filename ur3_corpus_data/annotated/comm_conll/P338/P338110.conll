@@ -1,0 +1,13 @@
+#new_text=P338110					
+FORM	SEGM	XPOSTAG	XPOSTAG	POS	B-COUNT	l	1250	"dry	*	*
+4(asz)	4(asz)[one]	NU	NU	D	I-COUNT	*	*	*	sila3	1250
+5(ban2)	5(ban)[unit]	NU	N	D	I-COUNT	*	*	*	*	*
+gur	gur[unit]	N	N	D	I-COUNT	*	*	*	*	*
+lugal	lugal[king]	N	N	D	_	_	_	_	_	_
+szesz-kal-la	Szeszkala[1][-ra]	PN	PN	D	_	_	_	_	_	_
+7(asz)	7(asz)[one]	NU	NU	D	B-COUNT	_	7	cardinal	_	7
+ur-{d}li9-si4	Urlisi[1]	PN	PN	D	_	_	_	_	_	_
+2(asz)	2(asz)[one]	NU	NU	D	B-COUNT	_	2	cardinal	_	2
+tur-tur-ra-mu	_	PN	PN.DAT-H	Iabcdefgh	_	_	_	_	_	_
+2(asz)	2(asz)[one]	NU	NU	D	B-COUNT	_	2	cardinal	_	2
+ha-ha-du	_	PN	PN	Iabcde	_	_	_	_	_	_

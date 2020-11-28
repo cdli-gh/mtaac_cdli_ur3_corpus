@@ -1,0 +1,21 @@
+#new_text=P105677					
+FORM	SEGM	XPOSTAG	XPOSTAG	POS	B-COUNT	l	487.5	"dry	*	*
+1(asz)	1(asz)[one]	NU	NU	D	I-COUNT	*	*	*	sila3	487.5
+3(barig)	3(bariga)[unit]	NU	N	D	I-COUNT	*	*	*	*	*
+gur	gur[unit]	N	N	D	I-COUNT	*	*	*	*	*
+7(disz)	7(disz)[one][-sze]	NU	NU	D	I-COUNT	*	*	*	*	*
+1/2(disz)	1/2(disz)[one]	NU	NU	D	I-COUNT	*	*	*	*	*
+sila3	sila[unit]	N	N	D	I-COUNT	*	*	*	*	*
+sze-gesz-i3	szegeszi[sesame_seed]	PN	N	D	_	_	_	_	_	_
+giri3	giri[foot]	N	N	D	_	_	_	_	_	_
+giri3-ni	Girini[1][-ra]	PN	PN.DAT-H	D	B-COM	_	_	_	_	_
+*RETOK*-capacity"	?	?	?	?	B-COUNT	l	235	"dry	*	*
+3(barig)	3(bariga)[unit]	NU	N	D	I-COUNT	*	*	*	sila3	235
+5(ban2)	5(ban)[unit]	NU	N	D	I-COUNT	*	*	*	*	*
+5(disz)	5(disz)[one]	NU	NU	D	I-COUNT	*	*	*	*	*
+sila3	sila[unit]	N	N	D	I-COUNT	*	*	*	*	*
+sze-gesz-i3	szegeszi[sesame_seed]	PN	N	D	_	_	_	_	_	_
+giri3	giri[foot]	N	N	D	_	_	_	_	_	_
+szu-{d}dumu-zi	_	PN	PN.ERG	Iab	_	_	_	_	_	_
+dam	dam[spouse]	N	N	D	_	_	_	_	_	_
+lugal-bara2	_	PN	PN.GEN.ABS	Iab	_	_	_	_	_	_

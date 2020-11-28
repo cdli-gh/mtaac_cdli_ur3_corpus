@@ -1,0 +1,27 @@
+#new_text=P143393					
+FORM	SEGM	XPOSTAG	XPOSTAG	POS	B-COUNT	l	5500	"dry	*	*
+1(u)	1(u)[ten]	NU	NU	D	I-COUNT	*	*	*	sila3	5500
+8(asz)	8(asz)[one]	NU	NU	D	I-COUNT	*	*	*	*	*
+1(barig)	1(bariga)[unit]	NU	N	D	I-COUNT	*	*	*	*	*
+4(ban2)	4(ban)[unit]	NU	N	D	I-COUNT	*	*	*	*	*
+gur	gur[unit]	N	N	D	I-COUNT	*	*	*	*	*
+{gesz}haszhur	_	N	N	Ia	B-COM	_	_	_	_	_
+kab	_	N	N	Ia	_	_	_	_	_	_
+du11-ga	dug[irrigate]-a	V	PN	D	_	_	_	_	_	_
+{gesz}kiri6	kiri[orchard][-'a][-ø]	N	N	D	_	_	_	_	_	_
+i-di3-e2-a	_	PN	PN	Iabc	_	_	_	_	_	_
+in-da-gal2	i-n-da-gal[be][-ø]	V	FIN.3-SG-H.COM.V.3-SG-S	D	_	_	_	_	_	_
+*RETOK*-capacity"	?	?	?	?	B-COUNT	l	600	"dry	*	*
+2(asz)	2(asz)[one]	NU	NU	D	I-COUNT	*	*	*	sila3	600
+gur	gur[unit]	N	N	D	I-COUNT	*	*	*	*	*
+{gesz}haszhur	_	N	N	Ia	_	_	_	_	_	_
+{gesz}kiri6	kiri[orchard][-'a][-ø]	N	N	D	_	_	_	_	_	_
+e2-gal-sze3	_	N	N	POS	_	_	_	_	_	_
+ba-de2	_	V	MID.V.3-SG-S	Iabcdefgh	_	_	_	_	_	_
+ba-na-zi	_	V	MID.3-SG-H.DAT.V.3-SG-S	Iab	_	_	_	_	_	_
+iti	iti[month]	N	N	D	_	_	_	_	_	_
+masz-ku3-gu7	Maszkugu[1][-'a]	MN	MN.L1	D	_	_	_	_	_	_
+mu	mu[year]	N	N	D	_	_	_	_	_	_
+us2-sa	us[follow]-a	V	NF.V.PT	D	_	_	_	_	_	_
+bad3	bad[wall]	N	N	D	_	_	_	_	_	_
+ba-du3	ba-du[build][-ø]	V	MID.V.3-SG-S	D	B-COM	_	_	_	_	_

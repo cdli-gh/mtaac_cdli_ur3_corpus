@@ -1,0 +1,14 @@
+#new_text=P329974					
+FORM	SEGM	XPOSTAG	XPOSTAG	POS	?	?	?	?	?	?
+x	_[_]	N	N	D	_	_	_	_	_	_
+x	_[_]	N	N	D	_	_	_	_	_	_
+x	_[_]	N	N	D	_	_	_	_	_	_
+2(disz)	2(disz)[one]	NU	NU	D	B-COUNT	_	2	cardinal	_	2
+gurusz	gurusz[male]	N	N	D	B-COM	_	_	_	_	_
+szitim	_	N	N	Ia	_	_	_	_	_	_
+e2-ki-ba-gar-ra	_	TN	TN	POS	_	_	_	_	_	_
+du3-a	du[build]-a	V	NF.V.PT	D	_	_	_	_	_	_
+2(disz)	2(disz)[one]	NU	NU	D	B-COUNT	_	2	cardinal	_	2
+gurusz	gurusz[male]	N	N	D	_	_	_	_	_	_
+szitim	_	N	N	Ia	_	_	_	_	_	_
+tu-ra	tur[young][-a]	V	NF.V.PT	D	_	_	_	_	_	_

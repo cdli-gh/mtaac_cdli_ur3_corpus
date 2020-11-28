@@ -1,0 +1,15 @@
+#new_text=P379959					
+FORM	SEGM	XPOSTAG	XPOSTAG	POS	?	?	?	?	?	?
+1(u)	1(u)[ten]	NU	NU	D	B-COUNT	g	360000.0	weight	gin2	43200
+2(asz)	2(asz)[one]	NU	NU	D	I-COUNT	*	*	*	*	*
+gu2	gun[unit]	N	N	D	I-COUNT	*	*	*	*	*
+esir2	esir[bitumen]	N	N	D	B-COM	_	_	_	_	_
+a-ba-al	_	V	VEN.3-SG-H.DAT.3-SG-H-A.V.3-SG-P	Iabcdefgh	_	_	_	_	_	_
+si-ga	sig[load]-a	N	NF.V.PT	D	_	_	_	_	_	_
+ga2-nun	_	N	N	D	_	_	_	_	_	_
+gesz-ta	_	N	N.ABL	Iabcdefghi	_	_	_	_	_	_
+mar-sa-sze3	_	N	N.TERM	Iab	_	_	_	_	_	_
+ad-da-...	_	PN	PN	Ia	_	_	_	_	_	_
+dumu	dumu[child]	N	N	D	_	_	_	_	_	_
+lu2-{d}...	_	PN	PN	D	_	_	_	_	_	_
+...	_[_]	PN	N	D	_	_	_	_	_	_

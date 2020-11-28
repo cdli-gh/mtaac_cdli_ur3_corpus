@@ -1,0 +1,20 @@
+#new_text=P117648					
+FORM	SEGM	XPOSTAG	XPOSTAG	POS	?	?	?	?	?	?
+1(bur'u)	1(bur'u)[unit]	NU	N	D	B-COUNT	m^2	790200.0	surface	gin2	1317000.0
+2(bur3)	2(bur)[unit]	NU	N	D	I-COUNT	*	*	*	*	*
+3(iku)	3(iku)[unit]	NU	N	D	I-COUNT	*	*	*	*	*
+1/2(iku)	1/2(iku)[unit]	NU	N	D	I-COUNT	*	*	*	*	*
+GAN2	gana[field]	N	N	D	I-COUNT	*	*	*	*	*
+1(u)-ta	1(u)[ten]-ta	NU	NU.ABL	D	B-COUNT	_	10	cardinal	_	10
+sze-bi	sze[barley]-bi[-ø]	N	N.3-SG-NH-POSS.ABS	D	B-COM	_	_	_	_	_
+*RETOK*-capacity"	?	?	?	?	B-COUNT	l	63000	"dry	*	*
+3(gesz2)	3(gesz)[sixty]	NU	NU	D	I-COUNT	*	*	*	sila3	63000
+3(u)	3(u)[ten]	NU	NU	D	I-COUNT	*	*	*	*	*
+gur	gur[unit]	N	N	D	I-COUNT	*	*	*	*	*
+szuku	szukur[prebend_land]	N	N	D	_	_	_	_	_	_
+ensi2-ka	ensik[ruler]-ak	N	N.GEN	D	_	_	_	_	_	_
+a-sza3	aszag[field]	N	N	D	_	_	_	_	_	_
+amar-kiszi17	Amarkiszi[1][-ak]	FN	PN.GEN	D	_	_	_	_	_	_
+mu	mu[year]	N	N	D	_	_	_	_	_	_
+bi2-tum-ra-bi2-um{ki}	_	GN	GN	POS	_	_	_	_	_	_
+ba-hul	ba-hulu[destroy][-ø]	V	MID.V.3-SG-S	D	_	_	_	_	_	_

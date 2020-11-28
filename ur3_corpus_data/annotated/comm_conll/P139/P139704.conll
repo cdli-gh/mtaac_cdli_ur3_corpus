@@ -1,0 +1,20 @@
+#new_text=P139704					
+FORM	SEGM	XPOSTAG	XPOSTAG	POS	?	?	?	?	?	?
+1(disz)	1(disz)[one]	NU	NU	D	B-COUNT	_	1	cardinal	_	1
+lugal-he2-gal2	Lugalhegal[1]	PN	PN	D	_	_	_	_	_	_
+iti	iti[month]	N	N	D	_	_	_	_	_	_
+szu-numun-ta	_	MN	MN.GEN.ABL	Iabcdefg	_	_	_	_	_	_
+u4	ud[day]	N	N	D	_	_	_	_	_	_
+2(u)	2(u)[ten]	NU	NU	D	B-COUNT	_	20	cardinal	_	20
+5(disz)-kam{am3}	_	NU	NU.GEN.COP-3-SG	Iabcdefgh	B-COUNT	_	5	cardinal	_	5
+ba-ra-zal-a-ta	_	V	MID.V.3-SG-S.ABL	Iabcdef	_	_	_	_	_	_
+ma2-lah5-sze3	_	N	N.TERM	Iabcde	B-COM	_	_	_	_	_
+lugal-e-ba-an-sa6-ke4	_	PN	PN.GEN.ERG	Iabcdef	_	_	_	_	_	_
+i3-dab5	i[-n]-dab[seize][-ø]	V	FIN.3-SG-H-A.V.3-SG-P	D	_	_	_	_	_	_
+mu	mu[year]	N	N	D	_	_	_	_	_	_
+{d}szu-{d}suen	Szusuen[1]	RN	RN	D	_	_	_	_	_	_
+lugal	lugal[king]	N	N	D	_	_	_	_	_	_
+lugal-e-ba-an-sa6	Lugalebansa[1][-ra]	PN	PN	D	_	_	_	_	_	_
+dub-sar	dubsar[scribe]	N	N	D	_	_	_	_	_	_
+dumu	dumu[child]	N	N	D	_	_	_	_	_	_
+ur-{d}isztaran	Urisztaran[1]	PN	PN.GEN.ABS	D	_	_	_	_	_	_

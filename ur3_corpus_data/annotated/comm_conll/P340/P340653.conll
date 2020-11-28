@@ -1,0 +1,12 @@
+#new_text=P340653					
+FORM	SEGM	XPOSTAG	XPOSTAG	POS	?	?	?	?	?	?
+1(barig)	1(bariga)[unit]	NU	N	D	B-COUNT	*	*	*	*	*
+sze	sze[barley]	N	N	D	I-COUNT	*	*	*	*	*
+lugal	lugal[king]	N	N	D	_	_	_	_	_	_
+e2-zi-mu	_	PN	PN	Iabcdefgh	_	_	_	_	_	_
+a-ru-a	_	GN	GN	POS	_	_	_	_	_	_
+ur-lugal	Urlugal[1]	PN	PN	D	_	_	_	_	_	_
+e2-zi-mu	_	PN	PN	Iabcdefgh	_	_	_	_	_	_
+...	_[_]	PN	N	D	_	_	_	_	_	_
+dumu	dumu[child]	N	N	D	_	_	_	_	_	_
+lugal-...	_[1][-ra]	PN	PN	D	_	_	_	_	_	_

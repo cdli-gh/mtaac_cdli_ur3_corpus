@@ -1,0 +1,26 @@
+#new_text=P105519					
+FORM	SEGM	XPOSTAG	XPOSTAG	POS	?	?	?	?	?	?
+3(disz)	3(disz)[one]	NU	NU	D	B-COUNT	g	1500.0	weight	gin2	180
+ma-na	mana[unit]	N	N	D	I-COUNT	*	*	*	*	*
+siki	siki[wool][-'a]	N	N	D	B-COM	_	_	_	_	_
+3(u)	3(u)[ten]	NU	NU	D	B-COUNT	g	17750.0	weight	gin2	2130.0
+5(disz)	5(disz)[one]	NU	NU	D	I-COUNT	*	*	*	*	*
+1/2(disz)	1/2(disz)[one]	NU	NU	D	I-COUNT	*	*	*	*	*
+ma-na	mana[unit]	N	N	D	I-COUNT	*	*	*	*	*
+za-ba-lum	_	DN	DN	POS	_	_	_	_	_	_
+*RETOK*-capacity"	?	?	?	?	B-COUNT	l	3	"liquid	*	*
+*RETOK*-capacity"	?	?	?	?	I-COUNT	l	3	"dry	sila3	3
+3(disz)	3(disz)[one]	NU	NU	D	I-COUNT	*	*	*	sila3	3
+sila3	sila[unit]	N	N	D	I-COUNT	*	*	*	*	*
+sze-li	szeli[aromatics]	N	N	D	_	_	_	_	_	_
+6(asz)	6(asz)[one]	NU	NU	D	B-COUNT	g	180000.0	weight	gin2	21600
+gu2	gun[unit]	N	N	D	I-COUNT	*	*	*	*	*
+im-babbar2	imbabbar[gypsum]	N	N	D	B-COM	_	_	_	_	_
+sza3	szag[heart]	N	N	D	_	_	_	_	_	_
+kiszib3	kiszib[seal]	N	N	D	_	_	_	_	_	_
+1(disz)-kam	1(disz)[one]-ak-am	NU	NU.GEN.COP-3-SG	D	B-COUNT	_	1	cardinal	_	1
+*RETOK*-capacity"	?	?	?	?	B-COUNT	l	3	"liquid	*	*
+*RETOK*-capacity"	?	?	?	?	I-COUNT	l	3	"dry	sila3	3
+3(disz)	3(disz)[one]	NU	NU	D	I-COUNT	*	*	*	sila3	3
+sila3	sila[unit]	N	N	D	I-COUNT	*	*	*	*	*
+sze-li	szeli[aromatics]	N	N	D	_	_	_	_	_	_

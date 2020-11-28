@@ -1,0 +1,14 @@
+#new_text=P115215					
+FORM	SEGM	XPOSTAG	XPOSTAG	POS	?	?	?	?	?	?
+1(bur'u)	1(bur'u)[unit]	NU	N	D	B-COUNT	m^2	842400.0	surface	gin2	1404000
+3(bur3)	3(bur)[unit]	NU	N	D	I-COUNT	*	*	*	*	*
+GAN2	gana[field]	N	N	D	I-COUNT	*	*	*	*	*
+a-sza3	aszag[field]	N	N	D	_	_	_	_	_	_
+e2-gibil4-le	_	FN	FN.ABL	Iabcdefgh	_	_	_	_	_	_
+...	_[_]	PN	N	D	_	_	_	_	_	_
+iti	iti[month]	N	N	D	_	_	_	_	_	_
+ezem-{d}szul-gi-ta	Ezemszulgir[1]-ta	MN	MN.ABL	D	_	_	_	_	_	_
+u4	ud[day]	N	N	D	_	_	_	_	_	_
+1(u)	1(u)[ten]	NU	NU	D	B-COUNT	_	10	cardinal	_	10
+zal-la-a	_	V	NF.V.PT.GEN	Iabcdefg	_	_	_	_	_	_
+dah-e-dam	_	PN	PN	Iabcdefgh	_	_	_	_	_	_

@@ -1,0 +1,18 @@
+#new_text=P207482					
+FORM	SEGM	XPOSTAG	XPOSTAG	POS	B-COUNT	l	65	"dry	*	*
+1(barig)	1(bariga)[unit]	NU	N	D	I-COUNT	*	*	*	sila3	65
+5(disz)	5(disz)[one]	NU	NU	D	I-COUNT	*	*	*	*	*
+sila3	sila[unit]	N	N	D	I-COUNT	*	*	*	*	*
+MUSZ2-sze3	_			POS	_	_	_	_	_	_
+u4	ud[day]	N	N	D	_	_	_	_	_	_
+du3	gin[quality_designation][-ø]	V	NF.V.ABS	D	B-COM	_	_	_	_	_
+ezem	ezem[festival]	N	N	D	_	_	_	_	_	_
+za3	_	N	N	Ia	_	_	_	_	_	_
+1(u)	1(u)[ten]	NU	NU	D	B-COUNT	_	10	cardinal	_	10
+nu-{gesz}kiri6	_	N	N	D	B-COM	_	_	_	_	_
+mu	mu[year]	N	N	D	_	_	_	_	_	_
+gu2-mu-sze3	_	SN	SN	POS	_	_	_	_	_	_
+kiszib3	kiszib[seal]	N	N	D	_	_	_	_	_	_
+ur-{gesz}gigir	Urgigir[1]	PN	PN	D	_	_	_	_	_	_
+ur-{gesz}gigir	Urgigir[1]	PN	PN	D	_	_	_	_	_	_
+dub-sar	dubsar[scribe]	N	N	D	_	_	_	_	_	_

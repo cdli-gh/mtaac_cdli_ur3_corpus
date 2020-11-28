@@ -1,0 +1,12 @@
+#new_text=P139215					
+FORM	SEGM	XPOSTAG	XPOSTAG	POS	?	?	?	?	?	?
+6(gesz2)	6(gesz)[sixty]	NU	NU	D	B-COUNT	g	10800000.0	weight	gin2	1296000
+gu2	gun[unit]	N	N	D	I-COUNT	*	*	*	*	*
+sze-er-U	_	V	V	POS	_	_	_	_	_	_
+ur-sa6-ga	Ursaga[1][-ak]	PN	PN	D	_	_	_	_	_	_
+3(gesz2)	3(gesz)[sixty]	NU	NU	D	B-COUNT	_	180	cardinal	_	180
+DU-sa6-ga	_	PN	PN	POS	_	_	_	_	_	_
+3(gesz2)	3(gesz)[sixty]	NU	NU	D	B-COUNT	_	180	cardinal	_	180
+ur-ku3	_	PN	PN	Ia	_	_	_	_	_	_
+...	_[_]	PN	N	D	_	_	_	_	_	_
+dam	dam[spouse]	N	N	D	_	_	_	_	_	_

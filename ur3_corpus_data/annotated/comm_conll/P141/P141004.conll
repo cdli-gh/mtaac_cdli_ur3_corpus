@@ -1,0 +1,21 @@
+#new_text=P141004					
+FORM	SEGM	XPOSTAG	XPOSTAG	POS	?	?	?	?	?	?
+x-du10-ge	_	PN	PN.DAT-H	Iab	_	_	_	_	_	_
+ur-bil3	Urbil[1][-ak]	PN	PN.GEN	D	_	_	_	_	_	_
+5(asz)	5(asz)[one]	NU	NU	D	B-COUNT	g	150000.0	weight	gin2	18000
+gu2	gun[unit]	N	N	D	I-COUNT	*	*	*	*	*
+ab-ba-gi-na	Abbagina[1]	PN	PN	D	_	_	_	_	_	_
+n	_(_)[_]	NU	NU	D	_	_	_	_	_	_
+1(asz)	1(asz)[one]	NU	NU	D	B-COUNT	g	30000.000000000004	weight	gin2	3600
+gu2	gun[unit]	N	N	D	I-COUNT	*	*	*	*	*
+{gesz}guzza-ni	_	PN	PN.GEN	Iabcdefgh	B-COM	_	_	_	_	_
+7(asz)	7(asz)[one]	NU	NU	D	B-COUNT	g	210000.00000000003	weight	gin2	25200
+gu2	gun[unit]	N	N	D	I-COUNT	*	*	*	*	*
+lu2-bala-saga	_	PN	PN	Ia	_	_	_	_	_	_
+dumu	dumu[child]	N	N	D	_	_	_	_	_	_
+lu2-kal-la	Lukala[1][-ra]	PN	PN.GEN	D	_	_	_	_	_	_
+x	_[_]	N	N	D	_	_	_	_	_	_
+lugal-a2-mu	_	PN	PN.ERG	Iab	_	_	_	_	_	_
+x	_[_]	N	N	D	_	_	_	_	_	_
+gu2	gun[unit]	N	N	D	_	_	_	_	_	_
+a-kal-la	Akala[1]	PN	PN	D	_	_	_	_	_	_

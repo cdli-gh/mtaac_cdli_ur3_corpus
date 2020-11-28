@@ -1,0 +1,12 @@
+#new_text=P145245					
+FORM	SEGM	XPOSTAG	XPOSTAG	POS	B-COUNT	l	0.005833333333333333	"dry	*	*
+1(gesz2)	1(gesz)[sixty]	NU	NU	D	I-COUNT	*	*	*	sila3	0.005833333333333333
+3(asz)	3(asz)[one]	NU	NU	D	I-COUNT	*	*	*	*	*
+sze	sze[barley]	N	N	D	I-COUNT	*	*	*	*	*
+gur	gur[unit]	N	N	D	I-COUNT	*	*	*	*	*
+lugal	lugal[king]	N	N	D	_	_	_	_	_	_
+sze-ba	szeba[ration]	N	N	D	B-COM	_	_	_	_	_
+bahar3	bahar[potter]	N	N	D	_	_	_	_	_	_
+ma-da-a-ke4	_	N	N	POS	_	_	_	_	_	_
+szu	szu[hand][-e]	N	N.L3-NH	D	_	_	_	_	_	_
+ti-a	ti[receive]-a	V	NF.V.PT	D	_	_	_	_	_	_

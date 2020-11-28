@@ -1,0 +1,25 @@
+#new_text=P137239					
+FORM	SEGM	XPOSTAG	XPOSTAG	POS	B-COUNT	l	10	"dry	*	*
+1(ban2)	1(ban)[unit]	NU	N	D	I-COUNT	*	*	*	sila3	10
+zi3-gu	zidgu[flour_type]	N	N	D	B-COM	_	_	_	_	_
+*RETOK*-capacity"	?	?	?	?	B-COUNT	l	20	"dry	*	*
+2(ban2)	2(ban)[unit]	NU	N	D	I-COUNT	*	*	*	sila3	20
+dabin	dabin[semolina]	N	N	D	_	_	_	_	_	_
+lu2	lu[person]	N	N	D	_	_	_	_	_	_
+kin-gi4-a	kiggia[messenger]	N	N	D	_	_	_	_	_	_
+lugal	lugal[king]	N	N	D	_	_	_	_	_	_
+e2	e[house]	N	N	D	_	_	_	_	_	_
+hur-sag-ga2	_	V	NF.V.PT	Iabcde	_	_	_	_	_	_
+kin	kig[work]	N	N	D	_	_	_	_	_	_
+engur-ra-ke4	_	N	N	Ia	B-COM	_	_	_	_	_
+ib2-tuku-a	_	V	V	POS	_	_	_	_	_	_
+giri3-al-ba-ni-a-du11	_	N	N	POS	_	_	_	_	_	_
+szitim	_	N	N	Ia	_	_	_	_	_	_
+ki	ki[place]	N	N	D	_	_	_	_	_	_
+ur-ge6-par4-ra-ka-ta	_	PN	PN.GEN.ABL	Iab	_	_	_	_	_	_
+ba-zi	ba-zig[expend][-ø]	PN	MID.V.3-SG-S	D	_	_	_	_	_	_
+iti	iti[month]	N	N	D	_	_	_	_	_	_
+a2-ki-ti	Akiti[1][-'a]	N	MN.L1	D	_	_	_	_	_	_
+mu	mu[year]	N	N	D	_	_	_	_	_	_
+{d}amar-{d}suen	Amarsuen[1]	RN	RN	D	_	_	_	_	_	_
+lugal	lugal[king]	N	N	D	_	_	_	_	_	_

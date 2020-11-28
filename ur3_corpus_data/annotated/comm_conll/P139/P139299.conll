@@ -1,0 +1,32 @@
+#new_text=P139299					
+FORM	SEGM	XPOSTAG	XPOSTAG	POS	?	?	?	?	?	?
+...	_[_]	PN	N	D	_	_	_	_	_	_
+4(disz)	4(disz)[one]	NU	NU	D	B-COUNT	_	none	unknown	_	none
+...	_[_]	PN	N	D	I-COUNT	*	*	*	*	*
+...	_[_]	PN	N	D	_	_	_	_	_	_
+tu-ra-am-i3-li2	Turamili[1][-ak]	PN	PN.GEN	D	_	_	_	_	_	_
+...-x-{d}suen	_	PN	PN	Iabcdefgh	_	_	_	_	_	_
+...	_[_]	PN	N	D	_	_	_	_	_	_
+{d}suen-nu-ri	_	DN	DN.GEN.COM	Iabcdefghi	_	_	_	_	_	_
+...	_[_]	PN	N	D	_	_	_	_	_	_
+da-ri2-sza	_	PN	PN	Ia	_	_	_	_	_	_
+...	_[_]	PN	N	D	_	_	_	_	_	_
+sza-at-er3-ra	_	V	V	POS	_	_	_	_	_	_
+...	_[_]	PN	N	D	_	_	_	_	_	_
+la-ma-za-tum	_	PN	PN.DAT-H	Iabcdefgh	_	_	_	_	_	_
+...-EN-x	_	PN	PN	Iabcde	_	_	_	_	_	_
+...	_[_]	PN	N	D	_	_	_	_	_	_
+ba	ba[animal][-ak]	N	N.GEN	D	_	_	_	_	_	_
+x	_[_]	N	N	D	_	_	_	_	_	_
+...	_[_]	PN	N	D	_	_	_	_	_	_
+...	_[_]	PN	N	D	_	_	_	_	_	_
+ba	ba[animal][-ak]	N	N.GEN	D	_	_	_	_	_	_
+...	_[_]	PN	N	D	_	_	_	_	_	_
+x	_[_]	N	N	D	_	_	_	_	_	_
+x	_[_]	N	N	D	_	_	_	_	_	_
+...	_[_]	PN	N	D	_	_	_	_	_	_
+MI	_			POS	_	_	_	_	_	_
+x	_[_]	N	N	D	_	_	_	_	_	_
+...	_[_]	PN	N	D	_	_	_	_	_	_
+x	_[_]	N	N	D	_	_	_	_	_	_
+x	_[_]	N	N	D	_	_	_	_	_	_

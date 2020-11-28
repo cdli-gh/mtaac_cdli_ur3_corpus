@@ -1,0 +1,18 @@
+#new_text=P141259					
+FORM	SEGM	XPOSTAG	XPOSTAG	POS	B-COUNT	l	180	"dry	*	*
+3(barig)	3(bariga)[unit]	NU	N	D	I-COUNT	*	*	*	sila3	180
+i3-nun	inun[ghee]	PN	N	D	B-COM	_	_	_	_	_
+*RETOK*-capacity"	?	?	?	?	B-COUNT	l	360	"dry	*	*
+1(asz)	1(asz)[one]	NU	NU	D	I-COUNT	*	*	*	sila3	360
+1(barig)	1(bariga)[unit]	NU	N	D	I-COUNT	*	*	*	*	*
+ga-UD@g	_	PN	PN	Iabcde	_	_	_	_	_	_
+gur	gur[unit]	N	N	D	_	_	_	_	_	_
+e2-gal-la	egal[palace]-'a	N	N.L1	D	_	_	_	_	_	_
+kux(KWU147)-ra	kur[enter]-a	V	NF.V.PT	D	_	_	_	_	_	_
+ki	ki[place]	N	N	D	B-COM	_	_	_	_	_
+ur-{d}szul-pa-e3-ta	Urszulpa'e[1][-ak]-ta	PN	PN.GEN.ABL	D	_	_	_	_	_	_
+kiszib3	kiszib[seal]	N	N	D	_	_	_	_	_	_
+{d}szul-gi-iri-mu	Szulgi'irimu[1][-e]	PN	PN.ERG	D	_	_	_	_	_	_
+mu	mu[year]	N	N	D	_	_	_	_	_	_
+{d}szu-{d}suen	Szusuen[1]	RN	RN	D	_	_	_	_	_	_
+lugal	lugal[king]	N	N	D	_	_	_	_	_	_

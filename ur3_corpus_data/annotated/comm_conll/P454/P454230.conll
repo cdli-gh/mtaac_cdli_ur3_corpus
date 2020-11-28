@@ -1,0 +1,27 @@
+#new_text=P454230					
+FORM	SEGM	XPOSTAG	XPOSTAG	POS	B-COUNT	l	0.005555555555555555	"dry	*	*
+1(gesz2)	1(gesz)[sixty]	NU	NU	D	I-COUNT	*	*	*	sila3	0.005555555555555555
+sze	sze[barley]	N	N	D	I-COUNT	*	*	*	*	*
+gur	gur[unit]	N	N	D	I-COUNT	*	*	*	*	*
+nig2-ba	nigba[gift]	N	N	D	_	_	_	_	_	_
+lugal	lugal[king]	N	N	D	_	_	_	_	_	_
+{d}utu-bar-ra	Utubara[1][-e]	PN	PN.ERG	D	_	_	_	_	_	_
+*RETOK*-capacity"	?	?	?	?	B-COUNT	l	300	"dry	*	*
+1(asz)	1(asz)[one]	NU	NU	D	I-COUNT	*	*	*	sila3	300
+gur	gur[unit]	N	N	D	I-COUNT	*	*	*	*	*
+ha-la-a	_	PN	PN.GEN.GEN	Iabcdef	_	_	_	_	_	_
+nar	_	N	N	POS	_	_	_	_	_	_
+u4	ud[day]	N	N	D	_	_	_	_	_	_
+1(u)	1(u)[ten]	NU	NU	D	B-COUNT	_	10	cardinal	_	10
+4(disz)-kam	4(disz)[one]-ak-am[-'a]	NU	NU.GEN.COP-3-SG	D	B-COUNT	_	4	cardinal	_	4
+kiszib3	kiszib[seal]	N	N	D	_	_	_	_	_	_
+a-hu-a	Ahuya[1]	PN	PN	D	_	_	_	_	_	_
+iti	iti[month]	N	N	D	_	_	_	_	_	_
+ezem-mah	Ezemmah[1][-'a]	MN	MN.L1	D	_	_	_	_	_	_
+inim-{d}bu-x	_	PN	PN.DAT-H	Iab	_	_	_	_	_	_
+ARAD2	arad[slave]	N	N	D	_	_	_	_	_	_
+{d}nin-...	_[1]	PN	DN	D	_	_	_	_	_	_
+a-hu-a	Ahuya[1]	PN	PN	D	_	_	_	_	_	_
+dub-sar	dubsar[scribe]	N	N	D	_	_	_	_	_	_
+dumu	dumu[child]	N	N	D	_	_	_	_	_	_
+x-x-x	_[1]	PN	PN	D	_	_	_	_	_	_

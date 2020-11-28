@@ -1,0 +1,21 @@
+#new_text=P379318					
+FORM	SEGM	XPOSTAG	XPOSTAG	POS	?	?	?	?	?	?
+3(asz)	3(asz)[one]	NU	NU	D	B-COUNT	_	3	cardinal	_	3
+{gesz}haszhur	_	N	N	Ia	B-COM	_	_	_	_	_
+gur	gur[unit]	N	N	D	_	_	_	_	_	_
+ki	ki[place]	N	N	D	_	_	_	_	_	_
+al-la-di-mu-ta	_	PN	PN.GEN.ABL	Iab	_	_	_	_	_	_
+1(gesz'u)	1(gesz'u)[six_hundred]	NU	NU	D	B-COUNT	_	600	cardinal	_	600
+ukusz2	_	N	N	POS	B-COM	_	_	_	_	_
+ma2	ma[ship]	N	N	D	_	_	_	_	_	_
+u4-zal-la	_	N	N	POS	_	_	_	_	_	_
+e2-gal-la	egal[palace]-'a	N	N.L1	D	_	_	_	_	_	_
+ba-ku4	_	V	MID.L1-SYN.V.3-SG-S	Iabcde	_	_	_	_	_	_
+giri3	giri[foot]	N	N	D	_	_	_	_	_	_
+ur-{d}ig-alim	Urigalim[1]	FN	PN	D	_	_	_	_	_	_
+iti	iti[month]	N	N	D	_	_	_	_	_	_
+gu4-ra2-bi2-mu2-mu2	Gurabimumu[1][-'a]	MN	MN.L1	D	_	_	_	_	_	_
+mu	mu[year]	N	N	D	_	_	_	_	_	_
+gu-za	guza[chair][-ø]	N	N	D	_	_	_	_	_	_
+{d}en-lil2-la2	Enlil[1][-ak][-ø]	DN	DN.GEN	D	_	_	_	_	_	_
+ba-dim2	ba-dim[create][-ø]	V	MID.V.3-SG-S	D	_	_	_	_	_	_

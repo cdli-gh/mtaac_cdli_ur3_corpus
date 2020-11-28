@@ -1,0 +1,26 @@
+#new_text=P104889					
+*RETOK*-($	?	?	?	?	_	_	_	_	_	_
+FORM	SEGM	XPOSTAG	XPOSTAG	POS	_	_	_	_	_	_
+*RETOK*-space	?	?	?	?	_	_	_	_	_	_
+*RETOK*-$)	?	?	?	?	_	_	_	_	_	_
+sze	sze[barley]	N	N	D	_	_	_	_	_	_
+lugal	lugal[king]	N	N	D	_	_	_	_	_	_
+lu2-{d}nin-dar-a	Lunindara[1]	PN	PN	D	_	_	_	_	_	_
+*RETOK*-capacity"	?	?	?	?	B-COUNT	l	30	"dry	*	*
+3(ban2)	3(ban)[unit]	NU	N	D	I-COUNT	*	*	*	sila3	30
+geme2-e2-an-na	_	PN	PN	Iabcde	_	_	_	_	_	_
+nu-ma-su	_	V	V	POS	_	_	_	_	_	_
+ama	_	N	N	D	_	_	_	_	_	_
+dumu	dumu[child]	N	N	D	_	_	_	_	_	_
+5(disz)	5(disz)[one]	NU	NU	D	B-COUNT	_	5	cardinal	_	5
+iti	iti[month]	N	N	D	_	_	_	_	_	_
+amar-a-a-si-ta	_	MN	MN.GEN.ABL	Iabcdefg	_	_	_	_	_	_
+iti	iti[month]	N	N	D	_	_	_	_	_	_
+sze-il2-la-sze3	Sze'illa[1]-sze	MN	MN.TERM	D	_	_	_	_	_	_
+ga-a	_	PN	PN.GEN.L1	Iabcdefg	B-COM	_	_	_	_	_
+i3-dab5	i[-n]-dab[seize][-ø]	V	FIN.3-SG-H-A.V.3-SG-P	D	_	_	_	_	_	_
+zi-ga	zig[expend]-a	V	NF.V.PT	D	_	_	_	_	_	_
+ur-{d}nansze	Urnansze[1]	PN	PN	D	_	_	_	_	_	_
+mu	mu[year]	N	N	D	_	_	_	_	_	_
+ur-bi2-lum{ki}	Urbilum[1][-ø]	GN	SN.ABS	D	_	_	_	_	_	_
+ba-hul	ba-hulu[destroy][-ø]	V	MID.V.3-SG-S	D	_	_	_	_	_	_

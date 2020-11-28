@@ -1,0 +1,24 @@
+#new_text=P115760					
+FORM	SEGM	XPOSTAG	XPOSTAG	POS	B-COUNT	l	324574460	"dry	*	*
+1(szar2)	1(szar)[unit]	NU	N	D	I-COUNT	*	*	*	sila3	324574460
+3(gesz'u)	3(gesz'u)[six_hundred]	NU	NU	D	I-COUNT	*	*	*	*	*
+1(gesz2)	1(gesz)[sixty]	NU	NU	D	I-COUNT	*	*	*	*	*
+5(u)	5(u)[ten]	NU	NU	D	I-COUNT	*	*	*	*	*
+4(asz)	4(asz)[one]	NU	NU	D	I-COUNT	*	*	*	*	*
+4(barig)	4(bariga)[unit]	NU	N	D	I-COUNT	*	*	*	*	*
+2(ban2)	2(ban)[unit]	NU	N	D	I-COUNT	*	*	*	*	*
+gur	gur[unit]	N	N	D	I-COUNT	*	*	*	*	*
+ur-szu-ga-lam-ma	_	N	PN.GEN.ABS	D	_	_	_	_	_	_
+*RETOK*-capacity"	?	?	?	?	B-COUNT	l	324635285	"dry	*	*
+1(szar2)	1(szar)[unit]	NU	N	D	I-COUNT	*	*	*	sila3	324635285
+3(gesz'u)	3(gesz'u)[six_hundred]	NU	NU	D	I-COUNT	*	*	*	*	*
+5(gesz2)	5(gesz)[sixty]	NU	NU	D	I-COUNT	*	*	*	*	*
+1(u)	1(u)[ten]	NU	NU	D	I-COUNT	*	*	*	*	*
+7(asz)	7(asz)[one]	NU	NU	D	I-COUNT	*	*	*	*	*
+3(barig)	3(bariga)[unit]	NU	N	D	I-COUNT	*	*	*	*	*
+5(disz)	5(disz)[one]	NU	NU	D	I-COUNT	*	*	*	*	*
+sila3	sila[unit]	N	N	D	I-COUNT	*	*	*	*	*
+gur	gur[unit]	N	N	D	I-COUNT	*	*	*	*	*
+lu2-uru11{ki}	Lu'uru[1]	PN	PN	D	_	_	_	_	_	_
+e2	e[house]	N	N	D	_	_	_	_	_	_
+{d}szul-gi-me	_	DN	DN	POS	_	_	_	_	_	_

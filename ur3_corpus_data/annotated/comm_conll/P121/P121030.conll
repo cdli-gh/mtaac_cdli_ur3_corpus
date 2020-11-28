@@ -1,0 +1,32 @@
+#new_text=P121030					
+FORM	SEGM	XPOSTAG	XPOSTAG	POS	B-COUNT	l	135	"dry	*	*
+2(barig)	2(bariga)[unit]	NU	N	D	I-COUNT	*	*	*	sila3	135
+1(ban2)	1(ban)[unit]	NU	N	D	I-COUNT	*	*	*	*	*
+5(disz)	5(disz)[one]	NU	NU	D	I-COUNT	*	*	*	*	*
+sila3	sila[unit]	N	N	D	I-COUNT	*	*	*	*	*
+zi3	zid[flour]	N	N	D	B-COM	_	_	_	_	_
+gi	gi[reed][-ø]	N	N	D	_	_	_	_	_	_
+*RETOK*-capacity"	?	?	?	?	B-COUNT	l	1.6666666666666665	"liquid	*	*
+*RETOK*-capacity"	?	?	?	?	I-COUNT	l	1.6666666666666665	"dry	sila3	1.6666666666666665
+1(disz)	1(disz)[one]	NU	NU	D	I-COUNT	*	*	*	sila3	1.6666666666666665
+2/3(disz)	2/3(disz)[one]	NU	NU	D	I-COUNT	*	*	*	*	*
+sila3	sila[unit]	N	N	D	I-COUNT	*	*	*	*	*
+i3-szah2	iszah[lard][-ø]	N	N	D	_	_	_	_	_	_
+a-ku-za	_	PN	PN.GEN.GEN.ABS	Iabcdefg	_	_	_	_	_	_
+*RETOK*-capacity"	?	?	?	?	B-COUNT	l	10	"dry	*	*
+1(ban2)	1(ban)[unit]	NU	N	D	I-COUNT	*	*	*	sila3	10
+zi3	zid[flour]	N	N	D	B-COM	_	_	_	_	_
+AN	_[_]	PN	PN.DAT-H	Iabcdefgh	_	_	_	_	_	_
+IG	_			POS	_	_	_	_	_	_
+SU	_			POS	_	_	_	_	_	_
+*RETOK*-capacity"	?	?	?	?	B-COUNT	l	25.166666666666668	"dry	*	*
+2(ban2)	2(ban)[unit]	NU	N	D	I-COUNT	*	*	*	sila3	25.166666666666668
+5(disz)	5(disz)[one]	NU	NU	D	I-COUNT	*	*	*	*	*
+sila3	sila[unit]	N	N	D	I-COUNT	*	*	*	*	*
+1(u)	1(u)[ten]	NU	NU	D	I-COUNT	*	*	*	*	*
+gin2	gig[unit]	N	N	D	I-COUNT	*	*	*	*	*
+i3-szah2	iszah[lard][-ø]	N	N	D	B-COM	_	_	_	_	_
+ba-sza-an	_	PN	PN	POS	_	_	_	_	_	_
+mu	mu[year]	N	N	D	_	_	_	_	_	_
+si-mu-ru-um{ki}	Simurrum[1]	SN	SN.ABS	D	_	_	_	_	_	_
+ba-hul-a	ba-hulu[destroy][-ø]-a	V	MID.V.3-SG-S.SUB	D	_	_	_	_	_	_

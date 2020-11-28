@@ -1,0 +1,22 @@
+#new_text=P205934					
+FORM	SEGM	XPOSTAG	XPOSTAG	POS	?	?	?	?	?	?
+sa	sa[bundle]	N	N	D	_	_	_	_	_	_
+gu	gu[cord]	N	N	D	_	_	_	_	_	_
+gazx(KUM)	gaz[thresh][-ø]	V	NF.V.PT	D	_	_	_	_	_	_
+ur-{d}ig-alim	Urigalim[1]	FN	PN	D	_	_	_	_	_	_
+sa	sa[bundle]	N	N	D	_	_	_	_	_	_
+gu	gu[cord]	N	N	D	_	_	_	_	_	_
+gazx(KUM)	gaz[thresh][-ø]	V	NF.V.PT	D	_	_	_	_	_	_
+lugal-sa6-ga	Lugalsaga[1][-ak]	PN	PN.GEN	D	_	_	_	_	_	_
+im-hun-ga2	_	N	N	POS	_	_	_	_	_	_
+he2-dab5-me	hedab[worker][-ø]-mesz	N	N.ABS.COP-3-PL	D	_	_	_	_	_	_
+u4	ud[day]	N	N	D	_	_	_	_	_	_
+2(u)	2(u)[ten]	NU	NU	D	B-COUNT	_	20	cardinal	_	20
+5(disz)-kam	5(disz)[one]-ak-am[-ak][-ø]	NU	NU.GEN.COP-3-SG	D	B-COUNT	_	5	cardinal	_	5
+iti	iti[month]	N	N	D	_	_	_	_	_	_
+sze-sag11-ku5	Szesagku[1][-'a]	MN	MN.L1	D	_	_	_	_	_	_
+mu	mu[year]	N	N	D	_	_	_	_	_	_
+en	en[priest]	N	N	D	_	_	_	_	_	_
+{d}inanna	Inanna[1][-ak]	DN	DN	D	_	_	_	_	_	_
+masz-e	masz[goat]-e	N	N.L3-NH	D	B-COM	_	_	_	_	_
+i3-pa3	i-pad[find][-ø]	V	FIN.V.3-SG-S	D	_	_	_	_	_	_

@@ -1,0 +1,27 @@
+#new_text=P378110					
+FORM	SEGM	XPOSTAG	XPOSTAG	POS	?	?	?	?	?	?
+4(asz)	4(asz)[one]	NU	NU	D	B-COUNT	*	*	*	*	*
+4(barig)	4(bariga)[unit]	NU	N	D	I-COUNT	*	*	*	*	*
+sze	sze[barley]	N	N	D	I-COUNT	*	*	*	*	*
+gur	gur[unit]	N	N	D	I-COUNT	*	*	*	*	*
+sze-ba	szeba[ration]	N	N	D	B-COM	_	_	_	_	_
+i-din-{d}iszkur	_	PN	PN	Iabcde	_	_	_	_	_	_
+ra2-gaba	ragaba[rider]	N	N.ABS	D	_	_	_	_	_	_
+mu	mu[year]	N	N	D	_	_	_	_	_	_
+{d}i-bi2-{d}suen	Ibbisuen[1]	RN	RN	D	_	_	_	_	_	_
+lugal	lugal[king]	N	N	D	_	_	_	_	_	_
+kiszib3	kiszib[seal]	N	N	D	_	_	_	_	_	_
+i-din-{d}iszkur	_	PN	PN	Iabcde	_	_	_	_	_	_
+ra2-gaba	ragaba[rider]	N	N.ABS	D	_	_	_	_	_	_
+lu2-{d}utu-ke4	_	PN	PN.GEN.ERG	Iabcdefg	_	_	_	_	_	_
+ur-bad3-tibirx(KU)-ra	Urbadtibira[-e]	PN	PN.ERG	D	_	_	_	_	_	_
+tum3-dam	_	V	V	POS	_	_	_	_	_	_
+kiszib3	kiszib[seal]	N	N	D	_	_	_	_	_	_
+lu2-{d}utu	Lu'utu[1]	PN	PN	D	_	_	_	_	_	_
+mu	mu[year]	N	N	D	_	_	_	_	_	_
+{d}i-bi2-{d}suen	Ibbisuen[1]	RN	RN	D	_	_	_	_	_	_
+lugal	lugal[king]	N	N	D	_	_	_	_	_	_
+lu2-{d}utu	Lu'utu[1]	PN	PN	D	_	_	_	_	_	_
+dub-sar	dubsar[scribe]	N	N	D	_	_	_	_	_	_
+dumu	dumu[child]	N	N	D	_	_	_	_	_	_
+lu2-{d}nin-mar{ki}	_	PN	PN	Ia	_	_	_	_	_	_

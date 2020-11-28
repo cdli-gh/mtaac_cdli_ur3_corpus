@@ -1,0 +1,15 @@
+#new_text=P380089					
+FORM	SEGM	XPOSTAG	XPOSTAG	POS	?	?	?	?	?	?
+1(u)	1(u)[ten]	NU	NU	D	B-COUNT	_	12	cardinal	_	12
+2(disz)	2(disz)[one]	NU	NU	D	I-COUNT	*	*	*	*	*
+{gesz}ur2	_	N	N	Ia	B-COM	_	_	_	_	_
+{gesz}gu-za	guza[chair]	N	N	D	_	_	_	_	_	_
+6(disz)	6(disz)[one][-sze]	NU	NU	D	B-COUNT	_	6	cardinal	_	6
+{gesz}dal	dal[crossbar]	N	N	D	_	_	_	_	_	_
+{gesz}gu-za	guza[chair]	N	N	D	_	_	_	_	_	_
+...	_[_]	PN	N	D	_	_	_	_	_	_
+...	_[_]	PN	N	D	_	_	_	_	_	_
+{gesz}szu	_	N	N.ABS	Iabcdefgh	B-COM	_	_	_	_	_
+gur10	_	V	NF.V.PT	Ia	_	_	_	_	_	_
+al-la-sa6-ga	_	PN	PN	Ia	_	_	_	_	_	_
+nagar	nagar[carpenter]	N	N	D	_	_	_	_	_	_

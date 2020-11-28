@@ -1,0 +1,13 @@
+#new_text=P137115					
+FORM	SEGM	XPOSTAG	XPOSTAG	POS	?	?	?	?	?	?
+3(u)	3(u)[ten]	NU	NU	D	B-COUNT	_	35	cardinal	_	35
+5(disz)	5(disz)[one]	NU	NU	D	I-COUNT	*	*	*	*	*
+gu-nigin2	_	PN	PN	POS	B-COM	_	_	_	_	_
+pa	pa[branch]	N	N.ABS	D	_	_	_	_	_	_
+{gesz}geszimmar	gesznimbar[palm]	PN	N	D	_	_	_	_	_	_
+{d}utu-mu	Utumu[1][-ø]	PN	PN.DAT-H	D	_	_	_	_	_	_
+mu-kux(DU)	mukur[delivery][-ø]	N	N	D	_	_	_	_	_	_
+ba-ga-a	_	PN	PN	Iabcdefgh	_	_	_	_	_	_
+dub-sar	dubsar[scribe]	N	N	D	_	_	_	_	_	_
+dumu	dumu[child]	N	N	D	_	_	_	_	_	_
+ur-zabala4{ki}	_	PN	PN.GEN.GEN	Iabcdefg	_	_	_	_	_	_

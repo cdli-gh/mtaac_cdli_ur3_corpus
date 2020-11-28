@@ -1,0 +1,17 @@
+#new_text=P390928					
+FORM	SEGM	XPOSTAG	XPOSTAG	POS	B-COUNT	l	25	"dry	*	*
+2(ban2)	2(ban)[unit]	NU	N	D	I-COUNT	*	*	*	sila3	25
+5(disz)	5(disz)[one]	NU	NU	D	I-COUNT	*	*	*	*	*
+sila3	sila[unit]	N	N	D	I-COUNT	*	*	*	*	*
+sze	sze[barley]	N	N	D	I-COUNT	*	*	*	*	*
+u3	u[and]	CNJ	CNJ	D	B-COM	_	_	_	_	_
+sa2-du11	sadug[offerings]	N	N	D	_	_	_	_	_	_
+{d}szara2	Szara[1][-ak]	DN	DN	D	_	_	_	_	_	_
+iti	iti[month]	N	N	D	_	_	_	_	_	_
+{d}li9-si4-ta	_	MN	MN.GEN.ABL	Iabcdefg	_	_	_	_	_	_
+u4	ud[day]	N	N	D	_	_	_	_	_	_
+3(u)	3(u)[ten]	NU	NU	D	B-COUNT	_	29	cardinal	_	29
+la2	la[hang][-ø]	V	NF.V.ABS	D	I-COUNT	*	*	*	*	*
+1(disz)-am3	_	NU	NU.GEN.COP-3-SG	Iabcdef	I-COUNT	*	*	*	*	*
+ba-ra-zal-la-ta	_	V	NF.V.PT.ABL	Iab	_	_	_	_	_	_
+...	_[_]	PN	N	D	_	_	_	_	_	_

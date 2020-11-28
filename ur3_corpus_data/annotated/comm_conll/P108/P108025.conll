@@ -1,0 +1,18 @@
+#new_text=P108025					
+FORM	SEGM	XPOSTAG	XPOSTAG	POS	?	?	?	?	?	?
+3(disz)	3(disz)[one]	NU	NU	D	B-COUNT	_	3	cardinal	_	3
+amar	amar[calf][-ak]	N	N	D	B-COM	_	_	_	_	_
+masz-da3-nita2	maszdanita[male_gazelle]	N	N	D	_	_	_	_	_	_
+e2-uz-ga	e'uzga[building_type][-ak][-sze]	N	N.GEN.TERM	D	_	_	_	_	_	_
+ki	ki[place]	N	N	D	_	_	_	_	_	_
+uri5{ki}-ki-du10-ta	_	SN	SN	POS	_	_	_	_	_	_
+u4	ud[day]	N	N	D	_	_	_	_	_	_
+1(u)-kam	1(u)[ten]-ak-am	NU	NU.GEN.COP-3-SG	D	B-COUNT	_	10	cardinal	_	10
+ki	ki[place]	N	N	D	_	_	_	_	_	_
+in-ta-e3-a-ta	Inta'e'a[1][-ak]-ta	PN	PN.GEN.ABL	D	_	_	_	_	_	_
+ba-zi	ba-zig[expend][-ø]	PN	MID.V.3-SG-S	D	_	_	_	_	_	_
+giri3	giri[foot]	N	N	D	_	_	_	_	_	_
+{d}nanna-ma-ba	Nannamaba[1]	PN	PN	D	_	_	_	_	_	_
+dub-sar	dubsar[scribe]	N	N	D	_	_	_	_	_	_
+3(disz)	3(disz)[one]	NU	NU	D	B-COUNT	_	3	cardinal	_	3
+masz-da3	maszda[gazelle][-ø]	N	N	D	B-COM	_	_	_	_	_

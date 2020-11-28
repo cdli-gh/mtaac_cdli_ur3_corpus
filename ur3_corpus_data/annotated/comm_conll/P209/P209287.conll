@@ -1,0 +1,14 @@
+#new_text=P209287					
+FORM	SEGM	XPOSTAG	XPOSTAG	POS	B-COUNT	l	100	"dry	*	*
+1(barig)	1(bariga)[unit]	NU	N	D	I-COUNT	*	*	*	sila3	100
+4(ban2)	4(ban)[unit]	NU	N	D	I-COUNT	*	*	*	*	*
+kasz	kasz[beer]	N	N	D	B-COM	_	_	_	_	_
+*RETOK*-capacity"	?	?	?	?	B-COUNT	l	100	"dry	*	*
+1(barig)	1(bariga)[unit]	NU	N	D	I-COUNT	*	*	*	sila3	100
+4(ban2)	4(ban)[unit]	NU	N	D	I-COUNT	*	*	*	*	*
+ninda	ninda[bread]	N	N	D	_	_	_	_	_	_
+ib-ni-{d}iszkur	_	PN	PN	D	_	_	_	_	_	_
+lu2	lu[person]	N	N	D	_	_	_	_	_	_
+kin-gi4-a	kiggia[messenger]	N	N	D	_	_	_	_	_	_
+iti	iti[month]	N	N	D	_	_	_	_	_	_
+sze-kar-gal2-la	_	MN	MN.L1	Ia	_	_	_	_	_	_

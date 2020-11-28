@@ -1,0 +1,24 @@
+#new_text=P106791					
+FORM	SEGM	XPOSTAG	XPOSTAG	POS	B-COUNT	l	20	"dry	*	*
+2(ban2)	2(ban)[unit]	NU	N	D	I-COUNT	*	*	*	sila3	20
+i3	i[oil]	N	N	D	B-COM	_	_	_	_	_
+*RETOK*-capacity"	?	?	?	?	B-COUNT	l	3	"liquid	*	*
+*RETOK*-capacity"	?	?	?	?	I-COUNT	l	3	"dry	sila3	3
+3(disz)	3(disz)[one]	NU	NU	D	I-COUNT	*	*	*	sila3	3
+sila3	sila[unit]	N	N	D	I-COUNT	*	*	*	*	*
+i3-nun	inun[ghee]	PN	N	D	_	_	_	_	_	_
+x-ta	_	PN	PN.GEN.ABL	Iabcdef	_	_	_	_	_	_
+1(disz)	1(disz)[one]	NU	NU	D	B-COUNT	_	1	cardinal	_	1
+udu	udu[sheep]	N	N	D	B-COM	_	_	_	_	_
+niga	niga[fattened][-ø]	V	NF.V.ABS	D	_	_	_	_	_	_
+1(disz)	1(disz)[one]	NU	NU	D	B-COUNT	_	1	cardinal	_	1
+udu	udu[sheep]	N	N	D	B-COM	_	_	_	_	_
+u2	u[grass]	N	N	D	_	_	_	_	_	_
+1(asz)	1(asz)[one]	NU	NU	D	B-COUNT	_	1	cardinal	_	1
+ku6-sze6	kusze[cooked_fish]	N	N	D	_	_	_	_	_	_
+u3-ma-ni	Umani[1]	V	PN	D	_	_	_	_	_	_
+u3-na-a-du11	u-nn-a-e-dug[speak][-ø]	N	ANT.3-SG-H.DAT.2-SG-A.V.3-SG-P	D	_	_	_	_	_	_
+a-ma-ru-kam	amaru[flood]-ak[-ø]-am	N	N.GEN.ABS.COP-3-SG	D	_	_	_	_	_	_
+ul4-la-bi	ulabi[quick][-ø]	V	NF.V.ABS	D	_	_	_	_	_	_
+ur-{d}nin-ugula-szakkan	_	PN	PN.DAT-H	Iab	_	_	_	_	_	_
+he2-na-ab-szum2-mu	ha-i-nn-a-b-szum[give]-e	V	MOD.FIN.3-SG-H.DAT.3-SG-NH-P.V.3-SG-A	D	_	_	_	_	_	_

@@ -1,0 +1,19 @@
+#new_text=P100004					
+FORM	SEGM	XPOSTAG	XPOSTAG	POS	?	?	?	?	?	?
+2(disz)	2(disz)[one]	NU	NU	D	B-COUNT	_	2	cardinal	_	2
+geme2	geme[female_worker]	N	N	D	_	_	_	_	_	_
+ki	ki[place]	N	N	D	_	_	_	_	_	_
+lugal-si-NE-e-ta	_	PN	PN.GEN.ABL	Iab	_	_	_	_	_	_
+iti	iti[month]	N	N	D	_	_	_	_	_	_
+sig4-{gesz}i3-szub-ga2-ra-ta	_	MN	MN.GEN.ABL	Iabcdef	B-COM	_	_	_	_	_
+u4	ud[day]	N	N	D	_	_	_	_	_	_
+6(disz)	6(disz)[one][-sze]	NU	NU	D	B-COUNT	_	6	cardinal	_	6
+ib2-ta-zal	_	V	FIN.3-SG-H.DAT.V.3-SG-S.SUB.L1	Iabcdefg	_	_	_	_	_	_
+ur-ab-ba	Urabba[1][-ak]	PN	PN.GEN	D	_	_	_	_	_	_
+lunga	lungak[brewer][-ak]	N	N.GEN	D	_	_	_	_	_	_
+i3-dab5	i[-n]-dab[seize][-ø]	V	FIN.3-SG-H-A.V.3-SG-P	D	_	_	_	_	_	_
+iti	iti[month]	N	N	D	_	_	_	_	_	_
+sig4-{gesz}i3-szub-ga2-ra	_	MN	MN	Iabcde	B-COM	_	_	_	_	_
+mu	mu[year]	N	N	D	_	_	_	_	_	_
+si-mu-ru-um{ki}	Simurrum[1]	SN	SN.ABS	D	_	_	_	_	_	_
+ba-hul	ba-hulu[destroy][-ø]	V	MID.V.3-SG-S	D	_	_	_	_	_	_

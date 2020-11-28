@@ -1,0 +1,23 @@
+#new_text=P448757					
+FORM	SEGM	XPOSTAG	XPOSTAG	POS	?	?	?	?	?	?
+1/2(asz)	_	NU	NU	Iabcde	B-COUNT	g	15000.000000000002	weight	gin2	1800.0
+gu2	gun[unit]	N	N	D	I-COUNT	*	*	*	*	*
+u2-gesz	_	N	N	POS	B-COM	_	_	_	_	_
+1(asz)	1(asz)[one]	NU	NU	D	B-COUNT	g	30000.000000000004	weight	gin2	3600
+gu2	gun[unit]	N	N	D	I-COUNT	*	*	*	*	*
+gi	gi[reed][-ø]	N	N	D	_	_	_	_	_	_
+e2	e[house]	N	N	D	_	_	_	_	_	_
+{d}nanna	Nanna[1][-ak]	DN	DN	D	_	_	_	_	_	_
+siskur2	siszkur[offering]	N	N	D	_	_	_	_	_	_
+u4-sakar	usakar[crescent_moon][-sze]	N	N.TERM	D	_	_	_	_	_	_
+e2-u4-1(u)-5(disz)	E'u15[1][-sze]	NU	TN.TERM	D	_	_	_	_	_	_
+a2-ge6-ba-a	agiba[midnight]-'a	PN	N.L1	D	_	_	_	_	_	_
+zi-ga	zig[expend]-a	V	NF.V.PT	D	_	_	_	_	_	_
+siskur2	siszkur[offering]	N	N	D	_	_	_	_	_	_
+lugal	lugal[king]	N	N	D	_	_	_	_	_	_
+iti	iti[month]	N	N	D	_	_	_	_	_	_
+ezem-an-na	Ezemanna[1][-'a]	MN	MN.L1	D	_	_	_	_	_	_
+mu	mu[year]	N	N	D	_	_	_	_	_	_
+us2-sa	us[follow]-a	V	NF.V.PT	D	_	_	_	_	_	_
+bad3-gal	badgal[great_wall][-ø]	N	N.ABS	D	_	_	_	_	_	_
+ba-du3	ba-du[build][-ø]	V	MID.V.3-SG-S	D	B-COM	_	_	_	_	_

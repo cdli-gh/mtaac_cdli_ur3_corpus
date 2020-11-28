@@ -1,0 +1,27 @@
+#new_text=P121375					
+FORM	SEGM	XPOSTAG	XPOSTAG	POS	?	?	?	?	?	?
+1(u)	1(u)[ten]	NU	NU	D	B-COUNT	_	10	cardinal	_	10
+dim	_	N	N	Ia	B-COM	_	_	_	_	_
+ab-ba	abba[father]	PN	PN	D	_	_	_	_	_	_
+3(disz)	3(disz)[one]	NU	NU	D	B-COUNT	m	1.5	length	gi	0.5
+kusz3	kusz[unit]	N	N	D	I-COUNT	*	*	*	*	*
+ib2-sa2	_	V	V	POS	_	_	_	_	_	_
+2(u)	2(u)[ten]	NU	NU	D	B-COUNT	_	20	cardinal	_	20
+dim	_	N	N	Ia	_	_	_	_	_	_
+ab-ba	abba[father]	PN	PN	D	_	_	_	_	_	_
+2(disz)	2(disz)[one]	NU	NU	D	B-COUNT	m	1.25	length	gi	0.41666666666666663
+1/2(disz)	1/2(disz)[one]	NU	NU	D	I-COUNT	*	*	*	*	*
+kusz3	kusz[unit]	N	N	D	I-COUNT	*	*	*	*	*
+ib2-sa2	_	V	V	POS	_	_	_	_	_	_
+e2-gal-sze3	_	N	N	POS	_	_	_	_	_	_
+...	_[_]	PN	N	D	_	_	_	_	_	_
+kusz3	kusz[unit]	N	N	D	_	_	_	_	_	_
+...	_[_]	PN	N	D	_	_	_	_	_	_
+...	_[_]	PN	N	D	_	_	_	_	_	_
+...	_[_]	PN	N	D	_	_	_	_	_	_
+iti	iti[month]	N	N	D	_	_	_	_	_	_
+amar-a-a-si	Amarayasi[1][-'a]	MN	MN.L1	D	_	_	_	_	_	_
+mu	mu[year]	N	N	D	_	_	_	_	_	_
+us2-sa	us[follow]-a	V	NF.V.PT	D	_	_	_	_	_	_
+en	en[priest]	N	N	D	_	_	_	_	_	_
+eridu{ki}	Eridug[1][-ak][-ø]	SN	SN.GEN.ABS	D	_	_	_	_	_	_

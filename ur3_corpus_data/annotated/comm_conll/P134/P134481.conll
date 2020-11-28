@@ -1,0 +1,19 @@
+#new_text=P134481					
+FORM	SEGM	XPOSTAG	XPOSTAG	POS	?	?	?	?	?	?
+3(gesz2)	3(gesz)[sixty]	NU	NU	D	B-COUNT	_	180	cardinal	_	180
+gurusz	gurusz[male]	N	N	D	B-COM	_	_	_	_	_
+u4	ud[day]	N	N	D	_	_	_	_	_	_
+9(disz)-sze3	_	NU	NU.GEN.COP-3-SG.TERM	Iabcdef	B-COUNT	_	9	cardinal	_	9
+gesz-ra-an	_	N	N	Ia	_	_	_	_	_	_
+bu-ra	_	V	V	POS	_	_	_	_	_	_
+engar	engar[farmer]	N	N	D	_	_	_	_	_	_
+u-bar-ni-a	_	PN	PN	Iabc	_	_	_	_	_	_
+iti	iti[month]	N	N	D	_	_	_	_	_	_
+gan-gan-e3	_	PN	PN	POS	_	_	_	_	_	_
+mu	mu[year]	N	N	D	_	_	_	_	_	_
+us2-sa	us[follow]-a	V	NF.V.PT	D	_	_	_	_	_	_
+{d}szu-{d}suen	Szusuen[1]	RN	RN	D	_	_	_	_	_	_
+lugal-e	lugal[king]-e	N	N.ERG	D	B-COM	_	_	_	_	_
+bad3	bad[wall]	N	N	D	_	_	_	_	_	_
+mar-tu	Martu[1][-ø]	EN	EN.ABS	D	_	_	_	_	_	_
+mu-du3	mu[-n]-du[build][-ø]	V	VEN.3-SG-H-A.V.3-SG-P	D	_	_	_	_	_	_

@@ -1,0 +1,9 @@
+#new_text=P137086					
+FORM	SEGM	XPOSTAG	XPOSTAG	POS	B-COUNT	l	220	"dry	*	*
+3(barig)	3(bariga)[unit]	NU	N	D	I-COUNT	*	*	*	sila3	220
+4(ban2)	4(ban)[unit]	NU	N	D	I-COUNT	*	*	*	*	*
+i3	i[oil]	N	N	D	B-COM	_	_	_	_	_
+x	_[_]	N	N	D	_	_	_	_	_	_
+e2	e[house]	N	N	D	_	_	_	_	_	_
+i3-sur-ra	_	V	V	POS	_	_	_	_	_	_
+ga2-la-am3	_	V	NF.V.PT.ABS.COP-3-SG	Iabcde	_	_	_	_	_	_

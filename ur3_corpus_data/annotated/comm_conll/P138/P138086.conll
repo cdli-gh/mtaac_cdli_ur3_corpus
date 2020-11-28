@@ -1,0 +1,23 @@
+#new_text=P138086					
+FORM	SEGM	XPOSTAG	XPOSTAG	POS	?	?	?	?	?	?
+1(disz)	1(disz)[one]	NU	NU	D	B-COUNT	_	1	cardinal	_	1
+lu2-{d}nanna	Lunanna[1]	PN	PN	D	_	_	_	_	_	_
+dub-sar	dubsar[scribe]	N	N	D	_	_	_	_	_	_
+1(disz)	1(disz)[one]	NU	NU	D	B-COUNT	_	1	cardinal	_	1
+lugal-nig2-ba	_	PN	PN	Iabcde	_	_	_	_	_	_
+1(disz)	1(disz)[one]	NU	NU	D	B-COUNT	_	1	cardinal	_	1
+ur-{d}dun	_	PN	PN	Iabcde	_	_	_	_	_	_
+1(disz)	1(disz)[one]	NU	NU	D	B-COUNT	_	1	cardinal	_	1
+ARAD2-{d}nanna	Aradnanna[1]	PN	PN	D	_	_	_	_	_	_
+1(disz)	1(disz)[one]	NU	NU	D	B-COUNT	_	1	cardinal	_	1
+{d}iszkur-ba-ni	Iszkurbani[1][-ra]	PN	PN.DAT-H	D	_	_	_	_	_	_
+1(disz)	1(disz)[one]	NU	NU	D	B-COUNT	_	1	cardinal	_	1
+{d}nanna-i3-gi	_	PN	PN	Iabcde	_	_	_	_	_	_
+lu2	lu[person]	N	N	D	_	_	_	_	_	_
+ninda2-me	_	N	N	POS	_	_	_	_	_	_
+1(disz)	1(disz)[one]	NU	NU	D	B-COUNT	_	1	cardinal	_	1
+tug2-ta	_	N	N.ABL	Iabcde	B-COM	_	_	_	_	_
+tug2-bi	_	N	N.ABS	Iabcdef	_	_	_	_	_	_
+6(disz)	6(disz)[one][-sze]	NU	NU	D	B-COUNT	_	6	cardinal	_	6
+giri3-se3-ga	girsiga[attendant]	N	N	D	_	_	_	_	_	_
+guru7-me	_	V	V	POS	_	_	_	_	_	_

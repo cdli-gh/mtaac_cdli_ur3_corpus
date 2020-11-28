@@ -1,0 +1,17 @@
+#new_text=P209601					
+FORM	SEGM	XPOSTAG	XPOSTAG	POS	?	?	?	?	?	?
+2(gesz'u)	2(gesz'u)[six_hundred]	NU	NU	D	B-COUNT	_	1320	cardinal	_	1320
+2(gesz2)	2(gesz)[sixty]	NU	NU	D	I-COUNT	*	*	*	*	*
+pa3	_	V	FIN.3-SG-H-A.V.3-SG-P	Iab	_	_	_	_	_	_
+2(u)	2(u)[ten]	NU	NU	D	B-COUNT	_	20	cardinal	_	20
+ba-la2	_	V	V	POS	_	_	_	_	_	_
+9(disz)	9(disz)[one]	NU	NU	D	B-COUNT	g	4833.333333333334	weight	gin2	580.0
+2/3(disz)	2/3(disz)[one]	NU	NU	D	I-COUNT	*	*	*	*	*
+ma-na	mana[unit]	N	N	D	I-COUNT	*	*	*	*	*
+pa3	_	V	FIN.3-SG-H-A.V.3-SG-P	Iab	_	_	_	_	_	_
+1(disz)	1(disz)[one]	NU	NU	D	B-COUNT	g	600.0	weight	gin2	72
+ma-na	mana[unit]	N	N	D	I-COUNT	*	*	*	*	*
+1(u)	1(u)[ten]	NU	NU	D	I-COUNT	*	*	*	*	*
+2(disz)	2(disz)[one]	NU	NU	D	I-COUNT	*	*	*	*	*
+gin2	gig[unit]	N	N	D	I-COUNT	*	*	*	*	*
+ur-e11-e	Ure'e[1][-ak]	PN	PN	D	_	_	_	_	_	_

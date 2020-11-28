@@ -1,0 +1,20 @@
+#new_text=P133847					
+FORM	SEGM	XPOSTAG	XPOSTAG	POS	?	?	?	?	?	?
+3(disz)	3(disz)[one]	NU	NU	D	B-COUNT	_	3	cardinal	_	3
+amar-sag	_	N	N	POS	B-COM	_	_	_	_	_
+uz-tur	_	PN	PN	POS	_	_	_	_	_	_
+e2-gal-ta	egal[palace]-ta	N	N.ABL	D	_	_	_	_	_	_
+iti-ta	_	N	N	POS	_	_	_	_	_	_
+u4	ud[day]	N	N	D	_	_	_	_	_	_
+2(u)	2(u)[ten]	NU	NU	D	B-COUNT	_	26	cardinal	_	26
+6(disz)	6(disz)[one][-sze]	NU	NU	D	I-COUNT	*	*	*	*	*
+ba-ta-zal	_	V	MID.V.3-SG-S.SUB.L1	Iabcdefg	_	_	_	_	_	_
+mu-kux(DU)	mukur[delivery][-ø]	N	N	D	_	_	_	_	_	_
+{d}szul-gi-si2-im-tum	Szulgisi'imtum[1][-ra]	PN	PN.DAT-H	D	_	_	_	_	_	_
+a2-bi2-la-tum	_	PN	PN.GEN.DAT-H	Iabcdefg	_	_	_	_	_	_
+i3-dab5	i[-n]-dab[seize][-ø]	V	FIN.3-SG-H-A.V.3-SG-P	D	_	_	_	_	_	_
+iti	iti[month]	N	N	D	_	_	_	_	_	_
+masz-ku3-gu7	Maszkugu[1][-'a]	MN	MN.L1	D	_	_	_	_	_	_
+mu	mu[year]	N	N	D	_	_	_	_	_	_
+sza-asz-ru{ki}	Szaszru[1][-ø]	SN	SN.ABS	D	_	_	_	_	_	_
+ba-hul	ba-hulu[destroy][-ø]	V	MID.V.3-SG-S	D	_	_	_	_	_	_

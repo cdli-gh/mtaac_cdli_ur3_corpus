@@ -1,0 +1,17 @@
+#new_text=P340489					
+FORM	SEGM	XPOSTAG	XPOSTAG	POS	?	?	?	?	?	?
+gu3-de2-a	Gude'a[1][-ra]	PN	PN	D	_	_	_	_	_	_
+u3	u[and]	CNJ	CNJ	D	_	_	_	_	_	_
+ur-{d}kal-kal	_	PN	PN.DAT-H	Iab	_	_	_	_	_	_
+a-sza3	aszag[field]	N	N	D	_	_	_	_	_	_
+nig2-gal2-la	niggala[possessions]	N	N	D	_	_	_	_	_	_
+ki	ki[place]	N	N	D	_	_	_	_	_	_
+ne-ne	_	PN	PN	POS	_	_	_	_	_	_
+...	_[_]	PN	N	D	_	_	_	_	_	_
+...	_[_]	PN	N	D	_	_	_	_	_	_
+1(bur3)	1(bur)[unit]	NU	N	D	B-COUNT	m^2	64800.0	surface	gin2	108000
+GAN2	gana[field]	N	N	D	I-COUNT	*	*	*	*	*
+sza3	szag[heart]	N	N	D	_	_	_	_	_	_
+nigin6{ki}-ka	_	SN	SN.GEN.GEN.ABS	Iabcdefg	_	_	_	_	_	_
+szu-esz18-dar	Szu'eszdar[1][-ak]	PN	PN	D	_	_	_	_	_	_
+he2-na-ab-szum2-mu	ha-i-nn-a-b-szum[give]-e	V	MOD.FIN.3-SG-H.DAT.3-SG-NH-P.V.3-SG-A	D	_	_	_	_	_	_

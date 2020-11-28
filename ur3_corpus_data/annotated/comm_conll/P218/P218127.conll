@@ -1,0 +1,23 @@
+#new_text=P218127					
+FORM	SEGM	XPOSTAG	XPOSTAG	POS	?	?	?	?	?	?
+x	_[_]	N	N	D	_	_	_	_	_	_
+lu2	lu[person]	N	N	D	_	_	_	_	_	_
+x	_[_]	N	N	D	_	_	_	_	_	_
+sipa	sipa[shepherd]	N	N	D	_	_	_	_	_	_
+ansze	ansze[donkey]	N	N	D	_	_	_	_	_	_
+da-gal	_	N	N	POS	_	_	_	_	_	_
+2(asz)	2(asz)[one]	NU	NU	D	B-COUNT	_	2	cardinal	_	2
+lu2	lu[person]	N	N	D	_	_	_	_	_	_
+2(disz)	2(disz)[one]	NU	NU	D	B-COUNT	_	2	cardinal	_	2
+sag-ku5	Sagku[1][-ak][-ø]	PN	PN.GEN.ABS	D	_	_	_	_	_	_
+lu2	lu[person]	N	N	D	_	_	_	_	_	_
+zi-ga	zig[expend]-a	V	NF.V.PT	D	_	_	_	_	_	_
+3(asz)	3(asz)[one]	NU	NU	D	B-COUNT	_	3	cardinal	_	3
+lu2	lu[person]	N	N	D	_	_	_	_	_	_
+nibru{ki}	Nibru[1][-'a]	SN	SN.GEN.ABS	D	_	_	_	_	_	_
+ku3-NE	_	PN	PN	Ia	_	_	_	_	_	_
+2(asz)	2(asz)[one]	NU	NU	D	B-COUNT	_	2	cardinal	_	2
+szu12-szu12	_	PN	PN	Iabcde	_	_	_	_	_	_
+ensi2-ke4	ensik[ruler]-e	N	N.ERG	D	_	_	_	_	_	_
+szu	szu[hand][-e]	N	N.L3-NH	D	B-COM	_	_	_	_	_
+i3-ne-ba	_	V	V	POS	_	_	_	_	_	_

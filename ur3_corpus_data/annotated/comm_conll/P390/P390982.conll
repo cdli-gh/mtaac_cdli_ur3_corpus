@@ -1,0 +1,20 @@
+#new_text=P390982					
+FORM	SEGM	XPOSTAG	XPOSTAG	POS	?	?	?	?	?	?
+2(gesz'u)	2(gesz'u)[six_hundred]	NU	NU	D	B-COUNT	_	1740	cardinal	_	1740
+9(gesz2)	9(gesz)[sixty]	NU	NU	D	I-COUNT	*	*	*	*	*
+sa	sa[bundle]	N	N	D	_	_	_	_	_	_
+gi	gi[reed][-ø]	N	N	D	_	_	_	_	_	_
+gu-nigin2-ba	gunigin[bale]-bi-'a	N	N.3-SG-NH-POSS.L1	D	_	_	_	_	_	_
+...-sa-ta	_			POS	_	_	_	_	_	_
+ki	ki[place]	N	N	D	_	_	_	_	_	_
+...-mu-ta	_	PN	PN.GEN.ABL	Iab	_	_	_	_	_	_
+ga2-nun-na	_	DET	DET	POS	_	_	_	_	_	_
+ku4-ra	kur[enter]-a	V	NF.V.PT	D	_	_	_	_	_	_
+a-tu	Atu[1][-ak]	PN	PN	D	_	_	_	_	_	_
+szu	szu[hand][-e]	N	N.L3-NH	D	B-COM	_	_	_	_	_
+ba-ti	ba[-n]-teg[accept][-ø]	V	MID.3-SG-H-A.V.3-SG-P	D	_	_	_	_	_	_
+iti	iti[month]	N	N	D	_	_	_	_	_	_
+...	_[_]	PN	N	D	_	_	_	_	_	_
+mu	mu[year]	N	N	D	_	_	_	_	_	_
+ki-masz{ki}	Kimasz[1]	SN	SN.ABS	D	_	_	_	_	_	_
+ba-hul	ba-hulu[destroy][-ø]	V	MID.V.3-SG-S	D	_	_	_	_	_	_

@@ -1,0 +1,17 @@
+#new_text=P115277					
+FORM	SEGM	XPOSTAG	XPOSTAG	POS	B-COUNT	l	30	"dry	*	*
+3(ban2)	3(ban)[unit]	NU	N	D	I-COUNT	*	*	*	sila3	30
+dabin	dabin[semolina]	N	N	D	B-COM	_	_	_	_	_
+*RETOK*-capacity"	?	?	?	?	B-COUNT	l	65	"dry	*	*
+1(barig)	1(bariga)[unit]	NU	N	D	I-COUNT	*	*	*	sila3	65
+5(disz)	5(disz)[one]	NU	NU	D	I-COUNT	*	*	*	*	*
+sila3	sila[unit]	N	N	D	I-COUNT	*	*	*	*	*
+sze	sze[barley]	N	N	D	I-COUNT	*	*	*	*	*
+a-sza3	aszag[field]	N	N	D	_	_	_	_	_	_
+{d}nin-gir2-su-a2-zi-da-{d}nansze-ta	_	DN	DN.GEN.GEN.GEN.ABL	Iabcdefg	_	_	_	_	_	_
+GAN2	gana[field]	N	N	D	_	_	_	_	_	_
+e2-lu2-ti	_	PN	PN	Iabc	_	_	_	_	_	_
+...	_[_]	PN	N	D	_	_	_	_	_	_
+SZE3	_	PN	PN	POS	_	_	_	_	_	_
+iti	iti[month]	N	N	D	_	_	_	_	_	_
+szu-numun	Szunumun[1][-'a]	MN	MN.L1	D	_	_	_	_	_	_

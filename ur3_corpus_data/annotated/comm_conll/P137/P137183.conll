@@ -1,0 +1,25 @@
+#new_text=P137183					
+FORM	SEGM	XPOSTAG	XPOSTAG	POS	?	?	?	?	?	?
+1(disz)	1(disz)[one]	NU	NU	D	B-COUNT	m	3	length	gi	1
+gi	gi[reed][-ø]	N	N	D	I-COUNT	*	*	*	*	*
+ma2-gan{ki}	_	GN	GN.ABS	Iab	_	_	_	_	_	_
+gid2	gid[length]	V	N	D	B-COM	_	_	_	_	_
+7(disz)	7(disz)[one][-sze]	NU	NU	D	B-COUNT	_	none	unknown	_	none
+x	_[_]	N	N	D	I-COUNT	*	*	*	*	*
+4(disz)	4(disz)[one]	NU	NU	D	I-COUNT	*	*	*	*	*
+szu-sze3	_	PN	PN.GEN	Iabc	_	_	_	_	_	_
+1(disz)	1(disz)[one]	NU	NU	D	B-COUNT	m	3	length	gi	1
+gi	gi[reed][-ø]	N	N	D	I-COUNT	*	*	*	*	*
+ma2-gan{ki}	_	GN	GN.ABS	Iab	_	_	_	_	_	_
+gid2	gid[length]	V	N	D	B-COM	_	_	_	_	_
+...	_[_]	PN	N	D	_	_	_	_	_	_
+1(disz)	1(disz)[one]	NU	NU	D	B-COUNT	m	3	length	gi	1
+gi	gi[reed][-ø]	N	N	D	I-COUNT	*	*	*	*	*
+ma2-gan{ki}	_	GN	GN.ABS	Iab	_	_	_	_	_	_
+...	_[_]	PN	N	D	_	_	_	_	_	_
+...	_[_]	PN	N	D	_	_	_	_	_	_
+...	_[_]	PN	N	D	_	_	_	_	_	_
+mu	mu[year]	N	N	D	_	_	_	_	_	_
+x	_[_]	N	N	D	_	_	_	_	_	_
+x	_[_]	N	N	D	_	_	_	_	_	_
+x	_[_]	N	N	D	_	_	_	_	_	_

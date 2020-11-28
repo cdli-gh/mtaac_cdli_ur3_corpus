@@ -1,0 +1,22 @@
+#new_text=P113275					
+FORM	SEGM	XPOSTAG	XPOSTAG	POS	?	?	?	?	?	?
+3(barig)	3(bariga)[unit]	NU	N	D	B-COUNT	*	*	*	*	*
+sze	sze[barley]	N	N	D	I-COUNT	*	*	*	*	*
+x-x	_[_]	PN	N.2-SG-POSS.ABS	D	_	_	_	_	_	_
+sa10-a	_	V	NF.V.PT	Iabc	_	_	_	_	_	_
+x	_[_]	N	N	D	_	_	_	_	_	_
+kam-gibil-ta	_	V	V	POS	_	_	_	_	_	_
+ki	ki[place]	N	N	D	_	_	_	_	_	_
+ka-sa6-ta	_	PN	PN.GEN.ABL	Iabcdefgh	_	_	_	_	_	_
+kiszib3	kiszib[seal]	N	N	D	_	_	_	_	_	_
+lugal-ba-ra-e3(UD)	_	NU	NU	POS	_	_	_	_	_	_
+usz-mu	Uszmu[1]	PN	PN	D	_	_	_	_	_	_
+iti	iti[month]	N	N	D	_	_	_	_	_	_
+dal	Dal[1][-'a]	MN	MN.L1	D	B-COM	_	_	_	_	_
+mu	mu[year]	N	N	D	_	_	_	_	_	_
+us2-sa	us[follow]-a	V	NF.V.PT	D	_	_	_	_	_	_
+si-ma-num2{ki}	Simanum[1][-ø]	GN	SN.ABS	D	_	_	_	_	_	_
+ba-hul	ba-hulu[destroy][-ø]	V	MID.V.3-SG-S	D	_	_	_	_	_	_
+lugal-ba-ta-ab-e3	_	PN	PN	Iabcde	_	_	_	_	_	_
+dumu	dumu[child]	N	N	D	_	_	_	_	_	_
+i-di3-mu	_	PN	PN	Iabcde	_	_	_	_	_	_

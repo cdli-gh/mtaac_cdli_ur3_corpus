@@ -1,0 +1,14 @@
+#new_text=P337770					
+FORM	SEGM	XPOSTAG	XPOSTAG	POS	?	?	?	?	?	?
+2(gesz2)	2(gesz)[sixty]	NU	NU	D	B-COUNT	g	3600000.0000000005	weight	gin2	432000
+gu2	gun[unit]	N	N	D	I-COUNT	*	*	*	*	*
+{u2}tir	_	N	N.GEN	Iabcde	B-COM	_	_	_	_	_
+1(gesz2)	1(gesz)[sixty]	NU	NU	D	B-COUNT	g	1800000.0000000002	weight	gin2	216000
+gu2	gun[unit]	N	N	D	I-COUNT	*	*	*	*	*
+{u2}tir	_	N	N.GEN	Iabcde	_	_	_	_	_	_
+szu-sar	szusar[string][-ø]	N	N.ABS	D	_	_	_	_	_	_
+sza3	szag[heart]	N	N	D	_	_	_	_	_	_
+isin2{+si}{ki}	_	GN	GN	POS	_	_	_	_	_	_
+ki	ki[place]	N	N	D	B-COM	_	_	_	_	_
+{d}szara2-kam-ta	Szarakam[1][-ak]-ta	PN	PN.GEN.ABL	D	_	_	_	_	_	_
+mu-kux(DU)	mukur[delivery][-ø]	N	N	D	_	_	_	_	_	_

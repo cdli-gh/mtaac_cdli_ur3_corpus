@@ -1,0 +1,8 @@
+#new_text=P207056					
+FORM	SEGM	XPOSTAG	XPOSTAG	POS	?	?	?	?	?	?
+4(disz)	4(disz)[one]	NU	NU	D	B-COUNT	g	2000.0000000000002	weight	gin2	240
+ma-na	mana[unit]	N	N	D	I-COUNT	*	*	*	*	*
+siki	siki[wool][-'a]	N	N	D	B-COM	_	_	_	_	_
+ki	ki[place]	N	N	D	_	_	_	_	_	_
+lu2-{d}nin-gir2-su-ta	Luningirsu[1][-ak]-ta	PN	PN.GEN.ABL	D	_	_	_	_	_	_
+giri3-{d}nansze-i3-dab5	_	PN	PN	Ia	_	_	_	_	_	_

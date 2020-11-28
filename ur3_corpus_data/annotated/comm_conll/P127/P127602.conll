@@ -1,0 +1,14 @@
+#new_text=P127602					
+FORM	SEGM	XPOSTAG	XPOSTAG	POS	?	?	?	?	?	?
+4(gesz2)	4(gesz)[sixty]	NU	NU	D	B-COUNT	_	244	cardinal	_	244
+4(disz)	4(disz)[one]	NU	NU	D	I-COUNT	*	*	*	*	*
+al	al[hoeing]	N	N	D	B-COM	_	_	_	_	_
+KA-...	_	PN	PN	D	_	_	_	_	_	_
+gar-ra	_	V	V	POS	_	_	_	_	_	_
+ki	ki[place]	N	N	D	_	_	_	_	_	_
+lu2-{d}nin-gir2-su	Luningirsu[1]	PN	PN	D	_	_	_	_	_	_
+dumu	dumu[child]	N	N	D	_	_	_	_	_	_
+ba-zi-ta	_	PN	PN.GEN.DAT-H	Iabcdefg	_	_	_	_	_	_
+lu2-iri-sag-ki	_	N	N	POS	_	_	_	_	_	_
+...	_[_]	PN	N	D	_	_	_	_	_	_
+...	_[_]	PN	N	D	_	_	_	_	_	_

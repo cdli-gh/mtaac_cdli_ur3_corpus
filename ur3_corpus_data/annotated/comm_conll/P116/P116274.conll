@@ -1,0 +1,26 @@
+#new_text=P116274					
+FORM	SEGM	XPOSTAG	XPOSTAG	POS	B-COUNT	l	0.038240740740740735	"dry	*	*
+6(gesz2)	6(gesz)[sixty]	NU	NU	D	I-COUNT	*	*	*	sila3	0.038240740740740735
+5(u)	5(u)[ten]	NU	NU	D	I-COUNT	*	*	*	*	*
+3(asz)	3(asz)[one]	NU	NU	D	I-COUNT	*	*	*	*	*
+sze	sze[barley]	N	N	D	I-COUNT	*	*	*	*	*
+gur	gur[unit]	N	N	D	I-COUNT	*	*	*	*	*
+lugal	lugal[king]	N	N	D	_	_	_	_	_	_
+5(u)	5(u)[ten]	NU	NU	D	B-COUNT	_	58	cardinal	_	58
+8(asz)	8(asz)[one]	NU	NU	D	I-COUNT	*	*	*	*	*
+ziz2	ziz[emmer]	N	N	D	B-COM	_	_	_	_	_
+gur	gur[unit]	N	N	D	_	_	_	_	_	_
+lu2-{d}na-ru2-a	_	PN	PN	D	_	_	_	_	_	_
+engar	engar[farmer]	N	N	D	_	_	_	_	_	_
+GAN2-gu4	GANAgud[1][-ak]	N	FN.GEN	D	_	_	_	_	_	_
+lu2-{d}gir16-da	_	PN	PN	Iabcde	_	_	_	_	_	_
+sze	sze[barley]	N	N	D	_	_	_	_	_	_
+gesz	gesz[tree]	N	N	D	_	_	_	_	_	_
+e3-a	e[leave]-a	V	NF.V.PT	D	_	_	_	_	_	_
+a-sza3	aszag[field]	N	N	D	_	_	_	_	_	_
+sag-du3	_	FN	FN	POS	_	_	_	_	_	_
+ugula	ugula[overseer][-ø]	N	N	D	_	_	_	_	_	_
+lu2-lagasz{ki}	_	PN	PN	Iabcdefgh	_	_	_	_	_	_
+mu	mu[year]	N	N	D	_	_	_	_	_	_
+ki-masz{ki}	Kimasz[1]	SN	SN.ABS	D	_	_	_	_	_	_
+ba-hul	ba-hulu[destroy][-ø]	V	MID.V.3-SG-S	D	_	_	_	_	_	_

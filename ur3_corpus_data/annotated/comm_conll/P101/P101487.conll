@@ -1,0 +1,27 @@
+#new_text=P101487					
+FORM	SEGM	XPOSTAG	XPOSTAG	POS	?	?	?	?	?	?
+3(gesz2)	3(gesz)[sixty]	NU	NU	D	B-COUNT	bricks	1555200	bricks	gin2	129600
+sar	sar[unit]	N	N	D	I-COUNT	*	*	*	*	*
+{gesz}dih3	_	N	N	Ia	B-COM	_	_	_	_	_
+ku5-ra2	kud[cut]-a	V	NF.V.PT	D	_	_	_	_	_	_
+2(u)	2(u)[ten]	NU	NU	D	B-COUNT	_	20	cardinal	_	20
+sar-ta	sar[unit]-ta	PN	N.ABL	D	_	_	_	_	_	_
+a2-bi	a[labor]-bi	N	N.3-SG-NH-POSS.ABS	D	B-COM	_	_	_	_	_
+9(disz)	9(disz)[one]	NU	NU	D	B-COUNT	_	9	cardinal	_	9
+u4	ud[day]	N	N	D	_	_	_	_	_	_
+a-sza3	aszag[field]	N	N	D	_	_	_	_	_	_
+muru13	Muru[1]	FN	FN	D	_	_	_	_	_	_
+ugula	ugula[overseer][-ø]	N	N	D	_	_	_	_	_	_
+sa6-sa6	_	PN	PN	POS	_	_	_	_	_	_
+kiszib3	kiszib[seal]	N	N	D	_	_	_	_	_	_
+a-kal-la	Akala[1]	PN	PN	D	_	_	_	_	_	_
+iti	iti[month]	N	N	D	_	_	_	_	_	_
+e2-iti-6(disz)	E'iti6[1][-'a]	NU	MN.L1	D	_	_	_	_	_	_
+mu	mu[year]	N	N	D	_	_	_	_	_	_
+us2-sa	us[follow]-a	V	NF.V.PT	D	_	_	_	_	_	_
+ur-bi2-i3-lum{ki}	_	GN	GN	POS	_	_	_	_	_	_
+ba-hul	ba-hulu[destroy][-ø]	V	MID.V.3-SG-S	D	_	_	_	_	_	_
+a-kal-la	Akala[1]	PN	PN	D	_	_	_	_	_	_
+dub-sar	dubsar[scribe]	N	N	D	_	_	_	_	_	_
+dumu	dumu[child]	N	N	D	_	_	_	_	_	_
+...	_[_]	PN	N	D	_	_	_	_	_	_

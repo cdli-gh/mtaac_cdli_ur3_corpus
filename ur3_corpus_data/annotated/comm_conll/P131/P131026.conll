@@ -1,0 +1,25 @@
+#new_text=P131026					
+FORM	SEGM	XPOSTAG	XPOSTAG	POS	?	?	?	?	?	?
+1(disz)	1(disz)[one]	NU	NU	D	B-COUNT	_	1	cardinal	_	1
+{d}za-ba4-ba4	_	DN	DN	Iabcde	_	_	_	_	_	_
+siskur2	siszkur[offering]	N	N	D	_	_	_	_	_	_
+gal-me	_	V	NF.V.PT.COP-3-PL	Iabcdefg	_	_	_	_	_	_
+*RETOK*-capacity"	?	?	?	?	B-COUNT	l	3.5	"liquid	*	*
+*RETOK*-capacity"	?	?	?	?	I-COUNT	l	3.5	"dry	sila3	3.5
+3(disz)	3(disz)[one]	NU	NU	D	I-COUNT	*	*	*	sila3	3.5
+1/2(disz)	1/2(disz)[one]	NU	NU	D	I-COUNT	*	*	*	*	*
+sila3	sila[unit]	N	N	D	I-COUNT	*	*	*	*	*
+x-ni-x-x-a	_	PN	PN	Ia	_	_	_	_	_	_
+*RETOK*-capacity"	?	?	?	?	B-COUNT	l	4	"liquid	*	*
+*RETOK*-capacity"	?	?	?	?	I-COUNT	l	4	"dry	sila3	4
+3(disz)	3(disz)[one]	NU	NU	D	I-COUNT	*	*	*	sila3	4
+sila3	sila[unit]	N	N	D	I-COUNT	*	*	*	*	*
+1(disz)	1(disz)[one]	NU	NU	D	I-COUNT	*	*	*	*	*
+szesz	szesz[brother]	N	N	D	_	_	_	_	_	_
+im-me-e	_	V	V	POS	_	_	_	_	_	_
+8(disz)	8(disz)[one]	NU	NU	D	B-COUNT	_	8	cardinal	_	8
+u-tab	_	PN	PN	Iabcde	_	_	_	_	_	_
+x	_[_]	N	N	D	_	_	_	_	_	_
+me	_	N	N	POS	B-COM	_	_	_	_	_
+sze3	_	N	N.3-SG-H-POSS.TERM	Iabcdef	_	_	_	_	_	_
+x	_[_]	N	N	D	_	_	_	_	_	_

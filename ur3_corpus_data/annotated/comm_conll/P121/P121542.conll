@@ -1,0 +1,16 @@
+#new_text=P121542					
+FORM	SEGM	XPOSTAG	XPOSTAG	POS	B-COUNT	l	347	"dry	*	*
+1(asz)	1(asz)[one]	NU	NU	D	I-COUNT	*	*	*	sila3	347
+4(ban2)	4(ban)[unit]	NU	N	D	I-COUNT	*	*	*	*	*
+7(disz)	7(disz)[one][-sze]	NU	NU	D	I-COUNT	*	*	*	*	*
+sila3	sila[unit]	N	N	D	I-COUNT	*	*	*	*	*
+dabin	dabin[semolina]	N	N	D	B-COM	_	_	_	_	_
+gur	gur[unit]	N	N	D	_	_	_	_	_	_
+ki	ki[place]	N	N	D	_	_	_	_	_	_
+dingir-ma-an-szum2-ma-ta	_	PN	PN.GEN.ABL	Iabcdefgh	_	_	_	_	_	_
+ba-gi4	_	PN	PN	Iabcde	_	_	_	_	_	_
+szu	szu[hand][-e]	N	N.L3-NH	D	_	_	_	_	_	_
+ba-ti	ba[-n]-teg[accept][-ø]	V	MID.3-SG-H-A.V.3-SG-P	D	_	_	_	_	_	_
+ba-gi4	_	PN	PN	Iabcde	_	_	_	_	_	_
+dumu	dumu[child]	N	N	D	_	_	_	_	_	_
+ur-{d}x	_	PN	PN	Iabcdefgh	_	_	_	_	_	_

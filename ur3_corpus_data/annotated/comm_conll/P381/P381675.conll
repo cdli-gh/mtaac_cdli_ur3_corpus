@@ -1,0 +1,20 @@
+#new_text=P381675					
+FORM	SEGM	XPOSTAG	XPOSTAG	POS	B-COUNT	l	0.0016666666666666666	"dry	*	*
+1(u)	1(u)[ten]	NU	NU	D	I-COUNT	*	*	*	sila3	0.0016666666666666666
+8(asz)	8(asz)[one]	NU	NU	D	I-COUNT	*	*	*	*	*
+sze	sze[barley]	N	N	D	I-COUNT	*	*	*	*	*
+gur	gur[unit]	N	N	D	I-COUNT	*	*	*	*	*
+sze	sze[barley]	N	N	D	B-COM	_	_	_	_	_
+gub-ba	gub[assigned]-a[-ak][-ø]	V	NF.V.PT	D	_	_	_	_	_	_
+6(disz)	6(disz)[one][-sze]	NU	NU	D	B-COUNT	_	0.1	cardinal	_	0.1
+gin2	gig[unit]	N	N	D	I-COUNT	*	*	*	*	*
+ku3-babbar	kugbabbar[silver]	N	N	D	B-COM	_	_	_	_	_
+masz2	masz[goat]	N	N	D	_	_	_	_	_	_
+a-sza3-ga	aszag[field]-ak	N	N.GEN	D	_	_	_	_	_	_
+3(disz)	3(disz)[one]	NU	NU	D	B-COUNT	_	0.05	cardinal	_	0.05
+gin2	gig[unit]	N	N	D	I-COUNT	*	*	*	*	*
+udu	udu[sheep]	N	N	D	B-COM	_	_	_	_	_
+gur-ra	gur[unit]-ak	V	NF.V.PT	D	_	_	_	_	_	_
+nin-he2-gal2	_	PN	PN	Iabcde	_	_	_	_	_	_
+a-sza3	aszag[field]	N	N	D	_	_	_	_	_	_
+ga-ma-ar-da	_	FN	FN	POS	_	_	_	_	_	_

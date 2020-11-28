@@ -1,0 +1,18 @@
+#new_text=P209360					
+FORM	SEGM	XPOSTAG	XPOSTAG	POS	B-COUNT	l	15	"dry	*	*
+1(ban2)	1(ban)[unit]	NU	N	D	I-COUNT	*	*	*	sila3	15
+5(disz)	5(disz)[one]	NU	NU	D	I-COUNT	*	*	*	*	*
+sila3	sila[unit]	N	N	D	I-COUNT	*	*	*	*	*
+sze	sze[barley]	N	N	D	I-COUNT	*	*	*	*	*
+lugal	lugal[king]	N	N	D	_	_	_	_	_	_
+sze	sze[barley]	N	N	D	B-COM	_	_	_	_	_
+ansze	ansze[donkey]	N	N	D	_	_	_	_	_	_
+gu7	_	V	NF.V.PF.F.3-SG-H-POSS.L1	Iabcdefg	_	_	_	_	_	_
+ki	ki[place]	N	N	D	_	_	_	_	_	_
+ur-{d}hendur-sag-ta	_	PN	PN	Iabcdefgh	_	_	_	_	_	_
+en-ra-ba-ni	_	PN	PN	Iabc	_	_	_	_	_	_
+szu	szu[hand][-e]	N	N.L3-NH	D	_	_	_	_	_	_
+ba-ti	ba[-n]-teg[accept][-ø]	V	MID.3-SG-H-A.V.3-SG-P	D	_	_	_	_	_	_
+er3-ra-ba-ni	Erabani[1]	PN	PN	D	_	_	_	_	_	_
+ARAD2	arad[slave]	N	N	D	_	_	_	_	_	_
+{d}...	_[1][-'a]	MN	DN.GEN	D	_	_	_	_	_	_

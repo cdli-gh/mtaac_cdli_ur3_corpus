@@ -1,0 +1,25 @@
+#new_text=P127860					
+FORM	SEGM	XPOSTAG	XPOSTAG	POS	?	?	?	?	?	?
+1(szar2)	1(szar)[unit]	NU	N	D	B-COUNT	_	3600	cardinal	_	3600
+sa	sa[bundle]	N	N	D	_	_	_	_	_	_
+gi	gi[reed][-ø]	N	N	D	_	_	_	_	_	_
+gu-nigin2-ba	gunigin[bale]-bi-'a	N	N.3-SG-NH-POSS.L1	D	_	_	_	_	_	_
+1(u)	1(u)[ten]	NU	NU	D	B-COUNT	_	15	cardinal	_	15
+5(disz)-ta	_	NU	NU.ABL	Iab	I-COUNT	*	*	*	*	*
+ga2-nun	_	N	N	D	_	_	_	_	_	_
+en-du8-du-ta	_	PN	PN.GEN.ABL	Iabcdef	_	_	_	_	_	_
+e2-te-na-sze3	_	N	N	POS	_	_	_	_	_	_
+na-na-zi-zi	_	PN	PN	Iabcdefgh	_	_	_	_	_	_
+kiszib3-a-ni	_	N	N.ABS	Iabcdef	B-COM	_	_	_	_	_
+mu-da-gal2	_	V	V	POS	_	_	_	_	_	_
+gurusz	gurusz[male]	N	N	D	_	_	_	_	_	_
+ma2	ma[ship]	N	N	D	_	_	_	_	_	_
+gid2-bi	gid[length]-bi[-ø]	N	N.3-SG-NH-POSS.ABS	D	_	_	_	_	_	_
+1(u)-am3	1(u)[ten][-ø]-am	NU	NU.ABS.COP-3-SG	D	B-COUNT	_	10	cardinal	_	10
+u4	ud[day]	N	N	D	_	_	_	_	_	_
+1(u)	1(u)[ten]	NU	NU	D	B-COUNT	_	18	cardinal	_	18
+8(disz)-sze3	8(disz)[one]-sze	NU	NU.TERM	D	I-COUNT	*	*	*	*	*
+he2-na-ab-zi-zi	_	V	MOD.L1-SYN.V.ABS	Iabcdefg	_	_	_	_	_	_
+mu	mu[year]	N	N	D	_	_	_	_	_	_
+ha-ar-szi{ki}	Harszi[1]	SN	SN	D	_	_	_	_	_	_
+ba-hul	ba-hulu[destroy][-ø]	V	MID.V.3-SG-S	D	_	_	_	_	_	_

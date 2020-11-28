@@ -1,0 +1,19 @@
+#new_text=P340225					
+FORM	SEGM	XPOSTAG	XPOSTAG	POS	?	?	?	?	?	?
+1(disz)	1(disz)[one]	NU	NU	D	B-COUNT	_	1	cardinal	_	1
+du-u2-du	_	PN	PN.GEN.ABS	Iab	_	_	_	_	_	_
+...	_[_]	PN	N	D	_	_	_	_	_	_
+diri-ta	_	V	V	POS	_	_	_	_	_	_
+dumu	dumu[child]	N	N	D	_	_	_	_	_	_
+{d}nin-mar{ki}-ka	_	PN	DN.GEN.ABS	D	_	_	_	_	_	_
+ba-usz2	ba-ug[die][-esz]	V	MID.V.PL.3-PL-S	D	B-COM	_	_	_	_	_
+inim	inim[word]	N	N	D	_	_	_	_	_	_
+igi-a-a	_	N	N	POS	_	_	_	_	_	_
+ba-usz2-sze3	_	V	MID.V.3-SG-S.TERM	Iabcdef	_	_	_	_	_	_
+e2	e[house]	N	N	D	_	_	_	_	_	_
+ur-{d}utu	Urutu[1]	PN	PN	D	_	_	_	_	_	_
+mu	mu[year]	N	N	D	_	_	_	_	_	_
+na-ru2-a-mah	naruamah[magnificent_stele][-ø]	PN	N.ABS	D	_	_	_	_	_	_
+{d}en-lil2-la2	Enlil[1][-ak][-ø]	DN	DN.GEN	D	_	_	_	_	_	_
+{d}nin-lil2-la2	Ninlil[1][-ak][-ø]	DN	DN.GEN.ABS	D	_	_	_	_	_	_
+ba-du3	ba-du[build][-ø]	V	MID.V.3-SG-S	D	_	_	_	_	_	_

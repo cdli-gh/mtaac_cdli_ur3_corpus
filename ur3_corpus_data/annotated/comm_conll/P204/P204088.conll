@@ -1,0 +1,21 @@
+#new_text=P204088					
+FORM	SEGM	XPOSTAG	XPOSTAG	POS	?	?	?	?	?	?
+pisan-dub-ba	bisagdubak[filing_basket]	N	N	D	_	_	_	_	_	_
+mu	mu[year]	N	N	D	_	_	_	_	_	_
+2(asz)	2(asz)[one]	NU	NU	D	B-COUNT	_	2	cardinal	_	2
+sze-gesz-i3	szegeszi[sesame_seed]	PN	N	D	_	_	_	_	_	_
+geme2	geme[female_worker]	N	N	D	_	_	_	_	_	_
+usz-bar	uszbar[weaver][-ak]	N	N	D	B-COM	_	_	_	_	_
+lu2	lu[person]	N	N	D	_	_	_	_	_	_
+azlag	_	N	N	POS	_	_	_	_	_	_
+lu2	lu[person]	N	N	D	_	_	_	_	_	_
+azlag	_	N	N	POS	_	_	_	_	_	_
+u3	u[and]	CNJ	CNJ	D	_	_	_	_	_	_
+giri3-se3-ga	girsiga[attendant]	N	N	D	_	_	_	_	_	_
+e2	e[house]	N	N	D	_	_	_	_	_	_
+usz-bar	uszbar[weaver][-ak]	N	N	D	_	_	_	_	_	_
+i3-gal2	i[-ni]-gal[be][-ø]	V	FIN.L1.V.3-SG-S	D	_	_	_	_	_	_
+...{ki}	_[1][-ø]	SN	SN.ABS	D	_	_	_	_	_	_
+mu	mu[year]	N	N	D	_	_	_	_	_	_
+{d}amar-{d}suen	Amarsuen[1]	RN	RN	D	_	_	_	_	_	_
+lugal	lugal[king]	N	N	D	_	_	_	_	_	_

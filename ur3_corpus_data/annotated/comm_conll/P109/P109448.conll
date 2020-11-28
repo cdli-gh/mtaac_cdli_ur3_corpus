@@ -1,0 +1,24 @@
+#new_text=P109448					
+FORM	SEGM	XPOSTAG	XPOSTAG	POS	?	?	?	?	?	?
+6(disz)	6(disz)[one][-sze]	NU	NU	D	B-COUNT	_	6	cardinal	_	6
+gurusz	gurusz[male]	N	N	D	B-COM	_	_	_	_	_
+u4	ud[day]	N	N	D	_	_	_	_	_	_
+6(disz)-sze3	6(disz)[one]-sze	NU	NU.TERM	D	B-COUNT	_	6	cardinal	_	6
+du6-ku3-sig17-ta	Dukusig[1][-ak]-ta	PN	FN.GEN.ABL	D	_	_	_	_	_	_
+kun-zi-da	kunzida[weir]	N	N	D	_	_	_	_	_	_
+masz-kan2{ki}-sze3	_	SN	SN.GEN.GEN.TERM	Iabcdefg	_	_	_	_	_	_
+ma2-la2-a	_	N	N	POS	_	_	_	_	_	_
+gid2-da	gid[lengthen]-a[-ø]	V	NF.V.PT	D	_	_	_	_	_	_
+ugula	ugula[overseer][-ø]	N	N	D	_	_	_	_	_	_
+ARAD2-mu	Aradmu[1]	PN	PN	D	_	_	_	_	_	_
+kiszib3	kiszib[seal]	N	N	D	_	_	_	_	_	_
+ukken-ne2	_	PN	PN	POS	_	_	_	_	_	_
+mu	mu[year]	N	N	D	_	_	_	_	_	_
+us2-sa	us[follow]-a	V	NF.V.PT	D	_	_	_	_	_	_
+ha-ar-szi{ki}	Harszi[1]	SN	SN	D	_	_	_	_	_	_
+ki-masz{ki}	Kimasz[1]	SN	SN.ABS	D	_	_	_	_	_	_
+ba-hul	ba-hulu[destroy][-ø]	V	MID.V.3-SG-S	D	_	_	_	_	_	_
+lugal-ukken-ne2	Lugalukkene[1][-ø]	PN	PN.DAT-H	D	_	_	_	_	_	_
+dub-sar	dubsar[scribe]	N	N	D	_	_	_	_	_	_
+dumu	dumu[child]	N	N	D	_	_	_	_	_	_
+du-du-am3	_	PN	PN.GEN.COP-3-SG	Iabcdef	_	_	_	_	_	_

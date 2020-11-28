@@ -1,0 +1,22 @@
+#new_text=P140711					
+FORM	SEGM	XPOSTAG	XPOSTAG	POS	?	?	?	?	?	?
+4(disz)	4(disz)[one]	NU	NU	D	B-COUNT	_	4	cardinal	_	4
+{gi}gur-dub	gurdub[basket_type]	N	N	D	B-COM	_	_	_	_	_
+DUB	_	V	V	POS	_	_	_	_	_	_
+*RETOK*-capacity"	?	?	?	?	B-COUNT	l	60	"dry	*	*
+1(barig)-ta	bariga[unit]-ta	NU	N.ABL	D	I-COUNT	*	*	*	sila3	60
+a-e3-a	_	PN	PN	Iabcde	_	_	_	_	_	_
+ka-ma-ri2{ki}-sze3	_	SN	SN	POS	_	_	_	_	_	_
+nig2-dag	_	N	N	Ia	_	_	_	_	_	_
+ba-an-gar	_	V	MID.L1-SYN.V.3-SG-S	Iabcdefg	_	_	_	_	_	_
+kiszib3	kiszib[seal]	N	N	D	_	_	_	_	_	_
+lu2-du10-ga	Luduga[1]	PN	PN	D	_	_	_	_	_	_
+inim	inim[word]	N	N	D	_	_	_	_	_	_
+ensi2-ta	ensik[ruler][-ak]-ta	N	N.GEN.ABL	D	_	_	_	_	_	_
+mu	mu[year]	N	N	D	_	_	_	_	_	_
+{d}szu-{d}suen	Szusuen[1]	RN	RN	D	_	_	_	_	_	_
+lugal	lugal[king]	N	N	D	_	_	_	_	_	_
+lu2-du10-ga	Luduga[1]	PN	PN	D	_	_	_	_	_	_
+dub-sar	dubsar[scribe]	N	N	D	_	_	_	_	_	_
+dumu	dumu[child]	N	N	D	_	_	_	_	_	_
+lugal-{gesz}kiri6	Lugalkiri[1]	PN	PN	D	B-COM	_	_	_	_	_

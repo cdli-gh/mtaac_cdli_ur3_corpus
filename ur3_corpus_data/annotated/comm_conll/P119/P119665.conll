@@ -1,0 +1,24 @@
+#new_text=P119665					
+FORM	SEGM	XPOSTAG	XPOSTAG	POS	?	?	?	?	?	?
+4(u)	4(u)[ten]	NU	NU	D	B-COUNT	_	44	cardinal	_	44
+4(disz)	4(disz)[one]	NU	NU	D	I-COUNT	*	*	*	*	*
+gu4	gud[ox]	N	N	D	B-COM	_	_	_	_	_
+apin	apin[plow]	N	N	D	_	_	_	_	_	_
+a-sza3	aszag[field]	N	N	D	_	_	_	_	_	_
+e2-gibil4-le	_	FN	FN.ABL	Iabcdefgh	_	_	_	_	_	_
+1(u)	1(u)[ten]	NU	NU	D	B-COUNT	_	12	cardinal	_	12
+2(disz)	2(disz)[one]	NU	NU	D	I-COUNT	*	*	*	*	*
+a-sza3	aszag[field]	N	N	D	_	_	_	_	_	_
+tir-gaba-gid2-da	_	N	N	POS	_	_	_	_	_	_
+6(disz)	6(disz)[one][-sze]	NU	NU	D	B-COUNT	_	6	cardinal	_	6
+a-sza3	aszag[field]	N	N	D	_	_	_	_	_	_
+tir	tir[forester][-ak]	N	N.GEN	D	_	_	_	_	_	_
+ma-nu	manu[wood_type]	FN	N	D	B-COM	_	_	_	_	_
+6(disz)	6(disz)[one][-sze]	NU	NU	D	B-COUNT	_	6	cardinal	_	6
+a-sza3	aszag[field]	N	N	D	_	_	_	_	_	_
+iri-ni	_	FN	N.3-SG-H-POSS.ERG	D	_	_	_	_	_	_
+1(gesz2)	1(gesz)[sixty]	NU	NU	D	B-COUNT	_	68	cardinal	_	68
+8(disz)	8(disz)[one]	NU	NU	D	I-COUNT	*	*	*	*	*
+gu4	gud[ox]	N	N	D	B-COM	_	_	_	_	_
+apin	apin[plow]	N	N	D	_	_	_	_	_	_
+aga3-us2-me	_	N	N	POS	_	_	_	_	_	_

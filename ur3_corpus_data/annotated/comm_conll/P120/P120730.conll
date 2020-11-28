@@ -1,0 +1,10 @@
+#new_text=P120730					
+FORM	SEGM	XPOSTAG	XPOSTAG	POS	?	?	?	?	?	?
+1(gesz2)	1(gesz)[sixty]	NU	NU	D	B-COUNT	*	*	*	*	*
+9(asz)	9(asz)[one]	NU	NU	D	I-COUNT	*	*	*	*	*
+3(barig)	3(bariga)[unit]	NU	N	D	I-COUNT	*	*	*	*	*
+sze	sze[barley]	N	N	D	I-COUNT	*	*	*	*	*
+gur	gur[unit]	N	N	D	I-COUNT	*	*	*	*	*
+e2	e[house]	N	N	D	_	_	_	_	_	_
+{d}tuku-HAR	_	DN	DN	Iabcdefgh	_	_	_	_	_	_
+si-ig-ga	_	V	V	POS	_	_	_	_	_	_

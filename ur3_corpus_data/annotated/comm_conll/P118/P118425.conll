@@ -1,0 +1,16 @@
+#new_text=P118425					
+FORM	SEGM	XPOSTAG	XPOSTAG	POS	?	?	?	?	?	?
+2(gesz2)	2(gesz)[sixty]	NU	NU	D	B-COUNT	bricks	1036800	bricks	gin2	86400
+sar	sar[unit]	N	N	D	I-COUNT	*	*	*	*	*
+sig4	szeg[brick]	N	N	D	_	_	_	_	_	_
+...-al-x	_			POS	_	_	_	_	_	_
+mu	mu[year]	N	N	D	_	_	_	_	_	_
+lugal-bi	_	N	N	POS	B-COM	_	_	_	_	_
+pa3	_	V	FIN.3-SG-H-A.V.3-SG-P	Iab	_	_	_	_	_	_
+lugal-nam-tar-re	_	FN	FN	POS	_	_	_	_	_	_
+x-x	_[_]	PN	N.2-SG-POSS.ABS	D	_	_	_	_	_	_
+1(disz)	1(disz)[one]	NU	NU	D	B-COUNT	_	1	cardinal	_	1
+ur-{d}nin-szubur	_	PN	PN	Iabcde	_	_	_	_	_	_
+1(disz)	1(disz)[one]	NU	NU	D	B-COUNT	_	1	cardinal	_	1
+lu2-sa6-ga	_	PN	PN	Iabcde	_	_	_	_	_	_
+lu2-inim-ma-bi-me	lu'inimak[witness]-bi[-ø]-mesz	N	N.3-SG-NH-POSS.ABS.COP-3-PL	D	_	_	_	_	_	_

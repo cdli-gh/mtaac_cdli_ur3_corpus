@@ -1,0 +1,23 @@
+#new_text=P205844					
+FORM	SEGM	XPOSTAG	XPOSTAG	POS	?	?	?	?	?	?
+2(gesz'u)	2(gesz'u)[six_hundred]	NU	NU	D	B-COUNT	_	1340	cardinal	_	1340
+2(gesz2)	2(gesz)[sixty]	NU	NU	D	I-COUNT	*	*	*	*	*
+2(u)	2(u)[ten]	NU	NU	D	I-COUNT	*	*	*	*	*
+ad6	_	N	N	POS	_	_	_	_	_	_
+udu	udu[sheep]	N	N	D	B-COM	_	_	_	_	_
+1(gesz'u)	1(gesz'u)[six_hundred]	NU	NU	D	B-COUNT	_	700	cardinal	_	700
+1(gesz2)	1(gesz)[sixty]	NU	NU	D	I-COUNT	*	*	*	*	*
+4(u)	4(u)[ten]	NU	NU	D	I-COUNT	*	*	*	*	*
+ad6	_	N	N	POS	_	_	_	_	_	_
+sila4	sila[lamb]	N	N	D	B-COM	_	_	_	_	_
+ad6	_	N	N	POS	_	_	_	_	_	_
+al-zi-ra	zir[break]-a	V	NF.V.PT	D	_	_	_	_	_	_
+KU-gesz-bil3	_	PN	PN.GEN	Iabcdefgh	_	_	_	_	_	_
+kiszib3	kiszib[seal]	N	N	D	_	_	_	_	_	_
+sza3-tam	_	N	N.ABS	D	_	_	_	_	_	_
+bi-NE-bi	_	V	V	POS	_	_	_	_	_	_
+nig2-u2-rum-e	_	N	N	POS	_	_	_	_	_	_
+tum3-dam	_	V	V	POS	_	_	_	_	_	_
+mu	mu[year]	N	N	D	_	_	_	_	_	_
+{d}i-bi2-{d}suen	Ibbisuen[1]	RN	RN	D	_	_	_	_	_	_
+lugal	lugal[king]	N	N	D	_	_	_	_	_	_

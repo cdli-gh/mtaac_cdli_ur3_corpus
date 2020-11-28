@@ -1,0 +1,22 @@
+#new_text=P139912					
+FORM	SEGM	XPOSTAG	XPOSTAG	POS	B-COUNT	l	360	"liquid	*	*
+1(u)	1(u)[ten]	NU	NU	D	I-COUNT	*	*	*	sila3	360
+2(disz)	2(disz)[one]	NU	NU	D	I-COUNT	*	*	*	*	*
+dug	dug[pot]	N	N	D	I-COUNT	*	*	*	*	*
+kab2-du11-ga	kabdug[check]-a	V	NF.V.PT	D	_	_	_	_	_	_
+kusz-bi	_	N	N.3-SG-NH-POSS.ABS	Iabcde	B-COM	_	_	_	_	_
+3(disz)-am3	3(disz)[one][-ø]-am	NU	NU.ABS.COP-3-SG	D	B-COUNT	_	3	cardinal	_	3
+giri3	giri[foot]	N	N	D	_	_	_	_	_	_
+ku3-{d}nin-ur4-ra	Kugninura[1][-e]	PN	PN	D	_	_	_	_	_	_
+ki	ki[place]	N	N	D	B-COM	_	_	_	_	_
+a-kal-la-ta	Akala[1][-ak]-ta	PN	PN.GEN.ABL	D	_	_	_	_	_	_
+kiszib3	kiszib[seal]	N	N	D	_	_	_	_	_	_
+lu2-kal-la	Lukala[1][-ra]	PN	PN.GEN	D	_	_	_	_	_	_
+mu	mu[year]	N	N	D	_	_	_	_	_	_
+{d}szu-{d}suen	Szusuen[1]	RN	RN	D	_	_	_	_	_	_
+lugal	lugal[king]	N	N	D	_	_	_	_	_	_
+lu2-kal-la	Lukala[1][-ra]	PN	PN.GEN	D	_	_	_	_	_	_
+dub-sar	dubsar[scribe]	N	N	D	_	_	_	_	_	_
+dumu	dumu[child]	N	N	D	_	_	_	_	_	_
+ur-e11-e	Ure'e[1][-ak]	PN	PN	D	_	_	_	_	_	_
+szusz3	kusz[cattle_manager][-ak]	N	N.GEN	D	_	_	_	_	_	_

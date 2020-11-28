@@ -1,0 +1,13 @@
+#new_text=P113928					
+FORM	SEGM	XPOSTAG	XPOSTAG	POS	?	?	?	?	?	?
+ha-ti	_	PN	PN	Iabcde	_	_	_	_	_	_
+5(disz)	5(disz)[one]	NU	NU	D	B-COUNT	_	5	cardinal	_	5
+gu-na	_	PN	PN	POS	B-COM	_	_	_	_	_
+1(u)	1(u)[ten]	NU	NU	D	B-COUNT	_	12	cardinal	_	12
+2(disz)	2(disz)[one]	NU	NU	D	I-COUNT	*	*	*	*	*
+inim-ma-ni-zi	Inimanizi[1]	PN	PN	D	_	_	_	_	_	_
+1(disz)	1(disz)[one]	NU	NU	D	B-COUNT	_	1	cardinal	_	1
+ur-e2-mah-e	_	PN	PN	Iabcde	_	_	_	_	_	_
+2(disz)	2(disz)[one]	NU	NU	D	B-COUNT	_	2	cardinal	_	2
+ur-zabala6{ki}	_	PN	PN.GEN	Iabcde	_	_	_	_	_	_
+...	_[_]	PN	N	D	_	_	_	_	_	_

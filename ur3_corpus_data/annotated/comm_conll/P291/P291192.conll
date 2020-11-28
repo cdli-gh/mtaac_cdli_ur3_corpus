@@ -1,0 +1,22 @@
+#new_text=P291192					
+FORM	SEGM	XPOSTAG	XPOSTAG	POS	?	?	?	?	?	?
+2(gesz2)	2(gesz)[sixty]	NU	NU	D	B-COUNT	_	150	cardinal	_	150
+3(u)	3(u)[ten]	NU	NU	D	I-COUNT	*	*	*	*	*
+nigin2	nigin[bundle]	N	N	D	_	_	_	_	_	_
+szum2	szum[garlic]	N	N	D	B-COM	_	_	_	_	_
+gaz	gaz[type_of_garlic][-ak]	N	N	D	_	_	_	_	_	_
+*RETOK*-capacity"	?	?	?	?	B-COUNT	l	60	"dry	*	*
+1(barig)	1(bariga)[unit]	NU	N	D	I-COUNT	*	*	*	sila3	60
+igi-sag	igisag[choose][-a]	N	NF.V.PT	D	_	_	_	_	_	_
+szum2	szum[garlic]	N	N	D	B-COM	_	_	_	_	_
+ki	ki[place]	N	N	D	_	_	_	_	_	_
+lugal-nig2-lagar-e-ta	Lugalniglagare[1][-ak]-ta	PN	PN.GEN.ABL	D	_	_	_	_	_	_
+kiszib3	kiszib[seal]	N	N	D	_	_	_	_	_	_
+gur4-za-an	_	PN	PN	POS	_	_	_	_	_	_
+mu	mu[year]	N	N	D	_	_	_	_	_	_
+sza-asz-szu2-ru-um{ki}	Szaszszurum[1][-ø]	SN	SN.ABS	D	_	_	_	_	_	_
+ba-hul	ba-hulu[destroy][-ø]	V	MID.V.3-SG-S	D	_	_	_	_	_	_
+gur8-za-an	_	PN	PN	POS	_	_	_	_	_	_
+muhaldim	_	N	N	D	_	_	_	_	_	_
+dumu	dumu[child]	N	N	D	_	_	_	_	_	_
+du-la-bi	_	PN	PN	Iabcdefgh	_	_	_	_	_	_

@@ -1,0 +1,11 @@
+#new_text=P100914					
+FORM	SEGM	XPOSTAG	XPOSTAG	POS	B-COUNT	l	8	"liquid	*	*
+*RETOK*-capacity"	?	?	?	?	I-COUNT	l	8	"dry	sila3	8
+8(disz)	8(disz)[one]	NU	NU	D	I-COUNT	*	*	*	sila3	8
+sila3	sila[unit]	N	N	D	I-COUNT	*	*	*	*	*
+kasz	kasz[beer]	N	N	D	B-COM	_	_	_	_	_
+bu3-u2-ka	_	PN	PN.GEN.GEN	Iabcdef	_	_	_	_	_	_
+nibru{ki}-ta	Nibru[1]-ta	SN	SN.ABL	D	_	_	_	_	_	_
+gen-na	gen[go]-a	V	NF.V.PT	D	_	_	_	_	_	_
+iti	iti[month]	N	N	D	_	_	_	_	_	_
+amar-a-a-si	Amarayasi[1][-'a]	MN	MN.L1	D	_	_	_	_	_	_

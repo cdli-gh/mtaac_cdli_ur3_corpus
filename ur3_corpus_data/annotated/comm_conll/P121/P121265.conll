@@ -1,0 +1,20 @@
+#new_text=P121265					
+FORM	SEGM	XPOSTAG	XPOSTAG	POS	?	?	?	?	?	?
+1(disz)	1(disz)[one]	NU	NU	D	B-COUNT	_	1	cardinal	_	1
+er-szum	_	PN	PN	Iabcde	_	_	_	_	_	_
+1(disz)	1(disz)[one]	NU	NU	D	B-COUNT	_	1	cardinal	_	1
+puzur4-zu	_	PN	PN	Ia	_	_	_	_	_	_
+1(disz)	1(disz)[one]	NU	NU	D	B-COUNT	_	1	cardinal	_	1
+i-hi-lum	_	PN	PN	Ia	_	_	_	_	_	_
+1(disz)	1(disz)[one]	NU	NU	D	B-COUNT	_	1	cardinal	_	1
+e-la-ni	_	V	V	POS	_	_	_	_	_	_
+1(disz)	1(disz)[one]	NU	NU	D	B-COUNT	_	1	cardinal	_	1
+szu-hu-bu-ur	_	PN	PN	Iabcde	_	_	_	_	_	_
+1(disz)	1(disz)[one]	NU	NU	D	B-COUNT	_	1	cardinal	_	1
+en-ne-nu-um	_	PN	PN.	Iabc	_	_	_	_	_	_
+dumu	dumu[child]	N	N	D	_	_	_	_	_	_
+se-lu-lu	_	PN	PN	POS	_	_	_	_	_	_
+1(disz)	1(disz)[one]	NU	NU	D	B-COUNT	_	1	cardinal	_	1
+esz18-dar-la-ba	_	PN	PN.DAT-H	Iabcdefgh	_	_	_	_	_	_
+dumu	dumu[child]	N	N	D	_	_	_	_	_	_
+puzur4-a-szur6	_	PN	PN.DAT-H	Iabcdefgh	_	_	_	_	_	_

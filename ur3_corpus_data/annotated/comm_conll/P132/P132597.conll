@@ -1,0 +1,23 @@
+#new_text=P132597					
+FORM	SEGM	XPOSTAG	XPOSTAG	POS	?	?	?	?	?	?
+1(u)	1(u)[ten]	NU	NU	D	B-COUNT	g	6166.666666666667	weight	gin2	740.0
+2(disz)	2(disz)[one]	NU	NU	D	I-COUNT	*	*	*	*	*
+1/3(disz)	1/3(disz)[one]	NU	NU	D	I-COUNT	*	*	*	*	*
+ma-na	mana[unit]	N	N	D	I-COUNT	*	*	*	*	*
+siki	siki[wool][-'a]	N	N	D	B-COM	_	_	_	_	_
+mug	mug[inferior_wool]	N	N	D	_	_	_	_	_	_
+ki	ki[place]	N	N	D	_	_	_	_	_	_
+sukkal-di-de3-ta	_	PN	PN.GEN.ABL	Iabcdefgh	_	_	_	_	_	_
+2(u)	2(u)[ten]	NU	NU	D	B-COUNT	g	12000.0	weight	gin2	1440
+4(disz)	4(disz)[one]	NU	NU	D	I-COUNT	*	*	*	*	*
+ma-na	mana[unit]	N	N	D	I-COUNT	*	*	*	*	*
+ki	ki[place]	N	N	D	B-COM	_	_	_	_	_
+du11-ga-zi-da-ta	_	PN	PN.GEN.ABL	Iab	_	_	_	_	_	_
+3(u)	3(u)[ten]	NU	NU	D	B-COUNT	g	18166.666666666668	weight	gin2	2180.0
+6(disz)	6(disz)[one][-sze]	NU	NU	D	I-COUNT	*	*	*	*	*
+1/3(disz)	1/3(disz)[one]	NU	NU	D	I-COUNT	*	*	*	*	*
+ma-na	mana[unit]	N	N	D	I-COUNT	*	*	*	*	*
+siki	siki[wool][-'a]	N	N	D	B-COM	_	_	_	_	_
+mug	mug[inferior_wool]	N	N	D	_	_	_	_	_	_
+e2-usz-bar	_	N	N.TERM	Iabcdefgh	_	_	_	_	_	_
+ki-nu-nir{ki}-ta	_	SN	SN.GEN.GEN.ABL	Iabcdefg	_	_	_	_	_	_

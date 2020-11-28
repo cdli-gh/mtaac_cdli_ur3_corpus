@@ -1,0 +1,14 @@
+#new_text=P145390					
+FORM	SEGM	XPOSTAG	XPOSTAG	POS	B-COUNT	l	3280	"dry	*	*
+1(u)	1(u)[ten]	NU	NU	D	I-COUNT	*	*	*	sila3	3280
+4(barig)	4(bariga)[unit]	NU	N	D	I-COUNT	*	*	*	*	*
+4(ban2)	4(ban)[unit]	NU	N	D	I-COUNT	*	*	*	*	*
+dabin	dabin[semolina]	N	N	D	B-COM	_	_	_	_	_
+gur	gur[unit]	N	N	D	_	_	_	_	_	_
+lugal	lugal[king]	N	N	D	_	_	_	_	_	_
+ki	ki[place]	N	N	D	_	_	_	_	_	_
+lugal-{gesz}gigir-re-ta	_	PN	PN.GEN.ABL	Iabcdefg	_	_	_	_	_	_
+sag-nig2-gar-ra-ka	_	PN	PN.GEN.ABL	Iabcdefgh	_	_	_	_	_	_
+ga6-dam	_	V	NF.V.PT.ABS.COP-3-SG	Iabcdef	_	_	_	_	_	_
+zi-ga	zig[expend]-a	V	NF.V.PT	D	_	_	_	_	_	_
+dah-he-dam	_	PN	PN.GEN.COP-3-SG	Iabcdef	_	_	_	_	_	_

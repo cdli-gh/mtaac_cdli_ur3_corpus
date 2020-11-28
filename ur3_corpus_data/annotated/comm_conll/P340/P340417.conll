@@ -1,0 +1,15 @@
+#new_text=P340417					
+FORM	SEGM	XPOSTAG	XPOSTAG	POS	B-COUNT	l	180	"dry	*	*
+3(barig)	3(bariga)[unit]	NU	N	D	I-COUNT	*	*	*	sila3	180
+sze-ba	szeba[ration]	N	N	D	B-COM	_	_	_	_	_
+lugal	lugal[king]	N	N	D	_	_	_	_	_	_
+dumu	dumu[child]	N	N	D	_	_	_	_	_	_
+ur-{d}gilgamesx(|BIL3.GA.MES|)	Urgilgamesx[1][-ra]	PN	PN.DAT-H	D	_	_	_	_	_	_
+bahar3	bahar[potter]	N	N	D	_	_	_	_	_	_
+*RETOK*-capacity"	?	?	?	?	B-COUNT	l	150	"dry	*	*
+2(barig)	2(bariga)[unit]	NU	N	D	I-COUNT	*	*	*	sila3	150
+3(ban2)	3(ban)[unit]	NU	N	D	I-COUNT	*	*	*	*	*
+lugal-mu-ma-ag2	Lugalmumag[1][-ø]	PN	PN.ABS	D	_	_	_	_	_	_
+*RETOK*-capacity"	?	?	?	?	B-COUNT	l	60	"dry	*	*
+1(barig)	1(bariga)[unit]	NU	N	D	I-COUNT	*	*	*	sila3	60
+ur-ab-ba	Urabba[1][-ak]	PN	PN.GEN	D	_	_	_	_	_	_

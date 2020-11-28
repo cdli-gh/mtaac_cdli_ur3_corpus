@@ -1,0 +1,12 @@
+#new_text=P137515					
+FORM	SEGM	XPOSTAG	XPOSTAG	POS	?	?	?	?	?	?
+3(asz)	3(asz)[one]	NU	NU	D	B-COUNT	_	0.0002777777777777778	cardinal	_	0.0002777777777777778
+sze	sze[barley]	N	N	D	I-COUNT	*	*	*	*	*
+i3	i[oil]	N	N	D	B-COM	_	_	_	_	_
+gur	gur[unit]	N	N	D	_	_	_	_	_	_
+kiszib3	kiszib[seal]	N	N	D	_	_	_	_	_	_
+lum-ma-bi	_	PN	PN.GEN.ABS	Iabcdef	_	_	_	_	_	_
+zi-re-dam	_	PN	PN	POS	_	_	_	_	_	_
+a-ab-ba-ni	_	PN	PN.GEN.GEN.ABS	Iabcdefg	_	_	_	_	_	_
+dumu	dumu[child]	N	N	D	_	_	_	_	_	_
+a-x-x	_	PN	PN.GEN.ABS	Iab	_	_	_	_	_	_

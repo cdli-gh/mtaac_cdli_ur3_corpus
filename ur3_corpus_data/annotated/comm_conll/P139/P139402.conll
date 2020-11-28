@@ -1,0 +1,23 @@
+#new_text=P139402					
+FORM	SEGM	XPOSTAG	XPOSTAG	POS	_	_	_	_	_	_
+|SZU+LAGAB|	_	N	N	POS	_	_	_	_	_	_
+3(u)	3(u)[ten]	NU	NU	D	B-COUNT	_	none	unknown	_	none
+...	_[_]	PN	N	D	I-COUNT	*	*	*	*	*
+*RETOK*-x.	?	?	?	?	_	_	_	_	_	_
+|SZU+LAGAB|	_	N	N	POS	_	_	_	_	_	_
+9(disz)	9(disz)[one]	NU	NU	D	B-COUNT	_	9	cardinal	_	9
+sila4	sila[lamb]	N	N	D	B-COM	_	_	_	_	_
+*RETOK*-x.	?	?	?	?	_	_	_	_	_	_
+|SZU+LAGAB|	_	N	N	POS	_	_	_	_	_	_
+2(u)	2(u)[ten]	NU	NU	D	B-COUNT	_	none	unknown	_	none
+9(disz)	9(disz)[one]	NU	NU	D	I-COUNT	*	*	*	*	*
+...	_[_]	PN	N	D	I-COUNT	*	*	*	*	*
+*RETOK*-x.	?	?	?	?	_	_	_	_	_	_
+4(gesz2)	4(gesz)[sixty]	NU	NU	D	B-COUNT	_	none	unknown	_	none
+8(disz)	8(disz)[one]	NU	NU	D	I-COUNT	*	*	*	*	*
+...	_[_]	PN	N	D	I-COUNT	*	*	*	*	*
+*RETOK*-x.	?	?	?	?	_	_	_	_	_	_
+zi-ga-am3	zig[expend]-a[-ø]-am	N	NF.V.PT.ABS.COP-3-SG	D	_	_	_	_	_	_
+*RETOK*-x.	?	?	?	?	_	_	_	_	_	_
+nig2-ka9	nigSZID[account]	N	N	D	_	_	_	_	_	_
+ak	ak[excavate][-a][-ak]	V	NF.V.PT	D	_	_	_	_	_	_

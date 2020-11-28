@@ -1,0 +1,21 @@
+#new_text=P128492					
+FORM	SEGM	XPOSTAG	XPOSTAG	POS	B-COUNT	l	60	"dry	*	*
+1(barig)	1(bariga)[unit]	NU	N	D	I-COUNT	*	*	*	sila3	60
+zi3-gu	zidgu[flour_type]	N	N	D	B-COM	_	_	_	_	_
+lugal	lugal[king]	N	N	D	_	_	_	_	_	_
+u4	ud[day]	N	N	D	_	_	_	_	_	_
+1(u)	1(u)[ten]	NU	NU	D	B-COUNT	_	10	cardinal	_	10
+2(disz)-kam	2(disz)[one]-ak-am	NU	NU.GEN.COP-3-SG	D	B-COUNT	_	2	cardinal	_	2
+sza3-iri	Sza'iri[1][-ra]	PN	PN.DAT-H	D	_	_	_	_	_	_
+*RETOK*-capacity"	?	?	?	?	B-COUNT	l	90	"dry	*	*
+1(barig)	1(bariga)[unit]	NU	N	D	I-COUNT	*	*	*	sila3	90
+3(ban2)	3(ban)[unit]	NU	N	D	I-COUNT	*	*	*	*	*
+kaskal-sze3	kaskal[journey]-sze	N	N.TERM	D	_	_	_	_	_	_
+a-hu-ni	Ahuni[1][-ra]	PN	PN.DAT-H	D	_	_	_	_	_	_
+aga3-us2-gal	aga'usgal[head_soldier][-ra]	N	N	D	_	_	_	_	_	_
+a-dam-szah2{ki}-sze3	_	SN	SN.TERM	Iab	_	_	_	_	_	_
+{gesz}ma-nu	manu[wood_type][-ø]	FN	N.ABS	D	B-COM	_	_	_	_	_
+igi-du8-de3	_	FN	FN	POS	_	_	_	_	_	_
+gen-na	gen[go]-a	V	NF.V.PT	D	_	_	_	_	_	_
+iti	iti[month]	N	N	D	_	_	_	_	_	_
+ezem-{d}szul-gi	Ezemszulgir[1][-'a]	MN	MN.L1	D	_	_	_	_	_	_

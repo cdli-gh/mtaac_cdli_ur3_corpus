@@ -1,0 +1,25 @@
+#new_text=P127022					
+FORM	SEGM	XPOSTAG	XPOSTAG	POS	?	?	?	?	?	?
+1(disz)	1(disz)[one]	NU	NU	D	B-COUNT	_	1	cardinal	_	1
+tu-ra	tur[young][-a]	V	NF.V.PT	D	_	_	_	_	_	_
+lu2-si4	_	PN	PN	Ia	_	_	_	_	_	_
+u4	ud[day]	N	N	D	_	_	_	_	_	_
+4(u)	4(u)[ten]	NU	NU	D	B-COUNT	_	45	cardinal	_	45
+5(disz)-sze3	5(disz)[one]-sze	NU	NU.TERM	D	I-COUNT	*	*	*	*	*
+1(disz)	1(disz)[one]	NU	NU	D	B-COUNT	_	1	cardinal	_	1
+tu-ra	tur[young][-a]	V	NF.V.PT	D	_	_	_	_	_	_
+lugal-kisal	Lugalkisal[1][-ra]	PN	PN.DAT-H	D	_	_	_	_	_	_
+u4	ud[day]	N	N	D	_	_	_	_	_	_
+3(u)	3(u)[ten]	NU	NU	D	B-COUNT	_	35	cardinal	_	35
+5(disz)-sze3	5(disz)[one]-sze	NU	NU.TERM	D	I-COUNT	*	*	*	*	*
+ugula	ugula[overseer][-ø]	N	N	D	_	_	_	_	_	_
+ur-mes	Urmes[1]	PN	PN	D	_	_	_	_	_	_
+kiszib3	kiszib[seal]	N	N	D	_	_	_	_	_	_
+ur-lugal	Urlugal[1]	PN	PN	D	_	_	_	_	_	_
+mu	mu[year]	N	N	D	_	_	_	_	_	_
+{d}szu-{d}suen	Szusuen[1]	RN	RN	D	_	_	_	_	_	_
+lugal	lugal[king]	N	N	D	_	_	_	_	_	_
+ur-lugal	Urlugal[1]	PN	PN	D	_	_	_	_	_	_
+dub-sar	dubsar[scribe]	N	N	D	_	_	_	_	_	_
+dumu	dumu[child]	N	N	D	_	_	_	_	_	_
+da-a-gi4	Dayagi[1][-ak]	PN	PN	D	_	_	_	_	_	_

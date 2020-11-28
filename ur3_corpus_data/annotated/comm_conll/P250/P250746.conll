@@ -1,0 +1,19 @@
+#new_text=P250746					
+FORM	SEGM	XPOSTAG	XPOSTAG	POS	?	?	?	?	?	?
+1(u)	1(u)[ten]	NU	NU	D	B-COUNT	g	300000.0	weight	gin2	36000
+gu2	gun[unit]	N	N	D	I-COUNT	*	*	*	*	*
+pa	pa[branch]	N	N.ABS	D	_	_	_	_	_	_
+ku5	ku[fish]	N	N	D	_	_	_	_	_	_
+{gesz}asalx(|A.TU.NIR|)	_	N	N	Ia	B-COM	_	_	_	_	_
+ki	ki[place]	N	N	D	_	_	_	_	_	_
+e2-ur2-bi-du10-ta	E'urbidu[1][-ak]-ta	PN	PN.GEN.ABL	D	_	_	_	_	_	_
+kiszib3	kiszib[seal]	N	N	D	_	_	_	_	_	_
+mu-ni	_	V	N.3-SG-H-POSS.ABS	D	_	_	_	_	_	_
+mu	mu[year]	N	N	D	_	_	_	_	_	_
+si-mu-ru-um{ki}	Simurrum[1]	SN	SN.ABS	D	_	_	_	_	_	_
+ba-hul	ba-hulu[destroy][-ø]	V	MID.V.3-SG-S	D	_	_	_	_	_	_
+mu-ni	_	V	N.3-SG-H-POSS.ABS	D	_	_	_	_	_	_
+dumu	dumu[child]	N	N	D	_	_	_	_	_	_
+a-kal-la	Akala[1]	PN	PN	D	_	_	_	_	_	_
+gudu4	gudug[priest]	N	N	D	_	_	_	_	_	_
+{d}nin-ur4-ra	Ninura[1][-ak]	DN	DN.GEN	D	_	_	_	_	_	_

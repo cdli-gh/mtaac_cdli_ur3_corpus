@@ -1,0 +1,21 @@
+#new_text=P137494					
+FORM	SEGM	XPOSTAG	XPOSTAG	POS	B-COUNT	l	4	"liquid	*	*
+*RETOK*-capacity"	?	?	?	?	I-COUNT	l	4	"dry	sila3	4
+4(disz)	4(disz)[one]	NU	NU	D	I-COUNT	*	*	*	sila3	4
+sila3	sila[unit]	N	N	D	I-COUNT	*	*	*	*	*
+i3-gesz	igesz[oil]	V	N	D	B-COM	_	_	_	_	_
+lu2-nin-ga2	_	PN	PN.GEN	Ia	_	_	_	_	_	_
+*RETOK*-capacity"	?	?	?	?	B-COUNT	l	4	"liquid	*	*
+*RETOK*-capacity"	?	?	?	?	I-COUNT	l	4	"dry	sila3	4
+4(disz)	4(disz)[one]	NU	NU	D	I-COUNT	*	*	*	sila3	4
+sila3	sila[unit]	N	N	D	I-COUNT	*	*	*	*	*
+ku3-{d}nanna	Kugnanna[1]	PN	PN	D	_	_	_	_	_	_
+aga3-us2	aga'us[soldier]	N	N	D	B-COM	_	_	_	_	_
+szu-{d}nin-gal-ka	_	PN	PN.GEN.GEN	Iabcdef	_	_	_	_	_	_
+gub-ba-a	_	V	NF.V.PT.GEN	Iabcdef	_	_	_	_	_	_
+iti	iti[month]	N	N	D	_	_	_	_	_	_
+ezem-{d}me-ki-gal2	Ezemmekigal[1]-['a]	MN	MN.L1	D	_	_	_	_	_	_
+mu	mu[year]	N	N	D	_	_	_	_	_	_
+x	_[_]	N	N	D	_	_	_	_	_	_
+x	_[_]	N	N	D	_	_	_	_	_	_
+x	_[_]	N	N	D	_	_	_	_	_	_

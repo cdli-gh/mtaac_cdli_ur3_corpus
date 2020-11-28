@@ -1,0 +1,27 @@
+
+#new_text=P142771	?	?	?	?	B-COUNT	l	0.00018518518518518518	"dry	*	*
+FORM	SEGM	XPOSTAG	XPOSTAG	POS	I-COUNT	?	?	?	?	?
+2(asz)	2(asz)[one]	NU	NU	D	I-COUNT	*	*	*	sila3	0.00018518518518518518
+sze	sze[barley]	N	N	D	I-COUNT	*	*	*	*	*
+gur	gur[unit]	N	N	D	I-COUNT	*	*	*	*	*
+lugal	lugal[king]	N	N	D	_	_	_	_	_	_
+ur-{d}szara2	Urszara[1]	PN	PN	D	_	_	_	_	_	_
+*RETOK*-capacity"	?	?	?	?	B-COUNT	l	540	"dry	*	*
+1(asz)	1(asz)[one]	NU	NU	D	I-COUNT	*	*	*	sila3	540
+4(barig)	4(bariga)[unit]	NU	N	D	I-COUNT	*	*	*	*	*
+gur	gur[unit]	N	N	D	I-COUNT	*	*	*	*	*
+igi-{d}szara2-sze3	Igiszarasze[1][-ak]	PN	PN.GEN	D	_	_	_	_	_	_
+e2	e[house]	N	N	D	_	_	_	_	_	_
+lugal-{gesz}kiri6-ta	_	PN	PN.GEN.ABL	Iab	B-COM	_	_	_	_	_
+1(barig)	1(bariga)[unit]	NU	N	D	B-COUNT	*	*	*	*	*
+sze	sze[barley]	N	N	D	I-COUNT	*	*	*	*	*
+lugal	lugal[king]	N	N	D	_	_	_	_	_	_
+e2-kikken-ta	_	TN	TN	POS	_	_	_	_	_	_
+igi-dingir-sze3	_	PN	PN	POS	_	_	_	_	_	_
+sze-ba	szeba[ration]	N	N	D	B-COM	_	_	_	_	_
+za3-mu	Zamu[1][-ak]	PN	N	D	_	_	_	_	_	_
+mu	mu[year]	N	N	D	_	_	_	_	_	_
+dumu-lugal	_	N	N	Ia	_	_	_	_	_	_
+ensi2	ensik[ruler]	N	N	D	_	_	_	_	_	_
+an-sza-an{ki}-ke4	_	SN	SN.GEN.GEN.ERG	Iabcdefg	_	_	_	_	_	_
+ba-an-tuku-a	_	V	MID.3-SG-H-A.V.3-SG-P	Iabcdefgh	_	_	_	_	_	_

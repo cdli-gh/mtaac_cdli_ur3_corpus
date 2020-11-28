@@ -1,0 +1,10 @@
+#new_text=P121027					
+FORM	SEGM	XPOSTAG	XPOSTAG	POS	?	?	?	?	?	?
+1(asz)	1(asz)[one]	NU	NU	D	B-COUNT	g	42500.0	weight	gin2	5100
+gu2	gun[unit]	N	N	D	I-COUNT	*	*	*	*	*
+2(u)	2(u)[ten]	NU	NU	D	I-COUNT	*	*	*	*	*
+5(disz)	5(disz)[one]	NU	NU	D	I-COUNT	*	*	*	*	*
+ma-na	mana[unit]	N	N	D	I-COUNT	*	*	*	*	*
+siki	siki[wool][-'a]	N	N	D	B-COM	_	_	_	_	_
+e2-a	e[house][-ak]-'a	GN	N.L1	D	_	_	_	_	_	_
+gal2	_	V	NF.V.PT.GEN	Iabcdef	_	_	_	_	_	_

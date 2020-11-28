@@ -1,0 +1,26 @@
+
+#new_text=P248639	?	?	?	?	B-COUNT	l	9.259259259259259e-05	"dry	*	*
+FORM	SEGM	XPOSTAG	XPOSTAG	POS	I-COUNT	?	?	?	?	?
+1(asz)	1(asz)[one]	NU	NU	D	I-COUNT	*	*	*	sila3	9.259259259259259e-05
+sze	sze[barley]	N	N	D	I-COUNT	*	*	*	*	*
+gur	gur[unit]	N	N	D	I-COUNT	*	*	*	*	*
+lugal	lugal[king]	N	N	D	_	_	_	_	_	_
+ba-al-tu-sar-ra	_	PN	PN	POS	_	_	_	_	_	_
+*RETOK*-capacity"	?	?	?	?	B-COUNT	l	9000	"dry	*	*
+3(u)	3(u)[ten]	NU	NU	D	I-COUNT	*	*	*	sila3	9000
+gur	gur[unit]	N	N	D	I-COUNT	*	*	*	*	*
+ki	ki[place]	N	N	D	B-COM	_	_	_	_	_
+ur-{d}szara2	Urszara[1]	PN	PN	D	_	_	_	_	_	_
+*RETOK*-capacity"	?	?	?	?	B-COUNT	l	15780	"dry	*	*
+5(u)	5(u)[ten]	NU	NU	D	I-COUNT	*	*	*	sila3	15780
+2(asz)	2(asz)[one]	NU	NU	D	I-COUNT	*	*	*	*	*
+3(barig)	3(bariga)[unit]	NU	N	D	I-COUNT	*	*	*	*	*
+a-da-ga	Adaga[1]	PN	PN	D	_	_	_	_	_	_
+1(u)	1(u)[ten]	NU	NU	D	B-COUNT	_	17	cardinal	_	17
+7(asz)	7(asz)[one]	NU	NU	D	I-COUNT	*	*	*	*	*
+da-a-ga	_	PN	PN	Ia	_	_	_	_	_	_
+7(asz)	7(asz)[one]	NU	NU	D	B-COUNT	_	7	cardinal	_	7
+a-ba-bi2-dim2	_	PN	PN	Iabcdefgh	_	_	_	_	_	_
+4(u)	4(u)[ten]	NU	NU	D	B-COUNT	_	43	cardinal	_	43
+3(asz)	3(asz)[one]	NU	NU	D	I-COUNT	*	*	*	*	*
+lugal-e2-mah-e	Lugalemahe[1]	N	PN	D	_	_	_	_	_	_

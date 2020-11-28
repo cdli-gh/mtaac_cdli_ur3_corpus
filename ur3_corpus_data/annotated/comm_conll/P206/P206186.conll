@@ -1,0 +1,57 @@
+#new_text=P206186					
+FORM	SEGM	XPOSTAG	XPOSTAG	POS	?	?	?	?	?	?
+...	_[_]	PN	N	D	_	_	_	_	_	_
+KI	_			POS	_	_	_	_	_	_
+...	_[_]	PN	N	D	_	_	_	_	_	_
+...	_[_]	PN	N	D	_	_	_	_	_	_
+NE	ne[unknown]	MN	MN	POS	_	_	_	_	_	_
+...-im-ma	_			POS	_	_	_	_	_	_
+...-{d}gesz-bar-e3	_	PN	PN	Iabcde	_	_	_	_	_	_
+x-me	_	PN	PN	Iabcdefgh	_	_	_	_	_	_
+...-ta	_[_]-ta	PN	PN.GEN.ABL	D	_	_	_	_	_	_
+...-{d}lamma	_	RN	RN	POS	_	_	_	_	_	_
+...	_[_]	PN	N	D	_	_	_	_	_	_
+ARAD2	arad[slave]	N	N	D	_	_	_	_	_	_
+...-me	_	V	V	POS	_	_	_	_	_	_
+...	_[_]	PN	N	D	_	_	_	_	_	_
+gesz	gesz[tree]	N	N	D	_	_	_	_	_	_
+1(asz)	1(asz)[one]	NU	NU	D	B-COUNT	_	1	cardinal	_	1
+lugal-za3-...	_	PN	PN.GEN	Iab	_	_	_	_	_	_
+1(asz)	1(asz)[one]	NU	NU	D	B-COUNT	_	1	cardinal	_	1
+lugal-nam-mah	_	PN	PN	Ia	_	_	_	_	_	_
+AB	_	PN	PN	Iabcdefgh	_	_	_	_	_	_
+dumu-ni-me	dumu[son]-ani[-ø]-mesz	N	N.3-SG-H-POSS.ABS.COP-3-PL	D	_	_	_	_	_	_
+1/2(disz)	1/2(disz)[one]	NU	NU	D	B-COUNT	_	0.5	cardinal	_	0.5
+ur-sa6-ga	Ursaga[1][-ak]	PN	PN	D	_	_	_	_	_	_
+(x)	_[_]	N	N	POS	_	_	_	_	_	_
+x	_[_]	N	N	D	_	_	_	_	_	_
+szu-na-mu-gi4	_	PN	PN.GEN.ABL	Iabcdefgh	_	_	_	_	_	_
+...	_[_]	PN	N	D	_	_	_	_	_	_
+dumu	dumu[child]	N	N	D	_	_	_	_	_	_
+ur-ab-ba	Urabba[1][-ak]	PN	PN.GEN	D	_	_	_	_	_	_
+ba	ba[animal][-ak]	N	N.GEN	D	_	_	_	_	_	_
+1(asz)	1(asz)[one]	NU	NU	D	B-COUNT	_	1	cardinal	_	1
+lu2-{d}gesz-bar-e3	_	PN	PN	Iabcde	_	_	_	_	_	_
+ki	ki[place]	N	N	D	B-COM	_	_	_	_	_
+lugal-an-na-tum2	_	PN	PN	POS	_	_	_	_	_	_
+1/2(disz)	1/2(disz)[one]	NU	NU	D	B-COUNT	_	0.5	cardinal	_	0.5
+ur-{d}nisaba	Urnisaba[1][-ak]	PN	PN.GEN	D	_	_	_	_	_	_
+nu-banda3-gu4	nubandagu[ox_overseer][-ak][-ak][-ak]	N	N	D	_	_	_	_	_	_
+1(asz)	1(asz)[one]	NU	NU	D	B-COUNT	_	1	cardinal	_	1
+lu2-dingir-ra	Ludingira[1][-ra]	PN	PN	D	_	_	_	_	_	_
+1(asz)	1(asz)[one]	NU	NU	D	B-COUNT	_	1	cardinal	_	1
+ab-ba-gi-na	Abbagina[1]	PN	PN	D	_	_	_	_	_	_
+1(asz)	1(asz)[one]	NU	NU	D	B-COUNT	_	1	cardinal	_	1
+ur-{d}ba-ba6	Urbaba[1]	PN	PN	D	_	_	_	_	_	_
+AB	_	PN	PN	Iabcdefgh	_	_	_	_	_	_
+dumu-ni-me	dumu[son]-ani[-ø]-mesz	N	N.3-SG-H-POSS.ABS.COP-3-PL	D	_	_	_	_	_	_
+...	_[_]	PN	N	D	_	_	_	_	_	_
+x	_[_]	N	N	D	_	_	_	_	_	_
+...	_[_]	PN	N	D	_	_	_	_	_	_
+MIR	_			POS	_	_	_	_	_	_
+...-me	_	V	V	POS	_	_	_	_	_	_
+...	_[_]	PN	N	D	_	_	_	_	_	_
+RI	_			POS	_	_	_	_	_	_
+...	_[_]	PN	N	D	_	_	_	_	_	_
+x	_[_]	N	N	D	_	_	_	_	_	_
+dumu-ni	dumu[child]-ani	N	N.3-SG-H-POSS	D	_	_	_	_	_	_

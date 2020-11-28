@@ -1,0 +1,26 @@
+#new_text=P137073					
+FORM	SEGM	XPOSTAG	XPOSTAG	POS	?	?	?	?	?	?
+giri3	giri[foot]	N	N	D	_	_	_	_	_	_
+ur-sa6-ga	Ursaga[1][-ak]	PN	PN	D	_	_	_	_	_	_
+4(asz)	4(asz)[one]	NU	NU	D	B-COUNT	g	120000.00000000001	weight	gin2	14400
+gu2	gun[unit]	N	N	D	I-COUNT	*	*	*	*	*
+uruda	urud[copper][-ak]	N	N	D	B-COM	_	_	_	_	_
+nu-ur2-esz18-dar	_	PN	PN	D	_	_	_	_	_	_
+1(asz)	1(asz)[one]	NU	NU	D	B-COUNT	g	40000.0	weight	gin2	4800
+gu2	gun[unit]	N	N	D	I-COUNT	*	*	*	*	*
+2(u)	2(u)[ten]	NU	NU	D	I-COUNT	*	*	*	*	*
+ma-na	mana[unit]	N	N	D	I-COUNT	*	*	*	*	*
+uruda	urud[copper][-ak]	N	N	D	B-COM	_	_	_	_	_
+ba-ga-na-na	_	PN	PN	Ia	_	_	_	_	_	_
+szunigin	szunigin[total]	N	N	D	_	_	_	_	_	_
+6(asz)	6(asz)[one]	NU	NU	D	B-COUNT	g	201500.0	weight	gin2	24180
+gu2	gun[unit]	N	N	D	I-COUNT	*	*	*	*	*
+4(u)	4(u)[ten]	NU	NU	D	I-COUNT	*	*	*	*	*
+3(disz)	3(disz)[one]	NU	NU	D	I-COUNT	*	*	*	*	*
+ma-na	mana[unit]	N	N	D	I-COUNT	*	*	*	*	*
+uruda	urud[copper][-ak]	N	N	D	B-COM	_	_	_	_	_
+mu-kux(DU)	mukur[delivery][-ø]	N	N	D	_	_	_	_	_	_
+ki	ki[place]	N	N	D	_	_	_	_	_	_
+dam-gar3-ra-ne-ta	_	PN	PN	POS	_	_	_	_	_	_
+e2-kiszib3-ba-ka	_	TN	TN	POS	_	_	_	_	_	_
+ba-an-kux(TU)	_	V	MID.3-SG-H-A.V.3-PL	Iabcdefg	_	_	_	_	_	_

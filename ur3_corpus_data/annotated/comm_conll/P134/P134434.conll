@@ -1,0 +1,13 @@
+#new_text=P134434					
+FORM	SEGM	XPOSTAG	XPOSTAG	POS	?	?	?	?	?	?
+2(barig)	2(bariga)[unit]	NU	N	D	B-COUNT	_	none	unknown	_	none
+3(ban2)	3(ban)[unit]	NU	N	D	I-COUNT	*	*	*	*	*
+...	_[_]	PN	N	D	I-COUNT	*	*	*	*	*
+masz2	masz[goat]	N	N	D	B-COM	_	_	_	_	_
+...	_[_]	PN	N	D	_	_	_	_	_	_
+ki	ki[place]	N	N	D	_	_	_	_	_	_
+ur-x-x-ta	_	PN	PN.GEN.ABL	Iabcdef	_	_	_	_	_	_
+ur-du6-e	_	PN	PN.GEN.DAT-H	Iabcdef	_	_	_	_	_	_
+ur-du6-e	_	PN	PN.GEN.DAT-H	Iabcdef	_	_	_	_	_	_
+dumu	dumu[child]	N	N	D	_	_	_	_	_	_
+ur-{d}...	_[1][-ra]	PN	PN.GEN	D	_	_	_	_	_	_

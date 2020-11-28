@@ -1,0 +1,26 @@
+#new_text=P122462					
+FORM	SEGM	XPOSTAG	XPOSTAG	POS	?	?	?	?	?	?
+6(disz)	6(disz)[one][-sze]	NU	NU	D	B-COUNT	g	3000.0	weight	gin2	360
+ma-na	mana[unit]	N	N	D	I-COUNT	*	*	*	*	*
+uruda	urud[copper][-ak]	N	N	D	B-COM	_	_	_	_	_
+ki	ki[place]	N	N	D	_	_	_	_	_	_
+ur-{d}nusku-ta	_	PN	PN.GEN.ABL	Iab	_	_	_	_	_	_
+amar-szuba2-ke4	_	PN	PN.GEN.ERG	Iabcdef	_	_	_	_	_	_
+szu	szu[hand][-e]	N	N.L3-NH	D	_	_	_	_	_	_
+ba-ti	ba[-n]-teg[accept][-ø]	V	MID.3-SG-H-A.V.3-SG-P	D	_	_	_	_	_	_
+igi	igi[eye][-ø]	N	N	D	_	_	_	_	_	_
+a2-zi-da	Azida[1][-ra]	PN	PN.DAT-H	D	_	_	_	_	_	_
+igi	igi[eye][-ø]	N	N	D	_	_	_	_	_	_
+lugal-engar	_	N	N	POS	_	_	_	_	_	_
+igi	igi[eye][-ø]	N	N	D	_	_	_	_	_	_
+al-lu5-mu	_	PN	PN	Iabcde	_	_	_	_	_	_
+2(u)	2(u)[ten]	NU	NU	D	B-COUNT	g	10000.0	weight	gin2	1200
+ma-na	mana[unit]	N	N	D	I-COUNT	*	*	*	*	*
+uruda-kam	_	N	N	POS	_	_	_	_	_	_
+kin	kig[work]	N	N	D	_	_	_	_	_	_
+til-le-de3	_	V	NF.V.PF.DAT-NH	Iabcdefg	_	_	_	_	_	_
+mu	mu[year]	N	N	D	_	_	_	_	_	_
+lugal	lugal[king]	N	N	D	_	_	_	_	_	_
+al-pa	_	V	V	POS	_	_	_	_	_	_
+iti	iti[month]	N	N	D	_	_	_	_	_	_
+sig4-ga	Sigga[1][-'a]	MN	MN.L1	D	_	_	_	_	_	_

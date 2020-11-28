@@ -1,0 +1,13 @@
+#new_text=P121409					
+FORM	SEGM	XPOSTAG	XPOSTAG	POS	?	?	?	?	?	?
+iti	iti[month]	N	N	D	_	_	_	_	_	_
+udru{duru5}	_	N	N	Ia	_	_	_	_	_	_
+u4	ud[day]	N	N	D	_	_	_	_	_	_
+8(disz)	8(disz)[one]	NU	NU	D	B-COUNT	_	8	cardinal	_	8
+ba-zal	ba-zal[pass][-ø][-a][-'a]	V	MID.V.3-SG-S.SUB	D	_	_	_	_	_	_
+mu	mu[year]	N	N	D	_	_	_	_	_	_
+{d}szu-{d}suen	Szusuen[1]	RN	RN	D	_	_	_	_	_	_
+lugal-am3	_	N	N	POS	_	_	_	_	_	_
+lugal-an-ne2	_	PN	PN.ABS	D	_	_	_	_	_	_
+dumu	dumu[child]	N	N	D	_	_	_	_	_	_
+a2-ba-ba	_	N	N	POS	_	_	_	_	_	_

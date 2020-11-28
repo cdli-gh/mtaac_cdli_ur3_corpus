@@ -1,0 +1,23 @@
+#new_text=P206574					
+FORM	SEGM	XPOSTAG	XPOSTAG	POS	?	?	?	?	?	?
+1(disz)	1(disz)[one]	NU	NU	D	B-COUNT	_	1	cardinal	_	1
+{gesz}gu-za	guza[chair]	N	N	D	B-COM	_	_	_	_	_
+ab-ba	abba[father]	PN	PN	D	_	_	_	_	_	_
+ku3-sig17	kugsig[gold]	N	N	D	_	_	_	_	_	_
+gar-ra	_	V	V	POS	_	_	_	_	_	_
+szi-tam2-sa-at	_	PN	PN	Iabcdefgh	_	_	_	_	_	_
+*RETOK*-capacity"	?	?	?	?	B-COUNT	l	20	"dry	*	*
+2(ban2)	2(ban)[unit]	NU	N	D	I-COUNT	*	*	*	sila3	20
+ziz2	ziz[emmer]	N	N	D	B-COM	_	_	_	_	_
+da-ba	_	PN	PN	POS	_	_	_	_	_	_
+nar	_	N	N	POS	_	_	_	_	_	_
+*RETOK*-capacity"	?	?	?	?	B-COUNT	l	10	"dry	*	*
+1(ban2)	1(ban)[unit]	NU	N	D	I-COUNT	*	*	*	sila3	10
+su-na	_	DN	DN	POS	_	_	_	_	_	_
+iszib	iszib[priest]	N	N	D	_	_	_	_	_	_
+bur-ra-am	_	PN	PN.GEN	Iab	_	_	_	_	_	_
+sza	_	N	N	Ia	B-COM	_	_	_	_	_
+{d}utu-dur2-ru-na	_	DN	DN	POS	_	_	_	_	_	_
+maszkim	maszkim[administrator]	N	N.ABS	D	_	_	_	_	_	_
+zi-ga	zig[expend]-a	V	NF.V.PT	D	_	_	_	_	_	_
+ur-ba-gara2	Urbagara[1]	PN	PN	D	_	_	_	_	_	_

@@ -1,0 +1,9 @@
+#new_text=P139095					
+FORM	SEGM	XPOSTAG	XPOSTAG	POS	B-COUNT	l	6	"liquid	*	*
+*RETOK*-capacity"	?	?	?	?	I-COUNT	l	6	"dry	sila3	6
+6(disz)	6(disz)[one][-sze]	NU	NU	D	I-COUNT	*	*	*	sila3	6
+sila3	sila[unit]	N	N	D	I-COUNT	*	*	*	*	*
+i3-gesz	igesz[oil]	V	N	D	B-COM	_	_	_	_	_
+nig2-u2-rum	Nigurum[1][-e]	N	PN	D	_	_	_	_	_	_
+dumu	dumu[child]	N	N	D	_	_	_	_	_	_
+qu2-ra-du	_	PN	PN	Iabcdefgh	_	_	_	_	_	_

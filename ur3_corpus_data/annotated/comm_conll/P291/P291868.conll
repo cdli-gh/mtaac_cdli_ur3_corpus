@@ -1,0 +1,9 @@
+#new_text=P291868					
+FORM	SEGM	XPOSTAG	XPOSTAG	POS	B-COUNT	l	333	"dry	*	*
+1(asz)	1(asz)[one]	NU	NU	D	I-COUNT	*	*	*	sila3	333
+3(ban2)	3(ban)[unit]	NU	N	D	I-COUNT	*	*	*	*	*
+3(disz)	3(disz)[one]	NU	NU	D	I-COUNT	*	*	*	*	*
+ma-na	mana[unit]	N	N	D	B-COM	_	_	_	_	_
+sza-at-e2-a	_	PN	PN	Ia	_	_	_	_	_	_
+ki	ki[place]	N	N	D	_	_	_	_	_	_
+szu-ti-ru-um-ta	_	PN	PN.GEN.ABL	Iab	_	_	_	_	_	_

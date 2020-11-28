@@ -1,0 +1,16 @@
+#new_text=P119880					
+FORM	SEGM	XPOSTAG	XPOSTAG	POS	?	?	?	?	?	?
+iti	iti[month]	N	N	D	_	_	_	_	_	_
+pa4-u2-e-ta	_	MN	MN.GEN.ABL	Iabcdefg	_	_	_	_	_	_
+u4	ud[day]	N	N	D	_	_	_	_	_	_
+1(u)	1(u)[ten]	NU	NU	D	B-COUNT	_	17	cardinal	_	17
+7(disz)-am3	_	NU	NU.GEN.COP-3-SG	Iabcdef	I-COUNT	*	*	*	*	*
+ba-ra-zal-la-ta	_	V	NF.V.PT.ABL	Iab	_	_	_	_	_	_
+mu	mu[year]	N	N	D	_	_	_	_	_	_
+en	en[priest]	N	N	D	_	_	_	_	_	_
+eridu{ki}	Eridug[1][-ak][-ø]	SN	SN.GEN.ABS	D	_	_	_	_	_	_
+ba-hun	ba-hug[hire][-ø]	V	MID.V.3-SG-S	D	_	_	_	_	_	_
+...	_[_]	PN	N	D	_	_	_	_	_	_
+...	_[_]	PN	N	D	_	_	_	_	_	_
+ARAD2	arad[slave]	N	N	D	_	_	_	_	_	_
+{d}szara2	Szara[1][-ak]	DN	DN	D	_	_	_	_	_	_

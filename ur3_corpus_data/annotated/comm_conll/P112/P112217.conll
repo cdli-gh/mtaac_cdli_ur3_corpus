@@ -1,0 +1,19 @@
+#new_text=P112217					
+FORM	SEGM	XPOSTAG	XPOSTAG	POS	B-COUNT	l	270	"dry	*	*
+4(barig)	4(bariga)[unit]	NU	N	D	I-COUNT	*	*	*	sila3	270
+3(ban2)	3(ban)[unit]	NU	N	D	I-COUNT	*	*	*	*	*
+dabin	dabin[semolina]	N	N	D	B-COM	_	_	_	_	_
+iti	iti[month]	N	N	D	_	_	_	_	_	_
+ezem-{d}li9-si4	_	MN	MN	POS	_	_	_	_	_	_
+u4	ud[day]	N	N	D	_	_	_	_	_	_
+5(disz)	5(disz)[one]	NU	NU	D	B-COUNT	_	5	cardinal	_	5
+ba-zal	ba-zal[pass][-ø][-a][-'a]	V	MID.V.3-SG-S.SUB	D	_	_	_	_	_	_
+ki	ki[place]	N	N	D	_	_	_	_	_	_
+tu-ra-am-i3-li2	Turamili[1][-ak]	PN	PN.GEN	D	_	_	_	_	_	_
+dingir-ra-bi2	Dingirrabi[1][-ra]	PN	PN.DAT-H	D	_	_	_	_	_	_
+a-sza3	aszag[field]	N	N	D	_	_	_	_	_	_
+SIG7-sza-ar-ma-ti	_	FN	FN	POS	_	_	_	_	_	_
+dingir-ra-bi2	Dingirrabi[1][-ra]	PN	PN.DAT-H	D	_	_	_	_	_	_
+dumu	dumu[child]	N	N	D	_	_	_	_	_	_
+gar3-ni-...	_	PN	PN	POS	_	_	_	_	_	_
+dam-gar3	damgar[merchant][-ak]	N	N	D	_	_	_	_	_	_

@@ -1,0 +1,23 @@
+#new_text=P126036					
+FORM	SEGM	XPOSTAG	XPOSTAG	POS	?	?	?	?	?	?
+1(disz)	1(disz)[one]	NU	NU	D	B-COUNT	_	1	cardinal	_	1
+sila4	sila[lamb]	N	N	D	B-COM	_	_	_	_	_
+szar-ru-um-ba-ni	Szarrumbani[1]	PN	PN	D	_	_	_	_	_	_
+1(disz)	1(disz)[one]	NU	NU	D	B-COUNT	_	1	cardinal	_	1
+amar	amar[calf][-ak]	N	N	D	B-COM	_	_	_	_	_
+masz-da3-nita2	maszdanita[male_gazelle]	N	N	D	_	_	_	_	_	_
+2(disz)	2(disz)[one]	NU	NU	D	B-COUNT	_	2	cardinal	_	2
+amar	amar[calf][-ak]	N	N	D	B-COM	_	_	_	_	_
+masz-da3-munus	maszdamunus[female_gazelle][-ø]	N	N.ABS	D	_	_	_	_	_	_
+nir-i3-da-gal2	Niridagal[1][-e]	AJ	PN.ERG	D	_	_	_	_	_	_
+1(disz)	1(disz)[one]	NU	NU	D	B-COUNT	_	1	cardinal	_	1
+amar	amar[calf][-ak]	N	N	D	B-COM	_	_	_	_	_
+masz-da3-munus	maszdamunus[female_gazelle][-ø]	N	N.ABS	D	_	_	_	_	_	_
+mu	mu[year]	N	N	D	_	_	_	_	_	_
+{d}x-{d}suen	_[1]	RN	RN	D	_	_	_	_	_	_
+lugal	lugal[king]	N	N	D	_	_	_	_	_	_
+5(disz)	5(disz)[one]	NU	NU	D	B-COUNT	_	5	cardinal	_	5
+nu-ur2-{d}suen	_	PN	PN	D	_	_	_	_	_	_
+dub-sar	dubsar[scribe]	N	N	D	_	_	_	_	_	_
+dumu	dumu[child]	N	N	D	_	_	_	_	_	_
+i-di3-er3-ra	_	PN	PN.GEN.ABS	D	_	_	_	_	_	_

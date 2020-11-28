@@ -1,0 +1,21 @@
+#new_text=P370886					
+FORM	SEGM	XPOSTAG	XPOSTAG	POS	?	?	?	?	?	?
+6(gesz2)	6(gesz)[sixty]	NU	NU	D	B-COUNT	_	374	cardinal	_	374
+1(u)	1(u)[ten]	NU	NU	D	I-COUNT	*	*	*	*	*
+4(disz)	4(disz)[one]	NU	NU	D	I-COUNT	*	*	*	*	*
+ur-ku3-nun-na	Urkununa[1][-e]	PN	PN	D	_	_	_	_	_	_
+1(u)	1(u)[ten]	NU	NU	D	B-COUNT	_	15	cardinal	_	15
+5(disz)	5(disz)[one]	NU	NU	D	I-COUNT	*	*	*	*	*
+e2	e[house]	N	N	D	_	_	_	_	_	_
+du3-du3	_	V	V	POS	B-COM	_	_	_	_	_
+kinda2	_	PN	PN	POS	_	_	_	_	_	_
+2(gesz2)	2(gesz)[sixty]	NU	NU	D	B-COUNT	_	130	cardinal	_	130
+1(u)	1(u)[ten]	NU	NU	D	I-COUNT	*	*	*	*	*
+lu2-banda3{da}	Lubanda[1]	PN	PN	D	_	_	_	_	_	_
+3(disz)	3(disz)[one]	NU	NU	D	B-COUNT	_	3	cardinal	_	3
+aga3-us2	aga'us[soldier]	N	N	D	B-COM	_	_	_	_	_
+ARAD2-{d}nanna	Aradnanna[1]	PN	PN	D	_	_	_	_	_	_
+...	_[_]	PN	N	D	_	_	_	_	_	_
+6(gesz2)	6(gesz)[sixty]	NU	NU	D	B-COUNT	_	362	cardinal	_	362
+2(disz)	2(disz)[one]	NU	NU	D	I-COUNT	*	*	*	*	*
+ur-ku3-nun-na	Urkununa[1][-e]	PN	PN	D	_	_	_	_	_	_

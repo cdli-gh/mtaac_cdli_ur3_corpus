@@ -1,0 +1,25 @@
+#new_text=P111065					
+FORM	SEGM	XPOSTAG	XPOSTAG	POS	?	?	?	?	?	?
+3(gesz2)	3(gesz)[sixty]	NU	NU	D	B-COUNT	_	194	cardinal	_	194
+1(u)	1(u)[ten]	NU	NU	D	I-COUNT	*	*	*	*	*
+4(disz)	4(disz)[one]	NU	NU	D	I-COUNT	*	*	*	*	*
+ad7	_	N	N	POS	_	_	_	_	_	_
+udu	udu[sheep]	N	N	D	B-COM	_	_	_	_	_
+4(u)	4(u)[ten]	NU	NU	D	B-COUNT	_	39	cardinal	_	39
+la2	la[hang][-ø]	V	NF.V.ABS	D	I-COUNT	*	*	*	*	*
+1(disz)	1(disz)[one]	NU	NU	D	I-COUNT	*	*	*	*	*
+ad7	_	N	N	POS	_	_	_	_	_	_
+sila4	sila[lamb]	N	N	D	B-COM	_	_	_	_	_
+ki	ki[place]	N	N	D	_	_	_	_	_	_
+gu3-de2-a-ta	_	PN	PN.GEN.ABL	Iabcdef	_	_	_	_	_	_
+geme2	geme[female_worker]	N	N	D	_	_	_	_	_	_
+usz-bar-e	uszbar[weaver]-e	N	N.ERG	D	_	_	_	_	_	_
+ba-ab-gu7	_	V	MID.V.3-SG-S.SUB.L1	Iabcdefg	_	_	_	_	_	_
+szu-{d}nin-szubur	_	DN	DN	POS	_	_	_	_	_	_
+szu	szu[hand][-e]	N	N.L3-NH	D	_	_	_	_	_	_
+ba-ti	ba[-n]-teg[accept][-ø]	V	MID.3-SG-H-A.V.3-SG-P	D	_	_	_	_	_	_
+sza3	szag[heart]	N	N	D	_	_	_	_	_	_
+gir2-su{ki}	Girsu[1][-ak]	SN	SN.GEN	D	_	_	_	_	_	_
+mu	mu[year]	N	N	D	_	_	_	_	_	_
+us2-sa	us[follow]-a	V	NF.V.PT	D	_	_	_	_	_	_
+ma2-dara3-abzu	Madara'abzu[1]	ON	ON	D	_	_	_	_	_	_

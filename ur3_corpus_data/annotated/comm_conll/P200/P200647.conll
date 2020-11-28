@@ -1,0 +1,16 @@
+#new_text=P200647					
+FORM	SEGM	XPOSTAG	XPOSTAG	POS	B-COUNT	l	0.04296296296296295	"dry	*	*
+7(gesz2)	7(gesz)[sixty]	NU	NU	D	I-COUNT	*	*	*	sila3	0.04296296296296295
+4(u)	4(u)[ten]	NU	NU	D	I-COUNT	*	*	*	*	*
+4(asz)	4(asz)[one]	NU	NU	D	I-COUNT	*	*	*	*	*
+sze	sze[barley]	N	N	D	I-COUNT	*	*	*	*	*
+gur	gur[unit]	N	N	D	I-COUNT	*	*	*	*	*
+lugal	lugal[king]	N	N	D	_	_	_	_	_	_
+x-{d}en-lil2-la2	_	DN	DN	POS	_	_	_	_	_	_
+lu2-gid2-da	_	PN	PN	Iabcdefgh	_	_	_	_	_	_
+dub-sar	dubsar[scribe]	N	N	D	_	_	_	_	_	_
+dumu	dumu[child]	N	N	D	_	_	_	_	_	_
+na-mu	_	PN	PN.GEN.ABS	D	_	_	_	_	_	_
+szu	szu[hand][-e]	N	N.L3-NH	D	B-COM	_	_	_	_	_
+gaba-ri	gabari[copy]	N	N	D	_	_	_	_	_	_
+{d}gu3-de2-a	_	DN	DN	Iabcde	_	_	_	_	_	_

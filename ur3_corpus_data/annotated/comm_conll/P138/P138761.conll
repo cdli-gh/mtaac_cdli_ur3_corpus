@@ -1,0 +1,13 @@
+#new_text=P138761					
+FORM	SEGM	XPOSTAG	XPOSTAG	POS	_	_	_	_	_	_
+ku3-sig17	kugsig[gold]	N	N	D	_	_	_	_	_	_
+*RETOK*-x.	?	?	?	?	_	_	_	_	_	_
+u4	ud[day]	N	N	D	_	_	_	_	_	_
+1(u)	1(u)[ten]	NU	NU	D	B-COUNT	_	15	cardinal	_	15
+5(disz)	5(disz)[one]	NU	NU	D	I-COUNT	*	*	*	*	*
+*RETOK*-x.	?	?	?	?	_	_	_	_	_	_
+u4	ud[day]	N	N	D	_	_	_	_	_	_
+1(u)	1(u)[ten]	NU	NU	D	B-COUNT	_	16	cardinal	_	16
+6(disz)	6(disz)[one][-sze]	NU	NU	D	I-COUNT	*	*	*	*	*
+*RETOK*-x.	?	?	?	?	_	_	_	_	_	_
+ha-ba-at	_	PN	PN	Ia	_	_	_	_	_	_

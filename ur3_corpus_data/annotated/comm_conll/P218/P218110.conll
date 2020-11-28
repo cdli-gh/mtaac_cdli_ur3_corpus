@@ -1,0 +1,12 @@
+#new_text=P218110					
+FORM	SEGM	XPOSTAG	XPOSTAG	POS	?	?	?	?	?	?
+...	_[_]	PN	N	D	_	_	_	_	_	_
+x	_[_]	N	N	D	_	_	_	_	_	_
+5/6(disz)	5/6(disz)[one]	NU	NU	D	B-COUNT	g	416.6666666666667	weight	gin2	50.0
+ma-na	mana[unit]	N	N	D	I-COUNT	*	*	*	*	*
+...-sze3	_	PN	PN.GEN.TERM	Iabcdefg	_	_	_	_	_	_
+x	_[_]	N	N	D	_	_	_	_	_	_
+tur-e	_	V	V	POS	_	_	_	_	_	_
+szu	szu[hand][-e]	N	N.L3-NH	D	B-COM	_	_	_	_	_
+ba-ti	ba[-n]-teg[accept][-ø]	V	MID.3-SG-H-A.V.3-SG-P	D	_	_	_	_	_	_
+sza3-bi-ta	szag[heart]-bi-ta	PN	N.3-SG-NH-POSS.ABL	D	_	_	_	_	_	_

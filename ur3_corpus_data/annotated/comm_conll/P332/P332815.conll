@@ -1,0 +1,16 @@
+#new_text=P332815					
+FORM	SEGM	XPOSTAG	XPOSTAG	POS	?	?	?	?	?	?
+1(u)	1(u)[ten]	NU	NU	D	B-COUNT	_	12	cardinal	_	12
+2(disz)	2(disz)[one]	NU	NU	D	I-COUNT	*	*	*	*	*
+gurusz	gurusz[male]	N	N	D	B-COM	_	_	_	_	_
+1(disz)	1(disz)[one]	NU	NU	D	B-COUNT	_	1	cardinal	_	1
+tu-ra	tur[young][-a]	V	NF.V.PT	D	_	_	_	_	_	_
+u4	ud[day]	N	N	D	_	_	_	_	_	_
+1(disz)-sze3	1(disz)[one]-sze	NU	NU.TERM	D	B-COUNT	_	1	cardinal	_	1
+gu2	gun[unit]	N	N	D	_	_	_	_	_	_
+tul2	tul[ditch][-ø]	V	N.ABS	D	_	_	_	_	_	_
+du6-gesz-ka	_	N	N.GEN	Iabcde	_	_	_	_	_	_
+sahar	sahar[earth][-ø]	N	N.GEN	D	B-COM	_	_	_	_	_
+si-ga	sig[load]-a	N	NF.V.PT	D	_	_	_	_	_	_
+giri3	giri[foot]	N	N	D	_	_	_	_	_	_
+a-szi-an	Aszi'an[1][-ak]	PN	PN.GEN	D	_	_	_	_	_	_

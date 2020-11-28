@@ -1,0 +1,18 @@
+#new_text=P212313					
+FORM	SEGM	XPOSTAG	XPOSTAG	POS	?	?	?	?	?	?
+iti	iti[month]	N	N	D	_	_	_	_	_	_
+ezem-mah	Ezemmah[1][-'a]	MN	MN.L1	D	_	_	_	_	_	_
+u4	ud[day]	N	N	D	_	_	_	_	_	_
+3(u)-kam	3(u)[ten]-ak-am	NU	NU.GEN.COP-3-SG	D	B-COUNT	_	30	cardinal	_	30
+mu	mu[year]	N	N	D	_	_	_	_	_	_
+amar-{d}suen	_	RN	RN	POS	_	_	_	_	_	_
+lugal	lugal[king]	N	N	D	_	_	_	_	_	_
+{d}szul-gi	Szulgir[1]	RN	RN	D	_	_	_	_	_	_
+nita	nita[male]	N	N	D	_	_	_	_	_	_
+kal-ga	kalag[strong]-a	V	NF.V.SUB	D	_	_	_	_	_	_
+lugal	lugal[king]	N	N	D	_	_	_	_	_	_
+uri5{ki}-ma	Urim[1]-ak	SN	SN.GEN	D	_	_	_	_	_	_
+na-ra-am-i3-li2	Naramili[1]	PN	PN	D	_	_	_	_	_	_
+sukkal	sukkal[secretary][-ak][-ra]	N	N	D	_	_	_	_	_	_
+i3-du8	idu[doorkeeper][-ø]	PN	N.GEN.ABS	D	_	_	_	_	_	_
+ARAD2-zu	arad[slave]-zu[-ø]	PN	N.2-SG-POSS.ABS	D	_	_	_	_	_	_

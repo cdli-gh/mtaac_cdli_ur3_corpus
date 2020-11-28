@@ -1,0 +1,25 @@
+#new_text=P143424					
+FORM	SEGM	XPOSTAG	XPOSTAG	POS	?	?	?	?	?	?
+8(disz)	8(disz)[one]	NU	NU	D	B-COUNT	_	8	cardinal	_	8
+ur2	_	N	N	POS	_	_	_	_	_	_
+{gesz}szinig	_	FN	FN	POS	B-COM	_	_	_	_	_
+gal	gal[big][-ø]	V	NF.V.ABS	D	_	_	_	_	_	_
+2(disz)	2(disz)[one]	NU	NU	D	B-COUNT	_	2	cardinal	_	2
+ur2	_	N	N	POS	_	_	_	_	_	_
+{gesz}asal2	_	N	N	Ia	B-COM	_	_	_	_	_
+gal	gal[big][-ø]	V	NF.V.ABS	D	_	_	_	_	_	_
+e2	e[house]	N	N	D	_	_	_	_	_	_
+i7	id[river]	N	N	D	_	_	_	_	_	_
+lugal-ka	_	DN	N.GEN.GEN.ABS	D	_	_	_	_	_	_
+ba-kesz2	_	V	MID.L1-SYN.V.3-SG-S	Iabcdefgh	_	_	_	_	_	_
+ki	ki[place]	N	N	D	_	_	_	_	_	_
+ku3-ga-ni-ta	_	PN	PN	Iabcdefgh	_	_	_	_	_	_
+kiszib3	kiszib[seal]	N	N	D	_	_	_	_	_	_
+ur-ab:zu	_	PN	PN	Iabcde	_	_	_	_	_	_
+mu	mu[year]	N	N	D	_	_	_	_	_	_
+e2	e[house]	N	N	D	_	_	_	_	_	_
+puzur4-da-gan	Puzurdagan[1][-ø]	SN	SN.ABS	D	_	_	_	_	_	_
+ur-ab-zu	Urabzu[1]	PN	PN	D	_	_	_	_	_	_
+dub-sar	dubsar[scribe]	N	N	D	_	_	_	_	_	_
+dumu	dumu[child]	N	N	D	_	_	_	_	_	_
+nigar{gar}-ki-du10	Nigarkidu[1][-ak][-ø]	PN	PN	D	_	_	_	_	_	_

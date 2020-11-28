@@ -1,0 +1,16 @@
+#new_text=P105718					
+FORM	SEGM	XPOSTAG	XPOSTAG	POS	?	?	?	?	?	?
+...	_[_]	PN	N	D	_	_	_	_	_	_
+...	_[_]	PN	N	D	_	_	_	_	_	_
+ub-szu	_	PN	PN	Iabcdefgh	_	_	_	_	_	_
+x	_[_]	N	N	D	_	_	_	_	_	_
+x	_[_]	N	N	D	_	_	_	_	_	_
+x	_[_]	N	N	D	_	_	_	_	_	_
+BI	_	PN	PN	POS	_	_	_	_	_	_
+2(gesz2)	2(gesz)[sixty]	NU	NU	D	B-COUNT	g	3900000.0000000005	weight	gin2	468000
+1(u)	1(u)[ten]	NU	NU	D	I-COUNT	*	*	*	*	*
+gu2	gun[unit]	N	N	D	I-COUNT	*	*	*	*	*
+3(disz)	3(disz)[one]	NU	NU	D	B-COUNT	_	3	cardinal	_	3
+ub-sze3	_	PN	PN	POS	_	_	_	_	_	_
+GAN2	gana[field]	N	N	D	_	_	_	_	_	_
+igi-nim-ma	_	N	N	POS	_	_	_	_	_	_

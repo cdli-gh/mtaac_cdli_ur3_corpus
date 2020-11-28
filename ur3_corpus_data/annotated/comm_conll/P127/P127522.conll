@@ -1,0 +1,26 @@
+
+#new_text=P127522	?	?	?	?	B-COUNT	l	120	"dry	*	*
+FORM	SEGM	XPOSTAG	XPOSTAG	POS	I-COUNT	?	?	?	?	?
+2(barig)	2(bariga)[unit]	NU	N	D	I-COUNT	*	*	*	sila3	120
+kasz	kasz[beer]	N	N	D	B-COM	_	_	_	_	_
+ninda	ninda[bread]	N	N	D	_	_	_	_	_	_
+*RETOK*-capacity"	?	?	?	?	B-COUNT	l	2	"liquid	*	*
+*RETOK*-capacity"	?	?	?	?	I-COUNT	l	2	"dry	sila3	2
+2(disz)	2(disz)[one]	NU	NU	D	I-COUNT	*	*	*	sila3	2
+sila3	sila[unit]	N	N	D	I-COUNT	*	*	*	*	*
+i3-gesz	igesz[oil]	V	N	D	_	_	_	_	_	_
+giri3-se3-ga	girsiga[attendant]	N	N	D	_	_	_	_	_	_
+e2	e[house]	N	N	D	_	_	_	_	_	_
+amar	amar[calf][-ak]	N	N	D	B-COM	_	_	_	_	_
+e2-{d}szara2{ki}-ke4	_	TN	TN.GEN.ERG	Iabcdefg	_	_	_	_	_	_
+ba-ab-gu7	_	V	MID.V.3-SG-S.SUB.L1	Iabcdefg	_	_	_	_	_	_
+ba-ab-szesz4	_	V	MID.3-SG-NH-A.V.3-SG-P	Iabcdefg	_	_	_	_	_	_
+ki	ki[place]	N	N	D	_	_	_	_	_	_
+lu2-gi-na	Lugina[1][-ak][-ak]	PN	PN.GEN	D	_	_	_	_	_	_
+szabra-ta	_	N	N.ABL	Iabcde	_	_	_	_	_	_
+ba-zi	ba-zig[expend][-ø]	PN	MID.V.3-SG-S	D	_	_	_	_	_	_
+mu	mu[year]	N	N	D	_	_	_	_	_	_
+en-nun-e-{d}amar-{d}suen-ra-ki-ag2	_	PN	PN.GEN	Iabcdef	_	_	_	_	_	_
+en	en[priest]	N	N	D	_	_	_	_	_	_
+eridu{ki}	Eridug[1][-ak][-ø]	SN	SN.GEN.ABS	D	_	_	_	_	_	_
+ba-hun	ba-hug[hire][-ø]	V	MID.V.3-SG-S	D	_	_	_	_	_	_

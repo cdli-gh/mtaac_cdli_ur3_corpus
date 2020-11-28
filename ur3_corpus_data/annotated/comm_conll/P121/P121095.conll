@@ -1,0 +1,18 @@
+#new_text=P121095					
+FORM	SEGM	XPOSTAG	XPOSTAG	POS	B-COUNT	l	8100	"dry	*	*
+2(u)	2(u)[ten]	NU	NU	D	I-COUNT	*	*	*	sila3	8100
+7(asz)	7(asz)[one]	NU	NU	D	I-COUNT	*	*	*	*	*
+gur	gur[unit]	N	N	D	I-COUNT	*	*	*	*	*
+zu2-lum	zulum[date]	N	N	D	B-COM	_	_	_	_	_
+ki	ki[place]	N	N	D	_	_	_	_	_	_
+ur-sukkal-ta	_	PN	PN.GEN.ABL	Iabcdef	_	_	_	_	_	_
+lu2-{d}utu	Lu'utu[1]	PN	PN	D	_	_	_	_	_	_
+ki	ki[place]	N	N	D	_	_	_	_	_	_
+{gesz}kiri6-sze3	_	N	N	POS	_	_	_	_	_	_
+ba-szi-kux(KWU636)	_	V	V	POS	_	_	_	_	_	_
+a-ag2-de3-e	_	PN	PN.ERG	Iab	_	_	_	_	_	_
+lu2-{d}utu	Lu'utu[1]	PN	PN	D	_	_	_	_	_	_
+lu2-{d}utu	Lu'utu[1]	PN	PN	D	_	_	_	_	_	_
+dumu	dumu[child]	N	N	D	_	_	_	_	_	_
+ur-mes	Urmes[1]	PN	PN	D	_	_	_	_	_	_
+...	_[_]	PN	N	D	_	_	_	_	_	_

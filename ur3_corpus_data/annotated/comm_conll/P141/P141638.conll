@@ -1,0 +1,22 @@
+#new_text=P141638					
+FORM	SEGM	XPOSTAG	XPOSTAG	POS	B-COUNT	l	1.5	"liquid	*	*
+*RETOK*-capacity"	?	?	?	?	I-COUNT	l	1.5	"dry	sila3	1.5
+1(disz)	1(disz)[one]	NU	NU	D	I-COUNT	*	*	*	sila3	1.5
+1/2(disz)	1/2(disz)[one]	NU	NU	D	I-COUNT	*	*	*	*	*
+sila3	sila[unit]	N	N	D	I-COUNT	*	*	*	*	*
+{u2}gamun2	_	N	N	POS	B-COM	_	_	_	_	_
+babbar	_	AJ	AJ	POS	_	_	_	_	_	_
+numun	numun[seed]	N	N	D	_	_	_	_	_	_
+a-sza3	aszag[field]	N	N	D	_	_	_	_	_	_
+uku2-nu-ti-sze3	_	FN	FN.GEN.TERM	Iabcdefg	_	_	_	_	_	_
+ki	ki[place]	N	N	D	_	_	_	_	_	_
+lugal-nig2-lagar-e-ta	Lugalniglagare[1][-ak]-ta	PN	PN.GEN.ABL	D	_	_	_	_	_	_
+ur-am3-ma-ke4	Ur-ammak[1]-e	PN	PN.ERG	D	_	_	_	_	_	_
+szu	szu[hand][-e]	N	N.L3-NH	D	_	_	_	_	_	_
+ba-ti	ba[-n]-teg[accept][-ø]	V	MID.3-SG-H-A.V.3-SG-P	D	_	_	_	_	_	_
+iti	iti[month]	N	N	D	_	_	_	_	_	_
+{d}...	_[1][-'a]	MN	DN.GEN	D	_	_	_	_	_	_
+mu	mu[year]	N	N	D	_	_	_	_	_	_
+en	en[priest]	N	N	D	_	_	_	_	_	_
+eridu{ki}	Eridug[1][-ak][-ø]	SN	SN.GEN.ABS	D	_	_	_	_	_	_
+ba-hun	ba-hug[hire][-ø]	V	MID.V.3-SG-S	D	_	_	_	_	_	_

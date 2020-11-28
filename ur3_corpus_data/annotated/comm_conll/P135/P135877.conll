@@ -1,0 +1,20 @@
+#new_text=P135877					
+FORM	SEGM	XPOSTAG	XPOSTAG	POS	?	?	?	?	?	?
+1(disz)	1(disz)[one]	NU	NU	D	B-COUNT	_	1	cardinal	_	1
+gada	gada[flax]	N	N	D	B-COM	_	_	_	_	_
+|KI.KAL|	_	N	N	POS	_	_	_	_	_	_
+ki-la2-bi	kila[weight]-bi[-ø]	N	N.3-SG-NH-POSS.ABS	D	_	_	_	_	_	_
+...	_[_]	PN	N	D	_	_	_	_	_	_
+1(disz)	1(disz)[one]	NU	NU	D	B-COUNT	_	1	cardinal	_	1
+gada	gada[flax]	N	N	D	B-COM	_	_	_	_	_
+|KI.KAL|	_	N	N	POS	_	_	_	_	_	_
+ki-la2-bi	kila[weight]-bi[-ø]	N	N.3-SG-NH-POSS.ABS	D	_	_	_	_	_	_
+5/6(disz)	5/6(disz)[one]	NU	NU	D	B-COUNT	g	458.33333333333337	weight	gin2	55.0
+ma-na	mana[unit]	N	N	D	I-COUNT	*	*	*	*	*
+5(disz)	5(disz)[one]	NU	NU	D	I-COUNT	*	*	*	*	*
+gin2	gig[unit]	N	N	D	I-COUNT	*	*	*	*	*
+gada	gada[flax]	N	N	D	B-COM	_	_	_	_	_
+gu-nu	_	N	N.3-SG-H-POSS.DAT-H	Iabcdefg	_	_	_	_	_	_
+ki-la2-bi	kila[weight]-bi[-ø]	N	N.3-SG-NH-POSS.ABS	D	_	_	_	_	_	_
+6(disz)	6(disz)[one][-sze]	NU	NU	D	B-COUNT	g	3000.0	weight	gin2	360
+ma-na	mana[unit]	N	N	D	I-COUNT	*	*	*	*	*

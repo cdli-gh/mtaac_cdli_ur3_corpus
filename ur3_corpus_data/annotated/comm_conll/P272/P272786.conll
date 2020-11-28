@@ -1,0 +1,8 @@
+#new_text=P272786					
+FORM	SEGM	XPOSTAG	XPOSTAG	POS	?	?	?	?	?	?
+7(disz)	7(disz)[one][-sze]	NU	NU	D	B-COUNT	_	7	cardinal	_	7
+gurusz	gurusz[male]	N	N	D	B-COM	_	_	_	_	_
+u4	ud[day]	N	N	D	_	_	_	_	_	_
+1(disz)-sze3	1(disz)[one]-sze	NU	NU.TERM	D	B-COUNT	_	1	cardinal	_	1
+ki	ki[place]	N	N	D	_	_	_	_	_	_
+a-bi2-szar-(x)-ta	_	PN	PN.GEN.ABL	Iabcdef	_	_	_	_	_	_

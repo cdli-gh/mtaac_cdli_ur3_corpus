@@ -1,0 +1,24 @@
+#new_text=P113948					
+FORM	SEGM	XPOSTAG	XPOSTAG	POS	?	?	?	?	?	?
+2(ban2)	2(ban)[unit]	NU	N	D	B-COUNT	*	*	*	*	*
+sze	sze[barley]	N	N	D	I-COUNT	*	*	*	*	*
+szu-{d}nisaba	_	PN	PN.GEN	Iab	_	_	_	_	_	_
+2(ban2)	2(ban)[unit]	NU	N	D	B-COUNT	*	*	*	*	*
+sze	sze[barley]	N	N	D	I-COUNT	*	*	*	*	*
+hi-li	_	N	N	D	B-COM	_	_	_	_	_
+2(ban2)	2(ban)[unit]	NU	N	D	B-COUNT	*	*	*	*	*
+sze	sze[barley]	N	N	D	I-COUNT	*	*	*	*	*
+szu-dam-sza-AN	_	PN	PN	POS	_	_	_	_	_	_
+2(ban2)	2(ban)[unit]	NU	N	D	B-COUNT	*	*	*	*	*
+sze	sze[barley]	N	N	D	I-COUNT	*	*	*	*	*
+NE-ni	_			POS	_	_	_	_	_	_
+mu-u3	_	V	VEN.3-SG-H-A.V.3-SG-P.SUB.3-SG-H-POSS.GEN	Iabcdef	_	_	_	_	_	_
+ugula	ugula[overseer][-ø]	N	N	D	_	_	_	_	_	_
+{d}szul-x	_	FN	FN	POS	_	_	_	_	_	_
+ma-me-te-...	_	PN	PN.DAT-H	Iab	_	_	_	_	_	_
+ur-{d}szara2	Urszara[1]	PN	PN	D	_	_	_	_	_	_
+dub-sar	dubsar[scribe]	N	N	D	_	_	_	_	_	_
+dumu	dumu[child]	N	N	D	_	_	_	_	_	_
+lugal-uszur4	Lugaluszur[1][-ak]	PN	PN.GEN	D	_	_	_	_	_	_
+nu-banda3-gu4	nubandagu[ox_overseer][-ak][-ak][-ak]	N	N	D	_	_	_	_	_	_
+{d}szara2	Szara[1][-ak]	DN	DN	D	_	_	_	_	_	_

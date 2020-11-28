@@ -1,0 +1,14 @@
+#new_text=P115143					
+FORM	SEGM	XPOSTAG	XPOSTAG	POS	?	?	?	?	?	?
+1(gesz'u)	1(gesz'u)[six_hundred]	NU	NU	D	B-COUNT	_	600	cardinal	_	600
+{gi}kid	kid[mat]	N	N	D	B-COM	_	_	_	_	_
+ki	ki[place]	N	N	D	_	_	_	_	_	_
+x-szubur-ta	_	PN	PN.GEN.ABL	Iab	_	_	_	_	_	_
+lu2-nimgir	_	PN	PN.ERG	Iabcdefgh	_	_	_	_	_	_
+szu	szu[hand][-e]	N	N.L3-NH	D	_	_	_	_	_	_
+ba-ti	ba[-n]-teg[accept][-ø]	V	MID.3-SG-H-A.V.3-SG-P	D	_	_	_	_	_	_
+giri3	giri[foot]	N	N	D	_	_	_	_	_	_
+...-x-i3-zu	_	PN	PN	Iabcde	_	_	_	_	_	_
+lu2-ak	_	PN	PN.GEN.GEN	Iabcdef	_	_	_	_	_	_
+dumu	dumu[child]	N	N	D	_	_	_	_	_	_
+ur-...	_[1][-ak]	PN	PN.GEN.ABS	D	_	_	_	_	_	_

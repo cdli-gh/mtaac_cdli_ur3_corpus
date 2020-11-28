@@ -1,0 +1,25 @@
+#new_text=P145191					
+FORM	SEGM	XPOSTAG	XPOSTAG	POS	?	?	?	?	?	?
+2(gesz'u)	2(gesz'u)[six_hundred]	NU	NU	D	B-COUNT	_	1200	cardinal	_	1200
+gi-zi	gizi[reed][-ak][-ak]	N	N.GEN.GEN	D	B-COM	_	_	_	_	_
+sig4	szeg[brick]	N	N	D	_	_	_	_	_	_
+al-ur5	_	V	V	POS	_	_	_	_	_	_
+ur5-rex(HU)-de3	_	PN	PN	POS	_	_	_	_	_	_
+ki	ki[place]	N	N	D	_	_	_	_	_	_
+ur-{d}inanna-ta	_	PN	PN.GEN.ABL	Iab	_	_	_	_	_	_
+lugal-ezem-e	_	PN	PN.GEN.L2-NH	Iabcdefg	_	_	_	_	_	_
+szu	szu[hand][-e]	N	N.L3-NH	D	_	_	_	_	_	_
+ba-ti	ba[-n]-teg[accept][-ø]	V	MID.3-SG-H-A.V.3-SG-P	D	_	_	_	_	_	_
+iti	iti[month]	N	N	D	_	_	_	_	_	_
+gan-gan-e3	_	PN	PN	POS	_	_	_	_	_	_
+u4	ud[day]	N	N	D	_	_	_	_	_	_
+1(u)	1(u)[ten]	NU	NU	D	B-COUNT	_	16	cardinal	_	16
+6(disz)	6(disz)[one][-sze]	NU	NU	D	I-COUNT	*	*	*	*	*
+ba-zal	ba-zal[pass][-ø][-a][-'a]	V	MID.V.3-SG-S.SUB	D	_	_	_	_	_	_
+mu	mu[year]	N	N	D	_	_	_	_	_	_
+si-mu-rum{ki}	_	SN	SN.GEN.ABS	Iabcdef	_	_	_	_	_	_
+ba-hul	ba-hulu[destroy][-ø]	V	MID.V.3-SG-S	D	_	_	_	_	_	_
+lugal-ezem	Lugalezem[1]	PN	PN	D	_	_	_	_	_	_
+dub-sar	dubsar[scribe]	N	N	D	_	_	_	_	_	_
+dumu	dumu[child]	N	N	D	_	_	_	_	_	_
+ur-kun	Urkun[1]	PN	PN	D	_	_	_	_	_	_

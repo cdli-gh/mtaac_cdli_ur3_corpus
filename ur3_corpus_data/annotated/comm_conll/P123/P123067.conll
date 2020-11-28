@@ -1,0 +1,18 @@
+#new_text=P123067					
+FORM	SEGM	XPOSTAG	XPOSTAG	POS	?	?	?	?	?	?
+1(u)	1(u)[ten]	NU	NU	D	B-COUNT	_	15	cardinal	_	15
+5(asz)	5(asz)[one]	NU	NU	D	I-COUNT	*	*	*	*	*
+zu2-lum	zulum[date]	N	N	D	B-COM	_	_	_	_	_
+sza3-bi-ta	szag[heart]-bi-ta	PN	N.3-SG-NH-POSS.ABL	D	_	_	_	_	_	_
+*RETOK*-capacity"	?	?	?	?	B-COUNT	l	2700	"dry	*	*
+9(asz)	9(asz)[one]	NU	NU	D	I-COUNT	*	*	*	sila3	2700
+gur	gur[unit]	N	N	D	I-COUNT	*	*	*	*	*
+ur-{d}en-ki	Urenki[1][-ra]	PN	PN	D	_	_	_	_	_	_
+*RETOK*-capacity"	?	?	?	?	B-COUNT	l	1500	"dry	*	*
+5(asz)	5(asz)[one]	NU	NU	D	I-COUNT	*	*	*	sila3	1500
+gur	gur[unit]	N	N	D	I-COUNT	*	*	*	*	*
+ka5-a	Kaya[1]	PN	PN	D	B-COM	_	_	_	_	_
+kiszib3	kiszib[seal]	N	N	D	_	_	_	_	_	_
+ur-ab-ba	Urabba[1][-ak]	PN	PN.GEN	D	_	_	_	_	_	_
+ugula	ugula[overseer][-ø]	N	N	D	_	_	_	_	_	_
+ka5-a	Kaya[1]	PN	PN	D	_	_	_	_	_	_

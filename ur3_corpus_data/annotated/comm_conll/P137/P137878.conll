@@ -1,0 +1,24 @@
+#new_text=P137878					
+FORM	SEGM	XPOSTAG	XPOSTAG	POS	?	?	?	?	?	?
+la2-ia3	la'u[arrears]	N	N	D	_	_	_	_	_	_
+1(disz)	1(disz)[one]	NU	NU	D	B-COUNT	_	1	cardinal	_	1
+gada	gada[flax]	N	N	D	B-COM	_	_	_	_	_
+sza3-ga-du3	_	N	N	POS	_	_	_	_	_	_
+a2	a[time]	N	N	D	_	_	_	_	_	_
+igi-4(disz)-gal2	igi4(disz)[one]gal[fraction]	NU	NU	D	B-COUNT	_	0.25	cardinal	_	0.25
+2(disz)	2(disz)[one]	NU	NU	D	B-COUNT	_	2	cardinal	_	2
+gada	gada[flax]	N	N	D	B-COM	_	_	_	_	_
+sza3-ga-du3	_	N	N	POS	_	_	_	_	_	_
+gu	gu[cord]	N	N	D	_	_	_	_	_	_
+1(disz)	1(disz)[one]	NU	NU	D	B-COUNT	_	0.016666666666666666	cardinal	_	0.016666666666666666
+gin2	gig[unit]	N	N	D	I-COUNT	*	*	*	*	*
+2(u)	2(u)[ten]	NU	NU	D	B-COUNT	_	20	cardinal	_	20
+gada	gada[flax]	N	N	D	B-COM	_	_	_	_	_
+du	gin[quality_designation][-ø]	V	NF.V.ABS	D	_	_	_	_	_	_
+la2-ia3	la'u[arrears]	N	N	D	_	_	_	_	_	_
+libir	_	V	NF.V.ABS.ABS.COP-3-SG.DAT-H	Iabcdefghi	_	_	_	_	_	_
+mu	mu[year]	N	N	D	_	_	_	_	_	_
+ha-ar-szum{ki}	_	GN	GN	POS	_	_	_	_	_	_
+ba-hul	ba-hulu[destroy][-ø]	V	MID.V.3-SG-S	D	_	_	_	_	_	_
+lu2-{d}nin-gir2-su	Luningirsu[1]	PN	PN	D	_	_	_	_	_	_
+in-da-gal2	i-n-da-gal[be][-ø]	V	FIN.3-SG-H.COM.V.3-SG-S	D	_	_	_	_	_	_

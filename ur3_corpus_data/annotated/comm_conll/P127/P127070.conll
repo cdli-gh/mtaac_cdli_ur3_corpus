@@ -1,0 +1,26 @@
+#new_text=P127070					
+FORM	SEGM	XPOSTAG	XPOSTAG	POS	?	?	?	?	?	?
+1(disz)	1(disz)[one]	NU	NU	D	B-COUNT	_	1	cardinal	_	1
+ARAD2-{d}nanna	Aradnanna[1]	PN	PN	D	_	_	_	_	_	_
+dumu	dumu[child]	N	N	D	_	_	_	_	_	_
+lugal-ba-ra-ab-e3	_	PN	PN	Iabcde	_	_	_	_	_	_
+nu-{gesz}kiri6-ka	_	N	N.GEN.DAT-H	Iabcdefg	B-COM	_	_	_	_	_
+a-a-u4-su3-sze3	_	PN	PN	D	_	_	_	_	_	_
+ra2-gaba	ragaba[rider]	N	N.ABS	D	_	_	_	_	_	_
+tu-li-id-{d}utu-szi-ka	_	PN	PN.GEN.GEN	Iabcdef	_	_	_	_	_	_
+x-tu-a	_			POS	_	_	_	_	_	_
+ba-an-na-a-szum2	_	V	V	POS	_	_	_	_	_	_
+nibru{ki}-a	_	SN	SN.L1	D	_	_	_	_	_	_
+DU-dam	_	V	V	POS	_	_	_	_	_	_
+iti	iti[month]	N	N	D	_	_	_	_	_	_
+dal	Dal[1][-'a]	MN	MN.L1	D	_	_	_	_	_	_
+mu	mu[year]	N	N	D	_	_	_	_	_	_
+us2-sa	us[follow]-a	V	NF.V.PT	D	_	_	_	_	_	_
+ur-bi2-lum{ki}	Urbilum[1][-ø]	GN	SN.ABS	D	_	_	_	_	_	_
+ba-hul	ba-hulu[destroy][-ø]	V	MID.V.3-SG-S	D	_	_	_	_	_	_
+tu-li-id-{d}utu-szi	_	PN	PN	D	_	_	_	_	_	_
+nin-dingir	_	PN	N	D	_	_	_	_	_	_
+{d}nanna	Nanna[1][-ak]	DN	DN	D	_	_	_	_	_	_
+a-a-u4-su3-sze3	_	PN	PN	D	_	_	_	_	_	_
+ra2-gaba	ragaba[rider]	N	N.ABS	D	_	_	_	_	_	_
+ARAD2-zu	arad[slave]-zu[-ø]	PN	N.2-SG-POSS.ABS	D	_	_	_	_	_	_

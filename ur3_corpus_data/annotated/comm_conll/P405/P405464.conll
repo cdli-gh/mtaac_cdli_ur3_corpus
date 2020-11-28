@@ -1,0 +1,23 @@
+#new_text=P405464					
+FORM	SEGM	XPOSTAG	XPOSTAG	POS	?	?	?	?	?	?
+4(iku)	4(iku)[unit]	NU	N	D	B-COUNT	m^2	2.4	surface	gin2	4
+GAN2-gu4	GANAgud[1][-ak]	N	FN.GEN	D	_	_	_	_	_	_
+1(esze3)	1(esze)[unit]	NU	N	D	B-COUNT	m^2	30600.0	surface	gin2	51000.0
+2(iku)	2(iku)[unit]	NU	N	D	I-COUNT	*	*	*	*	*
+1/2(iku)	1/2(iku)[unit]	NU	N	D	I-COUNT	*	*	*	*	*
+GAN2	gana[field]	N	N	D	I-COUNT	*	*	*	*	*
+apin-la2	apinla[tenancy]	N	N	D	B-COM	_	_	_	_	_
+KU-lu5	_	PN	PN	POS	_	_	_	_	_	_
+tug2-kam	_	N	N	Ia	_	_	_	_	_	_
+a-sza3	aszag[field]	N	N	D	_	_	_	_	_	_
+gid2-da	gid[lengthen]-a[-ø]	V	NF.V.PT	D	_	_	_	_	_	_
+gu2-sahar-du	_	PN	PN	POS	_	_	_	_	_	_
+giri3	giri[foot]	N	N	D	_	_	_	_	_	_
+lu2-{d}szara2	Luszara[1][-ak]	PN	PN	D	_	_	_	_	_	_
+2(esze3)	2(esze)[unit]	NU	N	D	B-COUNT	m^2	45000.0	surface	gin2	75000.0
+1/2(iku)	1/2(iku)[unit]	NU	N	D	I-COUNT	*	*	*	*	*
+GAN2	gana[field]	N	N	D	I-COUNT	*	*	*	*	*
+mu	mu[year]	N	N	D	_	_	_	_	_	_
+us2-sa	us[follow]-a	V	NF.V.PT	D	_	_	_	_	_	_
+{d}i-bi2-{d}suen	Ibbisuen[1]	RN	RN	D	_	_	_	_	_	_
+lugal	lugal[king]	N	N	D	_	_	_	_	_	_

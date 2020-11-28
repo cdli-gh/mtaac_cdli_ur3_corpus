@@ -1,0 +1,17 @@
+#new_text=P114117					
+FORM	SEGM	XPOSTAG	XPOSTAG	POS	B-COUNT	l	20	"liquid	*	*
+*RETOK*-capacity"	?	?	?	?	I-COUNT	l	20	"dry	sila3	20
+2(u)	2(u)[ten]	NU	NU	D	I-COUNT	*	*	*	sila3	20
+sila3	sila[unit]	N	N	D	I-COUNT	*	*	*	*	*
+i3-gesz	igesz[oil]	V	N	D	B-COM	_	_	_	_	_
+6(asz)	6(asz)[one]	NU	NU	D	B-COUNT	_	6	cardinal	_	6
+zi3	zid[flour]	N	N	D	_	_	_	_	_	_
+hi-a	hi[mix]-a[-ø]	V	NF.V.PT	D	_	_	_	_	_	_
+gur	gur[unit]	N	N	D	_	_	_	_	_	_
+lugal	lugal[king]	N	N	D	_	_	_	_	_	_
+sza3	szag[heart]	N	N	D	_	_	_	_	_	_
+kiszib3	kiszib[seal]	N	N	D	_	_	_	_	_	_
+ab-ba-mu	Abbamu[1][-ak][-ak]	PN	PN.GEN.GEN	D	_	_	_	_	_	_
+dub-sar	dubsar[scribe]	N	N	D	_	_	_	_	_	_
+ki	ki[place]	N	N	D	_	_	_	_	_	_
+da-da-a-ta	_	PN	PN.GEN.GEN.ABL	Iab	_	_	_	_	_	_

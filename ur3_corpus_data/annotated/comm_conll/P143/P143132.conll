@@ -1,0 +1,24 @@
+#new_text=P143132					
+FORM	SEGM	XPOSTAG	XPOSTAG	POS	?	?	?	?	?	?
+8(disz)	8(disz)[one]	NU	NU	D	B-COUNT	_	0.14166666666666666	cardinal	_	0.14166666666666666
+1/2(disz)	1/2(disz)[one]	NU	NU	D	I-COUNT	*	*	*	*	*
+gin2	gig[unit]	N	N	D	I-COUNT	*	*	*	*	*
+ku3	kug[silver]	N	N	D	B-COM	_	_	_	_	_
+ur-{d}nin-tu	Urnintu[1][-ak]	PN	PN	D	_	_	_	_	_	_
+ugula	ugula[overseer][-ø]	N	N	D	_	_	_	_	_	_
+usz-bar	uszbar[weaver][-ak]	N	N	D	_	_	_	_	_	_
+8(disz)	8(disz)[one]	NU	NU	D	B-COUNT	_	0.13333333333333333	cardinal	_	0.13333333333333333
+gin2	gig[unit]	N	N	D	I-COUNT	*	*	*	*	*
+a-ab-ba	_	PN	PN	Iabcde	_	_	_	_	_	_
+7(disz)	7(disz)[one][-sze]	NU	NU	D	B-COUNT	_	0.11666666666666667	cardinal	_	0.11666666666666667
+gin2	gig[unit]	N	N	D	I-COUNT	*	*	*	*	*
+i3-kal-la	Ikala[1][-ak]	PN	PN	D	_	_	_	_	_	_
+8(disz)	8(disz)[one]	NU	NU	D	B-COUNT	_	0.13333333333333333	cardinal	_	0.13333333333333333
+gin2	gig[unit]	N	N	D	I-COUNT	*	*	*	*	*
+a-ab-ba-ni	_	PN	PN.GEN.GEN.ABS	Iabcdefg	_	_	_	_	_	_
+ku3-ta	_	N	N	POS	B-COM	_	_	_	_	_
+sa10-a	_	V	NF.V.PT	Iabc	_	_	_	_	_	_
+e2-gal-ta	egal[palace]-ta	N	N.ABL	D	_	_	_	_	_	_
+e3-a	e[leave]-a	V	NF.V.PT	D	_	_	_	_	_	_
+ku3-bi	kug[silver]-bi[-ø]	N	N.3-SG-NH-POSS.ABS	D	_	_	_	_	_	_
+gur-dam	_	V	V	POS	_	_	_	_	_	_

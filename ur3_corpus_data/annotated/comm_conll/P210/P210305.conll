@@ -1,0 +1,14 @@
+#new_text=P210305					
+FORM	SEGM	XPOSTAG	XPOSTAG	POS	?	?	?	?	?	?
+1(disz)	1(disz)[one]	NU	NU	D	B-COUNT	_	1	cardinal	_	1
+ur-{d}nin-mar{ki}-ka	_	PN	PN	Iabcdefgh	_	_	_	_	_	_
+e2-usz-bar	_	N	N.TERM	Iabcdefgh	_	_	_	_	_	_
+1(disz)	1(disz)[one]	NU	NU	D	B-COUNT	_	1	cardinal	_	1
+ur-{d}ig-alim	Urigalim[1]	FN	PN	D	_	_	_	_	_	_
+dumu	dumu[child]	N	N	D	_	_	_	_	_	_
+gu-za-ni	Guzani[1][-e]	PN	PN.GEN	D	B-COM	_	_	_	_	_
+1(disz)	1(disz)[one]	NU	NU	D	B-COUNT	_	1	cardinal	_	1
+lu2-{d}igi-ma-sze3	Lu'igimasze[1]	PN	PN	D	_	_	_	_	_	_
+dumu	dumu[child]	N	N	D	_	_	_	_	_	_
+ur-{gesz}gigir	Urgigir[1]	PN	PN	D	B-COM	_	_	_	_	_
+e2-usz-bar-sze3	e'uszbar[textile_workshop]-sze	TN	N.TERM	D	_	_	_	_	_	_

@@ -1,0 +1,17 @@
+#new_text=P104175					
+FORM	SEGM	XPOSTAG	XPOSTAG	POS	?	?	?	?	?	?
+iti	iti[month]	N	N	D	_	_	_	_	_	_
+sig4-{gesz}i3-szub-ba-gar-ra-ta	_	MN	MN.GEN.ABL	Iabcdefg	_	_	_	_	_	_
+u4	ud[day]	N	N	D	_	_	_	_	_	_
+8(disz)-am3	_	NU	NU.GEN.COP-3-SG	Iabcdef	B-COUNT	_	8	cardinal	_	8
+ba-ra-zal-ta	_	V	NF.V.PT.GEN.GEN.ABL	Iabcdefg	_	_	_	_	_	_
+nu-ur2-{d}iszkur	_	PN	PN	D	_	_	_	_	_	_
+ad-kup4	adKID[basket_weaver][-ak]	N	N.GEN	D	_	_	_	_	_	_
+a-pi4-sal4{ki}-ta	Apisal[1]-ta	GN	SN.ABL	D	_	_	_	_	_	_
+i3-ma-DU-gesz	_	PN	PN	POS	_	_	_	_	_	_
+x	_[_]	N	N	D	_	_	_	_	_	_
+x-ba	_[_]	DN	N.DEM2.X	D	_	_	_	_	_	_
+mu	mu[year]	N	N	D	_	_	_	_	_	_
+us2-sa	us[follow]-a	V	NF.V.PT	D	_	_	_	_	_	_
+{d}szu-{d}suen	Szusuen[1]	RN	RN	D	_	_	_	_	_	_
+lugal	lugal[king]	N	N	D	_	_	_	_	_	_

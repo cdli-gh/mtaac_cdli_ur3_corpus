@@ -1,0 +1,21 @@
+#new_text=P103376					
+FORM	SEGM	XPOSTAG	XPOSTAG	POS	?	?	?	?	?	?
+3(disz)	3(disz)[one]	NU	NU	D	B-COUNT	_	3	cardinal	_	3
+sa	sa[bundle]	N	N	D	_	_	_	_	_	_
+szum2-sikil	_	V	V	POS	_	_	_	_	_	_
+3(disz)	3(disz)[one]	NU	NU	D	B-COUNT	_	3	cardinal	_	3
+sa	sa[bundle]	N	N	D	_	_	_	_	_	_
+szum2	szum[garlic]	N	N	D	_	_	_	_	_	_
+gaz	gaz[type_of_garlic][-ak]	N	N	D	_	_	_	_	_	_
+ki	ki[place]	N	N	D	_	_	_	_	_	_
+i3-li2-uz-ra-ni-ta	_	PN	PN.GEN.ABL	Iabcdef	_	_	_	_	_	_
+a-da-lal3	Adalal[1][-ra]	N	PN	D	_	_	_	_	_	_
+szu	szu[hand][-e]	N	N.L3-NH	D	B-COM	_	_	_	_	_
+ba-ti	ba[-n]-teg[accept][-ø]	V	MID.3-SG-H-A.V.3-SG-P	D	_	_	_	_	_	_
+a-na	_	DET	DET	POS	_	_	_	_	_	_
+a-gar3	_	N	N	POS	_	_	_	_	_	_
+iti	iti[month]	N	N	D	_	_	_	_	_	_
+u5-bi2-gu7	Ubigu[1][-'a]	MN	MN.L1	D	_	_	_	_	_	_
+mu	mu[year]	N	N	D	_	_	_	_	_	_
+{d}amar-{d}suen	Amarsuen[1]	RN	RN	D	_	_	_	_	_	_
+lugal	lugal[king]	N	N	D	_	_	_	_	_	_

@@ -1,0 +1,24 @@
+#new_text=P111543					
+FORM	SEGM	XPOSTAG	XPOSTAG	POS	?	?	?	?	?	?
+di	did[lawsuit]	N	N	D	_	_	_	_	_	_
+til-la	til[complete]-a	V	NF.V.PT	D	_	_	_	_	_	_
+1(disz)	1(disz)[one]	NU	NU	D	B-COUNT	_	1	cardinal	_	1
+{d}ba-ba6-eb2-gu-ul	_	PN	PN	D	_	_	_	_	_	_
+dumu	dumu[child]	N	N	D	_	_	_	_	_	_
+ur-{d}lamma	Urlamma[1]	PN	PN	D	_	_	_	_	_	_
+ARAD2	arad[slave]	N	N	D	_	_	_	_	_	_
+ur-sa6-ga	Ursaga[1][-ak]	PN	PN	D	_	_	_	_	_	_
+nu-banda3	nubanda[overseer][-ø]	N	N	D	_	_	_	_	_	_
+gu-za-la2	guzala[throne_bearer]	N	N	D	_	_	_	_	_	_
+ur-gu-la	_	PN	PN	Ia	B-COM	_	_	_	_	_
+dumu	dumu[child]	N	N	D	_	_	_	_	_	_
+sza3-gu2-be2-ke4	_	PN	PN.GEN.ERG	Iabcdefg	_	_	_	_	_	_
+i3-sa10	_	V	V	POS	_	_	_	_	_	_
+bi2-in-du11	b-i-n-dug[speak][-ø]	PN	3-SG-NH.L3.3-SG-H-A.V.3-SG-P	D	_	_	_	_	_	_
+...	_[_]	PN	N	D	_	_	_	_	_	_
+x	_[_]	N	N	D	_	_	_	_	_	_
+maszkim	maszkim[administrator]	N	N.ABS	D	_	_	_	_	_	_
+lu2-{d}szara2	Luszara[1][-ak]	PN	PN	D	_	_	_	_	_	_
+lu2-eb-gal	Lu'ebgal[1]	PN	PN	D	_	_	_	_	_	_
+ur-{d}isztaran	Urisztaran[1]	PN	PN.GEN.ABS	D	_	_	_	_	_	_
+di-ku5-bi-me	dikud[judge]-bi[-ø]-mesz	N	N.3-SG-NH-POSS.ABS.COP-3-PL	D	_	_	_	_	_	_

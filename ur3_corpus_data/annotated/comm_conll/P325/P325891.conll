@@ -1,0 +1,27 @@
+#new_text=P325891					
+FORM	SEGM	XPOSTAG	XPOSTAG	POS	?	?	?	?	?	?
+1(disz)	1(disz)[one]	NU	NU	D	B-COUNT	_	1	cardinal	_	1
+gurusz	gurusz[male]	N	N	D	B-COM	_	_	_	_	_
+lu2	lu[person]	N	N	D	_	_	_	_	_	_
+azlag2	azlag[fuller][-ra]	N	N.DAT-H	D	_	_	_	_	_	_
+u4	ud[day]	N	N	D	_	_	_	_	_	_
+2(u)	2(u)[ten]	NU	NU	D	B-COUNT	_	25	cardinal	_	25
+5(disz)-sze3	5(disz)[one]-sze	NU	NU.TERM	D	I-COUNT	*	*	*	*	*
+na-silim	Nasilim[1][-ak][-ø]	PN	PN	D	_	_	_	_	_	_
+lu2	lu[person]	N	N	D	_	_	_	_	_	_
+kin-gi4	_	N	N	POS	_	_	_	_	_	_
+lugal-ta	lugal[king][-ak]-ta	N	N.GEN.ABL	D	_	_	_	_	_	_
+lu2	lu[person]	N	N	D	_	_	_	_	_	_
+te-te-de3	_	V	NF.V.PF.DAT-NH	Iabcdefg	_	_	_	_	_	_
+in-da-ge26-en	_	V	FIN.3-SG-H.COM.3-SG-NH-P.V.3-SG-A.SUB.ABS	Iabcdefg	_	_	_	_	_	_
+zi-ga	zig[expend]-a	V	NF.V.PT	D	_	_	_	_	_	_
+giri3	giri[foot]	N	N	D	_	_	_	_	_	_
+szu-kab-ta2	_	PN	PN	D	_	_	_	_	_	_
+ki	ki[place]	N	N	D	_	_	_	_	_	_
+...-ta	_[_]-ta	PN	PN.GEN.ABL	D	_	_	_	_	_	_
+...-x	_[_]	WN	RN	D	_	_	_	_	_	_
+x	_[_]	N	N	D	_	_	_	_	_	_
+...-{d}EN-...	_	PN	PN	Ia	_	_	_	_	_	_
+...	_[_]	PN	N	D	_	_	_	_	_	_
+x	_[_]	N	N	D	_	_	_	_	_	_
+x	_[_]	N	N	D	_	_	_	_	_	_

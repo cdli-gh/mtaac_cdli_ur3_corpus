@@ -1,0 +1,12 @@
+#new_text=P132912					
+FORM	SEGM	XPOSTAG	XPOSTAG	POS	?	?	?	?	?	?
+3(szar2)	_	NU	NU	POS	B-COUNT	m^2	13608000.0	surface	gin2	22680000
+3(bur'u)	3(bur'u)[unit]	NU	N	D	I-COUNT	*	*	*	*	*
+GAN2	gana[field]	N	N	D	I-COUNT	*	*	*	*	*
+gu4	gud[ox]	N	N	D	B-COM	_	_	_	_	_
+4(bur'u)	4(bur'u)[unit]	NU	N	D	B-COUNT	m^2	2592000.0	surface	gin2	4320000
+GAN2	gana[field]	N	N	D	I-COUNT	*	*	*	*	*
+diri	diri[intercalary_month]	N	N	D	_	_	_	_	_	_
+mu	mu[year]	N	N	D	_	_	_	_	_	_
+dumu-lugal	_	N	N	Ia	_	_	_	_	_	_
+...	_[_]	PN	N	D	_	_	_	_	_	_

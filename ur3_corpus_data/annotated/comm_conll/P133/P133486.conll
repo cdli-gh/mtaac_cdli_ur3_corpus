@@ -1,0 +1,27 @@
+#new_text=P133486					
+FORM	SEGM	XPOSTAG	XPOSTAG	POS	?	?	?	?	?	?
+2(gesz'u)	2(gesz'u)[six_hundred]	NU	NU	D	B-COUNT	_	1460	cardinal	_	1460
+4(gesz2)	4(gesz)[sixty]	NU	NU	D	I-COUNT	*	*	*	*	*
+2(u)	2(u)[ten]	NU	NU	D	I-COUNT	*	*	*	*	*
+IL2	_	PN	PN	POS	_	_	_	_	_	_
+1(szar2)	1(szar)[unit]	NU	N	D	B-COUNT	_	5494	cardinal	_	5494
+3(gesz'u)	3(gesz'u)[six_hundred]	NU	NU	D	I-COUNT	*	*	*	*	*
+1(gesz2)	1(gesz)[sixty]	NU	NU	D	I-COUNT	*	*	*	*	*
+3(u)	3(u)[ten]	NU	NU	D	I-COUNT	*	*	*	*	*
+4(disz)	4(disz)[one]	NU	NU	D	I-COUNT	*	*	*	*	*
+sa	sa[bundle]	N	N	D	_	_	_	_	_	_
+u2-gesz	_	N	N	POS	_	_	_	_	_	_
+a2	a[time]	N	N	D	_	_	_	_	_	_
+gesz-gar-ra	geszgar[assign]-a	N	NF.V.PT	D	_	_	_	_	_	_
+lu2	lu[person]	N	N	D	_	_	_	_	_	_
+{gesz}tir	_	N	N.GEN	Iabcde	B-COM	_	_	_	_	_
+e2-gibil4	_	PN	PN	POS	_	_	_	_	_	_
+ki	ki[place]	N	N	D	_	_	_	_	_	_
+ur-nigar{gar}-ta	Urnigar[1][-ak]-ta	PN	PN.GEN.ABL	D	_	_	_	_	_	_
+kiszib3	kiszib[seal]	N	N	D	_	_	_	_	_	_
+nin-a-na	_	PN	PN	POS	_	_	_	_	_	_
+...	_[_]	PN	N	D	_	_	_	_	_	_
+lu2-{d}nin-gir2-su	Luningirsu[1]	PN	PN	D	_	_	_	_	_	_
+dub-sar	dubsar[scribe]	N	N	D	_	_	_	_	_	_
+dumu	dumu[child]	N	N	D	_	_	_	_	_	_
+ur-e2-...	_	PN	PN.GEN.ABS	Iab	_	_	_	_	_	_

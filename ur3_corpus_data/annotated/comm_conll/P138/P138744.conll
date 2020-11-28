@@ -1,0 +1,21 @@
+#new_text=P138744					
+FORM	SEGM	XPOSTAG	XPOSTAG	POS	_	_	_	_	_	_
+1(disz)	1(disz)[one]	NU	NU	D	B-COUNT	_	1	cardinal	_	1
+har	_	N	N	POS	_	_	_	_	_	_
+ku3-sig17	kugsig[gold]	N	N	D	B-COM	_	_	_	_	_
+si-sa2	_	V	V	POS	_	_	_	_	_	_
+*RETOK*-x.	?	?	?	?	_	_	_	_	_	_
+ki-la2-bi	kila[weight]-bi[-ø]	N	N.3-SG-NH-POSS.ABS	D	_	_	_	_	_	_
+5(disz)	5(disz)[one]	NU	NU	D	B-COUNT	_	0.08268518518518518	cardinal	_	0.08268518518518518
+gin2	gig[unit]	N	N	D	I-COUNT	*	*	*	*	*
+la2	la[hang][-ø]	V	NF.V.ABS	D	I-COUNT	*	*	*	*	*
+7(disz)	7(disz)[one][-sze]	NU	NU	D	I-COUNT	*	*	*	*	*
+sze	sze[barley]	N	N	D	I-COUNT	*	*	*	*	*
+*RETOK*-x.	?	?	?	?	_	_	_	_	_	_
+bi2-gu7-bi	_	N	N	POS	_	_	_	_	_	_
+6(disz)	6(disz)[one][-sze]	NU	NU	D	B-COUNT	_	0.0006018518518518519	cardinal	_	0.0006018518518518519
+1/2(disz)	1/2(disz)[one]	NU	NU	D	I-COUNT	*	*	*	*	*
+sze	sze[barley]	N	N	D	I-COUNT	*	*	*	*	*
+*RETOK*-x.	?	?	?	?	_	_	_	_	_	_
+ki	ki[place]	N	N	D	B-COM	_	_	_	_	_
+lu2-{d}en-ki-ta	_	PN	PN.GEN.ABL	Iab	_	_	_	_	_	_

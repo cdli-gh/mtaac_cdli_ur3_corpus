@@ -1,0 +1,21 @@
+#new_text=P121430					
+FORM	SEGM	XPOSTAG	XPOSTAG	POS	B-COUNT	l	3000	"dry	*	*
+1(u)	1(u)[ten]	NU	NU	D	I-COUNT	*	*	*	sila3	3000
+gur	gur[unit]	N	N	D	I-COUNT	*	*	*	*	*
+ur-{d}x-x	_	PN	PN.DAT-H	Iab	_	_	_	_	_	_
+*RETOK*-capacity"	?	?	?	?	B-COUNT	l	3000	"dry	*	*
+1(u)	1(u)[ten]	NU	NU	D	I-COUNT	*	*	*	sila3	3000
+gur	gur[unit]	N	N	D	I-COUNT	*	*	*	*	*
+lu2-{d}en-lil2-la2	Lu'enlila[1]	PN	PN	D	_	_	_	_	_	_
+*RETOK*-capacity"	?	?	?	?	B-COUNT	l	3000	"dry	*	*
+1(u)	1(u)[ten]	NU	NU	D	I-COUNT	*	*	*	sila3	3000
+gur	gur[unit]	N	N	D	I-COUNT	*	*	*	*	*
+lugal-inim-gi-na	Lugalinimgina[1][-ak]	PN	PN	D	_	_	_	_	_	_
+*RETOK*-capacity"	?	?	?	?	B-COUNT	l	12720	"dry	*	*
+4(u)	4(u)[ten]	NU	NU	D	I-COUNT	*	*	*	sila3	12720
+2(asz)	2(asz)[one]	NU	NU	D	I-COUNT	*	*	*	*	*
+2(barig)	2(bariga)[unit]	NU	N	D	I-COUNT	*	*	*	*	*
+gur	gur[unit]	N	N	D	I-COUNT	*	*	*	*	*
+szesz-kal-la	Szeszkala[1][-ra]	PN	PN	D	_	_	_	_	_	_
+szabra	szabra[chief_administrator][-ak]	N	N	D	_	_	_	_	_	_
+nin	_	N	N	D	_	_	_	_	_	_

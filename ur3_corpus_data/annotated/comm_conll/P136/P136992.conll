@@ -1,0 +1,14 @@
+#new_text=P136992					
+FORM	SEGM	XPOSTAG	XPOSTAG	POS	?	?	?	?	?	?
+1(disz)	1(disz)[one]	NU	NU	D	B-COUNT	_	1	cardinal	_	1
+{gesz}tukul	tukul[weapon][-'a]	N	N	D	B-COM	_	_	_	_	_
+ga-li2-a-tum	_	PN	PN	POS	_	_	_	_	_	_
+ku3-sig17	kugsig[gold]	N	N	D	_	_	_	_	_	_
+ku3-babbar	kugbabbar[silver]	N	N	D	_	_	_	_	_	_
+szub-bu-de3	_	V	NF.V.PF.DAT-NH	Iabcdefg	_	_	_	_	_	_
+ki	ki[place]	N	N	D	_	_	_	_	_	_
+bu-ru-uq-ta	_	PN	PN.GEN.ABL	Iabcdef	_	_	_	_	_	_
+a-hu-wa-qar	Ahuwaqar[1][-e]	PN	PN	D	_	_	_	_	_	_
+szu	szu[hand][-e]	N	N.L3-NH	D	_	_	_	_	_	_
+ba-ti	ba[-n]-teg[accept][-ø]	V	MID.3-SG-H-A.V.3-SG-P	D	_	_	_	_	_	_
+mu	mu[year]	N	N	D	_	_	_	_	_	_

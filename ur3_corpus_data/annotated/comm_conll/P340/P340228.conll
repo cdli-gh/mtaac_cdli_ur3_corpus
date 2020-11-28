@@ -1,0 +1,23 @@
+#new_text=P340228					
+FORM	SEGM	XPOSTAG	XPOSTAG	POS	?	?	?	?	?	?
+2(iku)	2(iku)[unit]	NU	N	D	B-COUNT	m^2	7200.0	surface	gin2	12000
+GAN2	gana[field]	N	N	D	I-COUNT	*	*	*	*	*
+a-sza3	aszag[field]	N	N	D	_	_	_	_	_	_
+bala-e	_	N	N.3-SG-H-POSS.DAT-H	Iabcdef	_	_	_	_	_	_
+ab-sin2-bi	_	N	N	POS	_	_	_	_	_	_
+1(disz)	1(disz)[one]	NU	NU	D	B-COUNT	m	36	length	gi	12
+ninda	ninda[bread]	N	N	D	I-COUNT	*	*	*	*	*
+1(u)-ta	1(u)[ten]-ta	NU	NU.ABL	D	I-COUNT	*	*	*	*	*
+a-sza3	aszag[field]	N	N	D	_	_	_	_	_	_
+nesag-...	_	FN	FN	POS	_	_	_	_	_	_
+GAN2	gana[field]	N	N	D	_	_	_	_	_	_
+lugal-giri17-zal	_	PN	PN	Iabcde	_	_	_	_	_	_
+kiszib3	kiszib[seal]	N	N	D	_	_	_	_	_	_
+lugal-e2-mah-e	Lugalemahe[1]	N	PN	D	_	_	_	_	_	_
+mu	mu[year]	N	N	D	_	_	_	_	_	_
+{d}szu-{d}suen	Szusuen[1]	RN	RN	D	_	_	_	_	_	_
+lugal	lugal[king]	N	N	D	_	_	_	_	_	_
+lugal-e2-mah-e	Lugalemahe[1]	N	PN	D	_	_	_	_	_	_
+dub-sar	dubsar[scribe]	N	N	D	_	_	_	_	_	_
+dumu	dumu[child]	N	N	D	_	_	_	_	_	_
+lugal-ku3-ga-ni	Lugalkugani[1][-ak]	PN	PN.GEN	D	_	_	_	_	_	_

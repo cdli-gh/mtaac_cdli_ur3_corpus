@@ -1,0 +1,23 @@
+#new_text=P131640					
+FORM	SEGM	XPOSTAG	XPOSTAG	POS	?	?	?	?	?	?
+1(disz)	1(disz)[one]	NU	NU	D	B-COUNT	_	1	cardinal	_	1
+lugal-dur2-du10	_	PN	PN	Ia	_	_	_	_	_	_
+1(disz)	1(disz)[one]	NU	NU	D	B-COUNT	_	5	cardinal	_	5
+4(disz)	4(disz)[one]	NU	NU	D	I-COUNT	*	*	*	*	*
+ur-{d}ig-alim	Urigalim[1]	FN	PN	D	_	_	_	_	_	_
+1(disz)	1(disz)[one]	NU	NU	D	B-COUNT	_	5	cardinal	_	5
+4(disz)	4(disz)[one]	NU	NU	D	I-COUNT	*	*	*	*	*
+lugal-dur2-du10	_	PN	PN	Ia	_	_	_	_	_	_
+min	_	N	N	POS	B-COM	_	_	_	_	_
+1(disz)	1(disz)[one]	NU	NU	D	B-COUNT	_	5	cardinal	_	5
+4(disz)	4(disz)[one]	NU	NU	D	I-COUNT	*	*	*	*	*
+al-la	Alla[1]	PN	PN	D	_	_	_	_	_	_
+1(disz)	1(disz)[one]	NU	NU	D	B-COUNT	_	1	cardinal	_	1
+lu2-{d}na-ru2-a	_	PN	PN	D	_	_	_	_	_	_
+1(disz)	1(disz)[one]	NU	NU	D	B-COUNT	_	1	cardinal	_	1
+ur-{d}dam-gal-nun	_	PN	PN	Iabcde	_	_	_	_	_	_
+lu2	lu[person]	N	N	D	_	_	_	_	_	_
+na-gab2-tum-me	_	V	V	POS	_	_	_	_	_	_
+giri3	giri[foot]	N	N	D	_	_	_	_	_	_
+lu2-sa6-ga	_	PN	PN	Iabcde	_	_	_	_	_	_
+dub-sar	dubsar[scribe]	N	N	D	_	_	_	_	_	_

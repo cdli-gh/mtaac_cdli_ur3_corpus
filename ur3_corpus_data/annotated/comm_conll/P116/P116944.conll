@@ -1,0 +1,17 @@
+#new_text=P116944					
+FORM	SEGM	XPOSTAG	XPOSTAG	POS	?	?	?	?	?	?
+5(ban2)	5(ban)[unit]	NU	N	D	B-COUNT	*	*	*	*	*
+sze	sze[barley]	N	N	D	I-COUNT	*	*	*	*	*
+lugal	lugal[king]	N	N	D	_	_	_	_	_	_
+lu2-{d}ba-ba6	Lubaba[1][-ak][-ak][-ø]	PN	PN	D	_	_	_	_	_	_
+dumu	dumu[child]	N	N	D	_	_	_	_	_	_
+he2-bu-e	_	PN	PN.DAT-H	Iabcdefghij	_	_	_	_	_	_
+nar	_	N	N	POS	_	_	_	_	_	_
+{d}ba-ba6	_	DN	DN	D	_	_	_	_	_	_
+*RETOK*-capacity"	?	?	?	?	B-COUNT	l	50	"dry	*	*
+5(ban2)	5(ban)[unit]	NU	N	D	I-COUNT	*	*	*	sila3	50
+nimgir-en-ne2	_	PN	PN.DAT-H	Iab	_	_	_	_	_	_
+nar	_	N	N	POS	_	_	_	_	_	_
+{d}nansze	Nansze[1]	DN	DN	D	_	_	_	_	_	_
+im-ma	_	V	NF.V.PT	Iabcdefgh	B-COM	_	_	_	_	_
+i3-ib2-gi-in	_	V	FIN.3-SG-H.DAT.3-SG-H-A.V.3-SG-P	Iabcdefg	_	_	_	_	_	_

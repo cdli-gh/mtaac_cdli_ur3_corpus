@@ -1,0 +1,16 @@
+#new_text=P137202					
+FORM	SEGM	XPOSTAG	XPOSTAG	POS	B-COUNT	l	30	"liquid	*	*
+1(disz)	1(disz)[one]	NU	NU	D	I-COUNT	*	*	*	sila3	30
+dug	dug[pot]	N	N	D	I-COUNT	*	*	*	*	*
+lahtan2	_	FN	FN	POS	_	_	_	_	_	_
+*RETOK*-capacity"	?	?	?	?	B-COUNT	l	300	"dry	*	*
+1(asz)	1(asz)[one]	NU	NU	D	I-COUNT	*	*	*	sila3	300
+gur	gur[unit]	N	N	D	I-COUNT	*	*	*	*	*
+e2	e[house]	N	N	D	_	_	_	_	_	_
+szabra-sze3	szabra[chief_administrator][-ak]-sze	N	N.GEN.TERM	D	_	_	_	_	_	_
+ka-gigir2{gigir}	_	N	N	Ia	_	_	_	_	_	_
+ur-{d}en-ki	Urenki[1][-ra]	PN	PN	D	_	_	_	_	_	_
+gu-za-la2	guzala[throne_bearer]	N	N	D	_	_	_	_	_	_
+iti	iti[month]	N	N	D	_	_	_	_	_	_
+a2-ki-ti	Akiti[1][-'a]	N	MN.L1	D	_	_	_	_	_	_
+ba-zi	ba-zig[expend][-ø]	PN	MID.V.3-SG-S	D	_	_	_	_	_	_

@@ -1,0 +1,10 @@
+#new_text=P209640					
+FORM	SEGM	XPOSTAG	XPOSTAG	POS	?	?	?	?	?	?
+2(u)	2(u)[ten]	NU	NU	D	B-COUNT	_	none	unknown	_	none
+...	_[_]	PN	N	D	I-COUNT	*	*	*	*	*
+sahar-...-me-bi	_	PN	PN	POS	_	_	_	_	_	_
+en-du8-du-ta	_	PN	PN.GEN.ABL	Iabcdef	_	_	_	_	_	_
+en-za-gu	_	PN	PN	Iabcde	_	_	_	_	_	_
+mu	mu[year]	N	N	D	_	_	_	_	_	_
+te	_	PN	PN	POS	_	_	_	_	_	_
+mah	mah[great][-ø][-ø]	V	NF.V	D	_	_	_	_	_	_

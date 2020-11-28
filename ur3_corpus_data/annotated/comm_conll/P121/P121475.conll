@@ -1,0 +1,26 @@
+#new_text=P121475					
+FORM	SEGM	XPOSTAG	XPOSTAG	POS	?	?	?	?	?	?
+1(disz)	1(disz)[one]	NU	NU	D	B-COUNT	_	1	cardinal	_	1
+szesz-kal-la	Szeszkala[1][-ra]	PN	PN	D	_	_	_	_	_	_
+a	a[water][-ø]	N	N.ABS	D	B-COM	_	_	_	_	_
+tu5-tu5(NAGA)-da	_	NU	NU	POS	_	_	_	_	_	_
+ma2	ma[ship]	N	N	D	_	_	_	_	_	_
+szesz-da-da	Szeszdada[1]	PN	PN	D	_	_	_	_	_	_
+PA-x-x-ta	_			POS	_	_	_	_	_	_
+x-hu-um-gar	_	PN	PN	Iabcde	_	_	_	_	_	_
+...-KA	_	FN	FN	POS	_	_	_	_	_	_
+...	_[_]	PN	N	D	_	_	_	_	_	_
+szesz-da-da	Szeszdada[1]	PN	PN	D	_	_	_	_	_	_
+ugula	ugula[overseer][-ø]	N	N	D	_	_	_	_	_	_
+...	_[_]	PN	N	D	_	_	_	_	_	_
+...	_[_]	PN	N	D	_	_	_	_	_	_
+iti	iti[month]	N	N	D	_	_	_	_	_	_
+kin-{d}inanna	Kin-Inanna[1].[-’a]MN.L1	MN	MN.L1	D	_	_	_	_	_	_
+mu	mu[year]	N	N	D	_	_	_	_	_	_
+dumu-munus	dumumunus[daughter]	N	N	D	_	_	_	_	_	_
+lugal	lugal[king]	N	N	D	_	_	_	_	_	_
+ensi2	ensik[ruler]	N	N	D	_	_	_	_	_	_
+za-ab-sza-li{ki}-ke4	_	SN	SN.GEN.GEN.ERG	Iabcdef	_	_	_	_	_	_
+ba-an-tuku	_	V	MID.3-SG-H.DAT.V.3-SG-S	Iabcdefg	_	_	_	_	_	_
+an-ne2-mu	_	PN	PN.GEN.ABS	Iabcdefg	_	_	_	_	_	_
+...	_[_]	PN	N	D	_	_	_	_	_	_

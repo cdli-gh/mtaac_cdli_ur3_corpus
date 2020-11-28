@@ -1,0 +1,19 @@
+#new_text=P128330					
+FORM	SEGM	XPOSTAG	XPOSTAG	POS	?	?	?	?	?	?
+sa2-du11	sadug[offerings]	N	N	D	_	_	_	_	_	_
+...	_[_]	PN	N	D	_	_	_	_	_	_
+kiszib3	kiszib[seal]	N	N	D	_	_	_	_	_	_
+szesz-...	_	PN	PN	Iabcde	_	_	_	_	_	_
+3(barig)	3(bariga)[unit]	NU	N	D	B-COUNT	_	none	unknown	_	none
+3(ban2)	3(ban)[unit]	NU	N	D	I-COUNT	*	*	*	*	*
+5(disz)	5(disz)[one]	NU	NU	D	I-COUNT	*	*	*	*	*
+sila3	sila[unit]	N	N	D	I-COUNT	*	*	*	*	*
+...	_[_]	PN	N	D	I-COUNT	*	*	*	*	*
+nig2-mu10-us2-sa	nigmussa[gift][-ø]	N	N.ABS	D	_	_	_	_	_	_
+{d}dumu-zi	Dumuzi[1][-'a]	MN	MN.L1	D	_	_	_	_	_	_
+...	_[_]	PN	N	D	_	_	_	_	_	_
+kiszib3	kiszib[seal]	N	N	D	_	_	_	_	_	_
+al-ba-ni	_	V	V	POS	_	_	_	_	_	_
+...	_[_]	PN	N	D	_	_	_	_	_	_
+e2-kikken	_	TN	TN	POS	_	_	_	_	_	_
+sumun-ta	_	N	N	POS	_	_	_	_	_	_

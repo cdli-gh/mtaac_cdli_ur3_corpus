@@ -1,0 +1,14 @@
+#new_text=P145267					
+FORM	SEGM	XPOSTAG	XPOSTAG	POS	?	?	?	?	?	?
+2(barig)	2(bariga)[unit]	NU	N	D	B-COUNT	*	*	*	*	*
+sze	sze[barley]	N	N	D	I-COUNT	*	*	*	*	*
+lugal	lugal[king]	N	N	D	_	_	_	_	_	_
+sa2-du11	sadug[offerings]	N	N	D	_	_	_	_	_	_
+{ansze}kunga2	kunga[equid_type][-ak][-ø]	N	N.GEN.ABS	D	B-COM	_	_	_	_	_
+ku-li-ka	_	PN	PN.GEN.GEN	Iab	_	_	_	_	_	_
+ku5-dam	_	V	V	POS	_	_	_	_	_	_
+ki	ki[place]	N	N	D	_	_	_	_	_	_
+lugal-inim-gi-na-ta	_	PN	PN.GEN.ABL	Iab	_	_	_	_	_	_
+zi-ga-am3	zig[expend]-a[-ø]-am	N	NF.V.PT.ABS.COP-3-SG	D	_	_	_	_	_	_
+en3-bi	en[word]-bi[-ø]	N	N.3-SG-H-POSS.ABS	D	_	_	_	_	_	_
+tar-re-dam	_	V	NF.V.F.ABS.COP-3-SG	Iabcdef	_	_	_	_	_	_

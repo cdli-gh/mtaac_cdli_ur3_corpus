@@ -1,0 +1,26 @@
+#new_text=P139605					
+FORM	SEGM	XPOSTAG	XPOSTAG	POS	?	?	?	?	?	?
+3(iku)	3(iku)[unit]	NU	N	D	B-COUNT	m^2	10800.0	surface	gin2	18000
+GAN2	gana[field]	N	N	D	I-COUNT	*	*	*	*	*
+*RETOK*-capacity"	?	?	?	?	B-COUNT	l	1200	"dry	*	*
+4(asz)	4(asz)[one]	NU	NU	D	I-COUNT	*	*	*	sila3	1200
+gur	gur[unit]	N	N	D	I-COUNT	*	*	*	*	*
+ur-{gesz}gigir	Urgigir[1]	PN	PN	D	B-COM	_	_	_	_	_
+dumu	dumu[child]	N	N	D	_	_	_	_	_	_
+{d}szara2-ga2	_	PN	PN.GEN.L1	Iabcdefgh	_	_	_	_	_	_
+a-sza3	aszag[field]	N	N	D	_	_	_	_	_	_
+gaba	gaba[frontier][-ak]	N	N	D	_	_	_	_	_	_
+{d}nin-ki-ka	_	DN	DN.GEN.ABS	Iab	_	_	_	_	_	_
+1(bur3)	1(bur)[unit]	NU	N	D	B-COUNT	m^2	64800.0	surface	gin2	108000
+GAN2	gana[field]	N	N	D	I-COUNT	*	*	*	*	*
+*RETOK*-capacity"	?	?	?	?	B-COUNT	l	12000	"dry	*	*
+4(u)	4(u)[ten]	NU	NU	D	I-COUNT	*	*	*	sila3	12000
+gur	gur[unit]	N	N	D	I-COUNT	*	*	*	*	*
+inim-{d}inanna	Iniminanna[1]	PN	PN	D	_	_	_	_	_	_
+a-sza3	aszag[field]	N	N	D	_	_	_	_	_	_
+u2-du-{d}nin-a-ra-li	Uduninarali[1][-ak][-sze]	FN	FN.GEN.TERM	D	_	_	_	_	_	_
+szuku-am3	_	N	N	POS	_	_	_	_	_	_
+mu	mu[year]	N	N	D	_	_	_	_	_	_
+us2-sa	us[follow]-a	V	NF.V.PT	D	_	_	_	_	_	_
+{d}amar-{d}suen	Amarsuen[1]	RN	RN	D	_	_	_	_	_	_
+lugal	lugal[king]	N	N	D	_	_	_	_	_	_

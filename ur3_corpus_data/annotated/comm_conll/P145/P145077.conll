@@ -1,0 +1,18 @@
+#new_text=P145077					
+FORM	SEGM	XPOSTAG	XPOSTAG	POS	B-COUNT	l	0.0009259259259259259	"dry	*	*
+1(u)	1(u)[ten]	NU	NU	D	I-COUNT	*	*	*	sila3	0.0009259259259259259
+sze	sze[barley]	N	N	D	I-COUNT	*	*	*	*	*
+gur	gur[unit]	N	N	D	I-COUNT	*	*	*	*	*
+KA-NE-NE	_	PN	PN	Ia	_	_	_	_	_	_
+ki	ki[place]	N	N	D	B-COM	_	_	_	_	_
+hu-ma-za-ta	_	V	V	POS	_	_	_	_	_	_
+dingir-szu-mu-da-re2-eq	_	PN	PN.GEN.ERG	Iabcdefg	_	_	_	_	_	_
+szu	szu[hand][-e]	N	N.L3-NH	D	_	_	_	_	_	_
+ba-ti	ba[-n]-teg[accept][-ø]	V	MID.3-SG-H-A.V.3-SG-P	D	_	_	_	_	_	_
+mu	mu[year]	N	N	D	_	_	_	_	_	_
+e2	e[house]	N	N	D	_	_	_	_	_	_
+{d}szara2	Szara[1][-ak]	DN	DN	D	_	_	_	_	_	_
+ba-du3	ba-du[build][-ø]	V	MID.V.3-SG-S	D	_	_	_	_	_	_
+dingir-szu-mu-da-re6-eq	_	PN	PN.GEN.ERG	Iabcdefg	_	_	_	_	_	_
+dumu	dumu[child]	N	N	D	_	_	_	_	_	_
+ip-qu2-sza	_	PN	PN	Ia	_	_	_	_	_	_

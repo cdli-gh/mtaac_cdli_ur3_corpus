@@ -1,0 +1,27 @@
+#new_text=P136873					
+FORM	SEGM	XPOSTAG	XPOSTAG	POS	?	?	?	?	?	?
+x	_[_]	N	N	D	_	_	_	_	_	_
+gin2	gig[unit]	N	N	D	_	_	_	_	_	_
+igi-3(disz)-gal2	_	NU	NU	Iabcde	B-COUNT	_	0.3333333333333333	cardinal	_	0.3333333333333333
+{na4}za-gin3	_	N	N.ABS	Iabcde	B-COM	_	_	_	_	_
+x	_[_]	N	N	D	_	_	_	_	_	_
+sag	sag[head]	N	N	D	_	_	_	_	_	_
+nig2	_	N	N	D	_	_	_	_	_	_
+nu-ur2-ma	_	V	V	POS	_	_	_	_	_	_
+x	_[_]	N	N	D	_	_	_	_	_	_
+nagar-e	_	N	N.ABS.COP-3-PL	Iabcdefgh	_	_	_	_	_	_
+1(disz)-sze3	1(disz)[one]-sze	NU	NU.TERM	D	B-COUNT	_	1	cardinal	_	1
+ki	ki[place]	N	N	D	B-COM	_	_	_	_	_
+ARAD2-{d}nanna-ta	_	PN	PN.GEN.GEN.ABL	Iabcdef	_	_	_	_	_	_
+a-hu-wa-qar	Ahuwaqar[1][-e]	PN	PN	D	_	_	_	_	_	_
+szu	szu[hand][-e]	N	N.L3-NH	D	_	_	_	_	_	_
+ba-ti	ba[-n]-teg[accept][-ø]	V	MID.3-SG-H-A.V.3-SG-P	D	_	_	_	_	_	_
+iti	iti[month]	N	N	D	_	_	_	_	_	_
+ezem-{d}szul-gi	Ezemszulgir[1][-'a]	MN	MN.L1	D	_	_	_	_	_	_
+u4	ud[day]	N	N	D	_	_	_	_	_	_
+9(disz)	9(disz)[one]	NU	NU	D	B-COUNT	_	9	cardinal	_	9
+ba-zal	ba-zal[pass][-ø][-a][-'a]	V	MID.V.3-SG-S.SUB	D	_	_	_	_	_	_
+mu	mu[year]	N	N	D	_	_	_	_	_	_
+x	_[_]	N	N	D	_	_	_	_	_	_
+x	_[_]	N	N	D	_	_	_	_	_	_
+x	_[_]	N	N	D	_	_	_	_	_	_

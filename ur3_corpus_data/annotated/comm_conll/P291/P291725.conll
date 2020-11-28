@@ -1,0 +1,17 @@
+#new_text=P291725					
+FORM	SEGM	XPOSTAG	XPOSTAG	POS	?	?	?	?	?	?
+1(u)	1(u)[ten]	NU	NU	D	B-COUNT	_	10	cardinal	_	10
+sag-kesz2	sagkesz[state of goods]	N	N	D	B-COM	_	_	_	_	_
+esztub{ku6}	_	N	N	Ia	_	_	_	_	_	_
+1(u)	1(u)[ten]	NU	NU	D	B-COUNT	_	12	cardinal	_	12
+2(disz)	2(disz)[one]	NU	NU	D	I-COUNT	*	*	*	*	*
+sag-kesz2	sagkesz[state of goods]	N	N	D	_	_	_	_	_	_
+nun	_	N	N	D	_	_	_	_	_	_
+3(disz)	3(disz)[one]	NU	NU	D	B-COUNT	_	3	cardinal	_	3
+muszen	_	N	N	Ia	B-COM	_	_	_	_	_
+ur-{gesz}gigir	Urgigir[1]	PN	PN	D	_	_	_	_	_	_
+enku	enkud[tax_collector][-ak]	N	N.GEN	D	_	_	_	_	_	_
+mu-kux(DU)	mukur[delivery][-ø]	N	N	D	_	_	_	_	_	_
+szu-nir	szunir[emblem][-sze]	N	N	D	_	_	_	_	_	_
+iti	iti[month]	N	N	D	_	_	_	_	_	_
+pa5-u2-e	Pa'u'e[1][-'a]	MN	MN.L1	D	_	_	_	_	_	_

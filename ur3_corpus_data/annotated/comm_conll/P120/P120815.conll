@@ -1,0 +1,22 @@
+#new_text=P120815					
+FORM	SEGM	XPOSTAG	XPOSTAG	POS	B-COUNT	l	0.00018518518518518518	"dry	*	*
+2(asz)	2(asz)[one]	NU	NU	D	I-COUNT	*	*	*	sila3	0.00018518518518518518
+sze	sze[barley]	N	N	D	I-COUNT	*	*	*	*	*
+gur	gur[unit]	N	N	D	I-COUNT	*	*	*	*	*
+lugal	lugal[king]	N	N	D	_	_	_	_	_	_
+ki	ki[place]	N	N	D	B-COM	_	_	_	_	_
+{d}utu-di-de3-ta	_	PN	PN.GEN.ABL	Iab	_	_	_	_	_	_
+sze	sze[barley]	N	N	D	_	_	_	_	_	_
+masz	masz[interest]	N	N	D	_	_	_	_	_	_
+nu-tuku-am3	_	V	NEG.V.3-SG-S.SUB.COP-3-SG	Iabcdefg	_	_	_	_	_	_
+ur-{d}utu-ke4	_	PN	PN.GEN.ERG	Iabcdefg	_	_	_	_	_	_
+iti	iti[month]	N	N	D	_	_	_	_	_	_
+szu-numun-ka	_	MN	MN.L1	Iabcdefgh	_	_	_	_	_	_
+su-su-dam	sug-sug[repay]-ed[-ø]-am	PN	NF.V.RDP.F.ABS.COP-3-SG	D	_	_	_	_	_	_
+mu	mu[year]	N	N	D	_	_	_	_	_	_
+ur-{d}utu-sze3	_	PN	PN.GEN.TERM	Iabcdefg	_	_	_	_	_	_
+kiszib3	kiszib[seal]	N	N	D	_	_	_	_	_	_
+lugal-dumu-gi7	_	PN	PN	D	_	_	_	_	_	_
+lugal-dumu-gi7	_	PN	PN	D	_	_	_	_	_	_
+dumu	dumu[child]	N	N	D	_	_	_	_	_	_
+ur-...	_[1][-ak]	PN	PN.GEN.ABS	D	_	_	_	_	_	_

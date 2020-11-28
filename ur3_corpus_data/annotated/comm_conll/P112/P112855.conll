@@ -1,0 +1,16 @@
+#new_text=P112855					
+FORM	SEGM	XPOSTAG	XPOSTAG	POS	?	?	?	?	?	?
+1(bur3)	1(bur)[unit]	NU	N	D	B-COUNT	m^2	64800.0	surface	gin2	108000
+GAN2	gana[field]	N	N	D	I-COUNT	*	*	*	*	*
+sag-nig2-gur11	_	N	N	Ia	_	_	_	_	_	_
+zi-ga-bi	_	N	N	POS	_	_	_	_	_	_
+BAD	_	PN	PN	POS	B-COM	_	_	_	_	_
+nu-u3-diri	_	V	NEG.FIN.3-SG-H-A.V.3-PL.SUB.ABS	Iab	_	_	_	_	_	_
+a-sza3	aszag[field]	N	N	D	_	_	_	_	_	_
+ul4-ul4	_	FN	FN	POS	_	_	_	_	_	_
+8(bur3)	8(bur)[unit]	NU	N	D	B-COUNT	m^2	518400.0	surface	gin2	864000
+GAN2	gana[field]	N	N	D	I-COUNT	*	*	*	*	*
+sag-nig2-gur11	_	N	N	Ia	_	_	_	_	_	_
+zi-ga-bi	_	N	N	POS	_	_	_	_	_	_
+sze	sze[barley]	N	N	D	B-COM	_	_	_	_	_
+nu-u3-diri	_	V	NEG.FIN.3-SG-H-A.V.3-PL.SUB.ABS	Iab	_	_	_	_	_	_

@@ -1,0 +1,21 @@
+#new_text=P136997					
+FORM	SEGM	XPOSTAG	XPOSTAG	POS	?	?	?	?	?	?
+3(u)	3(u)[ten]	NU	NU	D	B-COUNT	g	16250.000000000002	weight	gin2	1950.0
+2(disz)	2(disz)[one]	NU	NU	D	I-COUNT	*	*	*	*	*
+1/2(disz)	1/2(disz)[one]	NU	NU	D	I-COUNT	*	*	*	*	*
+ma-na	mana[unit]	N	N	D	I-COUNT	*	*	*	*	*
+uruda	urud[copper][-ak]	N	N	D	B-COM	_	_	_	_	_
+ki	ki[place]	N	N	D	_	_	_	_	_	_
+{d}i-bi2-{d}suen-{d}en-lil2-da-nir-gal2-ta	_	PN	PN.GEN.ABL	Iabcdefgh	_	_	_	_	_	_
+a-hu-wa-qar	Ahuwaqar[1][-e]	PN	PN	D	_	_	_	_	_	_
+szu	szu[hand][-e]	N	N.L3-NH	D	_	_	_	_	_	_
+ba-ti	ba[-n]-teg[accept][-ø]	V	MID.3-SG-H-A.V.3-SG-P	D	_	_	_	_	_	_
+mu	mu[year]	N	N	D	_	_	_	_	_	_
+{d}i-bi2-{d}suen	Ibbisuen[1]	RN	RN	D	_	_	_	_	_	_
+lugal	lugal[king]	N	N	D	_	_	_	_	_	_
+uri5{ki}-ma-ra	_	SN	SN.GEN.GEN	Iabcdef	_	_	_	_	_	_
+{d}nanna-a	_	DN	DN.COM	D	_	_	_	_	_	_
+sza3	szag[heart]	N	N	D	_	_	_	_	_	_
+ki-ag2-ga2-ni	_	N	NF.V.3-SG-H-POSS.ABS	D	_	_	_	_	_	_
+dalla	_	V	V	POS	_	_	_	_	_	_
+mu-un-na-an-e3-a	_	V	VEN.3-SG-H.DAT.L1.3-SG-H-A.V.3-SG-P	Iabcdefgh	_	_	_	_	_	_

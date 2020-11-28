@@ -1,0 +1,22 @@
+#new_text=P103954					
+FORM	SEGM	XPOSTAG	XPOSTAG	POS	?	?	?	?	?	?
+1(disz)	1(disz)[one]	NU	NU	D	B-COUNT	_	1	cardinal	_	1
+{gesz}na2	nu[night_bird]	N	N	D	B-COM	_	_	_	_	_
+{gesz}ha-lu-ub2	_	N	N	Ia	_	_	_	_	_	_
+siki-gi	sikigi[wool_type]	N	N	D	_	_	_	_	_	_
+ak	ak[excavate][-a][-ak]	V	NF.V.PT	D	_	_	_	_	_	_
+lu2-{d}szara2-ke4	_	PN	PN.GEN.ERG	Iab	_	_	_	_	_	_
+3(disz)	3(disz)[one]	NU	NU	D	B-COUNT	_	none	unknown	_	none
+5/6(disz)	5/6(disz)[one]	NU	NU	D	I-COUNT	*	*	*	*	*
+gin2	gig[unit]	N	N	D	I-COUNT	*	*	*	*	*
+...	_[_]	PN	N	D	I-COUNT	*	*	*	*	*
+ur-{d}...	_[1][-ra]	PN	PN.GEN	D	_	_	_	_	_	_
+in-na-szum2	_	PN	PN.GEN	Iabcdefgh	_	_	_	_	_	_
+a-na-ak-du-du	_	PN	PN	POS	_	_	_	_	_	_
+me-{d}er3-ra	_	PN	PN	Iabc	_	_	_	_	_	_
+lu2	lu[person]	N	N	D	_	_	_	_	_	_
+ki	ki[place]	N	N	D	B-COM	_	_	_	_	_
+inim-me	_	PN	PN	Iabcdefgh	_	_	_	_	_	_
+u4	ud[day]	N	N	D	_	_	_	_	_	_
+1(u)-kam-ma-ka	_	NU	NU.GEN.COP-3-SG.GEN.ABS	Iabcdefg	B-COUNT	_	10	cardinal	_	10
+ha-mu-gur-e	_	V	MOD1.VEN.3-SG-H.DAT.3-SG-H-A.V.3-SG-P	Iabcdefghi	_	_	_	_	_	_

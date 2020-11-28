@@ -1,0 +1,25 @@
+#new_text=P125434					
+FORM	SEGM	XPOSTAG	XPOSTAG	POS	?	?	?	?	?	?
+3(gesz2)	3(gesz)[sixty]	NU	NU	D	B-COUNT	_	225	cardinal	_	225
+4(u)	4(u)[ten]	NU	NU	D	I-COUNT	*	*	*	*	*
+5(disz)	5(disz)[one]	NU	NU	D	I-COUNT	*	*	*	*	*
+udu	udu[sheep]	N	N	D	B-COM	_	_	_	_	_
+ba-usz2	ba-ug[die][-esz]	V	MID.V.PL.3-PL-S	D	_	_	_	_	_	_
+sza3	szag[heart]	N	N	D	_	_	_	_	_	_
+gu2	gun[unit]	N	N	D	_	_	_	_	_	_
+a-dam-szah2{ki}	_	GN	SN	D	_	_	_	_	_	_
+kusz-bi	_	N	N.3-SG-NH-POSS.ABS	Iabcde	_	_	_	_	_	_
+gesz-kin-ti	geszkigti[workshop][-ak]	N	N.GEN	D	_	_	_	_	_	_
+ba-an-ku4	ba-n-kur[enter][-ø]	V	MID.L1-SYN.V.3-SG-S	D	_	_	_	_	_	_
+ad6-bi	_	N	N	POS	_	_	_	_	_	_
+e2-kiszib3-ba-sze3	ekiszibak[storeroom]-sze	TN	N.TERM	D	_	_	_	_	_	_
+ba-an-ku4	ba-n-kur[enter][-ø]	V	MID.L1-SYN.V.3-SG-S	D	_	_	_	_	_	_
+ki	ki[place]	N	N	D	_	_	_	_	_	_
+na-sa6-ta	Nasa[1][-ak]-ta	PN	PN.GEN.ABL	D	_	_	_	_	_	_
+ba-zi	ba-zig[expend][-ø]	PN	MID.V.3-SG-S	D	_	_	_	_	_	_
+iti	iti[month]	N	N	D	_	_	_	_	_	_
+ezem-mah	Ezemmah[1][-'a]	MN	MN.L1	D	_	_	_	_	_	_
+mu	mu[year]	N	N	D	_	_	_	_	_	_
+us2-sa	us[follow]-a	V	NF.V.PT	D	_	_	_	_	_	_
+ki-masz{ki}	Kimasz[1]	SN	SN.ABS	D	_	_	_	_	_	_
+ba-hul	ba-hulu[destroy][-ø]	V	MID.V.3-SG-S	D	_	_	_	_	_	_

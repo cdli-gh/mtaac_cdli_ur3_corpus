@@ -1,0 +1,23 @@
+#new_text=P211870					
+FORM	SEGM	XPOSTAG	XPOSTAG	POS	?	?	?	?	?	?
+4(gesz2)	4(gesz)[sixty]	NU	NU	D	B-COUNT	_	240	cardinal	_	240
+ku6	kud[fish]	N	N	D	B-COM	_	_	_	_	_
+al-dar	_	V	V	POS	_	_	_	_	_	_
+6(gesz2)	6(gesz)[sixty]	NU	NU	D	B-COUNT	_	360	cardinal	_	360
+ku6	kud[fish]	N	N	D	_	_	_	_	_	_
+kun-zi	_	N	N	POS	_	_	_	_	_	_
+5(disz)	5(disz)[one]	NU	NU	D	B-COUNT	_	5	cardinal	_	5
+ku6	kud[fish]	N	N	D	_	_	_	_	_	_
+{gi}hal	hal[basket]	N	N	D	_	_	_	_	_	_
+2(disz)	2(disz)[one]	NU	NU	D	B-COUNT	_	2	cardinal	_	2
+gir	_	N	N	POS	_	_	_	_	_	_
+ma-sa2-ab	_	PN	PN	Iabcde	_	_	_	_	_	_
+du6-ku3	_	PN	PN	POS	_	_	_	_	_	_
+{d}en-lil2-la2-sze3	Enlil[1]-ak-sze	DN	DN.GEN.TERM	D	_	_	_	_	_	_
+ki	ki[place]	N	N	D	B-COM	_	_	_	_	_
+lugal-sa6-ga-ta	_	PN	PN.GEN.ABL	Iab	_	_	_	_	_	_
+u3-ma-ni	Umani[1]	V	PN	D	_	_	_	_	_	_
+szu	szu[hand][-e]	N	N.L3-NH	D	_	_	_	_	_	_
+ba-ti	ba[-n]-teg[accept][-ø]	V	MID.3-SG-H-A.V.3-SG-P	D	_	_	_	_	_	_
+iti	iti[month]	N	N	D	_	_	_	_	_	_
+min8-esz3	_	MN	MN.L1	Iab	_	_	_	_	_	_

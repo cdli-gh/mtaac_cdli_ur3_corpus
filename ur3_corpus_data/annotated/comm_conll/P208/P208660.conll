@@ -1,0 +1,18 @@
+#new_text=P208660					
+FORM	SEGM	XPOSTAG	XPOSTAG	POS	B-COUNT	l	7	"liquid	*	*
+*RETOK*-capacity"	?	?	?	?	I-COUNT	l	7	"dry	sila3	7
+7(disz)	7(disz)[one][-sze]	NU	NU	D	I-COUNT	*	*	*	sila3	7
+sila3	sila[unit]	N	N	D	I-COUNT	*	*	*	*	*
+esir2	esir[bitumen]	N	N	D	B-COM	_	_	_	_	_
+E2-A	Ea[1]	ON	ON	D	_	_	_	_	_	_
+gi-gur5	_	N	N	Ia	_	_	_	_	_	_
+ki	ki[place]	N	N	D	_	_	_	_	_	_
+ezem-ma	_	N	N	POS	_	_	_	_	_	_
+{d}szul-gi-ra-ke4	_	DN	DN	POS	_	_	_	_	_	_
+ba-ab-su-ub	_	V	V	POS	_	_	_	_	_	_
+ki	ki[place]	N	N	D	_	_	_	_	_	_
+ur-e11-e-ta	Ure'e[1][-ak]-ta	PN	PN.GEN.ABL	D	_	_	_	_	_	_
+kiszib3	kiszib[seal]	N	N	D	_	_	_	_	_	_
+ur-e11-e	Ure'e[1][-ak]	PN	PN	D	_	_	_	_	_	_
+mu	mu[year]	N	N	D	_	_	_	_	_	_
+ha-ar-szi{ki}	Harszi[1]	SN	SN	D	_	_	_	_	_	_

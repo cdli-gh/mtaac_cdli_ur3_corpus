@@ -1,0 +1,25 @@
+#new_text=P128482					
+FORM	SEGM	XPOSTAG	XPOSTAG	POS	B-COUNT	l	20	"liquid	*	*
+*RETOK*-capacity"	?	?	?	?	I-COUNT	l	20	"dry	sila3	20
+2(u)	2(u)[ten]	NU	NU	D	I-COUNT	*	*	*	sila3	20
+sila3	sila[unit]	N	N	D	I-COUNT	*	*	*	*	*
+kasz	kasz[beer]	N	N	D	B-COM	_	_	_	_	_
+saga	saga[good][-ø]	V	NF.V.ABS	D	_	_	_	_	_	_
+*RETOK*-capacity"	?	?	?	?	B-COUNT	l	20	"liquid	*	*
+*RETOK*-capacity"	?	?	?	?	I-COUNT	l	20	"dry	sila3	20
+2(u)	2(u)[ten]	NU	NU	D	I-COUNT	*	*	*	sila3	20
+sila3	sila[unit]	N	N	D	I-COUNT	*	*	*	*	*
+kasz	kasz[beer]	N	N	D	B-COM	_	_	_	_	_
+du	gin[quality_designation][-ø]	V	NF.V.ABS	D	_	_	_	_	_	_
+ur-ki-um	_	PN	PN.GEN	Iabcde	_	_	_	_	_	_
+ensi2	ensik[ruler]	N	N	D	_	_	_	_	_	_
+szuszin{ki}	_	SN	SN.GEN.ABS	D	_	_	_	_	_	_
+zi-ga	zig[expend]-a	V	NF.V.PT	D	_	_	_	_	_	_
+a-kal-la	Akala[1]	PN	PN	D	_	_	_	_	_	_
+iti	iti[month]	N	N	D	_	_	_	_	_	_
+szu-numun	Szunumun[1][-'a]	MN	MN.L1	D	_	_	_	_	_	_
+mu	mu[year]	N	N	D	_	_	_	_	_	_
+kar2-har{ki}	_	GN	SN.GEN	D	_	_	_	_	_	_
+a-ra2	ara[times]	N	N	D	_	_	_	_	_	_
+3(disz)-kam-asz	3(disz)[one]-ak-am-sze	NU	NU.GEN.COP-3-SG.TERM	D	B-COUNT	_	3	cardinal	_	3
+ba-hul	ba-hulu[destroy][-ø]	V	MID.V.3-SG-S	D	_	_	_	_	_	_

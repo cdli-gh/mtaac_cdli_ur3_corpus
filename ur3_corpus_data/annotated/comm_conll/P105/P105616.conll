@@ -1,0 +1,25 @@
+#new_text=P105616					
+FORM	SEGM	XPOSTAG	XPOSTAG	POS	B-COUNT	l	3950	"dry	*	*
+1(u)	1(u)[ten]	NU	NU	D	I-COUNT	*	*	*	sila3	3950
+3(asz)	3(asz)[one]	NU	NU	D	I-COUNT	*	*	*	*	*
+5(ban2)	5(ban)[unit]	NU	N	D	I-COUNT	*	*	*	*	*
+gig	gig[resin_type]	N	N	D	B-COM	_	_	_	_	_
+gur	gur[unit]	N	N	D	_	_	_	_	_	_
+lugal	lugal[king]	N	N	D	_	_	_	_	_	_
+2(asz)	2(asz)[one]	NU	NU	D	B-COUNT	*	*	*	*	*
+3(barig)	3(bariga)[unit]	NU	N	D	I-COUNT	*	*	*	*	*
+sze	sze[barley]	N	N	D	I-COUNT	*	*	*	*	*
+gig-ta	_	V	V	POS	B-COM	_	_	_	_	_
+du3-a	du[build]-a	V	NF.V.PT	D	_	_	_	_	_	_
+ki	ki[place]	N	N	D	_	_	_	_	_	_
+a-hu-szu-ni-ta	_	PN	PN.GEN.ABL	Iab	_	_	_	_	_	_
+kiszib3-bi	kiszib[seal]-bi[-ø]	N	N.3-SG-NH-POSS.ABS	D	_	_	_	_	_	_
+e2-gal-la	egal[palace]-'a	N	N.L1	D	_	_	_	_	_	_
+kux(KWU147)-ra	kur[enter]-a	V	NF.V.PT	D	_	_	_	_	_	_
+a-hu-szu-ni	_	PN	PN.GEN.ABS	Iabcdef	_	_	_	_	_	_
+nu-u3-na-zi	_	PN	PN	POS	_	_	_	_	_	_
+zi-zi-dam	_	V	V	POS	_	_	_	_	_	_
+mu	mu[year]	N	N	D	_	_	_	_	_	_
+bad3	bad[wall]	N	N	D	_	_	_	_	_	_
+ma-da	mada[land][-ak][-ø]	N	N	D	_	_	_	_	_	_
+ba-du3	ba-du[build][-ø]	V	MID.V.3-SG-S	D	_	_	_	_	_	_

@@ -1,0 +1,20 @@
+#new_text=P381686					
+FORM	SEGM	XPOSTAG	XPOSTAG	POS	?	?	?	?	?	?
+2(gesz2)	2(gesz)[sixty]	NU	NU	D	B-COUNT	_	170	cardinal	_	170
+5(u)	5(u)[ten]	NU	NU	D	I-COUNT	*	*	*	*	*
+ha-bu-da	_	V	V	POS	B-COM	_	_	_	_	_
+uruda	urud[copper][-ak]	N	N	D	_	_	_	_	_	_
+1(gesz2)	1(gesz)[sixty]	NU	NU	D	B-COUNT	_	101	cardinal	_	101
+4(u)	4(u)[ten]	NU	NU	D	I-COUNT	*	*	*	*	*
+1(asz)	1(asz)[one]	NU	NU	D	I-COUNT	*	*	*	*	*
+gur10-a{uruda}	_	PN	PN	POS	_	_	_	_	_	_
+1(gesz2)	1(gesz)[sixty]	NU	NU	D	B-COUNT	_	95	cardinal	_	95
+3(u)	3(u)[ten]	NU	NU	D	I-COUNT	*	*	*	*	*
+5(disz)	5(disz)[one]	NU	NU	D	I-COUNT	*	*	*	*	*
+kid	kid[mat]	N	N	D	_	_	_	_	_	_
+sal	_	N	N	POS	_	_	_	_	_	_
+mah2	_	V	V	POS	B-COM	_	_	_	_	_
+ib2-tak4	_	N	N	POS	_	_	_	_	_	_
+mu	mu[year]	N	N	D	_	_	_	_	_	_
+us2	us[follow][-ø]	V	NF.V.ABS	D	_	_	_	_	_	_
+dingir	_	PN	N	D	_	_	_	_	_	_

@@ -1,0 +1,27 @@
+#new_text=P138573					
+FORM	SEGM	XPOSTAG	XPOSTAG	POS	?	?	?	?	?	?
+1(u)	1(u)[ten]	NU	NU	D	B-COUNT	g	5750.0	weight	gin2	690.0
+1(disz)	1(disz)[one]	NU	NU	D	I-COUNT	*	*	*	*	*
+1/2(disz)	1/2(disz)[one]	NU	NU	D	I-COUNT	*	*	*	*	*
+ma-na	mana[unit]	N	N	D	I-COUNT	*	*	*	*	*
+uruda	urud[copper][-ak]	N	N	D	B-COM	_	_	_	_	_
+sze-ba	szeba[ration]	N	N	D	_	_	_	_	_	_
+aga3-us2	aga'us[soldier]	N	N	D	_	_	_	_	_	_
+x	_[_]	N	N	D	_	_	_	_	_	_
+szu-{d}suen	Szusuen[1]	PN	RN	D	_	_	_	_	_	_
+2(disz)	2(disz)[one]	NU	NU	D	B-COUNT	_	none	unknown	_	none
+x	_[_]	N	N	D	I-COUNT	*	*	*	*	*
+...	_[_]	PN	N	D	_	_	_	_	_	_
+i3-li2	_	PN	PN	Iabcde	B-COM	_	_	_	_	_
+x	_[_]	N	N	D	_	_	_	_	_	_
+mu-ni-dim2	_	V	VEN.3-SG-H.DAT.3-SG-H-A.V.3-SG-P	Iabcdefghij	_	_	_	_	_	_
+...-du10-ta	_	PN	PN.GEN.ABL	Iab	_	_	_	_	_	_
+...	_[_]	PN	N	D	_	_	_	_	_	_
+lugal-i3-di3	_	PN	PN	Iabc	_	_	_	_	_	_
+iti	iti[month]	N	N	D	_	_	_	_	_	_
+ezem-{d}me-ki-gal2	Ezemmekigal[1]-['a]	MN	MN.L1	D	_	_	_	_	_	_
+na	na[stone_weight]	V	N	D	_	_	_	_	_	_
+5(disz)	5(disz)[one]	NU	NU	D	B-COUNT	_	5	cardinal	_	5
+du	gin[quality_designation][-ø]	V	NF.V.ABS	D	_	_	_	_	_	_
+2(disz)-kam	2(disz)[one]-ak-am	NU	NU.GEN.COP-3-SG	D	B-COUNT	_	2	cardinal	_	2
+...	_[_]	PN	N	D	_	_	_	_	_	_

@@ -1,0 +1,13 @@
+#new_text=P142300					
+FORM	SEGM	XPOSTAG	XPOSTAG	POS	B-COUNT	l	320	"dry	*	*
+1(asz)	1(asz)[one]	NU	NU	D	I-COUNT	*	*	*	sila3	320
+2(ban2)	2(ban)[unit]	NU	N	D	I-COUNT	*	*	*	*	*
+i3-nun	inun[ghee]	PN	N	D	B-COM	_	_	_	_	_
+gur	gur[unit]	N	N	D	_	_	_	_	_	_
+sag	sag[head]	N	N	D	_	_	_	_	_	_
+i3	i[oil]	N	N	D	_	_	_	_	_	_
+zi-ga	zig[expend]-a	V	NF.V.PT	D	_	_	_	_	_	_
+bala	bala[turn][-'a]	N	N.L1	D	_	_	_	_	_	_
+nig2-ka9	nigSZID[account]	N	N	D	_	_	_	_	_	_
+si-i3-tum-ma-ka	_	N	N	POS	_	_	_	_	_	_
+zi-zi-dam	_	V	V	POS	_	_	_	_	_	_

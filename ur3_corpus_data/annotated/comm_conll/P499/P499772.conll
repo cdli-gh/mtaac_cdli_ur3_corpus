@@ -1,0 +1,17 @@
+#new_text=P499772					
+FORM	SEGM	XPOSTAG	XPOSTAG	POS	?	?	?	?	?	?
+gu4	gud[ox]	N	N	D	_	_	_	_	_	_
+bir3	_	N	N	POS	_	_	_	_	_	_
+1(u)	1(u)[ten]	NU	NU	D	B-COUNT	_	10	cardinal	_	10
+6(disz)-kam	6(disz)[one]-ak-am	NU	NU.GEN.COP-3-SG	D	B-COUNT	_	6	cardinal	_	6
+gu4	gud[ox]	N	N	D	B-COM	_	_	_	_	_
+ARAD2-mu-ta	_	PN	PN.GEN.ABL	Iab	_	_	_	_	_	_
+ki	ki[place]	N	N	D	_	_	_	_	_	_
+na-silim	Nasilim[1][-ak][-ø]	PN	PN	D	_	_	_	_	_	_
+engar-a	_	N	N	Ia	_	_	_	_	_	_
+mu	mu[year]	N	N	D	_	_	_	_	_	_
+{d}i-bi2-{d}suen	Ibbisuen[1]	RN	RN	D	_	_	_	_	_	_
+lugal-am3	_	N	N	POS	_	_	_	_	_	_
+na-silim	Nasilim[1][-ak][-ø]	PN	PN	D	_	_	_	_	_	_
+dumu	dumu[child]	N	N	D	_	_	_	_	_	_
+nin-kal-la	Ninkala[1][-ra]	PN	PN.DAT-H	D	_	_	_	_	_	_

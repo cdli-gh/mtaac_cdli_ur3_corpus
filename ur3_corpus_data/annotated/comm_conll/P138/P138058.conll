@@ -1,0 +1,27 @@
+#new_text=P138058					
+FORM	SEGM	XPOSTAG	XPOSTAG	POS	?	?	?	?	?	?
+1(disz)	1(disz)[one]	NU	NU	D	B-COUNT	_	1	cardinal	_	1
+tug2	tug[textile]	N	N	D	B-COM	_	_	_	_	_
+bar-dul5	_	N	N	Ia	_	_	_	_	_	_
+du	gin[quality_designation][-ø]	V	NF.V.ABS	D	_	_	_	_	_	_
+1(disz)	1(disz)[one]	NU	NU	D	B-COUNT	_	1	cardinal	_	1
+tug2	tug[textile]	N	N	D	_	_	_	_	_	_
+guz-za	guz[tufted]-a	V	NF.V.PT	D	_	_	_	_	_	_
+du	gin[quality_designation][-ø]	V	NF.V.ABS	D	_	_	_	_	_	_
+nig2-ba	nigba[gift]	N	N	D	_	_	_	_	_	_
+ab-ba-dingir	_	PN	PN.GEN.DAT-H	Iab	_	_	_	_	_	_
+engar	engar[farmer]	N	N	D	_	_	_	_	_	_
+a-gar3	_	N	N	POS	B-COM	_	_	_	_	_
+gu-la	gal[big][-ø][-sze]	PN	NF.V.ABS	D	_	_	_	_	_	_
+mu	mu[year]	N	N	D	_	_	_	_	_	_
+a-sza3	aszag[field]	N	N	D	_	_	_	_	_	_
+nig2-en-na-ka	_	PN	PN	POS	_	_	_	_	_	_
+i3-dub-ba-ta	_	V	V	POS	_	_	_	_	_	_
+in-uru4-a-sze3	_	V	V	POS	_	_	_	_	_	_
+zi-ga	zig[expend]-a	V	NF.V.PT	D	_	_	_	_	_	_
+iti	iti[month]	N	N	D	_	_	_	_	_	_
+ezem-{d}szul-gi	Ezemszulgir[1][-'a]	MN	MN.L1	D	_	_	_	_	_	_
+mu	mu[year]	N	N	D	_	_	_	_	_	_
+x	_[_]	N	N	D	_	_	_	_	_	_
+x	_[_]	N	N	D	_	_	_	_	_	_
+x	_[_]	N	N	D	_	_	_	_	_	_

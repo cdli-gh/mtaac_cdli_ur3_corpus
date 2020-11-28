@@ -1,0 +1,22 @@
+#new_text=P131008					
+FORM	SEGM	XPOSTAG	XPOSTAG	POS	?	?	?	?	?	?
+2(disz)	2(disz)[one]	NU	NU	D	B-COUNT	_	2	cardinal	_	2
+sig4	szeg[brick]	N	N	D	_	_	_	_	_	_
+sar	sar[unit]	N	N	D	_	_	_	_	_	_
+bar	bar[unknown]	N	N.ABS	D	B-COM	_	_	_	_	_
+x	_[_]	N	N	D	_	_	_	_	_	_
+6(disz)	6(disz)[one][-sze]	NU	NU	D	B-COUNT	_	none	unknown	_	none
+sar	sar[unit]	N	N	D	I-COUNT	*	*	*	*	*
+5(u)	5(u)[ten]	NU	NU	D	I-COUNT	*	*	*	*	*
+la2	la[hang][-ø]	V	NF.V.ABS	D	I-COUNT	*	*	*	*	*
+2(disz)	2(disz)[one]	NU	NU	D	I-COUNT	*	*	*	*	*
+x	_[_]	N	N	D	I-COUNT	*	*	*	*	*
+1(disz)	1(disz)[one]	NU	NU	D	B-COUNT	bricks	8640	bricks	gin2	720
+sar	sar[unit]	N	N	D	I-COUNT	*	*	*	*	*
+lu2-{d}nin-x-ra	_	PN	PN	Iabcde	_	_	_	_	_	_
+2(disz)	2(disz)[one]	NU	NU	D	B-COUNT	bricks	19164	bricks	gin2	1597
+sar	sar[unit]	N	N	D	I-COUNT	*	*	*	*	*
+2(gesz2)	2(gesz)[sixty]	NU	NU	D	I-COUNT	*	*	*	*	*
+3(u)	3(u)[ten]	NU	NU	D	I-COUNT	*	*	*	*	*
+7(disz)	7(disz)[one][-sze]	NU	NU	D	I-COUNT	*	*	*	*	*
+lu2-sa6-ga	_	PN	PN	Iabcde	_	_	_	_	_	_

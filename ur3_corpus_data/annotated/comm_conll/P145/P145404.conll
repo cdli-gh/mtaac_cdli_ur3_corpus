@@ -1,0 +1,17 @@
+#new_text=P145404					
+FORM	SEGM	XPOSTAG	XPOSTAG	POS	?	?	?	?	?	?
+3(u)	3(u)[ten]	NU	NU	D	B-COUNT	g	19000.0	weight	gin2	2280
+8(disz)	8(disz)[one]	NU	NU	D	I-COUNT	*	*	*	*	*
+ma-na	mana[unit]	N	N	D	I-COUNT	*	*	*	*	*
+siki-gi	sikigi[wool_type]	N	N	D	_	_	_	_	_	_
+siki	siki[wool][-'a]	N	N	D	B-COM	_	_	_	_	_
+ezem-ma	_	N	N	POS	_	_	_	_	_	_
+u4	ud[day]	N	N	D	_	_	_	_	_	_
+dingir-ra	Dingira[1]	PN	PN	D	_	_	_	_	_	_
+en-na	en[priest]-ak[-e]	PN	N.GEN.ERG	D	_	_	_	_	_	_
+nu-ti-la	_	V	NF.V.PT.TERM	Iabcdefgh	_	_	_	_	_	_
+ur-nigar{gar}-ke4	_	PN	PN.GEN.ERG	Iabcdefg	_	_	_	_	_	_
+ba-an-szum2	_	V	V	POS	_	_	_	_	_	_
+{gesz}guzza-ni	_	PN	PN.GEN	Iabcdefgh	_	_	_	_	_	_
+nam-erim2-bi	_	N	N.ABS	Iabcdef	_	_	_	_	_	_
+ku5-dam	_	V	V	POS	_	_	_	_	_	_

@@ -1,0 +1,27 @@
+#new_text=P139109					
+FORM	SEGM	XPOSTAG	XPOSTAG	POS	?	?	?	?	?	?
+n	_(_)[_]	NU	NU	D	_	_	_	_	_	_
+9(asz)	9(asz)[one]	NU	NU	D	B-COUNT	g	270000.0	weight	gin2	32400
+gu2	gun[unit]	N	N	D	I-COUNT	*	*	*	*	*
+gu	gu[cord]	N	N	D	B-COM	_	_	_	_	_
+gen	_	V	NF.V.PT.GEN	Iabcdef	_	_	_	_	_	_
+x-{d}nin-gesz-zi-da	_	PN	PN.GEN.GEN.ABS	Iabcdefg	_	_	_	_	_	_
+n	_(_)[_]	NU	NU	D	_	_	_	_	_	_
+2(u)	2(u)[ten]	NU	NU	D	B-COUNT	g	600000.0	weight	gin2	72000
+gu2	gun[unit]	N	N	D	I-COUNT	*	*	*	*	*
+gu2	gun[unit]	N	N	D	I-COUNT	*	*	*	*	*
+du	gin[quality_designation][-ø]	V	NF.V.ABS	D	B-COM	_	_	_	_	_
+lu2-dingir-ra	Ludingira[1][-ra]	PN	PN	D	_	_	_	_	_	_
+dumu	dumu[child]	N	N	D	_	_	_	_	_	_
+tu-ra-am-i3-li2	Turamili[1][-ak]	PN	PN.GEN	D	_	_	_	_	_	_
+n	_(_)[_]	NU	NU	D	_	_	_	_	_	_
+9(asz)	9(asz)[one]	NU	NU	D	B-COUNT	g	270000.0	weight	gin2	32400
+gu2	gun[unit]	N	N	D	I-COUNT	*	*	*	*	*
+...	_[_]	PN	N	D	_	_	_	_	_	_
+szu	szu[hand][-e]	N	N.L3-NH	D	B-COM	_	_	_	_	_
+ba-an-ti-esz2	_	V	MID.3-SG-H-A.V.3-PL	Iabcdefg	_	_	_	_	_	_
+...	_[_]	PN	N	D	_	_	_	_	_	_
+ki	ki[place]	N	N	D	_	_	_	_	_	_
+...	_[_]	PN	N	D	_	_	_	_	_	_
+x	_[_]	N	N	D	_	_	_	_	_	_
+...	_[_]	PN	N	D	_	_	_	_	_	_

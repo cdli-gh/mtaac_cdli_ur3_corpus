@@ -1,0 +1,13 @@
+#new_text=P138587					
+FORM	SEGM	XPOSTAG	XPOSTAG	POS	?	?	?	?	?	?
+1(disz)	1(disz)[one]	NU	NU	D	B-COUNT	_	none	unknown	_	none
+...	_[_]	PN	N	D	I-COUNT	*	*	*	*	*
+1(disz)	1(disz)[one]	NU	NU	D	B-COUNT	_	1	cardinal	_	1
+gesz	gesz[tree]	N	N	D	_	_	_	_	_	_
+...	_[_]	PN	N	D	_	_	_	_	_	_
+bar	bar[unknown]	N	N.ABS	D	B-COM	_	_	_	_	_
+x	_[_]	N	N	D	_	_	_	_	_	_
+...	_[_]	PN	N	D	_	_	_	_	_	_
+za3	_	N	N	Ia	_	_	_	_	_	_
+1(u)-bi	_	NU	NU.3-SG-NH-POSS.ABS	Iab	B-COUNT	_	10	cardinal	_	10
+ib2-zi	_	V	V	POS	_	_	_	_	_	_

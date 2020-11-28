@@ -1,0 +1,20 @@
+#new_text=P332298					
+FORM	SEGM	XPOSTAG	XPOSTAG	POS	?	?	?	?	?	?
+1(disz)	1(disz)[one]	NU	NU	D	B-COUNT	_	1	cardinal	_	1
+eme6-mah2	_	N	N	Ia	_	_	_	_	_	_
+5(disz)	5(disz)[one]	NU	NU	D	B-COUNT	_	5	cardinal	_	5
+dur3-gesz	_	PN	PN	POS	_	_	_	_	_	_
+gub-ba-am3	_	V	NF.V.PT.ABS.COP-3-SG	Iab	_	_	_	_	_	_
+usz2	usz[dead][-ø]	N	NF.V.ABS	D	_	_	_	_	_	_
+2(disz)	2(disz)[one]	NU	NU	D	B-COUNT	_	2	cardinal	_	2
+dur3-gesz	_	PN	PN	POS	_	_	_	_	_	_
+e2	e[house]	N	N	D	_	_	_	_	_	_
+szu	szu[hand][-e]	N	N.L3-NH	D	B-COM	_	_	_	_	_
+lugal-nig2-lagar-e	Lugalniglagare[1][-ak]	PN	PN.GEN	D	_	_	_	_	_	_
+ki	ki[place]	N	N	D	_	_	_	_	_	_
+usz-mu-ta	Uszmu[1][-ak]-ta	PN	PN.GEN.ABL	D	_	_	_	_	_	_
+ARAD2-mu	Aradmu[1]	PN	PN	D	_	_	_	_	_	_
+engar	engar[farmer]	N	N	D	_	_	_	_	_	_
+dumu	dumu[child]	N	N	D	_	_	_	_	_	_
+ugula	ugula[overseer][-ø]	N	N	D	_	_	_	_	_	_
+ab-ba-saga	Abbasaga[1]	PN	PN	D	_	_	_	_	_	_

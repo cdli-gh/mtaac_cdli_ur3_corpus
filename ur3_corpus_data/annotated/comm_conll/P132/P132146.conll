@@ -1,0 +1,27 @@
+#new_text=P132146					
+FORM	SEGM	XPOSTAG	XPOSTAG	POS	?	?	?	?	?	?
+2(u)	2(u)[ten]	NU	NU	D	B-COUNT	_	25	cardinal	_	25
+5(disz)	5(disz)[one]	NU	NU	D	I-COUNT	*	*	*	*	*
+{gi}gur-dub	gurdub[basket_type]	N	N	D	B-COM	_	_	_	_	_
+1(gesz2)-ta	_	NU	NU	Iabcdefgh	B-COUNT	_	60	cardinal	_	60
+nig2-dab5	nigdab[requisitions]	N	N	D	_	_	_	_	_	_
+du6-ku3-ga	dukug[locus]-ak	PN	N.GEN	D	_	_	_	_	_	_
+ba-an-si-si	_	V	V	POS	_	_	_	_	_	_
+1(u)	1(u)[ten]	NU	NU	D	B-COUNT	_	10	cardinal	_	10
+{gi}gur-dub	gurdub[basket_type]	N	N	D	B-COM	_	_	_	_	_
+1(gesz2)-ta	_	NU	NU	Iabcdefgh	B-COUNT	_	60	cardinal	_	60
+ki	ki[place]	N	N	D	_	_	_	_	_	_
+a-gu-ta	Agu[1][-ak]-ta	PN	PN.GEN.ABL	D	_	_	_	_	_	_
+nig2-dab5	nigdab[requisitions]	N	N	D	_	_	_	_	_	_
+ma2	ma[ship]	N	N	D	_	_	_	_	_	_
+nesag-NE	_	N	N	POS	_	_	_	_	_	_
+ba-an-si-si	_	V	V	POS	_	_	_	_	_	_
+kiszib3	kiszib[seal]	N	N	D	_	_	_	_	_	_
+lugal-nig2-lagar-e	Lugalniglagare[1][-ak]	PN	PN.GEN	D	_	_	_	_	_	_
+mu	mu[year]	N	N	D	_	_	_	_	_	_
+sza-asz-szu-ru-um{ki}	_	SN	SN.GEN.ABS	Iabcdef	_	_	_	_	_	_
+ba-hul	ba-hulu[destroy][-ø]	V	MID.V.3-SG-S	D	_	_	_	_	_	_
+lugal-ze2-ni-e	_	PN	PN	Iabcdefgh	_	_	_	_	_	_
+dub-sar	dubsar[scribe]	N	N	D	_	_	_	_	_	_
+dumu	dumu[child]	N	N	D	_	_	_	_	_	_
+lugal-ki-sal	_	PN	PN.GEN.ABL	Iabcdefgh	_	_	_	_	_	_

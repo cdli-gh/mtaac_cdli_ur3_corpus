@@ -1,0 +1,18 @@
+#new_text=P106554					
+FORM	SEGM	XPOSTAG	XPOSTAG	POS	B-COUNT	l	2100	"liquid	*	*
+1(gesz2)	1(gesz)[sixty]	NU	NU	D	I-COUNT	*	*	*	sila3	2100
+1(u)	1(u)[ten]	NU	NU	D	I-COUNT	*	*	*	*	*
+dug	dug[pot]	N	N	D	I-COUNT	*	*	*	*	*
+gal	gal[big][-ø]	V	NF.V.ABS	D	_	_	_	_	_	_
+...	_[_]	PN	N	D	_	_	_	_	_	_
+*RETOK*-capacity"	?	?	?	?	B-COUNT	l	900	"liquid	*	*
+3(u)	3(u)[ten]	NU	NU	D	I-COUNT	*	*	*	sila3	900
+dug	dug[pot]	N	N	D	I-COUNT	*	*	*	*	*
+ninda	ninda[bread]	N	N	D	B-COM	_	_	_	_	_
+*RETOK*-capacity"	?	?	?	?	B-COUNT	l	5	"liquid	*	*
+*RETOK*-capacity"	?	?	?	?	I-COUNT	l	5	"dry	sila3	5
+5(disz)	5(disz)[one]	NU	NU	D	I-COUNT	*	*	*	sila3	5
+sila3	sila[unit]	N	N	D	I-COUNT	*	*	*	*	*
+igi-kar2	_	N	N	POS	_	_	_	_	_	_
+en	en[priest]	N	N	D	_	_	_	_	_	_
+unu{ki}	Unug[1][-ak][-ak][-ø]	SN	SN.GEN.L1	D	_	_	_	_	_	_

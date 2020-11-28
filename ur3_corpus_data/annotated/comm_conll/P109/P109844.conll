@@ -1,0 +1,24 @@
+#new_text=P109844					
+FORM	SEGM	XPOSTAG	XPOSTAG	POS	?	?	?	?	?	?
+3(barig)	3(bariga)[unit]	NU	N	D	B-COUNT	*	*	*	*	*
+sze	sze[barley]	N	N	D	I-COUNT	*	*	*	*	*
+kasz	kasz[beer]	N	N	D	B-COM	_	_	_	_	_
+ninda	ninda[bread]	N	N	D	_	_	_	_	_	_
+ARAD2	arad[slave]	N	N	D	_	_	_	_	_	_
+e2-gal-la	egal[palace]-'a	N	N.L1	D	_	_	_	_	_	_
+sza3-ba	szag[heart]-bi-'a	N	N.3-SG-NH-POSS.L1	D	_	_	_	_	_	_
+NE	ne[unknown]	MN	MN	POS	_	_	_	_	_	_
+ba-a-si-ga	_	V	V	POS	_	_	_	_	_	_
+erin2	erin[people]	N	N	D	_	_	_	_	_	_
+diri-ke4	_	V	V	POS	_	_	_	_	_	_
+ba-ab-gu7	_	V	MID.V.3-SG-S.SUB.L1	Iabcdefg	_	_	_	_	_	_
+giri3	giri[foot]	N	N	D	_	_	_	_	_	_
+ur-{d}nin-sun2	_	PN	PN	Iabcdefgh	_	_	_	_	_	_
+a-zu	_	N	N.TERM	Iabcdefgh	_	_	_	_	_	_
+ki	ki[place]	N	N	D	_	_	_	_	_	_
+ur-{d}ba-ba6	Urbaba[1]	PN	PN	D	_	_	_	_	_	_
+szabra-ta	_	N	N.ABL	Iabcde	_	_	_	_	_	_
+ba-zi	ba-zig[expend][-ø]	PN	MID.V.3-SG-S	D	_	_	_	_	_	_
+mu	mu[year]	N	N	D	_	_	_	_	_	_
+{d}szu-{d}suen	Szusuen[1]	RN	RN	D	_	_	_	_	_	_
+lugal	lugal[king]	N	N	D	_	_	_	_	_	_

@@ -1,0 +1,12 @@
+#new_text=P390891					
+FORM	SEGM	XPOSTAG	XPOSTAG	POS	B-COUNT	l	34	"dry	*	*
+3(ban2)	3(ban)[unit]	NU	N	D	I-COUNT	*	*	*	sila3	34
+4(disz)	4(disz)[one]	NU	NU	D	I-COUNT	*	*	*	*	*
+sila3	sila[unit]	N	N	D	I-COUNT	*	*	*	*	*
+lugal	lugal[king]	N	N	D	_	_	_	_	_	_
+zi3-gu	zidgu[flour_type]	N	N	D	B-COM	_	_	_	_	_
+dabin	dabin[semolina]	N	N	D	_	_	_	_	_	_
+u4	ud[day]	N	N	D	_	_	_	_	_	_
+en-num2	_	PN	PN.	Iabc	_	_	_	_	_	_
+|SZE3xGAD|	_	PN	PN	POS	_	_	_	_	_	_
+sipa-da-ri2	_	PN	PN.	Iabc	_	_	_	_	_	_

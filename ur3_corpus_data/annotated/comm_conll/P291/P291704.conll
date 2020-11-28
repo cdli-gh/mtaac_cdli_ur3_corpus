@@ -1,0 +1,24 @@
+#new_text=P291704					
+FORM	SEGM	XPOSTAG	XPOSTAG	POS	?	?	?	?	?	?
+2(gesz2)	2(gesz)[sixty]	NU	NU	D	B-COUNT	m	378	length	gi	126
+6(disz)	6(disz)[one][-sze]	NU	NU	D	I-COUNT	*	*	*	*	*
+gi	gi[reed][-ø]	N	N	D	I-COUNT	*	*	*	*	*
+pa-ku5	pakud[stave][-ø]	N	N	D	B-COM	_	_	_	_	_
+gu-nigin2-ta	_	N	N.3-SG-NH-POSS.ABL	Iabcdefg	_	_	_	_	_	_
+e3	e[leave][-a]	V	NF.V.PT	D	_	_	_	_	_	_
+ki	ki[place]	N	N	D	_	_	_	_	_	_
+lugal-{gesz}gigir-re-ta	_	PN	PN.GEN.ABL	Iabcdefg	_	_	_	_	_	_
+ga2-nun	_	N	N	D	_	_	_	_	_	_
+muru13	Muru[1]	FN	FN	D	_	_	_	_	_	_
+ku4-ra	kur[enter]-a	V	NF.V.PT	D	_	_	_	_	_	_
+kiszib3	kiszib[seal]	N	N	D	_	_	_	_	_	_
+gur4-za-an	_	PN	PN	POS	_	_	_	_	_	_
+iti	iti[month]	N	N	D	_	_	_	_	_	_
+pa4-u2-e	Pa'u'e[1][-'a]	MN	MN.L1	D	_	_	_	_	_	_
+mu	mu[year]	N	N	D	_	_	_	_	_	_
+us2-sa	us[follow]-a	V	NF.V.PT	D	_	_	_	_	_	_
+ki-masz{ki}	Kimasz[1]	SN	SN.ABS	D	_	_	_	_	_	_
+ba-hul	ba-hulu[destroy][-ø]	V	MID.V.3-SG-S	D	_	_	_	_	_	_
+gur4-za-an	_	PN	PN	POS	_	_	_	_	_	_
+dumu	dumu[child]	N	N	D	_	_	_	_	_	_
+al-la	Alla[1]	PN	PN	D	_	_	_	_	_	_

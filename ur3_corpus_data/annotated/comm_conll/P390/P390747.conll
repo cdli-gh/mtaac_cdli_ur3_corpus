@@ -1,0 +1,25 @@
+#new_text=P390747					
+FORM	SEGM	XPOSTAG	XPOSTAG	POS	?	?	?	?	?	?
+4(asz)	4(asz)[one]	NU	NU	D	B-COUNT	_	4	cardinal	_	4
+n	_(_)[_]	NU	NU	D	_	_	_	_	_	_
+sze	sze[barley]	N	N	D	B-COM	_	_	_	_	_
+gur	gur[unit]	N	N	D	_	_	_	_	_	_
+lugal	lugal[king]	N	N	D	_	_	_	_	_	_
+ur-sa6-ga	Ursaga[1][-ak]	PN	PN	D	_	_	_	_	_	_
+ur-e2-gal	_	PN	PN.DAT-H	Iabcdefg	_	_	_	_	_	_
+bahar3-ka-da	_	N	N.ABS.COP-3-PL	Iabcdefgh	_	_	_	_	_	_
+in-da-tuku	_	V	V	POS	_	_	_	_	_	_
+gi4-gi4-dam	_	V	V	POS	_	_	_	_	_	_
+ug3-IL2	uggaga[porter]	N	N	D	_	_	_	_	_	_
+...-gu-la	_	PN	PN	Ia	_	_	_	_	_	_
+...-{d}ba-ba6	_	PN	PN	Iabcde	_	_	_	_	_	_
+dumu	dumu[child]	N	N	D	_	_	_	_	_	_
+ur-gu-la	_	PN	PN	Ia	_	_	_	_	_	_
+lu2-inim-ma-bi-me-esz2	_	PN	PN	POS	_	_	_	_	_	_
+iti	iti[month]	N	N	D	_	_	_	_	_	_
+ezem-{d}szul-gi	Ezemszulgir[1][-'a]	MN	MN.L1	D	_	_	_	_	_	_
+mu	mu[year]	N	N	D	_	_	_	_	_	_
+us2-sa	us[follow]-a	V	NF.V.PT	D	_	_	_	_	_	_
+en	en[priest]	N	N	D	_	_	_	_	_	_
+eridu{ki}	Eridug[1][-ak][-ø]	SN	SN.GEN.ABS	D	_	_	_	_	_	_
+ba-hun	ba-hug[hire][-ø]	V	MID.V.3-SG-S	D	_	_	_	_	_	_

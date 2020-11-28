@@ -1,0 +1,25 @@
+#new_text=P101159					
+FORM	SEGM	XPOSTAG	XPOSTAG	POS	?	?	?	?	?	?
+n	_(_)[_]	NU	NU	D	_	_	_	_	_	_
+4(disz)	4(disz)[one]	NU	NU	D	B-COUNT	_	4	cardinal	_	4
+{gi}gur	gur[measuring_vessel]	N	N	D	B-COM	_	_	_	_	_
+zi3-da	zid[flour]-ak[-ø]	N	N.GEN	D	_	_	_	_	_	_
+esir2	esir[bitumen]	N	N	D	_	_	_	_	_	_
+su-ba	su[body]-bi-'a	V	NF.V.PT	D	_	_	_	_	_	_
+za3-1(u)	_	NU	NU	Iabcde	_	_	_	_	_	_
+gu2-la2	_	PN	PN	POS	_	_	_	_	_	_
+e2	e[house]	N	N	D	_	_	_	_	_	_
+puzur4-da-gan-sze3	_	SN	SN.GEN.GEN.TERM	Iabcdefg	_	_	_	_	_	_
+ki	ki[place]	N	N	D	_	_	_	_	_	_
+a-gu-ta	Agu[1][-ak]-ta	PN	PN.GEN.ABL	D	_	_	_	_	_	_
+kiszib3	kiszib[seal]	N	N	D	_	_	_	_	_	_
+ur-{d}nin-mu2	_	PN	PN	Iabcdefgh	_	_	_	_	_	_
+sza3	szag[heart]	N	N	D	_	_	_	_	_	_
+bala-a	bala[tax][-ak]-'a	N	N.GEN.L1	D	_	_	_	_	_	_
+mu	mu[year]	N	N	D	_	_	_	_	_	_
+si-ma-num2{ki}	Simanum[1][-ø]	GN	SN.ABS	D	_	_	_	_	_	_
+ba-hul	ba-hulu[destroy][-ø]	V	MID.V.3-SG-S	D	_	_	_	_	_	_
+ur-{d}nin-mu2	_	PN	PN	Iabcdefgh	_	_	_	_	_	_
+dub-sar	dubsar[scribe]	N	N	D	_	_	_	_	_	_
+dumu	dumu[child]	N	N	D	_	_	_	_	_	_
+a-ab-ba-ni	_	PN	PN.GEN.GEN.ABS	Iabcdefg	_	_	_	_	_	_

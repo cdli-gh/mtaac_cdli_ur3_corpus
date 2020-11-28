@@ -1,0 +1,25 @@
+#new_text=P107193					
+FORM	SEGM	XPOSTAG	XPOSTAG	POS	?	?	?	?	?	?
+a-mu	_	PN	PN	Iabcde	_	_	_	_	_	_
+u3	u[and]	CNJ	CNJ	D	_	_	_	_	_	_
+ur-szu-ga-lam-ma-ra	_	PN	PN.GEN.ABS	Iabcdefgh	_	_	_	_	_	_
+u3-na-du11	_	N	N	POS	_	_	_	_	_	_
+*RETOK*-capacity"	?	?	?	?	B-COUNT	l	0.0012962962962962963	"dry	*	*
+1(u)	1(u)[ten]	NU	NU	D	I-COUNT	*	*	*	sila3	0.0012962962962962963
+4(asz)	4(asz)[one]	NU	NU	D	I-COUNT	*	*	*	*	*
+sze	sze[barley]	N	N	D	I-COUNT	*	*	*	*	*
+gur	gur[unit]	N	N	D	I-COUNT	*	*	*	*	*
+lugal	lugal[king]	N	N	D	_	_	_	_	_	_
+gur	gur[unit]	N	N	D	_	_	_	_	_	_
+sal4-la-ta	_	PN	PN	POS	_	_	_	_	_	_
+mu	mu[year]	N	N	D	_	_	_	_	_	_
+ne-u-um-ma-sze3	_	PN	PN.	Iabc	_	_	_	_	_	_
+zu-gi	_	PN	PN	Iabcde	_	_	_	_	_	_
+he2-na-ab-szum2-mu	ha-i-nn-a-b-szum[give]-e	V	MOD.FIN.3-SG-H.DAT.3-SG-NH-P.V.3-SG-A	D	_	_	_	_	_	_
+tukumx(|SZU.TUR|)-bi	_	CNJ	CNJ	Iabcdefgh	_	_	_	_	_	_
+buru14-ni	_	N	N.ABS	Iabcdef	_	_	_	_	_	_
+nu-da6-da6	_	V	V	POS	_	_	_	_	_	_
+masz-mu	_	N	N	POS	_	_	_	_	_	_
+u3-ga2-ga2	_	N	N	POS	_	_	_	_	_	_
+kiszib3	kiszib[seal]	N	N	D	_	_	_	_	_	_
+nu-ra-ra	_	PN	PN.GEN.GEN.DAT-H	Iabcdefg	_	_	_	_	_	_

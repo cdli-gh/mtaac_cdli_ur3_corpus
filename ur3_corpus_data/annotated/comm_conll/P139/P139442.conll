@@ -1,0 +1,14 @@
+#new_text=P139442					
+FORM	SEGM	XPOSTAG	XPOSTAG	POS	_	_	_	_	_	_
+szesz-szesz-mu	_	PN	PN	Iabc	_	_	_	_	_	_
+*RETOK*-x.	?	?	?	?	_	_	_	_	_	_
+2(u)	2(u)[ten]	NU	NU	D	B-COUNT	_	20	cardinal	_	20
+ma2-a	ma[ship]-'a	N	N.L1	D	_	_	_	_	_	_
+si	_[_]	N	N.ABS	D	_	_	_	_	_	_
+*RETOK*-x.	?	?	?	?	_	_	_	_	_	_
+sza3	szag[heart]	N	N	D	_	_	_	_	_	_
+nibru{ki}	Nibru[1][-'a]	SN	SN.GEN.ABS	D	_	_	_	_	_	_
+*RETOK*-x.	?	?	?	?	_	_	_	_	_	_
+giri3	giri[foot]	N	N	D	_	_	_	_	_	_
+szesz-szesz-mu	_	PN	PN	Iabc	_	_	_	_	_	_
+...	_[_]	PN	N	D	_	_	_	_	_	_

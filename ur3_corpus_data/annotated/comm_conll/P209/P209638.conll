@@ -1,0 +1,17 @@
+#new_text=P209638					
+FORM	SEGM	XPOSTAG	XPOSTAG	POS	?	?	?	?	?	?
+1(u)	1(u)[ten]	NU	NU	D	B-COUNT	_	15	cardinal	_	15
+5(asz)	5(asz)[one]	NU	NU	D	I-COUNT	*	*	*	*	*
+dabin	dabin[semolina]	N	N	D	B-COM	_	_	_	_	_
+gur	gur[unit]	N	N	D	_	_	_	_	_	_
+*RETOK*-capacity"	?	?	?	?	B-COUNT	l	120	"dry	*	*
+2(barig)	2(bariga)[unit]	NU	N	D	I-COUNT	*	*	*	sila3	120
+zi3	zid[flour]	N	N	D	B-COM	_	_	_	_	_
+sig15	sig[flour_type]	V	N	D	_	_	_	_	_	_
+kiszib3	kiszib[seal]	N	N	D	_	_	_	_	_	_
+{d}er3-ra-an-sze3	_	PN	PN	POS	_	_	_	_	_	_
+...-gu2-...	_	PN	PN	Ia	_	_	_	_	_	_
+zi3	zid[flour]	N	N	D	_	_	_	_	_	_
+ar3-ra	_	V	V	POS	_	_	_	_	_	_
+giri3	giri[foot]	N	N	D	_	_	_	_	_	_
+{gesz}gigir-...	_	PN	PN.GEN	Iabcde	_	_	_	_	_	_

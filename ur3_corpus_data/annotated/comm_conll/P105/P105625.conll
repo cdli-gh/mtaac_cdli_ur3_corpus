@@ -1,0 +1,12 @@
+#new_text=P105625					
+FORM	SEGM	XPOSTAG	XPOSTAG	POS	?	?	?	?	?	?
+6(disz)	6(disz)[one][-sze]	NU	NU	D	B-COUNT	_	0.1	cardinal	_	0.1
+gin2	gig[unit]	N	N	D	I-COUNT	*	*	*	*	*
+uruda	urud[copper][-ak]	N	N	D	B-COM	_	_	_	_	_
+uruda	urud[copper][-ak]	N	N	D	_	_	_	_	_	_
+lagab	_	N	N	POS	_	_	_	_	_	_
+gaz	gaz[type_of_garlic][-ak]	N	N	D	_	_	_	_	_	_
+ki	ki[place]	N	N	D	_	_	_	_	_	_
+gu-du-du	Gududu[1]	PN	PN	D	_	_	_	_	_	_
+KA	ka[mouth]	N	N	D	_	_	_	_	_	_
+im-x	_	V	V	POS	_	_	_	_	_	_

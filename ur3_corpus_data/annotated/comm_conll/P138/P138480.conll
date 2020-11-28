@@ -1,0 +1,19 @@
+#new_text=P138480					
+FORM	SEGM	XPOSTAG	XPOSTAG	POS	?	?	?	?	?	?
+1(gesz2)	1(gesz)[sixty]	NU	NU	D	B-COUNT	_	62	cardinal	_	62
+2(disz)	2(disz)[one]	NU	NU	D	I-COUNT	*	*	*	*	*
+ad-da-mu	Addamu[1][-ak]	PN	PN	D	_	_	_	_	_	_
+u3	u[and]	CNJ	CNJ	D	B-COM	_	_	_	_	_
+ur-dingir-ra	_	PN	PN	D	_	_	_	_	_	_
+x	_[_]	N	N	D	_	_	_	_	_	_
+kiszib3	kiszib[seal]	N	N	D	_	_	_	_	_	_
+e2-gid2-da-bi-me-esz2	_	PN	PN	POS	_	_	_	_	_	_
+...	_[_]	PN	N	D	_	_	_	_	_	_
+giri3-ni-i3-sa6	Girini'isa[1]	PN	PN	D	_	_	_	_	_	_
+x	_[_]	N	N	D	_	_	_	_	_	_
+lu2-{d}nin-gir2-su{ki}-ka	_	PN	PN	Iabcdefgh	_	_	_	_	_	_
+1(disz)	1(disz)[one]	NU	NU	D	B-COUNT	_	1	cardinal	_	1
+{d}nanna-dalla	_	DN	DN	POS	_	_	_	_	_	_
+...	_[_]	PN	N	D	_	_	_	_	_	_
+gal	gal[big][-ø]	V	NF.V.ABS	D	_	_	_	_	_	_
+nun	_	N	N	D	_	_	_	_	_	_

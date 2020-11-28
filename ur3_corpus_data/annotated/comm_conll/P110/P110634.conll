@@ -1,0 +1,21 @@
+#new_text=P110634					
+FORM	SEGM	XPOSTAG	XPOSTAG	POS	?	?	?	?	?	?
+4(barig)	4(bariga)[unit]	NU	N	D	B-COUNT	*	*	*	*	*
+sze	sze[barley]	N	N	D	I-COUNT	*	*	*	*	*
+szu	szu[hand][-e]	N	N.L3-NH	D	B-COM	_	_	_	_	_
+ti-a	ti[receive]-a	V	NF.V.PT	D	_	_	_	_	_	_
+lu2-iri-sag-ke4	_	PN	PN.GEN.ERG	Iabcdefg	_	_	_	_	_	_
+nam-erim2-bi	_	N	N.ABS	Iabcdef	_	_	_	_	_	_
+ku5-dam	_	V	V	POS	_	_	_	_	_	_
+u4-da	ud[day]-ak[-'a]	N	N	D	_	_	_	_	_	_
+nu-u3-ku5	_	V	NEG.FIN.3-SG-H-A.V.3-PL.SUB.ABS	Iabcdefghi	_	_	_	_	_	_
+lu2-iri-sag-ke4	_	PN	PN.GEN.ERG	Iabcdefg	_	_	_	_	_	_
+su-su-dam	sug-sug[repay]-ed[-ø]-am	PN	NF.V.RDP.F.ABS.COP-3-SG	D	_	_	_	_	_	_
+mu	mu[year]	N	N	D	_	_	_	_	_	_
+dur2	_	N	N	POS	_	_	_	_	_	_
+gu-za-na-ka-sze3	_	N	N	POS	_	_	_	_	_	_
+kiszib3	kiszib[seal]	N	N	D	_	_	_	_	_	_
+ur-{d}gesz-bar-e3	_	PN	PN.ERG	Iabcdefgh	_	_	_	_	_	_
+mu	mu[year]	N	N	D	_	_	_	_	_	_
+ma2-gur8-mah	magurmah[great_barge][-ø]	N	N.ABS	D	_	_	_	_	_	_
+ba-dim2	ba-dim[create][-ø]	V	MID.V.3-SG-S	D	_	_	_	_	_	_

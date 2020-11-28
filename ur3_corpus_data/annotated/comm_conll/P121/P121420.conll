@@ -1,0 +1,20 @@
+#new_text=P121420					
+FORM	SEGM	XPOSTAG	XPOSTAG	POS	?	?	?	?	?	?
+...	_[_]	PN	N	D	_	_	_	_	_	_
+1(disz)	1(disz)[one]	NU	NU	D	B-COUNT	_	1	cardinal	_	1
+ur3	ur[roof]	N	N	D	B-COM	_	_	_	_	_
+gesz-lu-kal	_	V	V	POS	_	_	_	_	_	_
+lu2-uru11{ki}	Lu'uru[1]	PN	PN	D	_	_	_	_	_	_
+x-ta	_	PN	PN.GEN.ABL	Iabcdef	_	_	_	_	_	_
+szabra	szabra[chief_administrator][-ak]	N	N	D	_	_	_	_	_	_
+udu	udu[sheep]	N	N	D	_	_	_	_	_	_
+gu4-ke4	_	N	N.ERG	Iabcde	_	_	_	_	_	_
+szu	szu[hand][-e]	N	N.L3-NH	D	_	_	_	_	_	_
+ba-ti	ba[-n]-teg[accept][-ø]	V	MID.3-SG-H-A.V.3-SG-P	D	_	_	_	_	_	_
+x	_[_]	N	N	D	_	_	_	_	_	_
+1(u)	1(u)[ten]	NU	NU	D	B-COUNT	_	13	cardinal	_	13
+3(disz)	3(disz)[one]	NU	NU	D	I-COUNT	*	*	*	*	*
+lugal-pa-e3	Lugalpa’e[1]	PN	PN	D	_	_	_	_	_	_
+dub-sar	dubsar[scribe]	N	N	D	_	_	_	_	_	_
+dumu	dumu[child]	N	N	D	_	_	_	_	_	_
+ma-ba	_	PN	PN.GEN.ABS	Iab	_	_	_	_	_	_

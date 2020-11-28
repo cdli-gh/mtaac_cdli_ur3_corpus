@@ -1,0 +1,11 @@
+#new_text=P210036					
+FORM	SEGM	XPOSTAG	XPOSTAG	POS	?	?	?	?	?	?
+8(asz)	8(asz)[one]	NU	NU	D	B-COUNT	g	251250.00000000003	weight	gin2	30150.0
+gu2	gun[unit]	N	N	D	I-COUNT	*	*	*	*	*
+2(u)	2(u)[ten]	NU	NU	D	I-COUNT	*	*	*	*	*
+2(disz)	2(disz)[one]	NU	NU	D	I-COUNT	*	*	*	*	*
+1/2(disz)	1/2(disz)[one]	NU	NU	D	I-COUNT	*	*	*	*	*
+ma-na	mana[unit]	N	N	D	I-COUNT	*	*	*	*	*
+siki	siki[wool][-'a]	N	N	D	B-COM	_	_	_	_	_
+i3-la2	i[-n]-la[weigh][-ø]	PN	FIN.3-SG-H-A.V.3-SG-P	D	_	_	_	_	_	_
+lu2-igi-x-...	_	PN	PN.GEN.ABL	Iabcdefgh	_	_	_	_	_	_

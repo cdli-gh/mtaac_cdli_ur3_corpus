@@ -1,0 +1,18 @@
+#new_text=P145374					
+FORM	SEGM	XPOSTAG	XPOSTAG	POS	?	?	?	?	?	?
+9(disz)	9(disz)[one]	NU	NU	D	B-COUNT	_	9	cardinal	_	9
+geme2	geme[female_worker]	N	N	D	_	_	_	_	_	_
+u4	ud[day]	N	N	D	_	_	_	_	_	_
+1(disz)-sze3	1(disz)[one]-sze	NU	NU.TERM	D	B-COUNT	_	1	cardinal	_	1
+kiszib3	kiszib[seal]	N	N	D	_	_	_	_	_	_
+lugal-inim-gi-na	Lugalinimgina[1][-ak]	PN	PN	D	_	_	_	_	_	_
+a2	a[time]	N	N	D	_	_	_	_	_	_
+u4	ud[day]	N	N	D	_	_	_	_	_	_
+dah-ha	_	PN	PN	Iabcdefgh	_	_	_	_	_	_
+e2-amar-ka	_	N	N	POS	_	_	_	_	_	_
+nig2-ar3-ra	nigara[groats]	N	N	D	B-COM	_	_	_	_	_
+ar3-ra	_	V	V	POS	_	_	_	_	_	_
+kiszib3	kiszib[seal]	N	N	D	_	_	_	_	_	_
+a-tu	Atu[1][-ak]	PN	PN	D	_	_	_	_	_	_
+sza-bi-gur8-re	_	PN	PN	POS	_	_	_	_	_	_
+szesz-saga	_	PN	PN	Iabc	_	_	_	_	_	_

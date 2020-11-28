@@ -1,0 +1,18 @@
+#new_text=P133585					
+FORM	SEGM	XPOSTAG	XPOSTAG	POS	?	?	?	?	?	?
+...	_[_]	PN	N	D	_	_	_	_	_	_
+1(gesz'u)	1(gesz'u)[six_hundred]	NU	NU	D	B-COUNT	_	990	cardinal	_	990
+6(gesz2)	6(gesz)[sixty]	NU	NU	D	I-COUNT	*	*	*	*	*
+3(u)	3(u)[ten]	NU	NU	D	I-COUNT	*	*	*	*	*
+pa	pa[branch]	N	N.ABS	D	_	_	_	_	_	_
+{gesz}geszimmar	gesznimbar[palm]	PN	N	D	B-COM	_	_	_	_	_
+8(gesz2)	8(gesz2)[sixty]	NU	NU	D	B-COUNT	_	480	cardinal	_	480
+nig2-ki-luh	_	N	N	Ia	_	_	_	_	_	_
+1(u)	1(u)[ten]	NU	NU	D	B-COUNT	_	18	cardinal	_	18
+8(disz)	8(disz)[one]	NU	NU	D	I-COUNT	*	*	*	*	*
+ze2-na	zena[midrib]	FN	N	D	_	_	_	_	_	_
+1(gesz'u)	1(gesz'u)[six_hundred]	NU	NU	D	B-COUNT	_	1030	cardinal	_	1030
+7(gesz2)	7(gesz)[sixty]	NU	NU	D	I-COUNT	*	*	*	*	*
+1(u)	1(u)[ten]	NU	NU	D	I-COUNT	*	*	*	*	*
+pesz-murgu2	_	N	N	Ia	_	_	_	_	_	_
+nig2-bala-sze3	_	N	N	POS	_	_	_	_	_	_

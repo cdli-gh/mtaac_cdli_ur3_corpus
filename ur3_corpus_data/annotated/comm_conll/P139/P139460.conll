@@ -1,0 +1,15 @@
+#new_text=P139460					
+FORM	SEGM	XPOSTAG	XPOSTAG	POS	_	_	_	_	_	_
+2(disz)	2(disz)[one]	NU	NU	D	B-COUNT	_	none	unknown	_	none
+...	_[_]	PN	N	D	I-COUNT	*	*	*	*	*
+*RETOK*-x.	?	?	?	?	_	_	_	_	_	_
+...	_[_]	PN	N	D	_	_	_	_	_	_
+{gesz}gigir	gigir[chariot][-sze]	N	N.TERM	D	B-COM	_	_	_	_	_
+szabra	szabra[chief_administrator][-ak]	N	N	D	_	_	_	_	_	_
+*RETOK*-x.	?	?	?	?	_	_	_	_	_	_
+...-ta	_[_]-ta	PN	PN.GEN.ABL	D	_	_	_	_	_	_
+*RETOK*-x.	?	?	?	?	_	_	_	_	_	_
+...	_[_]	PN	N	D	_	_	_	_	_	_
+ma2	ma[ship]	N	N	D	_	_	_	_	_	_
+en	en[priest]	N	N	D	_	_	_	_	_	_
+...-ka	_	PN	PN	POS	_	_	_	_	_	_

@@ -1,0 +1,18 @@
+#new_text=P208251					
+FORM	SEGM	XPOSTAG	XPOSTAG	POS	B-COUNT	l	20	"dry	*	*
+2(ban2)	2(ban)[unit]	NU	N	D	I-COUNT	*	*	*	sila3	20
+kasz	kasz[beer]	N	N	D	B-COM	_	_	_	_	_
+du	gin[quality_designation][-ø]	V	NF.V.ABS	D	_	_	_	_	_	_
+lugal	lugal[king]	N	N	D	_	_	_	_	_	_
+*RETOK*-capacity"	?	?	?	?	B-COUNT	l	20	"dry	*	*
+2(ban2)	2(ban)[unit]	NU	N	D	I-COUNT	*	*	*	sila3	20
+zi3	zid[flour]	N	N	D	B-COM	_	_	_	_	_
+gu	gu[cord]	N	N	D	_	_	_	_	_	_
+elam	Elam[1][-ak]	EN	GN.GEN	D	_	_	_	_	_	_
+hu-hu-nu-ri{ki}-me	_	SN	SN.GEN.ABS.COP-3-PL	Iabcdefg	_	_	_	_	_	_
+giri3	giri[foot]	N	N	D	_	_	_	_	_	_
+dingir-ki-bi-ri	_	PN	PN	Iabcde	_	_	_	_	_	_
+...{ki}-ta	_[1]-ta	SN	SN.ABL	D	_	_	_	_	_	_
+du-ni	du[go][-ed]-ani[-'a]	V	NF.V.PF.F.3-SG-H-POSS.L1	D	_	_	_	_	_	_
+iti	iti[month]	N	N	D	_	_	_	_	_	_
+ezem-{d}ba-ba6	Ezembaba[1][-'a]	MN	MN.L1	D	_	_	_	_	_	_

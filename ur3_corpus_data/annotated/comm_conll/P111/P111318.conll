@@ -1,0 +1,19 @@
+#new_text=P111318					
+FORM	SEGM	XPOSTAG	XPOSTAG	POS	?	?	?	?	?	?
+a2	a[time]	N	N	D	_	_	_	_	_	_
+ur-kalam-ka	_	PN	PN	Iabcdefgh	_	_	_	_	_	_
+mu	mu[year]	N	N	D	_	_	_	_	_	_
+4(disz)-kam	4(disz)[one]-ak-am[-'a]	NU	NU.GEN.COP-3-SG	D	B-COUNT	_	4	cardinal	_	4
+mu-a	_	N	N	POS	_	_	_	_	_	_
+3(disz)	3(disz)[one]	NU	NU	D	B-COUNT	_	3	cardinal	_	3
+gin2-ta	gig[unit]-ta	N	N.ABL	D	_	_	_	_	_	_
+ku3-bi	kug[silver]-bi[-ø]	N	N.3-SG-NH-POSS.ABS	D	B-COM	_	_	_	_	_
+1(u)	1(u)[ten]	NU	NU	D	B-COUNT	_	0.19999999999999998	cardinal	_	0.19999999999999998
+2(disz)	2(disz)[one]	NU	NU	D	I-COUNT	*	*	*	*	*
+gin2	gig[unit]	N	N	D	I-COUNT	*	*	*	*	*
+la2-e-de3	_	V	NF.V.PF.DAT-NH	Iabcde	_	_	_	_	_	_
+an-da-ga	_	PN	PN.GEN	Iabcde	_	_	_	_	_	_
+nin-a-na-ra	_	PN	PN	POS	_	_	_	_	_	_
+ba-na-gi-in	ba-nn-a-gin[comfirm][-ø]	V	MID.3-SG-H.DAT.V.3-SG-S	D	_	_	_	_	_	_
+...	_[_]	PN	N	D	_	_	_	_	_	_
+maszkim	maszkim[administrator]	N	N.ABS	D	_	_	_	_	_	_

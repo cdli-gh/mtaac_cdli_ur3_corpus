@@ -1,0 +1,11 @@
+#new_text=P114939					
+FORM	SEGM	XPOSTAG	XPOSTAG	POS	?	?	?	?	?	?
+1(ban2)	1(ban)[unit]	NU	N	D	B-COUNT	_	none	unknown	_	none
+x	_[_]	N	N	D	I-COUNT	*	*	*	*	*
+...	_[_]	PN	N	D	I-COUNT	*	*	*	*	*
+lu2-x	_	PN	PN.DAT-H	Iab	_	_	_	_	_	_
+ki-sar	_	PN	PN	POS	_	_	_	_	_	_
+1(iku)	1(iku)[unit]	NU	N	D	B-COUNT	m^2	3600.0	surface	gin2	6000
+GAN2	gana[field]	N	N	D	I-COUNT	*	*	*	*	*
+sze	sze[barley]	N	N	D	B-COM	_	_	_	_	_
+zi-ga	zig[expend]-a	V	NF.V.PT	D	_	_	_	_	_	_

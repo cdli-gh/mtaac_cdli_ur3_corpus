@@ -1,0 +1,17 @@
+#new_text=P132882					
+FORM	SEGM	XPOSTAG	XPOSTAG	POS	?	?	?	?	?	?
+5(disz)	5(disz)[one]	NU	NU	D	B-COUNT	bricks	43200	bricks	gin2	3600
+sar	sar[unit]	N	N	D	I-COUNT	*	*	*	*	*
+al	al[hoeing]	N	N	D	B-COM	_	_	_	_	_
+ak	ak[excavate][-a][-ak]	V	NF.V.PT	D	_	_	_	_	_	_
+ki-szum2-sikil	_	N	N	POS	_	_	_	_	_	_
+gurusz-e	_	N	N.L3-NH	Iab	_	_	_	_	_	_
+2/3(disz)	2/3(disz)[one]	NU	NU	D	B-COUNT	_	0.6666666666666666	cardinal	_	0.6666666666666666
+sar-ta	sar[unit]-ta	PN	N.ABL	D	_	_	_	_	_	_
+giri3	giri[foot]	N	N	D	_	_	_	_	_	_
+ur-kisal	_	PN	PN	D	_	_	_	_	_	_
+dub-sar	dubsar[scribe]	N	N	D	_	_	_	_	_	_
+mu	mu[year]	N	N	D	_	_	_	_	_	_
+en	en[priest]	N	N	D	_	_	_	_	_	_
+{d}nanna	Nanna[1][-ak]	DN	DN	D	_	_	_	_	_	_
+kar-zi-da	Karzida[1][-ak][-ak][-ø]	SN	SN.GEN.GEN.ABS	D	_	_	_	_	_	_

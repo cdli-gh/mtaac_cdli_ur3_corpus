@@ -1,0 +1,19 @@
+#new_text=P453705					
+FORM	SEGM	XPOSTAG	XPOSTAG	POS	B-COUNT	l	0.0037037037037037034	"dry	*	*
+4(u)	4(u)[ten]	NU	NU	D	I-COUNT	*	*	*	sila3	0.0037037037037037034
+sze	sze[barley]	N	N	D	I-COUNT	*	*	*	*	*
+gur	gur[unit]	N	N	D	I-COUNT	*	*	*	*	*
+lugal	lugal[king]	N	N	D	_	_	_	_	_	_
+a2	a[time]	N	N	D	_	_	_	_	_	_
+sahar	sahar[earth][-ø]	N	N.GEN	D	B-COM	_	_	_	_	_
+zi	_	N	NF.V	D	_	_	_	_	_	_
+ki	ki[place]	N	N	D	_	_	_	_	_	_
+dingir-ba-ni	_	PN	PN	D	_	_	_	_	_	_
+ka-guru7-ta	Kaguru[1][-ak]-ta	PN	PN.GEN.ABL	D	_	_	_	_	_	_
+ti-ti	Titi[1][-ra]	PN	PN.DAT-H	D	_	_	_	_	_	_
+szabra	szabra[chief_administrator][-ak]	N	N	D	_	_	_	_	_	_
+szu	szu[hand][-e]	N	N.L3-NH	D	_	_	_	_	_	_
+ba-ti	ba[-n]-teg[accept][-ø]	V	MID.3-SG-H-A.V.3-SG-P	D	_	_	_	_	_	_
+mu	mu[year]	N	N	D	_	_	_	_	_	_
+{d}szu-{d}suen	Szusuen[1]	RN	RN	D	_	_	_	_	_	_
+lugal	lugal[king]	N	N	D	_	_	_	_	_	_

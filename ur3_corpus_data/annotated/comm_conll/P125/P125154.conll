@@ -1,0 +1,19 @@
+#new_text=P125154					
+FORM	SEGM	XPOSTAG	XPOSTAG	POS	?	?	?	?	?	?
+3(u)	3(u)[ten]	NU	NU	D	B-COUNT	_	36	cardinal	_	36
+6(asz)	6(asz)[one]	NU	NU	D	I-COUNT	*	*	*	*	*
+duh	duh[bran]	N	N	D	B-COM	_	_	_	_	_
+gur	gur[unit]	N	N	D	_	_	_	_	_	_
+lugal	lugal[king]	N	N	D	_	_	_	_	_	_
+sag-nig2-gur11-ra-kam	sagnigGArak[available_assets][-ø]-am	N	N.ABS.COP-3-SG	D	_	_	_	_	_	_
+...	_[_]	PN	N	D	_	_	_	_	_	_
+mu	mu[year]	N	N	D	_	_	_	_	_	_
+lu-lu-bum2{ki}	_	SN	SN	Ia	_	_	_	_	_	_
+si-mu-ru{ki}-ta	_	SN	SN.ABL	Iab	_	_	_	_	_	_
+mu	mu[year]	N	N	D	_	_	_	_	_	_
+ki-masz{ki}	Kimasz[1]	SN	SN.ABS	D	_	_	_	_	_	_
+ba-hul-sze3	ba-hulu[destroy][-ø]-sze	V	MID.V.3-SG-S.TERM	D	_	_	_	_	_	_
+nig2-ka9-bi	_	N	N.ABS	Iabcdef	_	_	_	_	_	_
+ak-dam	_	V	NF.V.F.ABS.COP-3-SG	Iabcdefg	_	_	_	_	_	_
+ki	ki[place]	N	N	D	_	_	_	_	_	_
+ka-ku3-ka	_	PN	PN	Iabcdefgh	_	_	_	_	_	_

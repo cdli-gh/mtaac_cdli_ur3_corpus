@@ -1,0 +1,16 @@
+#new_text=P131472					
+FORM	SEGM	XPOSTAG	XPOSTAG	POS	?	?	?	?	?	?
+3(u)	3(u)[ten]	NU	NU	D	B-COUNT	_	30	cardinal	_	30
+{gesz}ab-ba-lum	_	N	N	POS	B-COM	_	_	_	_	_
+6(gesz2)	6(gesz)[sixty]	NU	NU	D	B-COUNT	_	360	cardinal	_	360
+{gesz}nu-ur2-ma	_	N	N.GEN	Iabcde	_	_	_	_	_	_
+{gesz}ab-ba	_	N	N	Ia	_	_	_	_	_	_
+tir-{gesz}ab-ba	_	N	N.GEN.GEN	Iabcdef	_	_	_	_	_	_
+e-su-dar-ta	_	PN	PN.GEN.ABL	Iabcdef	_	_	_	_	_	_
+mar-sa-sze3	_	N	N.TERM	Iab	_	_	_	_	_	_
+nam-mah	Nammah[1]	PN	PN	D	_	_	_	_	_	_
+szu	szu[hand][-e]	N	N.L3-NH	D	B-COM	_	_	_	_	_
+ba-ti	ba[-n]-teg[accept][-ø]	V	MID.3-SG-H-A.V.3-SG-P	D	_	_	_	_	_	_
+mu	mu[year]	N	N	D	_	_	_	_	_	_
+hu-hu-nu-ri{ki}	Huhunuri[1][-ø]	GN	SN.ABS	D	_	_	_	_	_	_
+ba-hul	ba-hulu[destroy][-ø]	V	MID.V.3-SG-S	D	_	_	_	_	_	_

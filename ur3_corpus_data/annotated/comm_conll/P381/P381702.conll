@@ -1,0 +1,13 @@
+#new_text=P381702					
+FORM	SEGM	XPOSTAG	XPOSTAG	POS	?	?	?	?	?	?
+3(gesz2)	3(gesz)[sixty]	NU	NU	D	B-COUNT	_	190	cardinal	_	190
+1(u)	1(u)[ten]	NU	NU	D	I-COUNT	*	*	*	*	*
+{gesz}geszimmar	gesznimbar[palm]	PN	N	D	B-COM	_	_	_	_	_
+i3-pe-li2-is	_	PN	PN	POS	_	_	_	_	_	_
+1(gesz2)	1(gesz)[sixty]	NU	NU	D	B-COUNT	_	73	cardinal	_	73
+1(u)	1(u)[ten]	NU	NU	D	I-COUNT	*	*	*	*	*
+3(disz)	3(disz)[one]	NU	NU	D	I-COUNT	*	*	*	*	*
+{gesz}geszimmar	gesznimbar[palm]	PN	N	D	B-COM	_	_	_	_	_
+5(disz)	5(disz)[one]	NU	NU	D	B-COUNT	_	5	cardinal	_	5
+{gesz}HAR-haszhur	_	PN	PN	POS	_	_	_	_	_	_
+szu-esz18-dar	Szu'eszdar[1][-ak]	PN	PN	D	_	_	_	_	_	_

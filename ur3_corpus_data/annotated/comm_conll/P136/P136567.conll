@@ -1,0 +1,24 @@
+#new_text=P136567					
+FORM	SEGM	XPOSTAG	XPOSTAG	POS	?	?	?	?	?	?
+1(disz)	1(disz)[one]	NU	NU	D	B-COUNT	_	1	cardinal	_	1
+ab2-mah2	abmah[mature_cow]	N	N	D	_	_	_	_	_	_
+a-ru-a	_	GN	GN	POS	_	_	_	_	_	_
+ta2-di3-ki-za	_	PN	PN	Iabcde	_	_	_	_	_	_
+dam	dam[spouse]	N	N	D	_	_	_	_	_	_
+da-a-a	_	PN	PN	Ia	_	_	_	_	_	_
+x	_[_]	N	N	D	_	_	_	_	_	_
+za3(DUB)	_	NU	NU	POS	_	_	_	_	_	_
+1(u)-sze3	1(u)[ten]-sze	NU	NU.TERM	D	B-COUNT	_	10	cardinal	_	10
+{d}nin-gal-e	_	DN	DN.DAT-H	Iabcdef	_	_	_	_	_	_
+i3-dab5	i[-n]-dab[seize][-ø]	V	FIN.3-SG-H-A.V.3-SG-P	D	_	_	_	_	_	_
+...	_[_]	PN	N	D	_	_	_	_	_	_
+iti	iti[month]	N	N	D	_	_	_	_	_	_
+ezem-{d}szul-gi	Ezemszulgir[1][-'a]	MN	MN.L1	D	_	_	_	_	_	_
+mu	mu[year]	N	N	D	_	_	_	_	_	_
+x	_[_]	N	N	D	_	_	_	_	_	_
+x	_[_]	N	N	D	_	_	_	_	_	_
+x	_[_]	N	N	D	_	_	_	_	_	_
+lu2-{d}nin-szubur	Luninszubur[1][-ra]	PN	PN	D	_	_	_	_	_	_
+dub-sar	dubsar[scribe]	N	N	D	_	_	_	_	_	_
+dumu	dumu[child]	N	N	D	_	_	_	_	_	_
+sipa-sag-zi	_	PN	PN.	Iabc	_	_	_	_	_	_

@@ -1,0 +1,12 @@
+#new_text=P370891					
+FORM	SEGM	XPOSTAG	XPOSTAG	POS	?	?	?	?	?	?
+2/3(disz)	2/3(disz)[one]	NU	NU	D	B-COUNT	_	0.7416666666666666	cardinal	_	0.7416666666666666
+4(disz)	4(disz)[one]	NU	NU	D	I-COUNT	*	*	*	*	*
+1/2(disz)	1/2(disz)[one]	NU	NU	D	I-COUNT	*	*	*	*	*
+gin2	gig[unit]	N	N	D	I-COUNT	*	*	*	*	*
+siki-kur	_	N	N	POS	_	_	_	_	_	_
+4(disz)	4(disz)[one]	NU	NU	D	B-COUNT	_	0.09999999999999999	cardinal	_	0.09999999999999999
+gin2	gig[unit]	N	N	D	I-COUNT	*	*	*	*	*
+la2	la[hang][-ø]	V	NF.V.ABS	D	I-COUNT	*	*	*	*	*
+igi-6(disz)-gal2	igi6(disz)[one]gal[fraction]	NU	NU	D	I-COUNT	*	*	*	*	*
+nin-gu2-gal	_	FN	FN	POS	_	_	_	_	_	_

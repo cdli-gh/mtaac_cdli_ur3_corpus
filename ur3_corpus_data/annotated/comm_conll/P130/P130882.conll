@@ -1,0 +1,14 @@
+#new_text=P130882					
+FORM	SEGM	XPOSTAG	XPOSTAG	POS	?	?	?	?	?	?
+2(disz)	2(disz)[one]	NU	NU	D	B-COUNT	_	2	cardinal	_	2
+ansze	ansze[donkey]	N	N	D	B-COM	_	_	_	_	_
+x-x	_[_]	PN	N.2-SG-POSS.ABS	D	_	_	_	_	_	_
+ku3-bi	kug[silver]-bi[-ø]	N	N.3-SG-NH-POSS.ABS	D	_	_	_	_	_	_
+1/2(disz)	1/2(disz)[one]	NU	NU	D	B-COUNT	g	250.00000000000003	weight	gin2	30.0
+ma-na	mana[unit]	N	N	D	I-COUNT	*	*	*	*	*
+za-ri2-gum2	_	PN	PN.ERG	Iabcdefgh	_	_	_	_	_	_
+nu-banda3	nubanda[overseer][-ø]	N	N	D	_	_	_	_	_	_
+ba-na-la2	_	V	V	POS	_	_	_	_	_	_
+{ansze}kunga2-bi	_	N	N.ABS	Iabcdef	_	_	_	_	_	_
+a-hu-a	Ahuya[1]	PN	PN	D	_	_	_	_	_	_
+ba-sze3-ah	_	PN	PN	POS	_	_	_	_	_	_

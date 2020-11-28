@@ -1,0 +1,20 @@
+#new_text=P122452					
+FORM	SEGM	XPOSTAG	XPOSTAG	POS	?	?	?	?	?	?
+kiszib3	kiszib[seal]	N	N	D	_	_	_	_	_	_
+ur-{d}en-lil2-la2-da	_	PN	PN.GEN.GEN.ABS	Iabcdefg	_	_	_	_	_	_
+nig2-ka9	nigSZID[account]	N	N	D	_	_	_	_	_	_
+ab-da-ak	_	V	V	POS	_	_	_	_	_	_
+u3-um-re-re	_	PN	PN	POS	_	_	_	_	_	_
+zi-re-dam	_	PN	PN	POS	_	_	_	_	_	_
+iti	iti[month]	N	N	D	_	_	_	_	_	_
+ku3-SZIM	_	MN	MN	POS	_	_	_	_	_	_
+u4	ud[day]	N	N	D	_	_	_	_	_	_
+2(u)	2(u)[ten]	NU	NU	D	B-COUNT	_	26	cardinal	_	26
+6(disz)	6(disz)[one][-sze]	NU	NU	D	I-COUNT	*	*	*	*	*
+ba-zal	ba-zal[pass][-ø][-a][-'a]	V	MID.V.3-SG-S.SUB	D	_	_	_	_	_	_
+mu	mu[year]	N	N	D	_	_	_	_	_	_
+en	en[priest]	N	N	D	_	_	_	_	_	_
+{d}inanna	Inanna[1][-ak]	DN	DN	D	_	_	_	_	_	_
+unu{ki}-ga	Unug[1]-ak[-ak][-ø]	SN	SN.GEN	D	_	_	_	_	_	_
+masz2-e	masz[goat]-e	N	N.L3-NH	D	B-COM	_	_	_	_	_
+i3-pa3	i-pad[find][-ø]	V	FIN.V.3-SG-S	D	_	_	_	_	_	_

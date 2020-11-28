@@ -1,0 +1,11 @@
+#new_text=P142448					
+FORM	SEGM	XPOSTAG	XPOSTAG	POS	?	?	?	?	?	?
+1(disz)	1(disz)[one]	NU	NU	D	B-COUNT	_	1	cardinal	_	1
+usz2	usz[dead][-ø]	N	NF.V.ABS	D	_	_	_	_	_	_
+udu	udu[sheep]	N	N	D	B-COM	_	_	_	_	_
+kir11	kir[female_lamb]	N	N	D	_	_	_	_	_	_
+asz-ur4	_	PN	PN	POS	_	_	_	_	_	_
+2(disz)	2(disz)[one]	NU	NU	D	B-COUNT	_	2	cardinal	_	2
+usz2	usz[dead][-ø]	N	NF.V.ABS	D	_	_	_	_	_	_
+udu-nita2	udunita[ram]	N	N	D	B-COM	_	_	_	_	_
+asz-ur4	_	PN	PN	POS	_	_	_	_	_	_

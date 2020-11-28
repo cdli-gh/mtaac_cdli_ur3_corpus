@@ -1,0 +1,15 @@
+#new_text=P138532					
+FORM	SEGM	XPOSTAG	XPOSTAG	POS	?	?	?	?	?	?
+3(u)	3(u)[ten]	NU	NU	D	B-COUNT	g	15000.000000000002	weight	gin2	1800
+ma-na	mana[unit]	N	N	D	I-COUNT	*	*	*	*	*
+im-babbar2	imbabbar[gypsum]	N	N	D	B-COM	_	_	_	_	_
+tug2-ga	_	N	N.GEN	Iabcde	_	_	_	_	_	_
+DU-a-asz	_	V	V	POS	_	_	_	_	_	_
+ki	ki[place]	N	N	D	_	_	_	_	_	_
+szu-{d}iszkur-ta	_	PN	PN.GEN.ABL	Iabcdef	_	_	_	_	_	_
+ur-{d}szusz3-{d}ba-ba6	_	PN	PN.GEN.ABL	Iabcdefgh	_	_	_	_	_	_
+iti	iti[month]	N	N	D	_	_	_	_	_	_
+ezem-x-x	_	MN	MN	Iabcde	_	_	_	_	_	_
+mu	mu[year]	N	N	D	_	_	_	_	_	_
+bad3-gal	badgal[great_wall][-ø]	N	N.ABS	D	_	_	_	_	_	_
+ba-du3	ba-du[build][-ø]	V	MID.V.3-SG-S	D	_	_	_	_	_	_

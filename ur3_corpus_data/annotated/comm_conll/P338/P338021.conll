@@ -1,0 +1,26 @@
+#new_text=P338021					
+FORM	SEGM	XPOSTAG	XPOSTAG	POS	?	?	?	?	?	?
+...	_[_]	PN	N	D	_	_	_	_	_	_
+2(u)	2(u)[ten]	NU	NU	D	B-COUNT	_	none	unknown	_	none
+x	_[_]	N	N	D	I-COUNT	*	*	*	*	*
+...	_[_]	PN	N	D	I-COUNT	*	*	*	*	*
+4(u)	4(u)[ten]	NU	NU	D	B-COUNT	_	45	cardinal	_	45
+5(disz)	5(disz)[one]	NU	NU	D	I-COUNT	*	*	*	*	*
+u2-ninni5	_	PN	PN.GEN.GEN	Iabcdef	_	_	_	_	_	_
+x	_[_]	N	N	D	_	_	_	_	_	_
+gurusz-e	_	N	N.L3-NH	Iab	B-COM	_	_	_	_	_
+gu-nigin2	_	PN	PN	POS	_	_	_	_	_	_
+3(disz)-ta	_	NU	NU.ABL	Iab	B-COUNT	_	3	cardinal	_	3
+e	eg[levee]	N	N	D	_	_	_	_	_	_
+sa	sa[bundle]	N	N	D	_	_	_	_	_	_
+dur2-ra	_	N	N	POS	_	_	_	_	_	_
+a-sza3	aszag[field]	N	N	D	_	_	_	_	_	_
+ka-ma-ri2{ki}	Kamari[1][-ak][-'a]	FN	FN.GEN.L1	D	_	_	_	_	_	_
+sahar	sahar[earth][-ø]	N	N.GEN	D	B-COM	_	_	_	_	_
+si-ga	sig[load]-a	N	NF.V.PT	D	_	_	_	_	_	_
+kiszib3	kiszib[seal]	N	N	D	_	_	_	_	_	_
+ur-gesz-gigir-x	_	PN	PN	Iabcdefgh	_	_	_	_	_	_
+ur-{gesz}gigir	Urgigir[1]	PN	PN	D	_	_	_	_	_	_
+dub-sar	dubsar[scribe]	N	N	D	_	_	_	_	_	_
+dumu	dumu[child]	N	N	D	_	_	_	_	_	_
+...	_[_]	PN	N	D	_	_	_	_	_	_

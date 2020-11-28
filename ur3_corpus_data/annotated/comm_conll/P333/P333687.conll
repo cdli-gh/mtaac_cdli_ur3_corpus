@@ -1,0 +1,14 @@
+#new_text=P333687					
+FORM	SEGM	XPOSTAG	XPOSTAG	POS	?	?	?	?	?	?
+1(disz)	1(disz)[one]	NU	NU	D	B-COUNT	_	1	cardinal	_	1
+{kusz}suhub2	suhub[boots]	N	N	D	B-COM	_	_	_	_	_
+szu-gid2	szugid[animal_designation][-ø]	N	N	D	_	_	_	_	_	_
+e2-ba-an	eban[pair][-ø]	PN	N.ABS	D	_	_	_	_	_	_
+1(disz)	1(disz)[one]	NU	NU	D	B-COUNT	_	1	cardinal	_	1
+{kusz}suhub2	suhub[boots]	N	N	D	B-COM	_	_	_	_	_
+e2-ba-an	eban[pair][-ø]	PN	N.ABS	D	_	_	_	_	_	_
+ki	ki[place]	N	N	D	_	_	_	_	_	_
+szu-me-me	_	N	N	POS	_	_	_	_	_	_
+ba-zi	ba-zig[expend][-ø]	PN	MID.V.3-SG-S	D	_	_	_	_	_	_
+iti	iti[month]	N	N	D	_	_	_	_	_	_
+nig2-e-ga	_	PN	PN	POS	_	_	_	_	_	_

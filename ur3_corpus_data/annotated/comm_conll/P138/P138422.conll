@@ -1,0 +1,23 @@
+#new_text=P138422					
+FORM	SEGM	XPOSTAG	XPOSTAG	POS	?	?	?	?	?	?
+3(disz)	3(disz)[one]	NU	NU	D	B-COUNT	_	3	cardinal	_	3
+gada	gada[flax]	N	N	D	B-COM	_	_	_	_	_
+sag	sag[head]	N	N	D	_	_	_	_	_	_
+kesz2	_	V	V	POS	_	_	_	_	_	_
+sza3-gu	_	N	N	Ia	_	_	_	_	_	_
+2(disz)	2(disz)[one]	NU	NU	D	B-COUNT	_	2	cardinal	_	2
+gada	gada[flax]	N	N	D	B-COM	_	_	_	_	_
+bar-si	_	N	N	POS	_	_	_	_	_	_
+sza3-gu	_	N	N	Ia	_	_	_	_	_	_
+2(disz)	2(disz)[one]	NU	NU	D	B-COUNT	_	2	cardinal	_	2
+gada	gada[flax]	N	N	D	B-COM	_	_	_	_	_
+hal	hal[unit]	N	N	D	_	_	_	_	_	_
+saga	saga[good][-ø]	V	NF.V.ABS	D	_	_	_	_	_	_
+x	_[_]	N	N	D	_	_	_	_	_	_
+gada	gada[flax]	N	N	D	_	_	_	_	_	_
+sza3-ga-du3	_	N	N	POS	_	_	_	_	_	_
+hal	hal[unit]	N	N	D	_	_	_	_	_	_
+saga	saga[good][-ø]	V	NF.V.ABS	D	_	_	_	_	_	_
+n	_(_)[_]	NU	NU	D	_	_	_	_	_	_
+gada	gada[flax]	N	N	D	_	_	_	_	_	_
+usz-bar	uszbar[weaver][-ak]	N	N	D	_	_	_	_	_	_

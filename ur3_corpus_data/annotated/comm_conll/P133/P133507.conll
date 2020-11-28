@@ -1,0 +1,18 @@
+#new_text=P133507					
+FORM	SEGM	XPOSTAG	XPOSTAG	POS	?	?	?	?	?	?
+2/3(disz){sza}	2/3(disz)[one]	NU	NU	D	B-COUNT	_	0.7333333333333333	cardinal	_	0.7333333333333333
+4(disz)	4(disz)[one]	NU	NU	D	I-COUNT	*	*	*	*	*
+gin2	gig[unit]	N	N	D	I-COUNT	*	*	*	*	*
+igi-4(disz)-gal2	igi4(disz)[one]gal[fraction]	NU	NU	D	B-COUNT	_	0.25	cardinal	_	0.25
+ku3	kug[silver]	N	N	D	B-COM	_	_	_	_	_
+ki	ki[place]	N	N	D	_	_	_	_	_	_
+lu2-da-da-ta	_	PN	PN.GEN.ABL	Iab	_	_	_	_	_	_
+masz-da-re-a	_	N	N	POS	_	_	_	_	_	_
+e2-gal-sze3	_	N	N	POS	_	_	_	_	_	_
+kiszib3	kiszib[seal]	N	N	D	_	_	_	_	_	_
+lu2-{d}utu	Lu'utu[1]	PN	PN	D	_	_	_	_	_	_
+iti	iti[month]	N	N	D	_	_	_	_	_	_
+munu4-gu7	Munugu[1][-'a]	MN	MN.L1	D	_	_	_	_	_	_
+mu	mu[year]	N	N	D	_	_	_	_	_	_
+hu-hu-nu-ri{ki}	Huhunuri[1][-ø]	GN	SN.ABS	D	_	_	_	_	_	_
+ba-hul	ba-hulu[destroy][-ø]	V	MID.V.3-SG-S	D	_	_	_	_	_	_

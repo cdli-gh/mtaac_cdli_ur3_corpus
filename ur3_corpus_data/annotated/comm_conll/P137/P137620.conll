@@ -1,0 +1,13 @@
+#new_text=P137620					
+FORM	SEGM	XPOSTAG	XPOSTAG	POS	?	?	?	?	?	?
+1(disz)	1(disz)[one]	NU	NU	D	B-COUNT	g	500.00000000000006	weight	gin2	60
+ma-na	mana[unit]	N	N	D	I-COUNT	*	*	*	*	*
+ku6	kud[fish]	N	N	D	B-COM	_	_	_	_	_
+duru5	_	V	V	POS	_	_	_	_	_	_
+ba-la2	_	V	V	POS	_	_	_	_	_	_
+ku6	kud[fish]	N	N	D	_	_	_	_	_	_
+had2-bi	_	V	NF.V.3-SG-NH-POSS.ABS	Iabcdefg	_	_	_	_	_	_
+3(disz)	3(disz)[one]	NU	NU	D	B-COUNT	g	1500.0	weight	gin2	180
+ma-na	mana[unit]	N	N	D	I-COUNT	*	*	*	*	*
+ba-la2	_	V	V	POS	_	_	_	_	_	_
+...	_[_]	PN	N	D	_	_	_	_	_	_

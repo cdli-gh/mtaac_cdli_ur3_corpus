@@ -1,0 +1,23 @@
+#new_text=P140815					
+FORM	SEGM	XPOSTAG	XPOSTAG	POS	?	?	?	?	?	?
+9(gesz2)	9(gesz)[sixty]	NU	NU	D	B-COUNT	_	560	cardinal	_	560
+2(u)	2(u)[ten]	NU	NU	D	I-COUNT	*	*	*	*	*
+{gesz}a2	_	N	N	Ia	B-COM	_	_	_	_	_
+{uruda}gurx(|SZE.KIN|)	_	N	N	Ia	_	_	_	_	_	_
+3(u)	3(u)[ten]	NU	NU	D	B-COUNT	_	30	cardinal	_	30
+nigin2	nigin[bundle]	N	N	D	_	_	_	_	_	_
+{gesz}al	al[hoe]	N	N	D	B-COM	_	_	_	_	_
+2(u)	2(u)[ten]	NU	NU	D	B-COUNT	_	20	cardinal	_	20
+nigin2	nigin[bundle]	N	N	D	_	_	_	_	_	_
+{gesz}al	al[hoe]	N	N	D	B-COM	_	_	_	_	_
+saga	saga[good][-ø]	V	NF.V.ABS	D	_	_	_	_	_	_
+kiszib3	kiszib[seal]	N	N	D	_	_	_	_	_	_
+a-gu	Agu[1][-ak]	PN	PN	D	_	_	_	_	_	_
+mu	mu[year]	N	N	D	_	_	_	_	_	_
+bad3	bad[wall]	N	N	D	_	_	_	_	_	_
+mar-tu	Martu[1][-ø]	EN	EN.ABS	D	_	_	_	_	_	_
+ba-du3	ba-du[build][-ø]	V	MID.V.3-SG-S	D	_	_	_	_	_	_
+a-gu	Agu[1][-ak]	PN	PN	D	_	_	_	_	_	_
+dub-sar	dubsar[scribe]	N	N	D	_	_	_	_	_	_
+dumu	dumu[child]	N	N	D	_	_	_	_	_	_
+lugal-e2-mah-e	Lugalemahe[1]	N	PN	D	_	_	_	_	_	_

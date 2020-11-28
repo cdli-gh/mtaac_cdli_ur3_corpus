@@ -1,0 +1,13 @@
+#new_text=P132834					
+FORM	SEGM	XPOSTAG	XPOSTAG	POS	B-COUNT	l	360	"dry	*	*
+1(asz)	1(asz)[one]	NU	NU	D	I-COUNT	*	*	*	sila3	360
+1(barig)	1(bariga)[unit]	NU	N	D	I-COUNT	*	*	*	*	*
+zi3	zid[flour]	N	N	D	B-COM	_	_	_	_	_
+gur	gur[unit]	N	N	D	_	_	_	_	_	_
+nam-mah	Nammah[1]	PN	PN	D	_	_	_	_	_	_
+nu-banda3	nubanda[overseer][-ø]	N	N	D	_	_	_	_	_	_
+mar-sa	marsa[shipyard]	PN	N	D	_	_	_	_	_	_
+a-sza3	aszag[field]	N	N	D	_	_	_	_	_	_
+gi4-a	_	V	V	POS	_	_	_	_	_	_
+en3-bi	en[word]-bi[-ø]	N	N.3-SG-H-POSS.ABS	D	_	_	_	_	_	_
+tar-re	tar[ask]-ed	V	NF.V.F	D	_	_	_	_	_	_

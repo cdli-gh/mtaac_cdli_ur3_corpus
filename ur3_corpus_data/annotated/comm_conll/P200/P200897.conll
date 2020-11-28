@@ -1,0 +1,23 @@
+#new_text=P200897					
+FORM	SEGM	XPOSTAG	XPOSTAG	POS	?	?	?	?	?	?
+7(disz)	7(disz)[one][-sze]	NU	NU	D	B-COUNT	_	7	cardinal	_	7
+{gesz}lu-du-bi	_	N	N.3-SG-NH-POSS.ABS	Iabcde	B-COM	_	_	_	_	_
+kusz	kusz[leather]	N	N	D	_	_	_	_	_	_
+udu-bi	udu[sheep]-bi[-ø]	N	N.3-SG-NH-POSS.ABS	D	_	_	_	_	_	_
+1/2(disz)-ta	1/2(disz)[one]-ta	NU	NU.ABL	D	B-COUNT	_	0.5	cardinal	_	0.5
+mun-gazi	_	N	N	Ia	_	_	_	_	_	_
+bala-a-x	_	PN	PN	Iabcdefgh	_	_	_	_	_	_
+3(disz)	3(disz)[one]	NU	NU	D	B-COUNT	_	3	cardinal	_	3
+{gesz}tukul	tukul[weapon][-'a]	N	N	D	B-COM	_	_	_	_	_
+KA	ka[mouth]	N	N	D	_	_	_	_	_	_
+...	_[_]	PN	N	D	_	_	_	_	_	_
+mun-gazi	_	N	N	Ia	_	_	_	_	_	_
+KA	ka[mouth]	N	N	D	_	_	_	_	_	_
+...	_[_]	PN	N	D	_	_	_	_	_	_
+ki	ki[place]	N	N	D	_	_	_	_	_	_
+x-...-ta	_			POS	_	_	_	_	_	_
+kiszib3	kiszib[seal]	N	N	D	_	_	_	_	_	_
+lugal-nig2-lagar-e	Lugalniglagare[1][-ak]	PN	PN.GEN	D	_	_	_	_	_	_
+mu	mu[year]	N	N	D	_	_	_	_	_	_
+sza-sza-ru-um{ki}	_	GN	GN	POS	_	_	_	_	_	_
+ba-hul	ba-hulu[destroy][-ø]	V	MID.V.3-SG-S	D	_	_	_	_	_	_

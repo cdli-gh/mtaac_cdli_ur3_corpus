@@ -1,0 +1,23 @@
+#new_text=P200926					
+FORM	SEGM	XPOSTAG	XPOSTAG	POS	?	?	?	?	?	?
+4(disz)	4(disz)[one]	NU	NU	D	B-COUNT	bricks	34560	bricks	gin2	2880
+sar	sar[unit]	N	N	D	I-COUNT	*	*	*	*	*
+e2	e[house]	N	N	D	_	_	_	_	_	_
+e3-li	_	PN	PN	Iabcdefgh	B-COM	_	_	_	_	_
+lugal-{gesz}gigir-re	Lugalgigire[1][-ra]	PN	PN.DAT-H	D	_	_	_	_	_	_
+dumu	dumu[child]	N	N	D	_	_	_	_	_	_
+lugal-ma2-gur8-re-ke4	_	PN	PN	Iabcdefgh	_	_	_	_	_	_
+dumu	dumu[child]	N	N	D	_	_	_	_	_	_
+e3-li-sze3	_	PN	PN	POS	_	_	_	_	_	_
+sa10-asz	_	V	NF.V.PT.TERM	Iabcdefg	_	_	_	_	_	_
+in-ge-en6	_	PN	PN	POS	_	_	_	_	_	_
+ba-an-sa6	Bayansa[1][-e]	PN	PN.ERG	D	_	_	_	_	_	_
+dumu	dumu[child]	N	N	D	_	_	_	_	_	_
+lugal-ma2-gur8-re-ke4	_	PN	PN	Iabcdefgh	_	_	_	_	_	_
+nam-erim2-bi	_	N	N.ABS	Iabcdef	_	_	_	_	_	_
+mu-ku5	_	N	N	POS	_	_	_	_	_	_
+ur-ku3	_	PN	PN	Ia	_	_	_	_	_	_
+aga3-us2	aga'us[soldier]	N	N	D	_	_	_	_	_	_
+maszkim	maszkim[administrator]	N	N.ABS	D	_	_	_	_	_	_
+di	did[lawsuit]	N	N	D	_	_	_	_	_	_
+til-la-bi-im	_	V	NF.V.PT.ABS.COP-3-SG	Iabcdefg	_	_	_	_	_	_

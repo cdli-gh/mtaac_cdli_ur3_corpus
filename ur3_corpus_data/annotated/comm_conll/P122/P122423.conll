@@ -1,0 +1,24 @@
+#new_text=P122423					
+FORM	SEGM	XPOSTAG	XPOSTAG	POS	?	?	?	?	?	?
+2(disz)	2(disz)[one]	NU	NU	D	B-COUNT	_	0.041666666666666664	cardinal	_	0.041666666666666664
+1/2(disz)	1/2(disz)[one]	NU	NU	D	I-COUNT	*	*	*	*	*
+gin2	gig[unit]	N	N	D	I-COUNT	*	*	*	*	*
+ku3-babbar	kugbabbar[silver]	N	N	D	B-COM	_	_	_	_	_
+masz2	masz[goat]	N	N	D	_	_	_	_	_	_
+nu-ub-tuku	nu-i-b-tuku[acquire][-ø]	V	NEG.FIN.3-SG-NH.V.3-SG-S	D	_	_	_	_	_	_
+ki	ki[place]	N	N	D	_	_	_	_	_	_
+ur-sukkal-ta	_	PN	PN.GEN.ABL	Iabcdef	_	_	_	_	_	_
+ad-da-kal-la	Addakala[1][-ra]	PN	PN	D	_	_	_	_	_	_
+szu	szu[hand][-e]	N	N.L3-NH	D	_	_	_	_	_	_
+ba-ti	ba[-n]-teg[accept][-ø]	V	MID.3-SG-H-A.V.3-SG-P	D	_	_	_	_	_	_
+szum2	szum[garlic]	N	N	D	_	_	_	_	_	_
+bu-re-da-bi	_	V	V	POS	_	_	_	_	_	_
+gi4-gi4-de3	_	V	V	POS	_	_	_	_	_	_
+mu	mu[year]	N	N	D	_	_	_	_	_	_
+lugal-bi	_	N	N	POS	_	_	_	_	_	_
+in-pa3	i-n-pad[name][-ø]	V	FIN.3-SG-H-A.V.3-SG-P	D	_	_	_	_	_	_
+...-x	_[_]	WN	RN	D	_	_	_	_	_	_
+...-x	_[_]	WN	RN	D	_	_	_	_	_	_
+...-mes	_	PN	PN	Ia	_	_	_	_	_	_
+...-ba	_	PN	PN.ERG	Iabcdefgh	_	_	_	_	_	_
+lu2-inim-ma-bi-me	lu'inimak[witness]-bi[-ø]-mesz	N	N.3-SG-NH-POSS.ABS.COP-3-PL	D	_	_	_	_	_	_

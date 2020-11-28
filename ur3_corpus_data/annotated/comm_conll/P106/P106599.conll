@@ -1,0 +1,26 @@
+#new_text=P106599					
+FORM	SEGM	XPOSTAG	XPOSTAG	POS	B-COUNT	l	10	"liquid	*	*
+*RETOK*-capacity"	?	?	?	?	I-COUNT	l	10	"dry	sila3	10
+1(u)	1(u)[ten]	NU	NU	D	I-COUNT	*	*	*	sila3	10
+sila3	sila[unit]	N	N	D	I-COUNT	*	*	*	*	*
+i3-gesz	igesz[oil]	V	N	D	B-COM	_	_	_	_	_
+3(disz)	3(disz)[one]	NU	NU	D	B-COUNT	_	3	cardinal	_	3
+{gi}kaskal	kaskal[travel_basket]	N	N	D	_	_	_	_	_	_
+ku6	kud[fish]	N	N	D	_	_	_	_	_	_
+1(disz)	1(disz)[one]	NU	NU	D	B-COUNT	_	1	cardinal	_	1
+ku6	kud[fish]	N	N	D	_	_	_	_	_	_
+kun-zi	_	N	N	POS	_	_	_	_	_	_
+*RETOK*-capacity"	?	?	?	?	B-COUNT	l	30	"dry	*	*
+3(ban2)	3(ban)[unit]	NU	N	D	I-COUNT	*	*	*	sila3	30
+zu2-lum	zulum[date]	N	N	D	_	_	_	_	_	_
+*RETOK*-capacity"	?	?	?	?	B-COUNT	l	20	"dry	*	*
+2(ban2)	2(ban)[unit]	NU	N	D	I-COUNT	*	*	*	sila3	20
+gu2-gal-gal	_	PN	PN	POS	_	_	_	_	_	_
+a2-ag2-ga2	a'aga[news]	N	N	D	_	_	_	_	_	_
+a-hu-a	Ahuya[1]	PN	PN	D	_	_	_	_	_	_
+lugal-di-ku5	_	PN	PN.GEN.ABS	Iabcdef	_	_	_	_	_	_
+mar-tu	Martu[1][-ø]	EN	EN.ABS	D	_	_	_	_	_	_
+szu	szu[hand][-e]	N	N.L3-NH	D	B-COM	_	_	_	_	_
+ba-ti	ba[-n]-teg[accept][-ø]	V	MID.3-SG-H-A.V.3-SG-P	D	_	_	_	_	_	_
+iti	iti[month]	N	N	D	_	_	_	_	_	_
+szu-numun	Szunumun[1][-'a]	MN	MN.L1	D	_	_	_	_	_	_

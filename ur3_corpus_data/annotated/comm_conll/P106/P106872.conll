@@ -1,0 +1,26 @@
+#new_text=P106872					
+FORM	SEGM	XPOSTAG	XPOSTAG	POS	?	?	?	?	?	?
+1(u)	1(u)[ten]	NU	NU	D	B-COUNT	_	9	cardinal	_	9
+la2	la[hang][-ø]	V	NF.V.ABS	D	I-COUNT	*	*	*	*	*
+1(disz)	1(disz)[one]	NU	NU	D	I-COUNT	*	*	*	*	*
+kasz	kasz[beer]	N	N	D	B-COM	_	_	_	_	_
+saga	saga[good][-ø]	V	NF.V.ABS	D	_	_	_	_	_	_
+x-na	_	DN	DN	POS	_	_	_	_	_	_
+e2-masz-me	_	N	N	POS	_	_	_	_	_	_
+4(disz)	4(disz)[one]	NU	NU	D	B-COUNT	_	4	cardinal	_	4
+lu2-{d}x	_	PN	PN	POS	_	_	_	_	_	_
+3(disz)	3(disz)[one]	NU	NU	D	B-COUNT	_	3	cardinal	_	3
+i3-li2	_	PN	PN	Iabcde	B-COM	_	_	_	_	_
+SZIM	szim[beer_malt]	N	N	D	_	_	_	_	_	_
+2(disz)	2(disz)[one]	NU	NU	D	B-COUNT	_	2	cardinal	_	2
+nam-ha-ni	Namhani[1]	N	PN	D	_	_	_	_	_	_
+2(disz)	2(disz)[one]	NU	NU	D	B-COUNT	_	2	cardinal	_	2
+i-lul-dingir	_	PN	PN	Iabcde	_	_	_	_	_	_
+4(disz)	4(disz)[one]	NU	NU	D	B-COUNT	_	4	cardinal	_	4
+sag-dingir-hub2	_	PN	PN.GEN.GEN	Iabcde	_	_	_	_	_	_
+2(disz)	2(disz)[one]	NU	NU	D	B-COUNT	_	2	cardinal	_	2
+bi-du	_	PN	PN.GEN.ABS	Iabcdefgh	_	_	_	_	_	_
+2/3(disz)	2/3(disz)[one]	NU	NU	D	B-COUNT	_	0.6666666666666666	cardinal	_	0.6666666666666666
+i3-li2-zu	_	PN	PN.GEN.ABS	Iabcdef	_	_	_	_	_	_
+e3	e[leave][-a]	V	NF.V.PT	D	_	_	_	_	_	_
+KA-zu-zu	_	PN	PN.ABS	Iab	_	_	_	_	_	_

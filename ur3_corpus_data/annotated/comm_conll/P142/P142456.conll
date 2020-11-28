@@ -1,0 +1,11 @@
+#new_text=P142456					
+FORM	SEGM	XPOSTAG	XPOSTAG	POS	B-COUNT	l	60	"liquid	*	*
+2(disz)	2(disz)[one]	NU	NU	D	I-COUNT	*	*	*	sila3	60
+dug	dug[pot]	N	N	D	I-COUNT	*	*	*	*	*
+kasz	kasz[beer]	N	N	D	B-COM	_	_	_	_	_
+du	gin[quality_designation][-ø]	V	NF.V.ABS	D	_	_	_	_	_	_
+sa2-du11	sadug[offerings]	N	N	D	_	_	_	_	_	_
+u4	ud[day]	N	N	D	_	_	_	_	_	_
+2(u)-kam	2(u)[ten]-ak-am	NU	NU.GEN.COP-3-SG	D	B-COUNT	_	20	cardinal	_	20
+sza3	szag[heart]	N	N	D	_	_	_	_	_	_
+uri5{ki}-ma	Urim[1]-ak	SN	SN.GEN	D	_	_	_	_	_	_

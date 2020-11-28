@@ -1,0 +1,11 @@
+#new_text=P105371					
+FORM	SEGM	XPOSTAG	XPOSTAG	POS	?	?	?	?	?	?
+a-hu-a	Ahuya[1]	PN	PN	D	_	_	_	_	_	_
+na-a-be2-a	_	PN	PN	Iabcde	_	_	_	_	_	_
+mu-x-x	_	PN	PN	POS	_	_	_	_	_	_
+guru7	guru[grain_heap]	N	N	D	_	_	_	_	_	_
+x	_[_]	N	N	D	_	_	_	_	_	_
+KA	ka[mouth]	N	N	D	_	_	_	_	_	_
+x	_[_]	N	N	D	_	_	_	_	_	_
+5(disz)	5(disz)[one]	NU	NU	D	B-COUNT	_	none	unknown	_	none
+...	_[_]	PN	N	D	I-COUNT	*	*	*	*	*

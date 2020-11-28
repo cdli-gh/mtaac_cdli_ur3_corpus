@@ -1,0 +1,23 @@
+#new_text=P144237					
+FORM	SEGM	XPOSTAG	XPOSTAG	POS	B-COUNT	l	78600	"dry	*	*
+4(gesz2)	4(gesz)[sixty]	NU	NU	D	I-COUNT	*	*	*	sila3	78600
+2(u)	2(u)[ten]	NU	NU	D	I-COUNT	*	*	*	*	*
+2(asz)	2(asz)[one]	NU	NU	D	I-COUNT	*	*	*	*	*
+gur	gur[unit]	N	N	D	I-COUNT	*	*	*	*	*
+a-kun-kum2-ta	_	FN	FN	POS	_	_	_	_	_	_
+*RETOK*-capacity"	?	?	?	?	B-COUNT	l	75000	"dry	*	*
+4(gesz2)	4(gesz)[sixty]	NU	NU	D	I-COUNT	*	*	*	sila3	75000
+1(u)	1(u)[ten]	NU	NU	D	I-COUNT	*	*	*	*	*
+gur	gur[unit]	N	N	D	I-COUNT	*	*	*	*	*
+ki-su7	kisur[threshing_floor]	N	N	D	_	_	_	_	_	_
+e2-duru5-gu-la	_	PN	PN	POS	_	_	_	_	_	_
+e2	e[house]	N	N	D	_	_	_	_	_	_
+ensi2-ka	ensik[ruler]-ak	N	N.GEN	D	_	_	_	_	_	_
+si-ga	sig[load]-a	N	NF.V.PT	D	B-COM	_	_	_	_	_
+giri3	giri[foot]	N	N	D	_	_	_	_	_	_
+na-ba-sa6	Nabasa[1][-ak]	PN	PN.GEN	D	_	_	_	_	_	_
+u3	u[and]	CNJ	CNJ	D	_	_	_	_	_	_
+ur-{d}suen	Ursuen[1]	PN	PN	D	_	_	_	_	_	_
+mu	mu[year]	N	N	D	_	_	_	_	_	_
+hu-uh2-nu-ri{ki}	Huhnuri[1][-ø]	GN	SN.ABS	D	_	_	_	_	_	_
+ba-hul	ba-hulu[destroy][-ø]	V	MID.V.3-SG-S	D	_	_	_	_	_	_

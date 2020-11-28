@@ -1,0 +1,11 @@
+#new_text=P101650					
+FORM	SEGM	XPOSTAG	XPOSTAG	POS	B-COUNT	l	3060	"dry	*	*
+1(u)	1(u)[ten]	NU	NU	D	I-COUNT	*	*	*	sila3	3060
+1(barig)	1(bariga)[unit]	NU	N	D	I-COUNT	*	*	*	*	*
+zu2-lum	zulum[date]	N	N	D	B-COM	_	_	_	_	_
+gur	gur[unit]	N	N	D	_	_	_	_	_	_
+diri	diri[intercalary_month]	N	N	D	_	_	_	_	_	_
+kab2-du11-ga	kabdug[check]-a	V	NF.V.PT	D	_	_	_	_	_	_
+{d}utu-ug3-e	_	PN	PN.ERG	Iab	_	_	_	_	_	_
+{gesz}kiri6	kiri[orchard][-'a][-ø]	N	N	D	_	_	_	_	_	_
+al-la-mu	Allamu[1][-e]	PN	PN	D	_	_	_	_	_	_

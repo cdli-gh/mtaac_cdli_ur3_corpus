@@ -1,0 +1,25 @@
+#new_text=P339105					
+FORM	SEGM	XPOSTAG	XPOSTAG	POS	?	?	?	?	?	?
+2(bur3)	2(bur)[unit]	NU	N	D	B-COUNT	m^2	129600.0	surface	gin2	216000
+GAN2	gana[field]	N	N	D	I-COUNT	*	*	*	*	*
+ur-{d}en-lil2-la2	Urenlilak[1][-ak][-'a]	PN	PN.DAT-H	D	_	_	_	_	_	_
+7(bur3)	_	NU	NU.GEN	Iabcdef	B-COUNT	m^2	475200.0	surface	gin2	792000
+1(esze3)	1(esze)[unit]	NU	N	D	I-COUNT	*	*	*	*	*
+GAN2	gana[field]	N	N	D	I-COUNT	*	*	*	*	*
+lu2-dingir-ra	Ludingira[1][-ra]	PN	PN	D	_	_	_	_	_	_
+3(bur3)	3(bur)[unit]	NU	N	D	B-COUNT	m^2	208800.0	surface	gin2	348000
+4(iku)	4(iku)[unit]	NU	N	D	I-COUNT	*	*	*	*	*
+GAN2	gana[field]	N	N	D	I-COUNT	*	*	*	*	*
+kal-la-mu	Kalamu[1]	PN	PN	D	_	_	_	_	_	_
+4(bur3)	4(bur)[unit]	NU	N	D	B-COUNT	m^2	270000.0	surface	gin2	450000
+3(iku)	3(iku)[unit]	NU	N	D	I-COUNT	*	*	*	*	*
+GAN2	gana[field]	N	N	D	I-COUNT	*	*	*	*	*
+lu2-{d}nanna	Lunanna[1]	PN	PN	D	_	_	_	_	_	_
+7(bur3)	_	NU	NU.GEN	Iabcdef	B-COUNT	m^2	496800.0	surface	gin2	828000
+2(esze3)	2(esze)[unit]	NU	N	D	I-COUNT	*	*	*	*	*
+GAN2	gana[field]	N	N	D	I-COUNT	*	*	*	*	*
+lu2-dingir-ra	Ludingira[1][-ra]	PN	PN	D	_	_	_	_	_	_
+6(bur3)	6(bur)[unit]	NU	N	D	B-COUNT	m^2	432000.0	surface	gin2	720000
+2(esze3)	2(esze)[unit]	NU	N	D	I-COUNT	*	*	*	*	*
+GAN2	gana[field]	N	N	D	I-COUNT	*	*	*	*	*
+{d}dumu-zi-urua{a}	_	PN	PN	POS	_	_	_	_	_	_

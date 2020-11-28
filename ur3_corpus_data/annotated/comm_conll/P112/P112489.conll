@@ -1,0 +1,19 @@
+#new_text=P112489					
+FORM	SEGM	XPOSTAG	XPOSTAG	POS	?	?	?	?	?	?
+6(disz)	6(disz)[one][-sze]	NU	NU	D	B-COUNT	_	6	cardinal	_	6
+4(disz)	4(disz)[one]	NU	NU	D	B-COUNT	_	6	cardinal	_	6
+2(disz)	2(disz)[one]	NU	NU	D	I-COUNT	*	*	*	*	*
+4(disz)	4(disz)[one]	NU	NU	D	B-COUNT	_	6	cardinal	_	6
+2(disz)	2(disz)[one]	NU	NU	D	I-COUNT	*	*	*	*	*
+4(disz)	4(disz)[one]	NU	NU	D	B-COUNT	_	6	cardinal	_	6
+2(disz)	2(disz)[one]	NU	NU	D	I-COUNT	*	*	*	*	*
+4(disz)	4(disz)[one]	NU	NU	D	B-COUNT	_	6	cardinal	_	6
+2(disz)	2(disz)[one]	NU	NU	D	I-COUNT	*	*	*	*	*
+3(disz)	3(disz)[one]	NU	NU	D	B-COUNT	_	5	cardinal	_	5
+2(disz)	2(disz)[one]	NU	NU	D	I-COUNT	*	*	*	*	*
+3(disz)	3(disz)[one]	NU	NU	D	B-COUNT	_	5	cardinal	_	5
+2(disz)	2(disz)[one]	NU	NU	D	I-COUNT	*	*	*	*	*
+3(disz)	3(disz)[one]	NU	NU	D	B-COUNT	_	9	cardinal	_	9
+6(disz)	6(disz)[one][-sze]	NU	NU	D	I-COUNT	*	*	*	*	*
+...	_[_]	PN	N	D	_	_	_	_	_	_
+|GA2xX|-e2	_	PN	PN	POS	_	_	_	_	_	_

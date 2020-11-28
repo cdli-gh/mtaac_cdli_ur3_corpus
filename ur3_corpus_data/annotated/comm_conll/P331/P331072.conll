@@ -1,0 +1,12 @@
+#new_text=P331072					
+FORM	SEGM	XPOSTAG	XPOSTAG	POS	?	?	?	?	?	?
+gu4	gud[ox]	N	N	D	_	_	_	_	_	_
+mu	mu[year]	N	N	D	_	_	_	_	_	_
+3(disz)	3(disz)[one]	NU	NU	D	B-COUNT	_	3	cardinal	_	3
+ki	ki[place]	N	N	D	B-COM	_	_	_	_	_
+{d}szu-{d}suen-AN.DUL3-ta	_	PN	PN.GEN.ABL	Iabcdef	_	_	_	_	_	_
+lu2-giri17-zal	Lugirizal[1][-ra]	PN	PN	D	_	_	_	_	_	_
+lu2-giri17-zal	Lugirizal[1][-ra]	PN	PN	D	_	_	_	_	_	_
+dumu	dumu[child]	N	N	D	_	_	_	_	_	_
+ur-e2-an-na	_	PN	PN	D	_	_	_	_	_	_
+i3-dab5	i[-n]-dab[seize][-ø]	V	FIN.3-SG-H-A.V.3-SG-P	D	_	_	_	_	_	_

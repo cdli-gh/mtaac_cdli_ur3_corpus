@@ -1,0 +1,20 @@
+#new_text=P101384					
+FORM	SEGM	XPOSTAG	XPOSTAG	POS	?	?	?	?	?	?
+3(disz)	3(disz)[one]	NU	NU	D	B-COUNT	_	3	cardinal	_	3
+gu4	gud[ox]	N	N	D	B-COM	_	_	_	_	_
+mu	mu[year]	N	N	D	_	_	_	_	_	_
+geme2	geme[female_worker]	N	N	D	_	_	_	_	_	_
+3(disz)-a-sze3	_	NU	NU.GEN.COP-3-SG.TERM	Iabcdefg	B-COUNT	_	3	cardinal	_	3
+lu2-sza-lim	Luszalim[1]	PN	PN	D	_	_	_	_	_	_
+zi-ga-asz	_	N	N	POS	_	_	_	_	_	_
+ba-na-zi	_	V	MID.3-SG-H.DAT.V.3-SG-S	Iab	_	_	_	_	_	_
+inim	inim[word]	N	N	D	_	_	_	_	_	_
+e2-a-ba-ni-ta	_	PN	PN.GEN.ABL	Iab	_	_	_	_	_	_
+lu2-uru11{ki}	Lu'uru[1]	PN	PN	D	_	_	_	_	_	_
+maszkim	maszkim[administrator]	N	N.ABS	D	_	_	_	_	_	_
+iti	iti[month]	N	N	D	_	_	_	_	_	_
+szu-esz5-sza	Szu'eszsza[1][-'a]	MN	MN.L1	D	_	_	_	_	_	_
+mu	mu[year]	N	N	D	_	_	_	_	_	_
+bad3	bad[wall]	N	N	D	_	_	_	_	_	_
+ma-da	mada[land][-ak][-ø]	N	N	D	_	_	_	_	_	_
+ba-du3	ba-du[build][-ø]	V	MID.V.3-SG-S	D	B-COM	_	_	_	_	_

@@ -1,0 +1,24 @@
+#new_text=P200591					
+FORM	SEGM	XPOSTAG	XPOSTAG	POS	?	?	?	?	?	?
+1(gesz2)	1(gesz)[sixty]	NU	NU	D	B-COUNT	_	96	cardinal	_	96
+3(u)	3(u)[ten]	NU	NU	D	I-COUNT	*	*	*	*	*
+6(disz)	6(disz)[one][-sze]	NU	NU	D	I-COUNT	*	*	*	*	*
+erin2	erin[people]	N	N	D	B-COM	_	_	_	_	_
+kar-da{ki}	_	SN	SN	POS	_	_	_	_	_	_
+2(gesz2)	2(gesz)[sixty]	NU	NU	D	B-COUNT	_	122	cardinal	_	122
+2(disz)	2(disz)[one]	NU	NU	D	I-COUNT	*	*	*	*	*
+erin2	erin[people]	N	N	D	B-COM	_	_	_	_	_
+a-za-ru-um-da-gi{ki}	_	SN	SN	POS	_	_	_	_	_	_
+2(gesz2)	2(gesz)[sixty]	NU	NU	D	B-COUNT	_	120	cardinal	_	120
+erin2	erin[people]	N	N	D	B-COM	_	_	_	_	_
+ki-sur-ra{ki}	Kisura[border][-'a]	GN	N.L1	D	_	_	_	_	_	_
+1(gesz2)	1(gesz)[sixty]	NU	NU	D	B-COUNT	_	83	cardinal	_	83
+2(u)	2(u)[ten]	NU	NU	D	I-COUNT	*	*	*	*	*
+3(disz)	3(disz)[one]	NU	NU	D	I-COUNT	*	*	*	*	*
+erin2	erin[people]	N	N	D	B-COM	_	_	_	_	_
+gar3(SZA)-szum{ki}	_	NU	NU	POS	_	_	_	_	_	_
+szunigin	szunigin[total]	N	N	D	_	_	_	_	_	_
+7(gesz2)	7(gesz)[sixty]	NU	NU	D	B-COUNT	_	421	cardinal	_	421
+1(disz)	1(disz)[one]	NU	NU	D	I-COUNT	*	*	*	*	*
+erin2-tur	_	N	N	POS	_	_	_	_	_	_
+dab5-ba	dab[seize]-a	V	N	D	_	_	_	_	_	_

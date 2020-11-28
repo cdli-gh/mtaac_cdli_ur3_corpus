@@ -1,0 +1,20 @@
+#new_text=P405482					
+FORM	SEGM	XPOSTAG	XPOSTAG	POS	?	?	?	?	?	?
+na4	_	FN	FN	POS	_	_	_	_	_	_
+2(u)	2(u)[ten]	NU	NU	D	B-COUNT	g	10000.0	weight	gin2	1200
+ma-na	mana[unit]	N	N	D	I-COUNT	*	*	*	*	*
+{gesz}gu-za	guza[chair]	N	N	D	_	_	_	_	_	_
+nam-ti-la-ka	_	N	N.3-SG-H-POSS.GEN	Iabcdefg	_	_	_	_	_	_
+ga-an-gi-na	_	PN	PN	POS	_	_	_	_	_	_
+min-mu	_	PN	PN	POS	_	_	_	_	_	_
+nam-ti-la-ka-mu	_	PN	PN	POS	_	_	_	_	_	_
+ba	ba[animal][-ak]	N	N.GEN	D	_	_	_	_	_	_
+he2-em-mi-in-ak	_	V	MOD1.FIN.VEN.3-NH.ABL.V.3-SG-S	Iabcdefghi	_	_	_	_	_	_
+igi	igi[eye][-ø]	N	N	D	_	_	_	_	_	_
+x	_[_]	N	N	D	_	_	_	_	_	_
+ga-ni-ib2-x	_	PN	PN	Iabcdefgh	_	_	_	_	_	_
+da-ar	_	PN	PN	Iabcdefgh	B-COM	_	_	_	_	_
+is	_	N	N	POS	_	_	_	_	_	_
+he2-ri	_	V	V	POS	_	_	_	_	_	_
+x	_[_]	N	N	D	_	_	_	_	_	_
+in-tuku	_	V	NEG.NF.V.PT	Iabcdefgh	_	_	_	_	_	_

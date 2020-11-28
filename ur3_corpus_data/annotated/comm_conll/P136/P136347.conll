@@ -1,0 +1,18 @@
+#new_text=P136347					
+FORM	SEGM	XPOSTAG	XPOSTAG	POS	?	?	?	?	?	?
+1(disz)	1(disz)[one]	NU	NU	D	B-COUNT	bricks	12960.0	bricks	gin2	1080.0
+1/2(disz)	1/2(disz)[one]	NU	NU	D	I-COUNT	*	*	*	*	*
+sar	sar[unit]	N	N	D	I-COUNT	*	*	*	*	*
+e2	e[house]	N	N	D	_	_	_	_	_	_
+ku3-bi	kug[silver]-bi[-ø]	N	N.3-SG-NH-POSS.ABS	D	B-COM	_	_	_	_	_
+x	_[_]	N	N	D	_	_	_	_	_	_
+gin2	gig[unit]	N	N	D	_	_	_	_	_	_
+lu2-uru11{ki}-ke4	_	PN	PN	Iabcdefgh	_	_	_	_	_	_
+lu2-{d}nin-gir2-su-sze3	_	PN	PN.GEN.TERM	Iabcdefg	_	_	_	_	_	_
+in-szi-sa10(GAZ)	_	NU	NU	POS	_	_	_	_	_	_
+iti	iti[month]	N	N	D	_	_	_	_	_	_
+ezem-mah	Ezemmah[1][-'a]	MN	MN.L1	D	_	_	_	_	_	_
+igi	igi[eye][-ø]	N	N	D	_	_	_	_	_	_
+ba-ga2-ga2-sze3	_	V	V	POS	_	_	_	_	_	_
+igi	igi[eye][-ø]	N	N	D	_	_	_	_	_	_
+...-sze3	_	PN	PN.GEN.TERM	Iabcdefg	_	_	_	_	_	_

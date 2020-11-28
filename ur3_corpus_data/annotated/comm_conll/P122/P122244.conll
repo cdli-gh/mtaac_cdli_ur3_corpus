@@ -1,0 +1,11 @@
+#new_text=P122244					
+FORM	SEGM	XPOSTAG	XPOSTAG	POS	B-COUNT	l	20	"liquid	*	*
+*RETOK*-capacity"	?	?	?	?	I-COUNT	l	20	"dry	sila3	20
+2(u)	2(u)[ten]	NU	NU	D	I-COUNT	*	*	*	sila3	20
+sila3	sila[unit]	N	N	D	I-COUNT	*	*	*	*	*
+i3-gesz	igesz[oil]	V	N	D	B-COM	_	_	_	_	_
+a-hu-ni	Ahuni[1][-ra]	PN	PN.DAT-H	D	_	_	_	_	_	_
+dumu	dumu[child]	N	N	D	_	_	_	_	_	_
+e2-nam-ti-e	_	PN	PN	POS	_	_	_	_	_	_
+szu	szu[hand][-e]	N	N.L3-NH	D	_	_	_	_	_	_
+ba-ti	ba[-n]-teg[accept][-ø]	V	MID.3-SG-H-A.V.3-SG-P	D	_	_	_	_	_	_

@@ -1,0 +1,19 @@
+#new_text=P115320					
+FORM	SEGM	XPOSTAG	XPOSTAG	POS	B-COUNT	l	7.5	"liquid	*	*
+*RETOK*-capacity"	?	?	?	?	I-COUNT	l	7.5	"dry	sila3	7.5
+7(disz)	7(disz)[one][-sze]	NU	NU	D	I-COUNT	*	*	*	sila3	7.5
+1/2(disz)	1/2(disz)[one]	NU	NU	D	I-COUNT	*	*	*	*	*
+sila3	sila[unit]	N	N	D	I-COUNT	*	*	*	*	*
+i3-gesz	igesz[oil]	V	N	D	B-COM	_	_	_	_	_
+ug3-IL2	uggaga[porter]	N	N	D	_	_	_	_	_	_
+e2	e[house]	N	N	D	_	_	_	_	_	_
+{d}nansze-ka	_	DN	DN.GEN.ERG	D	_	_	_	_	_	_
+u3	u[and]	CNJ	CNJ	D	_	_	_	_	_	_
+szu-gi4	_	PN	PN	POS	_	_	_	_	_	_
+erin2-na-ke4	_	N	N.3-SG-H-POSS.GEN.PL.ABS	Iabcdefg	_	_	_	_	_	_
+ib2-hun-esz2	_	PN	PN	POS	_	_	_	_	_	_
+mu	mu[year]	N	N	D	_	_	_	_	_	_
+si-mu-ur4-um{ki}	_	GN	GN	POS	_	_	_	_	_	_
+a-ra2	ara[times]	N	N	D	_	_	_	_	_	_
+3(disz)-kam-asz	3(disz)[one]-ak-am-sze	NU	NU.GEN.COP-3-SG.TERM	D	B-COUNT	_	3	cardinal	_	3
+ba-hul	ba-hulu[destroy][-ø]	V	MID.V.3-SG-S	D	_	_	_	_	_	_

@@ -1,0 +1,22 @@
+#new_text=P121642					
+FORM	SEGM	XPOSTAG	XPOSTAG	POS	?	?	?	?	?	?
+1(u)	1(u)[ten]	NU	NU	D	B-COUNT	_	10	cardinal	_	10
+pisan	bisag[basket]	N	N	D	_	_	_	_	_	_
+kusz	kusz[leather]	N	N	D	B-COM	_	_	_	_	_
+sumun	sumun[old][-ø]	N	NF.V.ABS	D	_	_	_	_	_	_
+1(u)	1(u)[ten]	NU	NU	D	B-COUNT	_	10	cardinal	_	10
+u3-bi	_	N	N	POS	_	_	_	_	_	_
+x-gal2	_	PN	PN	Iabc	_	_	_	_	_	_
+e2	e[house]	N	N	D	_	_	_	_	_	_
+sikil	_	V	NF.V.3-SG-NH-POSS.GEN.DAT-H	Iabcdefg	_	_	_	_	_	_
+mu-kux(DU)	mukur[delivery][-ø]	N	N	D	_	_	_	_	_	_
+iti	iti[month]	N	N	D	_	_	_	_	_	_
+NE-NE-gar	_	PN	PN	POS	_	_	_	_	_	_
+ur-...-zu	_	PN	PN	Iabcde	_	_	_	_	_	_
+nu-banda3	nubanda[overseer][-ø]	N	N	D	_	_	_	_	_	_
+gesz-kin-ti	geszkigti[workshop][-ak]	N	N.GEN	D	_	_	_	_	_	_
+{d}en-lil2-la2	Enlil[1][-ak][-ø]	DN	DN.GEN	D	_	_	_	_	_	_
+x	_[_]	N	N	D	_	_	_	_	_	_
+{d}nin-urta	Ninurta[1][-ra]	DN	DN	D	_	_	_	_	_	_
+dub-sar	dubsar[scribe]	N	N	D	_	_	_	_	_	_
+dumu-ni	dumu[child]-ani	N	N.3-SG-H-POSS	D	_	_	_	_	_	_

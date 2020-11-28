@@ -1,0 +1,11 @@
+#new_text=P121294					
+FORM	SEGM	XPOSTAG	XPOSTAG	POS	?	?	?	?	?	?
+1(disz)	1(disz)[one]	NU	NU	D	B-COUNT	_	1	cardinal	_	1
+{na4}...	_	N	N	Ia	B-COM	_	_	_	_	_
+da	da[unknown]	N	N	POS	_	_	_	_	_	_
+...	_[_]	PN	N	D	_	_	_	_	_	_
+mu	mu[year]	N	N	D	_	_	_	_	_	_
+NE-nam-x	_	PN	PN	POS	_	_	_	_	_	_
+ak-de3	ak[apply]-ed-e	V	NF.V.F.DAT-NH	D	_	_	_	_	_	_
+ki	ki[place]	N	N	D	_	_	_	_	_	_
+lugal-ezem-ta	Lugalezem[1][-ak]-ta	PN	PN.GEN.ABL	D	_	_	_	_	_	_

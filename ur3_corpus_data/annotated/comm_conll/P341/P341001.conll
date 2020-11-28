@@ -1,0 +1,19 @@
+#new_text=P341001					
+FORM	SEGM	XPOSTAG	XPOSTAG	POS	?	?	?	?	?	?
+4(disz)	4(disz)[one]	NU	NU	D	B-COUNT	_	0.075	cardinal	_	0.075
+1/2(disz)	1/2(disz)[one]	NU	NU	D	I-COUNT	*	*	*	*	*
+gin2	gig[unit]	N	N	D	I-COUNT	*	*	*	*	*
+ku3-babbar	kugbabbar[silver]	N	N	D	B-COM	_	_	_	_	_
+*RETOK*-capacity"	?	?	?	?	B-COUNT	l	0.8333333333333334	"liquid	*	*
+*RETOK*-capacity"	?	?	?	?	I-COUNT	l	0.8333333333333334	"dry	sila3	0.8333333333333334
+5/6(disz)	5/6(disz)[one]	NU	NU	D	I-COUNT	*	*	*	sila3	0.8333333333333334
+sila3	sila[unit]	N	N	D	I-COUNT	*	*	*	*	*
+lal3	lal[syrup]	N	N	D	_	_	_	_	_	_
+ku3	kug[silver]	N	N	D	B-COM	_	_	_	_	_
+nidba	_	N	N.GEN.3-SG-H-POSS.ABS	Iabcdefgh	_	_	_	_	_	_
+{d}en-lil2-la2-sze3	Enlil[1]-ak-sze	DN	DN.GEN.TERM	D	_	_	_	_	_	_
+nig2-tur-tur-a	_	N	N	POS	_	_	_	_	_	_
+sa10-a	_	V	NF.V.PT	Iabc	_	_	_	_	_	_
+mu	mu[year]	N	N	D	_	_	_	_	_	_
+an-sza{ki}	Anszan[1][-ø]	GN	GN.ABS	D	_	_	_	_	_	_
+ba-hul	ba-hulu[destroy][-ø]	V	MID.V.3-SG-S	D	_	_	_	_	_	_

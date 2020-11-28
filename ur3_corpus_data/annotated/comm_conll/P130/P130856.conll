@@ -1,0 +1,19 @@
+#new_text=P130856					
+FORM	SEGM	XPOSTAG	XPOSTAG	POS	?	?	?	?	?	?
+5(disz)	5(disz)[one]	NU	NU	D	B-COUNT	m	30	length	gi	10
+ninda	ninda[bread]	N	N	D	I-COUNT	*	*	*	*	*
+sila3	sila[unit]	N	N	D	_	_	_	_	_	_
+5(disz)	5(disz)[one]	NU	NU	D	B-COUNT	_	5	cardinal	_	5
+1(u)	1(u)[ten]	NU	NU	D	B-COUNT	m	60	length	gi	20
+ninda	ninda[bread]	N	N	D	I-COUNT	*	*	*	*	*
+sila3	sila[unit]	N	N	D	_	_	_	_	_	_
+2(disz)	2(disz)[one]	NU	NU	D	B-COUNT	_	2	cardinal	_	2
+2(disz)	2(disz)[one]	NU	NU	D	B-COUNT	m	12	length	gi	4
+ninda	ninda[bread]	N	N	D	I-COUNT	*	*	*	*	*
+sila3	sila[unit]	N	N	D	_	_	_	_	_	_
+1(disz)	1(disz)[one]	NU	NU	D	B-COUNT	_	1	cardinal	_	1
+ki	ki[place]	N	N	D	_	_	_	_	_	_
+ukken-ne2-ta	_	PN	PN	POS	_	_	_	_	_	_
+ku3-ga-ni	Kugani[1]	PN	PN	D	_	_	_	_	_	_
+szu	szu[hand][-e]	N	N.L3-NH	D	B-COM	_	_	_	_	_
+ba-ti	ba[-n]-teg[accept][-ø]	V	MID.3-SG-H-A.V.3-SG-P	D	_	_	_	_	_	_

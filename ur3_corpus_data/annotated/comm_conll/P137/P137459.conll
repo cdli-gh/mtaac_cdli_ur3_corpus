@@ -1,0 +1,26 @@
+#new_text=P137459					
+FORM	SEGM	XPOSTAG	XPOSTAG	POS	?	?	?	?	?	?
+...	_[_]	PN	N	D	_	_	_	_	_	_
+*RETOK*-capacity"	?	?	?	?	B-COUNT	l	20	"dry	*	*
+2(ban2)	2(ban)[unit]	NU	N	D	I-COUNT	*	*	*	sila3	20
+ninda	ninda[bread]	N	N	D	B-COM	_	_	_	_	_
+zi3-gu	zidgu[flour_type]	N	N	D	_	_	_	_	_	_
+*RETOK*-capacity"	?	?	?	?	B-COUNT	l	40	"dry	*	*
+4(ban2)	4(ban)[unit]	NU	N	D	I-COUNT	*	*	*	sila3	40
+ninda	ninda[bread]	N	N	D	_	_	_	_	_	_
+dabin	dabin[semolina]	N	N	D	_	_	_	_	_	_
+nig2-gu7-a	_	N	N	POS	_	_	_	_	_	_
+{d}suen-a-bu-szu	Suenabuszu[1]	PN	PN	D	_	_	_	_	_	_
+sagi	sagi[cup_bearer][-ø]	N	N	D	_	_	_	_	_	_
+u4	ud[day]	N	N	D	_	_	_	_	_	_
+2(disz)-kam	2(disz)[one]-ak-am	NU	NU.GEN.COP-3-SG	D	B-COUNT	_	2	cardinal	_	2
+u4	ud[day]	N	N	D	_	_	_	_	_	_
+siskur2	siszkur[offering]	N	N	D	_	_	_	_	_	_
+sze-sag11-ku5-sze3	Szesagku[1]-sze	MN	MN.TERM	D	_	_	_	_	_	_
+i3-im-gen-na	_	PN	PN	POS	_	_	_	_	_	_
+zi-ga	zig[expend]-a	V	NF.V.PT	D	_	_	_	_	_	_
+sza3	szag[heart]	N	N	D	_	_	_	_	_	_
+ga-esz5{ki}	_	SN	SN.GEN.ABS	Iab	_	_	_	_	_	_
+iti	iti[month]	N	N	D	_	_	_	_	_	_
+sze-sag11-ku5	Szesagku[1][-'a]	MN	MN.L1	D	_	_	_	_	_	_
+...	_[_]	PN	N	D	_	_	_	_	_	_

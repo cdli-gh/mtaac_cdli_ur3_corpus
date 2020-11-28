@@ -1,0 +1,27 @@
+#new_text=P137059					
+FORM	SEGM	XPOSTAG	XPOSTAG	POS	?	?	?	?	?	?
+1(disz)	1(disz)[one]	NU	NU	D	B-COUNT	_	1	cardinal	_	1
+bulug	_	N	N.ABS	Iabcdefgh	B-COM	_	_	_	_	_
+zabar	zabar[bright][-ø][-ø]	N	N	D	_	_	_	_	_	_
+2/3(disz)	2/3(disz)[one]	NU	NU	D	B-COUNT	g	333.33333333333337	weight	gin2	40.0
+ma-na	mana[unit]	N	N	D	I-COUNT	*	*	*	*	*
+1(disz)	1(disz)[one]	NU	NU	D	B-COUNT	_	1	cardinal	_	1
+bulug	_	N	N.ABS	Iabcdefgh	B-COM	_	_	_	_	_
+zabar	zabar[bright][-ø][-ø]	N	N	D	_	_	_	_	_	_
+1(u)	1(u)[ten]	NU	NU	D	B-COUNT	_	0.2833333333333333	cardinal	_	0.2833333333333333
+7(disz)	7(disz)[one][-sze]	NU	NU	D	I-COUNT	*	*	*	*	*
+gin2	gig[unit]	N	N	D	I-COUNT	*	*	*	*	*
+1(disz)	1(disz)[one]	NU	NU	D	B-COUNT	_	1	cardinal	_	1
+{uruda}bulug	_	N	N	Ia	B-COM	_	_	_	_	_
+nig2-kal-ga	_	N	N	POS	_	_	_	_	_	_
+2(disz)	2(disz)[one]	NU	NU	D	B-COUNT	g	1125.0	weight	gin2	135
+ma-na	mana[unit]	N	N	D	I-COUNT	*	*	*	*	*
+1(u)	1(u)[ten]	NU	NU	D	I-COUNT	*	*	*	*	*
+5(disz)	5(disz)[one]	NU	NU	D	I-COUNT	*	*	*	*	*
+gin2	gig[unit]	N	N	D	I-COUNT	*	*	*	*	*
+1(disz)	1(disz)[one]	NU	NU	D	B-COUNT	_	1	cardinal	_	1
+{uruda}szum	_	N	N	Ia	B-COM	_	_	_	_	_
+3(disz)	3(disz)[one]	NU	NU	D	B-COUNT	g	1500.0	weight	gin2	180
+ma-na	mana[unit]	N	N	D	I-COUNT	*	*	*	*	*
+e2-kiszib3-ba	ekiszibak[storeroom]-ak	PN	TN.L1	D	_	_	_	_	_	_
+{d}amar-{d}suen-ta	_	DN	DN	POS	_	_	_	_	_	_

@@ -1,0 +1,25 @@
+#new_text=P100658					
+FORM	SEGM	XPOSTAG	XPOSTAG	POS	?	?	?	?	?	?
+...	_[_]	PN	N	D	_	_	_	_	_	_
+6(asz)	6(asz)[one]	NU	NU	D	B-COUNT	_	6	cardinal	_	6
+kasz	kasz[beer]	N	N	D	B-COM	_	_	_	_	_
+saga	saga[good][-ø]	V	NF.V.ABS	D	_	_	_	_	_	_
+sa2-du11	sadug[offerings]	N	N	D	_	_	_	_	_	_
+*RETOK*-capacity"	?	?	?	?	B-COUNT	l	7	"liquid	*	*
+*RETOK*-capacity"	?	?	?	?	I-COUNT	l	7	"dry	sila3	7
+8(asz)	8(asz)[one]	NU	NU	D	I-COUNT	*	*	*	sila3	7
+la2	la[hang][-ø]	V	NF.V.ABS	D	I-COUNT	*	*	*	*	*
+1(disz)	1(disz)[one]	NU	NU	D	I-COUNT	*	*	*	*	*
+sila3	sila[unit]	N	N	D	I-COUNT	*	*	*	*	*
+du	gin[quality_designation][-ø]	V	NF.V.ABS	D	B-COM	_	_	_	_	_
+diri	diri[intercalary_month]	N	N	D	_	_	_	_	_	_
+3(asz)	3(asz)[one]	NU	NU	D	B-COUNT	_	3	cardinal	_	3
+saga	saga[good][-ø]	V	NF.V.ABS	D	_	_	_	_	_	_
+elam-sze3	_	PN	PN	POS	_	_	_	_	_	_
+u4	ud[day]	N	N	D	_	_	_	_	_	_
+1(u)	1(u)[ten]	NU	NU	D	B-COUNT	_	10	cardinal	_	10
+5(disz)-kam	5(disz)[one]-ak-am[-ak][-ø]	NU	NU.GEN.COP-3-SG	D	B-COUNT	_	5	cardinal	_	5
+ki	ki[place]	N	N	D	B-COM	_	_	_	_	_
+...-la-ta	_	PN	PN.GEN.ABL	Iabcdef	_	_	_	_	_	_
+...-kal-la	_	PN	PN	POS	_	_	_	_	_	_
+...	_[_]	PN	N	D	_	_	_	_	_	_

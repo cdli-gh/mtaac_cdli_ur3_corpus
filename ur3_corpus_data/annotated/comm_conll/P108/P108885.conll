@@ -1,0 +1,23 @@
+#new_text=P108885					
+FORM	SEGM	XPOSTAG	XPOSTAG	POS	?	?	?	?	?	?
+lu2	lu[person]	N	N	D	_	_	_	_	_	_
+{d}nanna	Nanna[1][-ak]	DN	DN	D	_	_	_	_	_	_
+lu2	lu[person]	N	N	D	_	_	_	_	_	_
+{gesz}tukul	tukul[weapon][-'a]	N	N	D	_	_	_	_	_	_
+szuszin{ki}-sze3	Szuszin[1]-sze	SN	SN.TERM	D	_	_	_	_	_	_
+gen-na	gen[go]-a	V	NF.V.PT	D	_	_	_	_	_	_
+*RETOK*-capacity"	?	?	?	?	B-COUNT	l	3	"liquid	*	*
+*RETOK*-capacity"	?	?	?	?	I-COUNT	l	3	"dry	sila3	3
+3(disz)	3(disz)[one]	NU	NU	D	I-COUNT	*	*	*	sila3	3
+sila3	sila[unit]	N	N	D	I-COUNT	*	*	*	*	*
+kasz	kasz[beer]	N	N	D	B-COM	_	_	_	_	_
+*RETOK*-capacity"	?	?	?	?	B-COUNT	l	2	"liquid	*	*
+*RETOK*-capacity"	?	?	?	?	I-COUNT	l	2	"dry	sila3	2
+2(disz)	2(disz)[one]	NU	NU	D	I-COUNT	*	*	*	sila3	2
+sila3	sila[unit]	N	N	D	I-COUNT	*	*	*	*	*
+ninda	ninda[bread]	N	N	D	_	_	_	_	_	_
+4(disz)	4(disz)[one]	NU	NU	D	B-COUNT	_	0.06666666666666667	cardinal	_	0.06666666666666667
+gin2	gig[unit]	N	N	D	I-COUNT	*	*	*	*	*
+i3	i[oil]	N	N	D	_	_	_	_	_	_
+a-hu-a-szu-ni	_	PN	PN.GEN.ABS	Iabcdef	_	_	_	_	_	_
+zi-ga	zig[expend]-a	V	NF.V.PT	D	_	_	_	_	_	_

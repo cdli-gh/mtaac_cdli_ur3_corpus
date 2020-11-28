@@ -1,0 +1,20 @@
+#new_text=P122276					
+FORM	SEGM	XPOSTAG	XPOSTAG	POS	?	?	?	?	?	?
+ba-an-da-tuku	_	V	MID.V.3-SG-S	Iabcdefg	_	_	_	_	_	_
+masz2	masz[goat]	N	N	D	_	_	_	_	_	_
+5(disz)	5(disz)[one]	NU	NU	D	B-COUNT	_	5	cardinal	_	5
+gin2-bi	_	N	N.GEN.3-SG-NH-POSS.ABS	Iabcdefg	_	_	_	_	_	_
+1(disz)	1(disz)[one]	NU	NU	D	B-COUNT	_	0.016666666666666666	cardinal	_	0.016666666666666666
+gin2	gig[unit]	N	N	D	I-COUNT	*	*	*	*	*
+igi	igi[eye][-ø]	N	N	D	_	_	_	_	_	_
+ur-szu-mah-sze3	_	N	N	POS	_	_	_	_	_	_
+igi	igi[eye][-ø]	N	N	D	_	_	_	_	_	_
+i3-li2-sze3	_	V	V	POS	_	_	_	_	_	_
+igi	igi[eye][-ø]	N	N	D	_	_	_	_	_	_
+an-da-BI-sze3	_	V	V	POS	_	_	_	_	_	_
+igi	igi[eye][-ø]	N	N	D	_	_	_	_	_	_
+usz-mu-sze3	_	N	N	POS	_	_	_	_	_	_
+igi	igi[eye][-ø]	N	N	D	_	_	_	_	_	_
+...	_[_]	PN	N	D	_	_	_	_	_	_
+x	_[_]	N	N	D	_	_	_	_	_	_
+...	_[_]	PN	N	D	_	_	_	_	_	_

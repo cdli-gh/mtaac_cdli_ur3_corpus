@@ -1,0 +1,15 @@
+#new_text=P448770					
+FORM	SEGM	XPOSTAG	XPOSTAG	POS	B-COUNT	l	150	"liquid	*	*
+5(disz)	5(disz)[one]	NU	NU	D	I-COUNT	*	*	*	sila3	150
+dug	dug[pot]	N	N	D	I-COUNT	*	*	*	*	*
+szu-{d}nin-szubur	_	DN	DN	POS	_	_	_	_	_	_
+1(u)	1(u)[ten]	NU	NU	D	B-COUNT	_	none	unknown	_	none
+dug	dug[pot]	N	N	D	I-COUNT	*	*	*	*	*
+x	_[_]	N	N	D	I-COUNT	*	*	*	*	*
+x	_[_]	N	N	D	I-COUNT	*	*	*	*	*
+x	_[_]	N	N	D	I-COUNT	*	*	*	*	*
+x	_[_]	N	N	D	I-COUNT	*	*	*	*	*
+*RETOK*-capacity"	?	?	?	?	B-COUNT	l	180	"liquid	*	*
+6(disz)	6(disz)[one][-sze]	NU	NU	D	I-COUNT	*	*	*	sila3	180
+dug	dug[pot]	N	N	D	I-COUNT	*	*	*	*	*
+i3-li2-ba-asz-ti	_	PN	PN.GEN	Iab	_	_	_	_	_	_

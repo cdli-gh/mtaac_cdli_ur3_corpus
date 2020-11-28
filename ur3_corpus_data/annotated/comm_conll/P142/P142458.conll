@@ -1,0 +1,11 @@
+#new_text=P142458					
+FORM	SEGM	XPOSTAG	XPOSTAG	POS	B-COUNT	l	300	"liquid	*	*
+1(u)	1(u)[ten]	NU	NU	D	I-COUNT	*	*	*	sila3	300
+dug	dug[pot]	N	N	D	I-COUNT	*	*	*	*	*
+kasz	kasz[beer]	N	N	D	B-COM	_	_	_	_	_
+du	gin[quality_designation][-ø]	V	NF.V.ABS	D	_	_	_	_	_	_
+a2	a[time]	N	N	D	_	_	_	_	_	_
+diri	diri[intercalary_month]	N	N	D	_	_	_	_	_	_
+szen	_	N	N	Ia	_	_	_	_	_	_
+al-lu5	_	V	V	POS	_	_	_	_	_	_
+ba-de6-a	_	V	NF.V.PT	Iabcdefgh	_	_	_	_	_	_

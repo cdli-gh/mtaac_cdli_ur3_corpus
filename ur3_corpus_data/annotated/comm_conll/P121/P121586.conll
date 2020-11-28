@@ -1,0 +1,11 @@
+#new_text=P121586					
+FORM	SEGM	XPOSTAG	XPOSTAG	POS	B-COUNT	l	0.008148148148148147	"dry	*	*
+1(gesz2)	1(gesz)[sixty]	NU	NU	D	I-COUNT	*	*	*	sila3	0.008148148148148147
+2(u)	2(u)[ten]	NU	NU	D	I-COUNT	*	*	*	*	*
+8(asz)	8(asz)[one]	NU	NU	D	I-COUNT	*	*	*	*	*
+sze	sze[barley]	N	N	D	I-COUNT	*	*	*	*	*
+gur	gur[unit]	N	N	D	I-COUNT	*	*	*	*	*
+engar	engar[farmer]	N	N	D	_	_	_	_	_	_
+esz2-dam-ki-na	_	PN	PN.DAT-H	Iabcdefgh	_	_	_	_	_	_
+nu-banda3	nubanda[overseer][-ø]	N	N	D	_	_	_	_	_	_
+nu-kin	_	V	NF.V	Iabcdefgh	_	_	_	_	_	_

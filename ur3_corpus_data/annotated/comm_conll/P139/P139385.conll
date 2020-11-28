@@ -1,0 +1,11 @@
+#new_text=P139385					
+FORM	SEGM	XPOSTAG	XPOSTAG	POS	_	_	_	_	_	_
+3(u)	3(u)[ten]	NU	NU	D	B-COUNT	_	30	cardinal	_	30
+e2	e[house]	N	N	D	_	_	_	_	_	_
+szid	_	V	N.ABS	D	_	_	_	_	_	_
+...	_[_]	PN	N	D	_	_	_	_	_	_
+*RETOK*-x.	?	?	?	?	_	_	_	_	_	_
+ba-an-...	_	PN	PN	POS	_	_	_	_	_	_
+*RETOK*-x.	?	?	?	?	_	_	_	_	_	_
+ki	ki[place]	N	N	D	_	_	_	_	_	_
+ur-{d}hendur-sag-ta	_	PN	PN	Iabcdefgh	_	_	_	_	_	_

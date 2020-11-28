@@ -1,0 +1,10 @@
+#new_text=P120215					
+FORM	SEGM	XPOSTAG	XPOSTAG	POS	?	?	?	?	?	?
+min	_	N	N	POS	_	_	_	_	_	_
+tab	_	N	N	POS	_	_	_	_	_	_
+6(disz)	6(disz)[one][-sze]	NU	NU	D	B-COUNT	_	none	unknown	_	none
+x	_[_]	N	N	D	I-COUNT	*	*	*	*	*
+...-du	_[_]	PN	PN	Iabcde	_	_	_	_	_	_
+...	_[_]	PN	N	D	_	_	_	_	_	_
+x	_[_]	N	N	D	_	_	_	_	_	_
+...	_[_]	PN	N	D	_	_	_	_	_	_

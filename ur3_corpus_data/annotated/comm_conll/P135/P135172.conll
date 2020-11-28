@@ -1,0 +1,13 @@
+#new_text=P135172					
+FORM	SEGM	XPOSTAG	XPOSTAG	POS	?	?	?	?	?	?
+mu-kux(DU)	mukur[delivery][-ø]	N	N	D	_	_	_	_	_	_
+zabar-dab5	zabardab[official][-e]	N	N	D	_	_	_	_	_	_
+1(disz)	1(disz)[one]	NU	NU	D	B-COUNT	_	1	cardinal	_	1
+sila4	sila[lamb]	N	N	D	B-COM	_	_	_	_	_
+{d}en-gal-du-du	_	DN	DN	Iabcde	_	_	_	_	_	_
+mu-kux(DU)	mukur[delivery][-ø]	N	N	D	_	_	_	_	_	_
+en	en[priest]	N	N	D	_	_	_	_	_	_
+{d}inanna	Inanna[1][-ak]	DN	DN	D	_	_	_	_	_	_
+masz-tur	_	PN	PN	POS	_	_	_	_	_	_
+sagi	sagi[cup_bearer][-ø]	N	N	D	_	_	_	_	_	_
+maszkim	maszkim[administrator]	N	N.ABS	D	_	_	_	_	_	_

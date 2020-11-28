@@ -1,0 +1,21 @@
+#new_text=P248795					
+FORM	SEGM	XPOSTAG	XPOSTAG	POS	?	?	?	?	?	?
+1(esze3)	1(esze)[unit]	NU	N	D	B-COUNT	m^2	32400.0	surface	gin2	54000
+3(iku)	3(iku)[unit]	NU	N	D	I-COUNT	*	*	*	*	*
+GAN2	gana[field]	N	N	D	I-COUNT	*	*	*	*	*
+sze	sze[barley]	N	N	D	B-COM	_	_	_	_	_
+kam-kam-a-ni	_	V	V	POS	_	_	_	_	_	_
+i3-ib2-ga2-ar	_	V	V	POS	_	_	_	_	_	_
+1(esze3)	1(esze)[unit]	NU	N	D	B-COUNT	m^2	32400.0	surface	gin2	54000
+3(iku)	3(iku)[unit]	NU	N	D	I-COUNT	*	*	*	*	*
+GAN2	gana[field]	N	N	D	I-COUNT	*	*	*	*	*
+a-a-til-a	_	PN	PN	Iabcdefgh	_	_	_	_	_	_
+ba-za-mu	_	PN	PN	POS	_	_	_	_	_	_
+nar	_	N	N	POS	_	_	_	_	_	_
+a-tu-ra	_	PN	PN	POS	_	_	_	_	_	_
+u3-na-a-du11	u-nn-a-e-dug[speak][-ø]	N	ANT.3-SG-H.DAT.2-SG-A.V.3-SG-P	D	_	_	_	_	_	_
+1(esze3)	1(esze)[unit]	NU	N	D	B-COUNT	m^2	32400.0	surface	gin2	54000
+3(iku)	3(iku)[unit]	NU	N	D	I-COUNT	*	*	*	*	*
+GAN2	gana[field]	N	N	D	I-COUNT	*	*	*	*	*
+masz-bi	_	N	N.3-SG-NH-POSS.ABS	Iabcde	B-COM	_	_	_	_	_
+he2-na-la2-e	_	V	V	POS	_	_	_	_	_	_

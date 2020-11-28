@@ -1,0 +1,22 @@
+#new_text=P134666					
+FORM	SEGM	XPOSTAG	XPOSTAG	POS	?	?	?	?	?	?
+he2-ne-ab-zi-zi	_	V	MOD.L1-SYN.V.ABS	Iabcdefg	_	_	_	_	_	_
+u3	u[and]	CNJ	CNJ	D	_	_	_	_	_	_
+ugula-gesz2-da	Ugulageszda[1][-ak][-e]	N	PN.GEN.ERG	D	_	_	_	_	_	_
+ha-mu-na-a-ga2-ga2	_	V	NF.V.RDP.PF.F	Iabcdefghi	_	_	_	_	_	_
+{gi}asz-LAGAB	_	PN	PN	POS	_	_	_	_	_	_
+e2-a	e[house][-ak]-'a	GN	N.L1	D	_	_	_	_	_	_
+i3-gal2-la	_	V	FIN.3-SG-H-A.V.3-SG-P.SUB.ABS	Iabcdefg	_	_	_	_	_	_
+u3	u[and]	CNJ	CNJ	D	_	_	_	_	_	_
+dim-bi	_	PN	PN	POS	_	_	_	_	_	_
+he2-ma-ab-se3-ge	_	V	V	POS	_	_	_	_	_	_
+u3	u[and]	CNJ	CNJ	D	_	_	_	_	_	_
+nita-ra	_	PN	PN	POS	_	_	_	_	_	_
+u3-na-a-du11	u-nn-a-e-dug[speak][-ø]	N	ANT.3-SG-H.DAT.2-SG-A.V.3-SG-P	D	_	_	_	_	_	_
+a-na-asz2	_	PN	PN	POS	_	_	_	_	_	_
+*RETOK*-capacity"	?	?	?	?	B-COUNT	l	5	"liquid	*	*
+*RETOK*-capacity"	?	?	?	?	I-COUNT	l	5	"dry	sila3	5
+5(disz)	5(disz)[one]	NU	NU	D	I-COUNT	*	*	*	sila3	5
+sila3	sila[unit]	N	N	D	I-COUNT	*	*	*	*	*
+szah2	szah[pig][-ak]	N	N	D	B-COM	_	_	_	_	_
+x-x-x	_[1]	PN	PN	D	_	_	_	_	_	_

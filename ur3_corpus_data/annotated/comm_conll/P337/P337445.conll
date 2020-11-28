@@ -1,0 +1,11 @@
+#new_text=P337445					
+FORM	SEGM	XPOSTAG	XPOSTAG	POS	?	?	?	?	?	?
+1(disz)	1(disz)[one]	NU	NU	D	B-COUNT	_	1	cardinal	_	1
+kur	kur[east]	N	N	D	_	_	_	_	_	_
+{na4}za-gul	_	N	N	Ia	B-COM	_	_	_	_	_
+4(disz)	4(disz)[one]	NU	NU	D	B-COUNT	_	4	cardinal	_	4
+ellag	_	PN	PN	POS	_	_	_	_	_	_
+{d}szul-gi(ZI)-ha-ma-ti	_	PN	PN	Ia	_	_	_	_	_	_
+u4	ud[day]	N	N	D	_	_	_	_	_	_
+1(disz)	1(disz)[one]	NU	NU	D	B-COUNT	_	1	cardinal	_	1
+da-gu-gu	_	PN	PN.GEN.GEN	Iabcdef	_	_	_	_	_	_

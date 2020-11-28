@@ -1,0 +1,15 @@
+#new_text=P500303					
+FORM	SEGM	XPOSTAG	XPOSTAG	POS	B-COUNT	l	20	"dry	*	*
+2(ban2)	2(ban)[unit]	NU	N	D	I-COUNT	*	*	*	sila3	20
+zu2-lum	zulum[date]	N	N	D	B-COM	_	_	_	_	_
+giri3-lam	girlam[basket_type]	N	N	D	_	_	_	_	_	_
+ba-a-si	_	V	V	POS	_	_	_	_	_	_
+na-gu-u2-du	_	PN	PN.	Iabc	_	_	_	_	_	_
+nar	_	N	N	POS	_	_	_	_	_	_
+lugal	lugal[king]	N	N	D	_	_	_	_	_	_
+giri3	giri[foot]	N	N	D	_	_	_	_	_	_
+szu-{d}en-lil2	Szu'enlil[1][-ra]	PN	PN	D	_	_	_	_	_	_
+lu2-{gesz}tukul	_	N	N	POS	_	_	_	_	_	_
+zi-ga	zig[expend]-a	V	NF.V.PT	D	_	_	_	_	_	_
+iti	iti[month]	N	N	D	_	_	_	_	_	_
+gu4-ra2-bi2-mu2-mu2	Gurabimumu[1][-'a]	MN	MN.L1	D	_	_	_	_	_	_

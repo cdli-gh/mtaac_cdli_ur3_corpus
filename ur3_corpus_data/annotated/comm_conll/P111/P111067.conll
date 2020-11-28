@@ -1,0 +1,19 @@
+#new_text=P111067					
+FORM	SEGM	XPOSTAG	XPOSTAG	POS	B-COUNT	l	3.5	"liquid	*	*
+*RETOK*-capacity"	?	?	?	?	I-COUNT	l	3.5	"dry	sila3	3.5
+3(disz)	3(disz)[one]	NU	NU	D	I-COUNT	*	*	*	sila3	3.5
+1/2(disz)	1/2(disz)[one]	NU	NU	D	I-COUNT	*	*	*	*	*
+sila3	sila[unit]	N	N	D	I-COUNT	*	*	*	*	*
+i3-gesz	igesz[oil]	V	N	D	B-COM	_	_	_	_	_
+{gesz}ig	ig[door]	N	N	D	_	_	_	_	_	_
+e2	e[house]	N	N	D	_	_	_	_	_	_
+{d}szu-{d}suen	Szusuen[1]	RN	RN	D	_	_	_	_	_	_
+ka-ke4	_	N	N	POS	_	_	_	_	_	_
+ba-ab-ak	_	V	V	POS	_	_	_	_	_	_
+giri3	giri[foot]	N	N	D	_	_	_	_	_	_
+lu2-{d}nin-gir2-su	Luningirsu[1]	PN	PN	D	_	_	_	_	_	_
+dumu	dumu[child]	N	N	D	_	_	_	_	_	_
+lugal-ki-gal-la	Lugalkigala[1][-ak][-ta]	PN	PN.GEN.ABL	D	_	_	_	_	_	_
+zi-ga	zig[expend]-a	V	NF.V.PT	D	_	_	_	_	_	_
+iti	iti[month]	N	N	D	_	_	_	_	_	_
+GAN2-masz	GANmasz[1][-'a]	MN	MN.L1	D	_	_	_	_	_	_

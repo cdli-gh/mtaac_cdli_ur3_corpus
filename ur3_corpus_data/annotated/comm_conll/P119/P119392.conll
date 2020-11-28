@@ -1,0 +1,27 @@
+#new_text=P119392					
+FORM	SEGM	XPOSTAG	XPOSTAG	POS	?	?	?	?	?	?
+2(gesz2)	2(gesz)[sixty]	NU	NU	D	B-COUNT	g	4530000.0	weight	gin2	543600
+3(u)	3(u)[ten]	NU	NU	D	I-COUNT	*	*	*	*	*
+1(asz)	1(asz)[one]	NU	NU	D	I-COUNT	*	*	*	*	*
+gu2	gun[unit]	N	N	D	I-COUNT	*	*	*	*	*
+{u2}har-an	haran[plant]	N	N	D	B-COM	_	_	_	_	_
+bu3-ra	_	PN	PN	Iabcde	_	_	_	_	_	_
+gurusz-e	_	N	N.L3-NH	Iab	_	_	_	_	_	_
+gu-nigin2	_	PN	PN	POS	_	_	_	_	_	_
+3(disz)-ta	_	NU	NU.ABL	Iab	B-COUNT	_	3	cardinal	_	3
+na-ga-ab-tum	nakabtum[stockyard][-'a]	FN	N.L1	D	_	_	_	_	_	_
+gar	_	V	V	POS	B-COM	_	_	_	_	_
+a-sza3	aszag[field]	N	N	D	_	_	_	_	_	_
+en-du8-du	_	FN	FN	POS	_	_	_	_	_	_
+ugula	ugula[overseer][-ø]	N	N	D	_	_	_	_	_	_
+ur-x-...	_[1][-ak]	PN	PN.GEN	D	_	_	_	_	_	_
+kiszib3	kiszib[seal]	N	N	D	_	_	_	_	_	_
+ur-{d}szakkan	Urszakkan[1][-ra]	PN	PN.DAT-H	D	_	_	_	_	_	_
+mu	mu[year]	N	N	D	_	_	_	_	_	_
+en	en[priest]	N	N	D	_	_	_	_	_	_
+ga-esz{ki}	Ga'esz[1][-ak][-ø]	SN	SN.GEN.ABS	D	_	_	_	_	_	_
+ba-hun	ba-hug[hire][-ø]	V	MID.V.3-SG-S	D	_	_	_	_	_	_
+ur-{d}saman3	_	PN	PN.GEN.ABS	Iabcdef	_	_	_	_	_	_
+dub-sar	dubsar[scribe]	N	N	D	_	_	_	_	_	_
+dumu	dumu[child]	N	N	D	_	_	_	_	_	_
+lu2-gi-na	Lugina[1][-ak][-ak]	PN	PN.GEN	D	_	_	_	_	_	_

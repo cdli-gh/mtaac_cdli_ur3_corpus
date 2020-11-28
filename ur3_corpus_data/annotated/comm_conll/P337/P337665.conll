@@ -1,0 +1,27 @@
+#new_text=P337665					
+FORM	SEGM	XPOSTAG	XPOSTAG	POS	?	?	?	?	?	?
+1(esze3)	1(esze)[unit]	NU	N	D	B-COUNT	m^2	21600.0	surface	gin2	36000
+GAN2	gana[field]	N	N	D	I-COUNT	*	*	*	*	*
+ka5-a-mu	Kayamu[1][-ak]	PN	PN.GEN	D	_	_	_	_	_	_
+5(iku)	5(iku)[unit]	NU	N	D	B-COUNT	m^2	3.3	surface	gin2	5.5
+1/2(iku)	1/2(iku)[unit]	NU	N	D	I-COUNT	*	*	*	*	*
+ur-an-sza-an-dul3	_	PN	PN	Ia	_	_	_	_	_	_
+1(esze3)	1(esze)[unit]	NU	N	D	B-COUNT	m^2	3.75	surface	gin2	6.25
+1/4(iku)	1/4(iku)[unit]	NU	N	D	I-COUNT	*	*	*	*	*
+ur-a-x-za	_	PN	PN.GEN	Iabcde	_	_	_	_	_	_
+1(bur3)	1(bur)[unit]	NU	N	D	B-COUNT	m^2	10.799999999999999	surface	gin2	18
+lugal-ku3-zu	Lugalkuzu[1]	PN	PN	D	_	_	_	_	_	_
+1(esze3)	1(esze)[unit]	NU	N	D	B-COUNT	m^2	21600.0	surface	gin2	36000
+GAN2	gana[field]	N	N	D	I-COUNT	*	*	*	*	*
+ka5-a-mu	Kayamu[1][-ak]	PN	PN.GEN	D	_	_	_	_	_	_
+1(bur3)	1(bur)[unit]	NU	N	D	B-COUNT	m^2	10.799999999999999	surface	gin2	18
+ka	kag[mouth]	N	N	D	_	_	_	_	_	_
+5(disz)-a-mu	_	NU	NU.GEN.COP-3-SG	Iabcdefgh	B-COUNT	_	5	cardinal	_	5
+szunigin	szunigin[total]	N	N	D	_	_	_	_	_	_
+2(bur3)	2(bur)[unit]	NU	N	D	B-COUNT	m^2	148500.0	surface	gin2	247500.0
+5(iku)	5(iku)[unit]	NU	N	D	I-COUNT	*	*	*	*	*
+1/4(iku)	1/4(iku)[unit]	NU	N	D	I-COUNT	*	*	*	*	*
+GAN2	gana[field]	N	N	D	I-COUNT	*	*	*	*	*
+x	_[_]	N	N	D	_	_	_	_	_	_
+a-dalla	_	FN	FN	POS	_	_	_	_	_	_
+du6-ku3-ge	_	N	N.GEN.ERG	Iabcdefg	_	_	_	_	_	_

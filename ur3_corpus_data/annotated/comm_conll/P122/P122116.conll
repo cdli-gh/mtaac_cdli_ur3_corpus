@@ -1,0 +1,21 @@
+#new_text=P122116					
+FORM	SEGM	XPOSTAG	XPOSTAG	POS	?	?	?	?	?	?
+4(u)	4(u)[ten]	NU	NU	D	B-COUNT	_	40	cardinal	_	40
+{gesz}umbin	_	N	N	Ia	B-COM	_	_	_	_	_
+sa	sa[bundle]	N	N	D	_	_	_	_	_	_
+3(disz)-ta	_	NU	NU.ABL	Iab	B-COUNT	_	3	cardinal	_	3
+2(u)	2(u)[ten]	NU	NU	D	B-COUNT	_	20	cardinal	_	20
+{gesz}umbin	_	N	N	Ia	B-COM	_	_	_	_	_
+sa	sa[bundle]	N	N	D	_	_	_	_	_	_
+1(disz)-ta	1(disz)[one]-ta	NU	NU.ABL	D	B-COUNT	_	1	cardinal	_	1
+x	_[_]	N	N	D	_	_	_	_	_	_
+ur-{d}szul-pa-e3	Urszulpa'e[1]	PN	PN	D	_	_	_	_	_	_
+...-x-e	_	PN	PN.DAT-H	Iabcdef	_	_	_	_	_	_
+...	_[_]	PN	N	D	_	_	_	_	_	_
+{gesz}i3-szub-ga2-ra	_	N	N	Ia	B-COM	_	_	_	_	_
+mu	mu[year]	N	N	D	_	_	_	_	_	_
+us2-sa	us[follow]-a	V	NF.V.PT	D	_	_	_	_	_	_
+ku3	kug[silver]	N	N	D	_	_	_	_	_	_
+gu-za	guza[chair][-ø]	N	N	D	_	_	_	_	_	_
+{d}en-lil2-la2	Enlil[1][-ak][-ø]	DN	DN.GEN	D	_	_	_	_	_	_
+ba-dim2	ba-dim[create][-ø]	V	MID.V.3-SG-S	D	_	_	_	_	_	_

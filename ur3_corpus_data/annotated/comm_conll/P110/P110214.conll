@@ -1,0 +1,14 @@
+#new_text=P110214					
+FORM	SEGM	XPOSTAG	XPOSTAG	POS	B-COUNT	l	0.03564814814814814	"dry	*	*
+6(gesz2)	6(gesz)[sixty]	NU	NU	D	I-COUNT	*	*	*	sila3	0.03564814814814814
+2(u)	2(u)[ten]	NU	NU	D	I-COUNT	*	*	*	*	*
+5(asz)	5(asz)[one]	NU	NU	D	I-COUNT	*	*	*	*	*
+sze	sze[barley]	N	N	D	I-COUNT	*	*	*	*	*
+gur	gur[unit]	N	N	D	I-COUNT	*	*	*	*	*
+si-sa2	_	V	V	POS	_	_	_	_	_	_
+lugal-udu	_	PN	PN	Iabcde	_	_	_	_	_	_
+engar	engar[farmer]	N	N	D	_	_	_	_	_	_
+e2-gu4	_	N	N.GEN.GEN	Iabcdefg	_	_	_	_	_	_
+igi-sa6-sa6	Igisasa[1]	PN	PN	D	_	_	_	_	_	_
+a-sza3	aszag[field]	N	N	D	_	_	_	_	_	_
+{d}nin-gir2-su-a2-zi-da-{d}nansze	_	FN	FN	POS	_	_	_	_	_	_

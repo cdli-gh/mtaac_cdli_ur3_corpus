@@ -1,0 +1,17 @@
+#new_text=P137424					
+FORM	SEGM	XPOSTAG	XPOSTAG	POS	B-COUNT	l	1440	"dry	*	*
+4(asz)	4(asz)[one]	NU	NU	D	I-COUNT	*	*	*	sila3	1440
+4(barig)	4(bariga)[unit]	NU	N	D	I-COUNT	*	*	*	*	*
+zu2-lum	zulum[date]	N	N	D	B-COM	_	_	_	_	_
+gur	gur[unit]	N	N	D	_	_	_	_	_	_
+mu-kux(DU)	mukur[delivery][-ø]	N	N	D	_	_	_	_	_	_
+ki	ki[place]	N	N	D	_	_	_	_	_	_
+ga-ti-e-ta	_	PN	PN.GEN.ABL	Iab	_	_	_	_	_	_
+e2-kiszib3-ba-ka	_	TN	TN	POS	_	_	_	_	_	_
+ba-an-kux(KWU636)	_	V	MID.L1-SYN.V.3-SG-S	Iabcdefgh	_	_	_	_	_	_
+iti	iti[month]	N	N	D	_	_	_	_	_	_
+ezem-{d}szul-gi	Ezemszulgir[1][-'a]	MN	MN.L1	D	_	_	_	_	_	_
+mu	mu[year]	N	N	D	_	_	_	_	_	_
+x	_[_]	N	N	D	_	_	_	_	_	_
+x	_[_]	N	N	D	_	_	_	_	_	_
+x	_[_]	N	N	D	_	_	_	_	_	_

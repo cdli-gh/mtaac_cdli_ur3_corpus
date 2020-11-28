@@ -1,0 +1,20 @@
+#new_text=P128518					
+FORM	SEGM	XPOSTAG	XPOSTAG	POS	?	?	?	?	?	?
+3(disz)	3(disz)[one]	NU	NU	D	B-COUNT	_	3	cardinal	_	3
+id-gur2	idgurum[ladle]	N	N	D	_	_	_	_	_	_
+i3	i[oil]	N	N	D	B-COM	_	_	_	_	_
+u4	ud[day]	N	N	D	_	_	_	_	_	_
+3(disz)-kam	3(disz)[one]-ak-am	NU	NU.GEN.COP-3-SG	D	B-COUNT	_	3	cardinal	_	3
+sza3-iri	Sza'iri[1][-ra]	PN	PN.DAT-H	D	_	_	_	_	_	_
+*RETOK*-capacity"	?	?	?	?	B-COUNT	l	0.3333333333333333	"liquid	*	*
+*RETOK*-capacity"	?	?	?	?	I-COUNT	l	0.3333333333333333	"dry	sila3	0.3333333333333333
+1/3(disz)	1/3(disz)[one]	NU	NU	D	I-COUNT	*	*	*	sila3	0.3333333333333333
+sila3	sila[unit]	N	N	D	I-COUNT	*	*	*	*	*
+i3	i[oil]	N	N	D	B-COM	_	_	_	_	_
+kaskal-sze3	kaskal[journey]-sze	N	N.TERM	D	_	_	_	_	_	_
+sze-le-bu-um	_	PN	PN	Ia	_	_	_	_	_	_
+sukkal	sukkal[secretary][-ak][-ra]	N	N	D	_	_	_	_	_	_
+sza-ba-ra{ki}-sze3	_	SN	SN.GEN.GEN.TERM	Iabcdef	_	_	_	_	_	_
+du-ni	du[go][-ed]-ani[-'a]	V	NF.V.PF.F.3-SG-H-POSS.L1	D	_	_	_	_	_	_
+iti	iti[month]	N	N	D	_	_	_	_	_	_
+ezem-{d}dumu-zi	Ezemdumuzi[1][-'a]	MN	MN.L1	D	_	_	_	_	_	_

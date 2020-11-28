@@ -1,0 +1,25 @@
+#new_text=P106751					
+FORM	SEGM	XPOSTAG	XPOSTAG	POS	B-COUNT	l	10	"dry	*	*
+1(ban2)	1(ban)[unit]	NU	N	D	I-COUNT	*	*	*	sila3	10
+kasz	kasz[beer]	N	N	D	B-COM	_	_	_	_	_
+dam	dam[spouse]	N	N	D	_	_	_	_	_	_
+lu2-saga	Lusaga[1][-e]	PN	PN.ERG	D	_	_	_	_	_	_
+*RETOK*-capacity"	?	?	?	?	B-COUNT	l	10	"dry	*	*
+1(ban2)	1(ban)[unit]	NU	N	D	I-COUNT	*	*	*	sila3	10
+kasz	kasz[beer]	N	N	D	B-COM	_	_	_	_	_
+dam	dam[spouse]	N	N	D	_	_	_	_	_	_
+nig2-du7-pa-e3	_	PN	PN.GEN.DAT-H	Iabcdefgh	_	_	_	_	_	_
+*RETOK*-capacity"	?	?	?	?	B-COUNT	l	10	"dry	*	*
+1(ban2)	1(ban)[unit]	NU	N	D	I-COUNT	*	*	*	sila3	10
+kasz	kasz[beer]	N	N	D	B-COM	_	_	_	_	_
+dam	dam[spouse]	N	N	D	_	_	_	_	_	_
+lu2-du10-ga	Luduga[1]	PN	PN	D	_	_	_	_	_	_
+*RETOK*-capacity"	?	?	?	?	B-COUNT	l	10	"dry	*	*
+1(ban2)	1(ban)[unit]	NU	N	D	I-COUNT	*	*	*	sila3	10
+kasz	kasz[beer]	N	N	D	B-COM	_	_	_	_	_
+dam	dam[spouse]	N	N	D	_	_	_	_	_	_
+ur-ab-ba-saga	Urabbasaga[1][-ra]	PN	PN.DAT-H	D	_	_	_	_	_	_
+*RETOK*-capacity"	?	?	?	?	B-COUNT	l	10	"dry	*	*
+1(ban2)	1(ban)[unit]	NU	N	D	I-COUNT	*	*	*	sila3	10
+kasz	kasz[beer]	N	N	D	B-COM	_	_	_	_	_
+a-tu	Atu[1][-ak]	PN	PN	D	_	_	_	_	_	_

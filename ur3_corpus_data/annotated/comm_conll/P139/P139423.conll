@@ -1,0 +1,9 @@
+#new_text=P139423					
+FORM	SEGM	XPOSTAG	XPOSTAG	POS	_	_	_	_	_	_
+2(u)	2(u)[ten]	NU	NU	D	B-COUNT	g	12000.0	weight	gin2	1440
+4(disz)	4(disz)[one]	NU	NU	D	I-COUNT	*	*	*	*	*
+ma-na	mana[unit]	N	N	D	I-COUNT	*	*	*	*	*
+szu-x	_	PN	PN.DAT-H	Iab	_	_	_	_	_	_
+*RETOK*-x.	?	?	?	?	_	_	_	_	_	_
+e2-kiszib3-ba-ka	_	TN	TN	POS	_	_	_	_	_	_
+ba-an-kux(KWU636)	_	V	MID.L1-SYN.V.3-SG-S	Iabcdefgh	_	_	_	_	_	_

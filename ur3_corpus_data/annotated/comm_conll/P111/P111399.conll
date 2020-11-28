@@ -1,0 +1,23 @@
+#new_text=P111399					
+FORM	SEGM	XPOSTAG	XPOSTAG	POS	?	?	?	?	?	?
+x	_[_]	N	N	D	_	_	_	_	_	_
+x	_[_]	N	N	D	_	_	_	_	_	_
+...	_[_]	PN	N	D	_	_	_	_	_	_
+maszkim	maszkim[administrator]	N	N.ABS	D	_	_	_	_	_	_
+1(disz)	1(disz)[one]	NU	NU	D	B-COUNT	_	1	cardinal	_	1
+geme2-a-a-kal-la	_	PN	PN	Iabcde	_	_	_	_	_	_
+geme2	geme[female_worker]	N	N	D	_	_	_	_	_	_
+ur-{d}ba-ba6-ra	_	PN	PN.GEN.ABL	Iabcdefgh	_	_	_	_	_	_
+iri{ki}-bi	_	N	N.3-SG-H-POSS.ABS	Iabcdefg	_	_	_	_	_	_
+dumu	dumu[child]	N	N	D	_	_	_	_	_	_
+...-ke4	_	DN	DN	POS	_	_	_	_	_	_
+inim	inim[word]	N	N	D	_	_	_	_	_	_
+bi2-in-gar	_	V	3-NH.L2.3-SG-H-A.V.3-SG-P	Iabcdefgh	_	_	_	_	_	_
+geme2-{d}ba-ba6	_	PN	PN.GEN.GEN.ABS	Iabcdef	_	_	_	_	_	_
+dam	dam[spouse]	N	N	D	_	_	_	_	_	_
+...	_[_]	PN	N	D	_	_	_	_	_	_
+masz-szu-gid2-gid2-da-ke4	_	N	N.L3-NH	Iabcdefghi	_	_	_	_	_	_
+geme2-a-a-kal-la	_	PN	PN	Iabcde	_	_	_	_	_	_
+ur-{d}ba-ba6	Urbaba[1]	PN	PN	D	_	_	_	_	_	_
+dumu-na	dumu[child]-ani-ak	N	N.3-SG-H-POSS.GEN	D	_	_	_	_	_	_
+i3-na-ba-a	_	PN	PN	POS	_	_	_	_	_	_

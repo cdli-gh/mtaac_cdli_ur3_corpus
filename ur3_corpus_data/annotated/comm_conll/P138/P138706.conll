@@ -1,0 +1,29 @@
+#new_text=P138706					
+FORM	SEGM	XPOSTAG	XPOSTAG	POS	?	?	?	?	?	?
+2(disz)	2(disz)[one]	NU	NU	D	B-COUNT	_	none	unknown	_	none
+gin2	gig[unit]	N	N	D	I-COUNT	*	*	*	*	*
+...	_[_]	PN	N	D	I-COUNT	*	*	*	*	*
+ku3-sig17	kugsig[gold]	N	N	D	B-COM	_	_	_	_	_
+szu-gur-kur2-kur2-ra	_	N	N	POS	_	_	_	_	_	_
+...	_[_]	PN	N	D	_	_	_	_	_	_
+ki	ki[place]	N	N	D	_	_	_	_	_	_
+ARAD2-{d}nanna-ta	_	PN	PN.GEN.GEN.ABL	Iabcdef	_	_	_	_	_	_
+a-hu-wa-qar	Ahuwaqar[1][-e]	PN	PN	D	_	_	_	_	_	_
+...	_[_]	PN	N	D	_	_	_	_	_	_
+szu	szu[hand][-e]	N	N.L3-NH	D	_	_	_	_	_	_
+ba-ti	ba[-n]-teg[accept][-ø]	V	MID.3-SG-H-A.V.3-SG-P	D	_	_	_	_	_	_
+iti	iti[month]	N	N	D	_	_	_	_	_	_
+u5-bi2-gu7	Ubigu[1][-'a]	MN	MN.L1	D	_	_	_	_	_	_
+mu	mu[year]	N	N	D	_	_	_	_	_	_
+{d}i-bi2-{d}suen	Ibbisuen[1]	RN	RN	D	_	_	_	_	_	_
+lugal	lugal[king]	N	N	D	_	_	_	_	_	_
+uri5{ki}-ma-ra	_	SN	SN.GEN.GEN	Iabcdef	_	_	_	_	_	_
+mar-tu	Martu[1][-ø]	EN	EN.ABS	D	_	_	_	_	_	_
+a2	a[time]	N	N	D	_	_	_	_	_	_
+IM	_			POS	_	_	_	_	_	_
+u18	_	V	V	POS	_	_	_	_	_	_
+ul-ta	_	N	N	POS	_	_	_	_	_	_
+iri{ki}	_	N	N.3-SG-H-POSS.ABS	Iabcdefg	_	_	_	_	_	_
+nu-zu	_	V	NEG.NF.V.PT.TERM.GEN.ABS	Iabcdefg	_	_	_	_	_	_
+gu2	gun[unit]	N	N	D	_	_	_	_	_	_
+im-ma-an-ga2-ar	_	V	V	POS	_	_	_	_	_	_

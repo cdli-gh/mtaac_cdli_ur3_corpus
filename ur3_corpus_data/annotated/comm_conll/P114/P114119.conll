@@ -1,0 +1,23 @@
+#new_text=P114119					
+FORM	SEGM	XPOSTAG	XPOSTAG	POS	B-COUNT	l	60	"liquid	*	*
+2(disz)	2(disz)[one]	NU	NU	D	I-COUNT	*	*	*	sila3	60
+dug	dug[pot]	N	N	D	I-COUNT	*	*	*	*	*
+dida	dida[sweet_wort]	N	N	D	B-COM	_	_	_	_	_
+du	gin[quality_designation][-ø]	V	NF.V.ABS	D	_	_	_	_	_	_
+*RETOK*-capacity"	?	?	?	?	B-COUNT	l	60	"dry	*	*
+1(barig)	1(bariga)[unit]	NU	N	D	I-COUNT	*	*	*	sila3	60
+dabin	dabin[semolina]	N	N	D	_	_	_	_	_	_
+lugal	lugal[king]	N	N	D	_	_	_	_	_	_
+*RETOK*-capacity"	?	?	?	?	B-COUNT	l	30	"dry	*	*
+3(ban2)	3(ban)[unit]	NU	N	D	I-COUNT	*	*	*	sila3	30
+zi3-gu	zidgu[flour_type]	N	N	D	B-COM	_	_	_	_	_
+*RETOK*-capacity"	?	?	?	?	B-COUNT	l	30	"dry	*	*
+3(ban2)	3(ban)[unit]	NU	N	D	I-COUNT	*	*	*	sila3	30
+zi3	zid[flour]	N	N	D	_	_	_	_	_	_
+sig15	sig[flour_type]	V	N	D	_	_	_	_	_	_
+hu-gu4-...	_	PN	PN	Iabcdefgh	_	_	_	_	_	_
+lugal	lugal[king]	N	N	D	_	_	_	_	_	_
+(x)	_[_]	N	N	POS	_	_	_	_	_	_
+a-sza3	aszag[field]	N	N	D	_	_	_	_	_	_
+dab5-de3	_	V	V	POS	_	_	_	_	_	_
+i3-im-gen-na	_	PN	PN	POS	_	_	_	_	_	_

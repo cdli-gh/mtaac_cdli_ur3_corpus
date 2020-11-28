@@ -1,0 +1,24 @@
+#new_text=P142544					
+FORM	SEGM	XPOSTAG	XPOSTAG	POS	?	?	?	?	?	?
+x	_[_]	N	N	D	_	_	_	_	_	_
+x	_[_]	N	N	D	_	_	_	_	_	_
+...	_[_]	PN	N	D	_	_	_	_	_	_
+1(u)	1(u)[ten]	NU	NU	D	B-COUNT	g	5000.0	weight	gin2	600
+ma-na	mana[unit]	N	N	D	I-COUNT	*	*	*	*	*
+ku3-babbar	kugbabbar[silver]	N	N	D	B-COM	_	_	_	_	_
+ba-an-de6	_	V	MID.V.3-SG-S	Iab	_	_	_	_	_	_
+ur-{d}dumu-zi-da	Urdumuzida[1][-e]	PN	PN.GEN.ABS	D	_	_	_	_	_	_
+ba-du3	ba-du[build][-ø]	V	MID.V.3-SG-S	D	_	_	_	_	_	_
+ku3-mu	_	N	N	POS	_	_	_	_	_	_
+4(disz)	4(disz)[one]	NU	NU	D	B-COUNT	g	2000.0000000000002	weight	gin2	240
+ma-na	mana[unit]	N	N	D	I-COUNT	*	*	*	*	*
+mu	mu[year]	N	N	D	_	_	_	_	_	_
+1(disz)-am3	_	NU	NU.GEN.COP-3-SG	Iabcdef	B-COUNT	_	1	cardinal	_	1
+ki-za	_	N	N	Ia	_	_	_	_	_	_
+i3-gal2-am3	_	V	FIN.L1.V.3-SG-S	Iabcdefgh	B-COM	_	_	_	_	_
+in-na-du11	_	PN	PN	POS	_	_	_	_	_	_
+masz2	masz[goat]	N	N	D	_	_	_	_	_	_
+gar-ra	_	V	V	POS	_	_	_	_	_	_
+ma-a-...	_			POS	_	_	_	_	_	_
+x	_[_]	N	N	D	_	_	_	_	_	_
+x	_[_]	N	N	D	_	_	_	_	_	_

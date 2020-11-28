@@ -1,0 +1,20 @@
+#new_text=P111326					
+FORM	SEGM	XPOSTAG	XPOSTAG	POS	?	?	?	?	?	?
+di	did[lawsuit]	N	N	D	_	_	_	_	_	_
+til-la	til[complete]-a	V	NF.V.PT	D	_	_	_	_	_	_
+1(disz)	1(disz)[one]	NU	NU	D	B-COUNT	_	1	cardinal	_	1
+nin-a-zu	Ninazu[1][-ra]	PN	PN.DAT-H	D	_	_	_	_	_	_
+dumu	dumu[child]	N	N	D	_	_	_	_	_	_
+lu2-dingir-ra	Ludingira[1][-ra]	PN	PN	D	_	_	_	_	_	_
+6(disz)	6(disz)[one][-sze]	NU	NU	D	B-COUNT	_	0.10833333333333334	cardinal	_	0.10833333333333334
+1/2(disz)	1/2(disz)[one]	NU	NU	D	I-COUNT	*	*	*	*	*
+gin2	gig[unit]	N	N	D	I-COUNT	*	*	*	*	*
+ku3-babbar	kugbabbar[silver]	N	N	D	B-COM	_	_	_	_	_
+sa10-ni-sze3	_	V	NF.V.3-SG-NH-POSS.GEN.GEN.TERM	Iabcdef	_	_	_	_	_	_
+szu-na-mu-gi4	_	PN	PN.GEN.ABL	Iabcdefgh	_	_	_	_	_	_
+sipa	sipa[shepherd]	N	N	D	_	_	_	_	_	_
+in-szi-sa10-a	_	PN	PN	POS	_	_	_	_	_	_
+x-ra-mu	_	PN	PN	POS	_	_	_	_	_	_
+x	_[_]	N	N	D	_	_	_	_	_	_
+...	_[_]	PN	N	D	_	_	_	_	_	_
+ka-ka-...	_	PN	PN	Iabcdefgh	_	_	_	_	_	_

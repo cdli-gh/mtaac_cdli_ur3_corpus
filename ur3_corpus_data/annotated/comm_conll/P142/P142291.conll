@@ -1,0 +1,16 @@
+#new_text=P142291					
+FORM	SEGM	XPOSTAG	XPOSTAG	POS	?	?	?	?	?	?
+si2-im-tum	_	N	N	POS	_	_	_	_	_	_
+lu2-{d}en-lil2-la2-ka	_	PN	PN.GEN.GEN	Iabcdef	_	_	_	_	_	_
+*RETOK*-capacity"	?	?	?	?	B-COUNT	l	0.5666666666666667	"liquid	*	*
+*RETOK*-capacity"	?	?	?	?	I-COUNT	l	0.5666666666666667	"dry	sila3	0.5666666666666667
+1/2(disz)	1/2(disz)[one]	NU	NU	D	I-COUNT	*	*	*	sila3	0.5666666666666667
+sila3	sila[unit]	N	N	D	I-COUNT	*	*	*	*	*
+4(disz)	4(disz)[one]	NU	NU	D	I-COUNT	*	*	*	*	*
+gin2	gig[unit]	N	N	D	I-COUNT	*	*	*	*	*
+i3-ib2-diri	_	PN	PN	POS	_	_	_	_	_	_
+si2-im-tum	_	N	N	POS	_	_	_	_	_	_
+ab-ba-gi-na	Abbagina[1]	PN	PN	D	_	_	_	_	_	_
+i3-gi-in	_	V	V	POS	_	_	_	_	_	_
+8(disz)	8(disz)[one]	NU	NU	D	B-COUNT	_	0.13333333333333333	cardinal	_	0.13333333333333333
+gin2	gig[unit]	N	N	D	I-COUNT	*	*	*	*	*

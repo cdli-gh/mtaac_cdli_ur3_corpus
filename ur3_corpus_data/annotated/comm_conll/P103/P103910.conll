@@ -1,0 +1,7 @@
+#new_text=P103910					
+FORM	SEGM	XPOSTAG	XPOSTAG	POS	?	?	?	?	?	?
+2(gesz2)	2(gesz)[sixty]	NU	NU	D	B-COUNT	_	160	cardinal	_	160
+4(u)	4(u)[ten]	NU	NU	D	I-COUNT	*	*	*	*	*
+kiszib3	kiszib[seal]	N	N	D	_	_	_	_	_	_
+4(disz)	4(disz)[one]	NU	NU	D	B-COUNT	_	4	cardinal	_	4
+im-sar-ra	_	V	V	POS	_	_	_	_	_	_

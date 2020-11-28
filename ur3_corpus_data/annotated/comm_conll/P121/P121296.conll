@@ -1,0 +1,21 @@
+#new_text=P121296					
+FORM	SEGM	XPOSTAG	XPOSTAG	POS	?	?	?	?	?	?
+2(disz)	2(disz)[one]	NU	NU	D	B-COUNT	_	2	cardinal	_	2
+{gesz}haszhur	_	N	N	Ia	B-COM	_	_	_	_	_
+gid2	gid[length]	V	N	D	_	_	_	_	_	_
+9(disz)	9(disz)[one]	NU	NU	D	B-COUNT	_	9	cardinal	_	9
+kusz3-ta	kusz[unit]-ta	N	N.ABL	D	_	_	_	_	_	_
+5(disz)	5(disz)[one]	NU	NU	D	B-COUNT	_	5	cardinal	_	5
+{gesz}haszhur	_	N	N	Ia	B-COM	_	_	_	_	_
+gid2	gid[length]	V	N	D	_	_	_	_	_	_
+6(disz)	6(disz)[one][-sze]	NU	NU	D	B-COUNT	_	6	cardinal	_	6
+kusz3-ta	kusz[unit]-ta	N	N.ABL	D	_	_	_	_	_	_
+1(disz)	1(disz)[one]	NU	NU	D	B-COUNT	_	1	cardinal	_	1
+{gesz}haszhur	_	N	N	Ia	B-COM	_	_	_	_	_
+gid2	gid[length]	V	N	D	_	_	_	_	_	_
+4(disz)	4(disz)[one]	NU	NU	D	B-COUNT	_	4.5	cardinal	_	4.5
+1/2(disz)	1/2(disz)[one]	NU	NU	D	I-COUNT	*	*	*	*	*
+kusz3-ta	kusz[unit]-ta	N	N.ABL	D	_	_	_	_	_	_
+ki	ki[place]	N	N	D	B-COM	_	_	_	_	_
+igi-si4-si4	_	PN	PN	Iabcdefgh	_	_	_	_	_	_
+gal2-la	gal[be]-a[-ø]	V	NF.V.PT	D	_	_	_	_	_	_

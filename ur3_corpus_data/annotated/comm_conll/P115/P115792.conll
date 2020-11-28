@@ -1,0 +1,16 @@
+#new_text=P115792					
+FORM	SEGM	XPOSTAG	XPOSTAG	POS	?	?	?	?	?	?
+...	_[_]	PN	N	D	_	_	_	_	_	_
+*RETOK*-capacity"	?	?	?	?	B-COUNT	l	5.166666666666667	"liquid	*	*
+*RETOK*-capacity"	?	?	?	?	I-COUNT	l	5.166666666666667	"dry	sila3	5.166666666666667
+5(disz)	5(disz)[one]	NU	NU	D	I-COUNT	*	*	*	sila3	5.166666666666667
+sila3	sila[unit]	N	N	D	I-COUNT	*	*	*	*	*
+1(u)	1(u)[ten]	NU	NU	D	I-COUNT	*	*	*	*	*
+gin2	gig[unit]	N	N	D	I-COUNT	*	*	*	*	*
+gesztin	gesztin[vine]	N	N	D	B-COM	_	_	_	_	_
+ki	ki[place]	N	N	D	_	_	_	_	_	_
+ur-ab-ba-ta	Uraba[1][-ak]-ta	PN	PN.GEN.ABL	D	_	_	_	_	_	_
+kiszib3	kiszib[seal]	N	N	D	_	_	_	_	_	_
+lu2-me-lam2	_	PN	PN.GEN.ABL	Iabcdefgh	_	_	_	_	_	_
+...	_[_]	PN	N	D	_	_	_	_	_	_
+x{ki}-sze3	_	SN	SN.TERM	Iab	_	_	_	_	_	_

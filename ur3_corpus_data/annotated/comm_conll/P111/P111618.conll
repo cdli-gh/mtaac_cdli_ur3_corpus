@@ -1,0 +1,26 @@
+#new_text=P111618					
+FORM	SEGM	XPOSTAG	XPOSTAG	POS	?	?	?	?	?	?
+1(gesz2)	1(gesz)[sixty]	NU	NU	D	B-COUNT	g	2100000.0	weight	gin2	252000
+1(u)	1(u)[ten]	NU	NU	D	I-COUNT	*	*	*	*	*
+gu2	gun[unit]	N	N	D	I-COUNT	*	*	*	*	*
+gu-nigin2	_	PN	PN	POS	B-COM	_	_	_	_	_
+pa-tar	_	PN	PN.GEN	Iabcdefgh	_	_	_	_	_	_
+ma2	ma[ship]	N	N	D	_	_	_	_	_	_
+lulim	_	V	V	POS	_	_	_	_	_	_
+udu	udu[sheep]	N	N	D	_	_	_	_	_	_
+u2	u[grass]	N	N	D	_	_	_	_	_	_
+SZE3-NE	_			POS	_	_	_	_	_	_
+ga2-nun	_	N	N	D	_	_	_	_	_	_
+{gesz}kiri6	kiri[orchard][-'a][-ø]	N	N	D	_	_	_	_	_	_
+{d}nin-mar{ki}-ta	Ninmar[1][-ak]-ta	SN	SN.GEN.ABL	D	_	_	_	_	_	_
+{d}utu-ug3-e	_	PN	PN.ERG	Iab	_	_	_	_	_	_
+szu	szu[hand][-e]	N	N.L3-NH	D	_	_	_	_	_	_
+ba-ti	ba[-n]-teg[accept][-ø]	V	MID.3-SG-H-A.V.3-SG-P	D	_	_	_	_	_	_
+giri3	giri[foot]	N	N	D	_	_	_	_	_	_
+al-la	Alla[1]	PN	PN	D	_	_	_	_	_	_
+u3	u[and]	CNJ	CNJ	D	_	_	_	_	_	_
+x-{d}nin-gir2-su	_	PN	PN.DAT-H	Iabcdefgh	_	_	_	_	_	_
+iti	iti[month]	N	N	D	_	_	_	_	_	_
+ezem-{d}ba-ba6	Ezembaba[1][-'a]	MN	MN.L1	D	_	_	_	_	_	_
+mu	mu[year]	N	N	D	_	_	_	_	_	_
+...	_[_]	PN	N	D	_	_	_	_	_	_

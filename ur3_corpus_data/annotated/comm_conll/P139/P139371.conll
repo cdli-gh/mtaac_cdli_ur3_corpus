@@ -1,0 +1,14 @@
+#new_text=P139371					
+FORM	SEGM	XPOSTAG	XPOSTAG	POS	_	_	_	_	_	_
+e2-esz3-...	_	PN	PN.GEN	Iabc	_	_	_	_	_	_
+*RETOK*-x.	?	?	?	?	_	_	_	_	_	_
+ezem	ezem[festival]	N	N	D	_	_	_	_	_	_
+3(disz)	3(disz)[one]	NU	NU	D	B-COUNT	_	none	unknown	_	none
+...	_[_]	PN	N	D	I-COUNT	*	*	*	*	*
+*RETOK*-x.	?	?	?	?	_	_	_	_	_	_
+ki	ki[place]	N	N	D	B-COM	_	_	_	_	_
+lugal-u3-...	_	PN	PN.GEN	Iab	_	_	_	_	_	_
+*RETOK*-x.	?	?	?	?	_	_	_	_	_	_
+zi-ga	zig[expend]-a	V	NF.V.PT	D	_	_	_	_	_	_
+ki	ki[place]	N	N	D	_	_	_	_	_	_
+esz3-...	_	PN	PN.GEN	Iabcdefgh	_	_	_	_	_	_

@@ -1,0 +1,17 @@
+#new_text=P355993					
+FORM	SEGM	XPOSTAG	XPOSTAG	POS	B-COUNT	l	12	"liquid	*	*
+*RETOK*-capacity"	?	?	?	?	I-COUNT	l	12	"dry	sila3	12
+1(u)	1(u)[ten]	NU	NU	D	I-COUNT	*	*	*	sila3	12
+2(disz)	2(disz)[one]	NU	NU	D	I-COUNT	*	*	*	*	*
+sila3	sila[unit]	N	N	D	I-COUNT	*	*	*	*	*
+i3-szah2	iszah[lard][-ø]	N	N	D	B-COM	_	_	_	_	_
+geme2	geme[female_worker]	N	N	D	_	_	_	_	_	_
+dumu	dumu[child]	N	N	D	_	_	_	_	_	_
+ba-ab-szum2-esz	_	V	V	POS	_	_	_	_	_	_
+ki	ki[place]	N	N	D	_	_	_	_	_	_
+nig2-gur11	nigGA[property]	N	N	D	_	_	_	_	_	_
+dam-gar3-ta	_	N	N.GEN.ABL	Iabcdef	_	_	_	_	_	_
+giri3	giri[foot]	N	N	D	_	_	_	_	_	_
+du-du-gu-la	_	PN	PN	Ia	_	_	_	_	_	_
+iti	iti[month]	N	N	D	_	_	_	_	_	_
+sze-sag11-ku5	Szesagku[1][-'a]	MN	MN.L1	D	_	_	_	_	_	_

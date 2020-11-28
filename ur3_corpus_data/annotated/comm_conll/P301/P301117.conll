@@ -1,0 +1,22 @@
+#new_text=P301117					
+FORM	SEGM	XPOSTAG	XPOSTAG	POS	?	?	?	?	?	?
+2(asz)	2(asz)[one]	NU	NU	D	B-COUNT	*	*	*	*	*
+1(ban2)	1(ban)[unit]	NU	N	D	I-COUNT	*	*	*	*	*
+sze	sze[barley]	N	N	D	I-COUNT	*	*	*	*	*
+gur	gur[unit]	N	N	D	I-COUNT	*	*	*	*	*
+masz2	masz[goat]	N	N	D	B-COM	_	_	_	_	_
+nu-tuku	nu-tuku[acquire][-a]	V	NEG.NF.V.PT	D	_	_	_	_	_	_
+szuku	szukur[prebend_land]	N	N	D	_	_	_	_	_	_
+puzur4-ha-ia3	_	PN	PN	Ia	_	_	_	_	_	_
+apin-la2	apinla[tenancy]	N	N	D	_	_	_	_	_	_
+isz-me-dingir	_	PN	PN.GEN.ABS	D	_	_	_	_	_	_
+ugula-gesz2	_	N	N	POS	_	_	_	_	_	_
+ba-ba-tal	_	PN	PN	Iabcde	_	_	_	_	_	_
+nu-banda3	nubanda[overseer][-ø]	N	N	D	_	_	_	_	_	_
+puzur4-ha-ia3	_	PN	PN	Ia	_	_	_	_	_	_
+a-sza3	aszag[field]	N	N	D	_	_	_	_	_	_
+igi-sal-la	_	FN	FN	POS	_	_	_	_	_	_
+szu-{d}nin-szubur	_	DN	DN	POS	_	_	_	_	_	_
+dub-sar	dubsar[scribe]	N	N	D	_	_	_	_	_	_
+dumu	dumu[child]	N	N	D	_	_	_	_	_	_
+esz18-dar-nu-id	_	PN	PN	Iabc	_	_	_	_	_	_

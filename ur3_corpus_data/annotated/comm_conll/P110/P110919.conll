@@ -1,0 +1,27 @@
+#new_text=P110919					
+FORM	SEGM	XPOSTAG	XPOSTAG	POS	?	?	?	?	?	?
+lu2-usz-gi-na	_	PN	PN	D	_	_	_	_	_	_
+u3-na-a-du11	u-nn-a-e-dug[speak][-ø]	N	ANT.3-SG-H.DAT.2-SG-A.V.3-SG-P	D	_	_	_	_	_	_
+a2	a[time]	N	N	D	_	_	_	_	_	_
+ma2	ma[ship]	N	N	D	_	_	_	_	_	_
+hun-ga2	hug[hire]-a	V	NF.V.PT	D	_	_	_	_	_	_
+sze-gesz-i3	szegeszi[sesame_seed]	PN	N	D	_	_	_	_	_	_
+2(gesz2)	2(gesz)[sixty]	NU	NU	D	B-COUNT	_	135	cardinal	_	135
+1(u)	1(u)[ten]	NU	NU	D	I-COUNT	*	*	*	*	*
+5(asz)	5(asz)[one]	NU	NU	D	I-COUNT	*	*	*	*	*
+gur-am3	_	V	NF.V.ABS.ABS.COP-3-SG.DAT-H	Iabcde	_	_	_	_	_	_
+...-du	_[_]	PN	PN	Iabcde	_	_	_	_	_	_
+u3	u[and]	CNJ	CNJ	D	B-COM	_	_	_	_	_
+ur-{d}lamma	Urlamma[1]	PN	PN	D	_	_	_	_	_	_
+he2-ne-ab-szum2-mu	_	V	MOD.FIN.3-SG-H.DAT.3-SG-NH-P.V.3-SG-A	Iab	_	_	_	_	_	_
+gesz-i3	geszi[sesame]	N	N	D	_	_	_	_	_	_
+sa10-a-ba	_	V	NF.V.SUB.DEM2.GEN	Iabcdefg	_	_	_	_	_	_
+en3	en[word][-ø]	N	N.ABS	D	_	_	_	_	_	_
+i3-bi2-tar	_	V	V	POS	_	_	_	_	_	_
+ku3-bi-sze3	_	N	N.3-SG-H-POSS.TERM	Iabcdefg	_	_	_	_	_	_
+gin2	gig[unit]	N	N	D	_	_	_	_	_	_
+1(disz)-a	_	NU	NU.L1	Iab	B-COUNT	_	0.00018518518518518518	cardinal	_	0.00018518518518518518
+1(asz)	1(asz)[one]	NU	NU	D	I-COUNT	*	*	*	*	*
+sze	sze[barley]	N	N	D	I-COUNT	*	*	*	*	*
+gur-ta-am3	_	V	V	POS	_	_	_	_	_	_
+he2-eb2-ga2-ga2	_	V	NF.V.RDP.PF.F	Iabcdefghi	_	_	_	_	_	_

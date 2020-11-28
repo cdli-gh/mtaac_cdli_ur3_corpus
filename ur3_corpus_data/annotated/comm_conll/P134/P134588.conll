@@ -1,0 +1,24 @@
+#new_text=P134588					
+FORM	SEGM	XPOSTAG	XPOSTAG	POS	?	?	?	?	?	?
+1(disz)	1(disz)[one]	NU	NU	D	B-COUNT	_	1	cardinal	_	1
+u8	u[ewe]	N	N	D	B-COM	_	_	_	_	_
+sila4	sila[lamb]	N	N	D	_	_	_	_	_	_
+du3-a	du[build]-a	V	NF.V.PT	D	_	_	_	_	_	_
+1(disz)	1(disz)[one]	NU	NU	D	B-COUNT	_	1	cardinal	_	1
+ud5	uzud[goat]	N	N	D	_	_	_	_	_	_
+masz2	masz[goat]	N	N	D	_	_	_	_	_	_
+du3-a	du[build]-a	V	NF.V.PT	D	_	_	_	_	_	_
+1(disz)	1(disz)[one]	NU	NU	D	B-COUNT	_	1	cardinal	_	1
+udu-nita2	udunita[ram]	N	N	D	_	_	_	_	_	_
+1(disz)	1(disz)[one]	NU	NU	D	B-COUNT	_	1	cardinal	_	1
+masz2-gal	maszgal[billy_goat]	N	N	D	_	_	_	_	_	_
+gesz3	_	N	N	Ia	_	_	_	_	_	_
+du3-a	du[build]-a	V	NF.V.PT	D	_	_	_	_	_	_
+1(disz)	1(disz)[one]	NU	NU	D	B-COUNT	_	1	cardinal	_	1
+kir11	kir[female_lamb]	N	N	D	_	_	_	_	_	_
+gesz3	_	N	N	Ia	_	_	_	_	_	_
+nu-zu	_	V	NEG.NF.V.PT.TERM.GEN.ABS	Iabcdefg	_	_	_	_	_	_
+1(disz)	1(disz)[one]	NU	NU	D	B-COUNT	_	1	cardinal	_	1
+{munus}asz2-gar3	aszgar[female_kid]	PN	N	D	B-COM	_	_	_	_	_
+gesz3	_	N	N	Ia	_	_	_	_	_	_
+nu-zu	_	V	NEG.NF.V.PT.TERM.GEN.ABS	Iabcdefg	_	_	_	_	_	_

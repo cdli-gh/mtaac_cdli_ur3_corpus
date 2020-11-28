@@ -1,0 +1,15 @@
+#new_text=P108121					
+FORM	SEGM	XPOSTAG	XPOSTAG	POS	?	?	?	?	?	?
+1(disz)	1(disz)[one]	NU	NU	D	B-COUNT	_	1	cardinal	_	1
+gurusz	gurusz[male]	N	N	D	B-COM	_	_	_	_	_
+u4	ud[day]	N	N	D	_	_	_	_	_	_
+1(u)-sze3	1(u)[ten]-sze	NU	NU.TERM	D	B-COUNT	_	10	cardinal	_	10
+ki	ki[place]	N	N	D	B-COM	_	_	_	_	_
+lugal-e2-x	_	PN	PN	Ia	_	_	_	_	_	_
+gub-ba-am3	_	V	NF.V.PT.ABS.COP-3-SG	Iab	_	_	_	_	_	_
+a-sza3	aszag[field]	N	N	D	_	_	_	_	_	_
+GAN2-gu4-suhub2	_	N	N	POS	_	_	_	_	_	_
+lugal-e2-mah	_	PN	PN	Ia	_	_	_	_	_	_
+dub-sar	dubsar[scribe]	N	N	D	_	_	_	_	_	_
+dumu	dumu[child]	N	N	D	_	_	_	_	_	_
+lugal-ku3-ga-...	_	PN	PN.GEN	Ia	_	_	_	_	_	_

@@ -1,0 +1,15 @@
+#new_text=P115378					
+FORM	SEGM	XPOSTAG	XPOSTAG	POS	?	?	?	?	?	?
+5(disz)	5(disz)[one]	NU	NU	D	B-COUNT	_	5	cardinal	_	5
+giri3-lam	girlam[basket_type]	N	N	D	_	_	_	_	_	_
+{gesz}haszhur	_	N	N	Ia	B-COM	_	_	_	_	_
+*RETOK*-capacity"	?	?	?	?	B-COUNT	l	5	"liquid	*	*
+*RETOK*-capacity"	?	?	?	?	I-COUNT	l	5	"dry	sila3	5
+5(disz)	5(disz)[one]	NU	NU	D	I-COUNT	*	*	*	sila3	5
+sila3	sila[unit]	N	N	D	I-COUNT	*	*	*	*	*
+he2-su3-re6	_	V	V	POS	_	_	_	_	_	_
+4(disz)	4(disz)[one]	NU	NU	D	B-COUNT	_	4	cardinal	_	4
+giri3-lam	girlam[basket_type]	N	N	D	_	_	_	_	_	_
+ur-lugal-kaskal	_	PN	PN	Iabcde	_	_	_	_	_	_
+a-zu	_	N	N.TERM	Iabcdefgh	_	_	_	_	_	_
+zi-ga	zig[expend]-a	V	NF.V.PT	D	_	_	_	_	_	_

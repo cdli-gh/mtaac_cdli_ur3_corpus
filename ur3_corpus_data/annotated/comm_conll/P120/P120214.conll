@@ -1,0 +1,22 @@
+#new_text=P120214					
+FORM	SEGM	XPOSTAG	XPOSTAG	POS	?	?	?	?	?	?
+szu2	_	V	V	POS	_	_	_	_	_	_
+sag	sag[head]	N	N	D	_	_	_	_	_	_
+lum	_	V	V	POS	_	_	_	_	_	_
+ma2	ma[ship]	N	N	D	_	_	_	_	_	_
+lugal	lugal[king]	N	N	D	_	_	_	_	_	_
+*RETOK*-capacity"	?	?	?	?	B-COUNT	l	30	"liquid	*	*
+1(disz)	1(disz)[one]	NU	NU	D	I-COUNT	*	*	*	sila3	30
+dug	dug[pot]	N	N	D	I-COUNT	*	*	*	*	*
+szu2	_	V	V	POS	_	_	_	_	_	_
+ab2	ab[cow][-ø]	N	N	D	B-COM	_	_	_	_	_
+u4-da	ud[day]-ak[-'a]	N	N	D	_	_	_	_	_	_
+lal3	lal[syrup]	N	N	D	_	_	_	_	_	_
+x-{d}ba-ba6	_	PN	PN.DAT-H	Iabcdefgh	_	_	_	_	_	_
+szu	szu[hand][-e]	N	N.L3-NH	D	_	_	_	_	_	_
+ba-ti	ba[-n]-teg[accept][-ø]	V	MID.3-SG-H-A.V.3-SG-P	D	_	_	_	_	_	_
+giri3	giri[foot]	N	N	D	_	_	_	_	_	_
+ur-x-x-x	_[_]	PN	PN	Iabcde	_	_	_	_	_	_
+x	_[_]	N	N	D	_	_	_	_	_	_
+NI	_	PN	PN	POS	_	_	_	_	_	_
+x	_[_]	N	N	D	_	_	_	_	_	_

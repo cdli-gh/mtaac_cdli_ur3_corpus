@@ -1,0 +1,13 @@
+#new_text=P110859					
+FORM	SEGM	XPOSTAG	XPOSTAG	POS	B-COUNT	l	1.6666666666666665	"liquid	*	*
+*RETOK*-capacity"	?	?	?	?	I-COUNT	l	1.6666666666666665	"dry	sila3	1.6666666666666665
+1(disz)	1(disz)[one]	NU	NU	D	I-COUNT	*	*	*	sila3	1.6666666666666665
+2/3(disz)	2/3(disz)[one]	NU	NU	D	I-COUNT	*	*	*	*	*
+sila3	sila[unit]	N	N	D	I-COUNT	*	*	*	*	*
+i3-gesz	igesz[oil]	V	N	D	B-COM	_	_	_	_	_
+i3-ba	iba[oil_ration]	N	N	D	_	_	_	_	_	_
+geme2	geme[female_worker]	N	N	D	_	_	_	_	_	_
+nam-ra-ak	_	N	N.ADV	Iabcdefgh	_	_	_	_	_	_
+zi-ga	zig[expend]-a	V	NF.V.PT	D	_	_	_	_	_	_
+iti	iti[month]	N	N	D	_	_	_	_	_	_
+ezem-{d}dumu-zi	Ezemdumuzi[1][-'a]	MN	MN.L1	D	_	_	_	_	_	_

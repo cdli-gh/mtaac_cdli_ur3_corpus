@@ -1,0 +1,17 @@
+#new_text=P141788					
+FORM	SEGM	XPOSTAG	XPOSTAG	POS	?	?	?	?	?	?
+5(disz)	5(disz)[one]	NU	NU	D	B-COUNT	_	0.08333333333333333	cardinal	_	0.08333333333333333
+gin2	gig[unit]	N	N	D	I-COUNT	*	*	*	*	*
+la2	la[hang][-ø]	V	NF.V.ABS	D	I-COUNT	*	*	*	*	*
+igi-6(disz)-gal2	igi6(disz)[one]gal[fraction]	NU	NU	D	I-COUNT	*	*	*	*	*
+ku3-babbar	kugbabbar[silver]	N	N	D	B-COM	_	_	_	_	_
+ur-{d}ba-ba6-ke4	_	RN	RN	POS	_	_	_	_	_	_
+al-ba-ni-du11	_	PN	PN	Iabcdefgh	_	_	_	_	_	_
+in-da-an-tuku	_	V	V	POS	_	_	_	_	_	_
+u4	ud[day]	N	N	D	_	_	_	_	_	_
+4(disz)-kam-ma-ka	_	NU	NU.GEN.COP-3-SG.GEN.ABS	Iabcdefg	B-COUNT	_	4	cardinal	_	4
+su3-su3-da	_	V	V	POS	B-COM	_	_	_	_	_
+al-ba-ni-du11-ke4	_	PN	PN.GEN.ERG	Iabcdef	_	_	_	_	_	_
+mu	mu[year]	N	N	D	_	_	_	_	_	_
+lugal-bi	_	N	N	POS	_	_	_	_	_	_
+in-pa3	i-n-pad[name][-ø]	V	FIN.3-SG-H-A.V.3-SG-P	D	_	_	_	_	_	_

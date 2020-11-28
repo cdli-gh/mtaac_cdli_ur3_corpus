@@ -1,0 +1,10 @@
+#new_text=P105643					
+FORM	SEGM	XPOSTAG	XPOSTAG	POS	?	?	?	?	?	?
+szunigin	szunigin[total]	N	N	D	_	_	_	_	_	_
+5(szar2)	_	NU	NU	POS	B-COUNT	_	none	unknown	_	none
+2(bur'u)	_	NU	NU	POS	I-COUNT	*	*	*	*	*
+4(bur3)	4(bur)[unit]	NU	N	D	I-COUNT	*	*	*	*	*
+...	_[_]	PN	N	D	I-COUNT	*	*	*	*	*
+GAN2	gana[field]	N	N	D	I-COUNT	*	*	*	*	*
+a-sza3	aszag[field]	N	N	D	_	_	_	_	_	_
+suhusz-gi-na	_	PN	PN	Iabcdefgh	_	_	_	_	_	_

@@ -1,0 +1,25 @@
+#new_text=P210272					
+FORM	SEGM	XPOSTAG	XPOSTAG	POS	?	?	?	?	?	?
+5(u)	5(u)[ten]	NU	NU	D	B-COUNT	_	57	cardinal	_	57
+7(disz)	7(disz)[one][-sze]	NU	NU	D	I-COUNT	*	*	*	*	*
+{gesz}kab2-kul	kabkul[container][-ak]	PN	N.GEN	D	B-COM	_	_	_	_	_
+3(disz)	3(disz)[one]	NU	NU	D	B-COUNT	_	3	cardinal	_	3
+{gesz}a2	_	N	N	Ia	_	_	_	_	_	_
+apin	apin[plow]	N	N	D	_	_	_	_	_	_
+2(gesz2)	2(gesz)[sixty]	NU	NU	D	B-COUNT	_	122	cardinal	_	122
+2(disz)	2(disz)[one]	NU	NU	D	I-COUNT	*	*	*	*	*
+{gesz}zu2	_	N	N	Ia	_	_	_	_	_	_
+{gesz}GAN2-ur3	_	PN	PN	POS	_	_	_	_	_	_
+1(gesz2)	1(gesz)[sixty]	NU	NU	D	B-COUNT	_	111	cardinal	_	111
+5(u)	5(u)[ten]	NU	NU	D	I-COUNT	*	*	*	*	*
+1(disz)	1(disz)[one]	NU	NU	D	I-COUNT	*	*	*	*	*
+{gesz}zu2	_	N	N	Ia	_	_	_	_	_	_
+al	al[hoeing]	N	N	D	_	_	_	_	_	_
+1(disz)	1(disz)[one]	NU	NU	D	B-COUNT	_	1	cardinal	_	1
+a2	a[time]	N	N	D	_	_	_	_	_	_
+apin	apin[plow]	N	N	D	B-COM	_	_	_	_	_
+ur-{d}nin-gesz-zi-da	_	PN	PN.GEN.ABS	D	_	_	_	_	_	_
+1(disz)	1(disz)[one]	NU	NU	D	B-COUNT	_	1	cardinal	_	1
+a2	a[time]	N	N	D	_	_	_	_	_	_
+apin	apin[plow]	N	N	D	B-COM	_	_	_	_	_
+a2-sa6-ga	_	PN	PN	Iabcde	_	_	_	_	_	_

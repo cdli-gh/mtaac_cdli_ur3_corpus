@@ -1,0 +1,20 @@
+#new_text=P122234					
+FORM	SEGM	XPOSTAG	XPOSTAG	POS	B-COUNT	l	0.00324074074074074	"dry	*	*
+3(u)	3(u)[ten]	NU	NU	D	I-COUNT	*	*	*	sila3	0.00324074074074074
+5(asz)	5(asz)[one]	NU	NU	D	I-COUNT	*	*	*	*	*
+sze	sze[barley]	N	N	D	I-COUNT	*	*	*	*	*
+gur	gur[unit]	N	N	D	I-COUNT	*	*	*	*	*
+ki	ki[place]	N	N	D	_	_	_	_	_	_
+a-hu-a-a	_	PN	PN	Iabcde	_	_	_	_	_	_
+a-di	_	PN	PN	Ia	_	_	_	_	_	_
+ka-zal-lu{ki}	Kazallu[1][-ak][-ak][-ø]	SN	SN.GEN.ABS	D	_	_	_	_	_	_
+u-bar-um	_	PN	PN.GEN.ABL	Iabcdefgh	_	_	_	_	_	_
+szu	szu[hand][-e]	N	N.L3-NH	D	B-COM	_	_	_	_	_
+ba-ti	ba[-n]-teg[accept][-ø]	V	MID.3-SG-H-A.V.3-SG-P	D	_	_	_	_	_	_
+mu	mu[year]	N	N	D	_	_	_	_	_	_
+ma2-gur8-mah	magurmah[great_barge][-ø]	N	N.ABS	D	_	_	_	_	_	_
+mu-du3	mu[-n]-du[build][-ø]	V	VEN.3-SG-H-A.V.3-SG-P	D	_	_	_	_	_	_
+u-bar-um	_	PN	PN.GEN.ABL	Iabcdefgh	_	_	_	_	_	_
+muhaldim	_	N	N	D	_	_	_	_	_	_
+ARAD2	arad[slave]	N	N	D	_	_	_	_	_	_
+ru-ba-at	_	PN	PN	Iabcdefgh	_	_	_	_	_	_

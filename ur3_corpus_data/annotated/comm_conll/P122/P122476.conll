@@ -1,0 +1,17 @@
+#new_text=P122476					
+FORM	SEGM	XPOSTAG	XPOSTAG	POS	?	?	?	?	?	?
+3(u)	3(u)[ten]	NU	NU	D	B-COUNT	m	105	length	gi	35
+5(disz)	5(disz)[one]	NU	NU	D	I-COUNT	*	*	*	*	*
+gi	gi[reed][-ø]	N	N	D	I-COUNT	*	*	*	*	*
+NE	ne[unknown]	MN	MN	POS	B-COM	_	_	_	_	_
+gu-la2	_	V	NF.V.SUB	Iabcdefg	_	_	_	_	_	_
+ib2-tak4	_	N	N	POS	_	_	_	_	_	_
+ki	ki[place]	N	N	D	_	_	_	_	_	_
+lugal-me-lam2	Lugalmelam[1]	PN	PN	D	_	_	_	_	_	_
+mu	mu[year]	N	N	D	_	_	_	_	_	_
+lugal-bi	_	N	N	POS	_	_	_	_	_	_
+i3-pa3	i-pad[find][-ø]	V	FIN.V.3-SG-S	D	_	_	_	_	_	_
+iti	iti[month]	N	N	D	_	_	_	_	_	_
+szu-numun-ka	_	MN	MN.L1	Iabcdefgh	_	_	_	_	_	_
+ur-{d}nusku-ra	_	PN	PN.GEN.GEN	Iabcdef	_	_	_	_	_	_
+an-na-ab-szum2-mu	_	PN	PN.GEN.ABL	Iabcdefgh	_	_	_	_	_	_

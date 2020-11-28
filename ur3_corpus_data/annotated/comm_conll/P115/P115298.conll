@@ -1,0 +1,19 @@
+#new_text=P115298					
+FORM	SEGM	XPOSTAG	XPOSTAG	POS	B-COUNT	l	1.5	"liquid	*	*
+*RETOK*-capacity"	?	?	?	?	I-COUNT	l	1.5	"dry	sila3	1.5
+1(disz)	1(disz)[one]	NU	NU	D	I-COUNT	*	*	*	sila3	1.5
+1/2(disz)	1/2(disz)[one]	NU	NU	D	I-COUNT	*	*	*	*	*
+sila3	sila[unit]	N	N	D	I-COUNT	*	*	*	*	*
+i3-gesz	igesz[oil]	V	N	D	B-COM	_	_	_	_	_
+lu2-gu-la	Lugula[1][-ak][-ra]	PN	PN	D	_	_	_	_	_	_
+muhaldim	_	N	N	D	_	_	_	_	_	_
+u3	u[and]	CNJ	CNJ	D	_	_	_	_	_	_
+gu-za-ni	Guzani[1][-e]	PN	PN.GEN	D	_	_	_	_	_	_
+aga3-us2	aga'us[soldier]	N	N	D	_	_	_	_	_	_
+lugal	lugal[king]	N	N	D	_	_	_	_	_	_
+kar-ra	_	V	V	POS	_	_	_	_	_	_
+en-nu	ennug[guard][-ra]	PN	PN.DAT-H	D	_	_	_	_	_	_
+szu	szu[hand][-e]	N	N.L3-NH	D	_	_	_	_	_	_
+du8-a	du[spread][-a][-ø]	V	NF.V.PT.ABS	D	_	_	_	_	_	_
+iti	iti[month]	N	N	D	_	_	_	_	_	_
+ezem-{d}ba-ba6	Ezembaba[1][-'a]	MN	MN.L1	D	_	_	_	_	_	_

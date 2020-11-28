@@ -1,0 +1,20 @@
+#new_text=P142280					
+FORM	SEGM	XPOSTAG	XPOSTAG	POS	?	?	?	?	?	?
+2(gesz2)	2(gesz)[sixty]	NU	NU	D	B-COUNT	_	128	cardinal	_	128
+8(disz)	8(disz)[one]	NU	NU	D	I-COUNT	*	*	*	*	*
+{kusz}ummu3	ummud[waterskin]	N	N	D	B-COM	_	_	_	_	_
+gu2-na	gun[tax]-ak[-ø]	N	N.GEN	D	_	_	_	_	_	_
+siki	siki[wool][-'a]	N	N	D	_	_	_	_	_	_
+mu2	_	V	VEN.3-SG-H-A.V.3-SG-P.SUB.3-SG-H-POSS.GEN	Iabcdef	_	_	_	_	_	_
+kaskal	kaskal[journey][-sze]	N	N.TERM	D	_	_	_	_	_	_
+|BAD3.AN|{ki}-sze3	_	SN	SN.TERM	Iabcd	_	_	_	_	_	_
+de6-a	de[bring]-a	V	NF.V.PT	D	_	_	_	_	_	_
+kaskal	kaskal[journey][-sze]	N	N.TERM	D	_	_	_	_	_	_
+|BAD3.AN|{ki}-ta	Der[1]-ta	SN	SN.ABL	D	_	_	_	_	_	_
+gur-ra	gur[unit]-ak	V	NF.V.PT	D	_	_	_	_	_	_
+ba-hul	ba-hulu[destroy][-ø]	V	MID.V.3-SG-S	D	_	_	_	_	_	_
+ba-ra-zi	_	PN	PN	POS	_	_	_	_	_	_
+mu	mu[year]	N	N	D	_	_	_	_	_	_
+en	en[priest]	N	N	D	_	_	_	_	_	_
+eridu{ki}	Eridug[1][-ak][-ø]	SN	SN.GEN.ABS	D	_	_	_	_	_	_
+ba-hun	ba-hug[hire][-ø]	V	MID.V.3-SG-S	D	_	_	_	_	_	_

@@ -1,0 +1,15 @@
+#new_text=P121487					
+FORM	SEGM	XPOSTAG	XPOSTAG	POS	?	?	?	?	?	?
+...-gi-na	_	PN	PN	Iabcde	_	_	_	_	_	_
+...	_[_]	PN	N	D	_	_	_	_	_	_
+x	_[_]	N	N	D	_	_	_	_	_	_
+...	_[_]	PN	N	D	_	_	_	_	_	_
+*RETOK*-capacity"	?	?	?	?	B-COUNT	l	6000	"dry	*	*
+2(u)	2(u)[ten]	NU	NU	D	I-COUNT	*	*	*	sila3	6000
+gur	gur[unit]	N	N	D	I-COUNT	*	*	*	*	*
+...-nim-ma-tur-ta	_			POS	_	_	_	_	_	_
+...	_[_]	PN	N	D	_	_	_	_	_	_
+ha-mu-na-ab-szum2-mu	_	V	MOD.FIN.3-SG-H.DAT.3-SG-NH-P.V.3-SG-A	Iabcdefg	_	_	_	_	_	_
+a2-ag2-ga2	a'aga[news]	N	N	D	_	_	_	_	_	_
+ur-{d}nin-gubalag	_	PN	PN	Iabcdefgh	_	_	_	_	_	_
+x-kam	_(_)[_]-ak-am	NU	NU.GEN.COP-3-SG	D	_	_	_	_	_	_

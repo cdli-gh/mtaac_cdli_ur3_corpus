@@ -1,0 +1,16 @@
+#new_text=P115541					
+FORM	SEGM	XPOSTAG	XPOSTAG	POS	?	?	?	?	?	?
+6(disz)	6(disz)[one][-sze]	NU	NU	D	B-COUNT	_	none	unknown	_	none
+x	_[_]	N	N	D	I-COUNT	*	*	*	*	*
+x	_[_]	N	N	D	I-COUNT	*	*	*	*	*
+3(gesz2)	3(gesz)[sixty]	NU	NU	D	B-COUNT	_	198	cardinal	_	198
+1(u)	1(u)[ten]	NU	NU	D	I-COUNT	*	*	*	*	*
+8(disz)	8(disz)[one]	NU	NU	D	I-COUNT	*	*	*	*	*
+udu	udu[sheep]	N	N	D	B-COM	_	_	_	_	_
+nu-zu	_	V	NEG.NF.V.PT.TERM.GEN.ABS	Iabcdefg	_	_	_	_	_	_
+sila-ta	_	N	N.GEN.ABL	Iabcdef	_	_	_	_	_	_
+gur-ra	gur[unit]-ak	V	NF.V.PT	D	_	_	_	_	_	_
+pisan	bisag[basket]	N	N	D	_	_	_	_	_	_
+ab-ba-sa6-ga-sze3	_	PN	PN.GEN.TERM	Iabcdefg	_	_	_	_	_	_
+lu2-{d}utu-ra	_	PN	PN	POS	_	_	_	_	_	_
+gur-dam	_	V	V	POS	_	_	_	_	_	_

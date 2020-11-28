@@ -1,0 +1,18 @@
+#new_text=P454202					
+FORM	SEGM	XPOSTAG	XPOSTAG	POS	B-COUNT	l	30	"dry	*	*
+3(ban2)	3(ban)[unit]	NU	N	D	I-COUNT	*	*	*	sila3	30
+gazi	gazi[condiment]	N	N	D	B-COM	_	_	_	_	_
+da-tu	_	PN	PN	Iabcde	_	_	_	_	_	_
+*RETOK*-capacity"	?	?	?	?	B-COUNT	l	37	"dry	*	*
+3(ban2)	3(ban)[unit]	NU	N	D	I-COUNT	*	*	*	sila3	37
+7(disz)	7(disz)[one][-sze]	NU	NU	D	I-COUNT	*	*	*	*	*
+sila3	sila[unit]	N	N	D	I-COUNT	*	*	*	*	*
+gu2-tur	_	PN	PN	POS	B-COM	_	_	_	_	_
+ru-ba-tum	_	PN	PN	POS	_	_	_	_	_	_
+*RETOK*-capacity"	?	?	?	?	B-COUNT	l	23	"dry	*	*
+2(ban2)	2(ban)[unit]	NU	N	D	I-COUNT	*	*	*	sila3	23
+3(disz)	3(disz)[one]	NU	NU	D	I-COUNT	*	*	*	*	*
+sila3	sila[unit]	N	N	D	I-COUNT	*	*	*	*	*
+gu2-gal	gugala[chickpea][-ak]	PN	N	D	_	_	_	_	_	_
+ar3-ra	_	V	V	POS	_	_	_	_	_	_
+u-bar-tum	_	PN	PN	Iabc	_	_	_	_	_	_

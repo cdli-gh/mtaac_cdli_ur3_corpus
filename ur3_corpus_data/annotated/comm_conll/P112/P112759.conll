@@ -1,0 +1,26 @@
+#new_text=P112759					
+FORM	SEGM	XPOSTAG	XPOSTAG	POS	B-COUNT	l	0.0004629629629629629	"dry	*	*
+5(asz)	5(asz)[one]	NU	NU	D	I-COUNT	*	*	*	sila3	0.0004629629629629629
+sze	sze[barley]	N	N	D	I-COUNT	*	*	*	*	*
+gur	gur[unit]	N	N	D	I-COUNT	*	*	*	*	*
+{d}nanna-zi-zi	_	PN	PN	Iabcdefgh	_	_	_	_	_	_
+lu2-{d}nansze	Lunansze[1]	PN	PN	D	_	_	_	_	_	_
+szesz-a-ni	Szeszani[1][-ak]	PN	PN	D	_	_	_	_	_	_
+i3-na-ab-su-su	_	PN	PN	POS	_	_	_	_	_	_
+iri	iri[city]	N	N	D	_	_	_	_	_	_
+x	_[_]	N	N	D	_	_	_	_	_	_
+x	_[_]	N	N	D	_	_	_	_	_	_
+ur-zu	Urzu[1][-ak][-ra]	PN	PN.GEN.DAT-H	D	B-COM	_	_	_	_	_
+maszkim	maszkim[administrator]	N	N.ABS	D	_	_	_	_	_	_
+*RETOK*-capacity"	?	?	?	?	B-COUNT	l	0.0004629629629629629	"dry	*	*
+5(asz)	5(asz)[one]	NU	NU	D	I-COUNT	*	*	*	sila3	0.0004629629629629629
+sze	sze[barley]	N	N	D	I-COUNT	*	*	*	*	*
+gur	gur[unit]	N	N	D	I-COUNT	*	*	*	*	*
+{d}nanna-mu-zi	_	PN	PN	Iabcdefgh	_	_	_	_	_	_
+lu2-{d}nansze	Lunansze[1]	PN	PN	D	_	_	_	_	_	_
+szesz-a-ni	Szeszani[1][-ak]	PN	PN	D	_	_	_	_	_	_
+i3(GAG)-na-ab-zu-zu	_	NU	NU	POS	_	_	_	_	_	_
+x-zu	_	PN	PN	Iabcde	_	_	_	_	_	_
+ezem-zu	_	N	N	POS	_	_	_	_	_	_
+ugula	ugula[overseer][-ø]	N	N	D	_	_	_	_	_	_
+szitim	_	N	N	Ia	_	_	_	_	_	_

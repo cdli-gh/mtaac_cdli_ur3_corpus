@@ -1,0 +1,11 @@
+#new_text=P500142					
+FORM	SEGM	XPOSTAG	XPOSTAG	POS	?	?	?	?	?	?
+1(disz)	1(disz)[one]	NU	NU	D	B-COUNT	_	1	cardinal	_	1
+ur-bur-bu-ra	_	PN	PN	Iabcde	_	_	_	_	_	_
+dumu	dumu[child]	N	N	D	_	_	_	_	_	_
+en-KA-a	_	PN	PN.GEN	Iab	_	_	_	_	_	_
+dingir-mu-ta2-bil3	_	PN	PN.GEN	Iab	_	_	_	_	_	_
+dumu	dumu[child]	N	N	D	_	_	_	_	_	_
+puzur4-esz18-dar	Puzureszdar[1][-ak][-ra]	PN	PN	D	_	_	_	_	_	_
+ugula	ugula[overseer][-ø]	N	N	D	_	_	_	_	_	_
+ga-ra	_	V	V	POS	_	_	_	_	_	_

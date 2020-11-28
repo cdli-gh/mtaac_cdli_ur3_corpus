@@ -1,0 +1,15 @@
+#new_text=P380135					
+FORM	SEGM	XPOSTAG	XPOSTAG	POS	B-COUNT	l	0.00648148148148148	"dry	*	*
+1(gesz2)	1(gesz)[sixty]	NU	NU	D	I-COUNT	*	*	*	sila3	0.00648148148148148
+1(u)	1(u)[ten]	NU	NU	D	I-COUNT	*	*	*	*	*
+sze	sze[barley]	N	N	D	I-COUNT	*	*	*	*	*
+gur	gur[unit]	N	N	D	I-COUNT	*	*	*	*	*
+lugal	lugal[king]	N	N	D	_	_	_	_	_	_
+sa2-du11	sadug[offerings]	N	N	D	_	_	_	_	_	_
+nin-dingir-ra	Nindingir[1]-ak	PN	PN.GEN	D	_	_	_	_	_	_
+kiszib3-bi	kiszib[seal]-bi[-ø]	N	N.3-SG-NH-POSS.ABS	D	B-COM	_	_	_	_	_
+7(disz)	7(disz)[one][-sze]	NU	NU	D	B-COUNT	_	7	cardinal	_	7
+a2-pi5-lum	_	PN	PN	Iabcde	_	_	_	_	_	_
+ur-{d}lamma-ke4	Urlamma[1]-e	PN	PN.ERG	D	_	_	_	_	_	_
+u3	u[and]	CNJ	CNJ	D	B-COM	_	_	_	_	_
+...	_[_]	PN	N	D	_	_	_	_	_	_

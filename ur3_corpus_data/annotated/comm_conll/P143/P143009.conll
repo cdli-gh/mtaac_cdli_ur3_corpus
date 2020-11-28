@@ -1,0 +1,21 @@
+#new_text=P143009					
+FORM	SEGM	XPOSTAG	XPOSTAG	POS	B-COUNT	l	90	"liquid	*	*
+3(disz)	3(disz)[one]	NU	NU	D	I-COUNT	*	*	*	sila3	90
+dug	dug[pot]	N	N	D	I-COUNT	*	*	*	*	*
+ze2-tu-ru-um	_	N	N	POS	_	_	_	_	_	_
+ka-tab-ba	kataba[double_mouth]	N	N	D	_	_	_	_	_	_
+nig2-dab5	nigdab[requisitions]	N	N	D	_	_	_	_	_	_
+ur3	ur[roof]	N	N	D	B-COM	_	_	_	_	_
+lugal	lugal[king]	N	N	D	_	_	_	_	_	_
+3(u)	3(u)[ten]	NU	NU	D	B-COUNT	_	30	cardinal	_	30
+{kusz}ummu3	ummud[waterskin]	N	N	D	B-COM	_	_	_	_	_
+lugal-ra-us2-sa	_	N	N	POS	_	_	_	_	_	_
+2(u)	2(u)[ten]	NU	NU	D	B-COUNT	_	20	cardinal	_	20
+{kusz}ummu3	ummud[waterskin]	N	N	D	B-COM	_	_	_	_	_
+giri3	giri[foot]	N	N	D	_	_	_	_	_	_
+x	_[_]	N	N	D	_	_	_	_	_	_
+ku3-{d}nin-gal	_	PN	PN	D	_	_	_	_	_	_
+mu	mu[year]	N	N	D	_	_	_	_	_	_
+us2-sa	us[follow]-a	V	NF.V.PT	D	_	_	_	_	_	_
+ki-masz{ki}	Kimasz[1]	SN	SN.ABS	D	_	_	_	_	_	_
+ba-hul	ba-hulu[destroy][-ø]	V	MID.V.3-SG-S	D	_	_	_	_	_	_

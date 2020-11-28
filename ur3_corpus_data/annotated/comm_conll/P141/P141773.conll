@@ -1,0 +1,13 @@
+#new_text=P141773					
+FORM	SEGM	XPOSTAG	XPOSTAG	POS	B-COUNT	l	10	"dry	*	*
+1(ban2)	1(ban)[unit]	NU	N	D	I-COUNT	*	*	*	sila3	10
+ku6	kud[fish]	N	N	D	B-COM	_	_	_	_	_
+ma-asz	_	V	V	POS	_	_	_	_	_	_
+zi-ga	zig[expend]-a	V	NF.V.PT	D	_	_	_	_	_	_
+*RETOK*-capacity"	?	?	?	?	B-COUNT	l	10	"dry	*	*
+1(ban2)	1(ban)[unit]	NU	N	D	I-COUNT	*	*	*	sila3	10
+ku6	kud[fish]	N	N	D	B-COM	_	_	_	_	_
+{gi}kaskal	kaskal[travel_basket]	N	N	D	_	_	_	_	_	_
+nin-ad-da-na-ka-na-ka	_	PN	PN	POS	_	_	_	_	_	_
+su	_	N	N	Ia	_	_	_	_	_	_
+ba-ti	ba[-n]-teg[accept][-ø]	V	MID.3-SG-H-A.V.3-SG-P	D	_	_	_	_	_	_

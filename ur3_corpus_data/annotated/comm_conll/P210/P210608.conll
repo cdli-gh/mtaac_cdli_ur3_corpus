@@ -1,0 +1,23 @@
+#new_text=P210608					
+FORM	SEGM	XPOSTAG	XPOSTAG	POS	?	?	?	?	?	?
+8(disz)	8(disz)[one]	NU	NU	D	B-COUNT	_	8	cardinal	_	8
+gesz-ur3	geszur[harrow]	N	N	D	_	_	_	_	_	_
+{gesz}asalx(|A.TU.NIR|)	_	N	N	Ia	B-COM	_	_	_	_	_
+ga2-nun	_	N	N	D	_	_	_	_	_	_
+kar-ra	_	V	V	POS	_	_	_	_	_	_
+ta	ta[unknown]	N	N	D	_	_	_	_	_	_
+ka-giri3-da	_	N	N.GEN	Iabcde	_	_	_	_	_	_
+i7	id[river]	N	N	D	_	_	_	_	_	_
+sal4{ki}-sze3	_	WN	WN	POS	_	_	_	_	_	_
+kiszib3	kiszib[seal]	N	N	D	_	_	_	_	_	_
+ur-{d}nu-musz-da	Urnumuszda[1][-ak][-ra]	PN	PN.GEN.DAT-H	D	_	_	_	_	_	_
+iti	iti[month]	N	N	D	_	_	_	_	_	_
+ezem-{d}szul-gi	Ezemszulgir[1][-'a]	MN	MN.L1	D	_	_	_	_	_	_
+mu	mu[year]	N	N	D	_	_	_	_	_	_
+bad3	bad[wall]	N	N	D	_	_	_	_	_	_
+mar-tu	Martu[1][-ø]	EN	EN.ABS	D	_	_	_	_	_	_
+ba-du3	ba-du[build][-ø]	V	MID.V.3-SG-S	D	_	_	_	_	_	_
+ur-{d}nu-musz-da	Urnumuszda[1][-ak][-ra]	PN	PN.GEN.DAT-H	D	_	_	_	_	_	_
+dub-sar	dubsar[scribe]	N	N	D	_	_	_	_	_	_
+dumu	dumu[child]	N	N	D	_	_	_	_	_	_
+lugal-gu4-e	_	PN	PN	Iabcdefgh	_	_	_	_	_	_

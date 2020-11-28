@@ -1,0 +1,16 @@
+#new_text=P110303					
+FORM	SEGM	XPOSTAG	XPOSTAG	POS	?	?	?	?	?	?
+2(bur3)	2(bur)[unit]	NU	N	D	B-COUNT	m^2	129600.0	surface	gin2	216000
+GAN2	gana[field]	N	N	D	I-COUNT	*	*	*	*	*
+a-sza3	aszag[field]	N	N	D	_	_	_	_	_	_
+ul4-ul4	_	FN	FN	POS	_	_	_	_	_	_
+e2-babbar2	Ebabbar[1][-ak]	TN	TN.GEN	D	_	_	_	_	_	_
+szuku	szukur[prebend_land]	N	N	D	B-COM	_	_	_	_	_
+dab5-ba	dab[seize]-a	V	N	D	_	_	_	_	_	_
+dub-sar	dubsar[scribe]	N	N	D	_	_	_	_	_	_
+e2-kiszib3-ba-ta	_	TN	TN	POS	_	_	_	_	_	_
+ur-{d}nin-gir2-su	_	PN	PN	D	_	_	_	_	_	_
+dub-sar	dubsar[scribe]	N	N	D	_	_	_	_	_	_
+zi-ga	zig[expend]-a	V	NF.V.PT	D	_	_	_	_	_	_
+lugal-ka	_	DN	N.GEN.GEN.ABS	D	_	_	_	_	_	_
+gi-ne2-dam	_	PN	PN.GEN	Iab	_	_	_	_	_	_

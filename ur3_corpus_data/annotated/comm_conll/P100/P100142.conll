@@ -1,0 +1,8 @@
+#new_text=P100142					
+FORM	SEGM	XPOSTAG	XPOSTAG	POS	B-COUNT	l	26	"dry	*	*
+2(ban2)	2(ban)[unit]	NU	N	D	I-COUNT	*	*	*	sila3	26
+6(disz)	6(disz)[one][-sze]	NU	NU	D	I-COUNT	*	*	*	*	*
+sila3	sila[unit]	N	N	D	I-COUNT	*	*	*	*	*
+u2-kur	_	PN	PN	Iabcdefgh	_	_	_	_	_	_
+lugal-pa-e3	Lugalpa’e[1]	PN	PN	D	_	_	_	_	_	_
+lugal-nig2-szu-nir-ra	_	PN	PN	Iabcde	_	_	_	_	_	_

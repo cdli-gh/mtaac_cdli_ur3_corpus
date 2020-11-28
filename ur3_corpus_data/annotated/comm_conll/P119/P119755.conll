@@ -1,0 +1,19 @@
+#new_text=P119755					
+FORM	SEGM	XPOSTAG	XPOSTAG	POS	?	?	?	?	?	?
+1(disz)	1(disz)[one]	NU	NU	D	B-COUNT	_	1	cardinal	_	1
+{d}utu-lagasz{ki}-e	_	DN	DN	POS	_	_	_	_	_	_
+dumu	dumu[child]	N	N	D	_	_	_	_	_	_
+mu-gi4	_	V	V	POS	_	_	_	_	_	_
+e2	e[house]	N	N	D	_	_	_	_	_	_
+{d}ga2-tum3-du10	_	DN	DN	D	_	_	_	_	_	_
+a-ga-am	_	N	N	POS	_	_	_	_	_	_
+{d}szul-sza3-ga-na	_	PN	PN	Iabcdefgh	_	_	_	_	_	_
+1(disz)	1(disz)[one]	NU	NU	D	B-COUNT	_	1	cardinal	_	1
+lu2-{d}nin-gir2-su	Luningirsu[1]	PN	PN	D	_	_	_	_	_	_
+x-x-x-x-ta	_	PN	PN.GEN.ABL	Iabcdef	_	_	_	_	_	_
+a-ga-am	_	N	N	POS	_	_	_	_	_	_
+{d}ig-alim	_	DN	DN	D	_	_	_	_	_	_
+x	_[_]	N	N	D	_	_	_	_	_	_
+im	im[clay][-ø]	N	N	D	B-COM	_	_	_	_	_
+...	_[_]	PN	N	D	_	_	_	_	_	_
+du7-du7-dam	_	V	NF.V.PT.ABS.COP-3-SG	Iabcdef	_	_	_	_	_	_

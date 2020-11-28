@@ -1,0 +1,11 @@
+#new_text=P118430					
+FORM	SEGM	XPOSTAG	XPOSTAG	POS	?	?	?	?	?	?
+iti	iti[month]	N	N	D	_	_	_	_	_	_
+udru{duru5}	_	N	N	Ia	_	_	_	_	_	_
+u4	ud[day]	N	N	D	_	_	_	_	_	_
+2(u)	2(u)[ten]	NU	NU	D	B-COUNT	_	26	cardinal	_	26
+6(disz)	6(disz)[one][-sze]	NU	NU	D	I-COUNT	*	*	*	*	*
+ba-zal	ba-zal[pass][-ø][-a][-'a]	V	MID.V.3-SG-S.SUB	D	_	_	_	_	_	_
+ur-tum-al	_	PN	PN.GEN.DAT-H	Iabcdef	_	_	_	_	_	_
+e2	e[house]	N	N	D	_	_	_	_	_	_
+ba-e-du	_	V	V	POS	_	_	_	_	_	_

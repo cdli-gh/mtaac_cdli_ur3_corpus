@@ -1,0 +1,20 @@
+#new_text=P127270					
+FORM	SEGM	XPOSTAG	XPOSTAG	POS	B-COUNT	l	4	"dry	*	*
+4(asz)	4(asz)[one]	NU	NU	D	I-COUNT	*	*	*	sila3	4
+sila3	sila[unit]	N	N	D	I-COUNT	*	*	*	*	*
+gur	gur[unit]	N	N	D	I-COUNT	*	*	*	*	*
+1(u)	1(u)[ten]	NU	NU	D	B-COUNT	_	16	cardinal	_	16
+6(disz)	6(disz)[one][-sze]	NU	NU	D	I-COUNT	*	*	*	*	*
+{gesz}geszimmar	gesznimbar[palm]	PN	N	D	B-COM	_	_	_	_	_
+7(disz)	7(disz)[one][-sze]	NU	NU	D	B-COUNT	_	7	cardinal	_	7
+geszimmar	gesznimbar[date_palm][-ak]	N	N.GEN	D	_	_	_	_	_	_
+zu2-lum	zulum[date]	N	N	D	B-COM	_	_	_	_	_
+su3	sug[empty][-ø]	V	NF.V.ABS.ABS	D	_	_	_	_	_	_
+...	_[_]	PN	N	D	_	_	_	_	_	_
+ki	ki[place]	N	N	D	_	_	_	_	_	_
+a2-la-la-ta	_	PN	PN.GEN.ABL	Iabcdef	_	_	_	_	_	_
+sila3	sila[unit]	N	N	D	_	_	_	_	_	_
+sa2-du11	sadug[offerings]	N	N	D	_	_	_	_	_	_
+u4	ud[day]	N	N	D	_	_	_	_	_	_
+1(disz)-kam	1(disz)[one]-ak-am	NU	NU.GEN.COP-3-SG	D	B-COUNT	_	1	cardinal	_	1
+...	_[_]	PN	N	D	_	_	_	_	_	_

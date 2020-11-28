@@ -1,0 +1,26 @@
+#new_text=P499343					
+FORM	SEGM	XPOSTAG	XPOSTAG	POS	?	?	?	?	?	?
+2(barig)	2(bariga)[unit]	NU	N	D	B-COUNT	*	*	*	*	*
+sze	sze[barley]	N	N	D	I-COUNT	*	*	*	*	*
+lu2-sa6-sa6-ga	_	PN	PN	Iabcde	_	_	_	_	_	_
+u2-IL2	_	PN	PN	Iabcde	_	_	_	_	_	_
+*RETOK*-capacity"	?	?	?	?	B-COUNT	l	120	"dry	*	*
+2(barig)	2(bariga)[unit]	NU	N	D	I-COUNT	*	*	*	sila3	120
+a-ne-nin-am3	_	DET	DET	POS	_	_	_	_	_	_
+dam	dam[spouse]	N	N	D	_	_	_	_	_	_
+a-na	_	DET	DET	POS	B-COM	_	_	_	_	_
+i3-bi2-KA-a	_	V	V	POS	_	_	_	_	_	_
+mu	mu[year]	N	N	D	_	_	_	_	_	_
+dumu-ni	dumu[child]-ani	N	N.3-SG-H-POSS	D	_	_	_	_	_	_
+5(disz)-am3	5(disz)[one][-ak]-am	NU	NU.GEN.COP-3-SG	D	B-COUNT	_	5	cardinal	_	5
+i3-DU-a-sze3	_	V	V	POS	_	_	_	_	_	_
+*RETOK*-capacity"	?	?	?	?	B-COUNT	l	30	"dry	*	*
+3(ban2)	3(ban)[unit]	NU	N	D	I-COUNT	*	*	*	sila3	30
+nin-e-ki-ag2	_	PN	PN.GEN.GEN	Iabcdefg	_	_	_	_	_	_
+dam	dam[spouse]	N	N	D	_	_	_	_	_	_
+mu	mu[year]	N	N	D	_	_	_	_	_	_
+dumu-ni	dumu[child]-ani	N	N.3-SG-H-POSS	D	_	_	_	_	_	_
+3(disz)-am3	3(disz)[one][-ø]-am	NU	NU.ABS.COP-3-SG	D	B-COUNT	_	3	cardinal	_	3
+u2-IL2	_	PN	PN	Iabcde	_	_	_	_	_	_
+{d}nansze	Nansze[1]	DN	DN	D	_	_	_	_	_	_
+i3-me-a-sze3	_	V	V	POS	B-COM	_	_	_	_	_

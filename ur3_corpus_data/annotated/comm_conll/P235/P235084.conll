@@ -1,0 +1,26 @@
+#new_text=P235084					
+FORM	SEGM	XPOSTAG	XPOSTAG	POS	?	?	?	?	?	?
+3(gesz'u)	3(gesz'u)[six_hundred]	NU	NU	D	B-COUNT	_	2300	cardinal	_	2300
+8(gesz2)	8(gesz2)[sixty]	NU	NU	D	I-COUNT	*	*	*	*	*
+2(u)	2(u)[ten]	NU	NU	D	I-COUNT	*	*	*	*	*
+sa	sa[bundle]	N	N	D	_	_	_	_	_	_
+1(u)	1(u)[ten]	NU	NU	D	B-COUNT	_	18	cardinal	_	18
+8(disz)-ta	_	NU	NU.ABL	Iab	I-COUNT	*	*	*	*	*
+gu-nigin2-bi	_	N	N.3-SG-NH-POSS.ABS	Iabcdefg	_	_	_	_	_	_
+2(gesz2)	2(gesz)[sixty]	NU	NU	D	B-COUNT	_	131	cardinal	_	131
+1(u)	1(u)[ten]	NU	NU	D	I-COUNT	*	*	*	*	*
+1(disz)-am3	_	NU	NU.GEN.COP-3-SG	Iabcdef	I-COUNT	*	*	*	*	*
+nu-banda3	nubanda[overseer][-ø]	N	N	D	_	_	_	_	_	_
+szu-{d}nin-szubur	_	DN	DN	POS	_	_	_	_	_	_
+ugula	ugula[overseer][-ø]	N	N	D	_	_	_	_	_	_
+ba-bi2-li2-a	_	PN	PN	Ia	_	_	_	_	_	_
+giri3	giri[foot]	N	N	D	_	_	_	_	_	_
+e2-a-su-ur	_	PN	PN	Iabcde	_	_	_	_	_	_
+szu-ma-ma	Szumama[1][-e]	PN	PN.DAT-H	D	_	_	_	_	_	_
+bu-u2-zu	_	PN	PN	Ia	_	_	_	_	_	_
+dingir-ra-bi2	Dingirrabi[1][-ra]	PN	PN.DAT-H	D	_	_	_	_	_	_
+u3	u[and]	CNJ	CNJ	D	B-COM	_	_	_	_	_
+ur-e-bu-ra	_	PN	PN	Iabcde	_	_	_	_	_	_
+mu	mu[year]	N	N	D	_	_	_	_	_	_
+si-mu-ru-um{ki}	Simurrum[1]	SN	SN.ABS	D	_	_	_	_	_	_
+ba-hul	ba-hulu[destroy][-ø]	V	MID.V.3-SG-S	D	_	_	_	_	_	_

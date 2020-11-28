@@ -1,0 +1,16 @@
+#new_text=P111389					
+FORM	SEGM	XPOSTAG	XPOSTAG	POS	?	?	?	?	?	?
+1(disz)	1(disz)[one]	NU	NU	D	B-COUNT	_	1	cardinal	_	1
+{d}utu-ik-sur2	_	RN	RN	POS	_	_	_	_	_	_
+ur-kisal-sze3	_	PN	PN	Ia	_	_	_	_	_	_
+pa3-da	Pada[1]	PN	NF.V.SUB	D	_	_	_	_	_	_
+in-szi-sa10-a	_	PN	PN	POS	_	_	_	_	_	_
+ur-kisal	_	PN	PN	D	_	_	_	_	_	_
+nu-u3-gi-in	_	V	NEG.FIN.3-SG-H-A.V.3-PL.SUB.ABS	Iabcdefghi	_	_	_	_	_	_
+ur-kisal	_	PN	PN	D	_	_	_	_	_	_
+nam-erim2-am3	_	N	N.ABS.COP-3-SG	Iabcde	_	_	_	_	_	_
+pa3-da	Pada[1]	PN	NF.V.SUB	D	_	_	_	_	_	_
+tug2	tug[textile]	N	N	D	B-COM	_	_	_	_	_
+in-ur3	_	V	3-NH.L2.3-SG-H-P.V.3-SG-A.SUB.ABS	Iabcdefghi	_	_	_	_	_	_
+1(disz)	1(disz)[one]	NU	NU	D	B-COUNT	_	none	unknown	_	none
+...	_[_]	PN	N	D	I-COUNT	*	*	*	*	*

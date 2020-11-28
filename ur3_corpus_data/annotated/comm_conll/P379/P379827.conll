@@ -1,0 +1,23 @@
+#new_text=P379827					
+*RETOK*-($	?	?	?	?	_	_	_	_	_	_
+FORM	SEGM	XPOSTAG	XPOSTAG	POS	_	_	_	_	_	_
+*RETOK*-space	?	?	?	?	_	_	_	_	_	_
+*RETOK*-$)	?	?	?	?	_	_	_	_	_	_
+szim	_	N	N	Ia	_	_	_	_	_	_
+i3	i[oil]	N	N	D	_	_	_	_	_	_
+*RETOK*-capacity"	?	?	?	?	B-COUNT	l	240	"liquid	*	*
+8(disz)	8(disz)[one]	NU	NU	D	I-COUNT	*	*	*	sila3	240
+dug	dug[pot]	N	N	D	I-COUNT	*	*	*	*	*
+tu7	tu[soup]	N	N	D	_	_	_	_	_	_
+szim	_	N	N	Ia	_	_	_	_	_	_
+i3	i[oil]	N	N	D	_	_	_	_	_	_
+za3-ga	_	N	N.GEN	D	_	_	_	_	_	_
+{d}nin-gir2-su-sze3	_	DN	DN.GEN.GEN.TERM	Iabcdefg	_	_	_	_	_	_
+ki	ki[place]	N	N	D	B-COM	_	_	_	_	_
+a-gi4-ta	_	PN	PN	POS	_	_	_	_	_	_
+ur-{d}sag-ku5	_	PN	PN.GEN	Iab	_	_	_	_	_	_
+szu	szu[hand][-e]	N	N.L3-NH	D	_	_	_	_	_	_
+ba-ti	ba[-n]-teg[accept][-ø]	V	MID.3-SG-H-A.V.3-SG-P	D	_	_	_	_	_	_
+mu	mu[year]	N	N	D	_	_	_	_	_	_
+{d}amar-{d}suen	Amarsuen[1]	RN	RN	D	_	_	_	_	_	_
+lugal	lugal[king]	N	N	D	_	_	_	_	_	_

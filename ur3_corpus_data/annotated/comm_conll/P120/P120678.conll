@@ -1,0 +1,9 @@
+#new_text=P120678					
+FORM	SEGM	XPOSTAG	XPOSTAG	POS	?	?	?	?	?	?
+6(disz)	6(disz)[one][-sze]	NU	NU	D	B-COUNT	_	6	cardinal	_	6
+ku6	kud[fish]	N	N	D	B-COM	_	_	_	_	_
+kun-zi	_	N	N	POS	_	_	_	_	_	_
+2(disz)	2(disz)[one]	NU	NU	D	B-COUNT	_	2	cardinal	_	2
+{gi}kaskal	kaskal[travel_basket]	N	N	D	_	_	_	_	_	_
+ku6	kud[fish]	N	N	D	_	_	_	_	_	_
+didli	didli[several][-ø][-ak]	V	NF.V.ABS	D	_	_	_	_	_	_

@@ -1,0 +1,25 @@
+#new_text=P122104					
+FORM	SEGM	XPOSTAG	XPOSTAG	POS	?	?	?	?	?	?
+1(gesz2)	1(gesz)[sixty]	NU	NU	D	B-COUNT	_	68	cardinal	_	68
+8(disz)	8(disz)[one]	NU	NU	D	I-COUNT	*	*	*	*	*
+{uruda}kul-ul	_	N	N	POS	B-COM	_	_	_	_	_
+ki-la2-bi	kila[weight]-bi[-ø]	N	N.3-SG-NH-POSS.ABS	D	_	_	_	_	_	_
+3(u)	3(u)[ten]	NU	NU	D	B-COUNT	g	15250.000000000002	weight	gin2	1830.0
+1/2(disz)	1/2(disz)[one]	NU	NU	D	I-COUNT	*	*	*	*	*
+ma-na	mana[unit]	N	N	D	I-COUNT	*	*	*	*	*
+ur-{d}lamma-ke4	Urlamma[1]-e	PN	PN.ERG	D	_	_	_	_	_	_
+in-la2	i-n-la[weigh][-esz]	V	FIN.3-SG-H-A.V.3-SG-P	D	_	_	_	_	_	_
+{gesz}ig	ig[door]	N	N	D	B-COM	_	_	_	_	_
+e2	e[house]	N	N	D	_	_	_	_	_	_
+ku3-ga	_	PN	PN.GEN.GEN	Iabcdef	_	_	_	_	_	_
+a2	a[time]	N	N	D	_	_	_	_	_	_
+kisal	_	N	N	POS	_	_	_	_	_	_
+a-bi	_	PN	PN.GEN.ABS	Iabcdef	_	_	_	_	_	_
+iti	iti[month]	N	N	D	_	_	_	_	_	_
+e2-iti-6(disz)	E'iti6[1][-'a]	NU	MN.L1	D	_	_	_	_	_	_
+mu	mu[year]	N	N	D	_	_	_	_	_	_
+{d}szu-{d}suen	Szusuen[1]	RN	RN	D	_	_	_	_	_	_
+lugal-e	lugal[king]-e	N	N.ERG	D	_	_	_	_	_	_
+ma-da	mada[land][-ak][-ø]	N	N	D	_	_	_	_	_	_
+za-ab-sza-li{ki}	Zabszali[1][-ak][-ø]	GN	SN.GEN.ABS	D	_	_	_	_	_	_
+mu-hul-a	_	V	VEN.3-SG-H-A.V.3-SG-P.SUB.L1	D	_	_	_	_	_	_

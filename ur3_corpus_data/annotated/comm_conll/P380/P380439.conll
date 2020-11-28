@@ -1,0 +1,13 @@
+#new_text=P380439					
+FORM	SEGM	XPOSTAG	XPOSTAG	POS	B-COUNT	l	30	"liquid	*	*
+1(disz)	1(disz)[one]	NU	NU	D	I-COUNT	*	*	*	sila3	30
+dug	dug[pot]	N	N	D	I-COUNT	*	*	*	*	*
+kaskal	kaskal[journey][-sze]	N	N.TERM	D	_	_	_	_	_	_
+i3-du10-ga	_	V	V	POS	_	_	_	_	_	_
+lu2-mah-ta	_	PN	PN	Iabcdefgh	_	_	_	_	_	_
+*RETOK*-capacity"	?	?	?	?	B-COUNT	l	30	"liquid	*	*
+1(disz)	1(disz)[one]	NU	NU	D	I-COUNT	*	*	*	sila3	30
+dug	dug[pot]	N	N	D	I-COUNT	*	*	*	*	*
+za3-esz2-la2	_	N	N	Ia	_	_	_	_	_	_
+i3-nun	inun[ghee]	PN	N	D	B-COM	_	_	_	_	_
+mu-kux(DU)	mukur[delivery][-ø]	N	N	D	_	_	_	_	_	_

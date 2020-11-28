@@ -1,0 +1,26 @@
+#new_text=P291593					
+FORM	SEGM	XPOSTAG	XPOSTAG	POS	B-COUNT	l	60	"dry	*	*
+1(barig)	1(bariga)[unit]	NU	N	D	I-COUNT	*	*	*	sila3	60
+ku6	kud[fish]	N	N	D	B-COM	_	_	_	_	_
+suhur	suhur[carp]	N	N	D	_	_	_	_	_	_
+sza3-bar	_	N	N	Ia	_	_	_	_	_	_
+*RETOK*-capacity"	?	?	?	?	B-COUNT	l	60	"dry	*	*
+1(barig)	1(bariga)[unit]	NU	N	D	I-COUNT	*	*	*	sila3	60
+ku6	kud[fish]	N	N	D	_	_	_	_	_	_
+kun-zi	_	N	N	POS	_	_	_	_	_	_
+ge6-na-mu	_	PN	PN	Iabcdefgh	_	_	_	_	_	_
+u3	u[and]	CNJ	CNJ	D	B-COM	_	_	_	_	_
+ha-la-{d}lamma	_	PN	PN	D	_	_	_	_	_	_
+u3	u[and]	CNJ	CNJ	D	_	_	_	_	_	_
+esz3-e-ki-ag2	_	PN	PN.GEN	Iabcdefgh	_	_	_	_	_	_
+mu-kux(DU)	mukur[delivery][-ø]	N	N	D	_	_	_	_	_	_
+a-sza3	aszag[field]	N	N	D	_	_	_	_	_	_
+szu-nu-kusz2-a	_	FN	FN	POS	_	_	_	_	_	_
+dingir-ra-ke4	_	PN	PN.GEN	Iabcdef	_	_	_	_	_	_
+szu	szu[hand][-e]	N	N.L3-NH	D	_	_	_	_	_	_
+ba-ti	ba[-n]-teg[accept][-ø]	V	MID.3-SG-H-A.V.3-SG-P	D	_	_	_	_	_	_
+iti	iti[month]	N	N	D	_	_	_	_	_	_
+{d}dumu-zi-da	_	DN	DN	POS	_	_	_	_	_	_
+mu	mu[year]	N	N	D	_	_	_	_	_	_
+2(disz)-kam	2(disz)[one]-ak-am	NU	NU.GEN.COP-3-SG	D	B-COUNT	_	2	cardinal	_	2
+us2	us[follow][-ø]	V	NF.V.ABS	D	B-COM	_	_	_	_	_

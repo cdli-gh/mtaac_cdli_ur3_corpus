@@ -1,0 +1,14 @@
+#new_text=P211867					
+FORM	SEGM	XPOSTAG	XPOSTAG	POS	?	?	?	?	?	?
+4(barig)	4(bariga)[unit]	NU	N	D	B-COUNT	*	*	*	*	*
+3(ban2)	3(ban)[unit]	NU	N	D	I-COUNT	*	*	*	*	*
+sze	sze[barley]	N	N	D	I-COUNT	*	*	*	*	*
+gur	gur[unit]	N	N	D	I-COUNT	*	*	*	*	*
+lugal	lugal[king]	N	N	D	_	_	_	_	_	_
+lu2-{d}er3-ra	_	PN	PN	Ia	_	_	_	_	_	_
+u3-na-du11	_	N	N	POS	_	_	_	_	_	_
+ur-nigar{gar}-ke4	_	PN	PN.GEN.ERG	Iabcdefg	_	_	_	_	_	_
+na-ab-be2-a	_	V	V	POS	_	_	_	_	_	_
+lu2-{d}nin-ildu3-ma	_	PN	PN.GEN	Iab	_	_	_	_	_	_
+x	_[_]	N	N	D	_	_	_	_	_	_
+he2-na-ab-szum2-mu	ha-i-nn-a-b-szum[give]-e	V	MOD.FIN.3-SG-H.DAT.3-SG-NH-P.V.3-SG-A	D	_	_	_	_	_	_

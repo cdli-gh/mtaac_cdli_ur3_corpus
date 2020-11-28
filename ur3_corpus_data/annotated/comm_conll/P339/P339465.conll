@@ -1,0 +1,21 @@
+#new_text=P339465					
+FORM	SEGM	XPOSTAG	XPOSTAG	POS	?	?	?	?	?	?
+5(asz)	5(asz)[one]	NU	NU	D	B-COUNT	_	5	cardinal	_	5
+ku6	kud[fish]	N	N	D	B-COM	_	_	_	_	_
+gir2-us2	_	V	V	POS	_	_	_	_	_	_
+gu2-ba	gu[neck]-bi-'a	N	N.3-SG-NH-POSS.L1	D	_	_	_	_	_	_
+1(gesz2)-ta	_	NU	NU	Iabcdefgh	B-COUNT	_	60	cardinal	_	60
+i3-gal2	i[-ni]-gal[be][-ø]	V	FIN.L1.V.3-SG-S	D	_	_	_	_	_	_
+3(u)	3(u)[ten]	NU	NU	D	B-COUNT	_	36	cardinal	_	36
+6(asz)	6(asz)[one]	NU	NU	D	I-COUNT	*	*	*	*	*
+ku6-sze6	kusze[cooked_fish]	N	N	D	_	_	_	_	_	_
+gur	gur[unit]	N	N	D	_	_	_	_	_	_
+sza3-gal	szaggal[food]	N	N	D	_	_	_	_	_	_
+ur-ra	_	PN	PN.GEN.ABL	Iabcdefgh	B-COM	_	_	_	_	_
+ki	ki[place]	N	N	D	_	_	_	_	_	_
+nir-i3-da-gal2	Niridagal[1][-e]	AJ	PN.ERG	D	_	_	_	_	_	_
+giri3	giri[foot]	N	N	D	_	_	_	_	_	_
+ur-{d}ba-ba6	Urbaba[1]	PN	PN	D	_	_	_	_	_	_
+mu	mu[year]	N	N	D	_	_	_	_	_	_
+si-ma-num2{ki}	Simanum[1][-ø]	GN	SN.ABS	D	_	_	_	_	_	_
+ba-hul	ba-hulu[destroy][-ø]	V	MID.V.3-SG-S	D	_	_	_	_	_	_

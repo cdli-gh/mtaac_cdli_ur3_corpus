@@ -1,0 +1,14 @@
+#new_text=P118434					
+FORM	SEGM	XPOSTAG	XPOSTAG	POS	?	?	?	?	?	?
+1(szar'u)	_	NU	NU	POS	B-COUNT	_	52388	cardinal	_	52388
+4(szar2)	_	NU	NU	POS	I-COUNT	*	*	*	*	*
+3(gesz'u)	3(gesz'u)[six_hundred]	NU	NU	D	I-COUNT	*	*	*	*	*
+3(gesz2)	3(gesz)[sixty]	NU	NU	D	I-COUNT	*	*	*	*	*
+8(disz)	8(disz)[one]	NU	NU	D	I-COUNT	*	*	*	*	*
+sig4	szeg[brick]	N	N	D	_	_	_	_	_	_
+didli	didli[several][-ø][-ak]	V	NF.V.ABS	D	_	_	_	_	_	_
+murgu2-gesz	_	N	N	Ia	_	_	_	_	_	_
+gu2	gun[unit]	N	N	D	_	_	_	_	_	_
+i7	id[river]	N	N	D	_	_	_	_	_	_
+ka	kag[mouth]	N	N	D	_	_	_	_	_	_
+szid-da	szid[count]-a	V	NF.V.PT	D	_	_	_	_	_	_

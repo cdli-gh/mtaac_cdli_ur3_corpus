@@ -1,0 +1,21 @@
+#new_text=P312653					
+FORM	SEGM	XPOSTAG	XPOSTAG	POS	?	?	?	?	?	?
+2(u)	2(u)[ten]	NU	NU	D	B-COUNT	g	600000.0	weight	gin2	72000
+gu2	gun[unit]	N	N	D	I-COUNT	*	*	*	*	*
+nig2-ki-luh	_	N	N	Ia	B-COM	_	_	_	_	_
+ku3-bi	kug[silver]-bi[-ø]	N	N.3-SG-NH-POSS.ABS	D	_	_	_	_	_	_
+2(disz)	2(disz)[one]	NU	NU	D	B-COUNT	_	0.03333333333333333	cardinal	_	0.03333333333333333
+gin2	gig[unit]	N	N	D	I-COUNT	*	*	*	*	*
+mu	mu[year]	N	N	D	_	_	_	_	_	_
+bala-sze3	_	N	N	POS	_	_	_	_	_	_
+...	_[_]	PN	N	D	_	_	_	_	_	_
+mu-tum3-a-sze3	_	V	V	POS	_	_	_	_	_	_
+lu2-{d}nin-ur4-ra	Luninura[1][-ak]	PN	PN.GEN	D	_	_	_	_	_	_
+nu-{gesz}kiri6	_	N	N	D	B-COM	_	_	_	_	_
+su-su-dam	sug-sug[repay]-ed[-ø]-am	PN	NF.V.RDP.F.ABS.COP-3-SG	D	_	_	_	_	_	_
+mu	mu[year]	N	N	D	_	_	_	_	_	_
+{d}i-bi2-{d}suen	Ibbisuen[1]	RN	RN	D	_	_	_	_	_	_
+lugal-e	lugal[king]-e	N	N.ERG	D	_	_	_	_	_	_
+lu2-{d}nin-ur4-ra	Luninura[1][-ak]	PN	PN.GEN	D	_	_	_	_	_	_
+dumu	dumu[child]	N	N	D	_	_	_	_	_	_
+lugal-ti-da	_	PN	PN	Iabcdefgh	_	_	_	_	_	_

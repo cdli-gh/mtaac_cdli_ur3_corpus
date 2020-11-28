@@ -1,0 +1,27 @@
+#new_text=P133000					
+FORM	SEGM	XPOSTAG	XPOSTAG	POS	?	?	?	?	?	?
+tug2	tug[textile]	N	N	D	_	_	_	_	_	_
+zi-ni-mu	_	PN	PN	Iabcdefgh	_	_	_	_	_	_
+tug2	tug[textile]	N	N	D	_	_	_	_	_	_
+mun-a-ba	_	PN	PN	POS	_	_	_	_	_	_
+tug2	tug[textile]	N	N	D	_	_	_	_	_	_
+a-la-ku	_	PN	PN	Iabcde	_	_	_	_	_	_
+tug2	tug[textile]	N	N	D	_	_	_	_	_	_
+du-gu	_	PN	PN.GEN.GEN	Iabcdef	_	_	_	_	_	_
+tug2	tug[textile]	N	N	D	_	_	_	_	_	_
+mi-zi-ir-sza	_	PN	PN	POS	_	_	_	_	_	_
+szunigin	szunigin[total]	N	N	D	_	_	_	_	_	_
+5(disz)	5(disz)[one]	NU	NU	D	B-COUNT	_	5	cardinal	_	5
+gurusz	gurusz[male]	N	N	D	B-COM	_	_	_	_	_
+elam	Elam[1][-ak]	EN	GN.GEN	D	_	_	_	_	_	_
+1(disz)	1(disz)[one]	NU	NU	D	B-COUNT	_	1	cardinal	_	1
+tug2-ta	_	N	N.ABL	Iabcde	B-COM	_	_	_	_	_
+...	_[_]	PN	N	D	_	_	_	_	_	_
+elam	Elam[1][-ak]	EN	GN.GEN	D	_	_	_	_	_	_
+x-x-{d}suen-me	_	DN	DN	POS	_	_	_	_	_	_
+sza3	szag[heart]	N	N	D	_	_	_	_	_	_
+e2-gal	egal[palace][-ak][-'a]	N	N	D	_	_	_	_	_	_
+e2-gal	egal[palace][-ak][-'a]	N	N	D	_	_	_	_	_	_
+mu	mu[year]	N	N	D	_	_	_	_	_	_
+{d}i-bi2-{d}suen	Ibbisuen[1]	RN	RN	D	_	_	_	_	_	_
+lugal	lugal[king]	N	N	D	_	_	_	_	_	_

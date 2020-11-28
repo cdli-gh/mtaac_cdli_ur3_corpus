@@ -1,0 +1,15 @@
+#new_text=P332310					
+FORM	SEGM	XPOSTAG	XPOSTAG	POS	?	?	?	?	?	?
+ad-da-mu	Addamu[1][-ak]	PN	PN	D	_	_	_	_	_	_
+u3-na-du11	_	N	N	POS	_	_	_	_	_	_
+2(u)	2(u)[ten]	NU	NU	D	B-COUNT	_	20	cardinal	_	20
+gurusz	gurusz[male]	N	N	D	B-COM	_	_	_	_	_
+u4	ud[day]	N	N	D	_	_	_	_	_	_
+1(disz)-sze3	1(disz)[one]-sze	NU	NU.TERM	D	B-COUNT	_	1	cardinal	_	1
+sze-bi	sze[barley]-bi[-ø]	N	N.3-SG-NH-POSS.ABS	D	B-COM	_	_	_	_	_
+*RETOK*-capacity"	?	?	?	?	B-COUNT	l	120	"dry	*	*
+2(barig)	2(bariga)[unit]	NU	N	D	I-COUNT	*	*	*	sila3	120
+lugal	lugal[king]	N	N	D	_	_	_	_	_	_
+lu2-giri17-zal	Lugirizal[1][-ra]	PN	PN	D	_	_	_	_	_	_
+szabra	szabra[chief_administrator][-ak]	N	N	D	_	_	_	_	_	_
+he2-na-zi-zi	_	V	MOD.L1-SYN.V.ABS	Iabcdefg	_	_	_	_	_	_

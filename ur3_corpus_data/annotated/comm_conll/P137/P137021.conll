@@ -1,0 +1,32 @@
+#new_text=P137021					
+FORM	SEGM	XPOSTAG	XPOSTAG	POS	?	?	?	?	?	?
+6(disz)	6(disz)[one][-sze]	NU	NU	D	B-COUNT	_	0.10833333333333334	cardinal	_	0.10833333333333334
+1/2(disz)	1/2(disz)[one]	NU	NU	D	I-COUNT	*	*	*	*	*
+gin2	gig[unit]	N	N	D	I-COUNT	*	*	*	*	*
+uruda	urud[copper][-ak]	N	N	D	B-COM	_	_	_	_	_
+|USZxSA|	_	PN	PN	POS	_	_	_	_	_	_
+lu5-ha	_	PN	PN.GEN.GEN	Iabcde	_	_	_	_	_	_
+mu	mu[year]	N	N	D	_	_	_	_	_	_
+dur10-tab-ba-sze3	_	N	N	POS	_	_	_	_	_	_
+|USZxSA|	_	PN	PN	POS	_	_	_	_	_	_
+x	_[_]	N	N	D	_	_	_	_	_	_
+nam-dux(GIN2)-la2-a	_	V	V	POS	_	_	_	_	_	_
+a-hu-wa-qar	Ahuwaqar[1][-e]	PN	PN	D	_	_	_	_	_	_
+i3-la2	i[-n]-la[weigh][-ø]	PN	FIN.3-SG-H-A.V.3-SG-P	D	_	_	_	_	_	_
+iti	iti[month]	N	N	D	_	_	_	_	_	_
+ezem-{d}me-ki-gal2	Ezemmekigal[1]-['a]	MN	MN.L1	D	_	_	_	_	_	_
+u4	ud[day]	N	N	D	_	_	_	_	_	_
+7(disz)-kam	7(disz)[one]-ak-am[-'a]	NU	NU.GEN.COP-3-SG	D	B-COUNT	_	7	cardinal	_	7
+mu	mu[year]	N	N	D	_	_	_	_	_	_
+{d}i-bi2-{d}suen	Ibbisuen[1]	RN	RN	D	_	_	_	_	_	_
+lugal	lugal[king]	N	N	D	_	_	_	_	_	_
+uri5{ki}-ma-ra	_	SN	SN.GEN.GEN	Iabcdef	_	_	_	_	_	_
+mar-tu	Martu[1][-ø]	EN	EN.ABS	D	_	_	_	_	_	_
+a2	a[time]	N	N	D	_	_	_	_	_	_
+IM	_			POS	B-COM	_	_	_	_	_
+u18	_	V	V	POS	_	_	_	_	_	_
+ul-ta	_	N	N	POS	_	_	_	_	_	_
+iri{ki}	_	N	N.3-SG-H-POSS.ABS	Iabcdefg	_	_	_	_	_	_
+nu-zu	_	V	NEG.NF.V.PT.TERM.GEN.ABS	Iabcdefg	_	_	_	_	_	_
+gu2	gun[unit]	N	N	D	_	_	_	_	_	_
+im-ma-na-a-an-ga2-ar	_	V	V	POS	_	_	_	_	_	_

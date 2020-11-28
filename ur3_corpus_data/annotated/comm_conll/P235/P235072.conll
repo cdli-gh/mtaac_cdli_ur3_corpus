@@ -1,0 +1,20 @@
+#new_text=P235072					
+FORM	SEGM	XPOSTAG	XPOSTAG	POS	?	?	?	?	?	?
+3(disz)	3(disz)[one]	NU	NU	D	B-COUNT	_	0.0002777777777777778	cardinal	_	0.0002777777777777778
+sze	sze[barley]	N	N	D	I-COUNT	*	*	*	*	*
+szu	szu[hand][-e]	N	N.L3-NH	D	B-COM	_	_	_	_	_
+gurum2	gurum[inspection]	N	N	D	_	_	_	_	_	_
+ugur2-tur-a	_	PN	PN	Iabcdefgh	_	_	_	_	_	_
+ur-{d}szara2-ke4	_	RN	RN	POS	_	_	_	_	_	_
+i3-in-du8	_	PN	PN	POS	_	_	_	_	_	_
+igi	igi[eye][-ø]	N	N	D	_	_	_	_	_	_
+da-du-sze3	_	V	V	POS	_	_	_	_	_	_
+igi	igi[eye][-ø]	N	N	D	_	_	_	_	_	_
+{d}szara2-ba-sa6	_	PN	PN.DAT-H	Iabcdefgh	_	_	_	_	_	_
+igi	igi[eye][-ø]	N	N	D	_	_	_	_	_	_
+lugal-me-a	Lugalme'a[1]	PN	PN	D	_	_	_	_	_	_
+gala	_	V	NF.V.3-SG-NH-POSS.GEN	Iabcdef	_	_	_	_	_	_
+igi	igi[eye][-ø]	N	N	D	_	_	_	_	_	_
+lugal-iri-na	_	PN	PN.ERG	Iabcdefgh	_	_	_	_	_	_
+aga3-us2	aga'us[soldier]	N	N	D	_	_	_	_	_	_
+lugal-sze3	lugal[king][-ak]-sze	N	N.GEN.TERM	D	_	_	_	_	_	_

@@ -1,0 +1,12 @@
+#new_text=P202362					
+FORM	SEGM	XPOSTAG	XPOSTAG	POS	?	?	?	?	?	?
+3(u)	3(u)[ten]	NU	NU	D	B-COUNT	g	1140000.0	weight	gin2	136800
+8(asz)	8(asz)[one]	NU	NU	D	I-COUNT	*	*	*	*	*
+gu2	gun[unit]	N	N	D	I-COUNT	*	*	*	*	*
+mangaga(SU6)	_	V	V	POS	_	_	_	_	_	_
+8(asz)	8(asz)[one]	NU	NU	D	B-COUNT	g	240000.00000000003	weight	gin2	28800
+gu2	gun[unit]	N	N	D	I-COUNT	*	*	*	*	*
+pesz-murgu2	_	N	N	Ia	_	_	_	_	_	_
+a-a-kal-la	Ayakala[1]	PN	PN	D	_	_	_	_	_	_
+ensi2	ensik[ruler]	N	N	D	_	_	_	_	_	_
+umma{ki}	Umma[1][-ak][-ø]	SN	SN.GEN.ABS	D	_	_	_	_	_	_

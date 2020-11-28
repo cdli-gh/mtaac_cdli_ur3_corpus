@@ -1,0 +1,13 @@
+#new_text=P111724					
+FORM	SEGM	XPOSTAG	XPOSTAG	POS	?	?	?	?	?	?
+1(disz)	1(disz)[one]	NU	NU	D	B-COUNT	_	1	cardinal	_	1
+{gesz}szu-dim2	_	N	N.ABS	Iabcdefgh	B-COM	_	_	_	_	_
+ma2	ma[ship]	N	N	D	_	_	_	_	_	_
+gur	gur[unit]	N	N	D	_	_	_	_	_	_
+gesz2-da	_	N	N	POS	_	_	_	_	_	_
+{gesz}ig	ig[door]	N	N	D	_	_	_	_	_	_
+e2	e[house]	N	N	D	_	_	_	_	_	_
+{d}x	_[1]	DN	DN	D	_	_	_	_	_	_
+ki-nu-nir{ki}	Kinunir[1][-ak][-'a]	GN	SN.GEN.L1	D	_	_	_	_	_	_
+ki	ki[place]	N	N	D	_	_	_	_	_	_
+nam-mah-ta	_	PN	PN	Ia	_	_	_	_	_	_

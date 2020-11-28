@@ -1,0 +1,16 @@
+#new_text=P127002					
+FORM	SEGM	XPOSTAG	XPOSTAG	POS	?	?	?	?	?	?
+1(disz)	1(disz)[one]	NU	NU	D	B-COUNT	_	1	cardinal	_	1
+geme2-sukkal	_	PN	PN	Iabcde	_	_	_	_	_	_
+sag	sag[head]	N	N	D	_	_	_	_	_	_
+munus	munus[woman]	N	N	D	_	_	_	_	_	_
+nin-mu-ma-ag2	_	PN	PN	POS	_	_	_	_	_	_
+e2-bappir2	_	TN	TN.GEN	Iabcde	_	_	_	_	_	_
+...	_[_]	PN	N	D	_	_	_	_	_	_
+a-pi4-sal4{ki}-x	_	GN	GN	POS	_	_	_	_	_	_
+sag-ba-ni-ta	_	N	N	POS	_	_	_	_	_	_
+bi2-du11-ga	Biduga[1][-ak]	PN	PN.GEN	D	_	_	_	_	_	_
+u3	u[and]	CNJ	CNJ	D	B-COM	_	_	_	_	_
+lu2-tur-tur	Luturtur[1]	PN	PN	D	_	_	_	_	_	_
+en3-bi	en[word]-bi[-ø]	N	N.3-SG-H-POSS.ABS	D	_	_	_	_	_	_
+tar-re-dam	_	V	NF.V.F.ABS.COP-3-SG	Iabcdef	_	_	_	_	_	_

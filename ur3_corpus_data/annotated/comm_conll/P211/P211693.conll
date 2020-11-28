@@ -1,0 +1,24 @@
+#new_text=P211693					
+FORM	SEGM	XPOSTAG	XPOSTAG	POS	B-COUNT	l	10	"liquid	*	*
+*RETOK*-capacity"	?	?	?	?	I-COUNT	l	10	"dry	sila3	10
+1(u)	1(u)[ten]	NU	NU	D	I-COUNT	*	*	*	sila3	10
+sila3	sila[unit]	N	N	D	I-COUNT	*	*	*	*	*
+i3-gesz	igesz[oil]	V	N	D	B-COM	_	_	_	_	_
+*RETOK*-capacity"	?	?	?	?	B-COUNT	l	30	"dry	*	*
+3(ban2)	3(ban)[unit]	NU	N	D	I-COUNT	*	*	*	sila3	30
+zu2-lum	zulum[date]	N	N	D	_	_	_	_	_	_
+lugal	lugal[king]	N	N	D	_	_	_	_	_	_
+3(disz)	3(disz)[one]	NU	NU	D	B-COUNT	_	3	cardinal	_	3
+{gi}hal	hal[basket]	N	N	D	B-COM	_	_	_	_	_
+ku6	kud[fish]	N	N	D	_	_	_	_	_	_
+1(gesz2)	1(gesz)[sixty]	NU	NU	D	B-COUNT	_	60	cardinal	_	60
+ku6	kud[fish]	N	N	D	_	_	_	_	_	_
+kun-zi	_	N	N	POS	_	_	_	_	_	_
+*RETOK*-capacity"	?	?	?	?	B-COUNT	l	20	"dry	*	*
+2(ban2)	2(ban)[unit]	NU	N	D	I-COUNT	*	*	*	sila3	20
+gu2-gal-gal	_	PN	PN	POS	_	_	_	_	_	_
+ki	ki[place]	N	N	D	_	_	_	_	_	_
+si-NE-e-ta	_	PN	PN.GEN.ABL	Iabcdefgh	_	_	_	_	_	_
+sza3	szag[heart]	N	N	D	_	_	_	_	_	_
+kiszib3-ba	kiszib[seal]-a	V	N	D	B-COM	_	_	_	_	_
+lugal-di-ku5-zi	_	PN	PN	Iabcde	_	_	_	_	_	_

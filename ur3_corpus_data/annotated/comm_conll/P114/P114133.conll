@@ -1,0 +1,16 @@
+#new_text=P114133					
+FORM	SEGM	XPOSTAG	XPOSTAG	POS	?	?	?	?	?	?
+3(bur3)	3(bur)[unit]	NU	N	D	B-COUNT	m^2	194400.0	surface	gin2	324000
+GAN2	gana[field]	N	N	D	I-COUNT	*	*	*	*	*
+ur-lugal	Urlugal[1]	PN	PN	D	_	_	_	_	_	_
+2(asz)	2(asz)[one]	NU	NU	D	B-COUNT	_	2	cardinal	_	2
+dam	dam[spouse]	N	N	D	_	_	_	_	_	_
+lu5-lu5-mu	_	PN	PN.GEN.GEN	Iabcde	_	_	_	_	_	_
+2(asz)	2(asz)[one]	NU	NU	D	B-COUNT	_	2	cardinal	_	2
+ur-{d}iszkur	Uriszkur[1][-ra]	PN	PN	D	_	_	_	_	_	_
+dumu	dumu[child]	N	N	D	_	_	_	_	_	_
+nam-ha-ni	Namhani[1]	N	PN	D	_	_	_	_	_	_
+a2	a[time]	N	N	D	_	_	_	_	_	_
+i7	id[river]	N	N	D	_	_	_	_	_	_
+lugal-ka-ta	_	WN	WN	POS	_	_	_	_	_	_
+he2-ne-tum2-mu	_	V	MOD.FIN.3-SG-H.DAT.3-SG-NH-P.V.3-SG-A	Iab	_	_	_	_	_	_
